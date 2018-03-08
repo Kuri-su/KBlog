@@ -1,5 +1,7 @@
 # PHP SPL
+
 从手册上可以分成以下几个部分
+
 * 数据结构 `datastructures`
 * 迭代器
 * 接口
@@ -9,8 +11,9 @@
 * 其他的类以及接口
 
 ## 数据结构
-  > 描述待补  
-  > 按照 [php官方手册](http://php.net/manual/zh/spl.datastructures.php#spl.datastructures) 的顺序排列
+
+> 描述待补  
+> 按照 [php官方手册](http://php.net/manual/zh/spl.datastructures.php#spl.datastructures) 的顺序排列
 * SplDoublyLinkedList 双向链表
   它为 SplStack(栈) 和 SplQueue(队列) 提供了一个合适的实现
   > 补方法列表和注释
@@ -28,19 +31,19 @@
 * SplObjectStorage 对象存储
   > 感觉是先把对象序列化,然后获取哈希值之后再用散列表存储
   
-  ## 迭代器
+## 迭代器
+
+
+## 接口
+
+
+## 异常
+
+
+## SPL函数
+  > 例如 `Composer` 的类自动加载 就有用到 `spl_autoload_register` 这个 spl 函数
   
-  
-  ## 接口
-  
-  
-  ## 异常
-  
-  
-  ## SPL函数
-    > 例如 `Composer` 的类自动加载 就有用到 `spl_autoload_register` 这个 spl 函数
-   
-  ## 文件处理
-  
-  
-  ## 各种类以及接口
+## 文件处理
+
+
+## 各种类以及接口
