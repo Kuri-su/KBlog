@@ -55,20 +55,20 @@ abstract SplHeap implements Iterator , Countable {
 ```
 
 **方法介绍**:
-~~`SplHeap::compare`待尝试，文档里写的是比较两个数~~
-`SplHeap::__construct` — 构造函数，创建一个空的堆
-`SplHeap::count` — 计算当前堆中的元素数量 `这个方法是实现了 Countable 接口的 count 方法`
-`SplHeap::current` — 获取迭代器当前指向的节点，~~返回值类型待测试~~
-`SplHeap::extract` — Extracts a node from top of the heap and sift up
-`SplHeap::insert` — Inserts an element in the heap by sifting it up
-`SplHeap::isCorrupted` — Tells if the heap is in a corrupted state
-`SplHeap::isEmpty` — Checks whether the heap is empty
-`SplHeap::key` — Return current node index
-`SplHeap::next` — Move to the next node
-`SplHeap::recoverFromCorruption` — Recover from the corrupted state and allow further actions on the heap
-`SplHeap::rewind` — Rewind iterator back to the start (no-op)
-`SplHeap::top` — Peeks at the node from the top of the heap
-`SplHeap::valid` — Check whether the heap contains more nodes
+~~`SplHeap::compare`待尝试，文档里写的是比较两个数~~  
+`SplHeap::__construct` — 构造函数，创建一个空的堆  
+`SplHeap::count` — 计算当前堆中的元素数量 `这个方法是实现了 Countable 接口的 count 方法`  
+`SplHeap::current` — 获取迭代器当前指向的节点，~~返回值类型待测试~~  
+`SplHeap::extract` — Extracts a node from top of the heap and sift up  
+`SplHeap::insert` — Inserts an element in the heap by sifting it up  
+`SplHeap::isCorrupted` — Tells if the heap is in a corrupted state  
+`SplHeap::isEmpty` — Checks whether the heap is empty  
+`SplHeap::key` — Return current node index  
+`SplHeap::next` — Move to the next node  
+`SplHeap::recoverFromCorruption` — Recover from the corrupted state and allow further actions on the heap  
+`SplHeap::rewind` — Rewind iterator back to the start (no-op)  
+`SplHeap::top` — Peeks at the node from the top of the heap  
+`SplHeap::valid` — Check whether the heap contains more nodes  
 
 ---
 
