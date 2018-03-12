@@ -40,17 +40,19 @@ Header 部分尽量只有一行, 包括三个字段: `type`(必须) , `scopt`(�
 
 1. type 
     `type` 用于说明 commit 的类别 , 只允许使用下面的七个标识
+    
     ```
-    feat    : 新功能,新特性(feature)
-    fix     : 修复 Bug
-    docs    : 仅仅修改了文档，比如 README, CHANGELOG, CONTRIBUTE等等(documentation)
-    style   : 仅仅修改了空格、格式缩进、逗号等等，不改变代码逻辑(不影响代码运行的变动)
-    refactor: 代码重构，没有加入新功能或者修复bug......
-    perf    : 优化相关，比如提升性能、体验......
-    test    : 测试用例，包括单元测试、集成测试......
-    chore   : 改变构建流程、或者增加依赖库、辅助工具......
-    revert  : 回滚到上一个版本
+        feat     : 新功能,新特性(feature)
+        fix      : 修复 Bug
+        docs     : 仅仅修改了文档，比如 README, CHANGELOG, CONTRIBUTE等等(documentation)  
+        style    : 仅仅修改了空格、格式缩进、逗号等等，不改变代码逻辑(不影响代码运行的变动)  
+        refactor : 代码重构，没有加入新功能或者修复bug......
+        perf     : 优化相关，比如提升性能、体验......
+        test     : 测试用例，包括单元测试、集成测试......
+        chore    : 改变构建流程、或者增加依赖库、辅助工具......
+        revert   : 回滚到上一个版本
     ```
+    
     如果 `type` 为 `feat` 和 `fix`, 则该 commit 肯定会出现在 Change log 之中. 其他情况可以自行决定是否需要放入 ChangeLog中.
 
 2. scope
