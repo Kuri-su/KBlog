@@ -23,9 +23,9 @@
 
 ```
 <type>(<scope>): <subject>
-<BLANK LINE //空一行>
+<BLANK LINE (空一行)>
 <body>
-<BLANK LINE //空一行>
+<BLANK LINE (空一行)>
 <footer>
 ```
 
