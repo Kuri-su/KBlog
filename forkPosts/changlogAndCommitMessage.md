@@ -3,7 +3,7 @@
 ### 编写规范化 commit message 的目的
 
 1. 提供更多的历史信息,方便快速浏览和暂时回滚
-> 可以使用命令 `git log HEAD --pretty=format:%s`  预览此前的提交信息.
+    > 可以使用命令 `git log HEAD --pretty=format:%s`  预览此前的提交信息.
 
 2. 可以快速过滤某些 commit (比如文档改动) , 以便快速查找信息
 
