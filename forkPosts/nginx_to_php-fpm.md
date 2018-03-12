@@ -134,12 +134,14 @@ fastcgi_param  REDIRECT_STATUS    200;
 
 网络中也有一些借助 FastCGI 的尝试与实践，譬如 `《Writing Hello World in FCGI with C++》` 这篇文章，用 C++ 实现一个 FastCGI 的程序，外部依然是某款 Webserver 来处理 HTTP 请求，但具体功能则有 C++ 来实现，他们的中间交互同样适用的 FastCGI 。同学们有兴趣了也可以做些 Geek尝试。
 
-![]()
+![](https://github.com/Kuri-su/my-tmp-blog/blob/master/forkPosts/assets/nginx_to_php-fpm/cpp%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20FastCGI%20%E7%A8%8B%E5%BA%8F.png)
+
 > C++ 实现一个 FastCGI 程序
 
 ## 尾声
 `Nginx+PHP` 的工程模式下，两位主角分工明确，Nginx 负责承载 HTTP 请求的响应与返回，以及超时控制记录日志等 HTTP 相关的功能，而 PHP 则负责处理具体请求要做的业务逻辑，它们俩的这种合作模式也是常见的分层架构设计中的一种，在它们各有专注面的同时， FastCGI 又很好的将两块衔接，保障上下游通信交互，这种通过某种协议或规范来衔接好上下游的模式，在我们日常的 PHP 应用开发中也有这样的思想落地，譬如我们所开发的高性能 API ，具体的 Client 到底是 PC、APP 还是某个其他程序，我们不关心，而这些 PC 、 APP 、第三方程序也不关心我们的 PHP 代码实现，他们按照 API 的规范来请求做处理即可。
 
+---
 
 > 文章源 来自: https://www.imooc.com/article/19278  
 > 在此基础上有做 修改 和 编辑
