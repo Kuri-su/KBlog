@@ -1,6 +1,6 @@
 # Nginx to PHP-FPM
 
-[Nginx](https://zh.wikipedia.org/wiki/Nginx)是最早由 俄国人 `Igor Sysoev` 开发的 Webserver。我们通常会对PHP-FPM，FastCGI比较熟悉，但是对于Nginx、PHP这对老搭档具体的交互细节并不清楚。
+[Nginx](https://zh.wikipedia.org/wiki/Nginx) 是最早由 俄国人 `Igor Sysoev` 开发的 `Webserver`。我们通常会对 PHP-FPM ， FastCGI 比较熟悉，但是对于 Nginx 、PHP 这对老搭档具体的交互细节并不清楚。
 
 ---
 我们现在配置了一个这样的环境
