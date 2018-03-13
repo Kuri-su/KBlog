@@ -65,7 +65,7 @@ fastcgi_param  REDIRECT_STATUS    200;
 
 `CGI` 是 `通用网关协议`，`FastCGI` 则是一种常驻进程的 `CGI` 模式程序。我们所熟知的 `PHP-FPM` 的全称是 `PHP FastCGI Process Manager` ，即 `PHP-FPM` 会通过用户配置来管理一批 `FastCGI` 进程，例如在 `PHP-FPM` 管理下的 `某个FastCGI` 进程挂了，`PHP-FPM` 会根据用户配置来看是否要重启补全，`PHP-FPM` 更像是管理器，而真正衔接 `Nginx` 与 `PHP` 的则是 `FastCGI` 进程。
 
-![](assets/Nginx.png)
+![](assets/nginx_to_php-fpm/Nginx.png)
 
 如上图所示, FastCGI 的下游,是 CGI-APP , 在 `Nginx -> PHP` 的案例里, 这个 CGI-APP 就是 PHP 程序。 而 FastCGI 的上级是 Nginx , 他们之间有一个通信载体，即图中的 socket 。
 
