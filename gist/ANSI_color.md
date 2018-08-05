@@ -91,4 +91,4 @@ ref: http://blog.51cto.com/onlyzq/546459
 ```
 
 -----
-如果发现文章有误,欢迎给 [link](https://github.com/Kuri-su/my-tmp-blog/edit/master/gist/ANSI_color.md) 提交 pull request
+如果发现文章有误,欢迎给 [link](https://github.com/Kuri-su/my-tmp-blog/blob/master/gist/ANSI_color.md) 提交 pull request
