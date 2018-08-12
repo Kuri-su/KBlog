@@ -10,7 +10,7 @@
 ```
 
 然后就会出现这个样子的提示
-![](/asset/ANSI_color1.png)
+![](/assets/ANSI_color1.png)
 
 是不是还有点意思，我们再多试几个
 

@@ -29,7 +29,7 @@
 ### 总体方案
 参考 `Angular` 和 `Tencent IVWeeb` 团队 对于 Git commit 和工作流规范的总结
 
-![](https://raw.githubusercontent.com/Kuri-su/my-tmp-blog/master/forkPosts/assets/git-commit-message-mindmap.png)
+![](/assets/git-commit-message-mindmap.png)
 
 ### Git commit message 格式规范
 
