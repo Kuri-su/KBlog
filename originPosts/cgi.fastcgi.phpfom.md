@@ -45,19 +45,19 @@ FastCGI 协议要求在多个独立的 FastCGI 请求之间复用单个进程进
 
 ----
 ## 引用
-> [1] https://en.wikipedia.org/wiki/Common_Gateway_Interface  
-> [2] https://tools.ietf.org/html/rfc3875
-> [3] https://tools.ietf.org/html/rfc3875#section-9.5
-> [4] http://www.mit.edu/~yandros/doc/specs/fcgi-spec.html#S1
+> [1] https://en.wikipedia.org/wiki/Common_Gateway_Interface   
+> [2] https://tools.ietf.org/html/rfc3875  
+> [3] https://tools.ietf.org/html/rfc3875#section-9.5  
+> [4] http://www.mit.edu/~yandros/doc/specs/fcgi-spec.html#S1  
 
 ## 参考
 
 
 
-https://www.awaimai.com/371.html
-http://blog.51reboot.com/cgi-fastcgi-wsgi/
-https://tools.ietf.org/html/rfc3875
-https://en.wikipedia.org/wiki/Common_Gateway_Interface
+https://www.awaimai.com/371.html  
+http://blog.51reboot.com/cgi-fastcgi-wsgi/  
+https://tools.ietf.org/html/rfc3875  
+https://en.wikipedia.org/wiki/Common_Gateway_Interface  
 
 
 
