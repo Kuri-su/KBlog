@@ -1,3 +1,5 @@
+slug: Git Commit Message 编写指北
+
 # Git Commit Message 编写指北
 
 本文分成三块来分别讲解Git Commit Message的相关

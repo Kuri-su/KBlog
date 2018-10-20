@@ -1,3 +1,5 @@
+slug: from Nginx to PHPApp
+
 # 从 百草Nginx 到 三味PHP-Application
 
 > 因为网络上对 `CGI` ， `FASTCGI` ， `PHP-FPM` 的解释非常多，而且相互之间有些存在自相矛盾，而在下又未曾看过这些实现的源码，所以以下的文字会尽量标明出处。  
