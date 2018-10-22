@@ -64,3 +64,4 @@ https://en.wikipedia.org/wiki/Common_Gateway_Interface
 
 
 在讲述一条请求从 `Nginx` 到 `PHP-App` 的过程之前，我们需要先尝试讲清楚 `CGI` ， `FASTCGI` ， `PHP-FPM` 这三者之间的关系。
+   
