@@ -1,4 +1,4 @@
-slug: from Nginx to PHPApp
+{"title":"Nginx to PHP-App","slug":"Nginx to PHP-App","category":"php-fpm","tag":["php-fpm"],"page_image":"/assets/php-fpm.png"}
 
 # 从 百草Nginx 到 三味PHP-Application
 
@@ -54,13 +54,10 @@ FastCGI 协议要求在多个独立的 FastCGI 请求之间复用单个进程进
 
 ## 参考
 
-
-
 https://www.awaimai.com/371.html  
 http://blog.51reboot.com/cgi-fastcgi-wsgi/  
 https://tools.ietf.org/html/rfc3875  
 https://en.wikipedia.org/wiki/Common_Gateway_Interface  
-
 
 
 在讲述一条请求从 `Nginx` 到 `PHP-App` 的过程之前，我们需要先尝试讲清楚 `CGI` ， `FASTCGI` ， `PHP-FPM` 这三者之间的关系。

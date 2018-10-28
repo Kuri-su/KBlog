@@ -1,4 +1,4 @@
-slug: Nginx to PHP-FPM
+{"title":"Nginx to PHP-FPM","slug":"Nginx to PHP-FPM","category":"php-fpm","tag":["php-fpm"],"page_image":"/assets/php-fpm.png"}
 
 # Nginx to PHP-FPM
 
@@ -79,7 +79,7 @@ fastcgi_param  REDIRECT_STATUS    200;
 
 `CGI` 是 `通用网关协议`，`FastCGI` 则是一种常驻进程的 `CGI` 模式程序。我们所熟知的 `PHP-FPM` 的全称是 `PHP FastCGI Process Manager` ，即 `PHP-FPM` 会通过用户配置来管理一批 `FastCGI` 进程，例如在 `PHP-FPM` 管理下的 `某个FastCGI` 进程挂了，`PHP-FPM` 会根据用户配置来看是否要重启补全，`PHP-FPM` 更像是管理器，而真正衔接 `Nginx` 与 `PHP` 的则是 `FastCGI` 进程。
 
-![](/assets/nginx_to_php-fpm/Nginx.png)
+![](../../assets/nginx.png)
 
 如上图所示, FastCGI 的下游,是 CGI-APP , 在 `Nginx -> PHP` 的案例里, 这个 CGI-APP 就是 PHP 程序。 而 FastCGI 的上级是 Nginx , 他们之间有一个通信载体，即图中的 socket 。
 
@@ -148,7 +148,7 @@ fastcgi_param  REDIRECT_STATUS    200;
 
 网络中也有一些借助 FastCGI 的尝试与实践，譬如 `《Writing Hello World in FCGI with C++》` 这篇文章，用 C++ 实现一个 FastCGI 的程序，外部依然是某款 Webserver 来处理 HTTP 请求，但具体功能则有 C++ 来实现，他们的中间交互同样适用的 FastCGI 。同学们有兴趣了也可以做些 Geek尝试。
 
-![](/assets/nginx_to_php-fpm/cpp%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20FastCGI%20%E7%A8%8B%E5%BA%8F.png)
+![](../../assets/cpp_FastCGI_program.png)
 
 > C++ 实现一个 FastCGI 程序
 

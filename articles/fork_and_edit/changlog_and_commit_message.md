@@ -1,4 +1,4 @@
-slug: Git Commit Message 编写指北
+{"title":"Git Commit Message 编写指北","slug":"Git Commit Message 编写指北","category":"Git","tag":["git-commit-message"],"page_image":"/assets/git-commit-message.cover.png"}
 
 # Git Commit Message 编写指北
 
@@ -31,7 +31,7 @@ slug: Git Commit Message 编写指北
 ### 总体方案
 参考 `Angular` 和 `Tencent IVWeeb` 团队 对于 Git commit 和工作流规范的总结
 
-![](/assets/git-commit-message-mindmap.png)
+![](../../assets/git-commit-message-mindmap.png)
 
 ### Git commit message 格式规范
 
@@ -99,7 +99,7 @@ Header 部分尽量只有一行, `<type>(<scope>): <subject>`
 Footer 部分只用于两种情况.
 1. 不兼容改动
     如果当前代码与上一个版本不兼容,则 Footer 部分 以 `BREAKING CHANGE` 开头, 后面是对变动的描述, 以及变动理由和迁移方法
-    ```js
+```js
     BREAKING CHANGE: isolate scope bindings definition has changed and
     the inject option for the directive controller injection was removed.
     
