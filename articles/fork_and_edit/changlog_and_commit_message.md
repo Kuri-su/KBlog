@@ -1,4 +1,4 @@
-{"title":"Git Commit Message 编写指北","slug":"Git Commit Message 编写指北","category":"Git","tag":["git-commit-message"],"page_image":"/assets/git-commit-message.cover.png"}
+{"title":"Git Commit Message 编写指北","description":"Git Commit Message 编写指北","category":"Git","tag":["git-commit-message"],"page_image":"/assets/git-commit-message.cover.png"}
 
 # Git Commit Message 编写指北
 

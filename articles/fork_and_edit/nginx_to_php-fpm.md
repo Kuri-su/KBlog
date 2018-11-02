@@ -1,4 +1,4 @@
-{"title":"Nginx to PHP-FPM","slug":"Nginx to PHP-FPM","category":"php-fpm","tag":["php-fpm"],"page_image":"/assets/php-fpm.png"}
+{"title":"Nginx to PHP-FPM","description":"Nginx to PHP-FPM","category":"php-fpm","tag":["php-fpm"],"page_image":"/assets/php-fpm.png"}
 
 # Nginx to PHP-FPM
 
