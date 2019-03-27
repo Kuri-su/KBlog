@@ -1,4 +1,4 @@
-{"title":"ANSI 终端输出瞎搞指北","description":"今天我克里斯就是要在终端上画彩虹猫","category":"Linux","tag":["ANSI","just fun"],"page_image":"/assets/ControlSequences.png"}
+{"title":"ANSI 终端输出瞎搞指北","description":"今天我克里斯就是要在终端上画彩虹猫","category":"Linux","tag":["ANSI","just fun"],"page_image":"/assets/ControlSequences_index.png"}
 
 # Terminal Control Sequences 终端控制转义序列
 
@@ -206,7 +206,7 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 ## END
 
 那么现在可以在终端里好好玩一玩了
-![](/assets/ControlSequences.png)
+![](/assets/ControlSequences_index.png)
 
 ## 参考源
 
