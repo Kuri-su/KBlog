@@ -118,27 +118,17 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 
 **下面就直接 Copy wiki的表格.. 重要的是 SGR 部分, 也就是CSI `n` m , 不过别的也都很好玩就是了XD**
 
- 代码 | 名称 | 作用
+代码 | 名称 | 作用
 -|-|-
- CSI `n` A | CUU – 光标上移（Cursor Up） |  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
- CSI `n` B | CUD – 光标下移（Cursor Down）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
- CSI `n` C | CUF – 光标前移（Cursor Forward）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
- CSI `n` D | CUB – 光标后移（Cursor Back）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
- CSI `n` E | CNL – 光标移到下一行（Cursor Next Line） | 光标移动到下面第`n`（默认1）行的开头。
- CSI `n` F | CPL – 光标移到上一行（Cursor Previous Line） | 光标移动到上面第`n`（默认1）行的开头。
- CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光标移动到第`n`（默认1）列。
- CSI `n` ; `m` H | CUP – 光标位置（Cursor Position） | 光标移动到第`n`行、第`m`列。值从1开始，且默认为`1`（左上角）。例如`CSI ;5H`和`CSI 1;5H`含义相同；`CSI 17;H`、`CSI 17H`和`CSI 17;1H`三者含义相同。
- CSI `n` J | ED – 擦除显示（Erase in Display） | 清除屏幕的部分区域。如果`n`是0（或缺失），则清除从光标位置到屏幕末尾的部分。如果`n`是1，则清除从光标位置到屏幕开头的部分。如果`n`是2，则清除整个屏幕（在DOS ANSI.SYS中，光标还会向左上方移动）。如果`n`是3，则清除整个屏幕，并删除回滚缓存区中的所有行（这个特性是[[xterm]]添加的，其他终端应用程序也支持）。
- CSI `n` K | EL – 擦除行（Erase in Line） | 清除行内的部分区域。如果`n`是0（或缺失），清除从光标位置到该行末尾的部分。如果`n`是1，清除从光标位置到该行开头的部分。如果`n`是2，清除整行。光标位置不变。
- CSI `n` S | SU – 向上滚动（Scroll Up） | 整页向上滚动`n`（默认1）行。新行添加到底部。（非ANSI.SYS）
- CSI `n` T | SD – 向下滚动（Scroll Down） | 整页向下滚动`n`（默认1）行。新行添加到顶部。（非ANSI.SYS）
- CSI `n` ; `m` f | HVP – 水平垂直位置（Horizontal Vertical Position） | 同CUP。
- **CSI `n` m** | **SGR – 选择图形再现（Select Graphic Rendition）** | **设置SGR参数，包括文字颜色。CSI后可以是0或者更多参数，用分号分隔。如果没有参数，则视为`CSI 0 m`（重置/常规）**。
- CSI 5i | 打开辅助端口 | 启用辅助串行端口，通常用于本地串行打印机
- CSI 4i | 关闭辅助端口 | 禁用辅助串行端口，通常用于本地串行打印机
- CSI 6n | DSR – 设备状态报告（Device Status Report） | 以`ESC[n;mR`（就像在键盘上输入）向应用程序报告光标位置（CPR），其中`n`是行，`m`是列。
- CSI s | SCP – 保存光标位置（Save Cursor Position） | 保存光标的当前位置。
- CSI u | RCP – 恢复光标位置（Restore Cursor Position） | 恢复保存的光标位置。
+CSI `n` A | CUU – 光标上移（Cursor Up） |  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` B | CUD – 光标下移（Cursor Down）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` C | CUF – 光标前移（Cursor Forward）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` D | CUB – 光标后移（Cursor Back）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` E | CNL – 光标移到下一行（Cursor Next Line） | 光标移动到下面第`n`（默认1）行的开头。
+CSI `n` F | CPL – 光标移到上一行（Cursor Previous Line） | 光标移动到上面第`n`（默认1）行的开头。
+CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光标移动到第`n`（默认1）列。
+
+更加详细的 `CSI 参数列表` 参见 结尾附录
 
 ### SGR 参数
 
@@ -174,13 +164,10 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 ### 3/4 位色
 
 你可以使用 `\x1b[31m` 设置 为红色字体,  
-<font color="#CC0000">Hello World</font>
 
 使用 `\x1b[31;102m` 设置 前景色为红色,背景色为亮绿色  
-<span style="background-color:#8AE234"><font color="#CC0000">Hello World</font></span>
 
-使用 `\x1b[1;5;31;102m` 设置 前景色为红色,背景色为亮绿色, 粗体,并闪烁   
-<span style="background-color:#8AE234"><font color="#EF2929"><b>Hello Worl</b></font></span>
+使用 `\x1b[1;5;31;102m` 设置 前景色为红色,背景色为亮绿色, 粗体,并闪烁
 
 3/4 的颜色表如下(照搬 WIKI):
 
@@ -209,6 +196,30 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 
 那么现在可以在终端里好好玩一玩了
 ![](/assets/ControlSequences_index.png)
+
+## 附录
+
+代码 | 名称 | 作用
+-|-|-
+CSI `n` A | CUU – 光标上移（Cursor Up） |  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` B | CUD – 光标下移（Cursor Down）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` C | CUF – 光标前移（Cursor Forward）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` D | CUB – 光标后移（Cursor Back）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` E | CNL – 光标移到下一行（Cursor Next Line） | 光标移动到下面第`n`（默认1）行的开头。
+CSI `n` F | CPL – 光标移到上一行（Cursor Previous Line） | 光标移动到上面第`n`（默认1）行的开头。
+CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光标移动到第`n`（默认1）列。
+CSI `n` ; `m` H | CUP – 光标位置（Cursor Position） | 光标移动到第`n`行、第`m`列。值从1开始，且默认为`1`（左上角）。例如`CSI ;5H`和`CSI 1;5H`含义相同；`CSI 17;H`、`CSI 17H`和`CSI 17;1H`三者含义相同。
+CSI `n` J | ED – 擦除显示（Erase in Display） | 清除屏幕的部分区域。如果`n`是0（或缺失），则清除从光标位置到屏幕末尾的部分。如果`n`是1，则清除从光标位置到屏幕开头的部分。如果`n`是2，则清除整个屏幕（在DOS ANSI.SYS中，光标还会向左上方移动）。如果`n`是3，则清除整个屏幕，并删除回滚缓存区中的所有行（这个特性是[[xterm]]添加的，其他终端应用程序也支持）。
+CSI `n` K | EL – 擦除行（Erase in Line） | 清除行内的部分区域。如果`n`是0（或缺失），清除从光标位置到该行末尾的部分。如果`n`是1，清除从光标位置到该行开头的部分。如果`n`是2，清除整行。光标位置不变。
+CSI `n` S | SU – 向上滚动（Scroll Up） | 整页向上滚动`n`（默认1）行。新行添加到底部。（非ANSI.SYS）
+CSI `n` T | SD – 向下滚动（Scroll Down） | 整页向下滚动`n`（默认1）行。新行添加到顶部。（非ANSI.SYS）
+CSI `n` ; `m` f | HVP – 水平垂直位置（Horizontal Vertical Position） | 同CUP。
+**CSI `n` m** | **SGR – 选择图形再现（Select Graphic Rendition）** | **设置SGR参数，包括文字颜色。CSI后可以是0或者更多参数，用分号分隔。如果没有参数，则视为`CSI 0 m`（重置/常规）**。
+CSI 5i | 打开辅助端口 | 启用辅助串行端口，通常用于本地串行打印机
+CSI 4i | 关闭辅助端口 | 禁用辅助串行端口，通常用于本地串行打印机
+CSI 6n | DSR – 设备状态报告（Device Status Report） | 以`ESC[n;mR`（就像在键盘上输入）向应用程序报告光标位置（CPR），其中`n`是行，`m`是列。
+CSI s | SCP – 保存光标位置（Save Cursor Position） | 保存光标的当前位置。
+CSI u | RCP – 恢复光标位置（Restore Cursor Position） | 恢复保存的光标位置。
 
 ## 参考源
 
