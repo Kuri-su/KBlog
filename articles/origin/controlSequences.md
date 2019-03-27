@@ -113,7 +113,7 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 -|-|-
 参数字节|0x30–0x3F|0–9:;<=>?
 中间字节|0x20–0x2F|空格、!"#$%&'()*+,-./
-最终字节|0x40–0x7E|@A–Z[\]^_`a–z{|}~
+最终字节|0x40–0x7E|@A–Z[\]^_`a–z{}~
 
 **下面就直接 Copy wiki的表格.. 重要的是 SGR 部分, 也就是CSI `n` m , 不过别的也都很好玩就是了XD**
 
@@ -131,13 +131,13 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
  CSI `n` K | EL – 擦除行（Erase in Line） | 清除行内的部分区域。如果`n`是0（或缺失），清除从光标位置到该行末尾的部分。如果`n`是1，清除从光标位置到该行开头的部分。如果`n`是2，清除整行。光标位置不变。
  CSI `n` S | SU – 向上滚动（Scroll Up） | 整页向上滚动`n`（默认1）行。新行添加到底部。（非ANSI.SYS）
  CSI `n` T | SD – 向下滚动（Scroll Down） | 整页向下滚动`n`（默认1）行。新行添加到顶部。（非ANSI.SYS）
-| CSI `n` ; `m` f | HVP – 水平垂直位置（Horizontal Vertical Position） | 同CUP。
-| **CSI `n` m** | **SGR – 选择图形再现（Select Graphic Rendition）** | **设置SGR参数，包括文字颜色。CSI后可以是0或者更多参数，用分号分隔。如果没有参数，则视为`CSI 0 m`（重置/常规）**。
-| CSI 5i | 打开辅助端口 | 启用辅助串行端口，通常用于本地串行打印机
-| CSI 4i | 关闭辅助端口 | 禁用辅助串行端口，通常用于本地串行打印机
-| CSI 6n | DSR – 设备状态报告（Device Status Report） | 以`ESC[n;mR`（就像在键盘上输入）向应用程序报告光标位置（CPR），其中`n`是行，`m`是列。
-| CSI s | SCP – 保存光标位置（Save Cursor Position） | 保存光标的当前位置。
-| CSI u | RCP – 恢复光标位置（Restore Cursor Position） | 恢复保存的光标位置。
+ CSI `n` ; `m` f | HVP – 水平垂直位置（Horizontal Vertical Position） | 同CUP。
+ **CSI `n` m** | **SGR – 选择图形再现（Select Graphic Rendition）** | **设置SGR参数，包括文字颜色。CSI后可以是0或者更多参数，用分号分隔。如果没有参数，则视为`CSI 0 m`（重置/常规）**。
+ CSI 5i | 打开辅助端口 | 启用辅助串行端口，通常用于本地串行打印机
+ CSI 4i | 关闭辅助端口 | 禁用辅助串行端口，通常用于本地串行打印机
+ CSI 6n | DSR – 设备状态报告（Device Status Report） | 以`ESC[n;mR`（就像在键盘上输入）向应用程序报告光标位置（CPR），其中`n`是行，`m`是列。
+ CSI s | SCP – 保存光标位置（Save Cursor Position） | 保存光标的当前位置。
+ CSI u | RCP – 恢复光标位置（Restore Cursor Position） | 恢复保存的光标位置。
 
 ### SGR 参数
 列举常用以及广泛支持的参数,
@@ -147,7 +147,7 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 0|\x1b[0m|所有属性重设为默认值|`\x1b[38;2;215;84;85m Hello World \x1b[0m`|一般都用这个参数取消对后面字符串样式的影响
 1|\x1b[1m|设置粗体|`\x1b[1m Hello World \x1b[0m`|
 2|\x1b[2m|将亮度减半|`\x1b[2m Hello World \x1b[0m`例如这样就会看到 `灰色` 的 Hello World|
-4|\x1b[4m|设置下划线|`\x1b[4m Hello World \x1b[0m`||文字会带下划线
+4|\x1b[4m|设置下划线|`\x1b[4m Hello World \x1b[0m`|文字会带下划线
 5|\x1b[5m|设置闪烁|`\x1b[5m Hello World \x1b[0m`|
 7|\x1b[7m|反显,前景色与背景色交换|`\x1b[7m Hello World \x1b[0m`|
 8|\x1b[8m|隐藏,前景色和背景色一样|`\x1b[8m Hello World \x1b[0m`|(官方说未受广泛支持,但是在`Gnome Terminal 3.28.2` 上可以看到效果)
