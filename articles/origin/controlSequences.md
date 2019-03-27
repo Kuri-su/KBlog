@@ -96,7 +96,7 @@ ESC c|\x1bc|类似于 Linux 命令 `clear`|
 ESC D|\x1bD|换行. 类似于打字机直接向下挪了一行,而没有将打印位置初始化到行首
 ESC E|\x1bE|类似于 `\n` , 换行并将打印位置初始化到行首
 ESC H|\x1bH|类似于 `\t`
-ESC M|\x1bM|翻转换行(Reverse line feed),正向换行是到下一行,翻转换行则是去到上一行. 还是想象打印机时代XD [What is a reverse line feed - stackoverflow](https://stackoverflow.com/questions/10638382/what-is-a-reverse-line-feed)
+ESC M|\x1bM|翻转换行(Reverse line feed) <br> 正向换行是到下一行,翻转换行则是去到上一行. 还是想象打印机时代XD <br>[What is a reverse line feed - stackoverflow](https://stackoverflow.com/questions/10638382/what-is-a-reverse-line-feed)
 **ESC [**|**\x1b[... 或者 \x9d...**|**`将在下面 控制序列(CSI) 的位置介绍`,等价于 `C1 控制字符` 中的 `CSI`**
 ESC % G|\x1b%G|选择 UTF-8 作为字符集
 ESC # 8|\x1b#8|DEC 屏幕校准测试,使用 `E` 填充整个终端屏幕
@@ -120,10 +120,10 @@ CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节
 
 代码 | 名称 | 作用
 -|-|-
-CSI `n` A | CUU – 光标上移（Cursor Up） |  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
-CSI `n` B | CUD – 光标下移（Cursor Down）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
-CSI `n` C | CUF – 光标前移（Cursor Forward）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
-CSI `n` D | CUB – 光标后移（Cursor Back）|  光标向指定的方向移动`n`（默认1）格。如果光标已在屏幕边缘，则无效。
+CSI `n` A | CUU – 光标上移（Cursor Up） |  光标向指定的方向移动`n`（默认1）格。<br>如果光标已在屏幕边缘，则无效。
+CSI `n` B | CUD – 光标下移（Cursor Down）|  光标向指定的方向移动`n`（默认1）格。<br>如果光标已在屏幕边缘，则无效。
+CSI `n` C | CUF – 光标前移（Cursor Forward）|  光标向指定的方向移动`n`（默认1）格。<br>如果光标已在屏幕边缘，则无效。
+CSI `n` D | CUB – 光标后移（Cursor Back）|  光标向指定的方向移动`n`（默认1）格。<br>如果光标已在屏幕边缘，则无效。
 CSI `n` E | CNL – 光标移到下一行（Cursor Next Line） | 光标移动到下面第`n`（默认1）行的开头。
 CSI `n` F | CPL – 光标移到上一行（Cursor Previous Line） | 光标移动到上面第`n`（默认1）行的开头。
 CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光标移动到第`n`（默认1）列。
