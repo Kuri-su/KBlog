@@ -90,16 +90,16 @@ printf("Hello World \n\n")
 那么下面简单列举一下 `ESC 非控制转义序列(ESC - but not CSI-sequences)`  
 不常用的就不列举了,可以前往参考源的第一个和第二个链接查阅
 
-指令原语|实际使用|效果|更多例子|备注
--|-|-|-|-
-ESC c|\x1bc|类似于 Linux 命令 `clear`||
-ESC D|\x1bD|换行. 类似于打字机直接向下挪了一行,而没有将打印位置初始化到行首|`printf("\x1bD Hel\x1bD lo Wor\x1bD ld")`|
-ESC E|\x1bE|类似于 `\n` , 换行并将打印位置初始化到行首||
-ESC H|\x1bH|类似于 `\t`||
-ESC M|\x1bM|翻转换行(Reverse line feed),正向换行是到下一行,翻转换行则是去到上一行. 还是想象打印机时代XD|[What is a reverse line feed - stackoverflow](https://stackoverflow.com/questions/10638382/what-is-a-reverse-line-feed)
-**ESC [**|**\x1b[... 或者 \x9d...**|**`将在下面 控制序列(CSI) 的位置介绍`,等价于 `C1 控制字符` 中的 `CSI`**||
-ESC % G|\x1b%G|选择 UTF-8 作为字符集||
-ESC # 8|\x1b#8|DEC 屏幕校准测试,使用 `E` 填充整个终端屏幕||
+指令原语|实际使用|效果
+-|-|-|
+ESC c|\x1bc|类似于 Linux 命令 `clear`|
+ESC D|\x1bD|换行. 类似于打字机直接向下挪了一行,而没有将打印位置初始化到行首
+ESC E|\x1bE|类似于 `\n` , 换行并将打印位置初始化到行首
+ESC H|\x1bH|类似于 `\t`
+ESC M|\x1bM|翻转换行(Reverse line feed),正向换行是到下一行,翻转换行则是去到上一行. 还是想象打印机时代XD [What is a reverse line feed - stackoverflow](https://stackoverflow.com/questions/10638382/what-is-a-reverse-line-feed)
+**ESC [**|**\x1b[... 或者 \x9d...**|**`将在下面 控制序列(CSI) 的位置介绍`,等价于 `C1 控制字符` 中的 `CSI`**
+ESC % G|\x1b%G|选择 UTF-8 作为字符集
+ESC # 8|\x1b#8|DEC 屏幕校准测试,使用 `E` 填充整个终端屏幕
 
 ### 控制序列- CSI(Control Sequence Introducer)
 
