@@ -198,7 +198,7 @@ CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光�
 ![](/assets/ControlSequences_index.png)
 
 参考代码 :
-```golang
+```go
 package main
 
 import (
