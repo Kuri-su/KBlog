@@ -106,8 +106,8 @@ ESC # 8|\x1b#8|DEC 屏幕校准测试,使用 `E` 填充整个终端屏幕
 CSI 序列 由 `ESC [` 以及若干个 `参数字节` 和 若干个`中间字节` 以及 一个 `最终字节` 组成.
 
 > 笔者注:
-> CSI 其实也可以用 `\x9d` 来表示, [出处](https://zh.wikipedia.org/wiki/C0%E4%B8%8EC1%E6%8E%A7%E5%88%B6%E5%AD%97%E7%AC%A6#CSI)
-> 但是 笔者在 GNOME 终端下使用 `printf("\x9b38;2;215;84;85m Hello World")` 始终无法得到想要的结果....
+> CSI 其实也可以用 `\x9d` 来表示, [出处](https://zh.wikipedia.org/wiki/C0%E4%B8%8EC1%E6%8E%A7%E5%88%B6%E5%AD%97%E7%AC%A6#CSI)  
+> 但是 笔者在 GNOME 终端下使用 `printf("\x9b38;2;215;84;85m Hello World")` 始终无法得到想要的结果....  
 > 然后 切换到 `tty3` 之类的非图形化界面后,就可以使用 `printf("\x9b38;2;215;84;85m Hello World")` 输出 粉红色的 Hello world , 具体原因未知...
 
 组成部分|字符范围|ASCII
@@ -176,9 +176,9 @@ CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光�
 ![](/assets/ControlSequences_16_color_table.png)
 ## 8bit (256 色)
 
-可以使用 `\x1b[38;5;21m` 输出前景色为 编号 21 的 `#0000ff` 的字符串
+可以使用 `\x1b[38;5;51m` 输出前景色为 编号 51 的 `#5f00ff` 的字符串 (大概是紫色)
 
-可以使用 `\x1b[48;5;21m` 输出前景色为 编号 21 的 `#0000ff` 的字符串
+可以使用 `\x1b[48;5;51m` 输出前景色为 编号 51 的 `#5f00ff` 的字符串
 
 颜色表如下(来自 WIKI , 链接见文末)
 
@@ -186,7 +186,7 @@ CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光�
 
 ### 24 bit (RGB颜色)
 
-`Xterm`,KDE 的 `Konsole`, 以及所有支持 `libvte` 的终端(包括 GNOME Terminal) 上支持
+在 `Xterm`,KDE 的 `Konsole`, 以及所有支持 `libvte` 的终端 (包括 GNOME Terminal) 上支持
 
 可以使用 `\x1b[38;2;<r>;<g>;<b> … m` 选择RGB前景色
 
