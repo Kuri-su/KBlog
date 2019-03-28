@@ -197,6 +197,33 @@ CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光�
 那么现在可以在终端里好好玩一玩了
 ![](/assets/ControlSequences_index.png)
 
+参考代码 :
+```golang
+package main
+
+import (
+    "fmt"
+    "strconv"
+)
+
+func main() {
+    flag := 0
+    str := "KURISU "
+    for r := 255; r >= 0; r -= 2 {
+        for g, b := 0, 255; g < 255 && b >= 1; g += 1 {
+            if flag >= len(str) {
+                flag = 0
+            }
+            a := str[flag]
+            flag++
+            fmt.Printf("\x1b[48;2;%s;%s;%sm\x1b[38m%s\x1b[0m", strconv.Itoa(r), strconv.Itoa(g), strconv.Itoa(b), string(a))
+            b -= 1
+        }
+        fmt.Printf("\x1bE")
+    }
+}
+```
+
 ## 附录
 
 代码 | 名称 | 作用
