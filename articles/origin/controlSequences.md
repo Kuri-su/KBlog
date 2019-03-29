@@ -22,13 +22,13 @@ Author: Amatist Kurisu
 > 
 > * `ECMA-48` 是 ANSI 系列的第一个标准 
 > * // 1976 通过  
-> *
+> * 
 > * AESC (美国国家标准学会, 1969 更名为 ANSI, 为防止弄混, 此处称为 AESC) 采用 `ECMA-48` 作为 `ANSI X3.64` 
 > * // 1979  
 > * 
 > * 由 `AESC X3L2(ANSI X3L2)` 委员会 和 `ECMA TC 1` 委员会 将两份几乎一样的标准, 合并为 `ISO 6429` 国际标准 
-> * // [1992](https://www.iso.org/standard/12782.html)   
-> *  
+> * // [1992](https://www.iso.org/standard/12782.html)
+> * 
 > * AESC (ANSI) 取消了其标准, 以支持 `ISO 6429` 国际标准
 > * // 1994  
 
