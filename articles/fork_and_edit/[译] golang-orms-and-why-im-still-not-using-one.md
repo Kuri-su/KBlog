@@ -1,4 +1,4 @@
-{"title":"[译] golang-orms-and-why-im-still-not-using-one","description":"[译] golang-orms-and-why-im-still-not-using-one","category":"Golang","tag":["Golang-orm"],"page_image":"/assets/golang-orm.png"}
+{"title":"[译] golang-orms-and-why-im-still-not-using-one","description":"[译] golang-orms-and-why-im-still-not-using-one","category":"Golang","tag":["golang"],"page_image":"/assets/golang-orm.png"}
 
 # Golang, ORMs, 以及为什么 我 还没有使用它
 > 原文标题:  `Golang, ORMs, and why I am still not using one`  
