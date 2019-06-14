@@ -168,7 +168,7 @@ GitLab 没有找到 Git LFS 限制的相分描述, 但是他们有提到单个 R
 
 同时推荐 [Kuri-su/GitMindMap-command](https://github.com/Kuri-su/GitMindMap-command) Git 思维导图
 
-<img src="https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png?raw=true">
+![ex](https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png?raw=true)
 
 > ref:
 > 
