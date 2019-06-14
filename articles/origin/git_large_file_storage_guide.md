@@ -1,5 +1,7 @@
 {"title": "Git Large File Storage 初见指南","description": "Git Large File Storage 快速入门","category": "Git","tag": ["Git"],"page_image":"/assets/git-large-file-storage.jpg"}
 
+![](/assets/git-large-file-storage.jpg)
+
 [TOC]
 
 在 Git 中我们的最佳实践是 **不要使用 Git 跟踪大型的二进制文件**, 但是往往可能有一些特殊的需求. 所以我们可以考虑使用 `Git Large File Storage (LFS)` 来处理.
