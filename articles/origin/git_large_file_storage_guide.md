@@ -6,14 +6,14 @@
 
 ## Git Large File Storage 是什么
 
-[`Git Large File Storage (LFS)`](https://github.com/git-lfs/git-lfs) 是一个由 github 开发的 Git 拓展项目, 于 2013/09/22 创建.  用于实现 Git 对大文件追踪的支持.
+[`Git Large File Storage (LFS)`](https://github.com/git-lfs/git-lfs) 是一个由 GitHub 开发的 Git 扩展项目, 于 2013/09/22 创建. 用于增强 Git 对大文件追踪的支持.
 
-众所周知, Git 在储存二进制文件时, 效率堪忧, 以为 Git 默认会压缩和储存每一次提交的快照, 如果二进制文件很多, 会使得 Git 的 clone 效率变得非常低.
+众所周知, Git 在储存二进制文件时, 效率堪忧, 因为 Git 默认会压缩和储存每一次提交的快照, 如果二进制文件很多, 会使得 Git 的 clone 效率变得非常低.
 
 如何解决这个问题呢, 那就要介绍 Git LFS 了.
 > Git LFS 处理大型二进制文件的方式是用 "文件指针" 进行替换, 这些文本指针实际上是包含二进制文件信息的文本文件, 大小不到 1kb。文本指针存储在 Git 中，而大文件本身通过 HTTPS 托管在 Git LFS 服务器上。
 
-那么下面演示下如何使用 Git LFS
+那么下面演示下如何安装和使用 Git LFS
 
 ## 如何使用 Git LFS
 
@@ -59,6 +59,8 @@ $ tree .
     └── README.md
 $ sudo ./install.sh
 ```
+
+-----
 
 ### Git LFS 使用介绍
 
