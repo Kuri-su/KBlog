@@ -133,7 +133,7 @@ $ git lfs pull
 $ git lfs push
 $ git lfs checkout
 # 正常情况下会随着 git pull/push 一起执行
-# 如果在 git pull/push 的过程中断了, 导致二进制文件没有被拉取的时候, 可以使用这些命令
+# 如果在 git pull/push 的过程中断了, 导致二进制文件没有被拉取的时候, 可以使用这些命令(支持断点续传,速度不慢)
 ```
 
 可以通过 `git lfs --help` 指令看到 `git lfs` 的全部指令,
