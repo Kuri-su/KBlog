@@ -164,6 +164,11 @@ GitLab 没有找到 Git LFS 限制的相分描述, 但是他们有提到单个 R
 
 虽然 Git LFS 能给我们在大文件上传 版本库带来很多便利, 但是还是推荐谨慎使用.
 
+## Alternatives
+
+同时推荐 [Kuri-su/GitMindMap-command](https://github.com/Kuri-su/GitMindMap-command) Git 思维导图
+
+![](https://github.com/kurisu-public/GitMindMap-command-img/blob/master/Git_V2.16.2.png?raw=true)
 
 > ref:
 > 
