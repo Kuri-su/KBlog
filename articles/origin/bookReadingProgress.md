@@ -1,4 +1,4 @@
-{"title":"书籍阅读进度","description":"记录读书进度","category":"live","tag":["bookReading","just fun"],"page_image":"/assets/bookReadingProgress_index.png"}
+{"title": "书籍阅读进度","description": "记录读书进度","category": "live","tag":["bookReading","just fun"],"page_image":"/assets/bookReadingProgress_index.png"}
 
 # 书籍阅读进度
 
