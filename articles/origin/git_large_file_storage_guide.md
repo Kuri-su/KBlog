@@ -2,13 +2,13 @@
 
 [TOC]
 
-在 git 中我们的最佳实践是 ** 不要使用 git 跟踪大型的二进制文件 **, 但是往往可能有一些特殊的需求. 所以我们可以考虑使用 `Git Large File Storage (LFS)` 来处理.
+在 Git 中我们的最佳实践是 **不要使用 Git 跟踪大型的二进制文件**, 但是往往可能有一些特殊的需求. 所以我们可以考虑使用 `Git Large File Storage (LFS)` 来处理.
 
 ## Git Large File Storage 是什么
 
 [`Git Large File Storage (LFS)`](https://github.com/git-lfs/git-lfs) 是一个由 github 开发的 Git 拓展项目, 于 2013/09/22 创建.  用于实现 Git 对大文件追踪的支持.
 
-众所周知, Git 在储存二进制文件时, 效率堪忧, 以为 Git 默认会压缩和储存每一次提交的快照, 如果二进制文件很多, 会使得 git 的 clone 效率变得非常低.
+众所周知, Git 在储存二进制文件时, 效率堪忧, 以为 Git 默认会压缩和储存每一次提交的快照, 如果二进制文件很多, 会使得 Git 的 clone 效率变得非常低.
 
 如何解决这个问题呢, 那就要介绍 Git LFS 了.
 > Git LFS 处理大型二进制文件的方式是用 "文件指针" 进行替换, 这些文本指针实际上是包含二进制文件信息的文本文件, 大小不到 1kb。文本指针存储在 Git 中，而大文件本身通过 HTTPS 托管在 Git LFS 服务器上。
@@ -136,13 +136,17 @@ $ git lfs checkout
 
 ## 各个平台的支持情况
 
-为了防止滥用, 各个平台对 git lfs 有不同的限制
+为了防止滥用, 各个平台对 Git LFS 有不同的限制
 
 ### GitHub
 
 `GitHub` 的全部 Repo 的 Git LFS 内容不得超过 `1G`, 流量限制 `1G`, 限制的还是比较严格的, [详情](https://github.com/settings/billing)
 
 可以使用每个月 `$5` 的钞能力增加限制, 每个月订阅的费用每上升 `$5`, 内容大小和流量限制上升 `50G`.
+
+### BitBucket
+
+BitBucket 免费账号 File Storage 限制为 1GB, $2/month 的 `Standard` 账号为 5GB $5/month 的`Premium` 账号为 10GB
 
 ### GitLab
 
