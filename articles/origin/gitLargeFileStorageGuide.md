@@ -1,6 +1,6 @@
-{"title": "Git Large File Storage 初见指南","description": "Git Large File Storage 快速入门","category": "Git","tag": ["Git"],"page_image":"/assets/git-large-file-storage.jpg"}
+{"title": "Git Large File Storage 初见指南","description": "Git Large File Storage 快速入门","category": "Git","tag": ["Git"],"page_image":"/assets/git-large-file-storage.png"}
 
-![](/assets/git-large-file-storage.jpg)
+![](/assets/git-large-file-storage.png)
 
 [TOC]
 
