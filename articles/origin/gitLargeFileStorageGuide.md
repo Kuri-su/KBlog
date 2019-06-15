@@ -107,7 +107,7 @@ $ git lfs status
 # 类似于 git status , 显示 git lfs 方式的文件在 暂存区的状态
 
 $ git lfs lock
-# 锁定一个或者一些文件, 只允许当前的用户对这些文件进行修改, 防止在多人协作的场景下冲突
+# 锁定一个或者一些文件, 只允许当前的用户对这些文件进行修改, 防止在多人协作的场景下冲突(如果是仓库管理员可以带 --force 参数强制 unlock)
 $ git lfs unlock
 # 同上, 解锁一个或者一些文件
 
@@ -150,7 +150,7 @@ $ git lfs checkout
 
 ### BitBucket
 
-BitBucket 免费账号 File Storage 限制为 1GB, $2/month 的 `Standard` 账号为 5GB $5/month 的`Premium` 账号为 10GB
+BitBucket 免费账号 File Storage 限制为 1GB, $2/month 的 `Standard` 账号为 5GB , $5/month 的`Premium` 账号为 10GB
 
 ### GitLab
 
