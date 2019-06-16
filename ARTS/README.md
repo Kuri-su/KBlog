@@ -1,7 +1,7 @@
 # ARTS
 
 * Algorithm。主要是为了编程训练和学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，最后才Hard）关于做Leetcode的的优势，在这里 [Leetcode 编程训练 - 酷 壳 - CoolShell](https://www.zhihu.com/question/301150832 )
-    * 一周一道 Leetcode 的算法题,以及周赛
+    * 一周弄懂一道 Hard 难度的 Leetcode 的算法题,以及周赛
 
 * Review：主要是为了学习英文，如果你的英文不行，你基本上无缘技术高手。所以，需要你阅读并点评至少一篇英文技术文章，推荐的地方是 http://Medium.com （需要梯子）以及各个公司的技术blog，如Netflix的。
     * 阅读并点评和翻译一篇英文技术文章. 
