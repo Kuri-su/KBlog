@@ -1,4 +1,4 @@
-最后一刻提交TAT, 没写完TAT, 看题目好像是要写议论文的样子...但是想了两天实在不知道写啥...最后写了篇偏记录向的博文...
+{"title": "程序员的 开源许可 和 CC 许可 说明书","description": "开源许可 和 CC 许可 简易介绍和使用教程","category": "linux","tag": ["License"],"page_image":"/assets/open_source_license_and_CC_license_main_image.png"}
 
 # 程序员的 开源许可 和 CC 许可 说明书
 
@@ -44,18 +44,6 @@ Copyleft 起初是在由 `GNU 项目 ` 提出并使用, 到实际使用中也就
 此处参考 阮一峰老师 的观点, 根据使用条件的不同, 将 开源许可 分成两大类
 * `宽松式 (permissive) 许可`
 * `Copyleft 许可`
-
-**太长不看版**
-* 宽松式 许可
-    * MIT 许可
-    * 许可
-    * 许可
-    * 许可
-* Copyleft 许可
-    * 许可
-    * 许可
-    * 许可
-    * 许可
 
 ### 宽松式 许可
 
@@ -239,15 +227,10 @@ LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化�
 
 <image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/160px-LGPLv3_Logo.svg.png"/>
 
-#### MPL
-
-Mozilla Public License 顾名思义来自 Mozilla ,
-
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/160px-LGPLv3_Logo.svg.png"/>
 
 ### 总结
 
-
+除了上面到的这些,还有 BSL, MPL, EPL 等的开源许可.
 
 ## CC 许可 (Creative Commons 常简称 CC 许可)
 
@@ -294,6 +277,8 @@ https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 网络上有非常多的关于开源许可和CC许可的介绍,不过个人感觉介绍的有些片面而且分散,且自己理解的不是很明白,  希望自己能总结并记录下来, 也希望读者可以根据这篇文章比较系统的了解到开源许可和他们之间的不同,在为自己的项目挑选许可的时候不再犹豫.
 
 由于作者并不是法律专业, 对于这些许可的了解来自互联网, 难免有错误的理解和疏漏. 有任何的错误,欢迎到 [kuri-su/KBlog](https://github.com/Kuri-su/KBlog/issues) 提　Issue 敦促作者修改.
+
+这篇文章写的相当累...主要自己不太懂..然后各种资料也比较少...大段的都是法律文书类的..看的非常费劲....
 
 > PS: 
 > 撸完这篇文章, 也算是了了个心结... 每次自己的开源项目选开源许可的时候, 不重要的选 MIT, 重要的选 GPL_V3 , 文章的 CC 许可写 by-nc-nd-sa :joy:, 终于可以肯定的选择自己需要的许可了 (擦眼泪).
@@ -356,9 +341,6 @@ https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 > 
 > https://www.gnu.org/licenses/gpl-howto.html ( 如何使用 GPL 的 Gnu.org 官方教程)
 > 
-> 
-> 
-
 
 ## 附录
 
@@ -386,18 +368,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ```
-
-<!--> 本文目的:-->
-
-<!--让我自己和读者了解-->
-<!--* 在协作和共享中的版权-->
-<!--* 在程序领域的著作权 (CC 开源许可)-->
-<!--* 他们分别介绍他们, 并对比他们之间的区别-->
-
-<!--> 本文讨论的主题:-->
-
-<!--开篇-->
-<!--介绍 两种程序员 常见的分发许可-->
-<!--关于 CC 许可-->
-<!--关于开源许可-->
-<!--结尾-->
