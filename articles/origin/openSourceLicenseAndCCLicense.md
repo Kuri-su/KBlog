@@ -1,30 +1,23 @@
 {"title": "程序员的 开源许可 和 CC 许可 说明书","description": "开源许可 和 CC 许可 简易介绍和使用教程","category": "linux","tag": ["License"],"page_image":"/assets/open_source_license_and_CC_license_main_image.png"}
 
-# 程序员的 开源许可 和 CC 许可 说明书
-
 ## Copyright
 
 Copyright 也就是 ` 版权 `, 我们拥有我们创作的软件的全部内容的版权, 都归属于 创作者 所有. 这意味着 别人想要 复制 / 分发 / 修改 你的软件都需要你的许可. 但是可能有些情况下我们完全不 Care 这个软件的版权, 或者我们乐意看到别人在我们的基础上进行修改和翻译. 但又不希望每一次都需要进行对话来授权, 所以就有了 `Copyleft`.
 
-<center>
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/1024px-Copyright.svg.png"/>
-</center>
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/1024px-Copyright.svg.png) 
+
 Copyleft 的提出 源自 ` 自由软件运动 `, 是一种利用现有 著作权 体制来保障用户软件自由使用的许可方式. 用简单的话说 Copyleft 就是 ` 用户可以在创作者的许可许可下, 自由的 使用 / 分发 / 修改 `, 这样就免去了很多的沟通成本, 并且最重要的是, 这在 不反对 原有的著作权法的基础上, 进一步的促进**创作自由**, 与保障著作内容的传播.
 
-<center>
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/1024px-Copyleft.svg.png"/>
-</center>
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/1024px-Copyleft.svg.png) 
 
 Copyleft 起初是在由 `GNU 项目 ` 提出并使用, 到实际使用中也就是我们在开源软件时候所选择的各种许可, 例如 `GPLv3`, `MIT`, `Mozilla Public License 2.0` 等等. 这里比较有意思的是, `Copyleft` 不仅名字和 版权的英文 `CopyRight` 是反过来的, 图标 也是 版权标志的 C 朝向左边.
 
-<center>
-<image style="height: 300px;" src="https://w.wallhaven.cc/full/n6/wallhaven-n6gv2l.jpg"/>
-</center>
+![ex](https://w.wallhaven.cc/full/n6/wallhaven-n6gv2l.jpg) 
 
 在 2001 年, 拥有和 Copyleft 同样理念的 CC 许可 (Creative Commons)出现, 提倡 ` 著作物可以更广的流通和修改, 可使他人据以创作及共享, 并以所提供的许可方式保障以上理念 `, 目前常用于 公开的文章 的版权声明.
 
 
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1920px-CC-logo.svg.png"/>
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1920px-CC-logo.svg.png) 
 
 ---
 
@@ -125,6 +118,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 或者你也可以参考 Swoole 项目, 使用自定义的通告,
+
 /*
   +----------------------------------------------------------------------+
   | Swoole                                                               |
@@ -164,7 +158,7 @@ limitations under the License.
 
 GPL 系列许可 来自 FSF (自由软件基金会), 初衷是给予终端用户 运行|学习|共享|修改 软件的自由, 极力的避免自由软件私有化. 同时 GPL 许可也包含 免责条款 以及 不为软件提供品质担保.
 
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/200px-GPLv3_Logo.svg.png"/>
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/200px-GPLv3_Logo.svg.png) 
 
 GPL 许可相比 前面提到的 MIT 和 BSD 许可 复杂很多(毕竟一篇几百行的文章:joy:). 总结一下, GPL 有三个特点:
 1. 任何软件, 只要使用了 GPL 许可保护的软件(或者第三方库), 且向非开发人员发布时, 软件本身也就自动成为受 GPL 保护并且约束的. (GPL 许可原文第 5 部分, 描述集合的那段)
@@ -207,7 +201,7 @@ GPL 许可相比 前面提到的 MIT 和 BSD 许可 复杂很多(毕竟一篇几
 
 AGPL 的全称是 `GNU Affero General Public License` , 是对 GPL 的一个补充, 他避免了 GPL 和 LGPL 的一个漏洞. 主要针对各种云服务商.
 
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AGPLv3_Logo.svg/200px-AGPLv3_Logo.svg.png"/>
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AGPLv3_Logo.svg/200px-AGPLv3_Logo.svg.png) 
 
 AGPL 由 Affero 公司发起, 目前发展到 v3, 和 GPL 的版本对应. AGPL 继承了 GPL 全部的条款, 同时在此基础上增加了一条.
 
@@ -225,12 +219,11 @@ LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化�
 
 使用 LGPL 的方式和 GPL 类似, 不过你需要复制一份 [LGPL](https://www.gnu.org/licenses/lgpl.txt) 的纯文本版, 放在叫做 COPYING.LESSER 的文件中.(也就是说, 总体上你需要复制两份文件, 一份 GPL 许可的纯文本版, 一份 LGPL 的纯文本版)
 
-<image style="height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/160px-LGPLv3_Logo.svg.png"/>
-
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/160px-LGPLv3_Logo.svg.png) 
 
 ### 总结
 
-除了上面到的这些,还有 BSL, MPL, EPL 等的开源许可.
+除了上面到的这些,还有 BSL, MPL, EPL 等的开源许可, 这里就不详细介绍了.
 
 ## CC 许可 (Creative Commons 常简称 CC 许可)
 
