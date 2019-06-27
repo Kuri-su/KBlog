@@ -1,5 +1,7 @@
 {"title": "程序员的 开源许可 和 CC 许可 说明书","description": "开源许可 和 CC 许可 简易介绍和使用教程","category": "linux","tag": ["License"],"page_image":"/assets/open_source_license_and_CC_license_main_image.png"}
 
+![](/assets/open_source_license_and_CC_license_main_image.png) 
+
 ## Copyright
 
 Copyright 也就是 ` 版权 `, 我们拥有我们创作的软件的全部内容的版权, 都归属于 创作者 所有. 这意味着 别人想要 复制 / 分发 / 修改 你的软件都需要你的许可. 但是可能有些情况下我们完全不 Care 这个软件的版权, 或者我们乐意看到别人在我们的基础上进行修改和翻译. 但又不希望每一次都需要进行对话来授权, 所以就有了 `Copyleft`.
