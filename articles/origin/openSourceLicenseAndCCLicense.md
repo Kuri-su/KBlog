@@ -80,9 +80,9 @@ https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 * `宽松式 (permissive) 许可`
 * `Copyleft 许可`
 
-### 宽松式 许可
+**宽松式 许可**
 
-#### MIT
+### MIT
 
 MIT 许可许可 来自 麻省理工学院, 与GPL兼容, 可以与 GPL 作品融合
 
@@ -94,7 +94,7 @@ MIT 许可许可 来自 麻省理工学院, 与GPL兼容, 可以与 GPL 作品�
 
 到 2015 年为止, 是 Github 上最受欢迎的 许可方式, 使用过 MIT License 的项目包括 `Node.js`, `Nim`, `Ruby on Rails` 等
 
-#### BSD 
+### BSD 
 
 BSD 开源许可的全称 是 `Berkeley Software Distribution` , 来自 加州大学伯克利分校, BSD 有 3 目前还在使用的许可,以及 1 种已经消失在历史的长河中的许可, 
 * 已经不再使用的许可
@@ -138,7 +138,7 @@ BSD 许可后面的序号代表的是这个许可有几句,例如 BSD 4 的许�
 
 以上就是 BSD 的发展过程, BSD-4许可 修改后的 BSD-3 和 BSD-2 是与GPL相容的许可
 
-#### Apache
+### Apache
 
 Apache 许可来自 `Apache软件基金会` , 起初作为 Apache 基金会下所有项目的开源许可, 后来许多非 Apache 基金会项目也是用了 Apache 许可.
 
@@ -194,9 +194,9 @@ limitations under the License.
 
 笔者的[毕设](https://github.com/Kuri-su/CAPTCHA_Reader) 最初用的 MIT 许可, 在看到这个有趣的许可后就转到该许可了:joy:.
 
-### Copyleft 许可
+**Copyleft 许可**
 
-#### GPL
+### GPL
 
 GPL 系列许可 来自 FSF (自由软件基金会), 初衷是给予终端用户 运行|学习|共享|修改 软件的自由, 极力的避免自由软件私有化. 同时 GPL 许可也包含 免责条款 以及 不为软件提供品质担保.
 
@@ -239,7 +239,7 @@ GPL 许可相比 前面提到的 MIT 和 BSD 许可 复杂很多(毕竟一篇几
 
 我们看到 对于 软件分发模式 的商业模式(例如微软), GPL 可以很好的约束. 但是随着 Google,AWS 等云服务商的兴起, GPL 开始出现漏洞. 因为他们本身不发布软件, 而是利用软件在云端提供服务,但 GPL 生效的前提是 `发布` 软件, 这种方式绕开了 GPL 所定义的约束. 因此为了避免这个漏洞, 而提出了 AGPL 许可.
 
-##### AGPL
+#### AGPL
 
 AGPL 的全称是 `GNU Affero General Public License` , 是对 GPL 的一个补充, 他避免了 GPL 和 LGPL 的一个漏洞. 主要针对各种云服务商.
 
@@ -253,7 +253,7 @@ AGPL 由 Affero 公司发起, 目前发展到 v3, 和 GPL 的版本对应. AGPL 
 
 在自己的项目中使用 AGPL 许可发布, 基本和 使用 GPL 许可发布一样, 唯一的不同是 License 需要使用 [AGPL](https://www.gnu.org/licenses/agpl.txt) 的 License.
 
-##### LGPL
+#### LGPL
 
 LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化的 GPL 许可. LGPL 允许软件通过类库引用(link)方式使用 LGPL 类库而不需要开源软件的代码. 除此之外, 在其他部分保持和 GPL 一致.
 
