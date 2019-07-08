@@ -1,6 +1,6 @@
 # ARTS Week-N
 
-> 9102-06-16
+> YYYY-MM-DD
 
 ## Algorithm
 
