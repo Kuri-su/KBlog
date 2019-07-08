@@ -5,8 +5,10 @@
 
 * Review：主要是为了学习英文，如果你的英文不行，你基本上无缘技术高手。所以，需要你阅读并点评至少一篇英文技术文章，推荐的地方是 http://Medium.com （需要梯子）以及各个公司的技术blog，如Netflix的。
     * 阅读并点评一篇英文技术文章. 
-    * 例如 https://medium.com/@mlowicki 等
-    * 例如 http://coding-geek.com/the-best-programming-language/
+    * 例如 <https://medium.com/@mlowicki>
+    * 例如 <https://medium.com>
+    * 例如 <http://coding-geek.com/the-best-programming-language/>
+    * 例如 <https://www.zcfy.cc/original>
 
 * Tip：主要是为了总结和归纳你在是常工作中所遇到的知识点。学习至少一个技术技巧。你在工作中遇到的问题，踩过的坑，学习的点滴知识。
     * 有趣的工具或技巧
