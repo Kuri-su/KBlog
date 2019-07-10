@@ -38,6 +38,12 @@ https://www.zhihu.com/question/301150832/answer/529809529
     * T:
     * S:
     
+* [week5-190708](posts/week5-190708.md)
+    * A: LeetCode-456 - 132模式
+    * R: // TODO
+    * T: // TODO
+    * S: // TODO
+    
 * [week4-190703](posts/week4-190703.md)
     * A: LeetCode-591 - 标签验证器
     * R: [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
