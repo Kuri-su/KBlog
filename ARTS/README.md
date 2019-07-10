@@ -40,7 +40,7 @@ https://www.zhihu.com/question/301150832/answer/529809529
     
 * [week5-190708](posts/week5-190708.md)
     * A: LeetCode-456 - 132模式
-    * R: // TODO
+    * R: [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
     * T: // TODO
     * S: // TODO
     
