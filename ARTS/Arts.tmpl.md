@@ -22,7 +22,7 @@ https://github.com/Kuri-su/CodeWarSet/blob/master/leetcode/golang/ TODO
 
 > ref:
 >
-> 
+> []()
 
 ----
 
@@ -30,7 +30,7 @@ https://github.com/Kuri-su/CodeWarSet/blob/master/leetcode/golang/ TODO
 
 > ref:
 >
-> 
+> []()
 
 ----
 
@@ -42,4 +42,4 @@ https://github.com/Kuri-su/CodeWarSet/blob/master/leetcode/golang/ TODO
 
 > ref:
 >
-> 
+> []()
