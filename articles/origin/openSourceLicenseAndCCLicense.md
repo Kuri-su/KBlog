@@ -1,102 +1,100 @@
-{"title": "程序员的 开源许可 和 CC 许可 说明书","description": "开源许可 和 CC 许可 简易介绍和使用教程","category": "linux","tag": ["License"],"page_image":"/assets/open_source_license_and_CC_license_main_image.png"}
+{"title": "从 程序员 的版权说开去","description": "常用 开源许可 与 CC 许可 简明手册","category": "linux","tag": ["License"],"page_image":"/assets/open_source_license_and_CC_license_main_image.png"}
 
-![](/assets/open_source_license_and_CC_license_main_image.png) 
+# 从程序的版权说开去
 
-## Copyright
+给程序员的常用 开源许可 与 CC 许可 简明手册
 
-Copyright 也就是 ` 版权 `, 我们拥有我们创作的软件的全部内容的版权, 都归属于 创作者 所有. 这意味着 别人想要 复制 / 分发 / 修改 你的软件都需要你的许可. 但是可能有些情况下我们完全不 Care 这个软件的版权, 或者我们乐意看到别人在我们的基础上进行修改和翻译. 但又不希望每一次都需要进行对话来授权, 所以就有了 `Copyleft`.
+![](/assets/open_source_license_and_CC_license_main_image.png)
 
-![](/assets/open_source_license_and_CC_license_copyright.png) 
+有使用 GitHub 这一类代码仓库的同学想必都有接触过 License 这个名词, 在我们创建 开源项目 的时候, GitHub 会建议为我们的项目添加 License, 如果你和 kurisu 一样不太清楚这些协议之间的区别, 以至于是使用 MIT协议的常客的话:joy:, 或许下面读完这些内容, 下一次在选择 License 的时候, 会有更多选择.
 
-Copyleft 的提出 源自 ` 自由软件运动 `, 是一种利用现有 著作权 体制来保障用户软件自由使用的许可方式. 用简单的话说 Copyleft 就是 ` 用户可以在创作者的许可许可下, 自由的 使用 / 分发 / 修改 `, 这样就免去了很多的沟通成本, 并且最重要的是, 这在 不反对 原有的著作权法的基础上, 进一步的促进**创作自由**, 与保障著作内容的传播.
-
-![](/assets/open_source_license_and_CC_license_copyleft.png) 
-
-Copyleft 起初是在由 `GNU 项目 ` 提出并使用, 到实际使用中也就是我们在开源软件时候所选择的各种许可, 例如 `GPLv3`, `MIT`, `Mozilla Public License 2.0` 等等. 这里比较有意思的是, `Copyleft` 不仅名字和 版权的英文 `CopyRight` 是反过来的, 图标 也是 版权标志的 C 朝向左边.
-
-![](/assets/open_source_license_and_CC_license_gnu.jpeg) 
-
-在 2001 年, 拥有和 Copyleft 同样理念的 CC 许可 (Creative Commons)出现, 提倡 ` 著作物可以更广的流通和修改, 可使他人据以创作及共享, 并以所提供的许可方式保障以上理念 `, 目前常用于 公开的文章 的版权声明.
+本文将从 版权(Copyright) 开始, 简述 Copyleft 的诞生, 依次介绍 常见的开源协议, 例如 GPLv3, BSD 等. 在最后会介绍在 博客 和 问答 网站中常见的 CC(Creative Commons) 许可, 或许 下一次 你在发表博文的时候就可以在末尾加上你的 CC 许可.
 
 
-![](/assets/open_source_license_and_CC_license_cc.png) 
+## 从 Copyright 到 Copyleft
 
----
+Copyright 也就是 ` 版权 `, 对于我们独立创作的作品, 我们作为它的创作者,  我们它全部内容的版权. 这样可以很好的保障我们的创作者权益. 但是在 IT 领域,  特别开源软件运动兴起后, 这种十分严格的版权制度开始凸显出它的不足.
 
-下面详细的介绍 CC 许可 和 常见的开源许可 :
+![](/assets/open_source_license_and_CC_license_copyright.png)
 
-## CC 许可 (Creative Commons 常简称 CC 许可)
+打个比方, 例如在 GitHub 这种平台, 我们在一些感兴趣的项目上做二次开发后, 再发布, 这在今天是非常常见的一种做法, 但是如果时间倒退到二三十年前, 这将是一场灾难, 那时还没有 GitHub 这种平台, 我们从论坛获得了源代码后, 进行二次创作后, 需要征求原作者意见, 包括在 商业、署名、是否允许使用原作者的名字做宣传 等等方面都需要较好的沟通, 然后再发布. 如果这个软件非常受欢迎, 进行二次创作的人很多, 那么这将成为一场灾难...
 
-我们常常会在一些网站上看到 类似于下图这样的图标.
+![](/assets/open_source_license_and_CC_license_copyleft.png)
 
-![ex](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+那么在自由软件运动中, 开源软件运动 的 发起者/组织者 [`理查德·斯托曼(Richard Stallman)`](https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC) 提出了 Copyleft. 它是一种利用现有 著作权体制 来保障用户软件自由使用的许可方式. 用简单的话说 Copyleft 就是 ` 用户可以在创作者的许可下, 自由的 使用 和 分发 以及 修改 `, 这样就免去了很多的沟通成本, 并且最重要的是, 这在 不反对 原有的著作权法的基础上, 进一步的促进**创作自由**, 与保障著作内容的传播.
 
-它就是 CC 许可 声明, CC 许可是一种 ` 公共著作权许可许可 ` , CC 许可规定了四种 基本元素
-
-* 署名 (BY)
-    * 用户在使用该作品的同时, 需要 ` 按照作者指定的方式对作品进行许可 `
-* 非商业使用 (NC)
-    * 用户在使用该作品的同时, 不得以商业目的使用该作品
-* 禁止演绎 (ND)
-    * 用户在使用该作品的同时, 不得修改该作品
-* 相同方式共享 (SA)
-    * 用户在使用该作品的同时, 如果你修改 (派生) 了该作品, 在散播派生作品的同时需要遵守许可,
-
-可以使用以上四种元素进行任意组合, 得到多种许可许可, 不过因为 ND 和 SA 是互斥的两种许可, 所以通常只有 11 种有效许可.
-
-同时外加一种 `CC 0` 许可, 采用该许可即代表作者宣布放弃该作品的一切版权，该作品进入共有领域。:joy:
-
-### 关于 CC 许可的版本
-
-细心的同学会注意到, 这个博客的博文也使用了 CC 许可, 后面带有 4.0 的字样. 是的, CC 许可也存在版本, 不过对于使用者来说基本没有太大区别.
-
-最新的 4.0 版（于 2013 年 11 月 25 日发布）不需要移植就可以适用于各地的法律，4.0 版并不鼓励移植，而是希望能作为一个全球通用的许可方式。有兴趣的话可以查看各个版本原文, 这里给出 `by-nc-sa` 各版本的 CC 许可的原文链接.
-
-* [1.0](https://creativecommons.org/licenses/by-nc-sa/1.0/legalcode)
-* [2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode)
-* [3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
-* [4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+![](/assets/open_source_license_and_CC_license_gnu.jpeg)
 
 
-### 一些小技巧
+这里比较有意思的是, `Copyleft` 不仅名字和 版权的英文 `CopyRight` 是反过来的, 图标 也是 版权标志的 C 朝向左边.
 
-如果你需要在你的网站挂上 CC 许可的图标, 只需要修改下面这个 URL 的许可种类部分即可, 也就是 `by-nc-sa` , 通常的顺序是 by -> nc -> nd/sa ,
-```
-https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
-```
+Copyleft 起初是在由 `GNU 项目 ` 提出并使用, 到实际使用中也就是我们在 GitHub 所选择的各种许可, 例如 `GPLv3`, `MIT`, `Mozilla Public License 2.0` 等等. 我们下面将会一一介绍这些常见的许可.
+
+
 
 
 ## 常见的开源许可
 
-此处介绍的开源许可都有以下特性, 
-* 没有使用限制
-    * 用户可以使用代码，做任何想做的事情。
-* 没有担保
-    * 不保证代码质量，用户自担风险。
-* 披露要求
-    * 用户必须披露原始作者
-
-此处参考 阮一峰老师 的观点, 根据使用条件的不同, 将 开源许可 分成两大类
+开源许可 可以分为如下两大类
 * `宽松式 (permissive) 许可`
+  * MIT License
+  * BSD License
+  * Apache License
+  * Do What The F*ck You Want To Public License
 * `Copyleft 许可`
+  * GPL
+    * AGPL
+    * LGPL
+    * Mozilla Public License (MPL)
 
-**宽松式 许可**
+这些许可都有这些共同的特点
+* 用户没有使用限制, 可以做任何想做的事情
+* 不保证代码质量，用户自担风险
+* 用户必须披露原始作者
 
-### MIT
+### 宽松式 许可
+
+#### MIT
 
 MIT 许可许可 来自 麻省理工学院, 与GPL兼容, 可以与 GPL 作品融合
 
 用户只需要遵守这一个义务, 就可以任意的使用该软件, 甚至可以使用原作者的名字来进行软件促销,又或者是可以修改源码后闭源.
-* 所有的副本中都要包含该 License 文件 (Wiki 上说是包括著作权声明和本许可声明, 但是其实他们都写在了这个 License 文件里, 例如末尾的 MIT 样例)
+* 所有的副本中都要包含该 License 文件 (Wiki 上说是包括著作权声明和本许可声明, 但是其实他们都写在了这个 License 文件里, 这是一个 MIT License 样例)
+
+```
+MIT License
+
+Copyright (c) 2019 Amatist_Kurisu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+```
 
 同时 最初作者(版权者) 可以根据自己的需求修改 License 原文的内容再发布, 这和 GPL 系列等许可很不同, GPL 系列许可 是不允许 版权者 修改 License 原文内容的.
+
 但是因为这个特性, 所以有可能 版权者 会在 License 中添加更多的约束, 出现很多变种. 例如 FSF 为 [ncurses](https://github.com/mirror/ncurses/blob/master/COPYING) 的 X11 许可(MIT 变种)中, 就不允许 使用 原作者的名字作为广告宣传或者促销. 所以对使用 MIT 许可的项目, 可能需要检查一下他的 License 内容.
 
 到 2015 年为止, 是 Github 上最受欢迎的 许可方式, 使用过 MIT License 的项目包括 `Node.js`, `Nim`, `Ruby on Rails` 等
 
-### BSD 
+#### BSD
 
-BSD 开源许可的全称 是 `Berkeley Software Distribution` , 来自 加州大学伯克利分校, BSD 有 3 目前还在使用的许可,以及 1 种已经消失在历史的长河中的许可, 
+BSD 开源许可的全称 是 `Berkeley Software Distribution` , 来自 加州大学伯克利分校, BSD 有 3 目前还在使用的许可,以及 1 种已经消失在历史的长河中的许可,
 * 已经不再使用的许可
     * BSD-4-Clause License (BSD 四句许可)
 * 目前还在使用的许可
@@ -109,10 +107,10 @@ BSD 许可后面的序号代表的是这个许可有几句,例如 BSD 4 的许�
 ```
 * Copyright (c) 1982, 1986, 1990, 1991, 1993
 * 著作权由加州大学董事会所有。著作权人保留一切权利。
-* 
+*
 * 这份授权条款，在使用者符合以下四条件的情形下，授予使用者使用及再散播本
 * 软件包装原始码及二进位可执行形式的权利，无论此包装是否经改作皆然：
-* 
+*
 * 1. 对于本软件源代码的再散播，必须保留上述的版权宣告、此四条件表列，以
 *    及下述的免责声明。
 * 2. 对于本套件二进位可执行形式的再散播，必须连带以文件以及／或者其他附
@@ -123,7 +121,7 @@ BSD 许可后面的序号代表的是这个许可有几句,例如 BSD 4 的许�
 *        “本产品内含有由柏克莱加州大学及其软件贡献者所开发的软件。”
 * 4. 未获事前取得书面许可，不得使用柏克莱加州大学或本软件贡献者之名称，
 *    来为本软件之衍生物做任何表示支持、认可或推广、促销之行为。
-* 
+*
 * 免责声明：本软件是由加州大学董事会及本软件之贡献者以现状（"as is"）提供.... <省略>
 
 ```
@@ -134,11 +132,11 @@ BSD 许可后面的序号代表的是这个许可有几句,例如 BSD 4 的许�
 
 之后在 FreeBSD 中使用的是更简单的 BSD-2 许可, 在原本 BSD-3 的基础上删除了第三句, 也就是上面 BSD-4 中的第四句. 这一版本的 BSD 许可和 MIT 许可基本一致.
 
-在此之后也出现了 BSD-0, 不过较少人使用该许可. BSD-0 在 BSD-2 的基础上删除了许可的第一句和第二句, 仅保留版权声明和免责声明. 
+在此之后也出现了 BSD-0, 不过较少人使用该许可. BSD-0 在 BSD-2 的基础上删除了许可的第一句和第二句, 仅保留版权声明和免责声明.
 
 以上就是 BSD 的发展过程, BSD-4许可 修改后的 BSD-3 和 BSD-2 是与GPL相容的许可
 
-### Apache
+#### Apache
 
 Apache 许可来自 `Apache软件基金会` , 起初作为 Apache 基金会下所有项目的开源许可, 后来许多非 Apache 基金会项目也是用了 Apache 许可.
 
@@ -183,24 +181,22 @@ limitations under the License.
 最后如果你需要修改再发布一个 Apache 许可的软件, 你需要明确指出进行了何种修改.
 
 
-### 题外话
-
 #### Do What The F*ck You Want To Public License
 
-介绍完 `宽松式许可` 后, 如果还没看累的话, 这里介绍一个比较有意思的许可, `Do What The F*ck You Want To Public License`, 翻译成 中文就是, `你TXD的想干嘛就干嘛公共许可证` :joy: , 该许可只包含版权声明, 以及一条约束
+ 这里介绍一个比较有意思的许可, `Do What The F*ck You Want To Public License`, 翻译成 中文就是, `你TXD的想干嘛就干嘛公共许可证` :joy: , 该许可只包含版权声明, 以及一条约束
 * 如果修改了本许可, 必须修改许可名称
 
 该许可基本就等于直接贡献到 公有领域. 该许可与 GPL 相容.
 
-笔者的[毕设](https://github.com/Kuri-su/CAPTCHA_Reader) 最初用的 MIT 许可, 在看到这个有趣的许可后就转到该许可了:joy:.
+笔者的[Kuri-su/CAPTCHA_Reader](https://github.com/Kuri-su/CAPTCHA_Reader)项目 最初用的 MIT 许可, 在看到这个有趣的许可后就转到该许可了:joy:.
 
-**Copyleft 许可**
+### Copyleft 许可
 
-### GPL
+#### GPL
 
 GPL 系列许可 来自 FSF (自由软件基金会), 初衷是给予终端用户 运行|学习|共享|修改 软件的自由, 极力的避免自由软件私有化. 同时 GPL 许可也包含 免责条款 以及 不为软件提供品质担保.
 
-![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/200px-GPLv3_Logo.svg.png) 
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/200px-GPLv3_Logo.svg.png)
 
 GPL 许可相比 前面提到的 MIT 和 BSD 许可 复杂很多(毕竟一篇几百行的文章:joy:). 总结一下, GPL 有三个特点:
 1. 任何软件, 只要使用了 GPL 许可保护的软件(或者第三方库), 且向非开发人员发布时, 软件本身也就自动成为受 GPL 保护并且约束的. (GPL 许可原文第 5 部分, 描述集合的那段)
@@ -233,7 +229,7 @@ GPL 许可相比 前面提到的 MIT 和 BSD 许可 复杂很多(毕竟一篇几
 
 所以 只要使用了 GPL 的包 , 就必须公开源代码, 而且也会变成 GPL 的一员. 这也就是被吐槽的 GPL许可 是一种丧尸病毒 :joy:.
 
-![ex](http://xkcd.in/resources/compiled_cn/00dbc7dec5e18740909f4cf1b0f9c6db.png) 
+![ex](http://xkcd.in/resources/compiled_cn/00dbc7dec5e18740909f4cf1b0f9c6db.png)
 
 除此之外, GPL 不限制商用. 甚至允许在 转发完整副本 时, 可以选择收取一定金额, 也可以选择提供技术支持或品质担保以换取收入.
 
@@ -243,7 +239,7 @@ GPL 许可相比 前面提到的 MIT 和 BSD 许可 复杂很多(毕竟一篇几
 
 AGPL 的全称是 `GNU Affero General Public License` , 是对 GPL 的一个补充, 他避免了 GPL 和 LGPL 的一个漏洞. 主要针对各种云服务商.
 
-![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AGPLv3_Logo.svg/200px-AGPLv3_Logo.svg.png) 
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AGPLv3_Logo.svg/200px-AGPLv3_Logo.svg.png)
 
 AGPL 由 Affero 公司发起, 目前发展到 v3, 和 GPL 的版本对应. AGPL 继承了 GPL 全部的条款, 同时在此基础上增加了一条.
 
@@ -253,7 +249,7 @@ AGPL 由 Affero 公司发起, 目前发展到 v3, 和 GPL 的版本对应. AGPL 
 
 在自己的项目中使用 AGPL 许可发布, 基本和 使用 GPL 许可发布一样, 唯一的不同是 License 需要使用 [AGPL](https://www.gnu.org/licenses/agpl.txt) 的 License.
 
-#### LGPL
+##### LGPL
 
 LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化的 GPL 许可. LGPL 允许软件通过类库引用(link)方式使用 LGPL 类库而不需要开源软件的代码. 除此之外, 在其他部分保持和 GPL 一致.
 
@@ -261,24 +257,72 @@ LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化�
 
 使用 LGPL 的方式和 GPL 类似, 不过你需要复制一份 [LGPL](https://www.gnu.org/licenses/lgpl.txt) 的纯文本版, 放在叫做 COPYING.LESSER 的文件中.(也就是说, 总体上你需要复制两份文件, 一份 GPL 许可的纯文本版, 一份 LGPL 的纯文本版)
 
-![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/160px-LGPLv3_Logo.svg.png) 
+![ex](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/160px-LGPLv3_Logo.svg.png)
+
+到这里就介绍完了 开源许可, 之后我们将介绍一下 我们经常在博客看到的 CC 许可
+
+
+
+## Creative Commons (常简称 CC 许可)
+
+在 2001 年, 拥有和 Copyleft 同样理念的 CC 许可 (Creative Commons)出现, 提倡 ` 著作物可以更广的流通和修改, 可使他人据以创作及共享, 并以所提供的许可方式保障以上理念 `, 目前常用于 公开的文章 的版权声明.
+
+![](/assets/open_source_license_and_CC_license_cc.png)
+
+我们常常会在一些网站上看到 类似于下图这样的图标.
+
+![ex](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+它就是 CC 许可 声明, CC 许可是一种 ` 公共著作权许可许可 ` , CC 许可规定了四种 基本元素
+
+* 署名 (BY)
+    * 用户在使用该作品的同时, 需要 ` 按照作者指定的方式对作品进行许可 `
+* 非商业使用 (NC)
+    * 用户在使用该作品的同时, 不得以商业目的使用该作品
+* 禁止演绎 (ND)
+    * 用户在使用该作品的同时, 不得修改该作品
+* 相同方式共享 (SA)
+    * 用户在使用该作品的同时, 如果你修改 (派生) 了该作品, 在散播派生作品的同时需要遵守许可,
+
+可以使用以上四种元素进行任意组合, 得到多种许可许可, 不过因为 ND 和 SA 是互斥的两种许可, 所以通常只有 11 种有效许可.
+
+同时外加一种 `CC 0` 许可, 采用该许可即代表作者宣布放弃该作品的一切版权，该作品进入共有领域。:joy:
+
+### 关于 CC 许可的版本
+
+细心的同学会注意到, 这个博客的博文也使用了 CC 许可, 后面带有 4.0 的字样. 是的, CC 许可也存在版本, 不过对于使用者来说基本没有太大区别.
+
+最新的 4.0 版（于 2013 年 11 月 25 日发布）不需要移植就可以适用于各地的法律，4.0 版并不鼓励移植，而是希望能作为一个全球通用的许可方式。有兴趣的话可以查看各个版本原文, 这里给出 `by-nc-sa` 各版本的 CC 许可的原文链接.
+
+* [1.0](https://creativecommons.org/licenses/by-nc-sa/1.0/legalcode)
+* [2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode)
+* [3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
+* [4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+
+### 一些小技巧
+
+如果你需要在你的网站挂上 CC 许可的图标, 只需要修改下面这个 URL 的许可种类部分即可, 也就是 `by-nc-sa` , 通常的顺序是 by -> nc -> nd/sa ,
+```
+https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+```
 
 
 ## 结
 
-除了上面到的这些,还有 BSL, MPL, EPL 等的开源许可, 这里就不详细介绍了.
+除了上面到的这些,还有 BSL, EPL 等的开源许可, 这里就不详细介绍了, 有兴趣的话可以自行 Google 了解.
 
 网络上有非常多的关于开源许可和CC许可的介绍,不过个人感觉介绍的有些片面而且分散,且自己理解的不是很明白,  希望自己能总结并记录下来, 也希望读者可以根据这篇文章比较系统的了解到开源许可和他们之间的不同,在为自己的项目挑选许可的时候不再犹豫.
 
 由于作者并不是法律专业, 对于这些许可的了解来自互联网, 难免有错误的理解和疏漏. 有任何的错误,欢迎到 [kuri-su/KBlog](https://github.com/Kuri-su/KBlog/issues) 提　Issue 敦促作者修改.
 
-> PS: 
+> PS:
 > 撸完这篇文章, 也算是了了个心结... 每次自己的开源项目选开源许可的时候, 不重要的选 MIT, 重要的选 GPL_V3 , 文章的 CC 许可写 by-nc-nd-sa :joy:, 终于可以肯定的选择自己需要的许可了 (擦眼泪).
 >
 > 这篇文章写的相当累...主要自己不太懂..然后各种资料也比较少...大段的都是法律文书类的..看的非常费劲....
 
 > Ref:
-> 
+>
 > https://opensource.org/licenses/alphabetical
 >
 > https://opensource.org/licenses/category
@@ -328,37 +372,10 @@ LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化�
 > https://adoyle.me/blog/how-to-apply-the-apache-2-0-license-to-your-project.html
 >
 > https://doc.yonyoucloud.com/doc/sfd-gpl/gplv3.html
-> 
+>
 > https://baike.baidu.com/item/GPL/2357903
-> 
+>
 > https://jxself.org/translations/gpl-3.zh.shtml (GPL 许可的中文译本, 翻译的十分流畅, 推荐阅读, 本博客已备份该文章)
-> 
+>
 > https://www.gnu.org/licenses/gpl-howto.html ( 如何使用 GPL 的 Gnu.org 官方教程)
-> 
-
-## 附录
-
-```
-MIT License
-
-Copyright (c) 2019 Amatist_Kurisu
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-```
+>
