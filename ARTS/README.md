@@ -40,9 +40,9 @@ https://www.zhihu.com/question/301150832/answer/529809529
     
 * [week5-190708](posts/week5-190708.md)
     * A: LeetCode-456 - 132模式
-    * R: [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
-    * T: // TODO
-    * S: // TODO
+    * R: [The end game for developers](https://micro.mu/blog/2019/06/13/the-developer-end-game.html)
+    * T: Go-micro 以及 Micro Toolkit 简要总结
+    * S: [百万年薪挖了个 P8 程序员，难道是“水货”？](https://www.infoq.cn/article/09cjC29-YZf3Luo3vQDE)
     
 * [week4-190703](posts/week4-190703.md)
     * A: LeetCode-591 - 标签验证器
