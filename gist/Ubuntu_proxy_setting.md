@@ -53,7 +53,7 @@ curl -L http://ip.cn
 
 这个相对简单, Chrome 可以打开 Ubuntu 图形化界面的 网络设置进行设置,
 
-![](http://pu01k92se.bkt.clouddn.com/ubuntu_proxy_setting2.png)
+![](http://img.cdn.kuri.link/ubuntu_proxy_setting2.png)
 
 Firefox 则可以通过, 设置页面的 Network Setting 中的 Proxy 进行设置, 和 Chrome 的设置类似, 这里就不过多赘述
 
