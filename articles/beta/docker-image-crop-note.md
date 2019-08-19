@@ -7,7 +7,7 @@
 
 ## 缘起
 
-在书写 Dockerfile 放到 K8S 中的之后, 发现 Node 的磁盘容量被消耗的很快, 发现是 Pod 内的 Docker Container 过大导致. 一个仅仅 用于运行 micro/micro 的 Micro Api 的 Container 占地面积 1G+ ...., 让人有些汗颜, 遂开始尝试 对 Container 进行瘦身.
+在书写 Dockerfile 放到 Kubernetes 中的之后, 发现 Node 的磁盘容量被消耗的很快, 发现是 Pod 内的 Docker Container 过大导致. 一个仅仅 用于运行 micro/micro 的 Micro Api 的 Container 占地面积 1G+ ...., 让人有些汗颜, 遂开始尝试 对 Container 进行瘦身.
 
 
 ## 第一个尝试 (删除剩余缓存)
