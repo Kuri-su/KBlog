@@ -1,3 +1,4 @@
+{"title": "","description": "","category": "","tag": [""],"page_image": "/assets/"}
 
 # 一次 Docker-Image 瘦身实记
 
