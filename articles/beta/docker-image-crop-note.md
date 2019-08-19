@@ -1,10 +1,12 @@
 {"title": "","description": "","category": "","tag": [""],"page_image": "/assets/"}
 
-# 一次 Docker-Image 瘦身实记
+# 一次 Docker 镜像 瘦身实记
 
 [TOC]
 
-在此之前完全没有在意过 Docker 镜像的大小...
+笔者在此之前完全没有在意过 Docker 镜像的大小...
+
+(或许 副标题可以取成 《如何将你的 Docker 镜像大小缩减 99%!!XD》:joy: 太羞耻了233 )
 
 ## 缘起
 
