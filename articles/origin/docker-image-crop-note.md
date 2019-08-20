@@ -1,6 +1,6 @@
-{"title": "","description": "","category": "","tag": [""],"page_image": "/assets/"}
+{"title": "一次 Docker 镜像瘦身实记","description": "(伪)《如何将你的 Docker 镜像大小缩减 99%!!XD》","category": "docker","tag": ["docker"],"page_image": "/assets/sitecore-docker-header.png"}
 
-# 一次 Docker 镜像 瘦身实记
+# 一次 Docker 镜像瘦身实记
 
 [TOC]
 
@@ -10,12 +10,12 @@
 
 ## 缘起
 
-在书写 Dockerfile 放到 Kubernetes 中的之后, 发现 Node 的磁盘容量被消耗的很快, 发现是 Pod 内的 Docker Container 过大导致. 一个仅仅 用于运行 micro/micro 的 Micro Api 的 Container 占地面积 1G+ ...., 让人有些汗颜, 遂开始尝试 对 Container 的 镜像 进行瘦身.
+在书写 Dockerfile 构建镜像并放到 Kubernetes 中运行之后, 发现 `Worker Node` 的磁盘容量被消耗的很快, 发现是 Pod 内的 `Docker Container` 过大导致. 一个仅仅 用于运行 `micro/micro` 的 Micro Api 的容器占地面积 `1G+` ...., 让人有些汗颜, 遂开始尝试 对容器的 Image 进行瘦身.
 
 
 ## 第一个尝试 (删除剩余缓存)
 
-如下面这个 DockerFile 所示, 让我们看看构建后, 构建出来的 Image 占多少空间
+如下面这个不做任何清理的 DockerFile 所示, 让我们看看构建后, 构建出来的 Image 占多少空间
 
 ```dockerfile
 FROM alpine:latest
@@ -50,23 +50,28 @@ $ docker image ls | grep micro
 micro    v1.01    2b1330a05f90   27 seconds ago   948MB
 ```
 
-ok, 我们看到 `948MB`, 都快接近 1 个 G 的占地面积了, 但是 go 编译的二进制文件顶多才几十 M 才对鸭, 肯定是有一些不必要的占用, 那么接下来我们进入容器看看主要的空间占用集中在哪些位置
+ok, 构建出来的镜像占地面积 `948 MB`, 接近 1G 的体积. 但是 go 编译的二进制文件顶多才几十 M 才对鸭, 一定是有一些不必要的占用, 那么接下来我们进入容器看看主要的空间占用集中在哪些位置
 
 ```bash
 $ docker run -it --rm micro:v1.01 /bin/sh
 # 因为 busybox 的 du 命令版本较低, 这里使用 ncdu
 /  apk add ncdu
+/  ncdu
 ```
 
 然后我们可以观察到 大小主要集中在
 
-* /root/go/src  471+MB
+* /root/go/src  471+MB  // Go 编译时下载的依赖文件
 * /root/go/bin  36+MB   // micro 编译出来二进制文件, 我们所需要的
-* /usr/lib      320+MB
+* /usr/lib      320+MB  // 我们 apk add 时得到的 lib 文件
 * /usr/libexec  66+MB
 * ...
 
-简单分析一下, 主要是我们上面 apk 命令安装的 软件 和 lib , 以及 go 编译 micro 所需的 依赖, 而我们编译好的 Micro 二进制文件完全不需要这些也可以运行. 所以我们改造一下上面的 Dockerfile , 将 apk 安装的软件卸载掉, 把 go 和依赖全部删掉, 以缩小镜像体积
+简单分析一下, 主要是我们上面 apk 命令安装的软件和 lib , 以及 go 编译 micro 所需的依赖.
+
+实际上我们编译得到 Micro 二进制文件完全不需要这些就能运行. 
+
+所以我们改造一下上面的 Dockerfile , 把 apk 安装的软件以及 Go 的依赖全部删掉, 以缩小镜像体积
 
 ```dockerfile
 FROM alpine:latest
@@ -105,9 +110,10 @@ $ docker image ls | grep micro
 micro    v1.02    03e65f4ba3ed    8 seconds ago    44.1MB
 ```
 
-好的, 这次的优化效果显著 , 构建后的镜像大小 `44.1MB`, 仅为原来的 % ! 第一阶段工作完成!
 
-这里有个小插曲, 第一次优化的时候犯傻 X.... 我把 dockerfile 写成了这样...
+这次的优化效果显著 , 构建后的镜像大小 `44.1MB`, 仅为原来的 4.6% ! 第一阶段工作完成!
+
+> PS 这里有个小插曲, 第一次优化的时候犯傻 X.... 我把 dockerfile 写成了这样...
 
 ```dockerfile
 FROM alpine:latest
@@ -140,22 +146,22 @@ EXPOSE 8080
 CMD ["micro", "api"]
 ```
 
-咋眼一看可能感觉没啥问题, 逻辑清晰明了, 但是构建之后, 镜像体积完全没有缩小, 那么问题出现在呢?
-
-问题就出现在这清晰明了上 :joy:, 由如下两个原因组合而成:
-
-1. Docker 使用 aufs, 也就是联合文件系统
-1. Dockerfile 中, 一个 命令 即为一层
-
-那么也就是说, 在这个 Dockerfile 中, 我们妄图在下面的层删除上面的层的东西, 这样当然是删不到的: joy:
+> 咋眼一看可能感觉没啥问题, 逻辑清晰明了, 但是构建之后, 镜像体积完全没有缩小, 那么问题出现在呢?
+> 
+> 问题就出现在这清晰明了上 :joy:, 由如下两个原因组合而成:
+> 
+> 1. Docker 使用 aufs, 也就是联合文件系统
+> 1. Dockerfile 中, 一个 命令 即为一层
+> 
+> 那么也就是说, 在这个 Dockerfile 中, 我们妄图在下面的层删除上面的层的东西, 这样当然是删不到的: joy:
 
 ## 第二个尝试 (采用多阶段构建)
 
-上一阶段中, 我们将大小 镜像的大小控制到 44+MB , 效果不错. 但是有个很不优雅的问题, 也很麻烦. 就是我们每次构建镜像都要这样子手动删除, 而且还得写到一坨么.
+在上一阶段中, 我们将镜像体积控制到 `44+MB` , 效果不错. 但是有个很麻烦且不优雅的地方. 就是我们每次写 Dockerfile 难道都要这样手动删除安装的东西吗?!! .
 
 答案是 ` 否定 ` 的.
 
-在 `Docker 17.05` 版本之后, 支持 ` 多阶段构建 (multistage builds)`, 容器仅仅保存最后一个阶段构建的内容, 我们在前面的阶段可以随便写, 安装十个软件写十一个 `Run apk add foo` 都行: joy:(开玩笑的). 那么我们就把 Dockerfile 改造成了这样.
+在 `Docker 17.05` 版本之后, Docker 支持了 ` 多阶段构建 (multistage builds)`, 容器仅仅保存最后一个阶段构建的内容, 我们在前面的阶段可以随便写, 安装十个软件写十一个 `Run apk add foo` 都行 :joy:(开玩笑的). 于是我们就把 Dockerfile 改造成了这样.
 
 ```dockerfile
 FROM alpine:latest
@@ -195,7 +201,9 @@ $ docker image ls | grep micro
 micro    v1.03    8529f0d7aaca    7 seconds ago    43.7MB
 ```
 
-我们看到, 容器体积和前面差不多, 甚至更小了. 基本达到我们的预期, 但是还有没有办法变得更小呢, 当然是有的!!!!
+可以看到看到, 容器体积和前面差不多, 甚至更小了. 
+
+这样能基本达到我们的预期, 但是还有没有办法变得更小呢, 当然是有的!!!!
 
 以下方法针对 Go 这种编译型语言, PHP/Python 这种动态语言可能需要用其他思路.
 
@@ -209,7 +217,7 @@ strip 通过删除可执行文件中 ELF 头的 typchk 段、符号表、字符�
 
 UPX 本来是一个 BIN 文件加壳器, 但是他有一种 叫做 UCL 的压缩算法, 可以进一步减小体积, 运行时先在内存中解压, 对性能影响非常小 (副作用是 会增加程序的启动时间, 建议谨慎使用)
 
-我们接下来把 strip + upx 应用到我们的  Dockerfile 中.
+我们接下来把 strip + upx 应用到我们的 Dockerfile 中.
 
 ```dockerfile
 FROM alpine:latest
@@ -250,7 +258,6 @@ COPY --from=0 /usr/local/bin/micro /usr/local/bin/
 EXPOSE 8080
 
 CMD ["micro", "api"]
-
 ```
 
 让我们构建镜像看看效果
@@ -267,7 +274,7 @@ micro    v1.04    1d22ac38352c    5 seconds ago    14.2MB
 ```bash
 $ docker run -it --rm micro:v1.04 /bin/sh
 / ls -hal /usr/local/bin/micro
--rwxr-xr-x    1 root     root        8.2M Aug 12 07:59 micro
+-rwxr-xr-x    1    root    root    8.2M    Aug 12 07:59    micro
 ```
 
 缩小到了 8.2M, 那么让我们算一下, 还有那些多余的体积.
@@ -276,7 +283,7 @@ $ docker run -it --rm micro:v1.04 /bin/sh
 
 ```bash
 $ docker image ls | grep alpine
-alpine                                                   latest              b7b28af77ffe        5 weeks ago         5.58MB
+alpine    latest    b7b28af77ffe    5 weeks ago    5.58MB
 ```
 
 `8.2 + 5.58 = 13.78 MB` , 也就是 还有 `14.2 - 13.78 = 0.42 MB` 的多余占用, 我们已经基本接近极致. 优化工作可以到此基本告一段落.
