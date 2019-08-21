@@ -8,6 +8,8 @@
 
 (或许 副标题可以取成 《如何将你的 Docker 镜像大小缩减 99%!!XD》:joy: 太羞耻了233 )
 
+![titleImage](/assets/sitecore-docker-header.png)
+
 ## 缘起
 
 在书写 Dockerfile 构建镜像并放到 Kubernetes 中运行之后, 发现 `Worker Node` 的磁盘容量被消耗的很快, 发现是 Pod 内的 `Docker Container` 过大导致. 一个仅仅 用于运行 `micro/micro` 的 Micro Api 的容器占地面积 `1G+` ...., 让人有些汗颜, 遂开始尝试 对容器的 Image 进行瘦身.
