@@ -8,7 +8,7 @@
 
 (或许 副标题可以取成 《如何将你的 Docker 镜像大小缩减 99%!!XD》:joy: 太羞耻了233 )
 
-![titleImage](/assets/sitecore-docker-header.png)
+![](/assets/sitecore-docker-header.png)
 
 ## 缘起
 
