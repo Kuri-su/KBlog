@@ -34,9 +34,18 @@ https://www.zhihu.com/question/301150832/answer/529809529
 
 * [weekN-YYMMDD(模板)](posts/weekN-YYMMDD.md)
     * A: 
-    * R:
-    * T:
-    * S:
+    * R: 
+    * T: 
+    * S: 
+    
+* [week6-190812(模板)](posts/week6-190812.md)
+    * A: 
+        1. LeetCode-71 - 简化路径
+        2. LeetCode-215- 数组中的第K个最大元素
+    * R: [What Is a CVE Vulnerability And How To Understand Its Details](https://resources.whitesourcesoftware.com/blog-whitesource/what-is-cve-vulnerability)
+    * T: htop - 可以理解成 Humen Top , 是 linux top 指令的增强版(也可以叫人类友善版),
+    * S: [为什么程序员的业余项目大多都死了？](https://mp.weixin.qq.com/s/wUTCMklKHEBus4nwwRXqPw)
+    
     
 * [week5-190708](posts/week5-190708.md)
     * A: LeetCode-456 - 132模式
