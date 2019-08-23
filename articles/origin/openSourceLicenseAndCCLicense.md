@@ -377,3 +377,4 @@ https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 >
 > https://www.gnu.org/licenses/gpl-howto.html (如何使用 GPL 的 Gnu.org 官方教程)
 >
+> https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt (license 原文)
