@@ -182,7 +182,7 @@ CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光�
 
 下面是一些例子(直接在 Terminal 中运行即可):
 ```bash
-echo -e "\x1b[38;5;214m\x1b[48;5;239m ssss"  # 输出 前景色为 256色 214 , 背景色为 256色 239 的样式
+echo -e "\x1b[38;5;214m\x1b[48;5;239m ssss\x1b[0m"  # 输出 前景色为 256色 214 , 背景色为 256色 239 的样式
 
 ```
 
