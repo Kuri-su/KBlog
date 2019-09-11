@@ -6,9 +6,11 @@
 下面将介绍如何在 Ubuntu 上安装 devstack, 绝对没有猛如虎的操作, 简单佛系低门槛安装.
 
 1. 准备
+
 打开你的 PS4 或者 准备一部电影 或者 打开你还没写完的代码 / 文章
 
 2. 更新你的系统并且重启
+
 ```shell
 $ sudo apt update
 $ sudo apt -y upgrade
@@ -51,6 +53,7 @@ EOF
 ```
 
 如果你的系统是 19.04 之类的比较新的系统, 由于 openstack 未在该系统上测试过, 所以你需要在 local.conf 中加上
+
 ```shell
 $ cat >> local.conf <<EOF
 FORCE=yes
