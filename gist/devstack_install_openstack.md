@@ -121,11 +121,14 @@ EOF
 设置 pip 镜像
 
 ```shell
-$ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+$ mkdir ~/.pip 
+$ echo > ~/.pip/pip.conf <<EOF
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+EOF
 ```
 
 强烈建议不要设置 git 镜像为国内, 血泪教训, (不清楚是同步问题还是怎样, 各种异常)
-
 
 5. 运行 devstack 安装 openstack
 
