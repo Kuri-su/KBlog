@@ -34,7 +34,7 @@ $ sudo su - stack
 4. 下载和配置 devstack
 
 ```shell
-$ cd /tmp
+$ cd /opt/stack/
 $ git clone https://git.openstack.org/openstack-dev/devstack
 $ cd devstack
 $ cat > local.conf <<EOF
@@ -138,6 +138,13 @@ $ ./stack.sh
 
 然后你就可以继续做你的事情了, 等到安装完之后会显示安装所花的时间以及 账号密码, 以及 dashboard 的地址
 
+> ps: 
+>
+> 中间可能会碰到获取 Etcd 失败的问题, 可以手动下载,然后移动到 `/opt/stack/devstack/files` 下
+
 6. 访问 openstack 开始享用把
    
 ![](http://img.cdn.kuri.link/img/openstack_dashboard_v.jpg)
+
+
+如果安装中碰到问题可以到 [kblog](https://github.com/Kuri-su/KBlog) 发 issue 讨论
