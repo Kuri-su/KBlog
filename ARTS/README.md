@@ -2,6 +2,10 @@
 
 * Algorithm。主要是为了编程训练和学习。每周至少做一个 leetcode 的算法题（先从Easy开始，然后再Medium，最后才Hard）关于做Leetcode的的优势，在这里 [Leetcode 编程训练 - 酷 壳 - CoolShell](https://www.zhihu.com/question/301150832 )
     * 一周弄懂一道 Hard 难度的 Leetcode 的算法题,以及周赛
+    
+> 因为对于数据结构和算法的生疏， 决定从本周(190916)开始每周一篇数据结构/算法的复习, 发布在 Kurisu/KKindex 项目中, 并且一道 Easy/Middle 难度 的 LeetCode 题目.
+> 
+> 
 
 * Review：主要是为了学习英文，如果你的英文不行，你基本上无缘技术高手。所以，需要你阅读并点评至少一篇英文技术文章，推荐的地方是 http://Medium.com （需要梯子）以及各个公司的技术blog，如Netflix的。
     * 阅读并点评一篇英文技术文章. 
@@ -38,7 +42,17 @@ https://www.zhihu.com/question/301150832/answer/529809529
     * T: 
     * S: 
     
-* [week6-190812(模板)](posts/week6-190812.md)
+* [week7-190820](posts/weekN-YYMMDD.md)
+    * A: 
+        1. LeetCode-19 - 删除链表的倒数第N个节点
+        1. LeetCode-468 - 验证IP地址
+    * R: TODO
+    * T: 
+        1. Raft
+        1. RPC 基本原理步骤
+    * S: 
+    
+* [week6-190812](posts/week6-190812.md)
     * A: 
         1. LeetCode-71 - 简化路径
         1. LeetCode-215- 数组中的第K个最大元素
