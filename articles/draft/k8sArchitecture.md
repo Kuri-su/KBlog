@@ -61,9 +61,12 @@ tips:
 
 最好能穿插一些源码
 
+> <Kuberntes Deployment 的生命周期>
+
 ## 如何扩展 Kubernetes (Opteator/Custom Controller/Custom Scheduler)
 
 
+> <Kubernetes opeator 的生命周期>
 
 此处需要查阅更多资料
 
