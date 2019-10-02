@@ -41,15 +41,20 @@ tips:
 2.  Worker Node 如何启动和关闭， 以及和网络联通进行讲解 （Kubelet/CSI/CNI/CRI/OCI/KubeProxy）
 
 > <Kubelet 的功能>
+> 
 > <Kubernetes CSI 解密>
+> 
 > <Kubernetes CNI 解密>
+> 
 > <Kubernetes CRI 解密>
+> 
 
 3. Master Node 如何调度 / 伸缩 / 服务发现。(Controller/Scheduler/ApiServer/Etcd)
 
 4. Kubernetes 是如何解决这些问题的. 
 
 > <Kubernetes Scheduler 解密>
+> 
 
 此处需要查阅更多资料
 
@@ -62,11 +67,13 @@ tips:
 最好能穿插一些源码
 
 > <Kuberntes Deployment 的生命周期>
+> 
 
 ## 如何扩展 Kubernetes (Opteator/Custom Controller/Custom Scheduler)
 
 
 > <Kubernetes opeator 的生命周期>
+> 
 
 此处需要查阅更多资料
 
