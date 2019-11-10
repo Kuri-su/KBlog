@@ -7,11 +7,11 @@
 
 首先我们访问到 <https://nginxconfig.io> , 可以看到如下页面
 
-![](/assets/nginxconfig-io.guide.1.webp)
+![](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/nginxconfig-io/nginxconfig-io.guide.1.webp?raw=true)
 
 假设我们需要搭建的一个 PHP 的 Laravel 服务, 最简单的方式, 我们仅仅需要在 Server 的 Domain 中输入我们的 域名, 然后 在 Global 指定 Nginx 与 PHP-FPM 的通信位置, socket 方式或者 TCP 的方式都可以, 这里我们就改成 以 TCP 的方式在 127.0.0.1:9000 进行通信, 即如下图这样设置, 
 
-![](/assets/nginxconfig-io.guide.2.webp) 
+![](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/nginxconfig-io/nginxconfig-io.guide.2.webp?raw=true) 
 
 接着如果你不需要 HTTPS , 到 HTTPS 标签下 把 HTTPS 对应的 enabled 去掉,接着我们点 ` Generated config (.zip)` 即可.
 
@@ -19,5 +19,5 @@
 
 如果你需要设置 , 那么 HTTPS 你还需要按照此处的流程走完 SSL 的初始化与 证书配置 (CertBot/acme.sh).
 
-![](/assets/nginxconfig-io.guide.3.webp) 
+![](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/nginxconfig-io/nginxconfig-io.guide.3.webp?raw=true) 
 
