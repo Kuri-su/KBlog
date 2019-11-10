@@ -1,9 +1,10 @@
 
-1. 前往 <https://uappexplorer.com/snaps> 搜索需要的 snap 包， 例如 `RedisDesktopManager`
+~~1. 前往 <https://uappexplorer.com/snaps> 搜索需要的 snap 包， 例如 `RedisDesktopManager`~~
+~~1. 下载对应架构的 snap 包~~
+~~1. 下载完成后，在同一目录执行以下命令即可~~
 
-1. 下载对应架构的 snap 包
+`uappexplorer` 已经下线, 如果你能通过其他的网站下载到 .snap 包, 就可以使用这个方法 
 
-1. 下载完成后，在同一目录执行以下命令即可
 ```bash
 $ sudo snap install xxx.snap --dangerous
 ```
@@ -16,7 +17,9 @@ $ sudo snap install xxx.snap --dangerous
 
 ```bash
 # 前置操作, 修改  systemctl edit 使用的编辑器为 VIM, 如果不介意 Nano 可以跳过这一步
-$ sudo echo "export SYSTEMD_EDITOR=\"/bin/vim\" " >> /etc/profile
+$ sudo tee -a /etc/profile <<-'EOF' 
+export SYSTEMD_EDITOR="/bin/vim"
+EOF
 $ source /etc/profile
 
 # 开始设置代理
