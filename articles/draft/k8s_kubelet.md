@@ -27,7 +27,17 @@ Kubelet 通过以下四种途径获取触发事件的请求,
 
 并且 Kubelet 还内置了 Google 开源的 容器资源分析工具 `cAdvisor`, cAdvisor 会自动采集CPU,内存，文件系统，网络使用情况, 定时上报
 
-## CRI
+## CRI && OCI
+
+
+## CNI
+
+
+## CSI
+
+
+
+## KubeProxy
 
 
 
