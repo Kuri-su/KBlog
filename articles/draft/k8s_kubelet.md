@@ -30,14 +30,8 @@ Kubelet 通过以下四种途径获取触发事件的请求,
 ## CRI && OCI
 
 
-## CNI
+## CNI && KubeProxy
 
 
 ## CSI
-
-
-
-## KubeProxy
-
-
 
