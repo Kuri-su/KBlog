@@ -5,6 +5,7 @@
 [TOC]
 
 <!-- 由简到繁 -->
+<!--定位在 入门 和 进阶-->
 
 ## 背景简介
 
@@ -90,6 +91,10 @@ tips:
 
 ### 分布式应用
 
+> Kubernetes 为什么采用这样的架构
+>
+> https://zhuanlan.zhihu.com/p/55401096
+
 作为一个 分布式应用, 通常会有 Master / Worker 的区分, Master 就是 控制节点, 控制平面一般放在 Master 节点上 , 而 Worker 就是 执行节点, 例如 ElasticSearch , 它使用的是 选举然后出现 Master 的方式, 其他作为 Worker. 例如 ETCD , 使用的 Raft 算法来维持集群内的强一致. 但他们的这些做法是为了保证数据的强一致, 而 Kubernetes 作为一个 容器调度平台, 我认为并不需要上述这样的数据强一致性, 再一个方面, 使用这些选主算法会让 Kubernetes 过度复杂, 所以 Kubernetes 采用的是最简单的固定 Master 的方式. 然后 其他节点 Join 到 Master 中, 作为 Worker. 也就是大致如下图,   
 
 ![](最简单的 Kubernetes 集群 )
@@ -101,19 +106,19 @@ tips:
 
 ### Worker 
 
-那么既然已经确定了集群结构, 那么自然来到最关心的点, 如何实现将 我写的一个容器 放到 Node 也就是机器上呢,这里以 Nginx:latest 为例, 这个必然首先由 Master 发出一条请求, 告诉 某一个 Worker 节点, 你需要启动一个  Nginx:latest 这个容器, 然后 给限制它的内存和CPU .
+那么既然已经确定了集群结构, 那么自然来到最关心的点, 如何实现将 我写的一个容器 放到 Node 也就是机器上呢,这里以 Nginx:latest 为例, 这个必然首先由 Master 发出一条请求, 告诉 某一个 Worker 节点, 你需要启动一个  Nginx:latest 这个容器, 然后 给限制它的内存和CPU.
 
 那么 Worker 上的 客户端 收到这个 请求后, 就需要着手开始准备了, 首先 由于默认使用 Docker 作为容器技术, 那么将使用 Docker 启动容器运行时 (CRI),然后将 磁盘挂载 (CSI), 接着挂载 网络 (CNI), 接着注册回 Master 节点上, 
 
 > <Kubelet 的功能>
 >
-> <Kubernetes CSI 解密>
+> <Kubernetes CSI 初见>
 >
-> <Kubernetes CNI 解密>
+> <Kubernetes CNI 初见>
 >
-> <Kubernetes CRI 解密>
+> <Kubernetes CRI && OCI 初见>
 >
-> <Kubernetes OCI 解密>
+> <Kubernetes Proxy>
 
 ### Master 
 
@@ -138,17 +143,6 @@ tips:
 
 1. Kubernetes 使用的是 Master-Worker 的架构，
 
-2.  Worker Node 如何启动和关闭， 以及和网络联通进行讲解 （Kubelet/CSI/CNI/CRI/OCI/KubeProxy）
-
-> <Kubelet 的功能>
->
-> <Kubernetes CSI 解密>
->
-> <Kubernetes CNI 解密>
->
-> <Kubernetes CRI 解密>
->
-
 3. Master Node 如何调度 / 伸缩 / 服务发现。(Controller/Scheduler/ApiServer/Etcd)
 
 4. Kubernetes 是如何解决这些问题的.
@@ -170,8 +164,11 @@ tips:
 > <Kuberntes Deployment 的生命周期>
 >
 
-## 如何扩展 Kubernetes (Opteator/Custom Controller/Custom Scheduler)
+## 我们现在如何使用 Kubernetes 
 
+## What's Next
+
+### 如何扩展 Kubernetes (Opteator/Custom Controller/Custom Scheduler)
 
 > <Kubernetes opeator 的生命周期>
 
@@ -179,13 +176,12 @@ tips:
 
 此处需要查阅更多资料
 
-## 如何参与到 Kubernetes 的开发中
+### 如何参与到 Kubernetes 的开发中
 
 > <Kubernetes 的目录结构>
 >
 > <Kubernetes Sig>
 
-## What's Next
 
 ### 如何拥有自己的第一个 Kubernetes 集群
 
