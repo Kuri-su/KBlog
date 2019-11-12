@@ -124,11 +124,18 @@ tips:
 
 将 IP记录到 ETCD 中
 
+#### Kubenetes Scheduler
+
+#### Kubenetes Controller
+
+#### Kubenetes Api-Server
+
 > <Kubernetes Scheduler 解密>
 >
 > <Kubernetes Controller Manager>
 >
-> <Kubernetes Api Server>
+> <Kubernetes Api-Server>
+
 (这样听众会对 Kubernetes 的结构了解更加深刻)
 
 !!! 整篇需要穿插着 Kubernetes 这么做是为了解决什么问题 !!!
