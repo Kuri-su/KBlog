@@ -17,7 +17,7 @@
 * 加州大学伯克利分校 开发的 Mesos 套件, 后应用于 Twitter/Airbnb 等公司.
 * ....
 
-这里主要介绍 `Kubernetes` 项目, Kubernetes 常常简称 `K8S`, 是将中间的 八个字母 (ubernete) 合起来, 然后简称 K8S, 类似的还有 i18n 也是 `internationalization` 的简称. Kubernetes 最早由 Google 内部进行开发, 后在 2014 年公开, 此后在 2015 将 项目捐献给 CNCF.
+这里主要介绍 `Kubernetes` 项目, Kubernetes 常常简称 `K8S`, 是将中间的 八个字母 (ubernete) 合起来, 然后简称 K8S, 类似的还有 i18n 也是 `internationalization` 的简称. Kubernetes 最早由 Google 内部进行开发, 后在 2014 年公开, 此后在 2015 将项目捐献给 CNCF.
 
  Kubernetes 的前身是 Google 内部的 编排系统 `Borg`. 如今的 Kubernetes 已是上述提到的三者中使用者最多的容器编排工具, 是当下容器编排工具的 ` 事实标准 `.
 
@@ -25,6 +25,28 @@
 
 ## Kubernetes 的功能
 
+Kubernetes 最常用的特性是用于 容器化应用的 自动部署/自动扩缩容与重启/管理.
+
+* 自动部署 
+    * 意味着你不需要再手动的去每一台机器上装环境, 去手动的将一个一个的新服务部署上线, 你仅仅只需要写一个文件, 告诉 Kubernetes , 你的服务长什么样子, 有哪些特性, 需要多少资源. 然后 Kubernetes 就会将你的服务/应用, 部署到线上.
+
+* 自动扩缩容与重启
+    * 当 Kubernetes 发现你的服务处于高负荷的状态, 它有能力为你自动启动多个副本, 将请求均分到 这些 副本上, 环节峰值压力, 提高服务的稳定性, 并且如果你的Kubernetes 位于 云平台上, 例如 AWS/Aliyun , Kubernetes也可以对接云服务商的自动扩容节点的接口, 在 集群资源不够的时候自动扩容 节点. 而在峰值过后, 自动删除这些副本/节点. 并且当 服务/应用 报错退出时, Kubernetes 也会自动的将服务重启.
+
+* 管理
+    * 你可以在 Kubernetes 上通过访问 ApiServer 很方便的对资源进行管理以及二次开发. 
+
+Kubernetes 还有一些其他特性:
+
+* 自动装箱 
+    * 由于 Kubernetes 强依赖容器技术, 所有 应用 都将以容器的方式发布和管理,配合前面自动扩缩容和自动部署的特性. 这样对整个集群来说, 在不牺牲可用性的前提下极大的提高了 整个集群的资源利用率.
+    
+
+那么接着我们先试探着 看一下 Kubernetes 的架构
+
+![Kubernetes 的架构]()
+
+Kubernetes 的架构是比较简单的, 我们可以看到 Master 部分有着 `ApiServer`, `Controller Manager`, `Scheduler` 这三个控制组件, 在 Worker Node 上, 有 `Kubelet` 这个组件, 我们简单介绍一下 这些组件, 不明白不要紧, 我们在下一 part 之后会详细解释. 
 
 
 ## Kubernetes 解决了什么问题
@@ -115,6 +137,8 @@ tips:
 那么 Worker 上的 客户端 收到这个 请求后, 就需要着手开始准备了, 首先 由于默认使用 Docker 作为容器技术, 那么将使用 Docker 启动容器运行时 (CRI),然后将 磁盘挂载 (CSI), 接着挂载 网络 (CNI), 接着注册回 Master 节点上, 
 
 > <Kubelet 的功能>
+>
+> Kubernetes 和 CSI/CNI/CRI 的关系
 >
 > <Kubernetes CSI 初见>
 >
