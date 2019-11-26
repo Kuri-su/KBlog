@@ -131,6 +131,8 @@ Scheduler 是 Kubernetes 的调度器,
 
 #### Kubenetes Controller Manager
 
+
+
 #### Kubenetes Api-Server
 
 
@@ -234,5 +236,9 @@ tips:
 
 `Istio` / `Enrvy` / `...`
 
+* Server Mesh
+    * Istio
+    * Enrvy
+* 
 
 
