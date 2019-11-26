@@ -200,15 +200,30 @@ tips:
 
 ### API Object
 
-在 Kubernetes 中, 有若干的 Api Object 可以被使用, 我们常用的
+在 Kubernetes 中, 有若干的 Api Object 可以被使用, 我们常用的包括如下这些, 将逐个介绍:
+
+* Deployment
+* CronJob
+* ConfigMap
+* Horizontal Pod Autoscaler
+* Service
+* Volume
 
 ### 和 Jenkins 协作
 
-### 结构
+* Muc Jenkins Client
+* Jenkins Pipeline
+
+### 整体结构
+
+// 此处隐藏
+
+![结构图]()
+
 
 ## What's Next
 
-### 如何扩展 Kubernetes (Opteator/Custom Controller/Custom Scheduler)
+### 如何扩展 Kubernetes (Operator/Custom Controller/Custom Scheduler)
 
 > <Kubernetes operator 的生命周期>
 
