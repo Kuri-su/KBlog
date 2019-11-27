@@ -106,7 +106,7 @@ Kubernetes 的架构是比较简单的, 我们可以看到 Master 部分有着 `
 
 > Kubernetes 为什么采用这样的架构
 >
-> https://zhuanlan.zhihu.com/p/55401096
+> <https://zhuanlan.zhihu.com/p/55401096>
 
 Kubernetes 整个系统的实质是一个 分布式应用, 而作为一个 分布式应用, 通常会有 Master / Worker 的区分, Master 就是 控制节点, 控制平面一般放在 Master 节点上 , 而 Worker 就是 执行节点, 在 Kubernetes 这种节点称为 Node, 例如 ElasticSearch , 它使用的是 选举然后出现 Master 的方式, 其他作为 Worker. 例如 ETCD , 使用的 Raft 算法来维持集群内的强一致. 但他们的这些做法是为了保证数据的强一致, 而 Kubernetes 作为一个 容器调度平台, 我认为并不需要上述这样的数据强一致性, 再一个方面, 使用这些选主算法会让 Kubernetes 过度复杂, 所以 Kubernetes 采用的是最简单的固定 Master 的方式. 然后 其他节点 Join 到 Master 中, 作为 Worker. 也就我们一开始给大家看到的这张图,
 
@@ -238,11 +238,25 @@ tips:
 > <Kubernetes Sig>
 
 
-### 如何拥有自己的第一个 Kubernetes 集群
+### 如何跑起来自己的第一个 Kubernetes 
 
-`MiniK8S` / `MicroK8S` / `KubeAdm`
+你可能见过这两个项目 `MiniK8S` 和 `MicroK8S` , 你可能还见过 `k3S` 和 `K9S` 以及 `KubeAdm` 这几个项目. 那么下面我们就来讲讲他们的区别和 如何跑起来自己的第一个 Kubernetes.
 
-> https://avnpc.com/pages/kubernetes-for-single-vps#kubernetes-%E5%8D%95%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94
+首先来的是 `MiniK8S` 和 `MicroK8S` 这一对, 这两个开源软件都可以快速帮你搭建起一个开发用的本地 Kubernetes 节点.
+
+MiniK8S 是 由社区和 Kubernetes-sig 维护的, 支持 MacOS/Linux/Windows 的本地 Kubernetes 节点管理工具. 它支持在 `KVM`/`Vagrant(VirtualBox)` 创建的虚拟机内初始化Kubernetes , 也支持在直接将 Kubernetes 安装在宿主机中. MiniK8S 可以下载 GitHub 上 Release 的 二进制文件到本地, 然后一键安装 Kubernetes . 功能上对于本地测试的场景完全够用, 也支持安装一些插件.
+
+![](https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png)
+![](https://github.com/kubernetes/minikube/raw/master/site/content/en/start.png)
+
+MicroK8S 是由 Ubuntu 团队维护的 , 支持在多种场景下安装 轻量级 Kubernetes 的管理工具, MicroK8S 将目标放在小而简单的运行场景, 用于快速验证, 并且安装也挺方便, 你可以通过 Snap 包管理工具将他安装在 Linux 上. 你也可以在安装 Ubuntu 系统的时候一起安装到 系统中.  MicroK8S 目前因为直接安装在 宿主机上的关系, 目前仅支持 Linux 平台.
+
+接下来是 `K3S` 和 `K9S`
+
+K3S
+
+
+
 
 如果不知道怎么选就选 `MiniK8S` 就行了
 
@@ -257,3 +271,5 @@ tips:
 * 
 
 
+ref: 
+> [穷人也能用得起 K8s - VPS 单节点部署 Kubernetes 的方法与对比](https://avnpc.com/pages/kubernetes-for-single-vps#kubernetes-%E5%8D%95%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2%E6%96%B9%E5%BC%8F%E5%AF%B9%E6%AF%94)
