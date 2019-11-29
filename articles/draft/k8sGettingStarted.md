@@ -132,15 +132,16 @@ Scheduler 是 Kubernetes 的调度器,
 #### Kubenetes Controller Manager
 
 
-
 #### Kubenetes Api-Server
 
-
->
 > <Kubernetes Controller Manager>
 >
 > <Kubernetes Api-Server>
 
+
+tips:
+
+1. Master Node 如何调度 / 伸缩 / 服务发现。(Controller/Scheduler/ApiServer/Etcd)
 
 ### Worker
 
@@ -148,53 +149,57 @@ Scheduler 是 Kubernetes 的调度器,
 
 那么 Worker 上的 客户端 收到这个 请求后, 就需要着手开始准备了, 首先 由于默认使用 Docker 作为容器技术, 那么将使用 Docker 启动容器运行时 (CRI), 然后将 磁盘挂载 (CSI), 接着挂载 网络 (CNI), 接着注册回 Master 节点上,
 
+#### Kubelet 
+
 > <Kubelet 的功能>
->
-> Kubernetes 和 CSI/CNI/CRI 的关系
->
-> <Kubernetes CSI 初见>
->
-> <Kubernetes CNI 初见>
->
-> <Kubernetes CRI && OCI 初见>
->
-> <Kubernetes Proxy>
 
-(这样听众会对 Kubernetes 的结构了解更加深刻)
+#### CRI
 
-!!! 整篇需要穿插着 Kubernetes 这么做是为了解决什么问题 !!!
+> <Kubernetes CRI && OCI >
 
-例如 CRI / CNI
+##### OCI
 
-<架构图>
+#### CNI
 
-<!-- Kubernetes 架构 -->
+> <Kubernetes CNI >
 
-tips:
+#### CSI
 
-1. Kubernetes 使用的是 Master-Worker 的架构，
 
-3. Master Node 如何调度 / 伸缩 / 服务发现。(Controller/Scheduler/ApiServer/Etcd)
-
-4. Kubernetes 是如何解决这些问题的.
-
-> <Kubernetes Scheduler 解密>
->
-
-此处需要查阅更多资料
+### Kubectl
 
 > <KubeCtl 是什么>
->
 
 
-## Kubernetes 如何将一个 Yaml 变成 一个运行在 Kubernetes 中的服务
+## Kubernetes 如何将一个 Yaml 变成 一个运行在 Kubernetes 中的 一个 Pod
+
+假设我们现在需要提交这样的一个 Yaml , 那么他是如何变成一个在 Kubernetes 中活跃的 Pod 的呢
+
+```yaml
+apiversion: v1
+kind: pod
+label:
+
+
+spec:
+
+```
+
+### 提交
+
+通过 Kubectl 提交 yaml 文件
+
+### 处理
+
+### 调度
+
+### 运行
 
 此处需要查阅更多资料
 
 最好能穿插一些源码
 
 > <Kuberntes Deployment 的生命周期>
->
 
 ## 我们现在如何使用 Kubernetes
 
@@ -223,26 +228,8 @@ tips:
 
 ## What's Next
 
-### 如何扩展 Kubernetes (Operator/Custom Controller/Custom Scheduler)
 
-> <Kubernetes operator 的生命周期>
-
-> <Kubernetes Helm>
-
-> <Kubernetes kustomize>
-
-> <Helm vs Kustomize>
-
-此处需要查阅更多资料
-
-### 如何参与到 Kubernetes 的开发中
-
-> <Kubernetes 的目录结构>
->
-> <Kubernetes Sig>
-
-
-### 如何跑起来自己的第一个 Kubernetes 
+### 如何 Running 自己的第一个 Kubernetes 
 
 你可能见过这两个项目 `MiniK8S` 和 `MicroK8S` , 你可能还见过 `k3S` 和 `K9S` 以及 `KubeAdm` 这几个项目. 那么下面我们就来讲讲他们的区别和 如何跑起来自己的第一个 Kubernetes.
 
@@ -277,12 +264,25 @@ K3S 号称是史上最轻量的 Kubernetes (毕竟 `5 less than K8S`) , 由知�
 
 ### How to do better!!
 
-`Istio` / `Enrvy` / `...`
+好的, 假设你已经开启了你的第一个 Kubernetes 集群, 并部署了一些 App 和 服务在 Kubernetes 上, 那么我还能做一些什么让它变得更好呢?
 
-* Server Mesh
-    * Istio
-    * Enrvy
-* 
+
+#### 如何扩展 Kubernetes (Operator/Custom Controller/Custom Scheduler)
+
+> <Kubernetes operator 的生命周期>
+
+此处需要查阅更多资料
+
+#### Helm
+
+#### Kustomize
+
+#### Istio
+
+
+#### 如何参与到 Kubernetes 的开发中
+
+> <Kubernetes Sig>
 
 
 ref: 
@@ -291,4 +291,6 @@ ref:
 > 
 > [深入剖析 Kuberetes - geekbang](https://time.geekbang.org/column/intro/116)
 > 
-> 
+> [Helm]()
+>
+> [Kubernetes Sig]()
