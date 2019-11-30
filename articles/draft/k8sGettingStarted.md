@@ -280,44 +280,45 @@ CRI 是一个相当美好的愿景, 可是由于 Kubernetes 有着在早期的�
 
 ### Kubectl
 
-
+Kubectl 是我们使用 k9s 之前最常使用的命令 (K9S 是什么等会儿会说明), kubectl 是 Kubernetes 的一个 Client , 他可以发送各种请求操作 ApiServer 进而进行资源控制和查询, 可以把他理解成我们常常使用的  Docker 命令 (Docker 也是 Server-Client 结构的, 我们常常使用的 Docker 命令是 Client 端).
 
 
 ## Kubernetes 如何将一个 Yaml 变成 一个运行在 Kubernetes 中的 一个 Pod
 
-假设我们现在需要提交这样的一个 Yaml , 那么它是如何变成一个在 Kubernetes 中活跃的 Pod 的呢
+接着, 在这个位置, 我们将我们前面说的组件, 搭配起来进行合作, 假设我们现在需要提交这样的一个 nginx.yaml 文件, 那么它是如何变成一个在 Kubernetes 中活跃的 Pod 的呢
 
 ```yaml
-apiversion: v1
-kind: pod
-label:
-
-
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mynginx0
+  labels:
+    name: mynginx0
 spec:
-
+  containers:
+  - name: helloNginx
+    image: nginx:latest
+    ports:
+    - containerPort: 80
 ```
 
 ![](https://yqintl.alicdn.com/b5d6fe9d9e92f9a12f92408e02de5cd6d15b57d8.png)
 
 ### 提交
 
-通过 Kubectl 提交 yaml 文件
+首先我们会使用 `kubectl apply nginx.yaml`, 这个命令就是将读取该 yaml 文件, 并将他发送到 ApiServer, 告知 ApiServer 你需要启动一个名为 `mynginx0` 的 Pod,
 
 ![](http://res.cloudinary.com/dqxtn0ick/image/upload/v1512807164/article/kubernetes/arch/k8s-arch.jpg)
 
-### 处理
+### 处理和调度
 
-
-
-### 调度
+ApiServer 在确定集群里没有名字叫 `mynginx0` 的 pod 后, 会将提交的原始 yaml 记录到 etcd 中,  接着 Replication Controller 在获知到该 Pod 与预期状态不符合时, 会要求创建该 Pod , 随后, Scheduler 就会在他的队列中读到一个待调度的 Object, 然后通过 Node 筛选, 最后 由 APiServer 将调度结果写入 etcd 中.
 
 ### 运行
 
-此处需要查阅更多资料
+随后, 由于 kubelet 通过 watch 机制订阅了 ApiServer 中的事件, kubelet 将会接受到一个 Pod update 的请求, 他将会 调用 接口, 创建出该容器, 并上报.
 
-最好能穿插一些源码
-
-> <Kuberntes Deployment 的生命周期>
+至此, 一个配置文件就这样变成了容器出现在了集群中.
 
 ## 我们现在如何使用 Kubernetes
 
@@ -393,9 +394,7 @@ K3S 号称是史上最轻量的 Kubernetes (毕竟 `5 less than K8S`) , 由知�
 
 此处需要查阅更多资料
 
-#### Helm
-
-#### Kustomize
+#### Helm VS Kustomize
 
 #### Istio
 
@@ -403,7 +402,9 @@ K3S 号称是史上最轻量的 Kubernetes (毕竟 `5 less than K8S`) , 由知�
 #### more....
 
 * kubeflow
+  *
 * openshift
+  *
 
 #### 如何参与到 Kubernetes 的开发中
 
