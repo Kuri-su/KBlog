@@ -410,12 +410,9 @@ HPA 是一个水平扩展器, 可以根据 CPU 和 内存的使用量 水平扩�
 * Jenkins Pipeline
   * 各种可以被触发的任务
 
-
-
 ### 整体结构
 
 // Private
-
 
 ## What's Next
 
