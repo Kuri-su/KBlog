@@ -531,7 +531,7 @@ ref:
 >
 > [白话 Kubernetes Runtime](https://aleiwu.com/post/cncf-runtime-landscape/)
 >
-> [kube-apiserver watch 实现]([http://likakuli.com/post/2019/08/21/apiserver_watch/#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-kube-apiserver%E5%AF%B9etcd%E7%9A%84list-watch%E6%9C%BA%E5%88%B6](http://likakuli.com/post/2019/08/21/apiserver_watch/# 第一部分 - kube-apiserver 对 etcd 的 list-watch 机制))
+> [kube-apiserver watch 实现](http://likakuli.com/post/2019/08/21/apiserver_watch/# 第一部分 - kube-apiserver 对 etcd 的 list-watch 机制))
 >
 > [Kubernetes 社区是如何运作的系列之三——治理细则](http://ocselected.org/posts/community_management/how_kubernetes_community_works_3/)
 >
