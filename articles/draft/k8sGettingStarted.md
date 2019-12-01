@@ -250,24 +250,76 @@ ApiServer 相比上面两种 组件, 虽然是 Kubernetes 中最重要的组件,
 
 #### CRI (Container Runtime Interface)
 
-CRI 是一个相当美好的愿景, 可是由于 Kubernetes 有着在早期的时候仅仅只支持 Docker 的历史包袱,
-
-<img src="https://landscape.cncf.io/logos/cri-o.svg" width="200px">
-
-![](https://xuanwo.io/2019/08/06/oci-intro/kubelet.png)
+在说 CRI , 我们需要理解下 OCI:
 
 ##### OCI
 
+OCI 是一个围绕 ` 容器格式 ` 和 ` 运行时 ` 创建开放的行业标准, 主要包含以下三个部分 (原文可以参考 [github open Containers](https://github.com/opencontainers) 这个 组织下的项目)
+
+*  [Runtime Specification](https://github.com/opencontainers/runtime-spec)(运行时规范)
+* [Image Format](https://github.com/opencontainers/image-spec)(镜像规范)
+* [Distribution Specification](https://github.com/opencontainers/distribution-spec)(分发规范)
+
+而这个规范下, 第一个 Runtime 的参考实现 是由 docker 公司将 `libcontainer` 的实现移动到 [runC](https://github.com/opencontainers/runc) 并捐赠给了 OCI,
+
 <img src="https://landscape.cncf.io/logos/runc.svg" width="200px">
 
+那么如何理解 runC ? Docker 应该各位都用过, 这里是一张 Docker 的总架构图.
 
+![](https://static001.infoq.cn/resource/image/6b/b7/6bb88d09ae816dce9a1ee3b6ae9c87b7.jpg)
+
+那 containerd 又是什么, 这里也可以借助 上面 的 docker 总架构图说明,
 
 <img src="https://landscape.cncf.io/logos/containerd.svg" width="200px">
+
+ 从 Docker 1.11 之后，Docker Daemon 被分成了多个模块以适应 OCI 标准。拆分之后，结构分成了以下几个部分。其中，`containerd` 独立负责容器运行时和生命周期（如创建、启动、停止、中止、信号处理、删除等），其他一些如镜像构建、卷管理、日志等由 Docker Daemon 的其他模块处理。
+
+我们参照这一张图和上一张图, 相信聪明的你一定能找到答案 XD,
+
+![](https://static001.infoq.cn/resource/image/84/dd/84fcf0f6be6b7b5d0dda7b3fe086acdd.png)
+
+
+
+##### 下面回到 ` CRI` 部分
+
+
+
+CRI 是一个相当美好的愿景, 可是由于 Kubernetes 有着在早期的时候仅仅只支持 Docker 的历史包袱, 于是在 Kubernetes 1.5 的时候自行实现了 一个 叫做 `DockerShim` 的东西, 用于初步的将 docker 和 kubelet 分离开,
+
+大概如下图所示,
+
+![](https://xuanwo.io/2019/08/06/oci-intro/cri-docker.png)
+
+
+
+shim 的中文翻译是 垫片的意思, 也就是我仅仅通过 CRI 协议 去连接不同的 shim , 就可以实现对容器运行时的实现的替换.   但这个实现的调用链还是有点过长 , 于是从 containerd 1.0 开始, containerd 开发了一个新的 daemon , 叫做 CRI-Containerd. 直接支持了 CRI 协议通信, 从而移除了 Dockershim.
+
+![](https://xuanwo.io/2019/08/06/oci-intro/cri-containerd.png)
+
+但是这样依旧多了一个 daemon, 于是从 containerd 1.1 开始, 进一步缩短调用链, 将 CRI 协议以 plugin 的形式, 集成到了 containerd 中.
+
+![](https://xuanwo.io/2019/08/06/oci-intro/containerd-built-in-plugin.png)
+
+
+
+但是这样依旧不是终点, 能否由把中间的 containerd 也一起拿掉, 直接由 kubelet 中的 某个插件 来通过协议控制 运行时呢?  来进一步降低开销, 答案是肯定的, 社区孵化了 CRI-O, 其中 O 也就是 OCI, 有兴趣可以到 [cri-o Repo](https://github.com/cri-o/cri-o) 看相关介绍.
+
+<img src="https://landscape.cncf.io/logos/cri-o.svg" width="200px">
+
+但是到目前位置, 由于 containerd 已经经历过各种场景下的考验,  所以目前 Kubernetes 默认使用的仍然是 containerd 那一套, 结构示意图如下所示:
+
+![](https://static001.geekbang.org/resource/image/70/38/7016633777ec41da74905bfb91ae7b38.png)
+
+最后用 [@xuxinkun](https://xuxinkun.github.io/) 的图总结下
+
+![](https://xuanwo.io/2019/08/06/oci-intro/kubelet.png)
+
+
 
 #### CNI (Container Network Interface)
 <img src="https://landscape.cncf.io/logos/container-network-interface-cni.svg" width="200px">
 
-
+CNI 和 CSI 我真没看太懂..... 待补充...
 
 #### CSI (Container Storage Interface)
 
@@ -324,25 +376,51 @@ ApiServer 在确定集群里没有名字叫 `mynginx0` 的 pod 后, 会将提交
 
 ### API Object
 
-在 Kubernetes 中, 有若干的 Api Object 可以被使用, 我们常用的包括如下这些, 将逐个介绍:
+在 Kubernetes 中, 有若干的 Api Object 可以被使用, 我们常用的包括如下这些 这里简单的介绍一些:
 
 * Deployment
+
+Deployment 此前介绍过了,
+
+Deployment => ReplicaSet => Pod
+
 * CronJob
+
+CronJob => Job
+
 * ConfigMap
+
+ConfigMap 对应的是一个或者多个 etcd KV 数据库中的字段
+
 * Horizontal Pod Autoscaler
+
+HPA 是一个水平扩展器, 可以根据 CPU 和 内存的使用量 水平扩容
+
 * Service
+
+将运行在一组 Pods 上的应用程序公开为网络服务的抽象方法。自带 DNS
+
 * Volume
+
+声明 存储空间
 
 ### 和 Jenkins 协作
 
 * Muc Jenkins Client
+  * 一个 自行实现的 Jenkins Client, 主要功能包括
+    * 触发上线 CICD Pipeline
+    * 查看 对应环境中的 服务状态 (k8s/consul)
+    * 服务健康检查
+    * 起停服务
+
 * Jenkins Pipeline
+  * 各种可以被触发的任务
+
+
 
 ### 整体结构
 
-// 此处隐藏
-
-![结构图]()
+// Private
 
 
 ## What's Next
@@ -355,7 +433,6 @@ ApiServer 在确定集群里没有名字叫 `mynginx0` 的 pod 后, 会将提交
 首先来的是 `MiniK8S` 和 `MicroK8S` 这一对, 这两个开源软件都可以快速帮你搭建起一个开发用的本地 Kubernetes 节点.
 
 MiniK8S 是 由社区和 Kubernetes-sig 维护的, 支持 MacOS/Linux/Windows 的本地 Kubernetes 节点管理工具. 它支持在 `KVM`/`Vagrant(VirtualBox)` 创建的虚拟机内初始化 Kubernetes , 也支持在直接将 Kubernetes 安装在宿主机中. MiniK8S 可以下载 GitHub 上 Release 的 二进制文件到本地, 然后一键安装 Kubernetes . 功能上对于本地测试的场景完全够用, 也支持安装一些插件.
-
 
 <img src="https://github.com/kubernetes/minikube/raw/master/images/logo/logo.png" width="200px">
 
@@ -408,7 +485,34 @@ K3S 号称是史上最轻量的 Kubernetes (毕竟 `5 less than K8S`) , 由知�
 
 #### 如何参与到 Kubernetes 的开发中
 
-> <Kubernetes Sig>
+Kubernetes 的社区是以 `Sig` 和 ` 工作组 ` 的形式组织起来的. 每个工作组都会定期召开视频会议.
+
+##### kubernetes sig
+
+sig 全称是 `Special Interest Group`, 翻译成中文也就是 特别兴趣小组, CNCF 下的项目基本都是 sig 的形式进行维护.
+
+任何人可以对 Kubernetes 发起 PR , 在有五个 实质性 PR 后, 可以开始申请加入 (修改 成员列表后发起 PR, 我觉得这个方式很酷 XD).
+
+* 你需要事先找到两个 sig 的成员来支持你加入 sig (可以在 slack 或者 邮件列表中 寻求支持)
+* 然后在 你的 申请加入的 PR 中 at 他们, 要他们来 +1
+* 接着 在你的 成员资格获得批准后, 恭喜你 成为了 Kubernetes sig 的一员
+
+在 sig 中, 常见的有两种角色:
+
+* 审核人, 负责审核 PR ,
+  * 审核人可以向 pr 添加 评论 `/lgtm` (Looks Good To Me) 或者 来表示你审核过后无异议, 已经 review 可以合并
+  * 发送 `/hold` 防止被合并, 然后在修改完成后, 可以回复 `/hold cancel` 表示正常
+
+* 批准人, 批准人有能力合并和审核 PR
+  * 批准人回复 `/approve` 来表明同意合并
+
+主要的 Sig 列表:
+
+![](https://jimmysong.io/kubernetes-handbook/images/kubernetes-sigs.jpg)
+
+## 结
+
+最后, 这个这里用到的各种图基本都是从互联网上 各位大佬的博客 以及 极客时间专栏里 Copy 出来的, 由衷感谢各位大佬的分享.
 
 ## 附录: 各种 Kubernetes 架构图
 
@@ -437,3 +541,9 @@ ref:
 > [白话 Kubernetes Runtime](https://aleiwu.com/post/cncf-runtime-landscape/)
 >
 > [kube-apiserver watch 实现]([http://likakuli.com/post/2019/08/21/apiserver_watch/#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86-kube-apiserver%E5%AF%B9etcd%E7%9A%84list-watch%E6%9C%BA%E5%88%B6](http://likakuli.com/post/2019/08/21/apiserver_watch/# 第一部分 - kube-apiserver 对 etcd 的 list-watch 机制))
+>
+> [Kubernetes 社区是如何运作的系列之三——治理细则](http://ocselected.org/posts/community_management/how_kubernetes_community_works_3/)
+>
+> [Participating in SIG Docs](https://kubernetes.io/docs/contribute/participating/)
+>
+> [LGTM? 那些迷之缩写](https://farer.org/2017/03/01/code-review-acronyms/)
