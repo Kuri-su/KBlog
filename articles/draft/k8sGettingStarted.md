@@ -5,7 +5,7 @@
 > 由简到繁
 >
 > 定位在 入门 和 进阶
->
+>/# 第一部分 - kube-apiserver 对 etcd 的 list-watch 机制)
 > 这次分享的目的是 主要讲清楚 Kubernetes 如何实现它的编排能力 和 现阶段我们使用 Kubernetes 的方式
 >
 > 因为完全没有看过源码, 所以如下大部分内容都是来自 ` 道听途说 ` (虽然这个成语不是这么用的 XD) 和 ` 官方文档 ` ( 知识的搬运工 XD) , 以及 使用经验 和 逻辑上行得通的思考
@@ -531,7 +531,7 @@ ref:
 >
 > [白话 Kubernetes Runtime](https://aleiwu.com/post/cncf-runtime-landscape/)
 >
-> [kube-apiserver watch 实现](http://likakuli.com/post/2019/08/21/apiserver_watch/# 第一部分 - kube-apiserver 对 etcd 的 list-watch 机制))
+> [kube-apiserver watch 实现](http://likakuli.com/post/2019/08/21/apiserver_watch)
 >
 > [Kubernetes 社区是如何运作的系列之三——治理细则](http://ocselected.org/posts/community_management/how_kubernetes_community_works_3/)
 >
