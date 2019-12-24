@@ -33,9 +33,9 @@ $ tar -cvf a.tar dir1 dir2 dir3 && pigz -v a.tar
 # Gzip  
 $ gzip -dv a.tar.gz && tar -xvf a.tar  
 # Pigz 
-$ pigz -p 8 -dv a.tar && tar -cvf a.tar     
+$ pigz -p 8 -dv a.tar.gz && tar -xvf a.tar     
 # 在不指定参数时默认使用全部的核
-$ pigz -dv a.tar && tar -cvf a.tar     
+$ pigz -dv a.tar.gz && tar -xvf a.tar     
 
 ```
 
