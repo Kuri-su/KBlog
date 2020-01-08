@@ -411,7 +411,7 @@ message ErrorStatus {
 
 * wrappers - xxxx // TODO 简要介绍
 * duration - xx
-* timestamp 
+* timestamp
 * struct
 * empty
 
