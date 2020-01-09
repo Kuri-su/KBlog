@@ -1,4 +1,4 @@
-# ProtoBuf
+#  ProtoBuf
 
 [TOC]
 
@@ -7,6 +7,10 @@ go主要实现 golang/protobuf
 go protobuf增强库 gogo/protobuf
 
 // TODO 需要大量添加例子
+
+## Protocal buffer
+
+Protobuf 是一个二进制协议, 
 
 ## 序列化
 
@@ -407,74 +411,169 @@ message ErrorStatus {
 
 ### protobuf Go 实现的扩充类型
 
-在 golang/protobuf Repo 里的 `ptypes` 文件夹中, 对如下几个方面做了扩充, 例如上面有提到的 any 关键字, 在原有功能的基础上添加了功能 (// TODO 待确认, 这里是想当然的写法)
+在 golang/protobuf Repo 里的 `ptypes` 文件夹中, 对如下几个方面做了扩充
 
-* wrappers - xxxx // TODO 简要介绍
-* duration - xx
-* timestamp
-* struct
+* wrappers 
+* duration 和 timestamp
 * empty
 
 #### wrapper
 
- 由于 proto3 移除了 默认值 和 必填项 的关键字, 导致部分场景下, Struct 在解析后无法区分 这个字段到底是 原本就设置的是 0 还是 在没有填写的情况下使用了默认值. 这个问题在与异构程序通讯 以及 在与即有系统交互时较为常见.wrapper 的出现则用于补足 `proto3` 的这个缺陷在 Go 中的放大, 下面用一个例子来说明.
+ 由于 proto3 移除了`默认值` 和 `必填项` 的关键字, 导致部分场景下, Struct 在解析后无法区分 这个字段到底是 原本就设置的是 0 还是 在没有填写的情况下由于默认使用 `omitempty`  Json Tag 而使用了了默认值0. 这个问题在与异构程序通讯 以及 在与即有系统交互时较为常见. wrapper 的出现则用于修复在 `proto3` 语法下的这个缺陷, 下面用一个例子来说明.
 
-假设我们的 .proto 文件是这样定义的, 这个是即有系统的接口规则, 这里以 api 的成功为例.
+假设我们的 .proto 文件是这样定义的,  这里以 短信发送服务 为例.
 ```protobuf
-// todo
+syntax = "proto3";
+
+package example;
+
+// 短信服务
+service PhoneMessageServiceAo {
+    rpc SendPhoneMessage (PhoneMessageRequest) returns (PhoneMessageResponse) {}
+}
+
+// 请求结构
+message PhoneMessageRequest {
+    string phoneNumber = 1;
+    bool international = 2;
+}
+
+// 响应结构
+message PhoneMessageResponse {
+    bool success = 1;
+    string phoneMessageId = 2;
+}
+
 ```
 
-然后它会生成这样的 .go 文件
+然后它会生成这样的 .pb.go 文件
 ```go
+package example
 
+// ....
+
+type PhoneMessageRequest struct {
+	PhoneNumber          string   `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
+	International        bool     `protobuf:"varint,2,opt,name=international,proto3" json:"international",omitempty`
+//...
+}
+
+// ....
+
+type PhoneMessageResponse struct {
+	Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
+	PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
+// ...
+}
+
+// .... 省略
 ```
 
-好的, 由于这里 的 xx 字段使用的是 xx 类型, 默认值是 x, 而假设即有系统约定 x 为成功. 当出现 例如 panic 被捕获或者之类的情况, 仅凭这个字段就无法确定到底是成功还是失败, 如果要 fix 这个问题, 就必须修改即有系统, 就这样一个很小的问题却要做非常侵入的修改. 这样是一种非常不好的处理方式.
+好的, 这里 的 `International` 字段使用的是 `bool 类型`, 该字段的意义是要发的短信是否是国际短信(有些短信服务提供商的国内短信和国外短信 API 是分开两个接口), 默认值是 `false`, 通常 true 为成功, 那么假设 `请求方` 代码需要发国际短信, 但由于代码逻辑错误, 忘记填写这个 International 字段, 将请求进行发送后. 接收方或得到这个请求,得到的的  `international` 字段为 false, 以为真的要发国内短信, 进而 http 请求 短信服务提供商, 而提供商假设由于未在接口处检查出来(毕竟可能他也不知道这个号码是不是空号),而在发送时才检查出来这个问题, 将日志写在 短信服务提供商 网站的用户中心的发送失败列表中. 
 
-然而google 也发现了这个问题, 他们添加了 wrapper 这样的一个 类型, wrapper 故名思意 包装纸, 对原有的类型做了一层包装, 让生成的字段类型变成一个结构体, 这样这个字段如果没有设置, 就会得到默认值 nil, 而不是一个可能是结果的值. wrapper 对如下的 类型做了包装
+而由于整个程序流程确实是成功跑完, 无任何报错信息, 所以测试同学测试通过,上到正式, 最后是用户反馈, 或者某天有权限的管理者, 查看短信服务提供商的用户中心, 才会看到报错记录, 然后才会知道有这个问题. 但此时仍然无法定位问题在哪, 我们需要一步一步定位, 那么首先从 我们写的这个 `短信发送 Service` 开始, 查看日志未发现问题, 走查代码未发现问题, 那么估计不是我们 这个 Service 的问题. 那么接下来只能去走查 服务调用方的业务代码进行定位了, 假设我们运气很好, 只有一个 Service 的调用方, 走查一遍之后, 终于发现问题是默认类型的问题, 于是修改之, 测试通过, 上线.
+
+这里举了一个不恰当的例子,来说明这样的机制很容易出问题.  一个本来通过 RPC 输入值检测就可以发现的错误, 由于这个机制的问题, 导致花费了大量的时间才定位到. 
+
+然而google 也发现了这个问题, 他们向 Go 实现中, 添加了一类  wrapper , wrapper 故名思意 包装纸, 对原有的类型做了一层包装, 让生成的字段类型变成一个结构体, 这样这个字段如果没有设置, 就会得到默认值 nil, 而不是一个可能是结果的值. wrapper 对如下的 类型做了包装.
 
 * double => DoubleValue
-* // TODO
-*
-*
-*
-*
-*
-*
+* float => FloatValue
+* int64 => Int64Value
+* uint64 => UInt64Value
+* int32 => Int32Value
+* uint32 => UInt32Value
+* bool => BoolValue
+* string => StringValue
+* bytes => BytesValue
 
-口说无凭, 我们来实际生成和使用一次.
+纸上得来终觉浅, 绝知此事要躬行. 那我们来实际生成和使用一次.
 
-首先, 需要在 .proto 文件中修改类型.
+首先, 需要在 .proto 文件中修改类型. 
 
 ```protobuf
-// TODO
+syntax = "proto3";
+
+package example;
+
+// 引入 wrappers.proto 
+import "google/protobuf/wrappers.proto";
+
+service PhoneMessageServiceAo {
+    rpc SendPhoneMessage (PhoneMessageRequest) returns (PhoneMessageResponse) {
+    }
+}
+
+message PhoneMessageRequest {
+    string phoneNumber = 1;
+    // 修改为 google.protobuf.BoolValue 字段
+    google.protobuf.BoolValue international = 2;
+}
+
+message PhoneMessageResponse {
+    bool success = 1;
+    string phoneMessageId = 2;
+}
 ```
 
-然后打开 Terminal 使用 如下 命令生成 .pb.go 文件
+然后打开 Terminal 生成 .pb.go 文件, 这时我们可以看到在 .pb.go 里面生成了这样的结构.
 
-```shell
+```go
+package example
 
+// ....
+
+type PhoneMessageRequest struct {
+	PhoneNumber          string              `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
+	International        *wrappers.BoolValue `protobuf:"bytes,2,opt,name=international,proto3" json:"international",omitempty`
+//...
+}
+
+// ....
+
+type PhoneMessageResponse struct {
+	Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
+	PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
+// ...
+}
+
+// .... 省略
 ```
-这时我们可以看到在 .pb.go 里面生成了这样的结构.
 
-这里的 xxx 字段的类型是 一个 struct, 也就证明了前面的解释.
 
-#### timestamp
+这里的 International 字段的类型是 一个 `*wrappers.BoolValue`, 让我们看看 `wrappers.BoolValue` 这个结构体 
+
+```go
+type BoolValue struct {
+	// The bool value.
+	Value                bool     `protobuf:"varint,1,opt,name=value,proto3" json:"value,omitempty"`
+	XXX_NoUnkeyedLiteral struct{} `json:"-"`
+	XXX_unrecognized     []byte   `json:"-"`
+	XXX_sizecache        int32    `json:"-"`
+}
+```
+
+他会将原本的数据存在 BoolValue.Value 中, 这样我们就可以对 International 值是否设置做判断, 如果 未设置, International 的值将为 nil, 而如果做了设置, 那么 International 的值就不为 nil . 进而避免了上面的例子提到的问题.
+
+#### timestamp 和 duration
 
 // [https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/#Well-Known%E7%B1%BB%E5%9E%8B](https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/#Well-Known类型)
-
-#### duration
-
-// [https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/#Well-Known%E7%B1%BB%E5%9E%8B](https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/#Well-Known类型)
-
-#### struct
 
 #### empty
 
-## Proto 3 的不便与应对 
+如果你的函数不需要入参, 你可以使用这个类型在 proto 文件中标示
 
-1. 也是前面提过的 proto3 中没有办法区分字段是设置了空值还是 自动使用了缺省值.
-2. 所有的字段都会默认加上 `omitempty` json tag, 这个对 go-micro 中 异构系统通过 Api 网关通信场景下不太友好, 在另一个异构系统接收到的值中, 这个字段将会直接缺失.
+```protobuf
+syntax = "proto3";
+
+package example;
+
+import "google/protobuf/empty.proto";
+
+service PhoneMessageServiceAo {
+    rpc SendPhoneMessage (google.protobuf.Empty) returns (google.protobuf.Empty) {}
+}
+```
 
 
 
@@ -491,3 +590,5 @@ ref:
 > [[Protobuf中的Options功能](https://xenojoshua.com/2018/02/protobuf-options/)](https://xenojoshua.com/2018/02/protobuf-options/)
 >
 > [google/protobuf/descriptor.proto](https://github.com/protocolbuffers/protobuf/blob/master/src/google/protobuf/descriptor.proto)
+>
+> [golang/protobuf/ptypes](https://github.com/golang/protobuf/blob/master/ptypes)
