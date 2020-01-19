@@ -1,6 +1,8 @@
-{}
+{"title":"recommended docker dashboard in cli mode ","description":"在 cli 模式下推荐的 docker 仪表板","category":"docker","tag":["docker","cloudnative"],"page_image":"/assets/recommendedDockerDashboardInCliMode.webp"}
 
-# 常用的 Cli Docker DashBoard 推荐
+# 在 cli 模式下推荐的 docker 仪表板
+
+![](/assets/recommendedDockerDashboardInCliMode.webp)
 
 ## Cli Docker DashBoard 的适用场景
 
@@ -34,7 +36,17 @@
 
 > 项目地址 : https://github.com/moncho/dry
 > 
-> 详细介绍 Gist : https://kuricat.com/gist/ 
+> 详细介绍 Gist : https://kuricat.com/gist/dry-qp8hs
+
+## Lazydocker
+
+简单易用的 Cli Docker Dashboard , 功能上比 Dry 略逊, 但完全够用, 
+
+更多介绍查看 Gist: https://kuricat.com/gist/lazydocker-chqdq
+
+> 项目地址 : https://github.com/jesseduffield/lazydocker
+>
+> 详细介绍 Gist : https://kuricat.com/gist/lazydocker-chqdq
 
 ## Ctop
 
@@ -43,6 +55,8 @@ Top 风格的 Cli Docker Dashboard , 可以和 `dry` 互相补足
 更多介绍查看 Gist : https://kuricat.com/gist/ctop-qv9ur
 
 > 项目地址 : https://github.com/bcicen/ctop
+>
+> 详细介绍 Gist : https://kuricat.com/gist/ctop-qv9ur
 
 ## Dockly
 
@@ -51,6 +65,8 @@ Top 风格的 Cli Docker Dashboard , 可以和 `dry` 互相补足
 更多介绍查看 Gist : https://kuricat.com/gist/dockly-buuqs
 
 > 项目地址 : https://github.com/lirantal/dockly
+>
+> 详细介绍 Gist : https://kuricat.com/gist/dockly-buuqs
 
 ## 结
 

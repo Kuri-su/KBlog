@@ -4,17 +4,18 @@
 尝试 copy 无果... 以如下的方式 copy 仍然无法深拷贝成功
 
 ```go
+func main(){
+  a := [][]int{
+    {1, 2, 3},
+    {4, 5, 6},
+  }
+  b := make([][]int, 3, 3)
+  copy(b, a)
 
-a := [][]int{
-  {1, 2, 3},
-  {4, 5, 6},
+  b[1][2] = 999
+
+  fmt.printf("%+v", a)
 }
-b := make([][]int, 3, 3)
-copy(b, a)
-
-b[1][2] = 999
-
-fmt.printf("%+v", a)
 
 // output:
 // [{1,2,3},{4,5,999}]
@@ -36,21 +37,21 @@ fmt.printf("%+v", a)
 所以正确的复制姿势是这样的...
 
 ```go
+func main(){
+  a := [][]int{
+    {1, 2, 3},
+    {4, 5, 6},
+  }
+  b := make([][]int, 3, 3)
+  for key, value := range b {
+    b[key] = make([]int, 3, 3)
+    copy(b[key], a[key])
+  }
 
-a := [][]int{
-  {1, 2, 3},
-  {4, 5, 6},
+  b[1][2] = 999
+
+  fmt.printf("%+v", a)
 }
-b := make([][]int, 3, 3)
-for key, value := range b {
-  b[key] = make([]int, 3, 3)
-  copy(b[key], a[key])
-}
-
-b[1][2] = 999
-
-fmt.printf("%+v", a)
-
 // output:
 // [{1,2,3},{4,5,6}]
 ```

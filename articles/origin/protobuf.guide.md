@@ -1,111 +1,155 @@
-#  ProtoBuf
+{"title":"Protocal buffer Guide","description":"Protocal buffer 简易指南","category":"protobuf","tag":["golang","protobuf"],"page_image":"/assets/protobufGuideHeader.webp"}
+
+> Protocal buffer Guide
+
+![](/assets/protobufGuideHeader.webp)
 
 [TOC]
 
-go主要实现 golang/protobuf
+## 常见的序列化协议/格式
 
-go protobuf增强库 gogo/protobuf
+从下面这个表, 可以很容易看出 常见的 序列化协议/格式 之间的差异.
 
-// TODO 需要大量添加例子
-
-## Protocal buffer
-
-Protobuf 是一个二进制协议, 
-
-## 序列化
-
-* **ProtoBuf**
-
-* `Json`
-* `Yaml`
-* `Toml`
-* `PropertyList(Apple)`
-* `Bson`
-* `MessagePack`
+* **ProtoBuf** (二进制协议, 包含接口描述. created by Google)
+* Json/Yaml/Toml (文本协议)
+* XML (可扩展标记语言, 文本协议)
+* Bson (文本协议)
+* MessagePack (二进制协议)
+* Apache Thrift (二进制协议, 包含接口描述, created by Facebook) 
 * ...
 
-## Proto3
 
-### what's this
+## 简介
 
-proto 文件是一个服务对外的 接口声明, 以及请求文档,
+Protocal buffer 简称 `Protobuf` 是 一种 `序列化` 数据结构的协议, 这种协议包含两部分,  
 
-### 主要改变
+*  规定 如何将 元数据 编译为 二进制形式
+*  包含了一套 接口描述语言 以及配套的代码生成器. 
 
-* 移除了 `required` 字段
-* 移除了缺省值
-* 添加了 map 类型
+例如下面这就是一个 Protobuf 的例子, 后面会对两个部分详细介绍.
+
+```protobuf
+// protobuf 接口描述文件
+
+syntax = "proto3";  // 接口描述所使用的 protobuf 版本, 这里使用 `proto3`
+
+// HelloMan Service
+// 这样声明了服务的接口, 
+// 这和 面向对象 里面的 interface 的概念是类似的
+// 这个接口也规定了 输入和输出 的格式
+service HelloMan {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+// 请求体 里只有一个字段, 字段名为 name, 类型为 string
+message Request {
+    string name = 1;
+}
+
+// 响应体 里也只有一个字段, 字段名为 hello, 类型为 string
+message Response {
+    string hello = 1;
+}
+```
+
+Protobuf 最早由 Google 开发, 并作为 GRPC 的序列化协议被使用. 随后, 越来越多的 RPC 库 开始支持 Protobuf 作为 序列化 协议.
+
+Protocal buffer 协议已经使用多种语言实现. 多语言支持的详情可以参考 [此处](https://github.com/protocolbuffers/protobuf#protobuf-runtime-installation).
+
+protocal buffer 在 golang 的主要实现是 `golang/protobuf` 和 `gogo/protobuf`, 后者在前者的基础上有所增强.
+
+## Protocal buffer 接口描述语言
+
+protocal buffer 的 `接口描述语言`分为两个版本, **proto3** 和 **proto2** , proto3 在 proto2 的基础上添加了一些 feature 和 做出了一些改变.
 
 ### 基本例子
 
 ```protobuf
-syntax = "proto3";
+// protobuf 接口描述文件
 
-message SearchRequest {
-	string query = 1;
-	int32 page_number = 2;
-	int32 result_per_page = 3; 
+syntax = "proto3";  // 接口描述所使用的 protobuf 版本, 这里使用 `proto3`
+
+// HelloMan Service
+// 这样声明了服务的接口, 
+// 这和 面向对象 里面的 interface 的概念是类似的
+// 这个接口也规定了 输入和输出 的格式
+service HelloMan {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+// 请求体 里有两个字段, 
+// 其中一个字段名为 name, 类型为 string, 
+// 另一个字段名为 hello, 类型为 string
+message Request {
+    string name = 1;
+    int hello = 2;
+}
+
+// 响应体 里也只有一个字段, 字段名为 hello, 类型为 string
+message Response {
+    string hello = 1;
 }
 ```
 
-字段是以如下格式定义的
+字段使用如下格式定义
 
 ```protobuf
-[ "repeated" ] type fieldName "=" fieldNumber [ "[" fieldOptions "]" ] ";" 
-// repeated     string  query  =   1 ;
+[ "repeated" ] type    fieldName "=" fieldNumber [ "[" fieldOptions "]" ] ";" 
+
+// repeated    type    fieldName "=" fieldNumber [fieldOptions]; 
+// repeated    string  name       =  1 ;
 ```
 
-而这个例子是一个简单的例子, 采用了 如下格式的定义
+最前面的 **repeated** 标识 , 通常用于表示这个字段对应的值为数组. 另外, 在 字段序号`fieldNumber` 后面,  允许定义一些可选项(fieldOptions).
 
-```protobuf
-type fieldName "=" fieldNumber
-```
+我们也可以通过下面这些 关键字 来完成复杂的字段描述, 这些在后面会详细讲解
 
-这是一个较为简单的结构, 如果对于复杂的结构, 前面可以定义为 `repeated` , 意为 重复, 实为对应元素的数组, 而在序号(`fieldNumber`) 后可以定义一些可选项.
-
-而对于复杂的字段定义, 可以有一些复杂的字段定义, 例如下面这些, 在后面会详细讲解
-
-* oneOf
+* oneof
 * map
 * reserved
 * enum
 
-// TODO 这里需要加上解释
 
-你可以使用 如下命令将上面的 的 `proto` 文件编译成 Go 代码
+### protobuf 关键字
 
-```shell
-$ protoc -I=. -I=/usr/local/include -I=$(GOPATH)/src --go_out=. simple.proto
-```
-
-因为在 proto 中有时会 import  一些别的 proto 文件, 这时就会需要用 `-I` 参数指定protoc 的搜索 import 的 proto 文件夹. 
-
-而可以看到后面 使用 `go-out`进行代码输出, 他会去 调用 protoc-gen-go 这个二进制文件, 这就给我们留了非常大的扩展性, `cpp_out` 用来生成 C++ 代码, `java_out` 生成 Java 代码, `python_out` 生成 PY代码.
-
- 假设我们自己写的插件名字叫 `protoc-gen-helloworld` 那么你只需要 在结尾加上 `helloworld_out` , 那么 protoc 就会去调用你自己写的插件 , go-micro 的 `protoc-gen-micro`  就是用了这个方式.
-
-### 关键字
-
-按照我们的书写顺序依次介绍 会用到的关键字
+下面将 按照我们的书写顺序依次介绍 在 `.proto` 文件中 会用到的 关键字
 
 #### syntax
 
 syntax 用来定义说使用的 protobuf 语法的版本
 
 ```protobuf
+// proto3
 syntax = "proto3";
+// proto2
+syntax = "proto2"
 ```
 
 #### import 
 
-import 用于复用和引用其他 .proto 文件,  而 import 具有两个 关键字 
-* weak
-  * weak 允许 引入的文件不存在, 也就是在 import 这里不会报错, 不过 如果 后面的使用了不存在的 对象或者结构, 则一样会报错
-* public
-  * public 通常用于多重引用和阻止多重引用的场景, 其实际作用可以通过下面这一幅图来说明. 图片来自[@hanschen](http://blog.hanschen.site/2017/04/08/protobuf3/)
-  * ![](https://raw.githubusercontent.com/shensky711/Pictures/master/2019-9-2-12-36-49.png)
-    * 在情景 1 中 my.proto 不能使用  `First.proto`  中引用的 `Second.proto` 文件的内容
-    * 在情景2中, my.proto 可以使用 `second.proto`   中的内容
+import 通常用于 引用其他 .proto 文件,  而 import 后可以接 关键字 来进一步细化 对 文件的引入关系
+
+```protobuf
+// 普通单级引用
+import "First.proto"
+// 允许多级引用
+import public "First.proto"
+// 在引用不存在的
+import weak "First.proto"
+```
+
+##### weak
+
+`weak` 关键字 允许 引入的文件不存在, 也就是在 import 这里不会报错, 不过 如果 后面的使用了不存在的 对象或者结构, 则一样会报错
+
+##### public
+
+public 通常用于多级引用, 其实际作用可以通过下面这一幅图来说明. 图片来自[@hanschen](http://blog.hanschen.site/2017/04/08/protobuf3/)
+
+![protobuf import](https://raw.githubusercontent.com/shensky711/Pictures/master/2019-9-2-12-36-49.png)
+
+* 在情景 1 中 my.proto 不能使用 `Second.proto` 文件的内容
+* 在情景 2 中, my.proto 可以使用 `Second.proto`   中的内容
 
 #### package
 
@@ -113,13 +157,41 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 
 另一方面也可以用来生成特定语言的 Package 名字, 例如 Java 的Package, 以及 Go 的 Package
 
+```protobuf
+syntax = "proto3";
+
+package meta;
+```
+
 #### message
 
-// TODO
+```protobuf
+message Request {
+    string name = 1;
+    int hello = 2;
+}
+```
+
+message 是 Protobuf 接口描述语言 中, 最常用的 关键字之一, 所有的数据传输都以 Message 为单位, 熟悉 C 系列语言或者 Go 语言的朋友,可能很容易就看出来, 这个 和 Struct 的概念很像.
 
 #### service
 
-// TODO
+```protobuf
+service HelloMan {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+message Request {
+    string name = 1;
+    int hello = 2;
+}
+
+message Response {
+    string hello = 1;
+}
+```
+
+而对于 Service , 则可以理解成 对外提供服务的 RPC 接口 列表, 在上面这个例子中, 有一个 Service 叫 HelloMan, 这个 HelloMan 的 Service 将提供 一个名叫 SayHello 的 RPC 接口, 这个接口 的 Request 有两个字段 `name` 和 `hello`, 将返回一个 Reponse, 有一个字段是 hello
 
 #### option
 
@@ -135,9 +207,9 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 
   * ```protobuf
     message HelloWorld {
-    	string name = 1;
-    	option message_set_wire_format = true;
-    	option deprecated = true; // 标示即将弃用
+        string name = 1;
+        option message_set_wire_format = true;
+        option deprecated = true; // 标示即将弃用
     }
     ```
 
@@ -145,7 +217,7 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 
   * ```protobuf
     message HelloWorld {
-    	string name = 1 [ packed = true, deprecated=true];
+        string name = 1 [ packed = true, deprecated=true];
     }
     ```
 
@@ -157,8 +229,6 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 * Message 层级 >> `MessageOptions`
 * Field 层级 >> `FieldOptions`
 * 最后一种则是, `OneofOptions`,`EnumOptions`,`EnumValueOptions`,`ServiceOptions`,`MethodOptions`
-
-
 
 与此同时, 你也可以对 Options 进行自定义, 追加一些自定义的 options 到指定的层级, 如何 自定义如下所示:
 
@@ -173,8 +243,6 @@ message MyMessage {
     option (my_option) = "Hello world!";
 }
 ```
-
-// TODO ~~此外, 我们内部也定义了一些 自定义的 Proto~~
 
 #### 普通字段关键字
 
@@ -215,7 +283,7 @@ message OneofMessage {
       string name = 4;
       int64 value = 9;
     }
-}	
+}
 ```
 
 另一方面,  因为 proto3 没有办法区分 字段是 设置了还是自动使用了缺省值 (例如 int64 中的0), 甚至你无法判断数据是否有包含这个字段, 因为 protobuf  的 go 实现中, 字段会默认带 `omitempty` 标签, 在字段的值 empty 的时候, 会在传输时省略掉这个值. 
@@ -356,7 +424,7 @@ message Result {
 
 message SearchResponse {
   repeated Result results = 1;
-}		// ^^^^^^
+}        // ^^^^^^
 ```
 
 #### 嵌套定义
@@ -393,6 +461,12 @@ message ErrorStatus {
 //^^^^^^^^ 这里的 repeated 不能省略, 因为 bytes 必然是以 数组的形式出现,例如 go 中的 []bytes
 }
 ```
+
+### proto3 主要改变
+
+* 移除了 `required` 标识
+* 移除了 字段缺省值
+* 添加了 map 类型
 
 ### 更新消息类型
 
@@ -453,16 +527,16 @@ package example
 // ....
 
 type PhoneMessageRequest struct {
-	PhoneNumber          string   `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
-	International        bool     `protobuf:"varint,2,opt,name=international,proto3" json:"international",omitempty`
+    PhoneNumber          string   `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
+    International        bool     `protobuf:"varint,2,opt,name=international,proto3" json:"international",omitempty`
 //...
 }
 
 // ....
 
 type PhoneMessageResponse struct {
-	Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
-	PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
+    Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
+    PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
 // ...
 }
 
@@ -524,16 +598,16 @@ package example
 // ....
 
 type PhoneMessageRequest struct {
-	PhoneNumber          string              `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
-	International        *wrappers.BoolValue `protobuf:"bytes,2,opt,name=international,proto3" json:"international",omitempty`
+    PhoneNumber          string              `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
+    International        *wrappers.BoolValue `protobuf:"bytes,2,opt,name=international,proto3" json:"international",omitempty`
 //...
 }
 
 // ....
 
 type PhoneMessageResponse struct {
-	Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
-	PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
+    Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
+    PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
 // ...
 }
 
@@ -545,11 +619,11 @@ type PhoneMessageResponse struct {
 
 ```go
 type BoolValue struct {
-	// The bool value.
-	Value                bool     `protobuf:"varint,1,opt,name=value,proto3" json:"value,omitempty"`
-	XXX_NoUnkeyedLiteral struct{} `json:"-"`
-	XXX_unrecognized     []byte   `json:"-"`
-	XXX_sizecache        int32    `json:"-"`
+    // The bool value.
+    Value                bool     `protobuf:"varint,1,opt,name=value,proto3" json:"value,omitempty"`
+    XXX_NoUnkeyedLiteral struct{} `json:"-"`
+    XXX_unrecognized     []byte   `json:"-"`
+    XXX_sizecache        int32    `json:"-"`
 }
 ```
 
