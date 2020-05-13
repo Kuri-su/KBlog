@@ -66,7 +66,8 @@ $ cd /tmp
 $ go get -u github.com/ofabry/go-callvis
 # clone repo
 $ git clone git@github.com:Kuri-su/confSyncer.git
-# 由于 go-callvis 当前(2020-05) 的实现必须从 main 包开始(无法从 Tests测试用例等的其他位置开始 ),所以我们这里先来到 main 包所在的位置 
+# 由于 go-callvis 当前(2020-05) 的实现必须从 main 包开始
+# (无法从 Tests测试用例等的其他位置开始 ),所以我们这里先来到 main 包所在的位置 
 $ cd confSyncer/cmd/confsyncer
 ```
 
@@ -82,8 +83,9 @@ $ go-callvis . # 注意这后面还有一个. ,表示当前目录
 
 ```shell
 $ go-callvis \ 
-  -focus pkg/unit . # 这个参数的用处主要是 集中在 选定的这个包上, 对于其他的包的输出会减少, 我们可以对比此处的输出和上面 basic 的输出
-  
+  -focus pkg/unit . 
+  # 这个参数的用处主要是 集中在 选定的这个包上, 对于其他的包的输出会减少, 
+  # 我们可以对比此处的输出和上面 basic 的输出
 ```
 
 // TODO Image
@@ -92,7 +94,8 @@ $ go-callvis \
 
 ```shell
 $ go-callvis \
-  -group pkg,type . # 这个参数主要是针对 pkg 和 type 进行聚合, 大多数情况下是标配变量, 使用时都会带                     #上 , 具体可以和 上面 Baisc 例子的输出惊醒对比.
+  -group pkg,type . 
+  # 这个参数主要是针对 pkg 和 type 进行聚合, 大多数情况下是标配变量, 使用时都会带                     #上 , 具体可以和 上面 Baisc 例子的输出惊醒对比.
 ```
 
 // TODO Image
@@ -101,7 +104,8 @@ $ go-callvis \
 
 ```shell
 $ go-callvis \
-  -nostd . # 这个参数也是一个常用的参数, 使用这个参数后将在输出的 图片中展示对 Golang 标准库的调用
+  -nostd . 
+  # 这个参数也是一个常用的参数, 使用这个参数后将在输出的 图片中展示对 Golang 标准库的调用
 ```
 
 // TODO Image
