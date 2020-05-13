@@ -71,14 +71,14 @@ select convert(expr1 using fontSet)
 select current_user()
 # 返回当前数据库名字
 select database()
-# 返回当前用户	
-select session_user()	
-# 返回当前用户	
-select system_user()	
-# 返回当前用户	
-select user()	
+# 返回当前用户
+select session_user()
+# 返回当前用户
+select system_user()
+# 返回当前用户
+select user()
 # 返回数据库的版本号
-select version()	
+select version()
 ```
 
 ---

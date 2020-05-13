@@ -16,15 +16,15 @@
 // Not used by the package itself, but helpful to clients
 // wishing to use the same encoding.
 func EncodeVarint(x uint64) []byte {
-	var buf [maxVarintBytes]byte
-	var n int
-	for n = 0; x > 127; n++ {
-		buf[n] = 0x80 | uint8(x&0x7F)
-		x >>= 7
-	}
-	buf[n] = uint8(x)
-	n++
-	return buf[0:n]
+    var buf [maxVarintBytes]byte
+    var n int
+    for n = 0; x > 127; n++ {
+        buf[n] = 0x80 | uint8(x&0x7F)
+        x >>= 7
+    }
+    buf[n] = uint8(x)
+    n++
+    return buf[0:n]
 }
 ```
 

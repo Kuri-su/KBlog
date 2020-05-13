@@ -102,34 +102,34 @@ func main() {
 ```go
 // Generator is the type whose methods generate the output, stored in the associated response structure.
 type Generator struct {
-	*bytes.Buffer
+    *bytes.Buffer
 
-	Request  *plugin.CodeGeneratorRequest  // The input.
-	Response *plugin.CodeGeneratorResponse // The output.
+    Request  *plugin.CodeGeneratorRequest  // The input.
+    Response *plugin.CodeGeneratorResponse // The output.
 
-	Param             map[string]string // Command-line parameters.
-	PackageImportPath string            // Go import path of the package we're generating code for
-	ImportPrefix      string            // String to prefix to imported package file names.
-	ImportMap         map[string]string // Mapping from .proto file name to import path
+    Param             map[string]string // Command-line parameters.
+    PackageImportPath string            // Go import path of the package we're generating code for
+    ImportPrefix      string            // String to prefix to imported package file names.
+    ImportMap         map[string]string // Mapping from .proto file name to import path
 
-	Pkg map[string]string // The names under which we import support packages
+    Pkg map[string]string // The names under which we import support packages
 
-	outputImportPath GoImportPath                   // Package we're generating code for.
-	allFiles         []*FileDescriptor              // All files in the tree
-	allFilesByName   map[string]*FileDescriptor     // All files by filename.
-	genFiles         []*FileDescriptor              // Those files we will generate output for.
-	file             *FileDescriptor                // The file we are compiling now.
-	packageNames     map[GoImportPath]GoPackageName // Imported package names in the current file.
-	usedPackages     map[GoImportPath]bool          // Packages used in current file.
-	usedPackageNames map[GoPackageName]bool         // Package names used in the current file.
-	addedImports     map[GoImportPath]bool          // Additional imports to emit.
-	typeNameToObject map[string]Object              // Key is a fully-qualified name in input syntax.
-	init             []string                       // Lines to emit in the init function.
-	indent           string
-	pathType         pathType // How to generate output filenames.
-	writeOutput      bool
-	annotateCode     bool                                       // whether to store annotations
-	annotations      []*descriptor.GeneratedCodeInfo_Annotation // annotations to store
+    outputImportPath GoImportPath                   // Package we're generating code for.
+    allFiles         []*FileDescriptor              // All files in the tree
+    allFilesByName   map[string]*FileDescriptor     // All files by filename.
+    genFiles         []*FileDescriptor              // Those files we will generate output for.
+    file             *FileDescriptor                // The file we are compiling now.
+    packageNames     map[GoImportPath]GoPackageName // Imported package names in the current file.
+    usedPackages     map[GoImportPath]bool          // Packages used in current file.
+    usedPackageNames map[GoPackageName]bool         // Package names used in the current file.
+    addedImports     map[GoImportPath]bool          // Additional imports to emit.
+    typeNameToObject map[string]Object              // Key is a fully-qualified name in input syntax.
+    init             []string                       // Lines to emit in the init function.
+    indent           string
+    pathType         pathType // How to generate output filenames.
+    writeOutput      bool
+    annotateCode     bool                                       // whether to store annotations
+    annotations      []*descriptor.GeneratedCodeInfo_Annotation // annotations to store
 }
 ```
 

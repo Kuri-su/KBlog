@@ -3,8 +3,8 @@
 ```go
 // /usr/local/go/src/flag/flag.go:580
 var Usage = func() {
-	fmt.Fprintf(CommandLine.Output(), "Usage of %s:\n", os.Args[0])
-	PrintDefaults()
+    fmt.Fprintf(CommandLine.Output(), "Usage of %s:\n", os.Args[0])
+    PrintDefaults()
 }
 ```
 
@@ -13,7 +13,7 @@ var Usage = func() {
 package main
 
 import (
-	"flag"
+    "flag"
     "fmt"
 )
 

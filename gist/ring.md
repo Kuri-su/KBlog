@@ -8,8 +8,8 @@
 ```go
 type Ring struct {
     // 前后节点
-	next, prev *Ring
-	Value      interface{}
+    next, prev *Ring
+    Value      interface{}
 }
 ```
 
@@ -17,18 +17,18 @@ type Ring struct {
 
 ```go
 func New(n int) *Ring {
-	if n <= 0 {
-		return nil
-	}
-	r := new(Ring)
-	p := r
-	for i := 1; i < n; i++ {
-		p.next = &Ring{prev: p}
-		p = p.next
-	}
-	p.next = r
-	r.prev = p
-	return r
+    if n <= 0 {
+        return nil
+    }
+    r := new(Ring)
+    p := r
+    for i := 1; i < n; i++ {
+        p.next = &Ring{prev: p}
+        p = p.next
+    }
+    p.next = r
+    r.prev = p
+    return r
 }
 ```
 
@@ -36,15 +36,15 @@ func New(n int) *Ring {
 
 ```go
 func (r *Ring) Len() int {
-	n := 0
-	if r != nil {
-		n = 1
+    n := 0
+    if r != nil {
+        n = 1
         // 即时的去遍历一次 ring 获取当前长度
-		for p := r.Next(); p != r; p = p.next {
-			n++
-		}
-	}
-	return n
+        for p := r.Next(); p != r; p = p.next {
+            n++
+        }
+    }
+    return n
 }
 ```
 
@@ -52,26 +52,26 @@ func (r *Ring) Len() int {
 
 ```go
 func (r *Ring) Move(n int) *Ring {
-	if r.next == nil {
-	    /*
-	    避免 a:=&ring.Ring{}
-	    然后直接拿来用而没有初始化从而报错的情况
-	     */
-		return r.init()
-	}
-	switch {
-	case n < 0:
+    if r.next == nil {
+        /*
+        避免 a:=&ring.Ring{}
+        然后直接拿来用而没有初始化从而报错的情况
+         */
+        return r.init()
+    }
+    switch {
+    case n < 0:
         // 负数加到 0
-		for ; n < 0; n++ {
-			r = r.prev
-		}
-	case n > 0:
+        for ; n < 0; n++ {
+            r = r.prev
+        }
+    case n > 0:
         // 正数减到 0
-		for ; n > 0; n-- {
-			r = r.next
-		}
-	}
-	return r
+        for ; n > 0; n-- {
+            r = r.next
+        }
+    }
+    return r
 }
 ```
 
@@ -110,9 +110,9 @@ func (r *Ring) Link(s *Ring) *Ring {
     ∨                       ∨
     d <---> f <---> s <---> g
      */
-	n := r.Next()
+    n := r.Next()
 
-	if s != nil {
+    if s != nil {
         /*
         ┌-----------------------┐
         ∨              n|       ∨
@@ -122,66 +122,66 @@ func (r *Ring) Link(s *Ring) *Ring {
         ∨      p|               ∨
         d <---> f <---> s <---> g
         */
-		p := s.Prev()
+        p := s.Prev()
 
         // Note: Cannot use multiple assignment because
-		// evaluation order of LHS is not specified.
+        // evaluation order of LHS is not specified.
 
-		/*
+        /*
         ┌-----------------------┐
         ∨              n|       ∨
         a <---> r <---- b <---> c
                 └----┐
-		             |
+                     |
                p|    └--↓
         d <---> f <---> s <---> g
-		^                       ^
+        ^                       ^
         └-----------------------┘
         */
-		r.next = s
-		/*
+        r.next = s
+        /*
         ┌-----------------------┐
         ∨              n|       ∨
         a <---> r <---- b <---> c
                 ↑----┐
-		             |
+                     |
                p|    └--↓
         d <---> f ----> s <---> g
-		^                       ^
+        ^                       ^
         └-----------------------┘
         */
-		s.prev = r
-		/*
+        s.prev = r
+        /*
         ┌-----------------------┐
         ∨              n|       ∨
         a <---> r       b <---> c
                 ↑----┐  |
-		        ┌----┼--┘
+                ┌----┼--┘
                p|    └--↓
         d <---> f ----> s <---> g
-		^                       ^
+        ^                       ^
         └-----------------------┘
         */
-		n.prev = p
-		/*
+        n.prev = p
+        /*
         ┌-----------------------┐
         ∨              n|       ∨
         a <---> r       b <---> c
                 ↑----┐  ↑
-		        ┌----┼--┘
+                ┌----┼--┘
                p↓    └--↓
         d <---> f       s <---> g
-		^                       ^
+        ^                       ^
         └-----------------------┘
         */
-		p.next = n
-		/*
-		    ┌-------------------------------------------------------┐
+        p.next = n
+        /*
+            ┌-------------------------------------------------------┐
             ∨                                      p|      n|       ∨
             a <---> r <---> s <---> g <---> d <---> f <---> b <---> c
-		 */
-	}
-	return n
+         */
+    }
+    return n
 }
 ```
 
@@ -191,14 +191,14 @@ func (r *Ring) Link(s *Ring) *Ring {
 
 ```go
 func (r *Ring) Unlink(n int) *Ring {
-	if n <= 0 {
-		return nil
-	}
-	return r.Link(
-	    // 获取 r 的 n 个节点之后的那个 b 节点
-	    r.Move(n + 1)
-	    // 然后将 当前的 r 节点和 b 节点连接起来
-	    // 则中间的这些节点相当于从环中被排除掉
+    if n <= 0 {
+        return nil
+    }
+    return r.Link(
+        // 获取 r 的 n 个节点之后的那个 b 节点
+        r.Move(n + 1)
+        // 然后将 当前的 r 节点和 b 节点连接起来
+        // 则中间的这些节点相当于从环中被排除掉
     )
 }
 ```
@@ -207,11 +207,11 @@ func (r *Ring) Unlink(n int) *Ring {
 
 ```go
 func (r *Ring) Do(f func(interface{})) {
-	if r != nil {
-		f(r.Value)
-		for p := r.Next(); p != r; p = p.next {
-			f(p.Value)
-		}
-	}
+    if r != nil {
+        f(r.Value)
+        for p := r.Next(); p != r; p = p.next {
+            f(p.Value)
+        }
+    }
 }
 ```

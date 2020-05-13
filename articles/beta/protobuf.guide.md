@@ -42,9 +42,9 @@ proto 文件是一个服务对外的 接口声明, 以及请求文档,
 syntax = "proto3";
 
 message SearchRequest {
-	string query = 1;
-	int32 page_number = 2;
-	int32 result_per_page = 3; 
+    string query = 1;
+    int32 page_number = 2;
+    int32 result_per_page = 3;
 }
 ```
 
@@ -135,9 +135,9 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 
   * ```protobuf
     message HelloWorld {
-    	string name = 1;
-    	option message_set_wire_format = true;
-    	option deprecated = true; // 标示即将弃用
+        string name = 1;
+        option message_set_wire_format = true;
+        option deprecated = true; // 标示即将弃用
     }
     ```
 
@@ -145,7 +145,7 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 
   * ```protobuf
     message HelloWorld {
-    	string name = 1 [ packed = true, deprecated=true];
+        string name = 1 [ packed = true, deprecated=true];
     }
     ```
 
@@ -215,7 +215,7 @@ message OneofMessage {
       string name = 4;
       int64 value = 9;
     }
-}	
+}
 ```
 
 另一方面,  因为 proto3 没有办法区分 字段是 设置了还是自动使用了缺省值 (例如 int64 中的0), 甚至你无法判断数据是否有包含这个字段, 因为 protobuf  的 go 实现中, 字段会默认带 `omitempty` 标签, 在字段的值 empty 的时候, 会在传输时省略掉这个值. 
@@ -356,7 +356,7 @@ message Result {
 
 message SearchResponse {
   repeated Result results = 1;
-}		// ^^^^^^
+}        // ^^^^^^
 ```
 
 #### 嵌套定义
@@ -453,16 +453,16 @@ package example
 // ....
 
 type PhoneMessageRequest struct {
-	PhoneNumber          string   `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
-	International        bool     `protobuf:"varint,2,opt,name=international,proto3" json:"international",omitempty`
+    PhoneNumber          string   `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
+    International        bool     `protobuf:"varint,2,opt,name=international,proto3" json:"international",omitempty`
 //...
 }
 
 // ....
 
 type PhoneMessageResponse struct {
-	Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
-	PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
+    Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
+    PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
 // ...
 }
 
@@ -524,16 +524,16 @@ package example
 // ....
 
 type PhoneMessageRequest struct {
-	PhoneNumber          string              `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
-	International        *wrappers.BoolValue `protobuf:"bytes,2,opt,name=international,proto3" json:"international",omitempty`
+    PhoneNumber          string              `protobuf:"bytes,1,opt,name=phoneNumber,proto3" json:"phoneNumber",omitempty`
+    International        *wrappers.BoolValue `protobuf:"bytes,2,opt,name=international,proto3" json:"international",omitempty`
 //...
 }
 
 // ....
 
 type PhoneMessageResponse struct {
-	Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
-	PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
+    Success              bool     `protobuf:"varint,1,opt,name=success,proto3" json:"success",omitempty`
+    PhoneMessageId       string   `protobuf:"bytes,2,opt,name=phoneMessageId,proto3" json:"phoneMessageId",omitempty`
 // ...
 }
 
@@ -545,11 +545,11 @@ type PhoneMessageResponse struct {
 
 ```go
 type BoolValue struct {
-	// The bool value.
-	Value                bool     `protobuf:"varint,1,opt,name=value,proto3" json:"value,omitempty"`
-	XXX_NoUnkeyedLiteral struct{} `json:"-"`
-	XXX_unrecognized     []byte   `json:"-"`
-	XXX_sizecache        int32    `json:"-"`
+    // The bool value.
+    Value                bool     `protobuf:"varint,1,opt,name=value,proto3" json:"value,omitempty"`
+    XXX_NoUnkeyedLiteral struct{} `json:"-"`
+    XXX_unrecognized     []byte   `json:"-"`
+    XXX_sizecache        int32    `json:"-"`
 }
 ```
 

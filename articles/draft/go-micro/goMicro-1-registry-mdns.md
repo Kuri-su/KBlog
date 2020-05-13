@@ -24,22 +24,22 @@ Registry Interface 要求了 Registry 必须实现这些接口.
 // and an abstraction over varying implementations
 // {consul, etcd, zookeeper, ...}
 type Registry interface {
-	// 初始化
-	Init(...Option) error
-	// 获取 options
-	Options() Options
-	// 注册服务
-	Register(*Service, ...RegisterOption) error
-	// 取消服务注册
-	Deregister(*Service) error
-	// 获取服务
-	GetService(string) ([]*Service, error)
-	// 获取全部服务
-	ListServices() ([]*Service, error)
-	// TODO:: Unknown
-	Watch(...WatchOption) (Watcher, error)
-	// 获取 Registry 类型
-	String() string
+    // 初始化
+    Init(...Option) error
+    // 获取 options
+    Options() Options
+    // 注册服务
+    Register(*Service, ...RegisterOption) error
+    // 取消服务注册
+    Deregister(*Service) error
+    // 获取服务
+    GetService(string) ([]*Service, error)
+    // 获取全部服务
+    ListServices() ([]*Service, error)
+    // TODO:: Unknown
+    Watch(...WatchOption) (Watcher, error)
+    // 获取 Registry 类型
+    String() string
 }
 ```
 
