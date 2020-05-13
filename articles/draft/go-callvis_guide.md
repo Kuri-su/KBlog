@@ -2,7 +2,14 @@
 
 ## What's
 
-// TODO
+`go-callvis` 是一个为开发人员提供 Go 程序调用链概述的工具. 
+
+它在大型项目中非常有用, 或者也可以使用它来帮助你 理解他人代码.
+
+它主要包含以下这些特点:
+
+* 交互式视图, 他会有一个 http server 提供 svg 支持交互式的查看 Go 程序 调用链
+* 只关注或者排除掉某些 pkg 的调用链
 
 ## Install
 
@@ -25,7 +32,7 @@ $ cd go-callvis && make install
   * 使用 `包(pkg)` 或者 `类型(type)` 进行聚合, 以逗号分隔, 可以同时使用 pkg 和 type, 详情请参阅例子 
 * `-ignore string`
   * 排除一些包, 包路径之间 使用 逗号分隔 ,
-  * example: ignore: github.com/A/B/config,github.com/A/B/pkg/config 
+  * example: `ignore github.com/A/B/config,github.com/A/B/pkg/config` 
 * `-include string`
   * 引入具有指定前缀的包, 使用逗号分隔
 * `-limit string`
@@ -243,4 +250,7 @@ $ go-callvis \
 
 ## 缺陷 (当下 2020-5)
 
-// TODO
+1. 仅仅支持从 `main` 包出发, 不支持 `testcase` 或者其他任意位置出发来展示调用链
+2. 在复杂的调用关系中... 观感不佳... 因为某些调用关系太复杂, 导致连线过于稠密, 需要 反复 focus 和 ignore , 才能较为清晰的看到 比较关注的调用关系.
+
+除此之外, 大部分场景下, `go-vallvis` 还是比较实用的. 
