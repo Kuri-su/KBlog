@@ -164,7 +164,7 @@ $ go-callvis \
 
 #### Syncthing
 
-[![syncthing example](../images/syncthing.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing.png)
+![syncthing example](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing.png)
 
 ```shell
 $ go get -u github.com/syncthing/syncthing/
@@ -184,7 +184,7 @@ $ go-callvis \
     github.com/syncthing/syncthing/cmd/syncthing
 ```
 
-[![syncthing example output](../images/syncthing_focus.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing_focus.png)
+![syncthing example output](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing_focus.png)
 
 ```shell
 # Focusing package upgrade
@@ -196,7 +196,7 @@ $ go-callvis \
     github.com/syncthing/syncthing/cmd/syncthing
 ```
 
-[![syncthing example output pkg](../images/syncthing_group.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing_group.png)
+![syncthing example output pkg](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing_group.png)
 
 ```sh
 # Generate graph focused on module 'upgrade', output to PNG file
@@ -209,7 +209,7 @@ $ go-callvis \
     github.com/syncthing/syncthing/cmd/syncthing
 ```
 
-[![syncthing example output ignore](../images/syncthing_ignore.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing_ignore.png)
+![syncthing example output ignore](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing_ignore.png)
 
 ```sh
 # Generate graph focused on module 'upgrade' and ignoring 'logger', output to webserver
@@ -222,7 +222,7 @@ $ go-callvis \
 ```
 #### Docker
 
-[![docker example](../images/docker.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/docker.png)
+![docker example](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/docker.png)
 
 ```shell
 $ go-callvis \
@@ -234,7 +234,7 @@ $ go-callvis \
 ```
 #### Travis CI Worker
 
-[![travis-example](../images/travis_thumb.jpg)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/travis.jpg)
+![travis-example](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/travis.jpg)
 
 ```shell
 $ go-callvis \
