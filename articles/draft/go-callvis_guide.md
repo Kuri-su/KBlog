@@ -2,15 +2,22 @@
 
 ## What's
 
-
+// TODO
 
 ## Install
 
-
+```shell
+$ go get -u github.com/ofabry/go-callvis
+# or
+$ git clone https://github.com/ofabry/go-callvis.git
+$ cd go-callvis && make install
+```
 
 ## Use
 
 ### Options
+
+因为该工具的参数有点复杂, 笔者第一次看例子中的参数的时候是完全无法理解的状态, 所以为了能够熟练使用这个工具, 所以这里这里先对一些参数进行简单的描述和介绍.
 
 * `-focus string`
   *  聚焦于具体的包或者 import Path 上 (default "main")
@@ -43,8 +50,6 @@
   * 输出大量日志
 
 ### Example
-
-因为该工具的参数有点复杂, 笔者第一次看例子中的参数的时候是完全无法理解的状态, 所以为了能够熟练使用这个工具, 所以这里这里先对一些参数进行简单的描述和介绍.
 
 之后的例子都将主要以 `github.com/Kuri-su/confSyncer` 这个包作为例子, 使用这个项目作为 演示的原因有二.
 
@@ -133,7 +138,7 @@ $ go-callvis \
 
 // TODO Image
 
-### 例子
+### Other Example
 
 在了解完上述参数之后, 我们就可以来回头来看 `go-callvis 作者` 在 `readme.md` 中书写的例子了
 
@@ -145,7 +150,7 @@ $ go-callvis \
 - [Travis CI Worker](https://github.com/travis-ci/worker)
 
 
-##### Syncthing
+#### Syncthing
 
 [![syncthing example](../images/syncthing.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/syncthing.png)
 
@@ -203,7 +208,7 @@ $ go-callvis \
     -limit github.com/syncthing/syncthing \
     github.com/syncthing/syncthing/cmd/syncthing
 ```
-##### Docker
+#### Docker
 
 [![docker example](../images/docker.png)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/docker.png)
 
@@ -215,7 +220,7 @@ $ go-callvis \
     -ignore github.com/docker/docker/vendor \
     github.com/docker/docker/cmd/docker | dot -Tpng -o docker.png
 ```
-##### Travis CI Worker
+#### Travis CI Worker
 
 [![travis-example](../images/travis_thumb.jpg)](https://raw.githubusercontent.com/ofabry/go-callvis/master/images/travis.jpg)
 
@@ -233,3 +238,4 @@ $ go-callvis \
 
 ## 缺陷 (当下 2020-5)
 
+// TODO
