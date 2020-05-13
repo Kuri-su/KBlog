@@ -79,7 +79,7 @@ $ go-callvis . # 注意这后面还有一个. ,表示当前目录
 
 // TODO  Image
 
-#### focus
+#### -focus
 
 ```shell
 $ go-callvis \ 
@@ -90,7 +90,7 @@ $ go-callvis \
 
 // TODO Image
 
-#### group
+#### -group
 
 ```shell
 $ go-callvis \
@@ -101,7 +101,7 @@ $ go-callvis \
 
 // TODO Image
 
-#### nostd
+#### -nostd
 
 ```shell
 $ go-callvis \
@@ -111,7 +111,7 @@ $ go-callvis \
 
 // TODO Image
 
-#### ignore
+#### -ignore
 
 ```shell
 $ go-callvis \
@@ -127,7 +127,7 @@ $ go-callvis \
 
 // TODO Image
 
-#### minlen && nodesep
+#### -minlen && -nodesep
 
 ```shell
 $ go-callvis \
