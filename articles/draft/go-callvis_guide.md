@@ -95,7 +95,8 @@ $ go-callvis \
 ```shell
 $ go-callvis \
   -group pkg,type . 
-  # 这个参数主要是针对 pkg 和 type 进行聚合, 大多数情况下是标配变量, 使用时都会带                     #上 , 具体可以和 上面 Baisc 例子的输出惊醒对比.
+  # 这个参数主要是针对 pkg 和 type 进行聚合, 大多数情况下是标配变量, 使用时都会带 
+  # 上, 具体可以和 上面 Baisc 例子的输出进行对比.
 ```
 
 // TODO Image
