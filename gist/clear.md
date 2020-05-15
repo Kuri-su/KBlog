@@ -4,13 +4,13 @@
 package main
 
 import (
-    "os/exec"
+	"os/exec"
 )
 
 func main(){
-    fmt.println("hello world")
-    cmd := exec.Comand("clear")
-    cmd.Run()
+	fmt.println("hello world")
+	cmd := exec.Comand("clear")
+	cmd.Run()
 }
 ```
 
@@ -28,15 +28,15 @@ cmd.Stdout = os.Stdout
 package main
 
 import (
-    "os"
-    "os/exec"
+	"os"
+	"os/exec"
 )
 
 func main(){
-    fmt.println("hello world")
-    cmd := exec.Comand("clear")
+	fmt.println("hello world")
+	cmd := exec.Comand("clear")
     cmd.Stdout = os.Stdout
-    cmd.Run()
+	cmd.Run()
 }
 ```
 ---

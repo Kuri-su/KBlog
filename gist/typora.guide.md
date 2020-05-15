@@ -10,9 +10,9 @@
 直接下载 exe 即可
 
 * x64
-    * <https://www.typora.io/windows/typora-setup-x64.exe>
+	* <https://www.typora.io/windows/typora-setup-x64.exe>
 * x32
-    * <https://www.typora.io/windows/typora-setup-ia32.exe>
+	* <https://www.typora.io/windows/typora-setup-ia32.exe>
 
 ### Linux
 
