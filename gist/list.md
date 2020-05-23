@@ -67,56 +67,56 @@ func (l *List) insert(e, at *Element) *Element {
     /**
                         n
                         |
-    root <---> at <---> b <---> c
+	root <---> at <---> b <---> c
 
                         e
-     */
-    n := at.next
+	 */
+	n := at.next
 
-    /**
+	/**
                         n
                         |
-    root ----> at <---- b <---> c
+	root ----> at <---- b <---> c
                |
                |
                └------->e
-     */
-    at.next = e
+	 */
+	at.next = e
 
-    /**
+	/**
                         n
                         |
-    root ----> at <---- b <---> c
+	root ----> at <---- b <---> c
                |↑
                |└-------┐
                └------->e
-     */
-    e.prev = at
+	 */
+	e.prev = at
 
-    /**
-                        ┌---------┐
+	/**
+	                    ┌---------┐
                         n         |
-                        |          |
-    root ----> at <---- b <---> c |
+                        |	      |
+	root ----> at <---- b <---> c |
                |↑                 |
                |└-------┐         |
                └------->e---------┘
-     */
-    e.next = n
-    /**
-                        ┌---------┐
+	 */
+	e.next = n
+	/**
+	                    ┌---------┐
                       n-┤         |
-                      | ↓          |
-    root ----> at     | b <---> c |
+                      | ↓	      |
+	root ----> at     | b <---> c |
                |↑     └--┐        |
                |└-------┐↓        |
                └------->e---------┘
-     */
-    n.prev = e
+	 */
+	n.prev = e
 
-    e.list = l
-    l.len++
-    return e
+	e.list = l
+	l.len++
+	return e
 }
 ```
 
@@ -136,8 +136,8 @@ func (l *List) remove(e *Element) *Element {
     root ----> at ------------> c
                ^                ^
                └------- e <-----┘
-     */
-    e.prev.next = e.next
+	 */
+	e.prev.next = e.next
 
     /**
     ┌---------------------------┐
@@ -146,26 +146,26 @@ func (l *List) remove(e *Element) *Element {
                ^                ^
                └------- e ------┘
     */
-    e.next.prev = e.prev
-    /**
+	e.next.prev = e.prev
+	/**
     ┌---------------------------┐
     ∨                           ∨
     root ----> at <-----------> c
                ^
                └------- e
     */
-    e.next = nil // avoid memory leaks
-    /**
+	e.next = nil // avoid memory leaks
+	/**
     ┌---------------------------┐
     ∨                           ∨
     root ----> at <-----------> c
 
                         e
     */
-    e.prev = nil // avoid memory leaks
-    e.list = nil
-    l.len--
-    return e
+	e.prev = nil // avoid memory leaks
+	e.list = nil
+	l.len--
+	return e
 }
 ```
 
@@ -178,9 +178,9 @@ func (l *List) move(e, at *Element) *Element {
     ∨                                   ∨
     root ----> at <---> c <---> e <---> d
     */
-    if e == at {
-        return e
-    }
+	if e == at {
+		return e
+	}
     /**
     ┌-----------------------------------┐
     ∨                                   ∨
@@ -188,7 +188,7 @@ func (l *List) move(e, at *Element) *Element {
                         ^               ^
                         └------ e <-----┘
     */
-    e.prev.next = e.next
+	e.prev.next = e.next
     /**
     ┌-----------------------------------┐
     ∨                                   ∨
@@ -196,7 +196,7 @@ func (l *List) move(e, at *Element) *Element {
                         ^               ^
                         └------ e ------┘
     */
-    e.next.prev = e.prev
+	e.next.prev = e.prev
 
     /**
     ┌-----------------------------------┐
@@ -205,7 +205,7 @@ func (l *List) move(e, at *Element) *Element {
                         ^               ^
                         └------ e ------┘
     */
-    n := at.next
+	n := at.next
     /**
     ┌-----------------------------------┐
     ∨                  n|               ∨
@@ -214,7 +214,7 @@ func (l *List) move(e, at *Element) *Element {
                 |       └------ e ------┘
                 └---------------^
     */
-    at.next = e
+	at.next = e
     /**
     ┌-----------------------------------┐
     ∨                  n|               ∨
@@ -223,8 +223,8 @@ func (l *List) move(e, at *Element) *Element {
                 |               e ------┘
                 └---------------^
     */
-    e.prev = at
-    /**
+	e.prev = at
+	/**
     ┌-----------------------------------┐
     ∨                  n|               ∨
     root ----> at <---- c <-----------> d
@@ -232,8 +232,8 @@ func (l *List) move(e, at *Element) *Element {
                 |       └------ e ------┘
                 └---------------^
     */
-    e.next = n
-    /**
+	e.next = n
+	/**
     ┌-----------------------------------┐
     ∨                  n|               ∨
     root ----> at       c <-----------> d
@@ -241,14 +241,14 @@ func (l *List) move(e, at *Element) *Element {
                 |       └------>e
                 └---------------^
     */
-    n.prev = e
+	n.prev = e
 
     /**
     ┌-----------------------------------┐
     ∨                                   ∨
     root ----> at <---> e <---> c <---> d
     */
-    return e
+	return e
 }
 
 ```
@@ -260,18 +260,18 @@ func (l *List) move(e, at *Element) *Element {
 // 获取 链表 的 当前节点 的 下一个节点
 func (e *Element) Next() *Element {
     // 如果下一个节点是 链表的哨兵节点, 则当前已经在尾部, 返回 nil, 符合预期
-    if p := e.next; e.list != nil && p != &e.list.root {
-        return p
-    }
-    //...
+	if p := e.next; e.list != nil && p != &e.list.root {
+		return p
+	}
+	//...
 }
 // 获取 链表 的 当前节点 的 上一个节点
 func (e *Element) Prev() *Element {
     // 如果上一个节点是 链表的哨兵节点, 则当前已经在尾部, 返回 nil, 符合预期
-    if p := e.prev; e.list != nil && p != &e.list.root {
-        return p
-    }
-    //...
+	if p := e.prev; e.list != nil && p != &e.list.root {
+		return p
+	}
+	//...
 }
 ```
 
@@ -283,46 +283,46 @@ func (l *List) Len() int { return l.len }
 
 // 获取链表头部元素
 func (l *List) Front() *Element {
-    if l.len == 0 {
-        return nil
-    }
-    return l.root.next
+	if l.len == 0 {
+		return nil
+	}
+	return l.root.next
 }
 
 // 获取链表尾部元素
 func (l *List) Back() *Element {
-    if l.len == 0 {
-        return nil
-    }
-    return l.root.prev
+	if l.len == 0 {
+		return nil
+	}
+	return l.root.prev
 }
 
 // 删除节点
 func (l *List) Remove(e *Element) interface{} {
     // 传入的这个节点如果属于当前 list, 则删除, 否则不删除
     // 删除后的节点的 prev , next , list 属性都为 nil, 可以根据这个判断是否删除成功
-    if e.list == l {
-        // if e.list == l, l must have been initialized when e was inserted
-        // in l or l == nil (e is a zero Element) and l.remove will crash
-        l.remove(e)
-    }
-    return e.Value
+	if e.list == l {
+		// if e.list == l, l must have been initialized when e was inserted
+		// in l or l == nil (e is a zero Element) and l.remove will crash
+		l.remove(e)
+	}
+	return e.Value
 }
 
 // 从头部 push 节点
 func (l *List) PushFront(v interface{}) *Element {
     // 防止因为是自己手动实例化的 结构体而没有初始化的问题,
     // 检查是否已经初始化, 也就是哨兵的 尾节点是否指向自己
-    l.lazyInit()
-    // 在 root 后面插入元素
-    return l.insertValue(v, &l.root)
+	l.lazyInit()
+	// 在 root 后面插入元素
+	return l.insertValue(v, &l.root)
 }
 
 // 从尾部插入元素
 func (l *List) PushBack(v interface{}) *Element {
-    l.lazyInit()
-    // 在尾部的前一个元素后插入元素
-    return l.insertValue(v, l.root.prev)
+	l.lazyInit()
+	// 在尾部的前一个元素后插入元素
+	return l.insertValue(v, l.root.prev)
 }
 
 // 在给定节点前插入节点
@@ -350,10 +350,10 @@ root<->b<->c<->d
 root<->c<->b<->c<->d
  */
 func (l *List) PushFrontList(other *List) {
-    l.lazyInit()
-    // 每次运行结束更新 i (other 链表的长度), e (other 链表的尾节点)
-    for i, e := other.Len(), other.Back(); i > 0; i, e = i-1, e.Prev() {
-        l.insertValue(e.Value, &l.root)
-    }
+	l.lazyInit()
+	// 每次运行结束更新 i (other 链表的长度), e (other 链表的尾节点)
+	for i, e := other.Len(), other.Back(); i > 0; i, e = i-1, e.Prev() {
+		l.insertValue(e.Value, &l.root)
+	}
 }
 ```
