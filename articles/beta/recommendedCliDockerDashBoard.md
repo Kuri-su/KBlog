@@ -8,6 +8,8 @@
 
 首先如果你想找的是一个本地环境下的 Dashboard, 那么极力推荐 `portainer/portainer` 这个 Web 页面的 Container Dashboard,支持 信息聚合, 页面逻辑清晰, 支持批量管理 等等功能. 关于 `portainer` 更详细的介绍可以参考 [这篇 Gist](https://kuricat.com/gist/portainer-aebkv).
 
+// TODO Portainer image
+
 那么是否有了 `portainer` , 这些 cli 下的 Docker Dashboard 就没有意义了呢? 
 
 我认为答案是否定的, 在服务器上或者是想走`纯键盘流`的场景下, Cli Docker DashBoard 还是有他的用武之地的, 例如我只是想删一些容器, 我不想 每次这样都大动干戈 的 通过`docker ps` 之后,然后手动的或者用脚本去删除. 
