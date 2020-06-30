@@ -17,9 +17,9 @@ A{quantile="0.5"}
 
 按照常理, 如果这时我们使用 avg 函数对 `A` 求平均值 (`avg(A{quantile="0.5"})`),   应该会计算得到 Metrics A 的平均值曲线, 可是在使用 avg 函数后, 却发现图像上无数据. 接着通过查看 Prometheus 的原始查询响应, 发现有数据返回, 但是全部都是 `NaN`.
 
-![图像](/assets/promQLGraphAfterAggr.png)
+![](/assets/promQLGraphAfterAggr.png)
 
-![查询结果](/assets/promQLResultAfterAggr.png)
+![](/assets/promQLResultAfterAggr.png)
 
 当时笔者以为是 有一些数据是不连续的, 导致影响了 `avg 函数` 的执行, 遂开始尝试使用 `sum`, `rate`, `stddev` 等函数来验证这个问题是由数据不连续所引发的. 结果发现这些函数都出现了上述问题. 但比较意外的是 `max` 和 `min` 函数却都表现正常. 
 
@@ -38,7 +38,7 @@ avg(A{label="label"} > 0)
 
 即可让结果按照预期显示.
 
-![修复后效果图](/assets/promQLGraphFixed.png)
+![](/assets/promQLGraphFixed.png)
 
 ## 原因
 
@@ -46,7 +46,7 @@ avg(A{label="label"} > 0)
 
 那么接着就是定位问题,  通过直接查看 Grafana 对 Prometheus 的查询的响应体, 发现响应在正常返回, 但都是 NaN, 那说明问题并不是由 PromQL 表达式错误引起的. 
 
-![查询结果](/assets/promQLResultAfterAggr.png)
+![](/assets/promQLResultAfterAggr.png)
 
 那么既然不是 PromQL 表达式的问题, 那是不是和 `PromQL 的处理机制` 以及 这里出现的 `NaN 响应` 有关?
 印象里, 在 `Prometheus/client_golang` 里只有 Summary 指标 和 NaN 相关, 所以我们接着到 [prometheus/client_golang](https://github.com/prometheus/client_golang/issues) 搜索相关的关键词, 还就真的找到两个相关的 Issue  [#860](https://github.com/prometheus/prometheus/issues/860) 和 [#8860](https://github.com/grafana/grafana/issues/8860) , 通过 阅读 Issue , 就找到了[解决方案](https://github.com/prometheus/prometheus/issues/860#issuecomment-359867796).
