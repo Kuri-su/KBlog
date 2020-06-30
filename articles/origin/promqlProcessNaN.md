@@ -1,6 +1,6 @@
-{"title":"PromQL process NaN data result is abnormal","description":"PromQL 处理 NaN 数据 输出结果异常","category":"cloudNative","tag":["prometheus","golang"],"page_image":"/assets/promQLHeadImage.webp"}
+{"title":"PromQL query result is abnormal when it process NaN data ","description":"PromQL 处理 NaN 数据 输出结果异常","category":"cloudNative","tag":["prometheus","golang"],"page_image":"/assets/promQLHeadImage.webp"}
 
-> PromQL process NaN data result is abnormal
+> PromQL query result is abnormal when it process NaN data
 
 [TOC]
 
