@@ -204,5 +204,4 @@ func funcMinOverTime(vals []parser.Value, args parser.Expressions, enh *EvalNode
 > * [Prometheus Issue https://github.com/prometheus/prometheus/issues/4385](https://github.com/prometheus/prometheus/issues/4385)
 > * [Prometheus Issue https://github.com/prometheus/prometheus/pull/4386](https://github.com/prometheus/prometheus/pull/4386)
 > * [wikipedia https://zh.wikipedia.org/wiki/NaN](https://zh.wikipedia.org/wiki/NaN)
-> * [wikipedia https://zh.wikipedia.org/wiki/NaN](https://zh.wikipedia.org/wiki/NaN)
 
