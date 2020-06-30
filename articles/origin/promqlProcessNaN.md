@@ -33,7 +33,7 @@ avg(A{label="label"})
 
 // after
 avg(A{label="label"} > 0)
-                         //  ^^^^^^ 注意这里
+                //  ^^^^^^ 注意这里
 ```
 
 即可让结果按照预期显示.
@@ -57,7 +57,7 @@ avg(A{label="label"} > 0)
 
 NaN 的产生 通常出现在 [prometheus/client_golang](https://github.com/prometheus/client_golang) 的 Summary 实现上。
 
-在  Summary 的 配置中， 有一個 叫 `MaxAge` 的配置项 用於表示 刚刚收到的样本 將會在 该 Summary 的 樣本集中保存多久. 在超過 MaxAge 时间后(并且無新數據加入)，`prometheus/client_golang` 會將 Summary 的各個 `quantile(分位数)` 的 Value 置為 NaN， 类似下面这样.
+在  Summary 的 配置中， 有一个 叫 `MaxAge` 的配置项 用于表示 刚刚收到的样本 将会在 该 Summary 的 样本集中保存多久. 在超过 MaxAge 时间后(并且无新数据加入)，`prometheus/client_golang` 会将 Summary 的各个 `quantile(分位数)` 的 Value 置为 NaN， 类似下面这样.
 
 ```go
 // before
@@ -105,7 +105,9 @@ q := math.Sqrt(-1)  // 对 -1 开平方 (只能对正数开平方)
 fmt.Print(q)        // NaN
 ```
 
-可能有人会问, 为什么要返回一个 NaN, 这里返回 q , err 不可以吗? 但毕竟 IEEE 的规范这么写, 而且大多数语言都遵守这一规范, Golang 也没有必要自己搞一套规则让 跨语言开发的开发者难受. 不是嘛 : )
+可能有人会问, 为什么要返回一个 NaN, 这里难道不能返回 err 表示执行失败吗?
+
+返回 err 的方案是可行的, 可毕竟 IEEE 的规范这么写, 而且大多数语言都遵守这一规范, Golang 也没有必要自己搞一套规则让 跨语言开发的开发者难受. 不是嘛 : )
 
 根据 `IEEE 754` , 对 `NaN` 进行算数运算, 实质上是在和一个 不可表示的值(它甚至可能不是一个值, 是一个范围) 做运算, 所以结果将会得到一个 `NaN`, 就像下面的例子
 
