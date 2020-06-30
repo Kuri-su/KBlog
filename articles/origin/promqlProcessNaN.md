@@ -2,6 +2,8 @@
 
 > PromQL query result is abnormal when it process NaN data
 
+![](/assets/promQLHeadImage.webp)
+
 [TOC]
 
 ## 现象
