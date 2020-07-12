@@ -8,7 +8,9 @@
 
 ## 现象
 
-在尝试使用 PromQL 对 一个 Summary 类型的 Metrics (假设 Metrics 的 名字是 `A`) 进行处理时出现了一个比较诡异的现象,  对 Metrics `A` 进行简单查询时,  Grafana 中得到如下图像, 
+在使用 PromQL  简单查询 一个 Summary 类型的 Metrics 时(假设 Metrics  名字 `A`), 出现了一个比较诡异的现象.
+
+首先 , 我们不使用函数来进行查询, 仅仅列出原始结果: 
 
 ![](/assets/promQLGraphBeforeAggr.png)
 
@@ -17,13 +19,24 @@
 A{quantile="0.5"}
 ```
 
-按照常理, 如果这时我们使用 avg 函数对 `A` 求平均值 (`avg(A{quantile="0.5"})`),   应该会计算得到 Metrics A 的平均值曲线, 可是在使用 avg 函数后, 却发现图像上无数据. 接着通过查看 Prometheus 的原始查询响应, 发现有数据返回, 但是全部都是 `NaN`.
+接着, 我们对上述数据 使用 函数 `avg` 取 平均值.
 
 ![](/assets/promQLGraphAfterAggr.png)
 
-![](/assets/promQLResultAfterAggr.png)
+```go
+// 对应的 PromQL
+avg(A{quantile="0.5"})
+```
 
-当时笔者以为是 有一些数据是不连续的, 导致影响了 `avg 函数` 的执行, 遂开始尝试使用 `sum`, `rate`, `stddev` 等函数来验证这个问题是由数据不连续所引发的. 结果发现这些函数都出现了上述问题. 但比较意外的是 `max` 和 `min` 函数却都表现正常. 
+这时, **诡异的事情就出现了**, 按照常理, 如果这时我们使用 avg 函数对 `A` 求平均值 (`avg(A{quantile="0.5"})`),   应该会计算得到 Metrics A 的平均值曲线, 可是在使用 avg 函数后, 却发现图像上无数据. 
+
+接着通过查看 Prometheus 的原始查询响应, 发现实际上**是有数据返回**, 但是由于全部都是 `NaN`, 所以 Graph 上没有图像.
+
+
+![查询结果](/assets/promQLResultAfterAggr.png)
+
+
+当时笔者以为是 有一些数据是不连续的, 导致影响了 `avg 函数` 的执行, 遂开始尝试使用 `sum`, 等函数来验证这个问题是由数据不连续所引发的. 结果发现这些函数都出现了上述问题. 但比较意外的是 `max` 和 `min` 函数却都表现正常. 
 
 ## 解决方案
 
@@ -50,8 +63,8 @@ avg(A{label="label"} > 0)
 
 ![](/assets/promQLResultAfterAggr.png)
 
-那么既然不是 PromQL 表达式的问题, 那是不是和 `PromQL 的处理机制` 以及 这里出现的 `NaN 响应` 有关?
-印象里, 在 `Prometheus/client_golang` 里只有 Summary 指标 和 NaN 相关, 所以我们接着到 [prometheus/client_golang](https://github.com/prometheus/client_golang/issues) 搜索相关的关键词, 还就真的找到两个相关的 Issue  [#860](https://github.com/prometheus/prometheus/issues/860) 和 [#8860](https://github.com/grafana/grafana/issues/8860) , 通过 阅读 Issue , 就找到了[解决方案](https://github.com/prometheus/prometheus/issues/860#issuecomment-359867796).
+那么既然不是 PromQL 表达式的问题, 那 异常原因 有没有可能与 `PromQL 的处理机制` 以及 这里出现的 `NaN 响应` 有关?
+在笔者印象中, 在 `Prometheus/client_golang` 里只有 Summary 指标 会有 NaN 相关的返回, 所以我们接着到 [prometheus/client_golang](https://github.com/prometheus/client_golang/issues) Issue 列表中 搜索相关的关键词, 还就真的找到两个相关的 Issue  [#860](https://github.com/prometheus/prometheus/issues/860) 和 [#8860](https://github.com/grafana/grafana/issues/8860) , 通过 阅读 Issue , 就找到了[解决方案](https://github.com/prometheus/prometheus/issues/860#issuecomment-359867796).
 
 这里的 解决方案其实很简单. 以上面的代码段为例,  我们只需要在  `A`向量 的后面 加上一个 `>0` 来筛掉 值为 NaN 的样本即可. 但由于 笔者通常用 写函数调用的思维 在写 PromQL,并没有很快的意识到 这里的`A`是一个向量而不是一个普通的变量, 遂才写了错误的表达式造成来这次的问题. 
 
@@ -106,10 +119,6 @@ a_metrics_count 17939
 q := math.Sqrt(-1)  // 对 -1 开平方 (只能对正数开平方)
 fmt.Print(q)        // NaN
 ```
-
-可能有人会问, 为什么要返回一个 NaN, 这里难道不能返回 err 表示执行失败吗?
-
-返回 err 的方案是可行的, 可毕竟 IEEE 的规范这么写, 而且大多数语言都遵守这一规范, Golang 也没有必要自己搞一套规则让 跨语言开发的开发者难受. 不是嘛 : )
 
 根据 `IEEE 754` , 对 `NaN` 进行算数运算, 实质上是在和一个 不可表示的值(它甚至可能不是一个值, 是一个范围) 做运算, 所以结果将会得到一个 `NaN`, 就像下面的例子
 
