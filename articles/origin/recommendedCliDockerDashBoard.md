@@ -1,14 +1,14 @@
-{}
+{"title":"recommended docker dashboard in cli mode ","description":"在 cli 模式下推荐的 docker 仪表板","category":"docker","tag":["docker","cloudnative"],"page_image":"/assets/recommendedDockerDashboardInCliMode.webp"}
 
-# 常用的 Cli Docker DashBoard 推荐
+# 在 cli 模式下推荐的 docker 仪表板
+
+![](/assets/recommendedDockerDashboardInCliMode.webp)
 
 ## Cli Docker DashBoard 的适用场景
 
 通常, 我们会使用 `docker` 命令 这个 Docker Daemon 的 Client 来对 Docker 容器资源进行控制, 例如 容器的起停, 亦或者 Docker Image 的管理. 但是当我们镜像数量多起来之后, 仅仅使用 `docker ps` 或者 `docker rm` 这种命令有些效率低下, 需要经常 复制 和 上下翻页 查找需要处理的镜像 ID , 所以于是就想看看有没有什么 Cli 上的 Docker dashboard 可以帮我们快速找到某个 Container 或者 Image 然后进行处理,于是还真有一些收获, 这些就对这些工具做一些详细的说明.
 
 首先如果你想找的是一个本地环境下的 Dashboard, 那么极力推荐 `portainer/portainer` 这个 Web 页面的 Container Dashboard,支持 信息聚合, 页面逻辑清晰, 支持批量管理 等等功能. 关于 `portainer` 更详细的介绍可以参考 [这篇 Gist](https://kuricat.com/gist/portainer-aebkv).
-
-// TODO Portainer image
 
 那么是否有了 `portainer` , 这些 cli 下的 Docker Dashboard 就没有意义了呢? 
 
