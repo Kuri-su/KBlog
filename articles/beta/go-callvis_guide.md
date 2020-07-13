@@ -2,7 +2,7 @@
 
 ## What's
 
-`go-callvis` 是一个为开发人员提供 Go 程序调用链概述的工具. 
+[ofabry/go-callvis](https://github.com/ofabry/go-callvis) 是一个为开发人员提供 Go 程序调用链概述的工具. 
 
 它在大型项目中非常有用, 或者也可以使用它来帮助你 理解他人代码.
 
@@ -81,7 +81,7 @@ $ cd confSyncer/cmd/confsyncer
 #### basic
 
 ```shell
-$ go-callvis . # 注意这后面还有一个. ,表示当前目录
+$ go-callvis -group pkg,type . # 注意这后面还有一个. ,表示当前目录
 ```
 
 // TODO  Image
