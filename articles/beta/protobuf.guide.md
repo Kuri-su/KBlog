@@ -1,27 +1,59 @@
-#  ProtoBuf
+#  Protocal buffer Guide
 
 [TOC]
-
-go主要实现 golang/protobuf
-
-go protobuf增强库 gogo/protobuf
 
 // TODO 需要大量添加例子
 
 ## Protocal buffer
 
-Protobuf 是一个二进制协议, 
+Protocal buffer 简称 `Protobuf` 是 一种 `序列化` 数据结构的协议, 这种协议包含两部分,  
 
-## 序列化
+*  规定 如何将 元数据 编译为 二进制形式,
+*  包含了一套 接口描述语言. 
 
-* **ProtoBuf**
+例如下面这就是一个 Protobuf 的例子, 后面会对两个部分详细介绍.
 
-* `Json`
-* `Yaml`
-* `Toml`
-* `PropertyList(Apple)`
-* `Bson`
-* `MessagePack`
+```protobuf
+// protobuf 接口描述文件
+
+syntax = "proto3";  // 接口描述所使用的 protobuf 版本, 这里使用 `proto3`
+
+// HelloMan Service
+// 这样声明了服务的接口, 
+// 这和 面向对象 里面的 interface 的概念是类似的
+// 这个接口也规定了 输入和输出 的格式
+service HelloMan {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+// 请求体 里只有一个字段, 字段名为 name, 类型为 string
+message Request {
+    string name = 1;
+}
+
+// 响应体 里也只有一个字段, 字段名为 hello, 类型为 string
+message Response {
+    string hello = 1;
+}
+
+```
+
+ 它最早由 Google 开发, 并作为 GRPC 的序列化协议被使用. 随后, 越来越多的 RPC 库 开始支持 Protobuf 作为 序列化 协议.
+
+另外 Protocal 的多语言支持也不错, 比较热门的语言都有 第一方 或者 第三方 的实现 供开发者使用. 多语言支持的详情可以参考 [此处](https://github.com/protocolbuffers/protobuf#protobuf-runtime-installation).
+
+protocal buffer 在 golang 的主要实现是 `golang/protobuf` 和 `gogo/protobuf`, 后者在前者的基础上有所增强.
+
+## 常见的序列化协议/格式
+
+从下面这个表, 可以很容易看出 常见的 序列化协议/格式 之间的差异.
+
+* **ProtoBuf** (二进制协议, 包含接口描述. created by Google)
+* Json/Yaml/Toml (文本协议)
+* XML (可扩展标记语言, 文本协议)
+* Bson (文本协议)
+* MessagePack (二进制协议)
+* Apache Thrift (二进制协议, 包含接口描述, created by Facebook) 
 * ...
 
 ## Proto3
