@@ -4,12 +4,25 @@
 
 // TODO 需要大量添加例子
 
-## Protocal buffer
+## 常见的序列化协议/格式
+
+从下面这个表, 可以很容易看出 常见的 序列化协议/格式 之间的差异.
+
+* **ProtoBuf** (二进制协议, 包含接口描述. created by Google)
+* Json/Yaml/Toml (文本协议)
+* XML (可扩展标记语言, 文本协议)
+* Bson (文本协议)
+* MessagePack (二进制协议)
+* Apache Thrift (二进制协议, 包含接口描述, created by Facebook) 
+* ...
+
+
+## 简介
 
 Protocal buffer 简称 `Protobuf` 是 一种 `序列化` 数据结构的协议, 这种协议包含两部分,  
 
-*  规定 如何将 元数据 编译为 二进制形式,
-*  包含了一套 接口描述语言. 
+*  规定 如何将 元数据 编译为 二进制形式
+*  包含了一套 接口描述语言 以及配套的代码生成器. 
 
 例如下面这就是一个 Protobuf 的例子, 后面会对两个部分详细介绍.
 
@@ -35,86 +48,71 @@ message Request {
 message Response {
     string hello = 1;
 }
-
 ```
 
- 它最早由 Google 开发, 并作为 GRPC 的序列化协议被使用. 随后, 越来越多的 RPC 库 开始支持 Protobuf 作为 序列化 协议.
+Protobuf 最早由 Google 开发, 并作为 GRPC 的序列化协议被使用. 随后, 越来越多的 RPC 库 开始支持 Protobuf 作为 序列化 协议.
 
-另外 Protocal 的多语言支持也不错, 比较热门的语言都有 第一方 或者 第三方 的实现 供开发者使用. 多语言支持的详情可以参考 [此处](https://github.com/protocolbuffers/protobuf#protobuf-runtime-installation).
+Protocal buffer 协议已经使用多种语言实现. 多语言支持的详情可以参考 [此处](https://github.com/protocolbuffers/protobuf#protobuf-runtime-installation).
 
 protocal buffer 在 golang 的主要实现是 `golang/protobuf` 和 `gogo/protobuf`, 后者在前者的基础上有所增强.
 
-## 常见的序列化协议/格式
+## Protocal buffer 接口描述语言
 
-从下面这个表, 可以很容易看出 常见的 序列化协议/格式 之间的差异.
-
-* **ProtoBuf** (二进制协议, 包含接口描述. created by Google)
-* Json/Yaml/Toml (文本协议)
-* XML (可扩展标记语言, 文本协议)
-* Bson (文本协议)
-* MessagePack (二进制协议)
-* Apache Thrift (二进制协议, 包含接口描述, created by Facebook) 
-* ...
-
-## Proto3
-
-### what's this
-
-proto 文件是一个服务对外的 接口声明, 以及请求文档,
+protocal buffer 的 `接口描述语言`分为两个版本, **proto3** 和 **proto2** , proto3 在 proto2 的基础上添加了一些 feature 和 做出了一些改变.
 
 ### 主要改变
 
-* 移除了 `required` 字段
-* 移除了缺省值
+* 移除了 `required` 标识
+* 移除了 字段缺省值
 * 添加了 map 类型
 
 ### 基本例子
 
 ```protobuf
-syntax = "proto3";
+// protobuf 接口描述文件
 
-message SearchRequest {
-    string query = 1;
-    int32 page_number = 2;
-    int32 result_per_page = 3;
+syntax = "proto3";  // 接口描述所使用的 protobuf 版本, 这里使用 `proto3`
+
+// HelloMan Service
+// 这样声明了服务的接口, 
+// 这和 面向对象 里面的 interface 的概念是类似的
+// 这个接口也规定了 输入和输出 的格式
+service HelloMan {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+// 请求体 里有两个字段, 
+// 其中一个字段名为 name, 类型为 string, 
+// 另一个字段名为 hello, 类型为 string
+message Request {
+    string name = 1;
+    int hello = 2;
+}
+
+// 响应体 里也只有一个字段, 字段名为 hello, 类型为 string
+message Response {
+    string hello = 1;
 }
 ```
 
-字段是以如下格式定义的
+字段使用如下格式定义
 
 ```protobuf
-[ "repeated" ] type fieldName "=" fieldNumber [ "[" fieldOptions "]" ] ";" 
-// repeated     string  query  =   1 ;
+[ "repeated" ] type    fieldName "=" fieldNumber [ "[" fieldOptions "]" ] ";" 
+
+// repeated    type    fieldName "=" fieldNumber [fieldOptions]; 
+// repeated    string  name       =  1 ;
 ```
 
-而这个例子是一个简单的例子, 采用了 如下格式的定义
+最前面的 **repeated** 标识 , 通常用于表示这个字段对应的值为数组. 另外, 在 字段序号`fieldNumber` 后面,  允许定义一些可选项(fieldOptions).
 
-```protobuf
-type fieldName "=" fieldNumber
-```
+我们也可以通过下面这些 关键字 来完成复杂的字段描述, 这些在后面会详细讲解
 
-这是一个较为简单的结构, 如果对于复杂的结构, 前面可以定义为 `repeated` , 意为 重复, 实为对应元素的数组, 而在序号(`fieldNumber`) 后可以定义一些可选项.
-
-而对于复杂的字段定义, 可以有一些复杂的字段定义, 例如下面这些, 在后面会详细讲解
-
-* oneOf
+* oneof
 * map
 * reserved
 * enum
 
-// TODO 这里需要加上解释
-
-你可以使用 如下命令将上面的 的 `proto` 文件编译成 Go 代码
-
-```shell
-$ protoc -I=. -I=/usr/local/include -I=$(GOPATH)/src --go_out=. simple.proto
-```
-
-因为在 proto 中有时会 import  一些别的 proto 文件, 这时就会需要用 `-I` 参数指定protoc 的搜索 import 的 proto 文件夹. 
-
-而可以看到后面 使用 `go-out`进行代码输出, 他会去 调用 protoc-gen-go 这个二进制文件, 这就给我们留了非常大的扩展性, `cpp_out` 用来生成 C++ 代码, `java_out` 生成 Java 代码, `python_out` 生成 PY代码.
-
- 假设我们自己写的插件名字叫 `protoc-gen-helloworld` 那么你只需要 在结尾加上 `helloworld_out` , 那么 protoc 就会去调用你自己写的插件 , go-micro 的 `protoc-gen-micro`  就是用了这个方式.
 
 ### 关键字
 
