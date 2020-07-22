@@ -1,8 +1,8 @@
+{"title":"Protocal buffer Guide","description":"Protocal buffer 简易指南","category":"protobuf","tag":["golang","protobuf"],"page_image":"/assets/protobufGuideHeader.webp"}
+
 #  Protocal buffer Guide
 
 [TOC]
-
-// TODO 需要大量添加例子
 
 ## 常见的序列化协议/格式
 
@@ -60,12 +60,6 @@ protocal buffer 在 golang 的主要实现是 `golang/protobuf` 和 `gogo/protob
 
 protocal buffer 的 `接口描述语言`分为两个版本, **proto3** 和 **proto2** , proto3 在 proto2 的基础上添加了一些 feature 和 做出了一些改变.
 
-### 主要改变
-
-* 移除了 `required` 标识
-* 移除了 字段缺省值
-* 添加了 map 类型
-
 ### 基本例子
 
 ```protobuf
@@ -114,28 +108,46 @@ message Response {
 * enum
 
 
-### 关键字
+### protobuf 关键字
 
-按照我们的书写顺序依次介绍 会用到的关键字
+下面将 按照我们的书写顺序依次介绍 在 `.proto` 文件中 会用到的 关键字
 
 #### syntax
 
 syntax 用来定义说使用的 protobuf 语法的版本
 
 ```protobuf
+// proto3
 syntax = "proto3";
+// proto2
+syntax = "proto2"
 ```
 
 #### import 
 
-import 用于复用和引用其他 .proto 文件,  而 import 具有两个 关键字 
-* weak
-  * weak 允许 引入的文件不存在, 也就是在 import 这里不会报错, 不过 如果 后面的使用了不存在的 对象或者结构, 则一样会报错
-* public
-  * public 通常用于多重引用和阻止多重引用的场景, 其实际作用可以通过下面这一幅图来说明. 图片来自[@hanschen](http://blog.hanschen.site/2017/04/08/protobuf3/)
-  * ![](https://raw.githubusercontent.com/shensky711/Pictures/master/2019-9-2-12-36-49.png)
-    * 在情景 1 中 my.proto 不能使用  `First.proto`  中引用的 `Second.proto` 文件的内容
-    * 在情景2中, my.proto 可以使用 `second.proto`   中的内容
+import 通常用于 引用其他 .proto 文件,  而 import 后可以接 关键字 来进一步细化 对 文件的引入关系
+
+```protobuf
+// 普通单级引用
+import "First.proto"
+// 允许多级引用
+import public "First.proto"
+// 在引用不存在的
+import weak "First.proto"
+```
+
+##### weak
+
+`weak` 关键字 允许 引入的文件不存在, 也就是在 import 这里不会报错, 不过 如果 后面的使用了不存在的 对象或者结构, 则一样会报错
+
+##### public
+
+public 通常用于多级引用, 其实际作用可以通过下面这一幅图来说明. 图片来自[@hanschen](http://blog.hanschen.site/2017/04/08/protobuf3/)
+
+![](https://raw.githubusercontent.com/shensky711/Pictures/master/2019-9-2-12-36-49.png)
+
+* 在情景 1 中 my.proto 不能使用 `Second.proto` 文件的内容
+* 在情景 2 中, my.proto 可以使用 `Second.proto`   中的内容
 
 #### package
 
@@ -143,13 +155,41 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 
 另一方面也可以用来生成特定语言的 Package 名字, 例如 Java 的Package, 以及 Go 的 Package
 
+```protobuf
+syntax = "proto3";
+
+package meta;
+```
+
 #### message
 
-// TODO
+```protobuf
+message Request {
+    string name = 1;
+    int hello = 2;
+}
+```
+
+message 是 Protobuf 接口描述语言 中, 最常用的 关键字之一, 所有的数据传输都以 Message 为单位, 熟悉 C 系列语言或者 Go 语言的朋友,可能很容易就看出来, 这个 和 Struct 的概念很像.
 
 #### service
 
-// TODO
+```protobuf
+service HelloMan {
+    rpc SayHello (Request) returns (Response) {}
+}
+
+message Request {
+    string name = 1;
+    int hello = 2;
+}
+
+message Response {
+    string hello = 1;
+}
+```
+
+而对于 Service , 则可以理解成 对外提供服务的 RPC 接口 列表, 在上面这个例子中, 有一个 Service 叫 HelloMan, 这个 HelloMan 的 Service 将提供 一个名叫 SayHello 的 RPC 接口, 这个接口 的 Request 有两个字段 `name` 和 `hello`, 将返回一个 Reponse, 有一个字段是 hello
 
 #### option
 
@@ -187,8 +227,6 @@ package 关键字一方面作为 proto 文件的命名空间, 防止 message 类
 * Message 层级 >> `MessageOptions`
 * Field 层级 >> `FieldOptions`
 * 最后一种则是, `OneofOptions`,`EnumOptions`,`EnumValueOptions`,`ServiceOptions`,`MethodOptions`
-
-
 
 与此同时, 你也可以对 Options 进行自定义, 追加一些自定义的 options 到指定的层级, 如何 自定义如下所示:
 
@@ -423,6 +461,12 @@ message ErrorStatus {
 //^^^^^^^^ 这里的 repeated 不能省略, 因为 bytes 必然是以 数组的形式出现,例如 go 中的 []bytes
 }
 ```
+
+### proto3 主要改变
+
+* 移除了 `required` 标识
+* 移除了 字段缺省值
+* 添加了 map 类型
 
 ### 更新消息类型
 
