@@ -1,6 +1,8 @@
 {"title":"Protocal buffer Guide","description":"Protocal buffer 简易指南","category":"protobuf","tag":["golang","protobuf"],"page_image":"/assets/protobufGuideHeader.webp"}
 
-#  Protocal buffer Guide
+> Protocal buffer Guide
+
+![](/assets/protobufGuideHeader.webp)
 
 [TOC]
 
