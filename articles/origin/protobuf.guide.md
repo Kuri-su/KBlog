@@ -146,7 +146,7 @@ import weak "First.proto"
 
 public 通常用于多级引用, 其实际作用可以通过下面这一幅图来说明. 图片来自[@hanschen](http://blog.hanschen.site/2017/04/08/protobuf3/)
 
-![](https://raw.githubusercontent.com/shensky711/Pictures/master/2019-9-2-12-36-49.png)
+![protobuf import](https://raw.githubusercontent.com/shensky711/Pictures/master/2019-9-2-12-36-49.png)
 
 * 在情景 1 中 my.proto 不能使用 `Second.proto` 文件的内容
 * 在情景 2 中, my.proto 可以使用 `Second.proto`   中的内容
