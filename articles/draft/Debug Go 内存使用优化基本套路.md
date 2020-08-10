@@ -14,6 +14,9 @@
 
 ## 第一步  现象复现
 
-## 第二步  查看 Heap Top
+## 第二步  查看 Heap
 
-##  
+inuse_space
+
+inuse_space
+
