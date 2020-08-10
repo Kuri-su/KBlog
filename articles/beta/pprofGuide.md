@@ -6,7 +6,7 @@
 
 pprof 的 整个使用流程被分为如下三个阶段
 
-![](/home/kurisu/Downloads/pprofStruction (2).png)
+![](./assets/pprof1Data.png)
 
 ## Source Data 阶段
 
@@ -106,9 +106,7 @@ Showing top 10 nodes out of 17
 (pprof)  web
 ```
 
-
-
-![](/home/kurisu/Pictures/2020-08-11_01-20.png)
+![](./assets/pprof2memGraph.png)
 
 ### Web 模式 ++
 
@@ -127,7 +125,7 @@ Saved profile in /home/kurisu/pprof/pprof.___go_build_main_go.alloc_objects.allo
 Serving web UI on http://localhost:7011
 ```
 
-![](/home/kurisu/Pictures/2020-08-11_01-30.png)
+![](./assets/pprof3memFlamegraph.png)
 
 以上 大致说完了 go 自带的 pprof 相关的功能, 但说到性能工具, 怎么能不说说第三方, (从鸟窝看的)
 
@@ -136,6 +134,10 @@ Serving web UI on http://localhost:7011
 #### Gom
 
 项目地址: http://github.com/rakyll/gom
+
+效果: 
+
+![](./assets/pprof4Gom.png)
 
 #### debugcharts
 
