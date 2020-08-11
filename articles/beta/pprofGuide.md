@@ -14,7 +14,7 @@ pprof 的 整个使用流程被分为如下三个阶段
 
 ## Source Data 阶段
 
-在 Source Data 阶段, 我们可以通过 pprof 的 lib 拿到 Golang Runtime 的原始数据, 这里我们有两个途径可以选择:
+在 `Source Data 阶段`, 我们可以通过 pprof 的 lib 拿到 `Golang Runtime` 的原始数据, 这里我们有两个途径可以选择:
 
 ### runtime/pprof
 
@@ -64,11 +64,11 @@ $ go tool pprof http://localhost:6060/debug/pprof/mutex
 
 ## Data View 阶段
 
-这里直接跳过 Data Packages 阶段, 毕竟 数据包 没啥好讲... 也不是给人类看的格式.....
+这里直接跳过 `Data Packages 阶段`, 毕竟 数据包 没啥好讲... 也不是给人类看的格式.....
 
 ### Terminal 模式
 
-直接来到 Data View 阶段, 这里我们可以通过 数据包获取到里面的信息(`使用类似 go tool pprof http://xxxx`的模式从网络获取的话, 会直接进入Terminal 模式, 而无需手动指定).
+直接来到 `Data View 阶段`, 这里我们可以通过 数据包获取到里面的信息(`使用类似 go tool pprof http://xxxx`的模式从网络获取的话, 会直接进入Terminal 模式, 而无需手动指定).
 
 ```shell
 $ go tool pprof /home/kurisu/pprof/pprof.___go_build_main_go.alloc_objects.alloc_space.inuse_objects.inuse_space.004.pb.gz                                      
