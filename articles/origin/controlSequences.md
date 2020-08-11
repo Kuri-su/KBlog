@@ -1,4 +1,4 @@
-{"title":"ANSI 终端输出瞎搞指北","description":"今天我克里斯就是要在终端上画彩虹猫","category":"Linux","tag":["ANSI","just fun"],"page_image":"/assets/ControlSequences_index.png"}
+{"title":"ANSI 终端输出瞎搞指北","description":"今天我克里斯就是要在终端上画彩虹猫","category":"Linux","tag":["ANSI","just fun"],"page_image":"/assets/ControlSequences_index.webp"}
 
 # Terminal Control Sequences 终端控制转义序列
 
@@ -201,7 +201,7 @@ echo -e "\x1b[38;5;214m\x1b[48;5;239m ssss\x1b[0m"  # 输出 前景色为 256色
 ## END
 
 那么现在可以在终端里好好玩一玩了
-![](/assets/ControlSequences_index.png)
+![](/assets/ControlSequences_index.webp)
 
 参考代码 :
 ```go
