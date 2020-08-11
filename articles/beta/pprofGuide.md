@@ -6,7 +6,7 @@
 
 pprof 的 整个使用流程被分为如下三个阶段
 
-![](./assets/pprof1Data.png)
+![](./assets/pprof1Data.webp)
 
 ## Source Data 阶段
 
