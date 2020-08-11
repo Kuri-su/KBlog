@@ -66,7 +66,7 @@ $ sudo cp $GOPATH/bin/dry /usr/local/bin/
 
 ## Why
 
-很多同学都会想, 我们已经有了 `portainer/portainer` 这么好用的 web 端 Docker 管理工具, 那么为什么我们还需要一款 Docker Terminal Dashboard, 关于这点可以参见这一篇文章: [// TODO  现在还没写完]()
+很多同学都会想, 我们已经有了 `portainer/portainer` 这么好用的 web 端 Docker 管理工具, 那么为什么我们还需要一款 Docker Terminal Dashboard, 关于这点可以参见这一篇文章: [在 cli 模式下推荐的 docker 仪表板](https://kuricat.com/articles/recommended-docker-dashboard-in-cli-mode-86fvu)
 
 ## How
 
