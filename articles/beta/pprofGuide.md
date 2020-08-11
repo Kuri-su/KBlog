@@ -1,6 +1,10 @@
+{"title": "golang pprof guide","description": "golang pprof 简易教程","category": "golang","tag": ["golang","tools"],"page_image":"/assets/pprof0_index.webp"}
+
 # golang pprof guide
 
 [TOC]
+
+![](/assets/pprof0_index.webp)
 
 在别的语言,  如果想 Debug Runtime  的话, 得去找各种工具. 而在 Golang 中, 标准库为我们提供了一系列的工具用于 Runtime Debug, 这一系列 工具的总称叫做 `pprof tool`. 
 
@@ -106,7 +110,7 @@ Showing top 10 nodes out of 17
 (pprof)  web
 ```
 
-![](./assets/pprof2memGraph.png)
+![](/assets/pprof2memGraph.png)
 
 ### Web 模式 ++
 
@@ -162,4 +166,6 @@ Serving web UI on http://localhost:7011
 > https://github.com/rakyll/gom
 >
 > https://github.com/mkevac/debugcharts
+>
+> https://etcnotes.com/posts/pprof/
 
