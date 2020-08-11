@@ -6,7 +6,7 @@
 
 pprof 的 整个使用流程被分为如下三个阶段
 
-![](./assets/pprof1Data.webp)
+![](/assets/pprof1Data.webp)
 
 ## Source Data 阶段
 
@@ -125,7 +125,7 @@ Saved profile in /home/kurisu/pprof/pprof.___go_build_main_go.alloc_objects.allo
 Serving web UI on http://localhost:7011
 ```
 
-![](./assets/pprof3memFlamegraph.png)
+![](/assets/pprof3memFlamegraph.png)
 
 以上 大致说完了 go 自带的 pprof 相关的功能, 但说到性能工具, 怎么能不说说第三方, (从鸟窝看的)
 
@@ -137,7 +137,7 @@ Serving web UI on http://localhost:7011
 
 效果: 
 
-![](./assets/pprof4Gom.png)
+![](/assets/pprof4Gom.png)
 
 #### debugcharts
 
