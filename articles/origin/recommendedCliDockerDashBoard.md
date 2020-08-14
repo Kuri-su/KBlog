@@ -1,8 +1,8 @@
-{"title":"recommended docker dashboard in cli mode ","description":"在 cli 模式下推荐的 docker 仪表板","category":"docker","tag":["docker","cloudnative"],"page_image":"/assets/recommendedDockerDashboardInCliMode.webp"}
+{"title":"recommended docker dashboard in cli mode ","description":"在 cli 模式下推荐的 docker 仪表板","category":"docker","tag":["docker","cloudnative"],"page_image":"/assets/recommendedDockerDashboardInCliMode.png"}
 
 # 在 cli 模式下推荐的 docker 仪表板
 
-![](/assets/recommendedDockerDashboardInCliMode.webp)
+![](/assets/recommendedDockerDashboardInCliMode.png)
 
 ## Cli Docker DashBoard 的适用场景
 
