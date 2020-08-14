@@ -1,16 +1,16 @@
-{"title": "golang pprof topview","description": "golang pprof topview","category": "golang","tag": ["golang","tools"],"page_image":"/assets/pprof0_index.webp"}
+{"title": "golang pprof topview","description": "golang pprof topview","category": "golang","tag": ["golang","tools"],"page_image":"/assets/pprof0_index.png"}
 
 # golang pprof topview
 
 [TOC]
 
-![](/assets/pprof0_index.webp)
+![](/assets/pprof0_index.png)
 
 在别的语言,  如果想 Debug Runtime  的话, 得去找各种工具. 而在 Golang 中, 标准库为我们提供了一系列的工具用于 Runtime Debug, 这一系列 工具的总称叫做 `pprof tool`. 
 
 pprof 的 整个使用流程被分为如下三个阶段
 
-![](/assets/pprof1Data.webp)
+![](/assets/pprof1Data.png)
 
 ## Source Data 阶段
 
