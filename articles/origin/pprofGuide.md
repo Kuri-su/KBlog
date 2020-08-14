@@ -1,6 +1,6 @@
-{"title": "golang pprof guide","description": "golang pprof 简易教程","category": "golang","tag": ["golang","tools"],"page_image":"/assets/pprof0_index.webp"}
+{"title": "golang pprof topview","description": "golang pprof topview","category": "golang","tag": ["golang","tools"],"page_image":"/assets/pprof0_index.webp"}
 
-# golang pprof guide
+# golang pprof topview
 
 [TOC]
 
