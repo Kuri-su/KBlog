@@ -29,7 +29,7 @@ $ go tool pprof mem.prof
 
 ### net/http/pprof
 
-使用 `net/http/pprof` 库, 将 runtime 数据通过 HTTP 接口的形式暴露出去.再通过类似 `go tool pprof http://xxxxx` 这样的指令, 获取到数据包, 并直接进入 Terminal 中观察, **这种模式用的最多, 对于运行中的服务Debug 通常都可以使用用这种形式**.例如下面这样, 首先需要在 代码中开启 , 接着使用 shell 命令, 获取 Runtime 信息, 接着就会进入 pprof 的 Terminal 终端, 然后即可使用命令查看 状态:
+使用 `net/http/pprof` 库, 将 runtime 数据通过 HTTP 接口的形式暴露出去.再通过类似 `go tool pprof http://xxxxx` 这样的指令, 获取到数据包, 并直接进入 Terminal 中观察, **这种模式用的最多, 对于运行中的服务 Debug 通常都可以使用用这种形式**.例如下面这样, 首先需要在 代码中开启 , 接着使用 shell 命令, 获取 Runtime 信息, 接着就会进入 pprof 的 Terminal 终端, 然后即可使用命令查看 状态:
 
 ```go
 // main.go
@@ -54,7 +54,7 @@ $ go tool pprof http://localhost:6060/debug/pprof/heap
 ## profile 执行时耗
 $ go tool pprof http://localhost:6060/debug/pprof/profile?secends=60 # 这个后面可以带参数来决定采集时长(默认 30s{golang 1.13}), 只有 cpu 时耗 需要采集, 
 ## goruntime
-$ go tool pprof http://localhost:6060/debug/pprof/heap
+$ go tool pprof http://localhost:6060/debug/pprof/goroutine
 
 # 不常用
 ## block 和 mutex 分别是 阻塞 和 锁的竞争情况, 在解决相应问题的时候会用的到
@@ -64,11 +64,11 @@ $ go tool pprof http://localhost:6060/debug/pprof/mutex
 
 ## Data View 阶段
 
-这里直接跳过 `Data Packages 阶段`, 毕竟 数据包 没啥好讲... 也不是给人类看的格式.....
+这里直接跳过 `Data Packages 阶段`, 毕竟 数据包 没啥好讲…… 也不是给人类看的格式……
 
 ### Terminal 模式
 
-直接来到 `Data View 阶段`, 这里我们可以通过 数据包获取到里面的信息(`使用类似 go tool pprof http://xxxx`的模式从网络获取的话, 会直接进入Terminal 模式, 而无需手动指定).
+直接来到 `Data View 阶段`, 这里我们可以通过 数据包获取到里面的信息(`使用类似 go tool pprof http://xxxx`的模式从网络获取的话, 会直接进入 Terminal 模式, 而无需手动指定).
 
 ```shell
 $ go tool pprof /home/kurisu/pprof/pprof.___go_build_main_go.alloc_objects.alloc_space.inuse_objects.inuse_space.004.pb.gz                                      
@@ -151,7 +151,7 @@ Serving web UI on http://localhost:7011
 
 ![ex](https://github.com/mkevac/debugcharts/raw/master/example/screenshot.png)
 
-看完还是要实践下, 不然很快就忘..
+看完还是要实践下, 不然很快就忘……
 
 ## Ref
 
