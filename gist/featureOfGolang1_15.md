@@ -35,7 +35,7 @@ Go Vet 是 go tools 里的 bug 和 容易出错的代码结构 检查工具. 不
 2. 在 类 Unix 系统中, 如果 通过 Kill 来传递 `SIGSEGV (11 无效内存访问)`, `SIGBUS (07 非法内存访问)`, `SIGFPE (13 管道破损)` 信号, 而 信号又没有被 `os.signal.Notify` 捕获的话, Go 现在可以 在 崩溃时, 可靠的使用 堆栈跟踪, 而在之前的版本里, 这个时候得到的堆栈是不可靠的.
 3. 优化在多核场景下的小对象分配效率, 即便在最坏情况下的分配延迟也有所降低
 4. 将 小的 整数值 转换为 Interface 类型 将不再导致分配
-5. Non-blocking receives on closed channels now perform as well as non-blocking receives on open channels. (这句没看懂....)
+5. Non-blocking receives on closed channels now perform as well as non-blocking receives on open channels. (这句没看懂……)
 
 ## Compiler (编译器)
 
@@ -44,16 +44,16 @@ Go Vet 是 go tools 里的 bug 和 容易出错的代码结构 检查工具. 不
 3. 针对 Intel 的 Bug `SKX102` 做了修改
 4. 针对 CPU 的 Spectre(幽灵) 漏洞, 提供了 ` -spectre`  编译参数来进行缓解
 5. 在编译时, 对所有 注释中 `//go:`  声明的无意义指令将会报错, 在以前的版本里这种错误的 `//go:` 将会忽略, 通常在 写 `//go:generate` 的时候会比较有感觉
-6. The compiler's `-json` optimization logging now reports large (>= 128 byte) copies and includes explanations of escape analysis decisions. (没用过..不懂啥意思..)
+6. The compiler's `-json` optimization logging now reports large (>= 128 byte) copies and includes explanations of escape analysis decisions. (没用过……不懂啥意思……)
 
 ## Linker (连接器)
 
 1. 优化了 Linker 的 资源使用, 并优化了 Linker 本身代码的 健壮性 和 可维护性
-2. 在 类Unix 系统上, 生成 ELF 的链接速度快了 20%左右, 平均内存使用减少了 30%左右 . 在其他的操作系统和架构上, Linker 的表现也有不小的进步 
+2. 在 类 Unix 系统上, 生成 ELF 的链接速度快了 20%左右, 平均内存使用减少了 30%左右 . 在其他的操作系统和架构上, Linker 的表现也有不小的进步 
 3. Go 1.15 生成的 目标文件(object file) 比 1.14 稍大, 这得益于 目标文件 的结构优化 : ). (也就是 类 Unix 系统上的 ELF)
-4. The linker now defaults to internal linking mode for `-buildmode=pie` on `linux/amd64` and `linux/arm64`, so these configurations no longer require a C linker. External linking mode (which was the default in Go 1.14 for `-buildmode=pie`) can still be requested with `-ldflags=-linkmode=external` flag. (没看懂...)
+4. The linker now defaults to internal linking mode for `-buildmode=pie` on `linux/amd64` and `linux/arm64`, so these configurations no longer require a C linker. External linking mode (which was the default in Go 1.14 for `-buildmode=pie`) can still be requested with `-ldflags=-linkmode=external` flag. (没看懂……)
 
-### Other
+## Other
 
 1.  `go test` 命令的 `-timeout` 参数的行为略有修改, 由于没有用过这个参数所以这里不做介绍, 有兴趣可以自己看下面原文
 > Changing the `-timeout` flag now invalidates cached test results. A cached result for a test run with a long timeout will no longer count as passing when `go` `test` is re-invoked with a short one.
@@ -61,7 +61,7 @@ Go Vet 是 go tools 里的 bug 和 容易出错的代码结构 检查工具. 不
 3. 新增 `time/tzdata` 包, 以解决对 运行机器的 时区数据库的依赖. `import _ "time/tzdata"` , 或者你也可以在编译时, 添加 `-tags timetzdata` 参数, 来引入这个包, 不过无论你是 用 import 的形式还是 编译时加参数的形式, 都会让编译后的 bin 文件的大小膨胀 800KB 左右.(也就是给你编译进去了 XD)
 4. CGO 又新增了个特性, 有兴趣可以点 [这里](https://golang.org/doc/go1.15#cgo)看
 5. 以及对于其他标准库, 有一些 细节上的修改, 你可以点击 [这里查看](https://golang.org/doc/go1.15#minor_library_changes), 这里举几个笔者比较关注的
-   * Context 现在不允许使用nil 来创建, 在 `WithValue`,`WithDeadline`, `WithCancel` 中这样用将会触发 `panic`
+   * Context 现在不允许使用 nil 来创建, 在 `WithValue`,`WithDeadline`, `WithCancel` 中这样用将会触发 `panic`
    * SQL 新增了 `DB.SetConnMaxIdleTime ` 方法, 用来设置 Conn pool 中闲置连接的清除时间 
 
 ## Ref
