@@ -37,6 +37,14 @@
 
 那么一开始, 我们先聊聊 TSDB, 毕竟这是 Prometheus 实现需求的基础.
 
+TSDB  中的 数据, 通常由 `数据点(Point)` 构成, 
+
+// TODO Metrics 维度过高 的问题在于 样本集过大导致的 传输和 运算上的困难
+
+// TODO https://www.cnblogs.com/jimbo17/p/8337535.html
+
+// TODO https://developer.aliyun.com/article/174535
+
 // TODO 说说 TSDB
 
 那么 Prometheus 如何基于 时序型 数据库(TSDB)，来实现上面 这些需求？
