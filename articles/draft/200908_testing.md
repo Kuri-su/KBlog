@@ -8,16 +8,16 @@
 
 什么是单元测试这里就不赘述. 但在 <单元测试的艺术> 这本书里, 提到一个关于什么是优秀的单元测试的定义, 可以分享一下, 
 
-![](/home/kurisu/.config/Typora/typora-user-images/image-20200909131853194.png)
+![](https://raw.githubusercontent.com/Kurisu-public/img/master/image-20200909131853194.png)
 
 这段定义是由下面 优秀的单元测试 应该有的特性所 总结出来的. 虽然在刚开始可能比较难以做到, 但我觉得应该以其为目标吧
 
-![image-20200909132025699](/home/kurisu/.config/Typora/typora-user-images/image-20200909132025699.png)
+![image-20200909132025699](https://raw.githubusercontent.com/Kurisu-public/img/master/image-20200909132025699.png)
 
 这里详细说一下 上面特性的几个部分.
 
-1. 为什么要任何人 都可以很快的运行它, 很多情况下, 在大型项目中, 我们都是多人开发的. 那么在多人开发过程中, 经常出现 A 同学 改了代码之后, 影响到 B 同学的功能, 这个通常称为 `偶然引入缺陷`, 那么这个时候, 如果A 同学 可以跑全量单元测试, 那么就可以很快发现这个问题, 否则亦然反之.
-2. 它的结果是稳定的, 以及 它应该能完全控制被测试的单元 这两点, 需要配合 Mock 来做. 毕竟代码中, 有不可控制的外部依赖是难以避免的, 这样的话, 它的结果将很难稳定下来, 进而导致我们无法对结果进行断言, 进而影响自动化和CI 流程, 最终影响 测试所能产生的效果. 另外如果 Test 不能完全控制被测试的单元, 举个例子, 不能 Mock 一些依赖项, 那将导致这个测试只能在一些环境下面运行, 或者 运行的前置条件很多, 最终 让整个流程很难高效的自动化.
+1. 为什么要任何人 都可以很快的运行它, 很多情况下, 在大型项目中, 我们都是多人开发的. 那么在多人开发过程中, 经常出现 A 同学 改了代码之后, 影响到 B 同学的功能, 这个通常称为 `偶然引入缺陷`, 那么这个时候, 如果 A 同学 可以跑全量单元测试, 那么就可以很快发现这个问题, 否则亦然反之.
+2. 它的结果是稳定的, 以及 它应该能完全控制被测试的单元 这两点, 需要配合 Mock 来做. 毕竟代码中, 有不可控制的外部依赖是难以避免的, 这样的话, 它的结果将很难稳定下来, 进而导致我们无法对结果进行断言, 进而影响自动化和 CI 流程, 最终影响 测试所能产生的效果. 另外如果 Test 不能完全控制被测试的单元, 举个例子, 不能 Mock 一些依赖项, 那将导致这个测试只能在一些环境下面运行, 或者 运行的前置条件很多, 最终 让整个流程很难高效的自动化.
 
 所以最后觉得, 确实需要做到上面的这些, 才能让后面的整个测试流程, 更加高效 和 自动化.
 
@@ -42,7 +42,7 @@ Go 的 Testing 库有很多, 例如 `testify` / `gocheck` , 这里着重讲 gink
 
 ### Ginkgo
 
-Ginkgo 的简介 `Go语言的一个行为驱动开发（BDD， Behavior-Driven Development）风格的测试框架，通常和库Gomega一起使用`,但我们先不管什么是 BDD, 来看 Ginkgo 的 用法结构
+Ginkgo 的简介 `Go 语言的一个行为驱动开发（BDD，Behavior-Driven Development）风格的测试框架，通常和库 Gomega 一起使用`,但我们先不管什么是 BDD, 来看 Ginkgo 的 用法结构
 
 #### 初始化测试代码
 
@@ -150,7 +150,7 @@ func checkFileContentIsEqual(filePath string, content []byte) {
 
 ###### 结构
 
-* Describe/Context  你可以理解成 HTML 里的 DIV... 只是圈定区块, 而没有太多实际动作
+* Describe/Context  你可以理解成 HTML 里的 DIV…… 只是圈定区块, 而没有太多实际动作
 
   * Describe 用于描述你的代码的一个行为
   * Context 用于区分上述行为的不同情况，通常为参数不同导致
@@ -207,7 +207,7 @@ func checkFileContentIsEqual(filePath string, content []byte) {
   var _ = Describe("Output", func() {
       // 测试模块
   	XDescribe("save to many files", func() {
-  		// ...
+  		// ……
   	})
   })
   
@@ -223,9 +223,9 @@ Gomega 通常与 Ginkgo 搭配使用, 它是 一个 匹配/断言 库, 还提供
 
 mock 测试：就是在测试过程中，对于某些不容易构造或者 不容易获取的对象，用一个虚拟的对象来创建以便测试的测试方法。
 
-常见的会被 mock 的 对象包括 `外部依赖`/ `IO操作`/`数据库操作` 等
+常见的会被 mock 的 对象包括 `外部依赖`/ `IO 操作`/`数据库操作` 等
 
-Mock 的基本思路是 通过 Interface 去屏蔽掉 对固定库的依赖, 从而提供 可以 Mock 对象的空间 (毕竟通过 Interface 抽象后, 只要实现了 Interface的 对象都可以传入), 当然也有更加 hack 的库, 但是我们这里仅仅说基本思路. 和标准实现
+Mock 的基本思路是 通过 Interface 去屏蔽掉 对固定库的依赖, 从而提供 可以 Mock 对象的空间 (毕竟通过 Interface 抽象后, 只要实现了 Interface 的 对象都可以传入), 当然也有更加 hack 的库, 但是我们这里仅仅说基本思路. 和标准实现
 
 // Live Demo
 
@@ -249,7 +249,7 @@ type Foo interface {
 
 // 被 Mock 依赖 的方法
 func SUT(f Foo) {
- // ...
+ // ……
 }
 ```
 
@@ -289,7 +289,7 @@ type Foo interface {
 
 // 被 Mock 依赖 的方法
 func SUT(f Foo) {
- // ...
+ // ……
 }
 ```
 
@@ -333,7 +333,7 @@ func TestFoo(t *testing.T) {
 
 ![image-20200910011716281](https://raw.githubusercontent.com/Kurisu-public/img/master/image-20200910011716281.png)
 
-TDD 其实很简单. 但实施时候, 其实很容易走形...
+TDD 其实很简单. 但实施时候, 其实很容易走形……
 
 ![image-20200910012027654](https://raw.githubusercontent.com/Kurisu-public/img/master/image-20200910012027654.png)
 
@@ -383,7 +383,7 @@ Scenario: Redirect user to originally requested page after logging in
 
 然而
 
-由于我们做的不是业务开发...所以上面这些对我们来说, 更多的空间在于我们有更好的结构来书写我们的测试用例. 这里又要讲回前面没讲的 Ginkgo 上
+由于我们做的不是业务开发……所以上面这些对我们来说, 更多的空间在于我们有更好的结构来书写我们的测试用例. 这里又要讲回前面没讲的 Ginkgo 上
 
 #### Ginkgo BDD
 
