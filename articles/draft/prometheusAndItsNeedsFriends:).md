@@ -37,7 +37,11 @@
 
 那么一开始, 我们先聊聊 TSDB, 毕竟这是 Prometheus 实现需求的基础.
 
-TSDB  中的 数据, 通常由 `数据点(Point)` 构成, 
+TSDB  中的 数据, 通常以 `数据点(Point)` 作为基本单位, 多个 Point 构成 `Series (序列)`, 所有关于同一个主题的数据点 构成 `Metrics(指标)`, 
+
+![](/home/kurisu/Downloads/200914-TSDB-timeseries-model.png)
+
+
 
 // TODO 说说 TSDB , 简单说即可,  不用太过深入
 
@@ -55,7 +59,7 @@ TSDB  中的 数据, 通常由 `数据点(Point)` 构成,
 
 ![]()
 
-但看到这里，就有个疑问，“那 TSDB 和 关系型数据库 有什么区别？” 
+但看到这里，就有个疑问，“那 TSDB 和 关系型数据库 有什么区别？” , 用 例如  MySQL , 我也能实现这个需求! 
 
 // TODO 讲清楚这个区别
 
@@ -217,3 +221,9 @@ ElasticSearch + Logstash/Fluentd + Kibana
 高维度指标 的 Bug
 
 // TODO 
+
+## Ref
+
+* https://developer.aliyun.com/article/174535
+* https://www.cnblogs.com/jimbo17/p/8337535.html
+* https://fabxc.org/tsdb/
