@@ -37,9 +37,13 @@
 
 那么一开始, 我们先聊聊 TSDB, 毕竟这是 Prometheus 实现需求的基础.
 
-TSDB  中的 数据, 通常以 `数据点(Point)` 作为基本单位, 多个 Point 构成 `Series (序列)`, 所有关于同一个主题的数据点 构成 `Metrics(指标)`, 
+TSDB 的全称是 Time series Database (时序数据库), 是为了 // TODO
+
+TSDB  中的 保存的数据, 通常以 `数据点(Point)` 作为基本单位, 多个 Point 构成 `Series (序列)`, 所有关于同一个主题的数据点 构成 `Metrics(指标)`, 而每个数据点会带有一个 TimeStemp , 也就是这个点所关联的时间, 然后  // TODO
 
 ![](/home/kurisu/Downloads/200914-TSDB-timeseries-model.png)
+
+
 
 
 
