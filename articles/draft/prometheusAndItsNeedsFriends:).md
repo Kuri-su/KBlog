@@ -89,17 +89,15 @@ phpweb_xys_indexpage_detailtrace_total{goto="pc_xys"} 468
 
 // TODO
 
-* 只会一直增加的 类型 `Counter` (例如 服务的请求量) 
-
-  ![]()
-
-* 记录瞬时状态的 类型 `Gauge` (例如 瞬时的 CPU 读数)
-
-* 分位 类型 `Histogram` (例如 需要看 50% 的请求小于多少毫秒)
-
-* 直方图 类型 `Summary` (例如 例如 200-500 ms 的请求 有多少)
+// 四种 Metrics
 
 你也可以不根据 上面的 抽象 来使用, 也可以自行使用 Client SDK 来完成设置.
+
+## Prometheus
+
+![https://prometheus.io/assets/architecture.png](https://prometheus.io/assets/architecture.png)
+
+### 告警
 
 
 
@@ -152,6 +150,8 @@ TSDB  中的 保存的数据, 通常以 `数据点(Point)` 作为基本单位, �
 // TODO 讲清楚这个区别
 
 那么了解了 TSDB 的基本使用方式，那么 来尝试我们来完成这些需求。
+
+---
 
 #### 瞬时的 CPU 和 网卡流量记录
 
@@ -213,34 +213,13 @@ TSDB  中的 保存的数据, 通常以 `数据点(Point)` 作为基本单位, �
 
 上面就简单的介绍了下, Prometheus 基于需求, 抽象出来的四种 监控数据类型. 上面这些需求与其说是 Prometheus 的规则, 倒不如说 更像是 Prometheus 对于监控这件事情的看法, 他们认为监控数据的分析和存储诉求, 使用上述的 四种数据类型 和 PromQL 做简单分析, 就可以满足. 那么下面我们介绍一下 Prometheus 的基本单元 Metrics. 
 
-## Metrics 數據被收集 和 保存
+---
 
-那么随着 Metrics 被 Prometheus 抓取到, Metrics 就来到了 Prometheus 里.
 
-#### Promtheus
-
-![https://prometheus.io/assets/architecture.png](https://prometheus.io/assets/architecture.png)
-
-通常交流中说的 Prometheus 其实是指 Prometheus 以及其生态组成的 Prometheus 监控系统, 这个监控系统中包含如下组件
-
-- Grafana - 用于展示的前端面板
-- Prometheus Server - 负责抓取和存储数据, Prometheus 本体
-- AlertManager - 负责 处理和发送 告警事件, 例如需要告警的 频道 以及 抑制相同的告警等.
-- PushGateway - 一个接受请求上报的网关, 通常比较少用
-
-这里额外描述下 Prometheus Server, `抓取器` , `时序型数据库(TSDB)`,`HttpServer` 三部分组成了 Prometheus Server.
-
-#### HttpServer
-
-提供查询 API 给外部的 Http 服务器, 使用 Prometheus 项目 自己实现的 PromQL 对 TSDB 进行查询, 也是我们后面要重点了解的部分.
 
 #### PromQL
 
 // TODO 这里简单提一下, 后面会详细讲
-
-### 觸發吿警
-
-// TODO
 
 ### 基于指标的监控系统 和 基于日志的监控系统的区别
 
