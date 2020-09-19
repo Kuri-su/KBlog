@@ -2,15 +2,19 @@
 
 [TOC]
 
-这篇博文主要 想讲清楚, Prometheus 是如何看待监控这件事情, 以及  Prometheus 是如何实现这些需求的.
+这篇博文的面向群体是 还不太了解 Prometheus 和 想要开始使用 Prometheus 的人群.
+
+本文想做的事是 想尽力讲清楚  Prometheus 是如何看待监控这件事情 以及  Prometheus 是如何实现这些需求的.
+
+本文中不会出现的内容:  跟 Prometheus 实现细节有太多相关的东西 等
 
 ## 当想看监控的时候, 我们到底想要什么? 
 
-想要什么也就是需求
+>  我们想要看的东西也就是我们对监控的需求.
 
 ### 需求
 
-在实际的生产过程中, 产生的和需要收集的监控数据分为很多种, 例如
+在实际的生产过程中, 产生的和需要收集的监控数据分为很多种, 例如以下这些, 除此之外, 还有很多很多. 但从实现方式上来说, 大多都大同小异.
 
 * 瞬时状态的 CPU 和 MEM 使用率读数 
 * 硬盘使用量的增长率
@@ -22,20 +26,102 @@
 * 一段时间内, 所有请求的 时耗中, 多少请求时耗大于1000ms, 多少请求时耗位于 200-500 区间内, 用于了解 请求时耗的具体分布, 以评估接口情况
 * ....
 
+那么我们就需要一个 `监控系统` 来完成 上述需求, 这个监控系统 仅仅能收集上面的这些数据还不够, 如果不能展示 和 查询, 这些数据的保存将毫无意义. 另外, 既然是监控, 那么必然要有告警的功能.
+
+那么总结一下, 我们需要 能够 将 监控数据 `收集` 和 `查询` 的监控系统 来完成我们的需求, 除此之外, 我们还需要 告警 和 展示 的功能
+
+![]()// 结构图
+
+ 而 Prometheus 就是完成了 我们上述需求的一个 监控系统 的 实现.  
+
 ## 从 Prometheus 的视角看这些需求
 
-在 Pormetheus 的视角中, 他认为基于 TSDB (时序型数据库) , 将上述需求可以使用下列四类指标来完成: 
+### 数据的保存
 
-* 只会一直增加的 类型 (例如 服务的请求量)
-* 记录瞬时状态的 类型 (例如 瞬时的 CPU 读数)
-* 分位 类型 (例如 需要看 50% 的请求小于多少毫秒)
-* 直方图 类型 (例如 例如 200-500 ms 的请求 有多少)
+Prometheus 使用一个 TSDB 来保存 这些监控数据, 
 
-好的, 这里直接给出了结论, 下面就聊聊 如何基于这些 想法来实现上述需求, 以及 为什么基于这几种 指标可以实现上述需求
+TSDB 的全称是 Time series Database (时序数据库), 是为了解决 时序性数据的保存问题, 而诞生的 数据库类型.
 
-## Promtheus 需求实现
+ 一开始的话, 其实这些保存 时序型数据 的需求都可以使用 关系型 数据库 来解决. 但 如果直接基于 关系型数据库 来直接做需求的话, 各种写入 和 读出的 适配都得得按照 关系型数据库的规则来做, 比较麻烦, 虽然确实有一些 TSDB 是基于 关系型数据库实现的. 
 
-那么一开始, 我们先聊聊 TSDB, 毕竟这是 Prometheus 实现需求的基础.
+另外 由于时序型数据 的一些特点, 例如 大部分都是写入操作, 极少修改, 大部分读都是顺序读, 对于一个指标的分析. 那么基于这些特点, 又有一些 技巧, 来做很多的优化, 所以便有了 单独的  TSDB  实现. 例如 InfluxDB, FaceBook 的 Gorilla 等, Prometheus 的 TSDB 便是 参考了 FB 的 Gorilla 之后, 自行实现的. 
+
+TSDB  中的 保存的数据, 通常以 `数据点(Point)` 作为基本单位, 多个 Point 构成 `Series (序列)`, 所有关于同一个主题的数据点 构成 `Metrics(指标)`, 而每个数据点会带有一个 TimeStemp , 也就是这个点所关联的时间, 然后每个数据点会带一些 Tag, 也可以叫 Label , 下文中一律称为 Tag
+
+![](/home/kurisu/Downloads/200914-TSDB-timeseries-model.png)
+
+然后我们可以通过对 TSDB 通过 指定 一些相关的指标和 Tag 来进行查询,  TSDB 的 数据的层级结构如下所示.
+
+![](/home/kurisu/Downloads/200920 TSDB unit.png)
+
+TSDB 和 关系型数据库系统 类似, 通常分为三层, 读者可以按这种对应关系来理解, 不过细节的意义上还是有所不同的. 
+
+1. `Database` 对应 RDBMS 的 Schema , 概念类似 , 而在 Prometheus 中则没有 这一层, 所有的 Metrics 都在一个 Database 中
+2.  `Metrics`  对应 RDBMS 的 Table , 在 InfluxDB 中这一层叫做 `measurement` ,概念类似 . 
+3. `Point` 对应 RDBMS 的 一条数据 Row ,  这个是 TSDB 中的最小单位, 每个 Point 带有一些 Tag , 可以根据不同的条件筛选出来
+
+### 收集? 如何收集?
+
+监控的收集无非就是上报, 而上报需要 服务端 和 客户端配合. 这里先介绍服务端.
+
+对 Prometheus 来讲, 他的上报采用的是 pull 模型, 也就是拉取模型, 服务端根据客户端的位置, 按时去固定接口拉取. PULL 模型 相较于 PUSH 模型在 客户端较多的情况下较为明显, 很好了缓解了 服务端的并发压力,    但也带来了一些问题, 例如 每个客户端的 位置都要注册给服务端, 会很麻烦, 这个问题通常使用 `服务发现和注册` 来解决.
+
+![/home/kurisu/Documents/tmp.png](/home/kurisu/Documents/tmp.png)
+
+整个过程上报流程可以描述为 客户端按照协议, 准备好数据, 然后服务端的抓取器 定时访问, 来抓取.
+
+相较于 服务端, 客户端就要复杂的多,  我们先来讲上报的协议
+
+#### 协议
+
+// TODO
+
+但通常, Prometheus 从 Metrics 数据源那里采集到的 数据是不带 Timestamp 的, 就类似于下面这样: 
+
+```
+phpweb_xys_indexpage_detailtrace_total{goto="h5_baodan360"} 264
+phpweb_xys_indexpage_detailtrace_total{goto="h5_xys_new"} 59
+phpweb_xys_indexpage_detailtrace_total{goto="pc_baodan360"} 891
+phpweb_xys_indexpage_detailtrace_total{goto="pc_xys"} 468
+```
+
+#### 抽象
+
+// TODO
+
+* 只会一直增加的 类型 `Counter` (例如 服务的请求量) 
+
+  ![]()
+
+* 记录瞬时状态的 类型 `Gauge` (例如 瞬时的 CPU 读数)
+
+* 分位 类型 `Histogram` (例如 需要看 50% 的请求小于多少毫秒)
+
+* 直方图 类型 `Summary` (例如 例如 200-500 ms 的请求 有多少)
+
+你也可以不根据 上面的 抽象 来使用, 也可以自行使用 Client SDK 来完成设置.
+
+
+
+---
+
+
+
+先直接给结论, Pormetheus 认为 , 它 可以 基于 TSDB (时序型数据库) , 使用下列四类指标 并加上一些函数, 就可以来完成上述需求可以 
+
+* 只会一直增加的 类型 `Counter` (例如 服务的请求量) 
+
+  ![]()
+
+* 记录瞬时状态的 类型 `Gauge` (例如 瞬时的 CPU 读数)
+
+* 分位 类型 `Histogram` (例如 需要看 50% 的请求小于多少毫秒)
+
+* 直方图 类型 `Summary` (例如 例如 200-500 ms 的请求 有多少)
+
+### TSDB
+
+在一开始, 需要先了解一下 TSDB, 毕竟这是 Prometheus 实现需求的基础.
 
 TSDB 的全称是 Time series Database (时序数据库), 是为了 // TODO
 
@@ -127,42 +213,6 @@ TSDB  中的 保存的数据, 通常以 `数据点(Point)` 作为基本单位, �
 
 上面就简单的介绍了下, Prometheus 基于需求, 抽象出来的四种 监控数据类型. 上面这些需求与其说是 Prometheus 的规则, 倒不如说 更像是 Prometheus 对于监控这件事情的看法, 他们认为监控数据的分析和存储诉求, 使用上述的 四种数据类型 和 PromQL 做简单分析, 就可以满足. 那么下面我们介绍一下 Prometheus 的基本单元 Metrics. 
 
-#### metrics
-
-metrics 的中文是`指标`, metrics 是 Prometheus 中的一个重要概念, 一个 Metrics 可以拥有若干个 Labels , 以及一个 Value,  类似于下面这样, 一条数据就是一个 Metrics. 
-
-```
-// 这里每一个 样本 由 三个部分组成, 
-//    metricsPart : metrics name 以及 labels 
-//    timestamp   : 毫秒时间戳
-//    value       : float64 类型的值
-
-<--------------- metricsPart ----------------> <-timestamp->  <-value->
-
-http_request_total{status="200", method="GET"}@1434417560938 => 94355
-http_request_total{status="200", method="GET"}@1434417561287 => 94334
-
-http_request_total{status="404", method="GET"}@1434417560938 => 38473
-http_request_total{status="404", method="GET"}@1434417561287 => 38544
-
-http_request_total{status="200", method="POST"}@1434417560938 => 4748
-http_request_total{status="200", method="POST"}@1434417561287 => 4785
-
-```
-
-你可以把 这里的 `Metrics Part` 中的 `metrics name` 对应成 Mysql 中的 Table , `metrics labels` 对应成 Mysql 中的字段, 来帮助理解.
-
-但通常, Prometheus 从 Metrics 数据源那里采集到的 数据是不带 Timestamp 的, 就类似于下面这样: 
-
-```
-phpweb_xys_indexpage_detailtrace_total{goto="h5_baodan360"} 264
-phpweb_xys_indexpage_detailtrace_total{goto="h5_xys_new"} 59
-phpweb_xys_indexpage_detailtrace_total{goto="pc_baodan360"} 891
-phpweb_xys_indexpage_detailtrace_total{goto="pc_xys"} 468
-```
-
-![]()
-
 ## Metrics 數據被收集 和 保存
 
 那么随着 Metrics 被 Prometheus 抓取到, Metrics 就来到了 Prometheus 里.
@@ -180,27 +230,9 @@ phpweb_xys_indexpage_detailtrace_total{goto="pc_xys"} 468
 
 这里额外描述下 Prometheus Server, `抓取器` , `时序型数据库(TSDB)`,`HttpServer` 三部分组成了 Prometheus Server.
 
-#### 抓取器
-
-抓取器顾名思义, 专门负责抓取, 其中实现了多种抓取方式供使用, 在当前系统中最常用的三种方式是 
-
-- `指定 URL 抓取`,
-- `基于 服务发现 进行抓取`,
-- `对 Kubernetes 的 Api 进行抓取`
-
-#### 时序数据库
-
-Prometheus 项目自己实现了 一個 时序型数据库, 用于将 抓取器采集到的数据写入磁盘, 供 HttpServer 查询.
-
 #### HttpServer
 
 提供查询 API 给外部的 Http 服务器, 使用 Prometheus 项目 自己实现的 PromQL 对 TSDB 进行查询, 也是我们后面要重点了解的部分.
-
-#### Pull 模型
-
-在采集模式上, Prometheus 选用 Pull 的模式来采集,
-
-![/home/kurisu/Documents/tmp.png](/home/kurisu/Documents/tmp.png)
 
 #### PromQL
 
@@ -229,3 +261,4 @@ ElasticSearch + Logstash/Fluentd + Kibana
 * https://developer.aliyun.com/article/174535
 * https://www.cnblogs.com/jimbo17/p/8337535.html
 * https://fabxc.org/tsdb/
+* https://www.jianshu.com/p/31afb8492eff
