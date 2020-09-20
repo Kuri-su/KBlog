@@ -174,42 +174,47 @@ go_gc_duration_seconds_count 10304
 
 但仅仅只有 Summary , 还是不太够, 虽然知道了分位值 , 但有时候我们想知道, 到底有多少请求 大于 400ms , 多少请求在 100ms 内, 这个仅仅通过Summary 是没有办法告诉我们的, 我们需要借助 Histogram 来表示. 
 
-Histogram 也就是直方图, 没错, 就是 小学课本上那种, 基于直方图, 我们很好的看到 请求时耗, 在 我们划定的 区间中的分布.
+Histogram 也就是直方图, 没错, 就是 小学课本上那种. 在客户端 使用直方图 进行计数, 我们就可以很清晰的看到 `请求时耗` 在 我们划定的 区间中的分布.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Histogram_of_arrivals_per_minute.svg/614px-Histogram_of_arrivals_per_minute.svg.png)
 
-在 Prometheus 中,  客户端根据 协议 提交给 服务端 的 指标数据大致会像下面这个样子 
+在 Prometheus 中,  客户端根据 协议 生成好后, 提交给 服务端 的 指标数据大致会像下面这样. 
 
 ```
 # le 可以由用户自行指定
 prometheus_tsdb_compaction_chunk_range_bucket{le="100"} 0
-prometheus_tsdb_compaction_chunk_range_bucket{le="400"} 0
-prometheus_tsdb_compaction_chunk_range_bucket{le="1600"} 0
-prometheus_tsdb_compaction_chunk_range_bucket{le="6400"} 0
-prometheus_tsdb_compaction_chunk_range_bucket{le="25600"} 0
-prometheus_tsdb_compaction_chunk_range_bucket{le="102400"} 0
-prometheus_tsdb_compaction_chunk_range_bucket{le="409600"} 0
+prometheus_tsdb_compaction_chunk_range_bucket{le="1000"} 100
+prometheus_tsdb_compaction_chunk_range_bucket{le="1600"} 100
+prometheus_tsdb_compaction_chunk_range_bucket{le="409600"} 100
 prometheus_tsdb_compaction_chunk_range_bucket{le="1.6384e+06"} 260
-prometheus_tsdb_compaction_chunk_range_bucket{le="6.5536e+06"} 780
 prometheus_tsdb_compaction_chunk_range_bucket{le="2.62144e+07"} 780
 prometheus_tsdb_compaction_chunk_range_bucket{le="+Inf"} 780
 prometheus_tsdb_compaction_chunk_range_sum 1.1540798e+09
 prometheus_tsdb_compaction_chunk_range_count 780
 ```
 
+关于直方图的实现,  Prometheus 客户端 生成的 并不是像上面图这样错落有致, 而是用这个公式这样算出来的 `当前的区间的值 = 当前区间内的实际值 + 上一个区间的值`, 初看可能比较绕. 不过这样做的好处有很多,
+
+* 我们如果要计算 任意区间之间的 实际值 的话, 就只需要使用后面区间减去 前面区间的值即可, 在计算多个区间的值的时候尤其明显. 
+* 当区间在减少的时候, 数据依旧不失真
+* 数据存储时比较好优化
+* .....
+
+![](/home/kurisu/Downloads/200831-metrics-Quantile-Page-4.png)
+
 ##### 结
 
-至此, 我们基本讲完了 , Prometheus 的大多数 使用细节. 接着我们来看看 Prometheus 的结构.
+至此, 我们基本讲完了 Prometheus 的大多数 使用细节. 接着我们来看看 Prometheus 的结构.
 
 ## Prometheus
 
 ![https://prometheus.io/assets/architecture.png](https://prometheus.io/assets/architecture.png)
 
-上面这个是 Prometheus 官网的 Prometheus 结构图,  // TODO
+上面这个是 Prometheus 官网的 Prometheus 结构图,  我们可以看到 
 
 ### 告警
 
-
+// TODO
 
 ---
 
