@@ -210,31 +210,31 @@ prometheus_tsdb_compaction_chunk_range_count 780
 
 ![https://prometheus.io/assets/architecture.png](https://prometheus.io/assets/architecture.png)
 
-上面这个是 Prometheus 官网的 Prometheus 结构图,  我们可以看到 
+上面这个是 Prometheus 官网的 Prometheus 结构图,  我们可以看到 Prometheus 的结构分为三块, 
+
+最左边的 是 监控数据的 source 区, 里面有 Prometheus 使用它的 抓取器 来抓取 我们的 应用程序的 监控数据, 然后保存到 TSDB 上, 
+
+接着 最右边的 部分分为两块, 一块是 AlertManager ,  Prometheus 会定期检查一些告警规则, 如果这些规则 被满足, 将会 推送 给 AlertManager 表示这些数据需要告警. 另一块是 展示的部分 , Grafana 或者 Prometheus 的 WebUI 通过 PromQL 查询 Prometheus 的 TSDB 来获取 结果并展示.
 
 ### 告警
 
-// TODO
-
----
-
-
+告警的部分, 在 Prometheus 推送消息给 AlertManager 之后, AlertManager 会自行判断, 这条告警是否需要推送出去, AlertManger 中有一些 沉默 和 告警阈值的规则, 当 一条告警触发 多少次, 或者 多久之内触发一次, 就会告警到 设置好的 Channel , 这样可以避免 由 告警风暴 带来的麻痹 和 狼来了的故事. 
 
 ### PromQL
 
-// TODO 这里简单提一下, 后面会详细讲
+PromQL 是 Prometheus 设计出来的一种 DSL , 使用起来的感觉向使用 函数. 关于 PromQL 的内容, 可以参考 另一篇博文 [PromQL 指南](TODO)
 
 ### 基于指标的监控系统 和 基于日志的监控系统的区别
 
-// TODO
+在 接触 Prometheus + Grafana 指标监控系统 之前, 笔者也接触过 ElasticSearch + Logstash/Fluentd 的 日志监控系统, 
 
-Prometheus + Grafana
+笔者认为二者各有各的优势, Prometheus 方案的重点在于轻和迅速, 没有太多的基础设施, 甚至可以不依赖 服务注册中心, 只要把 Prometheus 拉起来,  然后 服务接入一下 Prometheus Client , 就可以开始使用监控. 但 Prometheus 由于基于 TSDB 的缘故, 所以 Prometheus 没有办法支持太过高维度的指标 或者 枚举值太多的 Tag, 而这点对于 基于日志监控系统 来讲则还好.
 
-ElasticSearch + Logstash/Fluentd + Kibana
+而基于日志的监控系统的问题在于太重了, 光是搭建和维护 一个 ES 集群加上 Logstash 以及 Beats 收集器 和 Kibana, 就已经有些费力 . 另外 过多的 东西需要在 Logstash 这一层配置, 每次 业务方新的需求写到日志中, 需要添加一些   Logstash 的 配置, 来解析日志以方便 Kibana 的视图查询.当然我们也可以用 通用解析的方案来实现, 那么接着有时候就要添加一些 Index 规则 , 笔者觉得过高的自由度带来了更多问题. 当然这只是笔者的想法, 如果有别的看法, 欢迎交流.
 
-### Prometheus 基于 时序型数据库的问题
+所以总结来讲, 笔者认为, 基于指标的监控系统 和 基于日志的监控系统 更像是一种互补的方案, 虽然通常情况下, 监控需求方面,  如果需要关注 过高维度的指标或者过高枚举值的 情况, 通常都是 这个需求本身就不合理. 但仍然有些情况, 我们必须实现这种需求, 那么就可以考虑 基于日志的监控系统
 
-高维度指标 的 Bug
+### Prometheus 基于 时序型数据库的问题 的 高维度或者高枚举值问题
 
 // TODO 
 
