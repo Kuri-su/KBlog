@@ -30,9 +30,7 @@
 
 那么总结一下, 我们需要 能够 将 监控数据 `收集` 和 `查询` 的监控系统 来完成我们的需求, 除此之外, 我们还需要 告警 和 展示 的功能
 
-![]()// 结构图
-
- 而 Prometheus 就是完成了 我们上述需求的一个 监控系统 的 实现.  
+而 Prometheus 就是完成了 我们上述需求的一个 监控系统 的 实现.  
 
 ## 从 Prometheus 的视角看这些需求
 
@@ -48,11 +46,11 @@ TSDB 的全称是 Time series Database (时序数据库), 是为了解决 时序
 
 TSDB  中的 保存的数据, 通常以 `数据点(Point)` 作为基本单位, 多个 Point 构成 `Series (序列)`, 所有关于同一个主题的数据点 构成 `Metrics(指标)`, 而每个数据点会带有一个 TimeStemp , 也就是这个点所关联的时间, 然后每个数据点会带一些 Tag, 也可以叫 Label , 下文中一律称为 Tag
 
-![](/home/kurisu/Downloads/200914-TSDB-timeseries-model.png)
+![](/assets/prometheus-needs-model.png)
 
 然后我们可以通过对 TSDB 通过 指定 一些相关的指标和 Tag 来进行查询,  TSDB 的 数据的层级结构如下所示.
 
-![](/home/kurisu/Downloads/200920 TSDB unit.png)
+![](/assets/prometheus-TSDB-unit.png)
 
 TSDB 和 关系型数据库系统 类似, 通常分为三层, 读者可以按这种对应关系来理解, 不过细节的意义上还是有所不同的. 
 
@@ -66,7 +64,7 @@ TSDB 和 关系型数据库系统 类似, 通常分为三层, 读者可以按这
 
 对 Prometheus 来讲, 他的上报采用的是 pull 模型, 也就是拉取模型, 服务端根据客户端的位置, 按时去固定接口拉取. PULL 模型 相较于 PUSH 模型在 客户端较多的情况下较为明显, 很好了缓解了 服务端的并发压力,    但也带来了一些问题, 例如 每个客户端的 位置都要注册给服务端, 会很麻烦, 这个问题通常使用 `服务发现和注册` 来解决.
 
-![/home/kurisu/Documents/tmp.png](/home/kurisu/Documents/tmp.png)
+![](/home/kurisu/Documents/tmp.png)
 
 整个过程上报流程可以描述为 客户端按照协议, 准备好数据, 然后服务端的抓取器 定时访问, 来抓取.
 
@@ -119,11 +117,11 @@ go_memstats_frees_total 1.199358391e+09
 
 * 由于只增不减 的特性, 所以我们使用 当前时刻的值 减去 当前时刻一日之前的值, 即可获得单日的访问量, 例如下图, 用 `2020-01-03 11:00` 时刻的数据, 减去 `2020-01-02 11:00` 时刻的数据, 即可算出单日请求量, 事实上, 任意时段的 请求量, 我们都可以使用类似的方法算出.
 
-  ![](/home/kurisu/Downloads/200920 TSDB unit-Page-2.png)
+  ![](/assets/prometheus-unit-delta.png)
 
 * 有了 时间段内请求量, 我们要算出 QPS 那就很简单了, 只需要 使用 `时间段内请求量 / 秒数` 即可, 例如 想展示一天时段内的 QPS, 我们以 5m 为一格, 那么 5m 内的 QPS 就是 `5m内的请求总数 / 60*5`, 然后把每个 5m 的 QPS  算出来, 展示在 时间轴上, 即可看到一天 所有时段的 QPS 数据
 
-  ![](/home/kurisu/Downloads/200920 TSDB unit-Page-2 (1).png)
+  ![](/assets/prometheus-unit-delta2.png)
 
 ##### 瞬时指标 Gauge
 
@@ -137,7 +135,7 @@ go_memstats_frees_total 1.199358391e+09
 
 假设 如下图的一个瞬间, 系统 处理 100 条并发请求的 时耗如下左边所示, 这 100 条请求里面 时耗分为 五个段, `0 ~ 100 ms`,`101~200 ms`,`201 ~ 300 ms`,`301 ~ 400 ms`,`401 ~ 500 ms`, 接着 很快就能算出 这一秒请求的时耗 平均值 是 300 ms,  在 3s 或者更长的时间段里, 我们都能看到时间段内的所有请求的平均值 在 `300ms`.
 
-![](/home/kurisu/Downloads/200831-metrics-Quantile (1).png)
+![](/assets/prometheus-metrics-avg.png)
 
 假设请求时延 超过 400 ms 被认为 `不可接受`, 那么很明显, 如果我们只关注 平均值(avg) , 我们就很可能认为这一时段, 系统正处于正常状态, 但实际上, 系统此时已经发生异常, 有 20% 的 请求处于不可接受的状态. 平均值 过度的 屏蔽了 `请求时耗分布` 的 具体细节.
 
@@ -147,7 +145,7 @@ go_memstats_frees_total 1.199358391e+09
 
 顾名思义, 分位值 就是 分位 分位上的值, 例如 中位数, 其实也就是 50% 分位数.  通常计算分位值的 分位数 是在将 样本集 的数据排序后, 取出指定位置的数据 作为对应位置的分位值.例如 一个已经排好序的数组 里面有 100 个数, 那么 这个数组的 25% 分位值 就是第 25 个数. 例如下面的 图, 就分别展示了  25% 分位值,  50% 分位值,  75% 分位值 , 95% 分位值 和  99% 分位值
 
-![](/home/kurisu/Downloads/200831-metrics-Quantile-Page-2.png)
+![](/assets/prometheus-metrics-quantile.png)
 
 那么利用分位数,我们就可以明确知道 这个时段内的请求分布情况, 相比刚才计算 平均数的方式, 分位值 的优势就展示的比较明显. 
 
@@ -166,9 +164,7 @@ go_gc_duration_seconds_sum 0.683513876
 go_gc_duration_seconds_count 10304
 ```
 
-![](/home/kurisu/Pictures/2020-09-20_14-25.png)
-
-
+![](/assets/prometheus-metrics-summary.png)
 
 ##### 直方图 Histogram
 
@@ -200,7 +196,7 @@ prometheus_tsdb_compaction_chunk_range_count 780
 * 数据存储时比较好优化
 * .....
 
-![](/home/kurisu/Downloads/200831-metrics-Quantile-Page-4.png)
+![](/assets/prometheus-metrics-histogram.png)
 
 ##### 结
 
