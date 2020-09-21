@@ -232,7 +232,7 @@ PromQL 是 Prometheus 设计出来的一种 DSL , 使用起来的感觉向使用
 
 ### Prometheus 基于 时序型数据库的问题 的 高维度或者高枚举值问题
 
-// TODO 
+
 
 ## Ref
 
