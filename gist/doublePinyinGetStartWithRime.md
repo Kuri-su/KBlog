@@ -15,7 +15,7 @@
 
 因为笔者日常工作的平台主要在 Linux Desktop 上, 输入法用 fctix-rime , 所以, 下面就只介绍在 rime 下如何安装并切换到小鹤双拼.
 
-这里顺路给 Rime 输入法 打个广告, ~~高贵的~~ 开源输入法, 全平台适配, Rime 中文全称叫做 `中州韻輸入法引擎` ,Windows 下的实现叫 `小狼毫(Weasel)`, MacOS 的实现叫 `鼠鬚管(Squirrel)`, Linux 有分别基于 ibus 和 fctix 的两种实现. 此外还有 Android 版本, 详情可以访问 [Rime 官网](rime.im)
+这里顺路给 Rime 输入法 打个广告, ~~高贵的~~ 开源输入法, 全平台适配, Rime 中文全称叫做 `中州韻輸入法引擎` ,Windows 下的实现叫 `小狼毫(Weasel)`, MacOS 的实现叫 `鼠鬚管(Squirrel)`, Linux 有分别基于 ibus 和 fctix 的两种实现. 此外还有 Android 版本, 详情可以访问 [Rime 官网](https://rime.im)
 
 特点在于完全开源, 相关配置用户可以高度自定义, 缺点也很明显, 配置复杂. 不过即便你不配置也可以很快乐的使用 XD
 
@@ -34,7 +34,9 @@ $ sudo apt-get insatll librime-data-double-pinyin
 
 可以参考 rime 主要维护者的 [Gist Link](https://gist.github.com/lotem/2309739), 下面设置将为你打开 小鹤双拼方案 的切换选项.
 
-Linux 下在 `~/.config/ibus/rime/default.custom.yaml` 中添加如下 配置, 如果你是 Windows , 配置文件在 **%APPDATA%\Rime\default.custom.yaml**, MacOS 在 **~/Library/Rime/default.custom.yaml**
+Linux 下在 `~/.config/ibus/rime/default.custom.yaml` 中添加如下 配置, 
+
+如果你是 Windows , 配置文件在 `%APPDATA%\Rime\default.custom.yaml`, MacOS 在 `~/Library/Rime/default.custom.yaml`
 
 ```yaml
 patch:
@@ -65,7 +67,7 @@ patch:
 
 ### Use
 
-切换到 Rime 输入法, 然后按下键盘上的按键 `F4`, 就会弹出一个方案选择, 翻页找到 小鹤双拼 即可
+切换到 Rime 输入法, 然后按下键盘上的按键 `F4`, 就会弹出一个方案选择, 翻页找到 小鹤双拼 选中即可
 
 ## What's Next
 
