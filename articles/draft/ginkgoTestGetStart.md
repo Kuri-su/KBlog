@@ -6,5 +6,5 @@ Ginkgo 是 Go 预演的 一个 测试框架(Get Start 先不用管 BDD), 通常�
 
 ## 结构
 
-Ginkgo 中主要有三种结构, 
+Ginkgo 的结构 是一种类似于 HTML 的层级结构, 但 Ginkgo 的结构相比 HTML 要简单很多.
 
