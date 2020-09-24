@@ -24,7 +24,10 @@
 另外 Unit Test 有几个必备的特性, 基本上每个测试框架(组合),都要实现, 用来提高 测试效率 和 可维护性
 
 *  Assert (断言)
-* Mock(假对象) / Fake(伪造) / Stub(打桩)
+*  Fake(伪造): 
+   * Mock(假对象)   
+   * Stub(打桩)
+   * ...
 
 ### Ginkgo + Gomega
 
