@@ -1,5 +1,7 @@
 {"title": "Prometheus and its needs friends ;)","description": "Prometheus 和 它的监控需求朋友们 ;)","category": "cloudNative","tag": ["cloudnative","prometheus"],"page_image":"/assets/prometheus-headphoto.png"}
 
+![](/assets/prometheus-headphoto.png)
+
 # Prometheus 和 它的监控需求朋友们 ;)
 
 [TOC]
