@@ -16,7 +16,7 @@ PromQL 全称  Prometheus Query Language, 是在 Prometheus 上使用的 DSL .
 rate(web_request_count{status="200"}[5m]) >0
 ```
 
-我们先把它拆成三段, 
+先把它拆成三段, 
 
 ```go
 rate(
@@ -24,15 +24,52 @@ rate(
 ) > 0
 ```
 
-中间部分 `web_request_count{status="200"}[5m]`  , 开头 `web_request_count` 表示要 处理 的 Metrics 名称,  大括号里的 `{status="200"}` 表示我们对 metrics 有一些标签筛选, 这里 status 为 200 说明我们只计算 正常处理的请求. 最后一个 方括号 则是为了搭配 `rate` 函数而加的时间范围限定, 
+中间部分 `web_request_count{status="200"}[5m]`  , 开头 `web_request_count` 表示要 处理 的 Metrics 名称,  大括号里的 `{status="200"}` 表示对 metrics 有一些标签筛选, 这里 status 为 200 说明只计算 正常处理的请求. 最后一个 方括号 则是为了搭配 `rate` 函数而加的时间范围限定, 
 
-`rate` 是 一个 PromQL 提供的函数, 专门用来计算  // TODO
+`rate` 是 一个 PromQL 提供的函数, 专门用来计算 增长率, 常用于计算 QPS.
+
+接着使用上面这个简单的表达式 来对 Prometheus 的 API 发起查询
+
+```shell
+# 为了让命令确实可以运行, 这里替换成了 prometheus 自带的 go gc 监控, 不过意思是一样的
+# URL 中没有 指定时间范围, 默认返回当前时间的瞬时数据
+$ curl 'http://localhost:9090/api/v1/query?query=rate(go_gc_duration_seconds_sum[5m])>0'
+#                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 这一块是实际运行的表达式
+```
+
+然后可以得到如下 Json 格式的数据: 
+
+```json
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "instance": "127.0.0.1:9090",
+          "job": "prometheus",
+          "source": "k8s"
+        },
+        "value": [
+          1601183521.796,
+          "0.000004714821924357098"
+        ]
+      }
+    ]
+  }
+}
+```
+
+但这样直接使用 API 查询十分不方便, 推荐使用 Grafana 来查询, 相关的博客很多, 可以 Google 一下, 
+
+将上面的查询放到 Grafana 中, Grafana 在查询时会自动带上时间范围, 所以得到的是一段时间内的数据, 然后  Grafana 会根据这段时间内的数据绘制出如下所示的一副图, 
+
+![](/home/kurisu/Pictures/tmp/2020-09-27_13-31.png)
+
+到这里, 就使用 PromQL 完成了一次查询.
 
 ## Format 格式
-
-
-
-
 
 一个 PromQL 语句可以由 如下几个部分组成
 
