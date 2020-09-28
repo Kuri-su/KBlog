@@ -15,13 +15,23 @@ Ginkgo 的层级结构 主要由 三种元素构成.
 * 结构元素 : Describe/Context/When
   * // TODO
 * 执行用例元素: It/Specify
+  * // TODO
 * 性能测试元素: Measure
+
+除了构成结构的元素, 还有 可以用于插入前后中间件的 元素 可供使用
+
+* `BeforeEach` && `AfterEach`
+  * // TODO
+* `JustBeforeEach` && `JustAfterEach`
+  * // TODO
+* `BeforeSuite` && `AfterSuite`
+  * // TODO
 
 除此之外, 还有一些 不参与构建 层级结构 的元素可供使用: 
 
-* // TODO
+* `By` 
 
-## T
+## 生命周期
 
 ## T
 
