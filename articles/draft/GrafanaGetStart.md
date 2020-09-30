@@ -4,6 +4,8 @@
 
 ## 简介
 
+Grafana 数据可视化工具, 
+
 ## Dashboard
 
 ### simple panel 
