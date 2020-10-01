@@ -116,18 +116,59 @@ PromQL 对 基本的 运算符号都支持 , 例如
 
 ### 关键字
 
-PromQL 中的关键字很少, 通常都用在处理 Label 和 Join 上
+PromQL 中的关键字很少,只有如下六个,  通常都用在处理 `Label` 和 `Join操作` 上,  而这六个关键字又可以 又可以分为两类
+
+* 在运算时忽略 label
+  * `without` 和 `by`
+* 连接 (Join) 操作
+  * `ignoring` 和 `on`
+  * `group_right` 和 `group_left`
+
+如果需求不是很变态的话, 会用到的只有 `without` 和 `by` 而已, 不必慌张
 
 #### 在运算中 忽略 或者 仅关注 某些 Label
 
-* `without` `by` 用于 函数运算中, 忽略 或者 仅关注 某些 label
+乍一看, 好像 `without` 和 `ignoring` 意思好像接近丫, `by` 和 `on` 在 排除 label 上似乎意思也类似, 但在 PromQL 使用中, 他们还是略有不同.
+
+* `without` 和 `by` 只能用于单个 Metrics 的 函数运算中, 忽略 或者 仅关注 某些 label, 效果类似于 SQL 的 `group` 操作
 
   ```go
-  // example
-  // TODO
+  // example about by , without 也是类似
+  
+  // A{method="post", code="200",service="FooServer"}  24
+  // A{method="get", code="200",service="FooServer"}  30
+  // A{method="put", code="200",service="BarServer"}  321
+  // A{method="delete", code="200",service="BarServer"}  123
+  
+  // 计算所有的请求量
+  
+  // Before
+  sum(A{code="200"})
+  // 
+  // SQL like this
+  // SELECT sum(value) FROM A,B
+  // 
+  // result
+  // sum(A{code="200"}) 498
+  
+  
+  // After
+  sum(A{code="200"}) by (service)
+  // {service="BarServer"} 444
+  // 
+  // SQL like this: 
+  // SELECT sum(value), service FROM A,B GROUP BY service
+  // 
+  // result
+  // {service="FooServer"} 54
+  
+  
+  // 当然, 读者也可以自行尝试 by (method) 来得到类似的结果
   ```
 
-* `ignoring` 和 `on` 则用在通常的运算场景中忽略 或者 仅仅关注 某些 label
+#### Join
+
+* `ignoring` 和 `on` 则用在 `两个 Metrics 做基础运算` 的场景中 忽略 或者 仅仅关注 某些 label, 你也可以理解成
 
   ```go
   // A{method="get", code="500"}  24
@@ -140,28 +181,55 @@ PromQL 中的关键字很少, 通常都用在处理 Label 和 Join 上
   // B{method="del"}  34
   // B{method="post"} 120
   
-  // 这里把 A 的 `code` label 全部忽略掉之后, 参与后面和 B 的除法运算 
-  A{code="500"} / (B ignoring(code))
+  A{code="500"} /  on(method) B
+  //
+  // SQL like this
+  // SELECT A.value * B.value, A.method 
+  // FROM A INNER JOIN B ON (A.code = 500 AND A.method == B.method)
+  // 
+  // result
+  // {method="get"}  0.04            //  24 / 600
+  // {method="post"} 0.05            //   6 / 120
+  // 而 method 等于 del 和 put 的由于找不到匹配项, 所以不会出现在结果中.
   
-  // <vector expr> <二元运算符> ignoring(<label list>) <vector expr>
-  // <vector expr> <二元运算符> on(<label list>) <vector expr>
-  // 汉化这里的表达式
+  
+  // <向量表达式> <二元运算符> ignoring(<Labels>) <向量表达式>
+  // <向量表达式> <二元运算符> on(<Labels>) <向量表达式>
   ```
 
-#### Join
-
-* 还可以使用 类似 group_right 和 group_left, 来实现 join 操作
+* 还可以将 `ignoring` /`on` 和 `group_left` 或者 `group_right` 相组合, 达成更细节的 join 效果, 当  `ignoring` /`on`  和 group 组合的时候, 他们的动作会稍微有所改变
 
   ```go
-  // <vector expr> <bin-op> ignoring(<label list>) group_left(<label list>) <vector expr>
-  // <vector expr> <bin-op> ignoring(<label list>) group_right(<label list>) <vector expr>
-  // <vector expr> <bin-op> on(<label list>) group_left(<label list>) <vector expr>
-  // <vector expr> <bin-op> on(<label list>) group_right(<label list>) <vector expr>
+  // <向量表达式> <二元运算符> ignoring(<labels>) group_left(<labels>) <向量表达式>
+  // <向量表达式> <二元运算符> ignoring(<labels>) group_right(<labels>) <向量表达式>
+  // <向量表达式> <二元运算符> on(<labels>) group_left(<labels>) <向量表达式>
+  // <向量表达式> <二元运算符> on(<labels>) group_right(<labels>) <向量表达式>
   
-  // TODO 汉化 上面的表达式和举例子
+  // A{method="get", code="500"}  24
+  // A{method="get", code="404"}  30
+  // A{method="put", code="501"}  3
+  // A{method="post", code="500"} 6
+  // A{method="post", code="404"} 21
+  
+  // B{method="get"}  600
+  // B{method="del"}  34
+  // B{method="post"} 120
+  
+  A / on(method) group_left B
+  //
+  // SQL like this
+  // SELECT A.value * B.value, A.*
+  // FROM A INNER JOIN B ON (A.method == B.method)
+  // 
+  // result
+  // {method="get", code="500"}  0.04            //  24 / 600
+  // {method="get", code="404"}  0.05            //  30 / 600
+  // {method="post", code="500"} 0.05            //   6 / 120
+  // {method="post", code="404"} 0.175           //  21 / 120
+  
   ```
 
-* 除此之外, 还可以使用 `and` `or` `unless` 这些关键字实现两个 Metrics 之间的 `交集` `并集` `差集` 的运算
+* 除此之外, 还可以使用 `and` `or` `unless` 这些关键字实现两个 Metrics 之间的 `交集` `并集` `差集` 的运算, 同样 `and`/`or`/`unless` 也可以用 ignoring 和 on 修饰.
 
 ## 函数
 
@@ -170,24 +238,47 @@ PromQL 提供的函数很多 , 详细可以参考 [官方文档](https://prometh
 * rate / irate
 
   ```go
-  // TODO add example
+  // 求增长率
+  rate(node_network_receive_bytes_total[5m])
+  irate(node_network_receive_bytes_total[5m])
+  
+  // rate 和 irate 的区别, 
+  // irate 适合快速变化的计数器（counter），而 rate 适合缓慢变化的计数器（counter）。
   ```
 
-* delta / increase
+* delta / idelta / increase
+
+  计算 设定时间范围内的 第一个值减去最后一个值的 差, 例如 下面这个 表达式
+
+  ```go
+  // 每一分钟有多少请求
+  delta(web_request_total[1m]) // count 类型
+  
+  ```
 
 * `sum` / `avg` / `max` / `min`
 
 * `sum_over_time` / `avg_over_time` / `max_over_time` / `min_over_time`
 
+  一段时间内的 
+
 * topk
 
 * count
 
+  metrics 数量
+
 * log2 / log10
+
+  常用于突出 底部的曲线变化, 
 
 * label_join
 
+  label 的修改
+
 * label_replace
+
+  label 替换
 
 * predict_linear
 
@@ -230,4 +321,6 @@ http_requests_total{status_code=~"2.*"}
 
 * https://prometheus.io/docs/prometheus/latest/querying
 * https://timber.io/blog/promql-for-humans/
+* https://www.robustperception.io/left-joins-in-promql
+* https://www.robustperception.io/using-group_left-to-calculate-label-proportions
 
