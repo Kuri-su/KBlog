@@ -1,10 +1,10 @@
-// TODO 添加配置内容
+{"title":"PromQL Guide","description":"PromQL 简易指南","category":"cloudNative","tag":["prometheus","golang","cloudNative"],"page_image":"/assets/promQL_guide_headImage.png"}
 
 # PromQL Guide
 
 [TOC]
 
-![](/assets/promQL_headImage.jpg)
+![](/assets/promQL_guide_headImage.jpg)
 
 \# 文档翻译系列 XD
 
@@ -71,7 +71,7 @@ $ curl 'http://localhost:9090/api/v1/query?query=rate(go_gc_duration_seconds_sum
 
 将上面的查询放到 Grafana 中, Grafana 在查询时会自动带上时间范围, 所以得到的是一段时间内的数据, 然后  Grafana 会根据这段时间内的数据绘制出如下所示的一副图, 
 
-![](/assets/promQL_exampleImage.png)
+![](/assets/promQL_guide_exampleImage.png)
 
 到这里, 就使用 PromQL 完成了一次查询.
 
