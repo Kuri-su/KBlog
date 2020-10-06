@@ -1,4 +1,4 @@
-{"title":"PromQL Guide","description":"PromQL 简易指南","category":"cloudNative","tag":["prometheus","golang","cloudNative"],"page_image":"/assets/promQL_guide_headImage.png"}
+{"title":"PromQL Guide","description":"PromQL 简易指南","category":"cloudNative","tag":["prometheus","golang","cloudNative"],"page_image":"/assets/promQL_guide_headImage.jpg"}
 
 ![](/assets/promQL_guide_headImage.jpg)
 
@@ -120,7 +120,7 @@ PromQL 对 基本的 运算符号都支持 , 例如
 
 ### 关键字
 
-PromQL 中的关键字很少,只有如下六个,  通常都用在处理 `Label` 和 `Join操作` 上,  而这六个关键字又可以 又可以分为两类
+PromQL 中的关键字很少,只有如下六个,  通常都用在处理 `Label` 和 `Join 操作` 上,  而这六个关键字又可以 又可以分为两类
 
 * 在运算时忽略 label
   * `without` 和 `by`
@@ -286,7 +286,7 @@ PromQL 提供的函数很多 , 详细可以参考 [官方文档](https://prometh
 
 * predict_linear
 
-* ...
+* ……
 
 ## Common collocation 常见搭配
 
