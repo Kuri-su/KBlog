@@ -26,6 +26,27 @@ pub-sub 的异步调用, 是异步获取? 还是同步获取? 规则是怎样的
 
 ---
 
+## Wrapper
+
+wrapper 有两种, 一种是  client 的, 一种是 server 的, 但都建议在 micro.NewService 中传入对应的 闭包参数, Client 是传入 `micro.WrapClient(c client.Wrapper)`  client.Wrapper 是这样的 `func(Client) Client`  闭包, server 部分类似, 换个名字 , 传入 `micro.WrapHandler(server.HandlerWrapper)` server.HandlerWrapper 是 这样的闭包 `func(HandlerFunc) HandlerFunc`
+
+---
+
+## Web
+
+Micro 提供一个 自带 服务注册 的 简单 web 服务
+
+---
+
+## WaitGroup
+
+演示 如何使用 WaitGroup 来完成 一个优雅结束
+
+---
+
+---
+
 ### Pubsub?
 
 支持 Event 传递
+
