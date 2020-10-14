@@ -60,7 +60,6 @@ https://www.zhihu.com/question/301150832/answer/529809529
     * T: htop - 可以理解成 Humen Top , 是 linux top 指令的增强版(也可以叫人类友善版),
     * S: [为什么程序员的业余项目大多都死了？](https://mp.weixin.qq.com/s/wUTCMklKHEBus4nwwRXqPw)
     
-    
 * [week5-190708](posts/week5-190708.md)
     * A: LeetCode-456 - 132模式
     * R: [The end game for developers](https://micro.mu/blog/2019/06/13/the-developer-end-game.html)
@@ -73,7 +72,6 @@ https://www.zhihu.com/question/301150832/answer/529809529
     * T:
     * S: [Hacker house blues: My life with 12 programmers, 2 rooms and one 21st-century dream](http://www.ruanyifeng.com/blog/2018/08/san-francisco.html)
 
-    
 * [week3-190627](posts/week3-190627.md)
     * A: LeetCode-316 - 去除重复字母
     * R: [Snap, Flatpak and AppImage, package formats compared](https://www.zcfy.cc/original/snap-flatpak-and-appimage-package-formats-compared)
