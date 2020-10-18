@@ -1,6 +1,12 @@
+!!! UNDONE!!!
+
 # Service
 
+> go-micro v1.18.0
+
 [TOC]
+
+// TODO 这块开头内容需要再整理
 
 Service 是 Go-Micro 框架最上层的结构, 一个 Service 就代表 一个 Go-Micro 服务, 一个 Service 包含若干个 微服务所必须的部分, 例如 Registry 部分, 但它 并没有直接依赖具体实现, 而是将依赖的方法, 全部抽象成接口, 让下层的 实现来实现方法,  
 
@@ -104,17 +110,78 @@ func (s *service) Init(opts ...Option) {
 
 ## Run 方法
 
-Run 总体上分为三个部分, 
+Run 总体上分为四个部分, 
 
 1. 插入了 一个 用于 Debug 的 Handler , 提供 `健康检查`/ `Runtime 指标`  以及 `日志收集`  的接口, 不过由于笔者使用 `自定义的 日志组件` 和 `基于 Prometheus 的指标收集Runtime 指标` , 所以这里就不展开
 
    ```go
-   	s.opts.Server.Handle(
+   func (s *service) Run() error {
+       s.opts.Server.Handle(
+           // 注册 Handler
    		s.opts.Server.NewHandler(
+               // 默认 Handler
    			handler.DefaultHandler,
    			server.InternalHandler(true),
    		),
    	)
+       // ... 
+   }
    ```
 
-2. 
+2. 判断是否存在 `MICRO_DEBUG_PROFILE`, 如果存在就默认开启 pprof , 将 CPU 和 MEM 的 性能数据保存到 /tmp 目录下. (对于性能影响较小)
+
+   ```go
+   func (s *service) Run() error {
+       // ...
+       
+   	if prof := os.Getenv("MICRO_DEBUG_PROFILE"); len(prof) > 0 {
+   		service := s.opts.Server.Options().Name
+   		version := s.opts.Server.Options().Version
+   		id := s.opts.Server.Options().Id
+   		profiler := pprof.NewProfile(
+   			profile.Name(service + "." + version + "." + id),
+   		)
+           // 启动 pprof 服务
+   		if err := profiler.Start(); err != nil {
+   			return err
+   		}
+   		defer profiler.Stop()
+   	}
+       
+       // ... 
+   }
+   ```
+
+3. 调用上面提到的 Service 的 `Start` 方法, 用于启动整个服务.
+4. 然后监听退出信号或者 ctx 的消息, 调用上面提到的 Stop 方法, 用于停止整个 服务
+   ```go
+   
+   func (s *service) Run() error {
+   	// ... 
+   
+       // 启动服务
+   	if err := s.Start(); err != nil {
+   		return err
+   	}
+   
+       // 注册系统信号
+   	ch := make(chan os.Signal, 1)
+   	if s.opts.Signal {
+   		signal.Notify(ch, syscall.SIGTERM, syscall.SIGINT, syscall.SIGQUIT)
+   	}
+   
+       // 等待 信号或者 Context 消息
+   	select {
+   	case <-ch:
+   	case <-s.opts.Context.Done():
+   	}
+   
+    // 停止服务
+   	return s.Stop()
+   }
+   ```
+   
+
+## Function Service
+
+// TODO
