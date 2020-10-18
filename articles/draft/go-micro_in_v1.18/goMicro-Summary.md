@@ -54,3 +54,52 @@ Tunnel 感觉类似于 Proxy, 还待看完 Transport 的部分, 然后细看他�
 
 支持 Event 传递
 
+---
+
+## Stream
+
+Steam 相对于 RPC 的区别？
+
+## shutdown
+
+使用 ctx 完成 shutdown 退出
+
+## Sharding
+
+shard 通过 Client Wrapper 根据 X-From-User 来设置 请求用户亲和性
+
+## Secure
+
+transport 开启加密传输
+
+## Round Robin
+
+？ 循环 什么
+
+## Redirect
+
+转发？
+
+## Proxy sidecar
+
+## Mocking
+
+## Metadata
+
+## Even
+
+Event 参考 CloudEvent 和 敖小剑 的这两篇博文
+
+* https://skyao.io/post/202004-building-event-driven-cloud-applications-and-services/
+* https://skyao.io/talk/202007-microservice-avoiding-distributed-monoliths/
+
+
+
+```
+gitlab.xinhulu.com/platform/GoPlatform v0.0.0-20191225085741-46da811c3de3/go.mod h1:6D597tz0Za2JBrD/7qgb8dLDWoSZKrAkVLNa+C1s+Hg=
+gitlab.xinhulu.com/platform/GoPlatform v0.0.0-20200923021755-d09e7500d283/go.mod h1:mZfjNDw1JuaNI2FLKffeI0MKThIKYvkh/qDsVtDMduE=
+gitlab.xinhulu.com/platform/GoPlatform v0.0.0-20201015081037-2fb85714209b/go.mod h1:jrRF9DwPo+FmG/9QAM4GpY5CYIxSHFoxQh9eoS3bl5E=
+gitlab.xinhulu.com/platform/GoPlatform v0.0.0-20201015091624-13775fc0eb45/go.mod h1:imardCvvx3ey+jIr29jjgqS8uT3AOOiCJtxYY46502A=
+gitlab.xinhulu.com/platform/GoPlatform v0.0.0-20201015093255-6b9eb232f772 h1:njIU9bHeGsY1mNdVPy17uow4n7YpLbXgTbgAWuQS9CA=
+gitlab.xinhulu.com/platform/GoPlatform v0.0.0-20201015093255-6b9eb232f772/go.mod h1:Qq3d0DlNjjmwQdgqOG7aav0dccPcpuUWJFoW63SJkW8=
+```
