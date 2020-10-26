@@ -47,7 +47,7 @@ func main() {
 
 ```shell
 # 常用的命令
-## allocs 所有内存分布
+## allocs 所有分配出去的内存的 分布
 $ go tool pprof http://localhost:6060/debug/pprof/allocs
 ## heap 堆内存分布
 $ go tool pprof http://localhost:6060/debug/pprof/heap

@@ -4,6 +4,9 @@
 
 [TOC]
 
+
+大部分的 interface 都有 mock 实现
+
 ## NewRpcServer 方法
 
 newRpcServer 方法, 里面除了 newOption 之外, 还 newRpcRouter, 这个 Router 是 http 实现的 rpcServer 专有, 
@@ -34,4 +37,3 @@ func (r rpcRouter) ServeRequest(ctx context.Context, req Request, rsp Response) 
 4. 对 Registry 进行服务注册
 5. 将请求的处理方法(server.ServeConn) 注册给 Transport , 
 6. 启动 Registry 的定期维护程序
-
