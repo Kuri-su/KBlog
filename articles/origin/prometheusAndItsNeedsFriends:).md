@@ -12,9 +12,9 @@
 
 本文中不会出现的内容:  跟 Prometheus 实现细节有太多相关的东西 等
 
-## 当想看监控的时候, 我们到底想要什么? 
+## 当想要一个监控系统的时候, 我们到底想要什么? 
 
->  我们想要看的东西也就是我们对监控的需求.
+>  我们想要的东西也就是我们对监控的需求.
 
 ### 需求
 
@@ -216,15 +216,17 @@ prometheus_tsdb_compaction_chunk_range_count 780
 
 最左边的 是 监控数据的 source 区, 里面有 Prometheus 使用它的 抓取器 来抓取 我们的 应用程序的 监控数据, 然后保存到 TSDB 上, 
 
+中间的部分就是 Prometheus Server 本体, 
+
 接着 最右边的 部分分为两块, 一块是 AlertManager ,  Prometheus 会定期检查一些告警规则, 如果这些规则 被满足, 将会 推送 给 AlertManager 表示这些数据需要告警. 另一块是 展示的部分 , Grafana 或者 Prometheus 的 WebUI 通过 PromQL 查询 Prometheus 的 TSDB 来获取 结果并展示.
 
 ### 告警
 
-告警的部分, 在 Prometheus 推送消息给 AlertManager 之后, AlertManager 会自行判断, 这条告警是否需要推送出去, AlertManger 中有一些 沉默 和 告警阈值的规则, 当 一条告警触发 多少次, 或者 多久之内触发一次, 就会告警到 设置好的 Channel , 这样可以避免 由 告警风暴 带来的麻痹 和 狼来了的故事. 
+告警的部分, 在 Prometheus 推送消息给 AlertManager 之后, AlertManager 会自行判断, 这条告警是否需要推送出去, AlertManger 中允许设置 沉默 和 告警阈值的规则, 当 一条告警触发 多少次, 或者 多久之内触发一次, 就会告警到 设置好的 Channel , 这样可以避免 由 告警风暴 带来的 `麻痹` 和 `狼来了的故事`. 
 
 ### PromQL
 
-PromQL 是 Prometheus 设计出来的一种 DSL , 使用起来的感觉像使用 函数. 关于 PromQL 的内容, 可以参考 另一篇博文 [PromQL 指南](https://kuricat.com/articles/promql-guide-guqc2)
+PromQL 是用于 Prometheus 的一种 DSL , 使用起来的感觉像使用 函数.  PromQL 于 Prometheus 就像 SQL 于 MySQL. 关于 PromQL 的内容, 可以参考 另一篇博文 [PromQL 指南](https://kuricat.com/articles/promql-guide-guqc2)
 
 ### 基于指标的监控系统 和 基于日志的监控系统的区别
 
