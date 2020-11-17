@@ -26,7 +26,7 @@
 ```shell
 # Arch || Manjaro 已经自带双拼方案 
 # Ubuntu
-$ sudo apt-get insatll librime-data-double-pinyin
+$ sudo apt-get install librime-data-double-pinyin
 # 别的平台应该是 下载安装包即可, 详情可以自行 Google :)
 ```
 
@@ -34,7 +34,7 @@ $ sudo apt-get insatll librime-data-double-pinyin
 
 可以参考 rime 主要维护者的 [Gist Link](https://gist.github.com/lotem/2309739), 下面设置将为你打开 小鹤双拼方案 的切换选项.
 
-Linux 下在 `~/.config/ibus/rime/default.custom.yaml` 中添加如下 配置, 
+Linux 下, `ibus` 在 `~/.config/ibus/rime/default.custom.yaml` 中添加, `fctix` 在 `~/.config/fctix/rime/default.custom.yaml` 中添加. 
 
 如果你是 Windows , 配置文件在 `%APPDATA%\Rime\default.custom.yaml`, MacOS 在 `~/Library/Rime/default.custom.yaml`
 
@@ -64,6 +64,8 @@ patch:
 #    - schema: ipa_xsampa    # X-SAMPA 國際音標
 #    - schema: emoji         # emoji 表情
 ```
+
+接着重启 `fctix`/`ibus` 即可
 
 ### Use
 
