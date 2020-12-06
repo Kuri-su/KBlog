@@ -1,4 +1,4 @@
-# GopherChina 2020 游记
+# GopherChina 2020 游记 Day1
 
 > **下文对 议题的总结是个人经验和观点, 很多并不是 议题演讲者所描述的, 可能存在 事实错误 和 描述不准确, 敬请谅解 . 若能前往 github.com/kuri-su/kblog 提出 Issue 指出错误, 着实感谢!**
 
@@ -14,24 +14,6 @@
 > * 华为云的go语言云原生实战经验 (go-chassis huawei)
 > * Go Package设计与初始化分析 (毛剑 bilibili)
 >
-> 11.22 会场一 议题
->
-> * 百度万亿流量转发平台背后的故事 (章淼 baidu)
-> * Go如何帮助滴滴支撑海量运维场景 
-> * 如何用 go module 构建模块化跨链互联基础设施 (区块链)
-> * Go 在 TiDB 生产环境中实际遇到的 Runtime 相关的问题 (pingcap)
-> * Go语言编译器的实现与优化
-> * 基于 TarsGo 的云原生微服务架构演进(tencent)
-> * 使用 Golang 实现万人同服的游戏服务器(a.k.a 游戏服务端开发 科普)
->
-> 11.23 会场二 议题
->
-> * 云原生go-zero微服务框架设计思考
-> * Go+实现机制剖析
-> * 探探直播长链接架构演进
-> * Golang 在 Shopee 供应链中的应用
-> * Golang大规模云原生应用管理实践 (Aliyun)
-> * GORM 2.0 特性与最佳实践介绍
 
 ## 探探分布式存储系统实践 
 
@@ -252,6 +234,92 @@ SQL 中的 `谓词` 指的是, 返回值是逻辑值的函数, 例如上面例�
 // TODO
 
 #### 高可用
+
+##### 故障检测
+
+![PPT P19]()
+
+高科用的第一个部分就是 故障检测, 故障检测通常有两种 `中心化的` 和 `无中心化的`,   
+
+* 中心化的通常有两个问题,
+  * 假阳性, 就是在故障检测器认为正常的时候, 实质上 机器是挂掉的....
+  * 再就是在节点和故障检测器网络分区的时候, 故障检测器会错误的认为 大部分节点都下线, 事实上可能这些节点都可以使用
+* 去中心化的方案也有些问题
+  * // TODO 
+
+![PPT P20]()
+
+##### 故障恢复
+
+![PPT P21~P22]()
+
+如果是节点异常的话, 例如上面例子中 , 本该向 Node 2~4 同步 binlog 的 Node 1 故障下线, 那么将立刻选出 Binlog 最全的 Node 2 来向 Node 3~4 同步 Binlog
+
+![PPT P23]()
+
+如果是 目前工作的 Master 异常导致 Session 超时的话, 会像 K8s 的 Master 一样, 由其他 StandBy 的节点 去抢 分布式锁, 抢到锁的那个 Master 节点会当选继任 Master. 其他节点继续 StandBy, 然后在和其他节点的心跳包中, 声明 Master 的节点的更换.
+
+![PPT P24]()
+
+但节点的异常切换也带来问题, 就是由于数据库缓存的存在, KV 节点对于一条数据会有 热节点 和 冷节点的概念. 那么当热节点 下线后, 新顶上的 冷节点 收到请求需要较多的时间预热数据, 导致时延会瞬间飙高, 这是不能接受的
+
+![PPT P25]()
+
+为了解决这个问题, 在 ttdb-SQL 节点发送请求给 下层 KV 节点的时候, 将会以一定机率发送 同样的请求给别的有同样数据的节点, 来预热数据. 
+
+![PPT P26]() 
+
+##### 一致性和可用性方面
+
+![PPT P27]()
+
+刚刚也讲了, 由于 业务特性 的原因, 所以我们可以接受一部分数据的丢失或者失败, 所以会像上图表示的这样.
+
+后略, [完]
+
+## Go Programming Patterns - 左耳朵耗子
+
+左耳朵耗子的分享带来的是 Go 编程范式的议题. 将分为如下几个 小节来分享
+
+* Basic Coding
+* Error Handling
+* Delegation / Embed
+* Functional Option
+* Map && Reducs && Filter
+* Go Generation
+* Decoration
+* Kubernetes Visitor
+* Pipeline
+
+### Basic Coding
+### Error Handling
+### Delegation / Embed
+### Functional Option
+### Map && Reducs && Filter
+### Go Generation
+### Decoration
+### Kubernetes Visitor
+### Pipeline
+
+ 
+
+## Golang In GrabFood Discovery System
+
+## 华为云的 Go 语言云原生实践
+
+## Functional options and config for APIs - 毛剑@bilibili
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
