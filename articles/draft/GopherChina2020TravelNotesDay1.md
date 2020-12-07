@@ -64,7 +64,7 @@
 > 3. Isolation（隔离性）, 数据库能够防止由于多个并发事务交叉执行而导致数据的不一致。
 > 4. Durability（持久性）, 指事务结束后，对数据的修改是永久的，不会回滚到之前的状态。
 >
-> 但在分布式数据库中, 由于 CAP 理论的存在, 是基本无法做到 强一致性的 , 但可以采取 最终一致性 的方式来保证 数据可靠. 这也就提到了 BASE 理论
+> 根据 业务特性, 可以采取 最终一致性 的方式来保证 数据可靠. 这也就提到了 BASE 理论
 >
 > 1. 基本可用(Basically Available) , 基本可用是指 分布式系统 在出现故障的时候,允许损失部分可用性,即保证核心可用。
 > 2. 软状态(Soft State) , 软状态是指允许系统存在中间状态,而该中间状态不会影响系统整体可用性。
@@ -233,6 +233,14 @@ SQL 中的 `谓词` 指的是, 返回值是逻辑值的函数, 例如上面例�
 
 // TODO
 
+#### KV 节点 (笔者补充)
+
+![PPT P9 KV 细节图]()
+
+笔者补充一下 PPT 上没有提到的 KV 节点部分. KV 节点 分为两个部分, 一个 Primary 部分, 负责接受 和 响应 ttdb-SQL 层的请求, 然后将更改通过 binlog 的方式给到 replica 节点部分, 来重放并落盘. 
+
+整体结构 与 RocksDB 类似, Primary 是 热数据部分, 可以理解成 RocksDB 中的 MemTable , 负责缓存热数据, replica 类似于 RocksDB 中的 SST . 
+
 #### 高可用
 
 ##### 故障检测
@@ -245,7 +253,7 @@ SQL 中的 `谓词` 指的是, 返回值是逻辑值的函数, 例如上面例�
   * 假阳性, 就是在故障检测器认为正常的时候, 实质上 机器是挂掉的....
   * 再就是在节点和故障检测器网络分区的时候, 故障检测器会错误的认为 大部分节点都下线, 事实上可能这些节点都可以使用
 * 去中心化的方案也有些问题
-  * // TODO 
+  * // TODO  https://iswade.github.io/database/db_internals_ch09_failure_detection/
 
 ![PPT P20]()
 
@@ -292,6 +300,22 @@ SQL 中的 `谓词` 指的是, 返回值是逻辑值的函数, 例如上面例�
 * Pipeline
 
 ### Basic Coding
+
+#### Slice 
+
+Slice 是一个结构体, 结构如下
+
+```go
+type slice struct {
+    
+    
+}
+```
+
+
+
+
+
 ### Error Handling
 ### Delegation / Embed
 ### Functional Option
@@ -301,13 +325,15 @@ SQL 中的 `谓词` 指的是, 返回值是逻辑值的函数, 例如上面例�
 ### Kubernetes Visitor
 ### Pipeline
 
- 
+## Functional options and config for APIs - 毛剑@bilibili
+
+// TODO
 
 ## Golang In GrabFood Discovery System
 
 ## 华为云的 Go 语言云原生实践
 
-## Functional options and config for APIs - 毛剑@bilibili
+
 
 
 
