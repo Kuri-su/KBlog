@@ -301,7 +301,7 @@ SQL 中的 `谓词` 指的是, 返回值是逻辑值的函数, 例如上面例�
 
 ### Basic Coding
 
-#### Slice 
+#### Tips1 Slice 
 
 Slice 是一个结构体, 结构如下
 
@@ -315,7 +315,7 @@ type slice struct {
 
 这里 slice.array 字段 是一个连接到实际数组的指针, 这就是 slice 长度可变的关键 
 
-##### Tip1 Slice share memory
+##### Slice share memory
 
 ```go
 foo := make([]int,5)
@@ -349,7 +349,7 @@ fmt.Println(unsafe.Pointer(&b[0]))
 // 0xc0000c0000    // 注意变量地址已经变了, 说明已经用的不是同一个数组了
 ```
 
-##### Tip2 Slices overlapped (Slice 堆叠覆盖) 
+##### Slices overlapped (Slice 堆叠覆盖) 
 
  ```go
 path := []byte("AAAA/BBBBBB")
@@ -413,7 +413,84 @@ fmt.Printf("dir2: %p,len: %d, cap: %d, %v , %s \n", dir2, len(dir2), cap(dir2), 
 // dir2: 0xc00018c005,len: 6, cap: 6, [66 66 66 66 66 66] , BBBBBB 
 ```
 
-// TODO 
+通过输出我们可以看出, 这次是符合我们预期的状态. 这两段代码唯一的区别点在于 dir1 第一次赋值的时候使用了 `dir1 := path[:sepIndex:sepIndex]` 这样的一个方式, 我们比较少这么写, 但这个实际上才是完整的 Slice 表达式, 以下面的这个例子为例: 
+
+```go
+slice := []string{"a", "b", "c", "d"}
+
+a := slice[0:2:2]
+fmt.Printf("%p,%d,%d,%v \n", a, len(a), cap(a), a)
+// 0xc000100040,2,2,[a b] 
+b := slice[0:2]
+fmt.Printf("%p,%d,%d,%v \n", b, len(b), cap(b), b)
+// 0xc000100040,2,4,[a b] 
+```
+
+使用 slice[0:2:2] 和 slice[0:2] 的结果区别在于, slice[0:2:2] 生成的slice 的 cap 等于 2, 这样依赖 slice的 a 在追加元素的时候, 会重新分配 内存也就是底层数组, 这样就不会影响原来的 Slice.
+
+#### Tips2 Deep Comparison
+
+通常会有一些 结构体的比较需求, 对于这种需求, 通常我们使用 reflect 包的  DeepEqual 方法来比较, 以下面这个例子为例, 
+
+```go
+type data struct {
+	num    int               //ok
+	checks [10]func() bool   //not comparable
+	doit   func() bool       //not comparable
+	m      map[string]string //not comparable
+	bytes  []byte            //not comparable
+}
+```
+
+reflect.DeepEqual 方法对于 Struct 的话, 只能比较简易类型, 如果出现不能比较的类型只能返回 false ,例如下面这样
+
+```go
+func main() {
+	v1 := data{num: 1,}
+	v2 := data{num: 1,}
+	fmt.Println("v1 == v2:", reflect.DeepEqual(v1, v2))
+	//prints: v1 == v2: true
+    
+    v3 := data{
+		num: 1,
+		doit: func() bool {
+			return true
+		},
+	}
+	v4 := data{
+		num: 1,
+		doit: func() bool {
+			return true
+		},
+	}
+	fmt.Println("v3 == v4:", reflect.DeepEqual(v3, v4))
+    //prints: v3 == v4: false
+
+	m1 := map[string]string{"one": "a", "two": "b"}
+	m2 := map[string]string{"two": "b", "one": "a"}
+	fmt.Println("m1 == m2:", reflect.DeepEqual(m1, m2))
+	//prints: m1 == m2: true
+
+	s1 := []int{1, 2, 3}
+	s2 := []int{1, 2, 3}
+	fmt.Println("s1 == s2:", reflect.DeepEqual(s1, s2))
+	//prints: s1 == s2: true
+    
+    
+}
+```
+
+#### Function vs Receiver
+
+// TODO
+
+#### Time 
+
+
+
+#### Performance Tips
+
+
 
 ### Error Handling
 ### Delegation / Embed
@@ -430,7 +507,11 @@ fmt.Printf("dir2: %p,len: %d, cap: %d, %v , %s \n", dir2, len(dir2), cap(dir2), 
 
 ## Golang In GrabFood Discovery System
 
+// TODO
+
 ## 华为云的 Go 语言云原生实践
+
+// TODO
 
 
 
