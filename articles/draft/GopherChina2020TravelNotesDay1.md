@@ -480,20 +480,211 @@ func main() {
 
 #### Function vs Receiver
 
+在 Go 中, 推荐以函数接受者的方式来组合 特性, 而 Interface 也是组合的一个关键点, 来看下面这一段代码
+
 ##### Interface Patterns
 
+```go
+type Country struct {
+	Name string
+}
+type City struct {
+	Name string
+}
+type Printable interface {
+	PrintStr()
+}
 
+func (c Country) PrintStr() { fmt.Println(c.Name) } 
+func (c City) PrintStr()    { fmt.Println(c.Name) }
+// 这两个Struct 都分别实现了输出的功能
+
+func main() {
+	c1 := Country{"China"}
+	c2 := City{"Beijing"}
+	c1.PrintStr()
+	c2.PrintStr()
+}
+```
+
+我们可以通过将具体实现抽成 Interface
+
+```go
+type Country struct {
+	Name string
+}
+type City struct {
+	Name string
+}
+type StringAble interface {
+	ToString() string
+}
+
+func (c Country) ToString() string { return "Country = " + c.Name }
+func (c City) ToString() string    { return "City = " + c.Name }
+
+func PrintStr(p StringAble) {
+	fmt.Println(p.ToString())
+}
+
+func main() {
+	c1 := Country{"China"}
+	c2 := City{"Beijing"}
+	PrintStr(c1)
+	PrintStr(c2)
+}
+```
+
+之前做过面向对象编程的同学应该不会陌生 这种思想, 另外像 go 标准库的  io.Reader 和 io.Writer 接口 也是使用类似的思想.
+
+这里引出一条 Golden Rule
+
+> Program to an interface not an implementation
+
+#### Verify Interface Compliance (验证是否实现 Interface )
+
+```go
+type Shape interface {
+	Sides() int
+	Area() int
+}
+type SquareIF interface {
+	Sides() int
+}
+type Square struct {
+	len int
+}
+
+func (s *Square) Sides() int {
+	return 4
+}
+func main() {
+	var _ SquareIF = (*Square)(nil)
+	// it will panic
+	// var _ Shape = (*Square)(nil)
+
+	s := Square{len: 5}
+	fmt.Printf("%d\n", s.Sides())
+}
+```
+
+例如上面的代码, 将 nil 强转为 `Square 类型的指针` 然后赋值给 SquareIF 类型的变量, SquareIF 是一个Interface , 如果 Square 实现了 SquareIF 的全部接口, 那么这个赋值将会成功, 否则就像被注释掉的那句, 如果 Square 赋值给 Shape 类型的时候, 将会报错.
+
+笔者也没有用过这种方式, 但猜测可以用来对一些类型判断是否有实现 接口. 主要是应用在一些灵活的实现上.
 
 #### Time 
 
-
+时间的处理过于 Difficult! 如果可以请尽量使用 标准库的 time.Time 和 time.Duration. 如果实在需要自己处理的话, 可以考虑使用 RFC 3339, 因为 flag 包, encoding/json 包, 还有 database/sql 和 gopkg.io/yaml.v2 包都对它有比较好的支持 .
 
 #### Performance Tips
 
+* 使用 strconv 代替 fmt
 
+  ```go
+  for i := 0; i < b.N; i++ {
+      s := fmt.Sprint(rand.Int())   // 143 ns/op
+  } 
+  for i := 0; i < b.N; i++ {
+      s := strconv.Itoa(rand.Int()) // 64.2 ns/op
+  } 
+  ```
+  
+* 避免 string 到 byte 的转换
+  ```go
+  for i := 0; i < b.N; i++ {
+      w.Write([]byte("Hello world")) // 22.2 ns/op
+  }
+  data := []byte("Hello world")
+  for i := 0; i < b.N; i++ {
+      w.Write(data)                  // 3.25 ns/op
+  }
+  ```
+  
+* 新建大型切片的时候, 指定切片容量
+  ```go
+  for n := 0; n < b.N; n++ {
+      data := make([]int, 0)         // 100000000 2.48s
+      for k := 0; k < size; k++{
+          data = append(data, k)    
+      }
+  }
+  for n := 0; n < b.N; n++ {
+      data := make([]int, 0, size)   // 100000000 0.21s
+      for k := 0; k < size; k++{
+          data = append(data, k)
+      }
+  }
+  ```
+  因为 会触发多次 Slice 扩容
+  
+* 使用 StringBuffer 或者 StringBuilder 来代替字符串拼接
+
+  ```go
+  var strLen int = 30000
+  var str string
+  for n := 0; n < strLen; n++ { // 12.7 ns/op
+      str += "x"
+  }
+  
+  var builder strings.Builder
+  for n := 0; n < strLen; n++ { // 0.0265 ns/op
+      builder.WriteString("x")
+  }
+  var buffer bytes.Buffer
+  for n := 0; n < strLen; n++ { // 0.0088 ns/op
+      buffer.WriteString("x")
+  }
+  ```
+  
+* 使多个 IO 操作异步进行
+
+  * 并且可以使用 sync.WaitGroup 同步哪些操作
+
+* 避免在热点代码(频繁运行的代码)中分配内存
+
+  * 不仅需要占用 CPU 周期来分配内存，而且还会使垃圾收集器变得繁忙。 如果可以的话, 尽可能使用 sync.Pool 这类对象池重用对象，尤其是在程序热点.
+
+* 支持无锁算法
+
+  * 尽可能避免互斥。 可以使用以 sync包 或者 atomic 包中的一些数据结构来代替锁.
+
+* 使用 缓冲(buffer) IO
+
+  * 每个字节访问磁盘效率很低； 读取和写入更大的数据块可以大大提高速度。 使用bufio.NewWriter（）或bufio.NewReader（）可能会有所帮助
+
+* 尽量使用已编译的正则表达式, 进行重复匹配
+
+  * 在每次匹配之前编译相同的正则表达式效率低下
+
+* 尽量使用 Protobuf 而不是 Json
+
+  * JSON使用反射, 由于反射工作量较大，因此反射速度相对较慢. 可以考虑使用 protobuf 或者 MessagePack
+
+* 延伸阅读
+
+  * Effective Go
+    * https://golang.org/doc/effective_go.html
+  * Uber Go Style
+    * https://github.com/uber-go/guide/blob/master/style.md
+  * 50 Shades of Go: Traps, Gotchas, and
+    Common Mistakes for New Golang Devs
+    * http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
+  * Go Advice
+    * https://github.com/cristaloleg/go-advice
+    * Chinese version: https://github.com/cristaloleg/go-advice/blob/master/README_ZH.md
+  * Practical Go Benchmarks
+    * https://www.instana.com/blog/practical-golang-benchmarks/
+  * Benchmarks of Go serialization methods
+    * https://github.com/alecthomas/go_serialization_benchmarks
+  * Debugging performance issues in Go programs
+    * https://github.com/golang/go/wiki/Performance
+  * Go code refactoring: the 23x performance hunt
+    * https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7
+
+### Delegation / Embed
 
 ### Error Handling
-### Delegation / Embed
+
 ### Functional Option
 ### Map && Reducs && Filter
 ### Go Generation
