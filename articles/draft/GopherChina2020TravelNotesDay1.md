@@ -1,4 +1,4 @@
-# GopherChina 2020 游记 Day1
+# GopherChina 2020 游记 Day1-1
 
 > **下文对 议题的总结是个人经验和观点, 很多并不是 议题演讲者所描述的, 可能存在 事实错误 和 描述不准确, 敬请谅解 . 若能前往 github.com/kuri-su/kblog 提出 Issue 指出错误, 着实感谢!**
 
@@ -74,7 +74,7 @@
 >
 > CAP 理论提出了在设计分布式存储系统时需要权衡的因素, 但未考虑到 时延(Latency) 因素, 而在分布式存储系统中, 时延 (latency) 是很重要的可靠性指标.
 >
-> 例如, 某个节点时延过长的时候, 我们是应该放弃那个节点的数据? 还是 继续等待直到 Timeout
+> 例如, 某个节点时延过长的时候, 是应该放弃那个节点的数据? 还是 继续等待直到 Timeout
 
 * DBA 角色
   * 首先是存储成本, 一方面是数据压缩性能, 另外是磁盘读写要求是否很高, 是否只能跑在 SSD 上
@@ -83,7 +83,7 @@
 
 ![PPT P6]()
 
-#### 让我们看看开源的方案
+#### 让看看开源的方案
 
 开源方案在 分布式存储系统方面 无外乎两种, `NoSQL` 和 `NewSQL`, 
 
@@ -681,9 +681,223 @@ func main() {
   * Go code refactoring: the 23x performance hunt
     * https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7
 
-### Delegation / Embed
+### Delegation / Embed (嵌入模式)
+
+#### Example 1
+
+假设一个使用 Go 实现 GUI 的场景, 我们目前有两种组件 `Button` 和 `ListBox` , 然后 Button 需要有 Label 用于标识 字符
+
+```go
+// 基础属性 和 接口
+type Widget struct {
+	X, Y int
+}
+type Label struct {
+	Widget        // Embedding (delegation)
+	Text   string // Aggregation
+}
+
+func (label Label) Paint() {
+	fmt.Printf("%p:Label.Paint(%q)\n", &label, label.Text)
+}
+
+type Painter interface {
+	Paint()
+}
+type Clicker interface {
+	Click()
+}
+```
+
+```go
+// 上层 组件
+// 按钮
+type Button struct {
+	Label // Embedding (delegation)
+}
+func NewButton(x, y int, text string) Button {
+	return Button{Label{Widget{x, y}, text}}
+}
+func (button Button) Paint() { // Override
+	fmt.Printf("Button.Paint(%s)\n", button.Text)
+}
+func (button Button) Click() {
+	fmt.Printf("Button.Click(%s)\n", button.Text)
+}
+
+// 下拉选框
+type ListBox struct {
+	Widget          // Embedding (delegation)
+	Texts  []string // Aggregation
+	Index  int      // Aggregation
+}
+func (listBox ListBox) Paint() {
+	fmt.Printf("ListBox.Paint(%q)\n", listBox.Texts)
+}
+func (listBox ListBox) Click() {
+	fmt.Printf("ListBox.Click(%q)\n", listBox.Texts)
+}
+```
+
+通过嵌入模式, 使用者的代码将非常简洁
+
+```go
+func main() {
+	label := Label{Text: "AT"}
+	button1 := Button{Label{Widget{10, 70}, "OK"}}
+	button2 := NewButton(50, 70, "Cancel")
+	listBox := ListBox{Widget{10, 40},
+		[]string{"AL", "AK", "AZ", "AR"}, 0}
+
+	// 绘制 元素
+	for _, painter := range []Painter{label, listBox, button1, button2} {
+		painter.Paint()
+	}
+	// 点击
+	for _, widget := range []interface{}{label, listBox, button1, button2} {
+		if clicker, ok := widget.(Clicker); ok {
+			clicker.Click()
+		}
+	}
+}
+```
+
+#### Example 2
+
+// TODO
 
 ### Error Handling
+
+Go 的 err != nil 被各方诟病, 那有没有办法来优化它呢? 
+
+#### `if err!=nil Checking` Hell
+
+因为每一层都需要 判断是否出错, 再进行下一步操作, 这样很痛苦...
+
+```go
+func parse(r io.Reader) (*Point, error) {
+	var p Point
+	if err := binary.Read(r, binary.BigEndian, &p.Longitude); err != nil {
+		return nil, err
+	}
+	if err := binary.Read(r, binary.BigEndian, &p.Latitude); err != nil {
+		return nil, err
+	}
+	if err := binary.Read(r, binary.BigEndian, &p.Distance); err != nil {
+		return nil, err
+	}
+	if err := binary.Read(r, binary.BigEndian, &p.ElevationGain); err != nil {
+		return nil, err
+	}
+	if err := binary.Read(r, binary.BigEndian, &p.ElevationLoss); err != nil {
+		return nil, err
+	}
+}
+```
+
+#### 只解决当下问题
+
+那么我们第一步优化, 解决代码冗长的问题, 将判断函数抽出来作为一个闭包, 当错误发生时, 直接 return 即可.
+
+```go
+func parse(r io.Reader) (*Point, error) {
+	var p Point
+	var err error
+	read := func(data interface{}) {  // Closure for errors
+		if err != nil {
+			return
+		}
+		err = binary.Read(r, binary.BigEndian, data)
+	}
+	read(&p.Longitude)
+	read(&p.Latitude)
+	read(&p.Distance)
+	read(&p.ElevationGain)
+	read(&p.ElevationLoss)
+}
+```
+
+但这个方案有些局限, 毕竟不是每个方法都能抽象成这样子, 有没有什么通用些的方法? 
+
+#### 看看 bufio.Scanner 是怎么做的
+
+```go
+scanner := bufio.NewScanner(input)
+for scanner.Scan() {
+    token := scanner.Text()
+    // process token
+}
+if err := scanner.Err(); err != nil {
+    // process the error
+}
+```
+
+它的Scan方法执行基础的I / O，这当然会导致错误。 但是Scan方法根本不会暴露错误。 而是返回一个布尔值。在扫描结束时运行的另一种方法将报告是否发生错误。
+
+接着去看看 Scan 对象的结构体
+
+```go
+type Scanner struct {
+	// ....
+	err          error     // Sticky error. <--- look at this
+	// ....
+}
+
+// 接着 Scanner 有一个 Err 方法 , 用来确认是否产生错误
+func (s *Scanner) Err() error {
+	if s.err == io.EOF {
+		return nil
+	}
+	return s.err
+}
+```
+
+#### 使用一个带有 err 字段的 对象
+
+```go
+type Reader struct {
+    r   io.Reader
+    err error
+}
+
+func (r *Reader) read(data interface{}) {
+    if r.err == nil {
+        r.err = binary.Read(r.r, binary.BigEndian, data)
+    }
+}
+```
+
+接着使用这个字段 来写一段业务代码试试
+
+```go
+func parse(input io.Reader) (*Point, error) {
+	var p Point
+	r := Reader{r: input}
+	r.read(&p.Longitude)
+	r.read(&p.Latitude)
+	r.read(&p.Distance)
+	r.read(&p.ElevationGain)
+	r.read(&p.ElevationLoss)
+
+	if r.err != nil {
+		return nil, r.err
+	}
+
+	return &p, nil
+}
+```
+
+这么写之后, 代码清晰很多, 但是只有唯一的一个问题, 我们无法使其通用, **我们必须为每一种类型定义一个 包装器结构体**, 例如上面的 Reader 对象.
+
+* 延伸阅读
+  * Golang Error Handling lesson by Rob Pike
+    * http://jxck.hatenablog.com/entry/golang-error-handling-lesson-by-rob-pike
+  * Errors are values
+    * https://blog.golang.org/errors-are-values 
+
+#### github.com/pkg/errors
+
+by the way ,  可以使用 `github.com/pkg/errors` 这个包来代替, 这个包除了基础的 错误包装功能之外, 还会自动带堆栈信息, 甚至支持 路径脱敏
 
 ### Functional Option
 ### Map && Reducs && Filter
