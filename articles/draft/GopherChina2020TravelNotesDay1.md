@@ -307,14 +307,113 @@ Slice 是一个结构体, 结构如下
 
 ```go
 type slice struct {
-    
-    
+    array unsafe.Pointer
+    len   int
+    cap   int
 }
 ```
 
+这里 slice.array 字段 是一个连接到实际数组的指针, 这就是 slice 长度可变的关键 
 
+##### Tip1 Slice share memory
 
+```go
+foo := make([]int,5)
+foo[3]=42
+foo[4]=100
 
+bar := foo[1:4]
+bar[1]=99
+
+fmt.Println(foo)
+// 0,0,99,42,100
+fmt.Println(bar)
+// 0,99,42,100
+```
+
+但在超过 cap 的时候, 将会自动扩容,并重新分配内存
+
+```go
+a := make([]int, 32)
+b := a[0:16]
+a = append(a, 1)
+a[2] = 42
+
+fmt.Printf("%p,%d,%d,%v \n", a, len(a), cap(a), a)
+// 0xc0000c2000,len: 33, cap: 64, [0 0 42 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1] 
+fmt.Printf("%p,%d,%d,%v \n", b, len(b), cap(b), b)
+// 0xc0000c0000,len: 16, cap: 32, [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]  
+fmt.Println(unsafe.Pointer(&a[0]))
+// 0xc0000c2000
+fmt.Println(unsafe.Pointer(&b[0]))
+// 0xc0000c0000    // 注意变量地址已经变了, 说明已经用的不是同一个数组了
+```
+
+##### Tip2 Slices overlapped (Slice 堆叠覆盖) 
+
+ ```go
+path := []byte("AAAA/BBBBBB")
+fmt.Printf("raws: %p,len: %d, cap: %d, %v \n", path, len(path), cap(path), path)
+// raws: 0xc00018c000,len: 11, cap: 11, AAAA/BBBBBB
+sepIndex := bytes.IndexByte(path, '/')
+fmt.Println("sepIndex", sepIndex)
+// sepIndex 4
+
+dir1 := path[:sepIndex]
+dir2 := path[sepIndex+1:]
+
+fmt.Printf("dir1: %p,len: %d, cap: %d, %v , %s \n", dir1, len(dir1), cap(dir1), dir1, string(dir1))
+// dir1: 0xc00018c000,len: 4, cap: 11, [65 65 65 65] , AAAA 
+fmt.Printf("dir2: %p,len: %d, cap: %d, %v , %s \n", dir2, len(dir2), cap(dir2), dir2, string(dir2))
+// dir2: 0xc00018c005,len: 6, cap: 6, [66 66 66 66 66 66] , BBBBBB
+
+dir1 = append(dir1, "suffix"...)
+
+fmt.Println("raws =>", string(path))
+// raws => AAAAsuffixB
+fmt.Printf("dir1: %p,len: %d, cap: %d, %v , %s \n", dir1, len(dir1), cap(dir1), dir1, string(dir1))
+// dir1: 0xc00018c000,len: 10, cap: 11, [65 65 65 65 115 117 102 102 105 120] , AAAAsuffix
+fmt.Printf("dir2: %p,len: %d, cap: %d, %v , %s \n", dir2, len(dir2), cap(dir2), dir2, string(dir2))
+// dir2: 0xc00018c005,len: 6,  cap: 6, [117 102 102 105 120 66] , uffixB
+ ```
+
+可以看到由于 dir1 和 dir2 都来自 `path 切片`,并且共享下层同一个数组, 所以在对 dir1 进行 append 操作的时候, 会对影响到 path 切片依赖的下层数组, 进而影响 dir2 slice. 那么我们如何避免这个问题呢?
+
+```go
+path := []byte("AAAA/BBBBBB")
+fmt.Printf("raws: %p,len: %d, cap: %d, %v \n", path, len(path), cap(path), string(path))
+// raws: 0xc00018c000,len: 11, cap: 11, AAAA/BBBBBB 
+sepIndex := bytes.IndexByte(path, '/')
+fmt.Println("sepIndex", sepIndex)
+// sepIndex 4
+
+dir1 := path[:sepIndex:sepIndex]
+dir2 := path[sepIndex+1:]
+
+fmt.Println(unsafe.Pointer(&path[0]))
+// 0xc00018c000
+fmt.Println(unsafe.Pointer(&dir1[0]))
+// 0xc00018c000
+fmt.Printf("dir1: %p,len: %d, cap: %d, %v , %s \n", dir1, len(dir1), cap(dir1), dir1, string(dir1))
+// dir1: 0xc00018c000,len: 4, cap: 4, [65 65 65 65] , AAAA 
+fmt.Printf("dir2: %p,len: %d, cap: %d, %v , %s \n", dir2, len(dir2), cap(dir2), dir2, string(dir2))
+// dir2: 0xc00018c005,len: 6, cap: 6, [66 66 66 66 66 66] , BBBBBB 
+
+dir1 = append(dir1, "suffix"...)
+
+fmt.Println(unsafe.Pointer(&path[0]))
+// 0xc00018c000
+fmt.Println(unsafe.Pointer(&dir1[0]))
+// 0xc00018c040
+fmt.Println("raws =>", string(path))
+// raws => AAAA/BBBBBB
+fmt.Printf("dir1: %p,len: %d, cap: %d, %v , %s \n", dir1, len(dir1), cap(dir1), dir1, string(dir1))
+// dir1: 0xc00018c040,len: 10, cap: 16, [65 65 65 65 115 117 102 102 105 120] , AAAAsuffix 
+fmt.Printf("dir2: %p,len: %d, cap: %d, %v , %s \n", dir2, len(dir2), cap(dir2), dir2, string(dir2))
+// dir2: 0xc00018c005,len: 6, cap: 6, [66 66 66 66 66 66] , BBBBBB 
+```
+
+// TODO 
 
 ### Error Handling
 ### Delegation / Embed
