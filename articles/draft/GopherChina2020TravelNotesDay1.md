@@ -897,9 +897,10 @@ func parse(input io.Reader) (*Point, error) {
 
 #### github.com/pkg/errors
 
-by the way ,  可以使用 `github.com/pkg/errors` 这个包来代替, 这个包除了基础的 错误包装功能之外, 还会自动带堆栈信息, 甚至支持 路径脱敏
+BTW ,  你也可以使用 `github.com/pkg/errors` 这个包来代替 标准库的 errors 包, 这个包除了基础的 错误包装功能之外, 还会自动带堆栈信息, 甚至支持 路径脱敏, 详情可以参考这一篇 [对 `github.com/pkg/errors` 的介绍]().
 
 ### Functional Option
+
 ### Map && Reducs && Filter
 ### Go Generation
 ### Decoration
