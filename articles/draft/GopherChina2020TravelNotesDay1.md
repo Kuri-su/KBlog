@@ -901,7 +901,223 @@ BTW ,  你也可以使用 `github.com/pkg/errors` 这个包来代替 标准库�
 
 ### Functional Option
 
+由于 Go 没有支持不同类型 并且 可变数量的参数列表, 导致在一些需要选择参数的场景下会很不方便, 我们以 Http.Server 来举例
+
+```go
+type Server struct {
+	Addr     string
+	Port     int
+	Protocol string
+	Timeout  time.Duration
+	MaxConns int
+	TLS      *tls.Config
+}
+
+func NewServer(addr string, port int) (*Server, error) {
+	//...
+}
+func NewTLSServer(addr string, port int, tls *tls.Config) (*Server, error) {
+	//...
+}
+func NewServerWithTimeout(addr string, port int, timeout time.Duration) (*Server, error) {
+	//...
+}
+func NewTLSServerWithMaxConnAndTimeout(addr string, port int, maxconns int, timeout time.Duration, tls *tls.Config) (*Server,
+	error) {
+	//...
+}
+```
+
+为了方便用户 新建 Server 对象, 这个例子里提供了 4 个方法来方便不同的需求, 并且未来极有可能迅速增多. 这种代码实在是重复并且难以维护.  那么是否有更加优雅的方式来完成这个事情呢? 
+
+#### 一种通用的解决方案
+
+```go
+// 专用的结构体
+type Config struct {
+	Protocol string
+	Timeout  time.Duration
+	Maxconns int
+	TLS      *tls.Config
+}
+
+type Server struct {
+	Addr string
+	Port int
+	Conf *Config
+}
+
+func NewServer(addr string, port int, conf *Config) (*Server, error) {
+	//...
+}
+
+func main() {
+	//Using the default configuration
+	srv1, _ := NewServer("localhost", 9000, nil)
+
+	conf := Config{Protocol: "tcp", Timeout: 60 * time.Second}
+	srv2, _ := NewServer("locahost", 9000, &conf)
+}
+```
+
+利用这样一个Config 结构体, 可以很好的区分 必填参数和选填参数. 但通过 这种 Config Struct 的方式, 库的编写者难以应用 一些默认值, 当 使用者将 Config Struct 传入的时候, 很难判断每个值是否有填,若没填给他默认值. 那么还有没有别的办法解决这个问题呢?
+
+#### Functional Option
+
+直译可以称为 功能选项(Functional Option), 通过向外暴露一组对 `选填参数` 的修改方法, 来达到二者接可得的目的, 可以来看看下面的例子.
+
+```go
+
+type (
+	Server struct {
+		Addr     string
+		Port     int
+		Protocol string
+		Timeout  time.Duration
+		MaxConns int
+		TLS      *tls.Config
+	}
+	Option func(*Server)
+)
+
+func Timeout(timeout time.Duration) Option {
+	return func(s *Server) { s.Timeout = timeout }
+}
+func TLS(tls *tls.Config) Option {
+	return func(s *Server) { s.TLS = tls }
+}
+func Protocol(p string) Option {
+	return func(s *Server) { s.Protocol = p }
+}
+func MaxConns(maxconns int) Option {
+	return func(s *Server) { s.MaxConns = maxconns }
+}
+
+func NewServer(addr string, port int, options ...Option) (*Server, error) {
+	srv := Server{
+		Addr:     addr,
+		Port:     port,
+		Protocol: "tcp",
+		Timeout:  30 * time.Second,
+		MaxConns: 1000,
+		TLS:      nil,
+	}
+	for _, option := range options {
+		option(&srv)
+	}
+	//...
+	return &srv, nil
+}
+
+func main() {
+	s1, _ := NewServer("localhost", 1024)
+	s2, _ := NewServer("localhost", 2048, Protocol("udp"))
+	s3, _ := NewServer("0.0.0.0", 8080, Timeout(300*time.Second), MaxConns(1000))
+}
+```
+
+先看看 Options 类型, Options 类型是一个 入参为 Server Struct 的指针的闭包, 
+
+```go
+type Option func(*Server)
+```
+
+提供了和 Server struct 结构体的可选字段相对应的修改方法, 接着来看看 NewServer 方法, 这个方法 第一个和第二个参数是 必填参数, 第三个参数可以传入多个 options 类型的变量 . 然后会在给 Server 结构体赋值完默认值后, 运行全部的 option
+
+```go
+func NewServer(addr string, port int, options ...Option) (*Server, error) {
+```
+
+基于上述几点, 也就意味着你可以通过上面的方式, 很方便的修改 Server 结构体的属性, 并且不会影响默认参数的赋值.
+
+* Functional Option 的优点包含如下
+  * 合理的默认值
+  * 高度可配置
+  * 易于维护
+  * 自我记录
+  * 对新人来说安全
+  * 不需要nil或空值
+* 沿伸阅读
+  * “Self referential functions and design” by Rob Pike - http://commandcenter.blogspot.com.au/2014/01/self-referential-functions-and-design.html
+
+#### Functional Option in micro/go-micro 
+
+在 `micro/go-micro` 这个微服务框架中, 也大量用到了 Functional Option 来让用户灵活的设置或者自定义. 举个下面的例子.
+
+```go
+type service struct {
+	opts Options
+
+	once sync.Once
+}
+
+type Options struct {
+	Broker    broker.Broker
+	Cmd       cmd.Cmd
+	Client    client.Client
+	Server    server.Server
+	Registry  registry.Registry
+	Transport transport.Transport
+
+	// Before and After funcs
+	BeforeStart []func() error
+	BeforeStop  []func() error
+	AfterStart  []func() error
+	AfterStop   []func() error
+
+	// Other options for implementations of the interface
+	// can be stored in a context
+	Context context.Context
+
+	Signal bool
+}
+
+type Option func(*Options)
+
+// Name of the service
+func Name(n string) Option {
+	return func(o *Options) {
+		o.Server.Init(server.Name(n))
+	}
+}
+// RegisterTTL specifies the TTL to use when registering the service
+func RegisterTTL(t time.Duration) Option {
+	return func(o *Options) {
+		o.Server.Init(server.RegisterTTL(t))
+	}
+}
+// RegisterInterval specifies the interval on which to re-register
+func RegisterInterval(t time.Duration) Option {
+	return func(o *Options) {
+		o.Server.Init(server.RegisterInterval(t))
+	}
+}
+func main() {
+	service := micro.NewService(
+		micro.Name(config.OperatorServiceName),
+		micro.RegisterTTL(time.Second*10),
+		micro.RegisterInterval(time.Second*5),
+	)
+
+	r := etcd.NewRegistry(func(options *registry.Options) {
+		options.Addrs = []string{
+			"msc-etcd-cluster.default",
+		}
+	})
+	service.Init(
+		micro.Registry(r),
+	)
+}
+
+
+```
+
+在 go-micro 中, 把 所有的 service 配置项 移入到一个 叫做 Options 的结构体中, 然后也通过`Functional Option` 的方式提供修改. 
+
 ### Map && Reducs && Filter
+
+// TODO
+
 ### Go Generation
 ### Decoration
 ### Kubernetes Visitor
