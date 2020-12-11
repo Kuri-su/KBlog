@@ -967,7 +967,6 @@ func main() {
 直译可以称为 功能选项(Functional Option), 通过向外暴露一组对 `选填参数` 的修改方法, 来达到二者接可得的目的, 可以来看看下面的例子.
 
 ```go
-
 type (
 	Server struct {
 		Addr     string
