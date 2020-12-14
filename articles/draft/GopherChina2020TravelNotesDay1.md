@@ -1115,7 +1115,160 @@ func main() {
 
 ### Map && Reducs && Filter
 
+// TODO
+
 ### Go Generation
+
+在需要使用 Go 的时候， 对于部分重复代码 或者 protobuf 以及 mock 对象的场景下, 为了保持生成的代码保持在最新的状态, 会在每次编译之前, 需要使用 Bash 来执行 Shell 命令 生成代码. 但是如果每次编译调试都得这么做就比较麻烦, 所以 Go 提供了 Go Generate 命令. 但如果将 Template 写成字符串, 无论是可读性上, 还是IDE 着色上, 都会比较麻烦, 所以 下面的例子提供了 一种可以参考的方式来完成.
+
+#### Example 1
+
+```go
+// container.tmp.go
+package PACKAGE_NAME
+
+type GENERIC_NAMEContainer struct {
+    s []GENERIC_TYPE
+}
+
+// 新建
+func NewGENERIC_NAMEContainer() *GENERIC_NAMEContainer {
+    return &GENERIC_NAMEContainer{s: []GENERIC_TYPE{}}
+}
+
+// put func
+func (c *GENERIC_NAMEContainer) Put(val GENERIC_TYPE){
+    c.s = append(c.s, val)
+}
+
+// get func
+func (c *GENERIC_NAMEContainer) Put(val GENERIC_TYPE){
+    r := c.s[0]
+    c.s = c.s[1]
+    return r
+} 
+```
+
+生成 shell 脚本 gen.sh
+
+```shell
+#!/bin/bash 
+# gen.sh
+
+set -e
+
+SRC_FILE=${1}
+PACKAGE=${2}
+TYPE=${3}
+DES=${4}
+# uppcase the first char
+PREFIX="$(tr '[:lower:]' '[:upper:]' <<< $(TYPE:0:1))${TYPE:1}"
+
+DES_FILE=$(echo ${TYPE} | tr '[:upper:]' '[:lower:]')_${DES}.go
+
+sed 's/PACKAGE_NAME'"${PACKAGE}"'/g' ${SRC_FILE} | \
+sed 's/GENERIC_TYPE'"${TYPE}"'/g' | \
+sed 's/GENERIC_NAME'"${PREFIX}"'/g' > ${DES_FILE}
+```
+
+可以看到, 上面的 `container.tmp.go` 文件 是可以正常的进行语法检查的 Go 文件, 关键位置使用 大写单词代替, 方便替换. 
+
+然后在  文件中 写入如下以 `//go:generate ` 开头的 注释, 另外注意, `//` 和 `go:generate` 之间是没有空格的
+
+```go
+//go:generate ./gen.sh ./template/container.tmp.go gen uint32 container
+func generateUint32Example(){
+    var u uint32 =42
+    c := NewUint32Container()
+    c.Put(u)
+    v := c.Get()
+    fmt.Println("generateExample: %d (%T)\n",v,v)
+}
+
+//go:generate ./gen.sh ./template/container.tmp.go gen string container
+func generateStringExample(){
+    var u uint32 ="Hello"
+    c := NewStringContainer()
+    c.Put(u)
+    v := c.Get()
+    fmt.Println("generateExample: %d (%T)\n",v,v)
+}
+```
+
+接着, 使用 go generate 命令, 将会生成如下两份代码: // TODO 确认 go generate 是否可以递归生成
+
+```go
+// uint32_container.go
+package gen
+
+type Uint32Container struct {
+    s []uint32
+}
+func NewUint32Container() *Uint32Container{
+    return &Uint32Container{s : []uint32{}}
+}
+func (c *Uint32Container) Put(val uint32){
+    c.s=append(c.s, val)
+}
+func (c *Uint32Container) Get() uint32{
+    r:=c.s[0]
+    c.s = c.s[1:]
+    return r
+}
+
+// string_container.go
+package gen
+
+type StringContainer struct {
+    s []string
+}
+func NewStringContainer() *StringContainer{
+    return &StringContainer{s : []string{}}
+}
+func (c *StringContainer) Put(val string){
+    c.s=append(c.s, val)
+}
+func (c *StringContainer) Get() string{
+    r:=c.s[0]
+    c.s = c.s[1:]
+    return r
+}
+```
+
+接着再来举 一个更加贴近实际场景的例子.
+
+#### Example 2
+
+ 同样还是刚才的 Shell 脚本, 
+
+```shell
+#!/bin/bash 
+# gen.sh
+
+set -e
+
+SRC_FILE=${1}
+PACKAGE=${2}
+TYPE=${3}
+DES=${4}
+# uppcase the first char
+PREFIX="$(tr '[:lower:]' '[:upper:]' <<< $(TYPE:0:1))${TYPE:1}"
+
+DES_FILE=$(echo ${TYPE} | tr '[:upper:]' '[:lower:]')_${DES}.go
+
+sed 's/PACKAGE_NAME'"${PACKAGE}"'/g' ${SRC_FILE} | \
+sed 's/GENERIC_TYPE'"${TYPE}"'/g' | \
+sed 's/GENERIC_NAME'"${PREFIX}"'/g' > ${DES_FILE}
+```
+
+然后 模板文件如下
+
+```go
+// filter.tmp.go
+package PAKCAGE_NAME
+
+type GENERIC_NAMEList 
+```
 
 // TODO  Second
 
@@ -1127,6 +1280,10 @@ func main() {
 ### Pipeline
 
 // TODO First
+
+### Notes
+
+
 
 ## Functional options and config for APIs - 毛剑@bilibili
 
