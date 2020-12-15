@@ -1235,11 +1235,9 @@ func (c *StringContainer) Get() string{
 }
 ```
 
-接着再来举 一个更加贴近实际场景的例子.
-
 #### Example 2
 
- 同样还是刚才的 Shell 脚本, 
+接着再来举 一个更加贴近实际场景的例子, 同样还是刚才的 Shell 脚本, 
 
 ```shell
 #!/bin/bash 
@@ -1267,10 +1265,63 @@ sed 's/GENERIC_NAME'"${PREFIX}"'/g' > ${DES_FILE}
 // filter.tmp.go
 package PAKCAGE_NAME
 
-type GENERIC_NAMEList 
+type GENERIC_NAMEList []GENERIC_TYPE
+type GENERIC_NAMEToBool func(*GENERIC_TYPE) bool
+
+func (al GENERIC_NAMEList) Filter(f GENERIC_NAMEToBool) GENERIC_NAMEList {
+    var ret GENERIC_NAMEList
+    for _, a := range al {
+        if f(&a){
+            ret = append(ret, a)
+        }
+    }
+    return ret
+}
 ```
 
-// TODO  Second
+然后在 文件里, 添加上 `//go:generate` 开头的标识
+
+```go
+//go:generate ./gen.sh ./template/filter.tmp.go gen int filter
+func filterIntArrayExample(){
+    a := IntList{1,2,3,4,5,6,7,8,9}
+    b := a.Filter(func(i *int) bool{
+        return *i%2==0
+    })
+    
+    fmt.Println(b)
+}
+```
+
+接着执行 `go generate ` 命令, 即可生成如下文件
+
+```go
+package gen
+
+type IntList []int
+type IntToBool func(*int) bool
+
+func(al IntList) Filter(f IntToBool) IntList {
+    var ret IntList
+    for _,a := range al {
+        if f(&a){
+            ret = append(ret , a)
+        }
+    }
+    return ret
+}
+```
+
+#### 第三方 解析生成库
+
+在 Go Code Generate 这块, 也有很多第三方库可以供使用,
+
+* cheekybits/genny
+* taylorchu/generic
+* joeshaw/gengen
+* clipperhouse/gen
+
+关于他们的区别可以跳转到这一篇 文章查看详情(TODO)[]
 
 ### Decoration
 ### Kubernetes Visitor
