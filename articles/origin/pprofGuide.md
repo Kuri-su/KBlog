@@ -52,7 +52,7 @@ $ go tool pprof http://localhost:6060/debug/pprof/allocs
 ## heap 堆内存分布
 $ go tool pprof http://localhost:6060/debug/pprof/heap
 ## profile 执行时耗
-$ go tool pprof http://localhost:6060/debug/pprof/profile?secends=60 # 这个后面可以带参数来决定采集时长(默认 30s{golang 1.13}), 只有 cpu 时耗 需要采集, 
+$ go tool pprof http://localhost:6060/debug/pprof/profile?seconds=60 # 这个后面可以带参数来决定采集时长(默认 30s{golang 1.13}), 只有 cpu 时耗 需要采集, 
 ## goruntime
 $ go tool pprof http://localhost:6060/debug/pprof/goroutine
 
