@@ -152,3 +152,99 @@ Kernel 节点组成了一个 松散的网状拓扑结构, 并负责进行交易�
 
 ### Punitive PoS (惩罚性 PoS)
 
+> Each Mixin Kernel node takes 10,000 XIN, which is approximate 2% of the network stake. The Kernel can only operate with at least 7 nodes joined, or about 15% of the whole network stake.
+
+每个 Mixin Kernel 节点需要质押 10k XIN 代币, 约占整个网络代币数量的 2% , Mixin Network 最少需要 7 个 Kernel 节点才可以正常运行, 整体质押 XIN 代币数量约占整个网络代币数量的 15%.
+
+> The Kernel BFT consensus is secured by a strict punitive PoS, if a Kernel Node is determined to be an attacker, all its collateral will be recycled to the mining pool. The node will be identified as an attacker if it tried to broadcast an obvious double spend snapshot. A snapshot will be considered obvious when some of its inputs state have been validated by at least 2/3K nodes.
+
+内核 BFT 共识 是通过严格的 惩罚性 PoS 来保证的,  如果 Kernel 节点尝试 传播 一些 Input 已经被 2/3 的节点验证的  `双花 Snapshot` , 那么这个 Kernel 节点将被确定为攻击者. 这个 Kernel 抵押的所有 XIN 代币 都将回收到矿池.
+
+> The first time a node sends out an attacking snapshot, its stake won’t be recycled, but it will be flagged by the network as a potential attacker. The Kernel size will be temporally reduced to K - 1, with this reduction invisible to the potential attacker.
+
+当 Kernel 节点第一次发出 被认为是 攻击的 Snapshot 时, 这个节点抵押的 XIN 代币不会立刻被回收, 但会被网络标记为 `潜在攻击者`. Kernel 节点数量 将暂时减少到 `K-1` , 这种变化对 `潜在攻击者` 是不可见的.
+
+> All other nodes will still broadcast to the flagged node, but won’t consider its snapshots in stake votes. If further snapshots from the flagged node remain malicious, the Kernel will sign a snapshot with a transaction that will transfer all the flagged node’s collateral to the mining pool.
+
+所有 Kernel 节点仍然会向 这个`被标记 的 Kernel 节点`广播 Snpashot, 但不会在 stake votes 中考虑这个节点提供的 Snapshot. 如果 `被标记的 Kernel 节点` 接下来的快照仍然被认为是 恶意的, 那么 Kernel 们将签署一份特殊的 Snapshot , 将 `被标记节点` 质押的全部 XIN 代币转移到 矿池.
+
+> The flagged node will be permanently removed from the Kernel and it will have some period to appeal to Mixin Kernel Governance[0], which is voted by all XIN holders.
+
+被标记的 Kernel 节点 将永久的从 Kernel 中消除, 它的持有方 将有一段时间来进行申诉.
+
+### Trusted Execution Environment (TEE 可信执行环境)
+
+> Mixin Kernel is already an `ABFT(asynchronous Byzantine Fault Tolerance)` consensus DAG. To ensure further security, Kernel nodes must run in Trusted Execution Environment[1]. Specifically, Mixin uses Intel SGX[2] as the TEE implementation.
+
+Mixin Kernel 已经是 `异步拜占庭容错共识` 的 DAG. 为了进一步确保安全. Kernel 的节点程序 必须在 可信执行环境(TEE) 中运行. 具体来说, Mixin 程序使用 `Intel SGX` 来作为 可信执行环境 的实现.
+
+> The TEE enforcement ensures three important security and trust factors in Mixin Kernel.
+>
+> 1. All Kernel nodes should run the same consensus ruleset.
+> 2. Mixin Kernel will be trusted due to the Intel SGX enclave, even when the Kernel is controlled by several earlier Kernel nodes.
+> 3. Distributed Domain communications will be much more secure.
+>
+> The underlying logic for the TEE security is that Intel SGX is somewhat trusted for the Mixin system. 
+>
+> Note that, Mixin Kernel is secure by itself, at least as secure as existing BFT solutions. The mandatory Intel SGX just makes it better.
+
+Mixin Kernel 程序使用 TEE 的意义在于 如下三个因素,
+
+1. 所有的 `Kernel 进程` 都应该运行在相同的环境中.
+2. `Mixin Kernel 进程` 可以因为运行在 Intel SGX 这块 `飞地` 中, 而被认为是可信任的. 即便 Kernel 在早期只有几个节点.
+3. 分布式域通信 (Distributed Domain communications) 将更加安全
+
+可信执行环境 能提供 安全性的基本逻辑是，对于 Mixin 而言，Intel SGX 被认为是值得信赖的.
+
+但也请注意, Mixin Kernel 本身是安全的, 至少和现有的 BFT 方案一样安全. 强制的 Intel SGX 只是让它变得更好.
+
+### Light Witness Node (轻量观察节点)
+
+> Mixin Light node is a simplified payment verification (SPV) node to Mixin Kernel. It typically stores all its unspent outputs for easy account balance query.
+>
+> If the Light node is a XIN holder, it has the chance to act as a Light Witness. The Light Witness will actively monitor the Mixin Kernel, and will be scheduled to vote automatically on the attacker appeals.
+
+Mixin Light 节点是 Mixin Kernel 的 简化支付验证 (SPV) 节点. 它通常会保存所有 UTXO 来方便账户余额查询.
+
+如果 Light Node 持有 XIN 代币, 那么它就有机会充当 `Light Witness 节点` , Light Witness 会主动监控 Mixin Kernel , 并会被安排对攻击者的申诉进行自动投票.
+
+> The Light Witness vote is weighted on their XIN stake. And the vote is mostly on the attacker node’s network connectivity state to determine whether the attacker behavior is caused due to network delay.
+>
+> All the Light Witness votes will be weight calculated with the Mixin Kernel Governance votes, to determine the final attacker appeal. If the appeal fails, the penalty will be final.
+>
+> The Light Witness is incentivized to do these votes because they could get the mining reward if they do some work for the network itself.
+
+Light Witeness 的投票权重 是根据它们质押的 XIN 代币来决定的. 而投票的点是 **根据攻击者 Kernel 节点的网络连接状态来判断, 这次攻击是否由网络延迟造成**.
+
+所有的 Light Witness 节点 票数 和 Mixin Kernel 的治理票数 进行加权计算, 来最终判定 攻击者是否上诉成功. 如果上诉失败, 则执行最终惩罚.
+
+为了让 Light Witness 有动力去做这些投票, 会根据 这些 Light Witness 的贡献来提供一定的挖矿奖励.
+
+## Mixin Domain 
+
+> Mixin Domain is a distributed ledger to provide assets for the Mixin Kernel. The assets may be those on Bitcoin, Ethereum or any other blockchains, even central organizations like banks.
+
+Mixin Domain 是一个分布式账本, 用于 为 Mixin Kernel 提供资产. 这些资产可能是 Bitcoin 等.
+
+![image-20210216171141999](/home/kurisu/.config/Typora/typora-user-images/image-20210216171141999.png)
+
+图示翻译: 
+
+* 红色代表 Mixin Kernel , 一个 异步,拜占庭容错共识 的 DAG
+* 深蓝色代表 Mixin Domains, 一个分布式的网关, 用于提供 资产给 Mixin Kernel
+* 黄色代表 Domain Extensions, 可以是 智能合约, 或者可信应用 等.
+* 浅蓝色代表 可信的外部实体, 例如 Bitcoin , 银行 API
+
+### Kernel System Calls
+
+> Mixin Kernel offers some system calls to communicate with Domains, and it’s the only way the Kernel and Domains can exchange state. The system calls are defined as standard JSON-RPC interfaces.
+>
+> JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol. It is transport agnostic in that the concepts can be used within the same process, over sockets, over HTTP, or in many various message passing environments. It uses JSON (RFC 4627) as data format.
+>
+> Currently Mixin Kernel only implements the standard HTTPS transport for the protocol, and the available calls are listed below.
+
+// TODO CN
+
+#### func kernel_registerDomain()
+
+// TODO
