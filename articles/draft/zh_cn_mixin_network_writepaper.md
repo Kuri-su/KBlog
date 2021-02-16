@@ -232,19 +232,181 @@ Mixin Domain 是一个分布式账本, 用于 为 Mixin Kernel 提供资产. 这
 
 * 红色代表 Mixin Kernel , 一个 异步,拜占庭容错共识 的 DAG
 * 深蓝色代表 Mixin Domains, 一个分布式的网关, 用于提供 资产给 Mixin Kernel
-* 黄色代表 Domain Extensions, 可以是 智能合约, 或者可信应用 等.
+* 黄色代表 Domain Extensions, 可以是 智能合约, 或者 可信应用 等.
 * 浅蓝色代表 可信的外部实体, 例如 Bitcoin , 银行 API
 
 ### Kernel System Calls
 
 > Mixin Kernel offers some system calls to communicate with Domains, and it’s the only way the Kernel and Domains can exchange state. The system calls are defined as standard JSON-RPC interfaces.
->
+
+Mixin Kernel 提供了一些 系统调用 来与 Domain 进行通信, 这是 Kernel 和 Domain 交换信息的唯一方式. 这些系统调用被定义为 标准的 JSON-RPC 接口.
+
 > JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol. It is transport agnostic in that the concepts can be used within the same process, over sockets, over HTTP, or in many various message passing environments. It uses JSON (RFC 4627) as data format.
 >
 > Currently Mixin Kernel only implements the standard HTTPS transport for the protocol, and the available calls are listed below.
 
-// TODO CN
+JSON-RPC 是一种 无状态 且轻量的 RPC 协议. 协议层 与 传输层 无关, 可以在任意一种传输层中使用  JSON-RPC 协议, 例如 HTTP 或者 Socket 通信 等. 它使用 JSON (RFC 4627) 作为数据格式.
 
-#### func kernel_registerDomain()
+目前 Mixin Kernel 仅实现也仅支持 标准的 HTTPS 传输层 来承载 JSON-RPC 协议, 下面列出了可用的接口. 
 
-// TODO
+#### kernel_registerDomain (注册 Domain)
+
+> Register the Domain and waiting for the Kernel approval to connect. The call can also update the domain nodes. The registered domain will be forced to form a XIN stake based network between the domain nodes and the Kernel as a whole.
+>
+> The domain registration is a governance behavior, and should relate to the domain nodes XIN stake. In the future, we hope to implement a more automatic domain management policy in Mixin Kernel. The upgrade policy should always be governed by all Kernel Nodes and XIN holders.
+>
+> Note that, all Kernel System Calls should be forwarded to b known Kernel Nodes to ensure delivery.
+
+注册 Domain 到 Mixin Kernel 并等待审核 才能够连接. 这个调用也可以用于 更新 Domain 的节点. 注册完毕的 Domain 将被迫在 Domain 节点 和 整个 Kernel 之间形成一个 基于 XIN 质押的网络.
+
+Domain 注册是一种治理行为. 应该与 Domain 节点的 XIN 代币质押有关. 将来我们希望能够在 Mixin Kernel 中实施 更加自动的 Domain 管理策略. 升级策略应该始终有所有的 Kernel 节点和 XIN 代币的持有者们共同治理.
+
+注意, 所有的 Kernel System Call 都需要转发到 b 个已知的 Kernel 节点上以确保提交.
+
+##### Detail
+
+```go
+func kernel_registerDomain(uuid string, publicKeyList []string ) (res string)
+```
+
+##### Parameters
+
+1. UUID - `一个唯一的 UUID, 作为这个 Domain 的 ID.` A unique UUID that represents the domain among all other domains. 
+2. Array - `Domain 节点的 公钥列表.`.Array of domain nodes’ transparent public keys.
+
+```json
+params: [“c6d0c728-2624-429b-8e0d-d9d19b6592fa”,[“4b7a842ce6050c99450dc30b4e848c4eaffd33915653b472d900f47d11722058”,“b3aef7b3a998a593c157103d20f9cb17bdbd535f304b17c862e3b35b108faeb8”]]
+```
+
+##### Returns
+
+> String - Indicate th e registration request state, the value is one of invalid, pending, denied, and approved.
+
+String - 返回一个 表示注册请求的状态, 它的值为 `invalid(无效)`, `pending(待定)`,`denied(拒绝)`, `approved(批准)` 中的一个
+
+### Standard Domain Interfaces (标准 Domain 接口)
+
+> A domain can only be registered to the Mixin Kernel if it implements all the Standard Domain Interfaces.
+
+只有实现了全部 Standard Domain Interface 的 Domain 才能够注册到 Mixin Kernel 上
+
+#### domain_getKeyDerivationFunction (获取密钥生成函数)
+
+> Get the domain specific asset key derivation function, which is one of some key derivation methods in Mixin Kernel, and could be upgraded with governance.
+>
+> The supported methods may also be extended to some sandboxed VM languages such as solidity.
+
+用于 `Kernel 获取 Domain 生成资产密钥的方法参数` 的接口, 这是 Mixin Kernel 中的一些 密钥生成方法之一, 可以通过治理升级.
+
+支持的方法也可以其他扩展到别的 沙箱虚拟机语言, 例如 Solidity. 
+
+##### Overview
+
+```go
+type Res struct{
+    Method string
+    params []interface{}{}
+}
+
+func domain_getKeyDerivationFunction(uuid string) (res Res)
+```
+
+##### Parameters
+
+1. UUID - `一个唯一的 UUID,资产 ID.` The global unique asset ID in the whole Mixin Network.
+
+##### Returns
+
+Object - `方法名和参数` The function name and parameters.
+1. method: String - `函数名` The function name, one of the predefined derivation function names in Kernel.
+2. params: Array -  `参数调用这个方法需要传入的参数`. The parameters should be used relative to the method.
+
+#### domain_associatePublicKey
+
+> Associate a Mixin public key to the domain for an asset supported by the domain. The public key and domain asset association is the magic that will associate an external asset to the Mixin Kernel.
+>
+> After public key associated with an asset, it will get an asset specific public key, e.g. Bitcoin public key.
+>
+> Whenever the Bitcoin blockchain has an output to this public key, the domain will create a transaction to the Mixin public key.
+
+将一个 Mixin 公钥 关联到 Domain, 以获得这个公钥在 Domain 中关联的资产列表. `公钥和 Domain 的资产关联` 是将 外部资产关联到 Mixin Kernel 的关键.
+
+将 公钥与资产关联后, 会得到一个 资产特定的公钥, 例如 Bitcoin 公钥.
+
+每当 Bitcoin 区块链上有交易发送到这个 Bitcoin 公钥上, 那么Domain 就会创建一条交易, 发送到这个 Mixin 公钥上
+
+> This works because the Mixin Kernel and the Mixin Domain is also a Proof of Stake network. Besides the XIN collateral, there are also additional Intel SGX enforcement for all related functions.
+>
+> After the domain create the asset transaction to the public key, the asset will be locked by both the Mixin Kernel and Mixin Domain. This result in a corresponding asset lightning transaction in Mixin Kernel.
+
+之所以这样, 是应为 Mixin Kernel 和 Mixin Domain 也是一个 PoS 网络. 除了 XIN 代币 作为抵押, 还有额外的 Intel SGX 执行所有相关功能.
+
+Domain 创建资产交易到公钥后, 资产会被 Mixin Kernel 和 Mixin Domain 同时锁定. 这样就会在 Mixin Kernel 中产生相应的资产的闪电交易.
+
+##### Overview
+
+```go
+func domain_associatePublicKey(publicKey string, uuid string) (specificPublicKey string)
+```
+
+##### Parameters
+
+1. String - `一个 Mixin 公钥` The Mixin public key.
+2. UUID - `资产 Id`  Unique asset ID within the whole Mixin Network.
+
+```json
+params:
+[“4b7a842ce6050c99450dc30b4e848c4eaffd33915653b472d900f47d11722058”, “c6d0c728-2624-429b-8e0d-d9d19b6592fa”]
+```
+
+##### Returns
+
+String - `与Mixin公钥关联的资产特定公钥.` The asset specific public key associated with the Mixin public key.
+
+#### domain_unlockAsset
+
+> Unlock the asset and transfer out to external sources, this is similar to the withdrawal action on a crypto asset exchange.
+>
+> The operation to unlock is somewhat similar to the associate function, it must be signed by both the Mixin Kernel and Mixin Domain to make it a valid snapshot acceptable by the network.
+>
+> // TODO
+
+##### Overview
+
+```go
+
+```
+
+##### Parameters
+
+1. Uuid - `资产 UUID` Unique asset ID within the whole Mixin Network.
+2. String - 
+3. String - 
+4. String - 
+
+```json
+params: [“c6d0c728-2624-429b-8e0d-d9d19b6592fa”,“15SdoFCiwaoUN4grnhPCoDWxWLcY6ZT68V”, “12.345678”,“0.0005”]
+```
+
+##### Returns
+
+String - `x` The external sources transaction identifier, e.g. transaction hash.
+
+> The above three Domain Interfaces are mandatory for all domains to be approved by the Kernel. They communicate through the Intel SGX trusted transport layer, and all encrypted private keys are securely duplicated in all Kernel Nodes and Domain Nodes.
+
+### Domain Extensions
+
+> With a transaction only purpose Mixin Kernel, and Mixin Domains as assets provider and gateway to external blockchains or any other sources, Mixin has become the most sophistic and high performance distributed ledger to almost all digital assets.
+>
+> However, people need smart contracts, which have been made popular by Ethereum. We allow Extensions to Mixin Domains, something similar to smart contract but with higher robustness, capability and performance.
+>
+> Domain Extensions are programs running in the Domain Virtual Machine secured by the Secure Enclave in Intel SGX, a popular and secure Trusted Execution Environment.
+>
+> Due to the possibility to run the “smart contract” in a single computation unit, Domain Extensions can achieve many goals which are almost impossible in something similar to Ethereum.
+>
+> 1. Much higher performance and lower latency which is only limited by the hardware.
+>
+> 2. Non-deterministic transactions, e.g. trustable random number.
+> 3. Interact directly with trusted external sources.
+>
+> Besides these trusted applications, it’s also possible to run other popular distributed VM, e.g. Ethereum or EOS.
