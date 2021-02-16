@@ -2,7 +2,7 @@
 
 [TOC]
 
-> 目前仅仅包括部分内容
+> 目前仅仅包括部分内容, 有翻译不准确或者错误的地方欢迎到 [这里提 Issue 指正](https://github.com/Kuri-su/KBlog)
 >
 > 英文原文来自: https://mixin.one/assets/Mixin-Draft-2018-07-01.pdf
 
@@ -410,3 +410,14 @@ String - `x` The external sources transaction identifier, e.g. transaction hash.
 > 3. Interact directly with trusted external sources.
 >
 > Besides these trusted applications, it’s also possible to run other popular distributed VM, e.g. Ethereum or EOS.
+
+// TODO
+
+## Attack Resistance
+
+## Governance
+
+## XIN - The Token
+
+## Conclusion
+
