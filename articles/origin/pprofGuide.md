@@ -127,6 +127,8 @@ $ go tool pprof --http=:7011 http://127.0.0.1:6060/debug/pprof/allocs
 Fetching profile over HTTP from http://127.0.0.1:6060/debug/pprof/allocs
 Saved profile in /home/kurisu/pprof/pprof.___go_build_main_go.alloc_objects.alloc_space.inuse_objects.inuse_space.007.pb.gz
 Serving web UI on http://localhost:7011
+# 或者 也可以对 data package 使用
+$ go tool pprof --http=:7011 /home/kurisu/pprof/pprof.___go_build_main_go.alloc_objects.alloc_space.inuse_objects.inuse_space.004.pb.gz  
 ```
 
 ![](/assets/pprof3memFlamegraph.png)
