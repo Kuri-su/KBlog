@@ -105,13 +105,123 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 3. Alice 使用 一次性密钥 $P$ 作为输出目的的密钥, 并且在交易报文的某个地方, 打包一个 $R$ ( $R=rG$ ) `(你可以把 R 看成是 r 的公钥)`, 用来作为 `Diffie-Hellman 交换` 的一部分. 请注意, Alice 可以使用 同样的 $R$ 来创建别的交易输出. 即便是相同的 $R$, 不同的接受者密钥 $(A_i,B_i)$ 也意味着不同的 $P_i$.   
 
 > 4. Alice sends the transaction.
-> 2. Bob checks every passing transaction with his private key (a, b), and computes P 0 = H s (aR)G + B. If Alice’s transaction for with Bob as the recipient was among them, then aR = arG = rA and P 0 = P .
-> 3. Bob can recover the corresponding one-time private key: x = H s (aR) + b, so as P = xG. He can spend this output at any time by signing a transaction with x.
+> 2. Bob checks every passing transaction with his private key $(a, b)$, and computes $P' = H_s(aR)G+B$. If Alice’s transaction for with Bob as the recipient was among them, then $aR = arG = rA$ and $P' = P$ .
+> 3. Bob can recover the corresponding one-time private key: $x = H_s (aR) + b$, so as $P = xG$. He can spend this output at any time by signing a transaction with $x$.
 > 
 >![image-20210222132514654](/home/kurisu/.config/Typora/typora-user-images/image-20210222132514654.png)
 
+4. Alice 发送了一笔交易 到一次性密钥
+5. Bob 用它的私钥 $(a,b)$ 检查每笔通过的交易, 并计算  $P' = H_s(aR)G+B$. 如果检查到 发送给 Bob 的 交易, 并且 $aR = arG = rA$ and $P' = P$ .
+6. Bob 可以使用他的用户私钥, 来恢复相应的一次性密钥 : $x = H_s (aR) + b$, 得到 $P=xG$ . 他可以在任何时候用 $x$ 签署一个 交易来花费这笔 UTXO.
+
 > As a result Bob gets incoming payments, associated with one-time public keys which are unlinkable for a spectator. Some additional notes:
+
+结果 Bob 得到了 这笔转入资金. 由于这个一次性公钥仅仅使用一次, 所以这个这笔交易对 旁观者来说是无法连接的, 无法推断出这笔交易的双方. 除了上面信息之外, 这里还有一些附加说明
+
+> * When Bob “recognizes” his transactions (see step 5) he practically uses only half of his private information: $(a, B)$. This pair, also known as the tracking key, can be passed to a third party (Carol). Bob can delegate her the processing of new transactions. Bob doesn’t need to explicitly trust Carol, because she can’t recover the one-time secret key $p$ without Bob’s full private key $(a, b)$. This approach is useful when Bob lacks bandwidth or computation power (smartphones, hardware wallets etc.).
+>* In case Alice wants to prove she sent a transaction to Bob’s address she can either disclose $r$ or use any kind of zero-knowledge protocol to prove she knows $r$ (for example by signing the transaction with $r$).
+> * If Bob wants to have an audit compatible address where all incoming transaction are linkable, he can either publish his tracking key or use a truncated address. That address represent only one public ec-key $B$, and the remaining part required by the protocol is derived from it as follows: $a=H_s(B)$ and $A=H_s(B)G$. In both cases every person is able to “recognize” all of Bob’s incoming transaction, but, of course, none can spend the funds enclosed within them without the secret key b.
+
+* 当 Bob "识别" 他的交易的时候(见上述 `第五步` $P' = H_s(aR)G+B$), 这里Bob 只用了 a 的私钥和 b的公钥 ($a,B$), $(a,B)$ 通常称为 `跟踪密钥`, 可以传递给第三方(例如 Carol). Bob 可以将新的交易委托给 Carol. Bob 不需要明确的信任 Carol, 因为如果没有 Bob 的完整密钥 $(a,b)$, 那么 Carol 就无法恢复一次性密钥 $P$, 当 Bob 缺乏 带宽 或者 计算能力 的时候(智能手机, 硬件钱包等), 这种方法很有用.
+* 如果 Alice 想证明 她向 Bob 的地址发送了一笔交易, Alice 可以公开 $r$, 或者使用任何一种零知识证明协议来证明 Alice 知道 $r$ (例如用 $r$ 签署交易)
+* 如果 Bob 想拥有一个 可以被审计的地址, 所有的 传入交易都是可以链接的. 那么他可以发布 他的 跟踪密钥 $(a,B)$ ,或者 一个截断的地址 B, 协议所需的其他部分由 B 派生,  $a=H_s(B)$ and $A=H_s(B)G$. 但是, 由于没有密钥 b, 所以谁也不能花掉其中的资金.
+
+### 4.4 One-time ring signatures (一次性环签名)
+
+> A protocol based on one-time ring signatures allows users to achieve unconditional unlinkability.
+> Unfortunately, ordinary types of cryptographic signatures permit to trace transactions to their
+> respective senders and receivers. Our solution to this deficiency lies in using a different signature
+> type than those currently used in electronic cash systems.
+> We will first provide a general description of our algorithm with no explicit reference to
+> electronic cash.
+> A one-time ring signature contains four algorithms: (GEN, SIG, VER, LNK):
 >
-> * When Bob “recognizes” his transactions (see step 5) he practically uses only half of his private information: (a, B). This pair, also known as the tracking key, can be passed to a third party (Carol). Bob can delegate her the processing of new transactions. Bob doesn’t need to explicitly trust Carol, because she can’t recover the one-time secret key p without Bob’s full private key (a, b). This approach is useful when Bob lacks bandwidth or computation power (smartphones, hardware wallets etc.).
-> * In case Alice wants to prove she sent a transaction to Bob’s address she can either disclose r or use any kind of zero-knowledge protocol to prove she knows r (for example by signing the transaction with r).
-> * If Bob wants to have an audit compatible address where all incoming transaction are linkable, he can either publish his tracking key or use a truncated address. That address represent only one public ec-key B, and the remaining part required by the protocol is derived from it as follows: a = H s (B) and A = H s (B)G. In both cases every person is able to “recognize” all of Bob’s incoming transaction, but, of course, none can spend the funds enclosed within them without the secret key b.
+> * GEN: takes public parameters and outputs an ec-pair (P, x) and a public key I.
+> * SIG: takes a message m, a set S 0 of public keys {P i } i6 = s , a pair (P s , x s ) and outputs a signature σ
+>   and a set S = S 0 ∪ {P s }.
+>
+> * VER: takes a message m, a set S, a signature σ and outputs “true” or “false”.
+> * LNK: takes a set I = {I i }, a signature σ and outputs “linked” or “indep”.
+
+> The idea behind the protocol is fairly simple: a user produces a signature which can be
+> checked by a set of public keys rather than a unique public key. The identity of the signer is
+> indistinguishable from the other users whose public keys are in the set until the owner produces
+> a second signature using the same keypair.
+>
+> ![image-20210224134609552](/home/kurisu/.config/Typora/typora-user-images/image-20210224134609552.png)
+>
+> * GEN: The signer picks a random secret key x ∈ [1, l − 1] and computes the corresponding
+>   public key P = xG. Additionally he computes another public key I = xH p (P ) which we will
+>   call the “key image”.
+> * SIG: The signer generates a one-time ring signature with a non-interactive zero-knowledge
+>   proof using the techniques from [21]. He selects a random subset S 0 of n from the other users’
+>   public keys P i , his own keypair (x, P ) and key image I. Let 0 ≤ s ≤ n be signer’s secret index
+>   in S (so that his public key is P s ).
+
+> He picks a random {q i | i = 0 . . . n} and {w i | i = 0 . . . n, i 6 = s} from (1 . . . l) and applies the
+> following transformations:
+> $$
+> L_i=\begin{cases}
+> q_iG & \text{if } i = s; \\
+> q_iG + w_iP_i, & \text{if } i \neq s \\
+> \end{cases}
+> \\
+> R_i=\begin{cases}
+> q_iH_p(P_i), & \text{if } i =s \\
+> q_iH_p(P_i) + w_iI, & \text{if } i \neq s\\ 
+> \end{cases}
+> $$
+>
+> The next step is getting the non-interactive challenge:
+> $$
+> c = H_s (m, L _1 , . . . , L_n , R_1 , . . . , R_n )
+> $$
+
+$$
+\sum_{i=1}^{n} \qquad
+\int_{0}^{\frac{\pi}{2}} \qquad
+\prod_\epsilon
+$$
+
+
+
+> Finally the signer computes the response:
+> $$
+> c_i=\begin{cases}
+> w_i && \text{if } i \neq s; \\
+> c - \sum_{i=0}^n c_i & mod \space l, & \text{if } i = s \\
+> \end{cases}
+> \\
+> r_i=\begin{cases}
+> q_i && \text{if } i \neq s; \\
+> q_s - c_sx & mod \space l, & \text{if } i = s \\
+> \end{cases}
+> $$
+> 
+>
+> The resulting signature is$ σ = (I, c_1 , . . . , c_n , r_1 , . . . , r_n )$.
+>
+> VER: The verifier checks the signature by applying the inverse transformations:
+> $$
+> \begin{cases}
+> L_i^\prime = r_iG + c_iP_i \\
+> R_i^\prime = r_iH_p(P_i)+c_iI
+> \end{cases}
+> $$
+> 
+>
+> 
+> Finally, the verifier checks ifnP?c i = H s (m, L 0 0 , . . . , L 0 n , R 0 0 , . . . , R n 0 ) mod l
+> If this equality is correct, the verifier runs the algorithm LNK. Otherwise the verifier rejects
+> the signature.
+> LNK: The verifier checks if I has been used in past signatures (these values are stored in the
+> set I). Multiple uses imply that two signatures were produced under the same secret key.
+> The meaning of the protocol: by applying L-transformations the signer proves that he knows
+> such x that at least one P i = xG. To make this proof non-repeatable we introduce the key image
+> as I = xH p (P ). The signer uses the same coefficients (r i , c i ) to prove almost the same statement:
+> he knows such x that at least one H p (P i ) = I · x −1 .
+> If the mapping x → I is an injection:
+>
+> 1. Nobody can recover the public key from the key image and identify the signer;
+> 2. The signer cannot make two signatures with different I’s and the same x.
+> A full security analysis is provided in Appendix A.
