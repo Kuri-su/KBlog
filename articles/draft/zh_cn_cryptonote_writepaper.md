@@ -177,12 +177,6 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 > c = H_s (m, L _1 , . . . , L_n , R_1 , . . . , R_n )
 > $$
 
-$$
-\sum_{i=1}^{n} \qquad
-\int_{0}^{\frac{\pi}{2}} \qquad
-\prod_\epsilon
-$$
-
 
 
 > Finally the signer computes the response:
