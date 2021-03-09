@@ -153,23 +153,20 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 * VER: 接受 `一个信息 m`, `一组 S` , `一个签名 σ` , 输出 "True" 或者 "False"
 * LNK: 接受一对 $I$=$\{I_i\}$, 一个 签名 σ, 然后输出 “linked” or “indep”
 
-> The idea behind the protocol is fairly simple: a user produces a signature which can be
-> checked by a set of public keys rather than a unique public key. The identity of the signer is
-> indistinguishable from the other users whose public keys are in the set until the owner produces
-> a second signature using the same keypair.
+> The idea behind the protocol is fairly simple: a user produces a signature which can be checked by a set of public keys rather than a unique public key. The identity of the signer is indistinguishable from the other users whose public keys are in the set until the owner produces a second signature using the same keypair.
 >
 > ![image-20210224134609552](/assets/cryptonote_fig_6.png)
 >
-> * GEN: The signer picks a random secret key x ∈ [1, l − 1] and computes the corresponding
->   public key P = xG. Additionally he computes another public key I = xH p (P ) which we will
->   call the “key image”.
-> * SIG: The signer generates a one-time ring signature with a non-interactive zero-knowledge
->   proof using the techniques from [21]. He selects a random subset S 0 of n from the other users’
->   public keys P i , his own keypair (x, P ) and key image I. Let 0 ≤ s ≤ n be signer’s secret index
->   in S (so that his public key is P s ).
 
-> He picks a random {q i | i = 0 . . . n} and {w i | i = 0 . . . n, i 6 = s} from (1 . . . l) and applies the
-> following transformations:
+这个协议背后的想法很简单, 用户产生一个签名，可以通过一组公共密钥而不是唯一的公共密钥来检查该签名. 签字人的身份与公钥就在这一组公钥中, 其他用户无法区分. 但如果 签名者使用相同的公钥来进行第二个签名的话, 那么就可以找到签名者身份和所使用的密钥.
+
+> * GEN: The signer picks a random secret key $ x ∈ [1, l − 1] $and computes the corresponding public key $P = xG$. Additionally he computes another public key $I = xH_p (P )$ which we will call the “key image”.
+> * SIG: The signer generates a one-time ring signature with a non-interactive zero-knowledge proof using the techniques from $[21]$. He selects a random subset $S'$ of $n$ from the other users’ public keys $P_i$ , his own keypair $(x, P)$ and key image $I$. Let $0 ≤ s ≤ n $ be signer’s secret index in $S$ (so that his public key is $P_s$ ).
+
+* Gen: 签名者选择一个随机私钥  $ x ∈ [1, l − 1] $ 并计算相应的公钥 $P=xG$. 此外, 他还计算了另一个公钥 $I = xH_p (P )$, 我们将这个密钥称为 `Key Image`
+* SIG: 签名者生成 无交互 零知识证明的 一次性环形签名. 他从 其他用户用户的公钥集合 $P_i$ 以及他自己的密钥对 $(x,P)$ 和 `Key Image` 中, 选择 $n$ 个随机子集 $S'$,  并让 他子集的公钥包含在这些子集中. (他自己的公钥是 $P_s$, s 是在子集中的次序 )
+
+> He picks a random $\{q_i | i = 0 . . . n\} $ and $\{w_i | i = 0 . . . n, i \neq s\}$ from $(1 . . . l)$ and applies the  following transformations:
 > $$
 > L_i=\begin{cases}
 > q_iG & \text{if } i = s; \\
@@ -186,10 +183,9 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 > $$
 > c = H_s (m, L _1 , . . . , L_n , R_1 , . . . , R_n )
 > $$
-
-
-
+>
 > Finally the signer computes the response:
+>
 > $$
 > c_i=\begin{cases}
 > w_i && \text{if } i \neq s; \\
@@ -201,9 +197,8 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 > q_s - c_sx & mod \space l, & \text{if } i = s \\
 > \end{cases}
 > $$
-> 
 >
-> The resulting signature is$ σ = (I, c_1 , . . . , c_n , r_1 , . . . , r_n )$.gotjib
+> The resulting signature is $ σ = (I, c_1 , . . . , c_n , r_1 , . . . , r_n )$.
 >
 > VER: The verifier checks the signature by applying the inverse transformations:
 > $$
@@ -212,29 +207,94 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 > R_i^\prime = r_iH_p(P_i)+c_iI
 > \end{cases}
 > $$
-> 
 >
-> 
-> Finally, the verifier checks ifnP?c i = H s (m, L 0 0 , . . . , L 0 n , R 0 0 , . . . , R n 0 ) mod l
-> If this equality is correct, the verifier runs the algorithm LNK. Otherwise the verifier rejects
-> the signature.
-> LNK: The verifier checks if I has been used in past signatures (these values are stored in the
-> set I). Multiple uses imply that two signatures were produced under the same secret key.
-> The meaning of the protocol: by applying L-transformations the signer proves that he knows
-> such x that at least one P i = xG. To make this proof non-repeatable we introduce the key image
-> as I = xH p (P ). The signer uses the same coefficients (r i , c i ) to prove almost the same statement:
-> he knows such x that at least one H p (P i ) = I · x −1 .
-> If the mapping x → I is an injection:
+> Finally, the verifier checks if
+> $$
+> \sum_{i=1}^{n} c_i \overset{?}{=} H_s(m,L_0^\prime.....,L_n^\prime,R_0^\prime.....R_n^\prime) \ mod \ \ l
+> $$
+> If this equality is correct, the verifier runs the algorithm LNK. Otherwise the verifier rejects the signature.
+> LNK: The verifier checks if I has been used in past signatures (these values are stored in the set L ). Multiple uses imply that two signatures were produced under the same secret key.
+> The meaning of the protocol: by applying L-transformations the signer proves that he knows such x that at least one $P_i = xG$. To make this proof non-repeatable we introduce the key image as $I = xH_p (P )$. The signer uses the same coefficients $(r_i , c_i )$ to prove almost the same statement: he knows such x that at least one $H_p (P_i ) = I · x^−1$ .
+> If the mapping $x → I$ is an injection:
 >
 > 1. Nobody can recover the public key from the key image and identify the signer;
-> 2. The signer cannot make two signatures with different I’s and the same x.
+> 2. The signer cannot make two signatures with different I’s and the same $x$.
+>
 > A full security analysis is provided in Appendix A.
+
+他选择了 一个随机的 $q_i$, 这个 i 大于0 小于 n, 以及一个 $w_i$, 这个 i 也大于 0 小于 n , 同时不等于 s.并且 应用如下转换
+$$
+L_i=\begin{cases}
+ q_iG & \text{if } i = s; \\
+ q_iG + w_iP_i, & \text{if } i \neq s \\
+ \end{cases}
+ \\
+ R_i=\begin{cases}
+ q_iH_p(P_i), & \text{if } i =s \\
+ q_iH_p(P_i) + w_iI, & \text{if } i \neq s\\ 
+ \end{cases}
+$$
+
+下一步是应对非交互的挑战: 
+$$
+c = H_s (m, L _1 , . . . , L_n , R_1 , . . . , R_n )
+$$
+最后, signer 完成如下 response: 
+$$
+c_i=\begin{cases}
+w_i && \text{if } i \neq s; \\
+c - \sum_{i=0}^n c_i & mod \space l, & \text{if } i = s \\
+\end{cases}
+\\
+r_i=\begin{cases}
+q_i && \text{if } i \neq s; \\
+q_s - c_sx & mod \space l, & \text{if } i = s \\
+\end{cases}
+$$
+生成的签名是 $ σ = (I, c_1 , . . . , c_n , r_1 , . . . , r_n )$.
+
+VER: 验证者通过应用逆变换来检查签名: 
+$$
+\begin{cases}
+L_i^\prime = r_iG + c_iP_i \\
+R_i^\prime = r_iH_p(P_i)+c_iI
+\end{cases}
+$$
+最后, 验证者检查 
+$$
+\sum_{i=1}^{n} c_i \overset{?}{=} H_s(m,L_0^\prime.....,L_n^\prime,R_0^\prime.....R_n^\prime) \ mod \ \ l
+$$
+如果此等式正确, 那么验证程序将运行算法 LNK. 否则, 验证者将拒绝签名.
+
+LNK: 验证者 检查是否在过去的签名中使用过 $I$ (这些值存储在 $L$ 中).多次使用意味者两个签名是在同一个 私钥下产生的.
+
+协议的含义: 通过应用 L 变换, 签名者证明他知道 $x$, 至少有一个 $P_i = xG$. 为了使该证明不可重复, 我们将 key image 引入为 $I = xH_p (P )$. 签名人 使用相同的系数 $(r_i , c_i )$, 证明 来证明, 他知道 x 至少有一个 $H_p (P_i ) = I · x^−1$ .
+
+如果 $x → I$ 这个映射是注入: 
+
+1. 没有人可以从 key image 中恢复 公钥 并 识别签名者
+2. 签名人不能使用不同的 $I$ 和相同的 $ x $ 进行两个签名。
+
+在附录A 中提供了完整的安全性分析.
 
 ### 4.5 Standard CryptoNote transaction (标准 CryptoNote 转账)
 
 > By combining both methods (unlinkable public keys and untraceable ring signature) Bob achieves new level of privacy in comparison with the original Bitcoin scheme. It requires him to store only one private key (a, b) and publish (A, B) to start receiving and sending anonymous transactions.
-> While validating each transaction Bob additionally performs only two elliptic curve multi-plications and one addition per output to check if a transaction belongs to him. For his every output Bob recovers a one-time keypair (p i , P i ) and stores it in his wallet. Any inputs can be circumstantially proved to have the same owner only if they appear in a single transaction. In fact this relationship is much harder to establish due to the one-time ring signature.
-> With a ring signature Bob can effectively hide every input among somebody else’s; all possible spenders will be equiprobable, even the previous owner (Alice) has no more information than any observer.
-> When signing his transaction Bob specifies n foreign outputs with the same amount as his output, mixing all of them without the participation of other users. Bob himself (as well as anybody else) does not know if any of these payments have been spent: an output can be used in thousands of signatures as an ambiguity factor and never as a target of hiding. The double spend check occurs in the LNK phase when checking against the used key images set.
-> Bob can choose the ambiguity degree on his own: n = 1 means that the probability he has spent the output is 50% probability, n = 99 gives 1%. The size of the resulting signature increases linearly as O(n + 1), so the improved anonymity costs to Bob extra transaction fees. He also can set n = 0 and make his ring signature to consist of only one element, however this will instantly reveal him as a spender.
 
+通过结合两种方法 (不可关联的 公钥 和 不可追踪的 环签名), 与原始的 Bitcoin 方案相比, Bob 实现了更高的隐私级别. 这个方案要求 Bob 仅仅存储一对私钥 (a,b) 并发布一对公钥(A,B), 以开始接受和发布匿名交易.
+
+> While validating each transaction Bob additionally performs only two elliptic curve multi-plications and one addition per output to check if a transaction belongs to him. For his every output Bob recovers a one-time keypair $(p_i , P_i )$ and stores it in his wallet. Any inputs can be circumstantially proved to have the same owner only if they appear in a single transaction. In fact this relationship is much harder to establish due to the one-time ring signature.
+
+在验证每笔交易的同时, Bob 还执行两次 椭圆曲线乘法 和 每项输出一次 加法, 用以检查某笔交易是否属于他. 对于 他的每个输出, Bob 恢复一次性密钥对 $(p_i , P_i )$ 并将其存储在他的钱包中. 仅当 Output 出现在单个事务中时, 才能明确证明任何输入都具有相同的所有者. 实际上，由于一次性的环签名，这种关系很难建立。
+
+> With a ring signature Bob can effectively hide every input among somebody else’s; all possible spenders will be equiprobable, even the previous owner (Alice) has no more information than any observer.
+
+有了环签名，Bob 可以有效地将他的每一个交易隐藏在无数的交易当中 .所有人对于 Bob 是否发起了这笔交易都是一无所知,甚至之前的所有者（Alice）的信息也不比任何观察者多.
+
+> When signing his transaction Bob specifies n foreign outputs with the same amount as his output, mixing all of them without the participation of other users. Bob himself (as well as anybody else) does not know if any of these payments have been spent: an output can be used in thousands of signatures as an ambiguity factor and never as a target of hiding. The double spend check occurs in the LNK phase when checking against the used key images set.
+
+在签署交易时, Bob 指定了 n 个与输出相同的无关输出, 在没有任何其他用户参与的情况下, 混合了这些输出. Bob 本人(以及其他任何人) 都不知道这些  UTXO 是否已经用尽. 输出结果可以可以用于成千上万的签名. 对于已经使用的 Key Image 进行检查时, 双花检查将会在 LNK 阶段进行. 
+
+> Bob can choose the ambiguity degree on his own: n = 1 means that the probability he has spent the output is 50% probability, n = 99 gives 1%. The size of the resulting signature increases linearly as $O(n + 1)$, so the improved anonymity costs to Bob extra transaction fees. He also can set n = 0 and make his ring signature to consist of only one element, however this will instantly reveal him as a spender.
+
+Bob 可以子集选择歧义读, 如果 n=1, 那么表示 他花费 Output 的概率是 50%, n=99 表示 1%. 生成签名的大小随着 $O(n+1)$ 线性增加, 因此匿名性的提升时 Bob 付出了额外的交易费用. 他还可以设置 n=0 并使他的 环签名仅仅包含一个元素, 但是这将立刻显示出他是一个消费者.
