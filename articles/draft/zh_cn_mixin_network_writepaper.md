@@ -321,7 +321,7 @@ Object - `方法名和参数` The function name and parameters.
 1. method: String - `函数名` The function name, one of the predefined derivation function names in Kernel.
 2. params: Array -  `参数调用这个方法需要传入的参数`. The parameters should be used relative to the method.
 
-#### domain_associatePublicKey
+#### domain_associatePublicKey(关联 Public Key)
 
 > Associate a Mixin public key to the domain for an asset supported by the domain. The public key and domain asset association is the magic that will associate an external asset to the Mixin Kernel.
 >
@@ -363,26 +363,28 @@ params:
 
 String - `与Mixin公钥关联的资产特定公钥.` The asset specific public key associated with the Mixin public key.
 
-#### domain_unlockAsset
+#### domain_unlockAsset (解锁资产)
 
 > Unlock the asset and transfer out to external sources, this is similar to the withdrawal action on a crypto asset exchange.
 >
 > The operation to unlock is somewhat similar to the associate function, it must be signed by both the Mixin Kernel and Mixin Domain to make it a valid snapshot acceptable by the network.
->
-> // TODO
+
+解锁 和 转出 外部资产, 这类似于 在交易所的提币操作.
+
+解锁(unlockAsset)操作和上面的关联(associatePublicKey)操作有些类似, 必须由 Mixin 内核 和 Mixin Domain 签名, 以使其成为一个 网络上的一个 Snapshot.
 
 ##### Overview
 
 ```go
-
+func domain_unlockAsset(assetUuid UUID, specificPublicKey string,amount string,fee string) (identifier string)
 ```
 
 ##### Parameters
 
 1. Uuid - `资产 UUID` Unique asset ID within the whole Mixin Network.
-2. String - 
-3. String - 
-4. String - 
+2. String - `外部资产专用公钥` External asset specific public key.
+3. String - `解锁的资产金额`The amount of asset to unlock.
+4. String - `转账费率`The fee for external source transaction.
 
 ```json
 params: [“c6d0c728-2624-429b-8e0d-d9d19b6592fa”,“15SdoFCiwaoUN4grnhPCoDWxWLcY6ZT68V”, “12.345678”,“0.0005”]
@@ -390,9 +392,11 @@ params: [“c6d0c728-2624-429b-8e0d-d9d19b6592fa”,“15SdoFCiwaoUN4grnhPCoDWxW
 
 ##### Returns
 
-String - `x` The external sources transaction identifier, e.g. transaction hash.
+String - `外部来源交易标识符, 例如 Transaction hash` The external sources transaction identifier, e.g. transaction hash.
 
 > The above three Domain Interfaces are mandatory for all domains to be approved by the Kernel. They communicate through the Intel SGX trusted transport layer, and all encrypted private keys are securely duplicated in all Kernel Nodes and Domain Nodes.
+
+每一个加入 Mixin Network 的 Domain 都需要实现以上三个方法. 他们通过 Intel SGX 来进行受信任的通信, 并且所有私钥都在加密后保存在 Mixin Kernel 节点 和 Domain 节点上.
 
 ### Domain Extensions
 
@@ -401,23 +405,43 @@ String - `x` The external sources transaction identifier, e.g. transaction hash.
 > However, people need smart contracts, which have been made popular by Ethereum. We allow Extensions to Mixin Domains, something similar to smart contract but with higher robustness, capability and performance.
 >
 > Domain Extensions are programs running in the Domain Virtual Machine secured by the Secure Enclave in Intel SGX, a popular and secure Trusted Execution Environment.
->
+
+通过仅仅将 Mixin Kernel 作为交易目的, 以及 将 Mixin Domains 作为资产提供者和 外部资产网关. Mixin 成为了几乎所有数字资产的分布式账本, 这个账本复杂而又高性能.
+
+但是, 人们需要智能合约, Ethereum 上的智能合约已经开始流行. 我们通过  Mixin Domains Extensions, 来实现类似智能合约的功能. 但这具有更高的鲁棒性, 可塑性 和 性能.
+
+Domain Extensions 是在 Domain 虚拟机中运行的程序, 这个 Domain 虚拟机受 Intel SGX 中的 Secure Enclave 保护
+
 > Due to the possibility to run the “smart contract” in a single computation unit, Domain Extensions can achieve many goals which are almost impossible in something similar to Ethereum.
 >
 > 1. Much higher performance and lower latency which is only limited by the hardware.
 >
 > 2. Non-deterministic transactions, e.g. trustable random number.
-> 3. Interact directly with trusted external sources.
->
-> Besides these trusted applications, it’s also possible to run other popular distributed VM, e.g. Ethereum or EOS.
+>3. Interact directly with trusted external sources.
+> 
+>Besides these trusted applications, it’s also possible to run other popular distributed VM, e.g. Ethereum or EOS.
 
-// TODO
+由于可以在单个计算单元中运行 "智能合约", 因此 Domain Extensions 可以实现许多功能, 而这在类似于 Ethereum 的应用中几乎是不可能的.
+
+1. 更高的性能和更低的延迟,仅受硬件限制.
+2. 非确定性交易, 例如可信任的随机数(`译者注: Ethereum 网络由于公开运行, 随机数比较容易受到攻击`)
+3. 直接与受信任的外部资产进行交互.
+
+除了这些受信任的应用程序之外，还可以运行其他流行的分布式虚拟机，例如 Ethereum 或 EOS
 
 ## Attack Resistance
 
+暂不翻译
+
 ## Governance
+
+暂不翻译
 
 ## XIN - The Token
 
+暂不翻译
+
 ## Conclusion
+
+暂不翻译
 
