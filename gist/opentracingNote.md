@@ -13,7 +13,7 @@ Trace 代表一次 `完整的分布式请求` 所经过的路径. 其中 每一�
 
 ![210322-opentracing (1)](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/opentracing-1.png)
 
-分布式追踪中的每一段都是一个 span, 而 span 之间有从属关系, 一个 span 可以有多个 `子 span`, 也允许一个 `子 span` 有多个 `父 span`. 下面举个例子帮助理解: 
+分布式追踪中的每一段都是一个 span, 而 span 之间有从属关系, 一个 span 可以有多个 `子 span`, 也允许一个 `子 span` 有多个 `父 span`. 下面举个例子帮助理解: 
 
 ![210322-opentracing-Page-2](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/opentracing-2.png)
 
@@ -88,24 +88,24 @@ SpanContexts 可以通过 Injected 操作向 Carrier 注入, 或者 通过 Extra
 
 ### Span Interface
 
-* `Get the span SpanContext` , 获取 Span 的 Context, 通过 span 获取 SpanContext,
+* `Get the span SpanContext` , 获取 Span 的 Context, 通过 span 获取 SpanContext,
 * `Finish` , 完成已经开始的 `Span`. 除了获取 SpanContext 之外, Finish 方法必须是 Span 实例最后的一个被调用的方法. 
-* `Set a key:value tag on the Span` , 为 span 设置 Tag, tag 的 key 必须是 `String ` 类型, 
-* `Add a new log event` 为 span 添加一个 log 事件. 事件名称是 string 类型, 参数值 可以是任何类型 .
-* `Set a Baggage item` 设置一个 `string:string` 的键值对. 
-* `Get a Baggage item` 通过 key 获取 Baggage 中的元素.
+* `Set a key:value tag on the Span` , 为 span 设置 Tag, tag 的 key 必须是 `String ` 类型, 
+* `Add a new log event` 为 span 添加一个 log 事件. 事件名称是 string 类型, 参数值 可以是任何类型 .
+* `Set a Baggage item` 设置一个 `string:string` 的键值对. 
+* `Get a Baggage item` 通过 key 获取 Baggage 中的元素.
 
 ### SpanContext Interface
 
 用户可以通过 Span 实例或者 Tracer 的 Extract 能力提取 SpanContext 接口实例
 
-* `Iterate over all Baggage items` 遍历所有的 Baggage 内容
+* `Iterate over all Baggage items` 遍历所有的 Baggage 内容
 
 ### Tracer Interface
 
-* `Start a new span` , 创建一个新的 Span , 调用者可以指定一个或者多个 SpanContext 关系, 声明一个开始的时间戳, 并设置 Span 的 Tags
-* `Inject a SpanContext` , 将 SpanContext 注入 SpanContext, 
-* `Extract a SpanContext` , 提取 SpanContext 信息.
+* `Start a new span` , 创建一个新的 Span , 调用者可以指定一个或者多个 SpanContext 关系, 声明一个开始的时间戳, 并设置 Span 的 Tags
+* `Inject a SpanContext` , 将 SpanContext 注入 SpanContext, 
+* `Extract a SpanContext` , 提取 SpanContext 信息.
 
 ### Global && No-op Tracer
 
