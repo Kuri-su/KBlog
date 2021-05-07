@@ -76,7 +76,7 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 
 在经典的 Bitcoin 网络中, 收款地址一旦公布, 那么就会成为一个明确的标识, 会将这个收款地址和使用者联系起来, 并且计算出通过这个收款地址 转入和转出的资产列表. 如果有人想接受匿名的交易, 那么他应该通过私人渠道将 自己的地址 告诉发件人. 如果他想接受 无法被证明属于同一个所有者的多个交易, 那么他需要生成不同的 Bitcoin 收款地址, 或者永远不要公布这个私人收款地址, 以防止 被和这个私人收款地址关联起来.
 
-![image-20210222131308546](/assets/cryptonote_fig_2.png)
+![image-20210222131308546](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/cryptonote/cryptonote_fig_2.png)
 
 > We propose a solution allowing a user to publish a single address and receive unconditional unlinkable payments. The destination of each CryptoNote output (by default) is a public key, derived from recipient’s address and sender’s random data. The main advantage against Bitcoin is that every destination key is unique by default (unless the sender uses the same data for each of his transactions to the same recipient). Hence, there is no such issue as “address reuse” by design and no observer can determine if any transactions were sent to a specific address or link two addresses together.
 
@@ -84,7 +84,7 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 
 每个 CryptoNote 的输出的 默认收款地址是一个 公共的密钥. 从真正的收款人的地址 和 发件人的随机数据 中计算得到. 这个方案对于 Bitcoin 的优势在于, 每个 `公共密钥` 也就是 `一次性密钥` 的   的地址都是唯一的 (除非 发送者 对同一个 收款人的每笔交易都使用相同的数据). 因此, 在设计上就不存在 "地址重用" 这个问题. 任何的观察者都无法确定 , 是否有任何交易被发送到特定的地址, 或者 将两个交易联系在一起.
 
-![image-20210222132309803](/assets/cryptonote_fig_3.png)
+![image-20210222132309803](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/cryptonote/cryptonote_fig_3.png)
 
 > First, the sender performs a Diffie-Hellman exchange to get a shared secret from his data and half of the recipient’s address. Then he computes a one-time destination key, using the shared secret and the second half of the address. Two different ec-keys are required from the recipient for these two steps, so a standard CryptoNote address is nearly twice as large as a Bitcoin wallet address. The receiver also performs a Diffie-Hellman exchange to recover the corresponding secret key.
 
@@ -98,7 +98,7 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 > 2. Alice generates a random $r \in [1, l−1]$ and computes a one-time public key $P=H_s(rA)G+B$.
 > 3. Alice uses $P$ as a destination key for the output and also packs value $R = rG$ (as a part of the Diffie-Hellman exchange) somewhere into the transaction. Note that she can create other outputs with unique public keys: different recipients’ keys ($A_i , B_i $) imply different $P_i$ even with the same $r$.
 > 
->![image-20210222132432539](/assets/cryptonote_fig_4.png)
+>![image-20210222132432539](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/cryptonote/cryptonote_fig_4.png)
 
 1. Alice 想要给 Bob 发一笔钱, Bob 已经公布了自己的 标准地址(`基于 Bob 的 (A,B) 的人类友好的表示形式)` , Alice 解开地址, 得到了 Bob 的公钥对 (A,B).
 2. Alice 生成了一个随机的 $r$ ( $r \in [1, l−1]$ )`(你可以把 r 看成一个基于 椭圆曲线 生成的私钥)` , 并且计算了一个一次性密钥 $P$ ($P=H_s(rA)G+B$ ) 
@@ -108,7 +108,7 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 > 2. Bob checks every passing transaction with his private key $(a, b)$, and computes $P' = H_s(aR)G+B$. If Alice’s transaction for with Bob as the recipient was among them, then $aR = arG = rA$ and $P' = P$ .
 > 3. Bob can recover the corresponding one-time private key: $x = H_s (aR) + b$, so as $P = xG$. He can spend this output at any time by signing a transaction with $x$.
 > 
->![image-20210222132514654](/assets/cryptonote_fig_5.png)
+>![image-20210222132514654](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/cryptonote/cryptonote_fig_5.png)
 
 4. Alice 发送了一笔交易 到一次性密钥
 5. Bob 用它的私钥 $(a,b)$ 检查每笔通过的交易, 并计算  $P' = H_s(aR)G+B$. 如果检查到 发送给 Bob 的 交易, 并且 $aR = arG = rA$ and $P' = P$ .
@@ -155,8 +155,7 @@ Bitcoin 的模型中, 用户拥有唯一的私钥和公钥, 而在当前模式�
 
 > The idea behind the protocol is fairly simple: a user produces a signature which can be checked by a set of public keys rather than a unique public key. The identity of the signer is indistinguishable from the other users whose public keys are in the set until the owner produces a second signature using the same keypair.
 >
-> ![image-20210224134609552](/assets/cryptonote_fig_6.png)
->
+> ![image-20210224134609552](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/cryptonote/cryptonote_fig_6.png)
 
 这个协议背后的想法很简单, 用户产生一个签名，可以通过一组公共密钥而不是唯一的公共密钥来检查该签名. 签字人的身份与公钥就在这一组公钥中, 其他用户无法区分. 但如果 签名者使用相同的公钥来进行第二个签名的话, 那么就可以找到签名者身份和所使用的密钥.
 
