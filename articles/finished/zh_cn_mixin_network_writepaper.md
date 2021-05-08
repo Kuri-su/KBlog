@@ -16,7 +16,7 @@ Mixin 由 以下三部分组成, 共同构成一个 `扩散型的 星型拓扑`
 * 许多的可拔插的 Domain(域)
 * 不同的用途的 Domain Extension (域扩展) 
 
-![image-20210215220044155](/home/kurisu/.config/Typora/typora-user-images/image-20210215220044155.png)
+![image-20210215220044155](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/mixinWhiteBook/image-20210215220044155.png)
 
 > This topology may lead the concern that Mixin is a centrally controlled network, but that's not the case because of how the Kernel itself works
 
@@ -76,9 +76,9 @@ Mixin Kernel 使用 Bitcoin 的 UTXO 模型来处理交易, 由于不存在 `转
 
 > 以下两幅图来自 CryptoNote 白皮书, 交易过程细节的中文翻译可以参考[此处](// TODO)
 
-![image-20210215230558393](/home/kurisu/.config/Typora/typora-user-images/image-20210215230558393.png)
+![image-20210215230558393](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/mixinWhiteBook/image-20210215230558393.png?raw=true)
 
-![image-20210216103251758](/home/kurisu/.config/Typora/typora-user-images/image-20210216103251758.png)
+![image-20210216103251758](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/mixinWhiteBook/image-20210216103251758.png)
 
 > Note that, to improve privacy, Alice is forced to pick random UTXOs as the transaction inputs. After the transaction is signed, Alice sends it to the Mixin Kernel.
 >
