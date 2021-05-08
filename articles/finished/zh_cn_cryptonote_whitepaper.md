@@ -1,4 +1,4 @@
-# [zh-CN] Cryptonote writepaper  
+# [zh-CN] Cryptonote whitepaper  
 
 [TOC]
 
@@ -38,7 +38,7 @@
 > 
 > **private user key** is a pair (a,b) of two different private ec-keys;
 > 
-> **tracking key** is a pair (a,B) of private and public ec-key ( where $B=bG $ and $a  b$ // TODO)
+> **tracking key** is a pair (a,B) of private and public ec-key ( where $B=bG $ and $a  b$ )
 > 
 > **public user key** is a pair (A,B) of two public ec-keys derived from (a,b);
 > 
