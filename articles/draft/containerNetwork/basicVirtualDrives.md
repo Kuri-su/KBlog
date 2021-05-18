@@ -161,17 +161,19 @@ type CNI interface {
 
 下面会具体介绍什么是 VethPair, 什么是 Linux Bridge
 
-### VethPair
+### Veth Pair
 
-### linux bridge
+Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 就是 虚拟网卡对, 用来连接两个 网络设备, 基于这个特性, 可以用于连接 network namespace , 
 
-## 协议
 
-### DNS 协议
 
-### NAT 协议
+### TUN/TAP
 
-### BGP 协议
+
+
+### Linux bridge
+
+
 
 ## Linux 相关
 
@@ -179,7 +181,7 @@ type CNI interface {
 
 ### VLAN(VXLAN)
 
-### TUN/TAP
+// TODO first
 
 ### IPIP(隧道网络)
 
@@ -188,6 +190,14 @@ type CNI interface {
 ### IPvlan
 
 ### IPVS
+
+## 协议
+
+### DNS 协议
+
+### NAT 协议
+
+### BGP 协议
 
 ## REF
 
