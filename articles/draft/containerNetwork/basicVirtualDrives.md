@@ -59,7 +59,7 @@ type CNI interface {
 
 这些方案通过不同的 Linux 能力和组件, 都实现了 可用的容器网络方案, 但在此之前, 让我们先了解 这些 Linux 能力与组件.
 
-## 虚拟网络设备
+## 虚拟网络设备 和 本机组网
 
 ### 虚拟网卡 和  物理网卡 
 
@@ -150,6 +150,8 @@ type CNI interface {
     link/ether e2:58:d2:b1:a5:7d brd ff:ff:ff:ff:ff:ff link-netnsid 9
     inet6 fe80::e058:d2ff:feb1:a57d/64 scope link 
        valid_lft forever preferred_lft forever
+       
+ // TODO 补一张 brctl 绑定的信息
 ```
 
 这里可以看到四种设备, 
@@ -163,21 +165,37 @@ type CNI interface {
 
 ### Veth Pair
 
-Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 就是 虚拟网卡对, 用来连接两个 网络设备, 基于这个特性, 可以用于连接 network namespace , 
+Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 就是 虚拟网卡对,  也就是说, Veth Pair 是两个设备, 而不是一个设备, 你可以将这两个设备放入不同的 `Linux Network Namespace` , 来连通两个 Namespace, 从 Veth Pair 的任意一端喂进去的数据包, 会出现在另一端的设备上.
 
+事实上, 其实 Veth pair 是一个 一端连着 网络连着网络协议栈, 一端连着 自己的另一端的设备, 从而实现了上述功能.
 
+![img](https://ctimbai.github.io/images/net/veth.png)
 
-### TUN/TAP
+如果 veth pair 像一个虚拟的网线一样, 只能连接 两个 Network Namespace , 那么功能实在太有限, 根本无法在大量部署容器的场景下使用, 事实上 veth pair 的最常见的用法是 将 Veth Pair 和 Bridge 关联, 进而实现 多个网络设备 的连接,这种用法 会经常出现在 虚拟机组网 和 容器组网中,  例如下面这样 , 这是 Docker 的本地组网方式: 
 
-
+![img](https://i.stack.imgur.com/IoFjk.png)
 
 ### Linux bridge
 
+顾名思义, 这个虚拟网络设备是 Linux 网桥, 对应的现实中的网络设备是 交换机, 多个设备或者 Network Namespace , 通过  Veth Pair 连接到网桥上, 来实现连通. 
 
+当网桥接受到 数据包后, 会根据 `ARP 协议`广播  `询问报文` 到所有连接到自己的设备上 , 来转换 IP 获取 Mac 地址, 进而转发数据包, 到指定的网络设备上. BTW, 每个 veth pair 的设备都是有自己的 Mac 地址的.
 
-## Linux 相关
+Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角色, 连接本机的所有容器, 并且会连上 代表物理网卡的 eth0, 来将对外的 数据包通过转发给 eth0 发出去, 然后将 eth0 给过来的数据包 转发给对应的服务, 和上面的例子一样, Docker 在本地就是使用这种组网方式.
 
-### OverLay
+![img](https://i.stack.imgur.com/IoFjk.png)
+
+### TUN/TAP
+
+// TODO
+
+## 跨节点组网
+
+### Overlay 方案 和 Route 方案
+
+#### Route
+
+#### Overlay
 
 ### VLAN(VXLAN)
 
@@ -199,14 +217,6 @@ Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 
 
 ### BGP 协议
 
-## REF
-
-> * [容器网络(一) - morven.life](https://morven.life/posts/networking-4-docker-sigle-host/)
-> * [Linux無線網路架構 - itread01.com](https://www.itread01.com/content/1547977690.html)
-> * [KVM 网络虚拟化基础  - Jimmy's Blog](https://www.xjimmy.com/openstack-5min-9.html)
-> * [Flannel Networking Demystify - msazure.club](https://msazure.club/flannel-networking-demystify/)
-> * 
-
 ## Linux 网络架构
 
 介绍虚拟网络避免不了要先介绍 Linux 的网络架构, 需要从较高的视野来看一下容器网络到底在做什么. 工作在哪一层?
@@ -217,6 +227,14 @@ Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 
 
 ### 
 
-
-
 ![](https://images2015.cnblogs.com/blog/697113/201602/697113-20160228205711695-689378767.jpg)
+
+## REF
+
+> * [容器网络(一) - morven.life](https://morven.life/posts/networking-4-docker-sigle-host/)
+> * [Linux無線網路架構 - itread01.com](https://www.itread01.com/content/1547977690.html)
+> * [KVM 网络虚拟化基础  - Jimmy's Blog](https://www.xjimmy.com/openstack-5min-9.html)
+> * [Flannel Networking Demystify - msazure.club](https://msazure.club/flannel-networking-demystify/)
+> * 
+
+
