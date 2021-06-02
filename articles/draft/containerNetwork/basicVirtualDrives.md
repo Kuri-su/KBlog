@@ -187,6 +187,10 @@ Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角�
 
 ### TUN/TAP
 
+TUN 和 TAP 是两个设备, 他们会组合到一起使用
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tun-tap-osilayers-diagram.png/400px-Tun-tap-osilayers-diagram.png
+
 // TODO
 
 ## 跨节点组网
@@ -236,5 +240,4 @@ Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角�
 > * [KVM 网络虚拟化基础  - Jimmy's Blog](https://www.xjimmy.com/openstack-5min-9.html)
 > * [Flannel Networking Demystify - msazure.club](https://msazure.club/flannel-networking-demystify/)
 > * 
-
 
