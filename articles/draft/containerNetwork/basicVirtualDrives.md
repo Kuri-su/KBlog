@@ -187,7 +187,7 @@ Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角�
 
 ### TUN/TAP
 
-TUN 和 TAP 是两个设备, 他们会组合到一起使用
+TUN 和 TAP 是两个设备, 他们会组合到一起使用，TAP（network tap） 是一个运作在 OSI 二层， 它可以// TODO
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tun-tap-osilayers-diagram.png/400px-Tun-tap-osilayers-diagram.png
 
