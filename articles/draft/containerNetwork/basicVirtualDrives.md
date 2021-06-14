@@ -240,6 +240,10 @@ IP tunnel ，通常透过在 IP 包外面再套一层 IP 封装实现,// TODO
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
 
+#### gre
+
+// TODO
+
 ### IPVS
 
 IPVS （IP virtual server） 是 LVS （Linux virtual server） 项目下的产物， LVS 是一种作用于 TCP/IP 的负载均衡技术，目前已经是 Linux Kernel 的一部分。IPVS 是 LVS 中实现 IP 负载均衡的模块。
@@ -271,6 +275,10 @@ MacVlan 是 Linux Kernel 实现的特性， 允许在一个网卡上配置多个
 IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一个网卡上配置多个 IP 地址，不过所有的虚拟接口都是同一个 Mac 地址。 // TODO
 
 ### Open vSwitch
+
+#### IPsec
+
+IPsec 是一种三层的连接安全协议，而我们熟知的 SSL/TLS 是一种运行在 四层的依靠 TCP 来管理的连接安全协议， HTTPS 更不用说，依靠 七层的 HTTP 来建立安全连接
 
 // TODO
 
