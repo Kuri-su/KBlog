@@ -4,7 +4,7 @@
 
 [TOC]
 
-当笔者第一次看到 Flannel 的结构图的时候, 是懵的...WTF..... 为什么网络能弄得这么复杂...
+当笔者第一次看到 Flannel (常用的 Kubernetes 组网组件) 的结构图的时候, 是懵的...WTF..... 为什么网络能弄得这么复杂...
 
 ![](https://msazure.club/content/images/2018/05/Flannel.jpg)
 
@@ -59,7 +59,19 @@ type CNI interface {
 
 这些方案通过不同的 Linux 能力和组件, 都实现了 可用的容器网络方案, 但在此之前, 让我们先了解 这些 Linux 能力与组件.
 
-## 虚拟网络设备 和 本机组网
+## Linux 网络架构
+
+介绍虚拟网络避免不了要先介绍 Linux 的网络架构, 需要从较高的视野来看一下容器网络到底在做什么. 工作在哪一层?
+
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWctbXkuY3Nkbi5uZXQvdXBsb2Fkcy8yMDEyMTAvMjUvMTM1MTE1OTYxNF8xNzAyLmpwZw?x-oss-process=image/format,png)
+
+这是一张简单的 Linux 的内核结构图, 最右边一列是网络方面的管理,  
+
+### 
+
+![](https://images2015.cnblogs.com/blog/697113/201602/697113-20160228205711695-689378767.jpg)
+
+## 用于构建虚拟网络的工具
 
 ### 虚拟网卡 和  物理网卡 
 
@@ -185,33 +197,78 @@ Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角�
 
 ![img](https://i.stack.imgur.com/IoFjk.png)
 
+### Network Namespace
+
+Linux 的 Namespace 的作用就是 `隔离内核资源`，下列资源在 Linux 内都有对应的 Namespace 进行管理，默认情况下， Linux 进程处在 和宿主机相同的 namespace，默认享有全局系统资源。
+
+* Mount Namespace （文件系统 挂载点）
+* UTS Namespace （主机名）
+* IPC Namespace （POSIX 进程间通信消息队列）
+* PID Namespace （进程 PID）
+* network Namespace （IP 地址）
+* user namespace （user ID）
+
+这里主要讲 network Namespace，它可以隔离 Linux 系统的设备 / IP地址 / port / route table/ 防火墙规则 等资源。因此， 每个 network namespace 都有自己的一套虚拟网络设备（有些地方也称为网络栈），包括 IP 地址/ 路由表 / 端口范围 / `/proc/net` 目录。
+
+和各种 Namespace 一样，Network Namespace 可以通过 syscall 实现， 比如执行 clone() syscall，然后并传入参数 CLONE_NEWNET。 就可以为新创建的 进程构建一个 Network Namespace。同时 还有别的 syscall 可以对 Namespace 进行增删改查，例如 setnu || unshare
+
+Netwrok Namespace 方面，除了和 别的 Namespace 一样使用 syscall 管理之外， 你还可以使用 `ip netns` 命令来管理，例如下面几个命令
+
+* `ip netns add netns1`  创建 一个叫做 "netns1" 的 network namespace
+* `ip netns exec netns1 ip link list` 进入 "netns1" ，执行 "ip link list" 命令
+* `ip netns list` 列出 network namespace
+* `ip netns delete netns1` 删除 "netns1" 
+
+但仅仅创建 network namespace 是不够的，这个时候连里面的 本地回环地址（lo）都是关闭的状态，需要对它进行一系列设置，例如 打开本地回环地址，使用 veth pair 和外部的 bridge 连接等， 这里就不展开。
+
 ### TUN/TAP
 
-TUN 和 TAP 是两个设备, 他们会组合到一起使用，TAP（network tap） 是一个运作在 OSI 二层， 它可以// TODO
+TUN 和 TAP 是两个设备, 他们会组合到一起使用，主要用于实现 虚拟的网络设备，这样说有点难懂， 用通俗的话讲，就是你可以通过 TUN/TAP 实现一个 虚拟的网络设备， 去控制 Linux 虚拟网络中下层数据包的走向。而不需要通过修改内核。
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tun-tap-osilayers-diagram.png/400px-Tun-tap-osilayers-diagram.png
+这个虚拟设备最常见的一个功能就是用在 VPN 上， 例如 VPN Client 全局代理功能。
 
-// TODO
+* TAP（network tap）中文可以直译 `网络偷听` :)，顾名思义， 它从 Linux 虚拟网络下层（三层）将数据包拿到 ，然后丢给TUN 设备，所以它需要作为一个 `虚拟以太网设备` 运作在内核态下。
+* TUN (Tunnel) ，用户态程序可以通过它来直接 获取 来自 Linux 虚拟网络下层的 数据包， 处理完毕后， 重新投入 TUN 设备中，来完成一个虚拟网络设备的工作。
 
-## 跨节点组网
+![](/Users/kurisuamatist/Pictures/tmp/431521-20190228112909811-1280596515.png)
 
-### Overlay 方案 和 Route 方案
-
-#### Route
-
-#### Overlay
-
-### VLAN(VXLAN)
-
-// TODO first
+从 TUN 中的获取到的数据包（也称数据帧），
 
 ### IPIP(隧道网络)
 
+IP tunnel ，通常透过在 IP 包外面再套一层 IP 封装实现,// TODO
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
+
+### IPVS
+
+IPVS （IP Virtual Server）是一个在工作在四层的交换机， 作为 Linux Kernel 实现的一部分。// TODO
+
+### iptables
+
+// TODO
+
+### VLAN(VXLAN)
+
+VLAN（Virtual Local Area Network）通过将网络的不同区域分割成不同的广播域， 来组合
+
+https://zhuanlan.zhihu.com/p/35616289
+
+// TODO first
+
+
+
 ### Macvlan
+
+MacVlan 是 Linux Kernel 实现的特性， 允许在一个网卡上配置多个 Mac 地址 // TODO
 
 ### IPvlan
 
-### IPVS
+IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一个网卡上配置多个 IP 地址，不过所有的虚拟接口都是同一个 Mac 地址。 // TODO
+
+### Open vSwitch
+
+### 跨节点组网方案总结
 
 ## 协议
 
@@ -221,17 +278,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tun-tap-osilayers-diag
 
 ### BGP 协议
 
-## Linux 网络架构
+### ARP 协议
 
-介绍虚拟网络避免不了要先介绍 Linux 的网络架构, 需要从较高的视野来看一下容器网络到底在做什么. 工作在哪一层?
+#### ARP 风暴
 
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWctbXkuY3Nkbi5uZXQvdXBsb2Fkcy8yMDEyMTAvMjUvMTM1MTE1OTYxNF8xNzAyLmpwZw?x-oss-process=image/format,png)
+#### ARP 欺骗
 
-这是一张简单的 Linux 的内核结构图, 最右边一列是网络方面的管理,  
 
-### 
-
-![](https://images2015.cnblogs.com/blog/697113/201602/697113-20160228205711695-689378767.jpg)
 
 ## REF
 
