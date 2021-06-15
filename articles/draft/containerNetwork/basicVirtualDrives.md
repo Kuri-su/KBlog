@@ -223,30 +223,48 @@ Netwrok Namespace 方面，除了和 别的 Namespace 一样使用 syscall 管�
 
 ### TUN/TAP
 
-TUN 和 TAP 是功能相近的两个设备，TUN 工作在 OSI 三层， 而 TAP 工作在 OSI 二层。 // TODO
+TUN 和 TAP 是功能相近的两个设备，TUN 工作在 OSI 三层， 而 TAP 工作在 OSI 二层。 但细节上二者还是有诸多不同。程序从 TUN 中拿到的数据包是 L3 层的 IP 包， 而从 TAP 设备中拿到的是二层的 Mac 包。
 
------
+![img](https://img-blog.csdn.net/20131219111714593?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWxleGFuZGVyX3hmbA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-TUN 和 TAP 是两个设备, 他们会组合到一起使用，主要用于实现 虚拟的网络设备，这样说有点难懂， 用通俗的话讲，就是你可以通过 TUN/TAP 实现一个 虚拟的网络设备， 去控制 Linux 虚拟网络中下层数据包的走向。而不需要通过修改内核。
+![400px-Tun-tap-osilayers-diagram](/Users/kurisuamatist/Pictures/tmp/400px-Tun-tap-osilayers-diagram.png)
 
-这个虚拟设备最常见的一个功能就是用在 VPN 上， 例如 VPN Client 全局代理功能。
+TUN/TAP 比较特别的地方， 就是它可以让用户态的程序直接读到 三层或者二层的数据，而通常用户态的程序只能读到 四层的数据。
 
-* TAP（network tap）中文可以直译 `网络偷听` :)，顾名思义， 它从 Linux 虚拟网络下层（三层）将数据包拿到 ，然后丢给TUN 设备，所以它需要作为一个 `虚拟以太网设备` 运作在内核态下。
-* TUN (Tunnel) ，用户态程序可以通过它来直接 获取 来自 Linux 虚拟网络下层的 数据包， 处理完毕后， 重新投入 TUN 设备中，来完成一个虚拟网络设备的工作。
+我们可以透过 TUN/TAP 实现一个虚拟的网络设备， 透过 TUN/TAP 直接从下层获取到数据包（帧）， 然后在用户态程序中处理， 处理完毕后， 返回给 网络协议栈，然后再重新封包，并由交换机和路由将这个 数据包发给对应的接收方。
+
+TUN/TAP 虚拟设备最常见的一个功能就是用在 VPN 上，例如 VPN Client 的全局代理功能。
 
 ![](/Users/kurisuamatist/Pictures/tmp/431521-20190228112909811-1280596515.png)
 
-从 TUN 中的获取到的数据包（也称数据帧），拿到的都是三层数据包，也就是 IP 包。
+而通常使用 TUN 的程序会使用 IP tunnel 中的 ip in ip 协议，将原本 收到的包进行二次封包，类似于下面这样，二次封包的接收端是 eth0 网卡，发送方是 tun0 的 IP，这样，返回的数据包会首先到 Tun0 处，然后 连接着 TUN 的程序可以对 Response 的包进行二次处理，最后将包返回给最初的发送端。
+
+```shell
+MAC: xx:xx:xx:xx:xx:xx
+IP Header: <new destination IP>
+IP Body:
+  IP: <original destination IP>
+  TCP: stuff
+  HTTP: stuff
+```
 
 ### IP Tunnel(IP 隧道网络)
 
-IP tunnel ，通常透过在 IP 包外面再套一层 IP 封装实现,// TODO
+刚刚也提到，连接的 TUN 的程序通常会使用 IP tunnel 中的 ip in ip 的方式来进行数据包修改，事实上， Linux 能够支持下列五种  IP tunnel
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
+1. ip in ip
 
-#### gre
+   ![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
 
-// TODO
+2. gre: 
+
+3. sit
+
+4. isatap
+
+5. vti
+
+https://morven.life/posts/networking-3-ipip/ // TODO
 
 ### IPVS
 
@@ -318,5 +336,8 @@ IPsec 是一种三层的连接安全协议，而我们熟知的 SSL/TLS 是一�
 > * [Flannel Networking Demystify - msazure.club](https://msazure.club/flannel-networking-demystify/)
 > * [kubernetes 网络权威指南 - jd.com](https://item.jd.com/12724298.html)
 >   * ![](https://img14.360buyimg.com/n0/jfs/t1/83076/12/12519/154383/5da01033Ee717550a/9a3d23a200e3b207.jpg)
+> * [Linux 虚拟网络设备 - morven.life](https://morven.life/posts/networking-2-virtual-devices/)
+> * [揭秘 IPIP 隧道 - morven.life](https://morven.life/posts/networking-3-ipip/)
+> * [二三四层 数据包格式详解 - CSDN](https://blog.csdn.net/luguifang2011/article/details/40658723)
 > * 
 
