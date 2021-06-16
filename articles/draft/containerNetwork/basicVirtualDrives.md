@@ -252,19 +252,19 @@ IP Body:
 
 刚刚也提到，连接的 TUN 的程序通常会使用 IP tunnel 中的 ip in ip 的方式来进行数据包修改，事实上， Linux 能够支持下列五种  IP tunnel
 
-1. ip in ip
+1. ip in ip，通常是 ipv4 in ipv4 ，不过也可以完成 ipv4 in ipv6 或者 ipv6 in ipv4。他的本质就是在一个 ip 包（帧/报文）外面再封装一层 IP 报文 
 
    ![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
 
-2. gre: 
+2. GRE， 是由思科开发的一个协议，定义了 `在任意一种网络层协议上封装另一个网络协议的方法`，常用于使用 IP 协议封装 IPX/AppleTalk 协议等
 
-3. sit
+3. sit，ipv6 in ipv4 的专称，也有
 
-4. isatap
+4. ISATAP，类似 ipv6 in ipv4, 有一些特殊功用，全称是 `站内自动隧道寻址协议`
 
-5. vti
+5. VTI，virtual tunnel interface，思科提出的一种 IPSec 接口，用于和 IPsec tunnel 对接
 
-https://morven.life/posts/networking-3-ipip/ // TODO
+而事实上，这些 IP tunnel 协议的实现全部都采用 TUN 设备， 而大多数的 VPN 软件的底层实现都离不开上述这五种隧道协议。
 
 ### IPVS
 
@@ -273,6 +273,18 @@ IPVS （IP virtual server） 是 LVS （Linux virtual server） 项目下的产�
 https://www.jianshu.com/p/36880b085265
 
 ### iptables
+
+// TODO
+
+// TODO
+
+#### SNAT
+
+##### MASQUERADE
+
+// TODO
+
+#### DNAT
 
 // TODO
 
@@ -310,21 +322,25 @@ IPsec 是一种三层的连接安全协议，而我们熟知的 SSL/TLS 是一�
 
 ### DNS 协议
 
+// TODO
+
 ### NAT 协议
 
-#### SNAT
 
-##### MASQUERADE
-
-#### DNAT
 
 ### BGP 协议
+
+// TODO
 
 ### ARP 协议
 
 #### ARP 风暴
 
+// TODO
+
 #### ARP 欺骗
+
+// TODO
 
 
 
