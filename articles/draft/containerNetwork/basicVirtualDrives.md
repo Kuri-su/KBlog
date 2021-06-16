@@ -1,6 +1,8 @@
 # 容器网络 (虚拟网络) 基础
 
-> 因为笔者对 计算机网络 认识浅薄, 加上很多的部分都是现学现卖，所以下述内容可能存在与具体事实相悖的内容, 所以如果发现请劳烦指正或讨论! 不胜感激.
+> * 因为笔者对 计算机网络 认识浅薄, 加上很多的部分都是现学现卖，所以下述内容可能存在与具体事实相悖的内容, 所以如果发现请劳烦指正或讨论! 不胜感激.
+>
+> * 下文中如下词汇表达同一个意思： 数据帧，数据包
 
 [TOC]
 
@@ -60,6 +62,12 @@ type CNI interface {
 这些方案通过不同的 Linux 能力和组件, 都实现了 可用的容器网络方案, 但在此之前, 让我们先了解 这些 Linux 能力与组件.
 
 ## Linux 网络架构
+
+#### OSI 七层结构
+
+这里最关键的是 理解 2/3/4 层 以及 7 层分别在 网络传输的过程中分别在做什么事。
+
+![](https://img-blog.csdnimg.cn/2021010409370574.gif)
 
 介绍虚拟网络避免不了要先介绍 Linux 的网络架构, 需要从较高的视野来看一下容器网络到底在做什么. 工作在哪一层?
 
@@ -302,21 +310,175 @@ IPVS 在内核态下运行，转发规则是基于 netfilter 的 hashmap 实现�
 
 ### iptables
 
+#### netfilter
+
 iptables 也是基于 netfilter 实现的， netfilter 是 Linux Kernel 2.4 引入的一个子系统。它作为通用的/抽象的框架，提供一整套的 Hook 函数的管理机制，使得 数据包过滤 / 数据包处理 / 地址伪装 / NAT / 透明代理 / 访问控制 / 基于协议类型的连续跟踪 ，甚至网络带宽限速都成为可能。netfilter 的整个架构就是在网络流程的若干位置放置一些钩子，并在每个 钩子上挂载一些处理函数。
 
-netfilter 在 ip 层 对应的 五个钩子点的位置，对应 iptables 就是 五条内置链，为了方便理解， 这里就全部小写
+netfilter 在 ip 层 对应的 五个钩子点的位置，对应 iptables 就是 五条内置链，为了方便理解， 这里就全部小写 prerouting，input，forward，output，postrouting。
 
-* prerouting
-* input
-* forward
-* output
-* postrouting
+当一个三层数据包到达协议栈的时候，首先经过 netfilter 钩子是 PREROUTING，如果有用户在 PREROUTING 的位置绑定了钩子的话，Kernel 将会在这里对 数据包 进行 DNAT。接着 Kernel 会去查询路由表，决定这个包是要被转发还是继续给到本地进程。
+
+如果是转发的话，会将本地当作路由器，走 FORWARD 钩子，用户可以在这里设置钩子函数，接着包会走到 POSTROUTING 钩子处，用户可以在这里使用钩子对 数据包进行 SNAT （源地址转换）和 Masquerade （Masq 或者叫 源地址伪装）。
+
+如果是给到本地进程的话，接下来会经过 INPUT 钩子，接着进入本地进程。然后本地进程给的 Response 会经过OUTPUT 钩子，然后经过一次 路由决策（例如从哪一块网卡出去，下一跳的地址是多少等），最后经过 POSTROUTING 出协议栈。
 
 ![2021616-213618](/Users/kurisuamatist/Downloads/2021616-213618.png)
 
+而上述其实都是 netfilter 的内容，有非常多的程序或者系统程序都是构建在 netfilter 的钩子上，其中也包括 iptables。
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Netfilter-components.svg/1920px-Netfilter-components.svg.png)
+
+#### iptables
+
+iptables 有三个关键的内容，
+
+* table （表）
+* chain（链）
+* rule（规则）
+
+通常我们会形容 iptables 的内容是 五张表（tables）五条链（chain），简称 iptables 5x5。五条链应该都能猜得到，就是对应上面 netfilter 的五个钩子。
+
+* PREROUTING chain：可以在此处 DNAT
+* INPUT chain：一般用于处理输入本地进程的数据包
+* FORWARD chain： 一般处理转发到 别的机器 或者 别的 network namespace 的数据包
+* OUTPUT chain：一般用于处理本地进程的输出数据包
+* POSTROUTING chain：可以在此处 SNAT
+
+除了系统预定义的 五个 chain，用户还可以在自己的 table 里定义自己的 chain，五张表包括如下五张
+
+* filter table：用于控制到达某条链上的数据包是否放行，或者丢弃（drop） 以及拒绝（reject）
+* nat table： 用于修改 数据包 的源 和 目的地址
+* mangle（碾压） table： 用于修改数据包的 IP 信息
+* raw 表： iptables 是有状态的，会对数据包有连接追踪的机制，而 raw table 就是用来去除这种机制的
+* security： 最不常用的表，用于在数据包上应用 SELinux
+
+然后每个 chain 上都会挂 table ，对应关系如下，优先级是 raw > mangle > nat > filter > security。但事实上，由于 Jump 动作的存在 ，有时候 也可以看成是 table 上面 挂 chain。
+
+![2021616-213613](/Users/kurisuamatist/Downloads/2021616-213613.png)
+
+接着就到 rule 了，rule 是用户设置的规则，保存在 对应的 table 里。rule 分为两个部分
+
+* 匹配条件：协议类型 / 源 IP / 目的 IP / 源端口 / 目的端口 / 连接状态 等。。。
+* 动作： 包括 DROP / REJECT / QUEUE / RETURN / ACCEPT / JUMP
+
+这个 JUMP 就可以将包丢到用户自己的 custom chain 上面，custom chain 由于和 netfilter 没什么关系，所以只有 JUMP 过去的时候，才会被触发。
+
+下面是从一个 minikube 的 节点机器上拿到的 iptables 的数据，可以看到和我们上面描述的是符合的。
+
+```shell
+docker@minikube:~$ sudo iptables -t nat -L -n
+Chain PREROUTING (policy ACCEPT)
+target     prot opt source               destination
+KUBE-SERVICES  all  --  0.0.0.0/0            0.0.0.0/0            /* kubernetes service portals */
+DOCKER_OUTPUT  all  --  0.0.0.0/0            192.168.49.1
+DOCKER     all  --  0.0.0.0/0            0.0.0.0/0            ADDRTYPE match dst-type LOCAL
+
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination
+KUBE-SERVICES  all  --  0.0.0.0/0            0.0.0.0/0            /* kubernetes service portals */
+DOCKER_OUTPUT  all  --  0.0.0.0/0            192.168.49.1
+DOCKER     all  --  0.0.0.0/0           !127.0.0.0/8          ADDRTYPE match dst-type LOCAL
+
+Chain POSTROUTING (policy ACCEPT)
+target     prot opt source               destination
+KUBE-POSTROUTING  all  --  0.0.0.0/0            0.0.0.0/0            /* kubernetes postrouting rules */
+MASQUERADE  all  --  172.17.0.0/16        0.0.0.0/0
+DOCKER_POSTROUTING  all  --  0.0.0.0/0            192.168.49.1
+
+Chain DOCKER (2 references)
+target     prot opt source               destination
+RETURN     all  --  0.0.0.0/0            0.0.0.0/0
+
+Chain DOCKER_OUTPUT (2 references)
+target     prot opt source               destination
+DNAT       tcp  --  0.0.0.0/0            192.168.49.1         tcp dpt:53 to:127.0.0.11:38417
+DNAT       udp  --  0.0.0.0/0            192.168.49.1         udp dpt:53 to:127.0.0.11:54317
+
+Chain DOCKER_POSTROUTING (1 references)
+target     prot opt source               destination
+SNAT       tcp  --  127.0.0.11           0.0.0.0/0            tcp spt:38417 to:192.168.49.1:53
+SNAT       udp  --  127.0.0.11           0.0.0.0/0            udp spt:54317 to:192.168.49.1:53
+
+Chain KUBE-KUBELET-CANARY (0 references)
+target     prot opt source               destination
+
+Chain KUBE-MARK-DROP (0 references)
+target     prot opt source               destination
+MARK       all  --  0.0.0.0/0            0.0.0.0/0            MARK or 0x8000
+
+Chain KUBE-MARK-MASQ (2 references)
+target     prot opt source               destination
+MARK       all  --  0.0.0.0/0            0.0.0.0/0            MARK or 0x4000
+
+Chain KUBE-NODEPORTS (1 references)
+target     prot opt source               destination
+
+Chain KUBE-POSTROUTING (1 references)
+target     prot opt source               destination
+RETURN     all  --  0.0.0.0/0            0.0.0.0/0            mark match ! 0x4000/0x4000
+MARK       all  --  0.0.0.0/0            0.0.0.0/0            MARK xor 0x4000
+MASQUERADE  all  --  0.0.0.0/0            0.0.0.0/0            /* kubernetes service traffic requiring SNAT */ random-fully
+
+Chain KUBE-PROXY-CANARY (0 references)
+target     prot opt source               destination
+
+Chain KUBE-SEP-VPILYQBSPPXYB66K (1 references)
+target     prot opt source               destination
+KUBE-MARK-MASQ  all  --  192.168.49.2         0.0.0.0/0            /* default/kubernetes:https */
+DNAT       tcp  --  0.0.0.0/0            0.0.0.0/0            /* default/kubernetes:https */ tcp to:192.168.49.2:8443
+
+Chain KUBE-SERVICES (2 references)
+target     prot opt source               destination
+KUBE-MARK-MASQ  tcp  -- !10.244.0.0/16        10.96.0.1            /* default/kubernetes:https cluster IP */ tcp dpt:443
+KUBE-SVC-NPX46M4PTMTKRN6Y  tcp  --  0.0.0.0/0            10.96.0.1            /* default/kubernetes:https cluster IP */ tcp dpt:443
+KUBE-NODEPORTS  all  --  0.0.0.0/0            0.0.0.0/0            /* kubernetes service nodeports; NOTE: this must be the last rule in this chain */ ADDRTYPE match dst-type LOCAL
+
+Chain KUBE-SVC-NPX46M4PTMTKRN6Y (1 references)
+target     prot opt source               destination
+KUBE-SEP-VPILYQBSPPXYB66K  all  --  0.0.0.0/0            0.0.0.0/0            /* default/kubernetes:https */
+```
+
+ 然后下面是一些 Iptables 的配置 demo
+
+```shell
+# 允许 SSH 连接
+$ iptables -A INPUT -s 10.20.30.40/24 -p tcp --dport 22 -j ACCEPT
+# 阻止某些 IP 的全部包
+$ iptables -A INPUT -s 10.10.10.10 -j DROP
+# 封锁出口
+$ iptables -A OUTPUT -p tcp --dport 1234 -j DROP
+# 端口转发
+$ iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 8080
+# 禁用 PING (icmp)
+$ iptables -A INPUT -p icmp -j DROP
+# 清除规则
+$ iptables -F
+# 创建自定义链
+$ iptables -N BAR
+# DNAT
+$ iptables -t nat -A PREROUTING -d 1.2.3.4 -p tcp --dport 80 -j DNAT --to-destination 10.20.30.40:8080
+# SNAT 
+$ iptables -t nat -A POSTROUTING -s 192.168.1.2 -j SNAT --to-source 10.172.16.1
+# mesq(源地址欺诈)，也就是用出的网卡地址直接替换 IP 包中的 SIP
+$ iptables -t nat -A POSTROUTING -s 10.8.0.0/16 -j MASQUERADE
+# 永久保存 iptables 规则
+$ iptables-save
+```
+
 #### IPVS vs iptables
 
+这个比较主要是在 kube-proxy 上，因为 iptables 本身工作是做防火墙的，通常情况下，没人会拿它和一个负载均衡器比性能。。。
 
+不过由于 kube-proxy 的早期实现是依赖 iptables 的实现的，所以才有了这个比较，结果自然毫无悬念。。。。。。肯定是 ipvs 胜出几个量级。。。
+
+数据如下： 
+
+![FireShot Capture 003 - Kubernetes网络权威指南：基础、原理与实践-杜军-微信读书 - weread.qq.com](/Users/kurisuamatist/Pictures/tmp/FireShot Capture 003 - Kubernetes网络权威指南：基础、原理与实践-杜军-微信读书 - weread.qq.com.png)
+
+iptables 之所以慢的原因笔者认为是由于 iptables 需要一条一条规则的去允许，类似于一个链表的形式，这样必然会比 ipvs 慢，前面聊过了，IPVS 内部是一个 Hashmap，规则再多，也就是优化一下 Hashmap 后面挂的链表或者 处理下 hashmap 扩容。
 
 ### VLAN(VXLAN)
 
@@ -344,6 +506,12 @@ IPsec 是一种三层的连接安全协议，而我们熟知的 SSL/TLS 是一�
 
 ### 跨节点组网方案总结
 
+// TODO
+
+### eBPF
+
+![image-20210617035133186](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20210617035133186.png)
+
 ## 协议
 
 ### DNS 协议
@@ -359,10 +527,6 @@ IPsec 是一种三层的连接安全协议，而我们熟知的 SSL/TLS 是一�
 // TODO
 
 #### DNAT
-
-// TODO
-
-### BGP 协议
 
 // TODO
 
