@@ -24,6 +24,8 @@ overlay 直译过来就是 覆盖层，也就是在原有网络的基础上，�
 
 ##### flannel
 
+![img](https://miro.medium.com/max/1806/1*JqSLd3cPv14BWDtE7YEcRA.png)
+
 // TODO
 
 #### Route 类型方案
