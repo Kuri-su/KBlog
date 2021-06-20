@@ -61,23 +61,21 @@ type CNI interface {
 
 这些方案通过不同的 Linux 能力和组件, 都实现了 可用的容器网络方案, 但在此之前, 让我们先了解 这些 Linux 能力与组件.
 
-## Linux 网络架构
+## Linux 网络
+
+### Linux 网络结构
+
+这块暂时没法解释太多，笔者还没有想通 这些网络设备是如何和 Netfilter 等的Linux 网络联系起来的， 这里暂时先放 Linux Kernel modules 的全景图以及 netfilter 的处理过程。
+
+![img](https://miro.medium.com/max/4096/1*1qcM2hi1BxCQPA6XkGk9vw.png)
+
+![img](https://upload.wikimedia.org/wikipedia/commons/3/37/Netfilter-packet-flow.svg)
 
 ### OSI 七层结构
 
 这里最关键的是 理解 2/3/4 层 以及 7 层分别在 网络传输的过程中分别在做什么事。
 
 ![](https://img-blog.csdnimg.cn/2021010409370574.gif)
-
-介绍虚拟网络避免不了要先介绍 Linux 的网络架构, 需要从较高的视野来看一下容器网络到底在做什么. 工作在哪一层?
-
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWctbXkuY3Nkbi5uZXQvdXBsb2Fkcy8yMDEyMTAvMjUvMTM1MTE1OTYxNF8xNzAyLmpwZw?x-oss-process=image/format,png)
-
-这是一张简单的 Linux 的内核结构图, 最右边一列是网络方面的管理,  
-
-### 
-
-![](https://images2015.cnblogs.com/blog/697113/201602/697113-20160228205711695-689378767.jpg)
 
 ## 用于构建虚拟网络的工具
 
