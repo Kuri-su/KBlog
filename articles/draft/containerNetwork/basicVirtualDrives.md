@@ -502,13 +502,15 @@ VXLAN 就相对清晰很多，因为它是为虚拟网络设计的，所以没�
 
 Macvlan 是 Linux Kernel 实现的特性， 允许创建多个虚拟网卡，Macvlan和 利用网卡别名的方式不太一样，网卡别名的方式创建出来的 虚拟网卡只有 独立 IP 没有独立 Mac 地址，而 Macvlan 创造出的网卡会有独立的 Mac 地址和 独立 IP。Macvlan 有五个模式，但是每个模式都有一些缺点，以至于通常 Macvlan 和 IPvlan 会一起使用。
 
+不过基于 Macvlan 其实很容易就可以构建出一个网络的虚拟化方案。
+
 ### IPvlan
 
 IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一个网卡上配置多个 IP 地址，不过所有的虚拟接口都是同一个 Mac 地址。IPvlan 可以和 Macvlan 一起使用来弥补 Macvlan 在内网子虚拟机之间的交换上的缺陷。
 
 ### Open vSwitch
 
-OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLAN 的连接能力 和 GRE 提供的转发能力来搭建
+OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLAN 的连接能力 和 GRE 提供的转发能力来搭建，所以相当于利用 VXLAN 来提供 网络虚拟化的能力。
 
 ### eBPF（BPF）
 
