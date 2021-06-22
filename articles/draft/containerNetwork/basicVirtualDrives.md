@@ -10,7 +10,7 @@
 
 ![](https://msazure.club/content/images/2018/05/Flannel.jpg)
 
-这又是 网桥(bridge), 又是 vethpair , 还有什么逻辑 以太网设备 (`physical eth dev`), 和什么 VXLAN? WTH? 怎么感觉和 我学得计算机网络课程一点关系都没有....老师只讲过 TCP/IP , OSI 七层网络....
+这又是 网桥(bridge), 又是 veth pair , 还有什么逻辑 以太网设备 (`physical eth dev`), 和什么 VXLAN? WTH? 怎么感觉和 我学得计算机网络课程一点关系都没有....老师只讲过 TCP/IP , OSI 七层网络....
 
 ## 容器网络 解决 什么问题, 为什么会有这些问题? 
 
@@ -41,6 +41,8 @@
 CNI 的Interface 很简单, CNI-Plugin 只要实现下述接口, 再进行简单的配置, 就可以和 K8s 进行交互
 
 ```go
+// Kubernetes CNI in version 1.20
+
 type CNI interface {
 	AddNetworkList(ctx context.Context, net *NetworkConfigList, rt *RuntimeConf) (types.Result, error)
 	CheckNetworkList(ctx context.Context, net *NetworkConfigList, rt *RuntimeConf) error
@@ -65,15 +67,29 @@ type CNI interface {
 
 ### Linux 网络结构
 
-Linux 的网络处理基本和 OSI 的网络结构是类似的，每一层有对应函数来表示
+一个网络数据帧从网线到 程序的用户内存空间中大概有如下步骤
 
-// TODO
+1. 网卡读到数据包，解开 OSI L1 的封装后给到 Kernel
 
-这块暂时没法解释太多，笔者还没有想通 这些网络设备是如何和 Netfilter 等的Linux 网络联系起来的， 这里暂时先放 Linux Kernel modules 的全景图以及 netfilter 的处理过程。
+   ![1280px-Kernel_Layout.svg](https://blog.digilentinc.com/wp-content/uploads/2015/05/1280px-Kernel_Layout.svg_-600x474.png)
+
+2. Kernel 会开始解包 OSI L2 层的封装，并且会在代码层面去调用例如 bridge || macvlan || open vswitch 等 的 Handler，
+
+   * 能够在二层接触到流量的模块，基本都是硬编码到内核的模块，当数据包从网卡到达的时候，直接就会调用相关的代码进行处理，例如 TAP 设备
+
+3. Kernel 会开始解包 OSI L3 层的封装，并且会在代码层面去调用更多的三层规则，例如 netfilter
+
+   * 三层上转发很大一部分都是依靠 netfilter，例如 IPVS / iptables，不过也有例外，例如 TUN 设备就应该是硬编码在内核的模块，还有 VXLAN 和 VLAN 都是在 Kernel 中独立的模块
+
+4. Kernel 会开始解包 OSI L4 层的封装，并调用相关的方法
+
+5. Kernel 会将 数据包 放到 socket 的 buffer 里，接着用户程序就可以通过 socket 连接读到。
+
+由于笔者对于这块不是太熟，没有办法描述太多的东西在此，所以这里贴一张 内核调用分析的图 以及一张 Linux Kernel 模块图，劳烦读者自行理解
+
+![img](https://img-blog.csdn.net/20170722191714268?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvenhvcmFuZ2UzMjE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 ![img](https://miro.medium.com/max/4096/1*1qcM2hi1BxCQPA6XkGk9vw.png)
-
-![img](https://upload.wikimedia.org/wikipedia/commons/3/37/Netfilter-packet-flow.svg)
 
 ### OSI 七层结构
 
@@ -183,29 +199,7 @@ Linux 的网络处理基本和 OSI 的网络结构是类似的，每一层有对
 * docker0 和 br-xxx 的设备, 这些是网桥 (Linux Bridge)
 * vethxxx 设备, 这些是 Veth Pair 设备.
 
-下面会具体介绍什么是 VethPair, 什么是 Linux Bridge
-
-### Veth Pair
-
-Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 就是 虚拟网卡对,  也就是说, Veth Pair 是两个设备, 而不是一个设备, 你可以将这两个设备放入不同的 `Linux Network Namespace` , 来连通两个 Namespace, 从 Veth Pair 的任意一端喂进去的数据包, 会出现在另一端的设备上.
-
-事实上, 其实 Veth pair 是一个 一端连着 网络连着网络协议栈, 一端连着 自己的另一端的设备, 从而实现了上述功能.
-
-![img](https://ctimbai.github.io/images/net/veth.png)
-
-如果 veth pair 像一个虚拟的网线一样, 只能连接 两个 Network Namespace , 那么功能实在太有限, 根本无法在大量部署容器的场景下使用, 事实上 veth pair 的最常见的用法是 将 Veth Pair 和 Bridge 关联, 进而实现 多个网络设备 的连接,这种用法 会经常出现在 虚拟机组网 和 容器组网中,  例如下面这样 , 这是 Docker 的本地组网方式: 
-
-![img](https://i.stack.imgur.com/IoFjk.png)
-
-### Linux bridge
-
-顾名思义, 这个虚拟网络设备是 Linux 网桥, 对应的现实中的网络设备是 交换机, 多个设备或者 Network Namespace , 通过  Veth Pair 连接到网桥上, 来实现连通. 
-
-当网桥接受到 数据包后, 会根据 `ARP 协议`广播  `询问报文` 到所有连接到自己的设备上 , 来转换 IP 获取 Mac 地址, 进而转发数据包, 到指定的网络设备上. BTW, 每个 veth pair 的设备都是有自己的 Mac 地址的.
-
-Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角色, 连接本机的所有容器, 并且会连上 代表物理网卡的 eth0, 来将对外的 数据包通过转发给 eth0 发出去, 然后将 eth0 给过来的数据包 转发给对应的服务, 和上面的例子一样, Docker 在本地就是使用这种组网方式.
-
-![img](https://i.stack.imgur.com/IoFjk.png)
+下面会具体介绍什么是 VethPair, 什么是 Linux Bridge，但在此之前，我们需要先介绍 Linux Network Namespace。
 
 ### Network Namespace
 
@@ -230,6 +224,28 @@ Netwrok Namespace 方面，除了和 别的 Namespace 一样使用 syscall 管�
 * `ip netns delete netns1` 删除 "netns1" 
 
 但仅仅创建 network namespace 是不够的，这个时候连里面的 本地回环地址（lo）都是关闭的状态，需要对它进行一系列设置，例如 打开本地回环地址，使用 veth pair 和外部的 bridge 连接等， 这里就不展开。
+
+### Veth Pair
+
+Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 就是 虚拟网卡对,  也就是说, Veth Pair 是两个设备, 而不是一个设备, 你可以将这两个设备放入不同的 `Linux Network Namespace` , 来连通两个 Namespace, 从 Veth Pair 的任意一端喂进去的数据包, 会出现在另一端的设备上.
+
+事实上, 其实 Veth pair 是一个 一端连着 网络连着网络协议栈, 一端连着 自己的另一端的设备, 从而实现了上述功能.
+
+![img](https://ctimbai.github.io/images/net/veth.png)
+
+如果 veth pair 像一个虚拟的网线一样, 只能连接 两个 Network Namespace , 那么功能实在太有限, 根本无法在大量部署容器的场景下使用, 事实上 veth pair 的最常见的用法是 将 Veth Pair 的一端 和 Bridge 关联, 进而实现 多个 虚机 或者 容器 互通连接,这种用法 会经常出现在 虚拟机组网 和 容器组网中,  例如下面这样 , 这是 Docker 的本地组网方式: 
+
+![img](https://i.stack.imgur.com/IoFjk.png)
+
+### Linux bridge
+
+顾名思义, 这个虚拟网络设备是 Linux 网桥, 对应的现实中的网络设备是 交换机, 多个设备或者 Network Namespace , 通过  Veth Pair 连接到网桥上, 来实现连通. 
+
+当网桥接受到 数据包后, 会根据 `ARP 协议`广播  `询问报文` 到所有连接到自己的设备上 , 来转换 IP 获取 Mac 地址, 进而转发数据包, 到指定的网络设备上. BTW, 每个 veth pair 的设备都是有自己的 Mac 地址的.
+
+Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角色, 连接本机的所有容器, 并且会连上 代表物理网卡的 eth0, 来将对外的 数据包通过转发给 eth0 发出去, 然后将 eth0 给过来的数据包 转发给对应的服务, 和上面的例子一样, Docker 在本地就是使用这种组网方式.
+
+![img](https://i.stack.imgur.com/IoFjk.png)
 
 ### TUN/TAP
 
@@ -258,7 +274,7 @@ IP Body:
   HTTP: stuff
 ```
 
-### IP Tunnel(IP 隧道网络)
+### IP Tunnel (IP 隧道网络)
 
 刚刚也提到，连接的 TUN 的程序通常会使用 IP tunnel 中的 ip in ip 的方式来进行数据包修改，事实上， Linux 能够支持下列五种  IP tunnel
 
@@ -266,7 +282,7 @@ IP Body:
 
    ![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
 
-2. GRE， 是由思科开发的一个协议，定义了 `在任意一种网络层协议上封装另一个网络协议的方法`，常用于使用 IP 协议封装 IPX/AppleTalk 协议等
+2. GRE， 是由思科开发的一个协议，定义了 `在任意一种网络层协议上封装另一个网络协议的方法`，常用于使用 IP 协议封装 IPX/AppleTalk 协议等，OVS(open vSwitch) 也用到了这个协议
 
 3. sit，ipv6 in ipv4 的专称，也有
 
@@ -308,7 +324,7 @@ IPVS 在内核态下运行，转发规则是基于 netfilter 的 hashmap 实现�
 
    其中 IP TUN 模式上面讲过，这里不再赘述。
 
-上述四种转发模式性能从高到低： DR > IP TUN > NAT > FULLNAT
+上述四种转发模式性能从高到低： `DR` > `IP TUN` > `NAT` > `FULLNAT`
 
 ### iptables
 
@@ -506,7 +522,7 @@ VXLAN 就相对清晰很多，因为它是为虚拟网络设计的，所以没�
 
 Macvlan 是 Linux Kernel 实现的特性， 允许创建多个虚拟网卡，Macvlan和 利用网卡别名的方式不太一样，网卡别名的方式创建出来的 虚拟网卡只有 独立 IP 没有独立 Mac 地址，而 Macvlan 创造出的网卡会有独立的 Mac 地址和 独立 IP。Macvlan 有五个模式，但是每个模式都有一些缺点，以至于通常 Macvlan 和 IPvlan 会一起使用。
 
-不过基于 Macvlan 其实很容易就可以构建出一个网络的虚拟化方案。
+基于 Macvlan 其实很容易就可以构建出一个网络的虚拟化方案。
 
 ### IPvlan
 
@@ -517,6 +533,8 @@ IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一�
 OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLAN 的连接能力 和 GRE 提供的转发能力来搭建，所以相当于利用 VXLAN 来提供 网络虚拟化的能力。
 
 ### eBPF（BPF）
+
+BPF 其实我们并不陌生，Tcpdump 就是使用 cBPF 实现的。
 
 eBPF 是 原 cBPF 的扩展版，不过业界统称 BPF，它的功能是在 内核态下对于诸多的系统事件提供钩子，这样用户代码在内核态下进行工作。 Kubernetes 的 Clilium 网络方案就是基于 BPF 实现的。
 
