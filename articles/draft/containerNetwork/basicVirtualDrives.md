@@ -65,6 +65,10 @@ type CNI interface {
 
 ### Linux 网络结构
 
+Linux 的网络处理基本和 OSI 的网络结构是类似的，每一层有对应函数来表示
+
+// TODO
+
 这块暂时没法解释太多，笔者还没有想通 这些网络设备是如何和 Netfilter 等的Linux 网络联系起来的， 这里暂时先放 Linux Kernel modules 的全景图以及 netfilter 的处理过程。
 
 ![img](https://miro.medium.com/max/4096/1*1qcM2hi1BxCQPA6XkGk9vw.png)
