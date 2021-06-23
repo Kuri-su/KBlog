@@ -512,7 +512,7 @@ VXLAN 在 VLAN 的基础上， 借鉴了 VLAN 的模式和部分实现，也补�
 
 ![image-20210621011534375](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20210621011534375.png)
 
-VXLAN 就相对清晰很多，因为它是为虚拟网络设计的，所以没有那么多硬件厂商绑定的东西，并且已经集成到 Linux 发行版的 IP 命令中（顺带吐槽下....MacOS 居然没有 IP 命令....），上图可以看到 VXLAN 基于 实体网络和 VTEP 设备，构造出了一个 overlay 网络，也称为 VXLAN Tunnel
+VXLAN 就相对清晰很多，因为它是为虚拟网络设计的，所以没有那么多硬件厂商绑定的东西，并且已经集成到 Linux 发行版的 IP 命令中，上图可以看到 VXLAN 基于 实体网络和 VTEP 设备，构造出了一个 overlay 网络，也称为 VXLAN Tunnel
 
 
 
