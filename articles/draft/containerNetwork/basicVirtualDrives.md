@@ -10,7 +10,7 @@
 
 当笔者第一次看到 Flannel (常用的 Kubernetes 组网组件) 的结构图的时候, 是懵的...WTF..... 为什么网络能弄得这么复杂...
 
-![](https://msazure.club/content/images/2018/05/Flannel.jpg)
+![](../../assets/containerNetwork-01-flannel.jpeg)
 
 这又是 网桥(bridge), 又是 veth pair , 还有什么逻辑 以太网设备 (`physical eth dev`), 和什么 VXLAN? WTH? 怎么感觉和 大学教的计算机网络课程一点关系都没有....老师只讲过 TCP/IP , OSI 七层网络....
 
@@ -23,7 +23,7 @@
 
 但这种问题其实不是只有容器网络遇到, 早在 `虚拟机时代` (VM), `OpenStack` 就已经遇到过这些问题, 可以通过 OpenStack 官网给出的计算节点结构略窥一二, 
 
-![KVM 网络结构](https://www.xjimmy.com/wp-content/uploads/image/20180107/1515321289889563.jpg)
+![](../../assets/containerNetwork-02-KVM-network-struction.jpeg)
 
 可以看到这些虚拟网络设备, 在 OpenStack 节点的结构图上都有, 所以事实上, 其实所谓容器网络的方案解决的问题并不局限于容器网络, 或者虚拟机网络, 本质是为了解决 `不同场景下的网络虚拟化需求`.
 
@@ -38,7 +38,7 @@
 
 这里先简单聊一下CNI , CNI 全称 (Container Network Interface), 是 K8s 对外抽象的三个接口之一, 
 
-![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/Kubernetes%E6%9E%B6%E6%9E%84-simple.png)
+![](../../assets/Kubernetes架构-simple.png)
 
 CNI 的Interface 很简单, CNI-Plugin 只要实现下述接口, 再进行简单的配置, 就可以和 K8s 进行交互
 
@@ -73,15 +73,15 @@ type CNI interface {
 
 1. 网卡读到数据包，解开 OSI L1 的封装后给到 Kernel
 
-   ![1280px-Kernel_Layout.svg](https://blog.digilentinc.com/wp-content/uploads/2015/05/1280px-Kernel_Layout.svg_-600x474.png)
+   ![](../../assets/containerNetwork-03-kernel-layout.png)
 
-2. Kernel 会开始解包 OSI L2 层的封装，并且会在代码层面去调用例如 bridge || macvlan || open vswitch 等 的 Handler，
+2. Kernel 会开始解包 OSI L2 层的封装，并且会在代码层面去调用例如 `bridge` || `macvlan` || `open vSwitch` 等 的 Handler，
 
    * 能够在二层接触到流量的模块，基本都是硬编码到内核的模块，当数据包从网卡到达的时候，直接就会调用相关的代码进行处理，例如 TAP 设备
 
 3. Kernel 会开始解包 OSI L3 层的封装，并且会在代码层面去调用更多的三层规则，例如 netfilter
 
-   * 三层上转发很大一部分都是依靠 netfilter，例如 IPVS / iptables，不过也有例外，例如 TUN 设备就应该是硬编码在内核的模块，还有 VXLAN 和 VLAN 都是在 Kernel 中独立的模块
+   * 三层上转发很大一部分都是依靠 netfilter，例如 `IPVS` / `iptables`，不过也有例外，例如 TUN 设备就应该是硬编码在内核的模块，还有 VXLAN 和 VLAN 都是在 Kernel 中独立的模块
 
 4. Kernel 会开始解包 OSI L4 层的封装，并调用相关的方法
 
@@ -89,15 +89,15 @@ type CNI interface {
 
 由于笔者对于这块不是太熟，没有办法描述太多的东西在此，所以这里贴一张 内核调用分析的图 以及一张 Linux Kernel 模块图，劳烦读者自行理解
 
-![img](https://img-blog.csdn.net/20170722191714268?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvenhvcmFuZ2UzMjE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](../../assets/containerNetwork-04-kernel-way.png)
 
-![img](https://miro.medium.com/max/4096/1*1qcM2hi1BxCQPA6XkGk9vw.png)
+![](../../assets/containerNetwork-05-linux-kernel-modules-map.png)
 
 ### OSI 七层结构
 
 这里最关键的是 理解 2/3/4 层 以及 7 层分别在 网络传输的过程中分别在做什么事。
 
-![](https://img-blog.csdnimg.cn/2021010409370574.gif)
+![](../../assets/contaienrNetwork-06-tcp-ip-stack.gif)
 
 ## 用于构建虚拟网络的工具
 
@@ -105,7 +105,7 @@ type CNI interface {
 
 虚拟网卡和物理网卡, 虽然中文里都叫网卡, 但是事实上他们是两种完全不一样的存在, 虚拟网卡的英文是 VNIC (virtual Network Interface Controller),  英文的直译应该是 `虚拟网络接口`, 而 VNIC 可以是多种 虚拟网络设备, 例如  Veth pair,回环地址,等, 它是一个虚拟的网络接口, 虚拟网卡和物理网卡不是一一对应的关系, 虚拟网卡甚至可以在没有物理网卡的情况下运行. 每个 虚拟网卡有自己的 PCI 地址 和 MAC 地址,  不一定有 IP 地址, 因为 IP 工作在 OSI 的第三层, 而 虚拟网卡工作在 OSI 的 第二层.
 
-![](https://images2015.cnblogs.com/blog/697113/201602/697113-20160228205711695-689378767.jpg)
+![](../../assets/containerNetwork-07-client-to-server-message-way.jpeg)
 
 通过 `ip addr show` 命令, 可以列出主机上所有的 虚拟网卡 和 网桥 的信息. 
 
@@ -233,11 +233,11 @@ Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 
 
 事实上, 其实 Veth pair 是一个 一端连着 网络连着网络协议栈, 一端连着 自己的另一端的设备, 从而实现了上述功能.
 
-![img](https://ctimbai.github.io/images/net/veth.png)
+![](../../assets/containerNetwork-08-veth-path.png)
 
 如果 veth pair 像一个虚拟的网线一样, 只能连接 两个 Network Namespace , 那么功能实在太有限, 根本无法在大量部署容器的场景下使用, 事实上 veth pair 的最常见的用法是 将 Veth Pair 的一端 和 Bridge 关联, 进而实现 多个 虚机 或者 容器 互通连接,这种用法 会经常出现在 虚拟机组网 和 容器组网中,  例如下面这样 , 这是 Docker 的本地组网方式: 
 
-![img](https://i.stack.imgur.com/IoFjk.png)
+![](../../assets/containerNetwork-09-docker-arch.png)
 
 ### Linux bridge
 
@@ -247,15 +247,15 @@ Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 
 
 Bridge 通常会在 虚拟机组网 和 容器组网 中, 担任交换机的角色, 连接本机的所有容器, 并且会连上 代表物理网卡的 eth0, 来将对外的 数据包通过转发给 eth0 发出去, 然后将 eth0 给过来的数据包 转发给对应的服务, 和上面的例子一样, Docker 在本地就是使用这种组网方式.
 
-![img](https://i.stack.imgur.com/IoFjk.png)
+![](../../assets/containerNetwork-09-docker-arch.png)
 
 ### TUN/TAP
 
 TUN 和 TAP 是功能相近的两个设备，TUN 工作在 OSI 三层， 而 TAP 工作在 OSI 二层。 但细节上二者还是有诸多不同。程序从 TUN 中拿到的数据包是 L3 层的 IP 包， 而从 TAP 设备中拿到的是二层的 Mac 包。
 
-![img](https://img-blog.csdn.net/20131219111714593?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYWxleGFuZGVyX3hmbA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](../../assets/containerNetwork-10-tun-tap-package-arch.png)
 
-![400px-Tun-tap-osilayers-diagram](/Users/kurisuamatist/Pictures/tmp/400px-Tun-tap-osilayers-diagram.png)
+![](../../assets/containerNetwork-11-tun-tap-stack.png)
 
 TUN/TAP 比较特别的地方， 就是它可以让用户态的程序直接读到 三层或者二层的数据，而通常用户态的程序只能读到 四层的数据。
 
@@ -263,7 +263,7 @@ TUN/TAP 比较特别的地方， 就是它可以让用户态的程序直接读�
 
 TUN/TAP 虚拟设备最常见的一个功能就是用在 VPN 上，例如 VPN Client 的全局代理功能。
 
-![](/Users/kurisuamatist/Pictures/tmp/431521-20190228112909811-1280596515.png)
+![](../../assets/contaienrNetwork-12-tun-tap-stack-to-eth0.png)
 
 而通常使用 TUN 的程序会使用 IP tunnel 中的 ip in ip 协议，将原本 收到的包进行二次封包，类似于下面这样，二次封包的接收端是 eth0 网卡，发送方是 tun0 的 IP，这样，返回的数据包会首先到 Tun0 处，然后 连接着 TUN 的程序可以对 Response 的包进行二次处理，最后将包返回给最初的发送端。
 
@@ -282,7 +282,7 @@ IP Body:
 
 1. ip in ip，也称 ipip 隧道，通常是 ipv4 in ipv4 ，不过也可以完成 ipv4 in ipv6 或者 ipv6 in ipv4。他的本质就是在一个 ip 包（帧/报文）外面再封装一层 IP 报文 
 
-   ![](https://upload.wikimedia.org/wikipedia/commons/8/8c/IP_in_IP_Encapsulation.svg)
+   ![](../../assets/containerNetwork-13-ip2ip.svg)
 
 2. GRE， 是由思科开发的一个协议，定义了 `在任意一种网络层协议上封装另一个网络协议的方法`，常用于使用 IP 协议封装 IPX/AppleTalk 协议等，OVS(open vSwitch) 也用到了这个协议
 
@@ -312,7 +312,7 @@ IPVS 在内核态下运行，转发规则是基于 netfilter 的 hashmap 实现�
 
    在收到 后段服务的响应后，负载均衡器会对 响应包的 源地址 ( Source Address (SIP)) 进行 SNAT（源地址转换），将响应包的 源地址改写为 IPVS 的 地址（IP）
 
-   ![](https://upload-images.jianshu.io/upload_images/3329890-cdc2290cfc924da3.png?imageMogr2/auto-orient/strip|imageView2/2/w/699/format/webp)
+   ![](../../assets/containerNetwork-14-NAT-DNAT-SNAT.webp)
 
 3. FULL NAT 模式
 
@@ -320,7 +320,7 @@ IPVS 在内核态下运行，转发规则是基于 netfilter 的 hashmap 实现�
 
    会有这个模式的原因是，在 NAT模式下，由于后端服务是知道用户IP 的（因为只做了 DNAT 没有做 SNAT ），如果 负载均衡器不是 后端服务的网关，那数据包就有可能会直接给回到用户那里，这样就会出一些问题。而在 FULL NAT 模式下就不会有这个问题，后段服务完全感知不到用户的存在，所以在 FULLNAT 模式下，不限制用户的网络结构，但也是因为这个原因，FULL NAT 模式的性能要低于 NAT 模式
 
-   ![](https://upload-images.jianshu.io/upload_images/3329890-b3007e800f9ccf6f.png?imageMogr2/auto-orient/strip|imageView2/2/w/880/format/webp)
+   ![](../../assets/containerNetwork-15-FULLNAT-DNAT+SNAT.webp)
 
 4. IP TUN 模式 （IP Tunneling ）
 
@@ -342,11 +342,11 @@ netfilter 在 ip 层 对应的 五个钩子点的位置，对应 iptables 就是
 
 如果是给到本地进程的话，接下来会经过 INPUT 钩子，接着进入本地进程。然后本地进程给的 Response 会经过OUTPUT 钩子，然后经过一次 路由决策（例如从哪一块网卡出去，下一跳的地址是多少等），最后经过 POSTROUTING 出协议栈。
 
-![2021616-213618](/Users/kurisuamatist/Downloads/2021616-213618.png)
+![](../../assets/containerNetwork-16-iptable-01.png)
 
 而上述其实都是 netfilter 的内容，有非常多的程序或者系统程序都是构建在 netfilter 的钩子上，其中也包括 iptables。
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Netfilter-components.svg/1920px-Netfilter-components.svg.png)
+![](../../assets/containerNetwork-17-netfilter-components.png)
 
 #### iptables
 
@@ -374,7 +374,7 @@ iptables 有三个关键的内容，
 
 然后每个 chain 上都会挂 table ，对应关系如下，优先级是 raw > mangle > nat > filter > security。但事实上，由于 Jump 动作的存在 ，有时候 也可以看成是 table 上面 挂 chain。
 
-![2021616-213613](/Users/kurisuamatist/Downloads/2021616-213613.png)
+![](../../assets/containerNetwork-18-iptable-02.png)
 
 接着就到 rule 了，rule 是用户设置的规则，保存在 对应的 table 里。rule 分为两个部分
 
@@ -496,7 +496,7 @@ $ iptables-save
 
 数据如下： 
 
-![FireShot Capture 003 - Kubernetes网络权威指南：基础、原理与实践-杜军-微信读书 - weread.qq.com](/Users/kurisuamatist/Pictures/tmp/FireShot Capture 003 - Kubernetes网络权威指南：基础、原理与实践-杜军-微信读书 - weread.qq.com.png)
+![FireShot Capture 003 - Kubernetes网络权威指南：基础、原理与实践-杜军-微信读书 - weread.qq.com](../../assets/containerNetwork-19-ipvs-vs-iptable.png)
 
 iptables 之所以慢的原因笔者认为是由于 iptables 需要一条一条规则的去运行，类似于一个链表的形式，这样必然会比 ipvs 慢，前面聊过了，IPVS 内部是一个 Hashmap，规则再多，也就是优化一下 Hashmap 后面挂的链表或者 处理下 hashmap 扩容。
 
@@ -508,17 +508,15 @@ VLAN（Virtual Local Area Network，V-LAN）的主要功能就是将下层网络
 
 VXLAN 在 VLAN 的基础上， 借鉴了 VLAN 的模式和部分实现，也补全了 VLAN 在 虚拟网络场景下的一些短板，例如 支持的实例数不足，以及 VLAN 和 物理网络是绑定在一起的，通常在 交换机上实现。
 
-![image-20210621011534375](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20210621011534375.png)
+![](../../assets/containerNetwork-20-VXLAN.png)
 
 VXLAN 就相对清晰很多，因为它是为虚拟网络设计的，所以没有那么多硬件厂商绑定的东西，并且已经集成到 Linux 发行版的 IP 命令中，上图可以看到 VXLAN 基于 实体网络和 VTEP 设备，构造出了一个 overlay 网络，也称为 VXLAN Tunnel
 
-
-
-![image-20210621010914104](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20210621010914104.png)
+![](../../assets/containerNetwork-21-VXLAN-Operation.png)
 
 这里可以看到 VXLAN 会在每台实体机器上运行一个 VTEP 的 Agent，由这个 Agent 将给过来的 VXLAN 的包进行转发或者 拆包投递，
 
-![image-20210621011417260](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20210621011417260.png)
+![](../../assets/containerNetwork-22-VXLAN-package.png)
 
 ### Macvlan
 
@@ -540,7 +538,7 @@ OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLA
 
 eBPF 是 原 cBPF 的扩展版，不过业界统称 BPF，它的功能是在 内核态下对于诸多的系统事件提供钩子，这样用户代码在内核态下进行工作。 Kubernetes 的 Clilium 网络方案就是基于 BPF 实现的。
 
-![post thumb](https://cloudnative.to/images/blog/bcc_tracing_tools_2016.png)
+![](../../assets/containerNetwork-23-bcc-bpf-tracing.png)
 
 ### 跨节点组网方案总结
 
@@ -558,13 +556,13 @@ DNS 规范中，大多数场景下使用 UDP 通行， 当 UDP 报文不够空�
 
 响应报文类似下面这样，DNS 的报文结构相比 TCP 还是复杂很多的，这里不展开
 
-![7571171-7668aaf114a3b10d](/Users/kurisuamatist/Pictures/tmp/7571171-7668aaf114a3b10d.webp)
+![](../../assets/containerNetwork-24-DNS-package-arch.webp)
 
 ### NAT （**N**etwork **A**ddress **T**ranslation）
 
 在IP数据包通过 路由器 或 防火墙 时重写来 源 IP 地址 (SIP || source IP)  或 目的 IP 地址(DIP || Destination IP) 的技术, 修改 SIP 的过程通常叫做 SNAT （source netwrok address translation）， 修改 DIP 的过程 通常叫做 DNAT（desctination network address translation）。NAT 看起来很 hack， 但是NAT也让主机之间的通信变得复杂，导致了通信效率的降低。此外，这个过程通常在 OSI L3 层进行。
 
-![A diagram of an IP packet. The header is 24 bytes long and contains 15 fields, including 4 bytes for source IP address and 4 bytes for destination IP address. The payload is variable length.](https://cdn.kastatic.org/ka-perseus-images/337190cba133e19ee9d8b5878453f915971a59cd.svg)
+![](../../assets/containerNetwork-25-NAT-package-struction.svg)
 
 除了修改 IP， 部分 NAT 还支持 对于 端口的转换，这个过程通常叫做 NAPT（network address and port translation）
 
@@ -582,7 +580,7 @@ ARP 协议的运行方式类似如下
 
 上面有提到，ARP 会广播到整个子网，当子网内有别的下层子网的交换机时，或者更加严重的时候，下层有多个交换机互相 ARP 访问的时候，网络中就很容易会被各种 ARP 请求占用带宽。而VLAN 的出现，也有一部分是为了解决这个问题。
 
-![VLAN 基础知识- 知乎](https://pic3.zhimg.com/v2-3b019ac4f87f2c3a6cbb6704496c56c6_b.jpg)
+![](../../assets/containerNetwork-26-ARP-storm.png)
 
 #### ARP 攻击
 
