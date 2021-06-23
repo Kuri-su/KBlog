@@ -1,1 +1,212 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg6132" width="449" height="189" version="1.1"><defs id="defs6134"><marker id="Arrow1Send" orient="auto" refX="0" refY="0" style="overflow:visible"><path id="path5338" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" transform="matrix(-0.2,0,0,-0.2,-1.2,0)" style="fill-rule:evenodd;stroke:#000;stroke-width:1pt;marker-start:none"/></marker><marker id="Arrow2Lend" orient="auto" refX="0" refY="0" style="overflow:visible"><path id="path5344" d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)" style="font-size:12px;fill-rule:evenodd;stroke-width:.625;stroke-linejoin:round"/></marker><marker id="Arrow1Mend" orient="auto" refX="0" refY="0" style="overflow:visible"><path id="path5332" d="M 0,0 5,-5 -12.5,0 5,5 0,0 z" transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill-rule:evenodd;stroke:#000;stroke-width:1pt;marker-start:none"/></marker></defs><metadata id="metadata6137"/><g id="layer1" transform="translate(-8.7563391,-855.64148)"><rect style="fill:red;fill-opacity:1;stroke:red;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6154" width="190" height="45" x="265.756" y="857.641"/><text style="font-size:20px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" id="text6140" x="280.009" y="887.598" xml:space="preserve"><tspan id="tspan6142" x="280.009" y="887.598">Outer IP Header</tspan></text><rect style="fill:#80ff80;fill-opacity:1;stroke:#80ff80;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6154-8-8" width="190" height="94" x="265.756" y="947.641"/><rect style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6154-8" width="190" height="45" x="265.756" y="902.641"/><text style="font-size:20px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" id="text6144" x="311.191" y="932.598" xml:space="preserve"><tspan id="tspan6146" x="311.191" y="932.598">IP Header</tspan></text><text style="font-size:20px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" id="text6148" x="309.511" y="1000.159" xml:space="preserve"><tspan id="tspan6150" x="309.511" y="1000.159">IP Payload</tspan></text><rect style="fill:none;stroke:#0f0;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6154-8-8-6" width="190" height="140" x="265.756" y="902.641"/><rect style="fill:#0f0;fill-opacity:1;stroke:#0f0;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6154-8-8-60" width="190" height="94" x="10.756" y="947.641"/><rect style="fill:red;fill-opacity:1;stroke:red;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rect6154-8-0" width="190" height="45" x="10.756" y="902.641"/><text style="font-size:20px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" id="text6144-7" x="56.191" y="932.598" xml:space="preserve"><tspan id="tspan6146-3" x="56.191" y="932.598">IP Header</tspan></text><text style="font-size:20px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans" id="text6148-2" x="54.511" y="1000.159" xml:space="preserve"><tspan id="tspan6150-7" x="54.511" y="1000.159">IP Payload</tspan></text><path style="fill:none;stroke:#000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)" id="path6787" d="m 202.87598,949.60579 57.01709,0"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="449"
+   height="189"
+   id="svg6132"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="IP in IP Encapsulation.svg">
+  <defs
+     id="defs6134">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path5338"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path5344"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path5332"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="181.97816"
+     inkscape:cy="42.538767"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1082"
+     inkscape:window-height="803"
+     inkscape:window-x="512"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6152"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6137">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.7563391,-855.64148)">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6154"
+       width="190"
+       height="45"
+       x="265.75635"
+       y="857.64148" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="280.00928"
+       y="887.59753"
+       id="text6140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6142"
+         x="280.00928"
+         y="887.59753">Outer IP Header</tspan></text>
+    <rect
+       style="fill:#80ff80;fill-opacity:1;stroke:#80ff80;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6154-8-8"
+       width="190"
+       height="94"
+       x="265.75635"
+       y="947.64148" />
+    <rect
+       style="fill:#ff8080;fill-opacity:1;stroke:#ff8080;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6154-8"
+       width="190"
+       height="45"
+       x="265.75635"
+       y="902.64148" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="311.19092"
+       y="932.59753"
+       id="text6144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6146"
+         x="311.19092"
+         y="932.59753">IP Header</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="309.51123"
+       y="1000.1591"
+       id="text6148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6150"
+         x="309.51123"
+         y="1000.1591">IP Payload</tspan></text>
+    <rect
+       style="fill:none;stroke:#00ff00;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6154-8-8-6"
+       width="190"
+       height="140"
+       x="265.75635"
+       y="902.64148" />
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6154-8-8-60"
+       width="190"
+       height="94"
+       x="10.756339"
+       y="947.64148" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6154-8-0"
+       width="190"
+       height="45"
+       x="10.756339"
+       y="902.64148" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="56.19091"
+       y="932.59753"
+       id="text6144-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6146-3"
+         x="56.19091"
+         y="932.59753">IP Header</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="54.511223"
+       y="1000.1591"
+       id="text6148-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6150-7"
+         x="54.511223"
+         y="1000.1591">IP Payload</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 202.87598,949.60579 57.01709,0"
+       id="path6787"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
