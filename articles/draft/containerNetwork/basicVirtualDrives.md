@@ -6,6 +6,10 @@
 
 [TOC]
 
+网络虚拟化是 // TODO
+
+## 网络虚拟化
+
 当笔者第一次看到 Flannel (常用的 Kubernetes 组网组件) 的结构图的时候, 是懵的...WTF..... 为什么网络能弄得这么复杂...
 
 ![](https://msazure.club/content/images/2018/05/Flannel.jpg)
