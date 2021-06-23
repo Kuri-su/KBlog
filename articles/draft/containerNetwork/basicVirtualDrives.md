@@ -10,7 +10,7 @@
 
 ![](https://msazure.club/content/images/2018/05/Flannel.jpg)
 
-这又是 网桥(bridge), 又是 veth pair , 还有什么逻辑 以太网设备 (`physical eth dev`), 和什么 VXLAN? WTH? 怎么感觉和 我学得计算机网络课程一点关系都没有....老师只讲过 TCP/IP , OSI 七层网络....
+这又是 网桥(bridge), 又是 veth pair , 还有什么逻辑 以太网设备 (`physical eth dev`), 和什么 VXLAN? WTH? 怎么感觉和 大学教的计算机网络课程一点关系都没有....老师只讲过 TCP/IP , OSI 七层网络....
 
 ## 容器网络 解决 什么问题, 为什么会有这些问题? 
 
@@ -19,7 +19,7 @@
 * 每个 Pod 都有独立的 IP
 * 不同 Pod 的容器间能互相通信 (即便是跨节点)
 
-但这种问题其实不是只有容器网络遇到, 早在 `虚拟机时代` (VM), `OpenStack` 就已经遇到过这些问题, 我们可以通过 OpenStack 官网给出的计算节点结构略窥一二, 
+但这种问题其实不是只有容器网络遇到, 早在 `虚拟机时代` (VM), `OpenStack` 就已经遇到过这些问题, 可以通过 OpenStack 官网给出的计算节点结构略窥一二, 
 
 ![KVM 网络结构](https://www.xjimmy.com/wp-content/uploads/image/20180107/1515321289889563.jpg)
 
@@ -61,7 +61,7 @@ type CNI interface {
 }
 ```
 
-这些方案通过不同的 Linux 能力和组件, 都实现了 可用的容器网络方案, 但在此之前, 让我们先了解 这些 Linux 能力与组件.
+这些方案通过不同的 Linux 能力和组件, 都实现了 可用的容器网络方案, 但在此之前, 先了解 这些 Linux 能力与组件.
 
 ## Linux 网络
 
@@ -199,7 +199,7 @@ type CNI interface {
 * docker0 和 br-xxx 的设备, 这些是网桥 (Linux Bridge)
 * vethxxx 设备, 这些是 Veth Pair 设备.
 
-下面会具体介绍什么是 VethPair, 什么是 Linux Bridge，但在此之前，我们需要先介绍 Linux Network Namespace。
+下面会具体介绍什么是 VethPair, 什么是 Linux Bridge，但在此之前，需要先介绍 Linux Network Namespace。
 
 ### Network Namespace
 
@@ -257,7 +257,7 @@ TUN 和 TAP 是功能相近的两个设备，TUN 工作在 OSI 三层， 而 TAP
 
 TUN/TAP 比较特别的地方， 就是它可以让用户态的程序直接读到 三层或者二层的数据，而通常用户态的程序只能读到 四层的数据。
 
-我们可以透过 TUN/TAP 实现一个虚拟的网络设备， 透过 TUN/TAP 直接从下层获取到数据包（帧）， 然后在用户态程序中处理， 处理完毕后， 返回给 网络协议栈，然后再重新封包，并由交换机和路由将这个 数据包发给对应的接收方。
+可以透过 TUN/TAP 实现一个虚拟的网络设备， 透过 TUN/TAP 直接从下层获取到数据包（帧）， 然后在用户态程序中处理， 处理完毕后， 返回给 网络协议栈，然后再重新封包，并由交换机和路由将这个 数据包发给对应的接收方。
 
 TUN/TAP 虚拟设备最常见的一个功能就是用在 VPN 上，例如 VPN Client 的全局代理功能。
 
@@ -354,7 +354,7 @@ iptables 有三个关键的内容，
 * chain（链）
 * rule（规则）
 
-通常我们会形容 iptables 的内容是 五张表（tables）五条链（chain），简称 iptables 5x5。五条链应该都能猜得到，就是对应上面 netfilter 的五个钩子。
+通常会形容 iptables 的内容是 五张表（tables）五条链（chain），简称 iptables 5x5。五条链应该都能猜得到，就是对应上面 netfilter 的五个钩子。
 
 * PREROUTING chain：可以在此处 DNAT
 * INPUT chain：一般用于处理输入本地进程的数据包
@@ -381,7 +381,7 @@ iptables 有三个关键的内容，
 
 这个 JUMP 就可以将包丢到用户自己的 custom chain 上面，custom chain 由于和 netfilter 没什么关系，所以只有 JUMP 过去的时候，才会被触发。
 
-下面是从一个 minikube 的 节点机器上拿到的 iptables 的数据，可以看到和我们上面描述的是符合的。
+下面是从一个 minikube 的 节点机器上拿到的 iptables 的数据，可以看到和上面描述的是符合的。
 
 ```shell
 docker@minikube:~$ sudo iptables -t nat -L -n
@@ -534,7 +534,7 @@ OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLA
 
 ### eBPF（BPF）
 
-BPF 其实我们并不陌生，Tcpdump 就是使用 cBPF 实现的。
+对 BPF 其实并不陌生，tcpdump 就是使用 cBPF 实现的。
 
 eBPF 是 原 cBPF 的扩展版，不过业界统称 BPF，它的功能是在 内核态下对于诸多的系统事件提供钩子，这样用户代码在内核态下进行工作。 Kubernetes 的 Clilium 网络方案就是基于 BPF 实现的。
 
@@ -542,7 +542,7 @@ eBPF 是 原 cBPF 的扩展版，不过业界统称 BPF，它的功能是在 内
 
 ### 跨节点组网方案总结
 
-每一个网络虚拟化方案都是 网络虚拟机 + IP 地址分配的组合，我们会在下一篇博客中对 Kubernetes 的各个网络方案进行解析。
+事实上，目前社区的每一个网络虚拟化方案，本质都是 网络虚拟机 + IP 地址分配的组合，会在下一篇博客中对 Kubernetes 的各个网络方案进行解析。
 
 ## 协议
 
@@ -574,7 +574,7 @@ ARP 协议 是通过 网络层（L3）地址 寻找 数据链路层（L2）地�
 
 ARP 协议的运行方式类似如下
 
-一个 IP 包到达交换机， 交换机查询自身 ARP 缓存表，发现找不到这个 Mac，就问广播整个子网，说这个 Mac 地址是谁，然后 整个子网的设备都会做 ARP 响应，说我的 IP 是多少，Mac 是多少，接着，交换机缓存这个对应信息，然后将 IP 包走对应的网口发出去。
+一个 IP 包到达交换机， 交换机查询自身 ARP 缓存表，发现找不到这个 Mac，就问广播整个子网，说这个 Mac 地址是谁，然后 整个子网的设备都会做 ARP 响应，说自身的 IP 是多少，Mac 是多少，接着，交换机缓存这个对应信息，然后将 IP 包走对应的网口发出去。
 
 #### ARP 广播风暴
 
@@ -596,7 +596,7 @@ ARP 欺骗是内网中间人攻击的基石，攻击者不断将假的 ARP 网�
 
 ### IPSec
 
-IPsec 是一种三层的连接安全协议，而我们熟知的 SSL/TLS 是一种运行在 四层的依靠 TCP 来管理的连接安全协议， HTTPS 更不用说，依靠 七层的 HTTP 来建立安全连接
+IPsec 是一种三层的连接安全协议，熟知的 SSL/TLS 是一种运行在 四层的依靠 TCP 来管理的连接安全协议， HTTPS 更不用说，依靠 七层 来建立安全连接
 
 ## REF
 
