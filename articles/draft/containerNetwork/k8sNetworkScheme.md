@@ -9,7 +9,7 @@
 1. 所有的 Pods 都需要有 独立的 IP 地址
 2. 所有的 Pods 都需要可以对外发包并接收到响应
 3. Pod CIDR 用来区分节点，划分子网
-4. 提供多个后端服务的负载均衡
+4. 提供多个后端服务的负载均衡器（Service）
 5. 使用 DNS 来服务发现
 6. 使用 Network Policy (网络策略) 来区分网络
 
@@ -40,7 +40,7 @@ flannel 几乎是最早的跨节点容器解决方案，flannel 目前提供很�
 * `IPIP` \ `IPSec` 
 * 仅限单机的 `Alloc`
 
-在 `UDP` \ `VXLAN` \ `Host-Gateway`，其实并不全是 Overlay 方案，当中的 Host-Gateway 就是 Route 方案,
+
 
 ![img](https://miro.medium.com/max/1806/1*JqSLd3cPv14BWDtE7YEcRA.png)
 
