@@ -40,6 +40,8 @@ flannel 几乎是最早的跨节点容器解决方案，flannel 目前提供很�
 * `IPIP` \ `IPSec` 
 * 仅限单机的 `Alloc`
 
+flannel 的方案
+
 ###### UDP mode
 
 // TODO
