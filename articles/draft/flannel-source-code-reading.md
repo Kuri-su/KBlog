@@ -6,8 +6,12 @@ flannel 的源码分为两个部分,
 
 * Services 部分, 负责 子网划分 和 数据包转发: https://github.com/flannel-io/flannel 
   * 这是个 DaemonSet 服务, 运行在 K8s 中
-* CNI Plugins 部分, 负责 容器 IP 地址的申请和释放: https://github.com/flannel-io/cni-plugin
+* CNI Plugin 部分, 负责 容器 IP 地址的申请和释放: https://github.com/flannel-io/cni-plugin , 不过实际的 IP 分配过程不是由 flannel 完成, 而是由 kubernetes 的 nodeIPAM controller 完成. flannel 的 CNI plugin 仅仅负责传递 IP 分配的限制条件, 例如 分配的IP 范围, 等.
   * 这是个 二进制文件, 供 CNI 调用
+
+
+
+---
 
 ## Struction
 
