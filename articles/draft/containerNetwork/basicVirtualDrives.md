@@ -45,10 +45,12 @@ SDN 通常有三个特点:
 
 虚拟网络和 SDN 的概念基本上是完全契合, 只能通过软件管理 虚拟网络. 但 SDN 除了在 虚拟网络中大显身手外, 还在实体网络中有非常多的使用, 例如下面这些场景: 
 
-* 大型机房中动态控制网络
-* 边缘计算中的网络配置
-* 复杂场景下的 Overlay 网络
+* 大型机房中动态控制网络, Google 和 FB 的机房的 基础网络中就有 SDN 的身影, 并且还成立了专门的基金会去推广 SDN . 
+* 边缘计算中的网络配置, 从而避免需要前往物理位置设置边缘节点网络.
+* 复杂场景下的 Overlay 网络, 将下层路由的区别全部抹平, 承受一定的性能损失, 在上层重新定义网络拓扑和规则.
 * 网络运维自动化, 例如 网络的配置与变更、监控可视化、故障诊断、网络扩展升级等
+
+BTW, 还有 NFV(Network Functions Virtualization) 网络功能虚拟化 的技术, 是一种使用x86等通用硬件来承载传统网络设备功能的技术. 通常做 SDN 的人也会接触到.  同SDN一样，NFV从根本上讲是从基于硬件的解决方案转向更开放的基于软件的解决方案. 不过这里因为主要是讲 虚拟网络, 这里就不展开聊 NFV.
 
 ### K8s 中的虚拟网络
 
@@ -553,17 +555,25 @@ Macvlan 是 Linux Kernel 实现的特性， 允许创建多个虚拟网卡，Mac
 
 IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一个网卡上配置多个 IP 地址，不过所有的虚拟接口都是同一个 Mac 地址。IPvlan 可以和 Macvlan 一起使用来弥补 Macvlan 在内网子虚拟机之间的交换上的缺陷。
 
-### Open vSwitch
+### Open vSwitch (OVS)
 
-OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLAN 的连接能力 和 GRE 提供的转发能力来搭建，所以相当于利用 VXLAN 来提供 网络虚拟化的能力。
+OVS 直译 开放虚拟交换机,  是一个支持 OpenFlow 的 SDN 开源实现, 架构图如下, 
 
-// TODO
+![img](https://img1.sdnlab.com/wp-content%2Fuploads%2F2016%2F03%2FOpen-vSwitch-transplantation-picture-1.png)
+
+最上层就是 OpenvSwitch 的 “控制层” , 控制层会提供若干个命令, 在下面两层都是数据平面, 分别是 用户态的数据平面 和 内核态的数据平面, 由于 OpenvSwitch 有部分特性已经合入内核, 拦截数据包, 并执行 Flow Table 中的策略.但这里只是为了优化性能的一个 Cache 规则, 如果没有 match 到 Flow Table 的规则, 会将数据包 通过 Kernel 的 Netlink 机制 给到 用户态的  vswitchd 去处理, 这里有真正的全量规则.
+
+OVS 有和 iptables 类似的转发和连接规则设置,  这些规则会保存在 vswitchd 内存内的一个用户态的 FlowTable 中, 而vswitchd 就是专门处理用户态转发规则的一个组件. 旁边的 ovsdb 是专门设置 和存放 虚拟交换机的组件.
+
+然后这一套 OVS 组件在每个机器上都需要有一套, 来实现转发和网络划分. OVS 中你可以通过规则完成非常多的功能, 例如 OVS 中可以通过 规则实现 VXLAN 的功能.
 
 ### eBPF（BPF）
 
 对 BPF 其实并不陌生，tcpdump 就是使用 cBPF 实现的。
 
 eBPF 是 原 cBPF 的扩展版，不过业界统称 BPF，它的功能是在 内核态下对于诸多的系统事件提供钩子，这样用户代码在内核态下进行工作。 Kubernetes 的 Clilium 网络方案就是基于 BPF 实现的。
+
+目前(2021) eBPF 在业界是一个非常火热的方向, 你可以通过 eBPF 直接绕开 Linux 的协议栈, 来完成高性能的工作, 或者实现多种监控工作.
 
 ![](../../../assets/containerNetwork-23-bcc-bpf-tracing.png)
 
