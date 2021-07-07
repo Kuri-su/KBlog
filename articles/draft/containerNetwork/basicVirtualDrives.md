@@ -31,13 +31,19 @@
 
 这里需要插入一个概念叫做 SDN (软件定义网络), 而在 2021 年的今天, SDN 已经由原来狭义的 SDN 概念 扩展到广义的 SDN 上, 狭义的 SDN 通常指的是 2009 年由 斯坦福大学 的 Clean State研究课题组 提出的概念, 它将网络分为三层, 利用 `OpenFlow` 协议和 `Open vSwtich` 软件进行管理, OpenFlow 协议是第一批 SDN 的标准之一.
 
-![img](https://bkimg.cdn.bcebos.com/pic/a5c27d1ed21b0ef400260111d0c451da80cb3eb6?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto)
+![](../../../assets/containerNetwork-27-classic-SDN.jpeg)
 
 上图中的三层 有点像 Istio 的结构, 只不过 Istio 没有最上面的 SDN 网络应用层. SDN 也有 控制平面 和 数据平面.
 
 随着 SDN 的发展, 更多的实现方案开始出现, 很多的 方案并不使用 OpenFlow 协议, 并且也不一定是 SDN 一开始的三层结构, 例如在下一篇文章中要漫谈的 K8s 的各个网络方案. 但他们都符合 SDN 的理念, 即 `软件定义网络`, 所以就有了广义的 SDN 概念, 现在 SDN 已经是指广义的 SDN 概念.
 
-虚拟网络和 SDN 的概念基本上是完全契合, 因为在这里根本没有别的办法实现网络管理, 只能通过软件管理网络. 但 SDN 除了在 虚拟网络中大显身手外, 还在实体网络中有非常多的使用, 例如下面这些场景: 
+SDN 通常有三个特点: 
+
+1. 控制功能和转发功能分离, 和 Istio 的逻辑类似, 控制面 和 实际执行规则的数据平面分离.
+2. 控制平面与转发平面之间互相开放接口
+3. 在逻辑层面可以集中控制 所有的转发节点, 这点和 Istio 的逻辑完全一样, Istio 会下发转发规则到所有的 数据平面.
+
+虚拟网络和 SDN 的概念基本上是完全契合, 只能通过软件管理 虚拟网络. 但 SDN 除了在 虚拟网络中大显身手外, 还在实体网络中有非常多的使用, 例如下面这些场景: 
 
 * 大型机房中动态控制网络
 * 边缘计算中的网络配置
@@ -550,6 +556,8 @@ IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一�
 ### Open vSwitch
 
 OVS 是运行在 VXLAN + GRE 协议 的一个 overlay 网络实现，透过 VXLAN 的连接能力 和 GRE 提供的转发能力来搭建，所以相当于利用 VXLAN 来提供 网络虚拟化的能力。
+
+// TODO
 
 ### eBPF（BPF）
 
