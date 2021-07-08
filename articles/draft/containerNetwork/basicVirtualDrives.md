@@ -559,7 +559,7 @@ IPvlan 也是 Linux Kernel 实现的特性， 和 MacVlan 类似， 允许 一�
 
 OVS 直译 开放虚拟交换机,  是一个支持 OpenFlow 的 SDN 开源实现, 架构图如下, 
 
-![img](https://img1.sdnlab.com/wp-content%2Fuploads%2F2016%2F03%2FOpen-vSwitch-transplantation-picture-1.png)
+![img](../../../assets/containerNetwork-28-ovs-arch.png)
 
 最上层就是 OpenvSwitch 的 “控制层” , 控制层会提供若干个命令, 在下面两层都是数据平面, 分别是 用户态的数据平面 和 内核态的数据平面, 由于 OpenvSwitch 有部分特性已经合入内核, 拦截数据包, 并执行 Flow Table 中的策略.但这里只是为了优化性能的一个 Cache 规则, 如果没有 match 到 Flow Table 的规则, 会将数据包 通过 Kernel 的 Netlink 机制 给到 用户态的  vswitchd 去处理, 这里有真正的全量规则.
 
