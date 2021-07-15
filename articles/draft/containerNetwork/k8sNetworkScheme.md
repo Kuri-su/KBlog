@@ -34,7 +34,7 @@ overlay 直译过来就是 覆盖层，也就是在原有网络的基础上，�
 
 ##### flannel
 
-flannel 几乎是最早的跨节点容器解决方案，flannel 目前提供很多种的网络模式，除了等下要详细讲的 `UDP` \ `VXLAN` \ `Host-Gateway` 这三个模式外，还包括如下
+flannel 几乎是最早的跨节点容器解决方案，flannel 提供很多种的网络模式，除了等下要详细讲的 `UDP` \ `VXLAN` \ `Host-Gateway` 这三个模式外，还包括如下
 
 * 平台绑定的网络模式 ： `AliVPC` \ `AWSVPC` \ `TencentVPC` \ `GCE Route`
 * `IPIP` \ `IPSec` 
