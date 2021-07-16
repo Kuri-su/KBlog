@@ -19,7 +19,8 @@ flannel 要解决基于 CNI 的问题包括如下:
 2. 所有的 Pods 都需要可以对外发包并接收到响应
 3. 合理划分子网, 避免 ARP 泛洪问题.
 4. 可以动态的分配 IP 地址, 而不是静态的地址分配
-5. 
+5. 节点上的 Pod 可以不通过 NAT 和其他任何节点上的 Pod 通信
+6. 节点上的代理（比如：系统守护进程、kubelet）可以和节点上的所有Pod通信
 
 基于这些问题, flannel 提出了如下被后面出现的网络方案视为标准的 point: 
 
@@ -29,3 +30,8 @@ flannel 要解决基于 CNI 的问题包括如下:
 
 flannel 会 以 DaemonSet 的 形式 在每个节点上安装一个 Agent, 然后这些 Agent 并不会自己转发和处理数据,这些 Agent 会在对应的节点上对环境进行配置, 设置那台机器的虚拟网络设备和相关配置文件, 
 
+
+
+## ref
+
+* [CNI - Flannel - IP 管理篇 - hwchiu](https://www.hwchiu.com/cni-flannel-ii.html)
