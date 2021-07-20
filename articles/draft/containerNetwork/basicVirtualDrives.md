@@ -268,6 +268,10 @@ Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 
 
 ### Linux bridge
 
+// TODO 细节, bridge 的一端连着协议栈
+
+// 这里的图事实上是简化了 bridge 的结构, 这里从 docker0 到达 eth0 的包会先过一遍操作系统的协议栈 , 至少要到达 L3 层, 然后再协议栈封包, 从 eth0 网卡离开当前计算机
+
 顾名思义, 这个虚拟网络设备是 Linux 网桥, 对应的现实中的网络设备是 交换机, 多个设备或者 Network Namespace , 通过  Veth Pair 连接到网桥上, 来实现连通. 
 
 当网桥接受到 数据包后, 会根据 `ARP 协议`广播  `询问报文` 到所有连接到自己的设备上 , 来转换 IP 获取 Mac 地址, 进而转发数据包, 到指定的网络设备上. BTW, 每个 veth pair 的设备都是有自己的 Mac 地址的.
@@ -528,6 +532,8 @@ $ iptables-save
 iptables 之所以慢的原因笔者认为是由于 iptables 需要一条一条规则的去运行，类似于一个链表的形式，这样必然会比 ipvs 慢，前面聊过了，IPVS 内部是一个 Hashmap，规则再多，也就是优化一下 Hashmap 后面挂的链表或者 处理下 hashmap 扩容。
 
 ### VXLAN(VLAN)
+
+// TODO 补充更多
 
 在聊 VXLAN 之前，需要先介绍 VLAN。
 
