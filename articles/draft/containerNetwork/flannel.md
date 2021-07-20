@@ -153,11 +153,13 @@ L4 protocal format
 
 
 
-## CNI 以及 预配置环境
+## 与 K8s 结合
 
 大多数的文章写到这里就停了, 但其实只介绍 flannel 的  runtime 是没有办法和 K8s 相关知识串起来的, 还需要了解 flannel 是如何 支持 CNI 来达成和 K8s 协作的.
 
 
+
+// 你可以看到 flannel 并不是强绑定 K8s 的, flannel 只是依赖 etcd . 大多数的 K8s 的网络方案自身也支持 为虚拟机提供服务.  
 
 
 
