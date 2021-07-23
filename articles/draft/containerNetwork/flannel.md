@@ -2,8 +2,6 @@
 
 [TOC]
 
-flannel 是一个 提供给 Kubernetes 的 CNI 容器虚拟网络方案, 
-
 ## 背景 和 flannel 要解决的问题
 
 从 flannel 的角度看, Kubernetes 只提供了 CNI 接口, 而 flannel 要完成下层网络的连通和构建.
@@ -31,6 +29,12 @@ flannel 要解决基于 CNI 的问题包括如下:
 明确了要解决的问题后, 需要来写一些代码来解决这些问题, flannel 选择了构建 overlay 网络的方式来解决 Kubernetes 网络的搭建问题.
 
 ## runtime 方案设计
+
+flannel 几乎是最早的跨节点容器解决方案，flannel 提供很多种的网络模式，除了等下要详细讲的 `UDP` \ `VXLAN` \ `Host-Gateway` 这三个模式外，还包括如下
+
+* 平台绑定的网络模式 ： `AliVPC` \ `AWSVPC` \ `TencentVPC` \ `GCE Route`
+* `IPIP` \ `IPSec` 
+* 仅限单机的 `Alloc`
 
 ### TUN ( backend UDP )
 
