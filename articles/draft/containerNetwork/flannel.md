@@ -62,7 +62,7 @@ L4 protocal format
 ---------------
 ```
 
-所以 bridge 会将这个数据包交给 `Linux 协议栈` 来做 L3 层的路由, `Linux 协议栈` 发现 数据包中的 `目标地址 IP` 符合 `Linux Kernel` 路由表中的路由规则, 接着会将 数据包 转发给 `flannel 0 设备`, 而 `flannel 0` 是 tun 设备, 在 收到 数据包后 会以 `L3 数据包` 的格式将 数据包 发给 flanneld 程序. 当前数据包结构如下
+所以 bridge 会将这个数据包交给 `Linux 协议栈` 来做 L3 层的路由, `Linux 协议栈` 发现 数据包中的 `目标地址 IP` 符合 `Linux Kernel FIB` 中的路由规则, 接着会将 数据包 转发给 `flannel 0 设备`, 而 `flannel 0` 是 tun 设备, 在 收到 数据包后 会以 `L3 数据包` 的格式将 数据包 发给 flanneld 程序. 当前数据包结构如下
 
 ```
 # current package format
@@ -124,7 +124,7 @@ L4 protocal format
 ---------------
 ```
 
-将数据包再给回 flannel 0 这个 TUN 设备, TUN 设备会把这个包放回 L3 的协议栈中, 协议栈会去根据 Linux Kernel 路由表中的命中规则, 将 数据包发送 给 docker 0 , 然后 docker 0 完成 ip 到 mac 地址的转换, 将 数据包从对应的 veth pair 传输到 `network namespace` 中, 接着在 Linux 的协议栈 L4 拆包时, 将数据包给到 Biz App.  当前数据包结构如下
+将数据包再给回 flannel 0 这个 TUN 设备, TUN 设备会把这个包放回 L3 的协议栈中, 协议栈会去根据 Linux Kernel FIB 中的命中规则, 将 数据包发送 给 docker 0 , 然后 docker 0 完成 ip 到 mac 地址的转换, 将 数据包从对应的 veth pair 传输到 `network namespace` 中, 接着在 Linux 的协议栈 L4 拆包时, 将数据包给到 Biz App.  当前数据包结构如下
 
 ```
 # current package format
@@ -167,7 +167,7 @@ VXLAN 透过和上述 TUN 模式类似的结构实现了一个 Overlay 网络, �
 
 // TODO https://app.diagrams.net/#D210720-flannel-arch.drawio
 
-在前面的流程都类似, 从 `Network Namespace` 出来, 经过 docker 0 / CNI 0 , 然后来到 `Linux Kernel router`, 匹配到路由规则, 将数据包丢给 flannel.1 , 在这里 透过 flanneld 以及 flanneld 维护的 FDB 以及 ARP 表, 按照 VXLAN 的方式包装后, 将数据包丢给 Node B, 接着 Node B 里的 VTEP 进行解包, 然后将数据透过 Linux Kernel Router 中的路由给到 docker0 / cni0 bridge , 接着再通过 veth pair 给到 实际的应用程序.
+在前面的流程都类似, 从 `Network Namespace` 出来, 经过 docker 0 / CNI 0 , 然后来到 `Linux Kernel FIB`, 匹配到路由规则, 将数据包丢给 flannel.1 , 在这里 透过 flanneld 以及 flanneld 维护的 FDB 以及 ARP 表, 按照 VXLAN 的方式包装后, 将数据包丢给 Node B, 接着 Node B 里的 VTEP 进行解包, 然后将数据透过 Linux Kernel Router 中的路由给到 docker0 / cni0 bridge , 接着再通过 veth pair 给到 实际的应用程序.
 
 #### 结
 
@@ -183,7 +183,7 @@ VXLAN 透过和上述 TUN 模式类似的结构实现了一个 Overlay 网络, �
 
 //TODO https://app.diagrams.net/#D210720-flannel-arch.drawio
 
-flannel 就是这么做的, flanneld 会配置 路由规则在 `Linux Kernel Router` 上, 但是这次它会把 Node B 对应的路由网关设置为 Node B的 IP, 并创建另一个网卡 eth1, 并且在 eth 1 的网段设置上, 故意和原有的 eth0 错开网段, 当 Node A 的 `Linux Kernel Router` 想直接转发数据包给 Node B 的时候, 发现这是另一个网段的包, 它尚未知道 Node B 的 Mac 地址, 所以 Node A 会将数据包传给 对应的 网关, 数据包就直接给到 Node B, 这个时候 Node B 只需要将数据包投递给对应的容器即可, 可以看到方案的变得简单了很多.
+flannel 就是这么做的, flanneld 会配置 路由规则在 `Linux Kernel FIB` 上, 但是这次它会把 Node B 对应的路由网关设置为 Node B的 IP, 并创建另一个网卡 eth1, 并且在 eth 1 的网段设置上, 故意和原有的 eth0 错开网段, 当 Node A 的 `Linux Kernel FIB` 想直接转发数据包给 Node B 的时候, 发现这是另一个网段的包, 它尚未知道 Node B 的 Mac 地址, 所以 Node A 会将数据包传给 对应的 网关, 数据包就直接给到 Node B, 这个时候 Node B 只需要将数据包投递给对应的容器即可, 可以看到方案的变得简单了很多.
 
 Node A 的路由表大致长这样子
 
@@ -207,7 +207,7 @@ Node A 的路由表大致长这样子
 
 随后, 可能是有了灵感, 直接将 对应的节点作为 网关, 这样就解决了转发的复杂性, 并且由于是直接路由转发的方案, 性能也是有保证的.
 
-再随后, flannel 还做了 例如 `ipip转发`, `ipsec` 等的方案, 这些方案的思路和上述方案的思路类似, 这里就不赘述. 
+再随后, flannel 还做了 例如 `ipip转发`(host-gw 的再改进版), `ipsec` 等的方案, 这些方案的思路和上述方案的思路类似, 这里就不赘述. 
 
 ## 与 K8s 结合
 
