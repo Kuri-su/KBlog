@@ -82,9 +82,7 @@ BTW, Calico 方案目前 (v3.13)已经支持使用 BPF 来完成包的转发.
 
 ### Weave
 
-
-
-// TODO
+Weave 方案有点像 Calico 和 Flannel 的组合体, 数据包装和 Flannel 的 TUN 方案 以及 VXLAN 方案类似, 而跨节点组网和 Calico 类似, 由 BGP 改为 Gossip 协议. 这里不展开 Weave.
 
 ### Cilium
 
