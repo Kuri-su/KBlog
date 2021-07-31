@@ -1,4 +1,6 @@
-# Kubernetes CNI 网络插件的 方案和实现
+{"title": "Kubernetes network scheme","description": "kubernetes 组网方案","category": "cloudnative","tag": ["docker","cloudnative","network"],"page_image": "/assets/k8sNetworkScheme-00-header.png"}
+
+# Kubernetes network scheme
 
 [TOC]
 
@@ -31,8 +33,6 @@ Route 类方案， 来利用设置三层路由来完成组网，数据包出网�
 ### flannel
 
 flannel 几乎是最早的跨节点容器解决方案，由于 flannel 的设计实用而简洁, 所以通常建议在看其他 Kubernetes 网络方案之前, 先了解 flannel 的设计.
-
-// TODO 输出图片 https://app.diagrams.net/#D210720-flannel-arch.drawio
 
 ![](../../../assets/flannel-01-arch-TUN.png)
 
