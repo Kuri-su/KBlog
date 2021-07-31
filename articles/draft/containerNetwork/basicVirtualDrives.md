@@ -1,3 +1,5 @@
+{"title": "Virtual Network - basic","description": "容器网络(虚拟网络基础)","category": "cloudnative","tag": ["docker","cloudnative","network"],"page_image": "/assets/containerNetwork-00-header.png"}
+
 # 容器网络 (虚拟网络) 基础
 
 > * 因为笔者对 计算机网络 认识浅薄, 加上很多的部分都是现学现卖，所以下述内容可能存在与具体事实相悖的内容, 所以如果发现请劳烦指正或讨论! 不胜感激.
@@ -217,8 +219,6 @@ type CNI interface {
     link/ether e2:58:d2:b1:a5:7d brd ff:ff:ff:ff:ff:ff link-netnsid 9
     inet6 fe80::e058:d2ff:feb1:a57d/64 scope link 
        valid_lft forever preferred_lft forever
-       
- // TODO 补一张 brctl 绑定的信息
 ```
 
 这里可以看到四种设备, 
@@ -268,9 +268,9 @@ Veth 是 `Virtual Ethernet` 的缩写, 意思是 虚拟以太网卡,  Veth Pair 
 
 ### Linux bridge
 
-// TODO 细节, bridge 的一端连着协议栈
+Linux bridge 和协议栈相连, 然后可以和多个 veth 相连.
 
-// 这里的图事实上是简化了 bridge 的结构, 这里从 docker0 到达 eth0 的包会先过一遍操作系统的协议栈 , 至少要到达 L3 层, 然后再协议栈封包, 从 eth0 网卡离开当前计算机
+这里的图事实上是简化了 bridge 的结构, 这里从 docker0 到达 eth0 的包会先过一遍操作系统的协议栈 , 至少要到达 L3 层, 然后再协议栈封包, 从 eth0 网卡离开当前计算机
 
 顾名思义, 这个虚拟网络设备是 Linux 网桥, 对应的现实中的网络设备是 交换机, 多个设备或者 Network Namespace , 通过  Veth Pair 连接到网桥上, 来实现连通. 
 
@@ -532,8 +532,6 @@ $ iptables-save
 iptables 之所以慢的原因笔者认为是由于 iptables 需要一条一条规则的去运行，类似于一个链表的形式，这样必然会比 ipvs 慢，前面聊过了，IPVS 内部是一个 Hashmap，规则再多，也就是优化一下 Hashmap 后面挂的链表或者 处理下 hashmap 扩容。
 
 ### VXLAN(VLAN)
-
-// TODO 补充更多
 
 在聊 VXLAN 之前，需要先介绍 VLAN。
 
