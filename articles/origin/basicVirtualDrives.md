@@ -58,7 +58,7 @@ BTW, 还有 NFV(Network Functions Virtualization) 网络功能虚拟化 的技�
 
 `虚拟网络` 是相对于 `传统网络` 所提出的概念, 例如大型机房中, 需要有很多的 交换机/网线/网卡 等的 实体网络设备, 来让机房中的各个 Server 之间互相通信. 当 `虚拟化技术(VM/Container)` 开始升温之后, 一台16C64G 的实体机器上, 可能存在 十几个到上百个的 虚拟机, 他们宛如 大型机房中的多个主机, 之间需要解决互联的需求. 于是 便有了虚拟网络的概念. 但在当前的常见技术中, 尚无能完美解决这个需求的技术方案, 各家都在提出自己的方案, 用不同的技术, 来不断的优化. 例如 `OpenStack(一个 基于 KVM 的 虚拟机编排系统)` 本身对于 其虚拟化网络实现就进行了多次迭代, 容器网络生态中, 也针对 K8s 的 CNI 接口, 以 CNI-Plugin 的形式 , 提出了 各种实现方案, 例如
 
-* Flannel
+* flannel
 * Calico
 * Weave
 * Cilium
@@ -648,7 +648,7 @@ IPsec 是一种三层的连接安全协议，熟知的 SSL/TLS 是一种运行�
 > * [容器网络(一) - morven.life](https://morven.life/posts/networking-4-docker-sigle-host/)
 > * [Linux無線網路架構 - itread01.com](https://www.itread01.com/content/1547977690.html)
 > * [KVM 网络虚拟化基础  - Jimmy's Blog](https://www.xjimmy.com/openstack-5min-9.html)
-> * [Flannel Networking Demystify - msazure.club](https://msazure.club/flannel-networking-demystify/)
+> * [flannel Networking Demystify - msazure.club](https://msazure.club/flannel-networking-demystify/)
 > * [kubernetes 网络权威指南 - jd.com](https://item.jd.com/12724298.html)
 >   * ![](https://img14.360buyimg.com/n0/jfs/t1/83076/12/12519/154383/5da01033Ee717550a/9a3d23a200e3b207.jpg)
 > * [Linux 虚拟网络设备 - morven.life](https://morven.life/posts/networking-2-virtual-devices/)
