@@ -1,7 +1,7 @@
 
 在献祭了四个晚上之后, 终于在 ubuntu 上用 devstack 成功安装 openstack, 那么请问成功的秘诀是什么, 成功的秘诀就是, 别看 CSXN 上的那些教程, 一顿操作猛如虎, 最后完全安装不上. 一个 local.conf 文件几百行, 结果最后 几行的 local.conf 更加顶用, 另外千万别设置国内的 git 镜像, 虽然拉的慢, 但是能跑! 也不要拉那些很老的稳定分支, 直接拉 master 即可.
 
-![](http://img.cdn.kuri.link/img/openstack_success_v.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/openstack/openstack_success_v.png)
 
 下面将介绍如何在 Ubuntu 上安装 devstack, 绝对没有猛如虎的操作, 简单佛系低门槛安装.
 
@@ -144,7 +144,7 @@ $ ./stack.sh
 
 6. 访问 openstack 开始享用把
    
-![](http://img.cdn.kuri.link/img/openstack_dashboard_v.jpg)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/openstack/openstack_dashboard_v.jpg)
 
 
 如果安装中碰到问题可以到 [kblog](https://github.com/Kuri-su/KBlog) 发 issue 讨论
