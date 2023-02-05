@@ -240,8 +240,107 @@ past 经过 adv.
 **## 课文**
 
 * 现在完成时
+
   * 形式: have / has + v. 过去分词 (done)
+
   * 用法: 
+
+    * 完成分两种
+
+      1. 全部完成
+
+      2. 部分完成 (未按照预期完成 也算是一个完成的结果)
+
+    * 1. 现在全部完成, 对于这个时态, 做完 或者 没做完其实不重要, 关键在看待 事情的角度
+      2. 现在部分完成
+
+    * 用法: 现在的之前(角度), BTW: 表达从当下看之前.
+
+    * e.g.
+
+      * → He has finished the homework.
+      * → We have learned English for ten years.
+
+    *   否定疑问: 
+
+      * → Hehas not finished the homework.
+      * → Has he finished the homework.
+      * → What has he done ? 
+
+    * Have/has + just + done
+
+    * ​                    alerady 已经
+
+    * ​                    ever 曾经
+
+    * ​                    never 从未
+
+    * for + 时间 : 持续了多久
+
+    * for + 名词 : 为了 sb.
+
+    * → He has been there for six months. (there 作 adv, 可直接修饰 v. , 无需介词)
+
+    * → He is working for a big firm.
+
+    * → He has been in Australia for six months. (been 后接名词, 需要介词, 名词无法直接修饰动词)
+
+    * → He is working for a big firm and he has already vicited a great number of different place in Australia.
+
+      * a great/large number of 许多, 大量
+      * a number of + 可数名词复数
+      * a great deal of + 不可数名词
+      * --
+      * have gone to ... 去了(单程, 人还没回来)
+      * have been to ... 去过 (往返, 人已经回来了)
+      * spring
+        * 春天
+        * 泉水
+        * 弹簧
+
+    * 现在完成时, 常搭配
+
+      * just / already / ever / never
+      * yet 已经(否定句/疑问句)
+      * so far /up to now / before /lately 
+      * for + 一段时间
+      * e.g.
+        * → I have had breakfast.
+        * ↘︎ I have just had breakfast.
+        * --
+        * →  He has been in prison.
+        * ↘︎ He has been in prison for six months.
+        * --
+        * → The police have not caught the thief.
+        * ↘︎ The police have not yet caught the thief.
+        * --
+        * → Have you met him?
+        * ↘︎ Have you ever met him before?
+
+* up to now 到目前为止
+
+* otherwise 否则
+
+* thousands 数千
+
+* 区别动词的 过去式 和 过去分词
+
+  * 过去式 (did)
+    * 一般过去式
+  * 过去分词 (done)
+    1. 完成时态 (所有)
+    2. 被动语态
+    3. 非谓语动词
+
+* buy bought bought
+
+* ring rang rung
+
+* find found found
+
+## L5 No wrong numbers
+
+// TODO
 
 ## L49 The end of a dream
 
