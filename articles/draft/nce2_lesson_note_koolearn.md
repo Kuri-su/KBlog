@@ -2,6 +2,56 @@
 
 [TOC]
 
+## L1 A private conversation 
+
+1. th-
+   * 轻 [θ] like s
+   * 浊 [ð] like z
+2. turned round = turn a round 
+3.  adj. 和 adv.
+   * adj. 通常修饰名词
+   * adv. 通畅修饰 动词/句子/或者其他 adj.
+   * 总结: adj. 修饰名词, 其他的都由 adv. 修饰
+
+句子成分: 
+
+| 1    | 2     | 3        | 4     | 5    | 6     | 7    |
+| ---- | ----- | -------- | ----- | ---- | ----- | ---- |
+| When | Who   | Action   | Who   | How  | Where | When |
+|      | Which |          | Which |      |       |      |
+|      | What  |          | What  |      |       |      |
+|      |       |          |       |      |       |      |
+|      | 主语  | 谓语动词 | 宾语  |      |       |      |
+
+**## 单词**
+
+* privacy n. 隐私
+  * private adj. 私人的
+* loud adj. 大声的
+  *  loudly adv. 大声地
+* conversation n. 谈话
+* theatre n. 剧院
+* seat n. 座位
+* attention n. 注意
+  * -> May I have your attention , please?
+  * -> Attention, please?
+  * attract/catch/draw one's attention
+* bear v. 容忍
+
+## L2 Breakfast or lunch?
+
+**## Key structure** 
+
+* 现在进行时
+* 一般现在时
+* 感叹句
+
+
+
+
+
+
+
 ## L49 The end of a dream
 
 unit 1 简单句
