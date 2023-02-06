@@ -340,5 +340,123 @@ past 经过 adv.
 
 ## L5 No wrong numbers
 
-// TODO
+**## 单词**
 
+* pigeon n. 鸽子 
+  * dove n. 鸽子, 鸽派
+* cover v. 越过
+* distance n. 距离
+  * distant adj. 有距离的, 遥远的, 
+  * **部分名词 把 `ce` 后缀 改为 `t`, 词性会从 n. 变成 adj.**
+    * distance n. 距离 ->  distant adj. 有距离的, 遥远的
+    * disfference n. 不同 -> different adj. 不同的
+    * importance n. 重要 -> important adj. 重要的
+    * confidence n. 信心 -> confident adj. 有信心的
+    * convenience n. 方便 -> convenient adj. 方便的
+* spare part 备件
+  * spare adj. 空余的 v. 节省 
+  * spare time 空闲时间
+    * → What do you do in your spare time ? 
+    * → I cannot spare the time
+  * a spore room 一个空房间
+  * → He spare the slave's life 饶命
+* urgent messages 紧急消息
+  * short message 短信
+  * send/receive/get/leave + a message
+  * leave message 留言 (落叶信息)
+
+**## Key structure** 
+
+现在完成时 vs. 一般过去时
+
+**## 课文**
+
+- up to now / so far 截止到现在 (用现在完成时)
+
+- a (great/large) number of + 可数名词
+  - a great deal of + 不可数名词
+  - a great many + 可数名词
+- one ... the other (一个...另一个)
+  - from one garage to the other
+- some... others (一些 ... 另一些)
+- in this way 这样
+- --
+
+* 现在完成时 vs. 一般过去时
+
+  * 现在到的之前, 如果已经全部完成, 其实可以换成一般过去式
+    * → He has finished the homework.
+    * ↘︎ He finished the homework
+
+  * 区别
+
+    1. 强调过去的`时间`, 用一般过去式
+       * → He finished the homework two hours ago.
+    2. 某些事虽然做完了, 但对现在有影响, 想强调对现在的影响, 用 过去完成时
+       * → He has finished the homework, so he can have a rest now.
+
+    * ✩ 现在完成时中, 全部都做完的, 可以换成 过去, 知识两个时态强调的侧重点不同.
+      1. 换而言之, 如果事情到现在之前都没做完的, 则不可以换成一般过去时
+         * e.g. 
+           * →We have learned English for ten years. 我学了十年英语
+           * → We learned English for ten years.  我十年前学了英语
+           * 上面两个例句的意思不一样
+
+  * 搭配
+
+    * 现在完成时, 常搭配
+      * just / already / ever / never
+      * yet
+      * so far / up till now / up to now/ before / lately
+      * for + 一段时间
+    * 一般过去时, 常搭配
+      * last year / month
+      * ten days ago
+      * yesterday / this morning
+
+  * **一般现在时 / 一般过去式 / 现在完成时 之间的本质区别**
+
+    * →He is there. 他在那 (只表示现在) 一般现在时
+    * →He was there. 他曾在那 (只表示过去) 一般过去时
+    * →He has been there for six months 他在那呆了 六个月, 一直到现在 (有部分在过去, 有部分在现在) 过去完成时
+    * →He has finished the homework (虽然事做完了, 但强调影响现在, 例如, 他可以出去玩了)
+    * →We have learned English for ten years. 
+
+  * 过去到现在 + 将来 = 永恒
+
+    * I love you, Always have , Always will. (I always have loved you , and i always will love you) (并列句的省略)
+
+**## 关于 way 的短语**
+
+* → **In this way** , he has begun his own private 'telephone' service. 
+  * In this way 用这种方式
+* → Please move this chair, it is in the way. 
+  * In the way 在路上
+* → On the way to school, he bought a pen.
+  * On the way 在去...的路上
+* → By the way , have you seen harry recently?
+  * By the way (BTW) 在去 ... 的路上
+* →In a way , it is an important book.
+  * In a way 在某种程度上来说
+
+**## cover -> 英文词义理解, 为什么一个单词有十几种意思**
+
+* cover 覆盖
+  * →Snow covered the ground.
+  * →We covered five miles on foot yesterday.
+  * →The bird covered five miles.
+  * →The book covered 10 chapters.
+  * →I laughed to cover my nervousness.
+  * →Cover me! I'm going in!
+* cover 放到上下文中, 根据不同的场景, 翻译成了不同的中文意思, 但其本意 仍为 "覆盖"
+* **记单词记本意, 所谓 <u>词本无意, 意由境生</u>**,  根据上下文, 使用合适的中文意思.
+
+begin began begun.
+
+## L6 Percy buttons
+
+**## 单词**
+
+* call v. 拜访, 光顾
+  * call on sb. (拜访某人) / call at sp. (拜访某地)
+* // TODO
