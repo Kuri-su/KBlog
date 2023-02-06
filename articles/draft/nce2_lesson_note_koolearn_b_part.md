@@ -1,4 +1,4 @@
-# NCE 2 Lesson Note (1)
+# NCE 2 Lesson Note (B part)
 
 [TOC]
 
