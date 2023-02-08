@@ -494,7 +494,6 @@ begin began begun.
     | 接 可数名词复数 | some/不加冠词 | the  |
     | 接 不可数名词   | some/不加冠词 | the  |
   
-
 * What is that?
 
   * 正确但是不地道的说法
@@ -706,3 +705,115 @@ ous 结尾 (adj. 后缀)
 
 * crowd n. 群
 * gather v. 聚集
+* shout v. 喊叫
+* refuse v. 拒绝
+* laugh v. 大笑
+  * smile 微笑
+  * laugh at 嘲笑
+* welcome n. 欢迎 v. 欢迎 adj. 受欢迎的
+  * a cold/warm welcome
+  * you are welcome.
+* hand n. (表或者机器的)指针, v. 传递 
+  * hand sth. to sb.
+  * minute hand 分针
+  * hour hand 时
+  * second hand (二手的 / 秒针)
+* town hall 市政厅 
+* pass v. 经过
+  * past adv. 经过
+
+* true adj. 真实的
+  * false adj. 不真实的
+  * truth n. 事实, 真相
+
+
+**## Key structure**
+
+* 表示时间的介词
+
+**## 课文**
+
+* 介词例句: 
+
+  * 1
+    * on Wednesday evening 出现具体的( 日期/星期) 用 on
+    * in the evening  
+  * 2
+    * in twenty minutes' time 20 分钟之后
+    * in + 时间 , (在过去将来时/一般将来时, 表示在这个时间之后发生)
+  * 3
+    * at five to twelve 12点差五分 (11:55)
+    * at + 时间点
+    * vi. 不及物动词 (look), 需要介词来后接名词
+    * vt. 及物动词
+
+* 介词用法
+
+  1. 介词要接词用
+  2. 介词只能 接 名词 / 代词 / 动名词
+  3. 介词接了词之后, 叫 "介词短语", 介词以短语形式出现, 也叫 "介宾结构" 
+
+  * 介词短语 是 强大的 对句子结构的补充
+
+* 表示 时间的介词
+
+  * in (表示在时间段内)
+    * 在 xx 时间内
+      * In 1992 / January / summer
+      * In the morning / afternoon / evening
+    * 在 xx 时间后
+      * In twenty minutes' time
+  * at (强调具体的时间点)
+    * at 8 o' clock / 8:00
+    * at midnight/noon
+    * at night
+  * on (强调 某一天)
+    * on Monday
+    * on July 7th
+    * on Wednesday evening
+    * on the morning of July 7th
+  * before
+  * after
+  * since (自从)
+    * → since then, Captain Fawcett has flown passengers to many unusual places.
+  * until (直到)
+  * during 在某个时间段内
+    * → It rained hearily during the night.
+  * for (持续了多久时间)
+    * → He has been there for six months.
+  * by (截至到 xx 时间)
+    * → workers will have completed the new roads.
+  * from ... till/to (从 ... 到 ...)
+    * → The shop are open from 9 till/to 5
+
+## L10 not for jazz
+
+  **## 单词**
+
+* musical adj. 音乐的
+  * al 是 adj. 后缀, 通常由名词 + al 变 形容词
+* instrument n. 乐器
+* clarichord n. 古钢琴
+  * piano n. 现代钢琴
+* recently adv. 最近 (用过去时)
+* damage n./v. 损坏 
+  * spoil 损坏 (精神上未真正损坏)
+  * dectroy 短时间 猛烈的 摧毁, 无法修复
+  * ruin 长时间的一点一点损坏, 无法修复
+* string n. (乐器的)弦, 线
+* shock v. 使不悦 或 生气, 使震惊
+* surprise v. 使人吃惊/不悦/开心
+
+**## Key structure**
+
+* 被动语态
+  1. 由来
+  2. 及物动词, 被动
+  3. 被动与时态结合
+* 双重所有格
+
+**## 课文**
+
+* 被动语态 ☆
+  * 语态 分为 主动语态(默认) 和 被动语态
+  * // TODO
