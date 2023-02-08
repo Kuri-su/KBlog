@@ -585,6 +585,10 @@ begin began begun.
   * as 当... 时
 * Customs house 海关大楼
 
+able 结尾 (adj. 后缀 )
+
+ous 结尾 (adj. 后缀)
+
 **## Key structure**
 
 1. 过去进行时 (常搭配 When/while/as)
@@ -650,4 +654,55 @@ begin began begun.
 
 * 形容词/副词的作用
   * 形容词 (adj.) 修饰名词
-  * 
+    * → This is a wonderful world.
+    * → We are living in a beautiful new house.
+    * → Their sleeping bags were warm and comfortable.
+  * 副词 (adv.) 修饰动词/句子/其他的形容词或者副词
+    * → Roy acted quickly.
+    * → Suddenly, one of the children kicked a ball.
+    * → It rained continually and it was often bitterly cold.
+    * → The students from elite uniersities catch up very quickly.
+* 形容词副词的三种比较级
+  * 原级比较
+  * 比较级
+  * 最高级
+* 形容词副词的最高级
+  * adj. / adv. 的最高级 + (介词短语) (表示比较的范围)
+  * 意思是 '(...范围内) 最...'
+  * 通常用于 三者或以上的比较
+  * 例句
+    * → My yonger sister is the tallest in her class
+    * → The most serious problem of the project is the lack of power.
+  * 介词短语
+    * in+ (地点/场所)
+      * → He is the tallest of all the students.
+    * of+ (比较的对象)
+      * → He is the tallest in our class.
+* 形容词副词的比较级
+  * adj. / adv. 的 比较级 + (than 比较的对象)
+  * 意思是 '(和...相比) 更...'
+  * 通畅用于两者之间的比较
+  * 例句
+    * → I am taller than you
+    * → Air tickets are more expensive than train tickets.
+* 不规则变化的比较级 和 最高级
+  * good/well  better  best
+  * Bad/ill(生病, 坏的)  worse  worst
+  * many(可数)/much  more  most
+  * Little (消极, 没多少了) / a little (积极, 有一点)  less least 
+  * old older oldest (物品的老)
+  * old elder eldest (人年龄年长)
+  * far farther farthest (距离上远)
+  * far further furthest (也表示距离上远, 但意义更加深远, 更远一步, 更深一步)
+    * further eduction. 
+* 不规则变化动词
+  * win won won
+  * grow grew groun
+  * build built built
+
+## L9 A cold welcome
+
+**## 单词**
+
+* crowd n. 群
+* gather v. 聚集
