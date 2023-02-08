@@ -459,4 +459,195 @@ begin began begun.
 
 * call v. 拜访, 光顾
   * call on sb. (拜访某人) / call at sp. (拜访某地)
-* // TODO
+  * → He calls on his graphpa every week, 
+  * → He calls at every house in the street once a month.
+  * visit sb./sp. 拜访, 光顾
+* beg v. 乞讨, 乞求, 恳求,
+  * → I beg your pardon? = Pardon? 能再说一遍么?
+* pocket meney n. 零用钱
+
+**## Key structure**
+
+* 冠词 (a,an,the)  (名词的帽子- 此处关于名词片(短)语的详细描述可以参考 旋元佑文法的名词片语部分)
+  * 定冠词 the 表示特指
+  * 不定冠词 a/an 表示泛指
+  * 零冠词  -  不加冠词
+
+**## 课文**
+
+* 冠词
+
+  * 泛指 - 不明确的对象
+    * → I am hungry , I want an apple.
+    * 首次提到的对象
+      * →I saw a dog in Bridge street yesterday.
+
+  * 特指 - 明确的对象
+
+    * → I want the apple in your hand.
+    * 再次提到的对象
+      * → The dog was really cute.
+
+    | 冠词            | 泛指          | 特指 |
+    | --------------- | ------------- | ---- |
+    | 接 可数名词单数 | a/an          | the  |
+    | 接 可数名词复数 | some/不加冠词 | the  |
+    | 接 不可数名词   | some/不加冠词 | the  |
+  
+
+* What is that?
+
+  * 正确但是不地道的说法
+    * This is .....
+    * That is....
+    * There are ....
+    * Those are ...
+  * 地道的说法
+    * The .... (表特指)
+
+* 冠词练习
+
+  * 1
+    * → ___ air pollution is serious problem.
+    * → <u>The</u> air pollution of Beijing must be solved at once.
+  * 2
+    * → Lisa gave me ___ tea as <u>a</u> gift (首次提到)
+    * <u>→ The</u> tea tasted good.
+  * 3
+    * → Last month I bought <u>a</u> CD (首次提到)
+    * <u>→ The</u> CD is about the Civil War, and I found <u>the</u> CD very interesting.
+  * 4
+    * → I have just moved to <u>a</u> house in Bridge Street.
+    * → Yesterday, <u>a</u> begger knocked at my door.
+  * 5
+    * → He asked me for <u>a</u> meal and <u>a</u> glass of bear.
+      * Ask sb. for sth.
+      * Ask for sth.
+    * → In return for this,  <u>the</u> beggar <u>stood on his head</u>(倒立) and sang songs.
+    * → He ate <u>the</u> food and drank <u>the</u> bear.
+  * 首次提到一定是泛指
+
+* 短语动词, 词在短语中意思会变, [意由境生]
+
+  * 1 
+
+    * → I <u>put</u> your book <u>on</u> the shelf.
+    * → I <u>put on</u> my hat and left the house.
+
+  * 2
+
+    * → Come and <u>look</u> at my photograph album.
+    * → I am <u>looking</u> for my pen, I lost it this morning.
+    * → Will you <u>look</u> after the Children for me please? 
+
+  * 3
+
+    * → I <u>knocked</u> the vase off the table and broke it.
+    * → He finishes his work and always <u>knock</u> off at 6:00
+
+    * → A beggar <u>knocked</u> at my docker
+    * → A car <u>knocked</u> the boy over.
+    * → In the fight , the thief <u>knocked</u> the policeman out.
+    * → The shop assistant <u>knocked</u> 10% off the bill
+
+* 不规则动词变化
+  * stand stood stood
+  * sing sang sung
+  * give gave given
+  * eat ate eaten
+  * drink drank drunk
+  * put put put
+  * tell told told 
+  * know knew known
+
+## L7 Too late
+
+**## 单词**
+
+* detective n. 侦探
+  * detect v. 探测
+* valueble adj. 贵重的
+* parcel n. 包裹
+* steal v. 偷
+* airfield n. 飞机起落的场地, 机场
+  * at the airport 在机场
+  * on the airfield 在停机坪上
+* precious adj. 珍贵的 (精神)
+  * value n. 价值
+* port n. 港口
+* expect 预期
+* main streets 主路 / side streets 辅路
+  * main roads
+  * main idea 主要内容
+* guard n. 警戒, 守卫.
+  * keep guard v. 警戒, 守卫
+* when ... while 当...时
+  * as 当... 时
+* Customs house 海关大楼
+
+**## Key structure**
+
+1. 过去进行时 (常搭配 When/while/as)
+2. 过去将来时
+3. 陈述句 变 宾语从句 (That 引导)
+
+**## 课文**
+
+* 过去进行时
+  * 形式: was/were doing 
+  * 用法: → She was reading a book at 11:00 last night.
+  * 否定疑问: 
+    * → She was not reading a book.
+    * →Was she reading a book ?
+  * 过去进行时 常 搭配 when / while (当...时/ 尽管) / as
+    * → While two detectives were keeping guard at the door, the others opened the pavcel.
+  * While/as 通畅搭配持续性动词, when 则不挑剔
+    * → Two detectives were keeping guard at the door, when two others <u>opened</u> the parcel. 
+    * → When <u>the plane arrived</u> (瞬时动作, 只能用 when.).
+    * → While/as/when they were sleeping, a thief sneaked in.
+    * → They were sleeping, when a thief sneaked in .
+  * 过去进行时, 用于描述过去的故事, 或者用于描述铺陈 事件的背景
+    * → While they were sleeping , a thief sneaked in .
+    * → While he was reading the letter, he was heard a knock at the door.
+    * → When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.  
+* 过去将来时
+  * 形式: 
+    * would do
+    * was/were going to do
+  * 用法: 
+    * 过去的将来
+    * → He said that he would travel abroud next year.
+* 宾语从句
+  * 主句包裹着从句, 外面是主句, 里面是从句.
+  * 写法: 陈述句 变 宾语从句 (从句前加 that)
+    * → I think (that) you are right.
+* 不规则变换
+  * try tried tried
+  * steal stole stolen
+  * take took taken
+  * keep kept kept
+
+## L8 The best and the worst
+
+**## 单词**
+
+* competition n. 比赛, 竞赛 
+  * compete v. 比赛, 对抗
+* path n. 小路, 小径, 路线, 途径
+  * the path to success
+* neat adj. 整齐的
+  * neat paths
+  * a mountain path
+* race n. 比赛 (竞速)
+* wooden adj. 木头的
+
+**## Key structure**
+
+1. 形容词副词的用法
+2. 形容词副词的比较级和最高级
+
+**## 课文**
+
+* 形容词/副词的作用
+  * 形容词 (adj.) 修饰名词
+  * 
