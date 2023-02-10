@@ -913,3 +913,49 @@ ous 结尾 (adj. 后缀)
   * sailing n. 航行, 航海
     * go sailing 去航海.
 * harbour (英) n. 港口 / harbor (美)
+  * the Pearl Harbor n. 珍珠港
+  * colour(英) - color (美)
+  * neighbour(英) - neighbor (美)
+* proud adj.自豪的
+  * be proud of 
+    * → we are very proud of him. (介词后加宾格)
+* importance n. 重要性
+  * important adj. 重要的 
+    * adj. 变 n. 去 t 加 ce
+
+**## Key structure**
+
+1. 一般将来时
+2. 非延续性动词 + 一段时间
+3. be 动词搭配的词组
+
+**## 课文**
+
+* 一般将来时
+  * 形式
+    * shall + do (只能跟在 第一人称 后)
+    * will + do
+    * be (am/is/are) going to + do
+  * 用法: (现在的) 将来
+    * → I will study abroad.
+    * → I shall study abroad.
+  * 变 否定/ 疑问
+    * →  He <u>will not</u> be a teacher.
+    * →  <u>Will</u> he be a teacher?
+    * →  He <u>is not going to</u> be a teacher.
+    * →  <u>Is</u> he <u>going to</u> be a teacher?
+  * 将来时只表示 事情在之后可能会发生, 不表示一定会发生.
+* small 只表示 小, little 表示 小 又精致
+* the Atlantic Ocean 大西洋
+  * Atlantis 亚特兰蒂斯
+  * Atlanta 亚特兰大
+* set out = set off 出发
+* plenty of 许多, 大量 (言外之意: 充足的)
+  * plenty of time/ideas
+* → He will be away for two months
+* → He will leave for two months (错误的)
+  * leave 是瞬间动词 / 非延续动词, 不能加时间段
+  * be+adv. 表示 状态
+* take part in 参加
+* be 动词搭配的词组
+  * be (am/is/are) going to + do
