@@ -816,4 +816,100 @@ ous 结尾 (adj. 后缀)
 
 * 被动语态 ☆
   * 语态 分为 主动语态(默认) 和 被动语态
-  * // TODO
+  * 例句
+    * → The dog ate the cake. (主动)
+  * 把上面主动的宾语提前, 变成 `蛋糕被 狗吃了`, 也就需要用到被动语态
+  * 形式: 
+    * be + done 
+      * be 用来搭配时态 表示被动的时间, 以及表示主语单复数
+        * am / is / are / was /were / will be 
+      * done 表示被动的动作
+    * 例句: 
+      * →Classrooms <u>are cleaned</u> every day.
+      * →The new building was built last year.
+      * 他每天被打  → He is beaten everyday,
+      * 他昨天被打了 → He was beaten yesterday.
+      * 他明天将要被打 
+        * → He will be beaten tomorrow.
+        * → He is going to be  beaten tomorrow
+    * 通常 及物动词动词可以组成被动语态, 不及物动词 变成介词词组也可 被动
+    * 时态下的 被动
+      * 现在进行时的被动 am/is/are being done.
+        * 他现在正在被打 → He is being beaten now.
+      * 现在完成时的被动 hava/has been done 
+        * 他现在已经被打了 → He has been beaten.
+        * → A new machine has been invented.
+        * →  People are being influenced by advertisements.
+  * 双重所有格
+    * a friend of my father's (friends)
+    * 名词所有格 (使用 's 形式)
+      * Lily's books
+      * students' books (strudent 的复数的所有格)
+      * James' books / James's books (上面两者都对, 詹姆斯的 书)
+      * the workers' club
+      * the children's toys
+      * twenty minutes' time.
+    * 名词所有格 (使用 of 形式)
+      * the door of the room / the room's door
+  * 不规则动词
+    * strike struck struck
+    * break broke broken
+
+## L11 one good turn deserves another
+
+**## 单词**
+
+* turn n. 行为, 举止 v. 变得, 旋转 
+  * n. 轮流的机会 (我的回合!) 
+    * →  My turn had come.
+* deserve v. 应得到, 值得
+* bank n. 银行 , 河岸
+* salary n. 月薪, 工资 
+  * wages 日薪
+* immediately adv. 立刻 (at once)
+* promotion n. 晋升
+
+**## Key structure** 
+
+* 复习
+  * L2 一般现在时, 现在进行时
+  * L3 一般过去时
+  * L4,L5 现在完成时
+  * L7 过去进行时
+
+**## 课文**
+
+* → I <u>was having</u> dinner at a restaurant <u>when</u> Tony Steele <u>come in</u>
+* → He has never borrowed money from me. 过去到现在都没向我借过钱.
+* 对比: → He never borrowed money from me. 过去没向我借过钱.
+
+一般现在时: do/does
+
+一般过去时: did
+
+现在进行时: am/is/are + doing
+
+过去进行时: was/were + doing
+
+现在完成时: have/has + done
+
+
+
+## L 12 Goodbye and good luck
+
+**## 单词**
+
+* luck n. 运气
+  * good lunk
+  * bad luck
+  * lucky adj. 幸运的
+    * lucky dog 幸运儿
+  * luckily adv. 幸运地
+    * →  Luckily , the are wined the match
+* captain n. 队长(船长, 机长, 舰长)
+* sail v. 航行
+  * →  sail across the Atlantic
+* sailor n. 水手
+  * sailing n. 航行, 航海
+    * go sailing 去航海.
+* harbour (英) n. 港口 / harbor (美)
