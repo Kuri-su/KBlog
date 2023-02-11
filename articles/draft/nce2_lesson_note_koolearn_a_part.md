@@ -895,7 +895,7 @@ ous 结尾 (adj. 后缀)
 
 
 
-## L 12 Goodbye and good luck
+## L12 Goodbye and good luck
 
 **## 单词**
 
@@ -959,3 +959,305 @@ ous 结尾 (adj. 后缀)
 * take part in 参加
 * be 动词搭配的词组
   * be (am/is/are) going to + do
+    * 用于表示此前有计划 有预谋的要做
+      * → It is so dark outside, It is going to rain.
+  * will + do
+    * 用于表示临时决定的
+      * → Be careful ! The box is too heavy. I will help you.
+    * will 本身是情态动词, 表示愿意做某事.
+      * → Will you marry me ?
+  * be 动词短语, 表示持续的状态
+    * → He will be away for two mouths.
+    * → I'm going out now , I'll be back at six o'clock.
+    * → I'll be out all morning.
+    * → I went to Ted's house and asked to see him but he wasn't in.
+      * be in 意思是在家
+    * → Why don't you forget about it? It's all over.
+    * → What's on at the local cinema this week.
+
+## L13 The Greenwood Boys
+
+**## 单词**
+
+* a group of POP singer
+  * pop ← popular
+* give five performances 演出了五场
+* occasion n. 场合
+  * on these occasions
+  * occasionally adv. 偶尔
+
+**## Key structure**
+
+1. 将来进行时
+2. 名词所有格
+
+**## 课文**
+
+* 将来进行时
+  * 形式: 
+    * will be doing
+    * shall be doing
+  * 用法
+    * 将来某时正在进行 或者 确定教要发生的将来
+      * → I will be waiting here at 10:00 tomorrow.
+      * → They will be coming by train.
+  * 否定 / 疑问
+    * → They <u>will not</u> be coming by train. 
+    * → Will they be coming by train?
+  * 将来进行时 vs. 一般将来时
+    * will be doing  vs.  will do
+    * shall be doing  vs.  shall do
+    * 将来进行时
+      * 强调正在进行
+      * 强调确定要发生
+    * 一般将来时
+      * 事情之后可能会发生, 不一定会发生
+* at present 在现在
+  * present 有两个意思
+    1. 现在
+    2. 礼物
+* country
+  1. 国家
+  2. 乡村
+     * all over the country
+     * all parts of the country
+* most of 大多数的
+* live 长期住
+* staying 短期停留
+* during this time 在这段时间内
+* As usual 跟往常一样
+  * usually adv.
+* → Yesterday is history. tomorrow is a mystery. Today is a gift - That's why it is called "The present".
+  * 今日为金
+
+## L14 Do you speak English?
+
+**## words**
+
+* amusing adj. 好笑的, 有趣的
+  * funny adj. 好笑的
+* experience n. 经历
+  * working experience
+* wave n. 波浪 v. 招手, 波动
+* lift n. 搭便车 n. 电梯(英)
+  * ask (sb.) for a lift
+* reply vi. 回答
+  * reply to sb./sth.
+  * answer sb. sth.
+* a foreign/native language.
+
+**## key structure**
+
+* 过去完成时
+* 过去完成时 与一般过去时的搭配使用
+
+**## text**
+
+* 过去完成时
+  * 形式: had + done
+  * 用法: 过去的之前 (全部完成 / 部分完成)
+    * 例子: 
+      * → When he got there, she was not there.
+      * → She had left.
+  * 否定疑问
+    * → She had left.
+    * → She had not left.
+    * → Had she left.
+    * What had she done?
+  * 过去完成时 与 一般过去时 的 搭配使用
+    * 用于表示先后顺序, 过去完成时 表示先, 一般过去时 表示后
+    * → When he **got** there, she **had left**.
+    * → He finished work. He went home.
+    * → After he finished work, he went home.
+    * → After he had finished work, he went home.
+    * → He went home, after he had finished work.
+    * --
+    * → He finished lunch. He asked for a glass of water.
+    * ↘︎ When he finished lunch, he asked for a glass of water.
+    * ↘︎ When he had finished lunch, he asked for a glass of water.
+    * --
+    * → The sun set .We returned to our hotel.
+    * ↘︎ As soon as the sun had set, we returned to our hotel.
+* on 可以作为副词修饰动词, 表示继续做某事
+  * drive on 继续开车
+  * go on 继续进行
+* apart from 除了...
+* neither of sb. 二者都不
+  * neither of us ...
+  * neither of the soldies.
+* none of ... 三者或以上都不
+  * → neither of the twins liked sleeping during the daytime.
+  * → none of the leaves can be green forever.
+  * → It's none of your bussiness.
+* learnt 了解,知道, 得知, 懂得, 学会
+* 过去完成时 vs. 现在完成时
+  * had done vs. have/has done
+  * 过去的之前 vs. 现在的之前
+  * 例句
+    * → It is 10:00, I have waited for 2 hours.
+    * → It was 10:00, I had waited for 2 hours.
+* 过去完成时 vs.一般过去时 vs. 过去将来时
+  * had done  vs. did vs. would do
+  * 过去的之前  vs. 过去 vs. 过去的之后
+  * → The plane **was** late, a few hours earlier, someone **had told** the police that thieves **world try to** steal the diamonds
+  * → On wednesday evening. We **went** to the Town Hall, a large crowd of people **had gathered** under the Town Hall clock. It **would strike** twelve in twenty minutes.
+* 不规则的动词变化
+  * leave left left
+  * drive drove driven
+  * speak spoke spoken
+  * learn learned learned
+  * ​          learnt learnt
+
+## L15 Good news
+
+* secretary n. 秘书
+  * secret 秘密
+* nervous adj. 精神紧张的
+  * feel nervous / be nervous 在精神紧张的
+  * nerve n. 精神
+* irritable adj. 易怒的
+* afford v. 负担得起
+  * can/be able to + afford + sth. / to do sth.
+    * → Student can afford the E-books.
+    * → The firm could not afford to pay such large salaries.
+* interrupt v. 插话, 打断
+  * → Don't interrupt!
+* inter---: 通常表示两者或多人之间的前缀
+  * internet n.
+  * interview v./n.
+  * 前缀一般改变词意不改变词性
+
+**## Key structure**
+
+* 直接引语变间接引语
+  * 直接引语: 别人说的原话
+  * 间接引语: 转述别人的话 (宾语从句)
+
+**## text**
+
+* 他说: "我是笨蛋" (直接引语)
+
+* 他说他是笨蛋 (间接引语)
+
+* 例句
+
+  * 1
+    * → He says, 'I am a fool.' (直接引语)
+    * → He says (that) he is a fool (间接引语)
+  *  2
+    * → He said, 'I'm a fool'
+    * → He said (that) he is a fool. 
+  * 3
+    * → He said, 'i will go to Italy.'
+    * → He said (that) he would go to Italy.
+  * 4
+    * → He said, 'I went to Italy'
+    * → He said he had gone to Italy.
+
+* 步骤: 
+
+  1. 转换为宾语从句
+  2. 变换 人称, 角度, 以及时态 (时间地点)
+     * 主句时过去式, 从句也对应向过去推一个时态
+
+  * 例句
+    * 1
+      * → The secretary told me 'Mr.H will see you'
+      * ↘︎ The secretary told me (that) Mr.H would see me.
+    * 2
+      * Why did you did say that you were/had been busy?
+
+* 不规则动词
+
+  * feel felt felt
+
+## L16 A polite request
+
+**## words**
+
+* park n. 公园 v. 停放 (载具)
+  * parking n. 停车场, 停车位
+  * parking signs n. 停车指示牌
+  * No packing areas.
+* reminder n. 提示
+  * remind v. 提示, 提醒
+* fail v. 无视, 忘记, 失败
+  * fail to do sth.
+    * → fail to obey it.
+    * → They fail to finish the work on time obey the rule.
+
+**## Key structure**
+
+* if 条件状语从句 (真实条件句 / 虚拟条件句)
+* 状语从句
+  * 状语: 描述
+  * 状语从句: 用一个句子作从句, 补充描述性的信息, 针对主句进行进一步的描述
+  * 分类
+    * 条件状语从句
+      * if 条件状语从句 / once 条件状语从句...
+    * 时间状语从句
+    * ...
+
+**## text**
+
+* if 条件状语从句 (真实条件句)
+
+  * → You will miss the train, if you don't hurry.
+  * 真实条件句 vs 虚拟条件句
+    * 真实条件句 表示 可以实现的假设
+    * 虚拟条件句 表示 可能无法实现的假设
+  * e.g.
+    * → If tall chimneys were built above sea level, the runnel would be well-ventilated. (假设过去)
+    * → If he is out, I will call him tomorrow. (假设现在)
+    * → If it rains tomorrow, we will stay at home. (假设将来)
+    * → If you park your car in the wrong place, traffic policemans will find you soon.
+
+  |          | If 从句               | 主句                     |
+  | -------- | --------------------- | ------------------------ |
+  | 假设过去 | 过去的各种时态        | 过去将来时               |
+  | 假设现在 | 现在的各种时态        | 一般将来时               |
+  | 假设将来 | 一般现在时 (替代将来) | 一般将来时 aka. 主将从现 |
+
+  * If 条件状语从句 (真实条件句) - 主句的变化
+    * If he finds something wrong. He may tell you. (主句使用情态动词 (aka. 语气助动词))
+    * If you make a mistake, correct it. (祈使句)
+    * 结论: 主句不一定是将来时
+
+* police 警察(复数)
+
+* policeman 警察(单数)
+
+* 副词放在助后实前 - 助动词后, 实意动词 前
+
+  * → will never pass
+
+* 状语从句的连词决定状语从句的类型 (9种)
+
+  * → You will miss the train, if you don't hurry (条件状语从句)
+  * → When he was driving, he saw two thieves ... (时间状语从句)
+  * → I can't go with you, because I don't have (原因状语从句.)
+  * 结论: 条件状语从句 和 时间状语从句 假设将来的时候, 需要改变时态
+
+* 不规则变化动词
+
+  * let let let
+
+## L17 Always young
+
+**## words**
+
+* appear v. 登场, 出现
+  * disappear v. 消失
+  * appearance n. 出现, 外貌
+* stage fright 怯场
+* bright adj. 鲜艳的 (光明的, 聪明的)
+  * Bright red/colour 亮红色/ 亮色
+  * bright future / prospect 明亮的未来
+  * → look on the bright side of things
+
+**## Key structure**
+
+* 情态动词 (情绪, 态度) (预期助动词)
+
+**## text**
+
