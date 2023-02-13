@@ -1258,6 +1258,103 @@ ous 结尾 (adj. 后缀)
 **## Key structure**
 
 * 情态动词 (情绪, 态度) (预期助动词)
+  * must
+  * have to (have got to)
+
 
 **## text**
+
+* 情态动词 和它的过去式
+  * 一方面可以时过去式, 另一方面也可以表示更加委婉的预期
+    * must - 没有过去式
+    * may - might
+    * can - could
+    * will - would
+    * shall - should
+  *  用法: 
+    1. 情态动词 + 动词原型
+    2. 情态动词没有人称变化
+    3. 情态动词 只有现在和过去两种时态
+  * 否定
+    * 情态动词后加 not
+  * 疑问
+    * 情态动词提前
+* must 
+  * 表示 推测 "肯定, 一定"
+  * 英文中的 情态动词 每一个都能表示 "肯定, 一定"
+  * 只是 可能性 和 推测的把握度也不同
+  * must 时里面可能性 最高的, 把握度最大的, 接近于现实
+    * 非常有把握的推测, 用 must be/ must + 动词原型
+      * → She must be 35 years old. (推测)
+        * → She is 35 years old. (事实)
+      * → You must be the new teacher.
+      * → He must set overthere.
+  * must 还可以表示不可避免的义务 "必须"
+    * → I must do it now.
+    * → She must do it now.
+    * → You must do it tomorrow. (英文潜规则, 现在可以表示将来)
+  * must 不能表示过去的必须, 用 have to (情态动词词组) (意思是 不得不), must 等于 have to , 但 have to 比 must 能表示更丰富的变化
+    * → I have to do it now.
+    * → She has to do it now (人称变化)
+    * → You will have to do it tomorrow. (将来)
+    * → They had to do it yesterday. (过去)
+      * have got to  等于 have to
+* at least 至少
+* In spite of 尽管
+  * 等价 despite (介词)
+  * although / though (连词, 后接句子)
+* take part in 参加
+* in + 服装 表示穿着 (在服装里面就是穿着)
+
+**## extend**
+
+* 情态动词 must
+  * 意思
+    1. 表示推测 "肯定, 一定" must be
+    2. 表示不可避免的义务 "必须"
+  * 推测现在
+    * → They must be waiting for you.
+  * 推测过去 (处于现在推测过去)
+    * must have done
+      * → It must have rained last night.
+      * → She must have cried just now.
+
+## L18 He often does this!
+
+**## word**
+
+* pub  n. 酒吧, 酒馆
+* landlord n. 房主, 房东, 地主
+* bill n. 账单, 单据, 清单/钞票/法案/广告
+  * pay the bill
+  * US dollar bills 美元纸币
+  * a crime bill
+  * a bill board 广告看板
+
+**## key structure**
+
+* have 的用法
+  * 实义动词
+  * 助动词
+
+**## text**
+
+* have 的用法
+  * 实义动词 , 表示 "有" ( own/ possess)
+    * → I have a book.
+    * → He had a suprise.
+  * 实义动词 , "吃喝玩乐做"
+    * have a meal
+    * have breakfast
+    * have some water
+    * have fun
+    * have a good time
+    * have a swim
+  * 助动词: (完成时态中)
+    * → I have received a letter.
+    * → She has bought a gift.
+    * →  He had left.
+    * 
+
+
 
