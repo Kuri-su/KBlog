@@ -1353,8 +1353,78 @@ ous 结尾 (adj. 后缀)
   * 助动词: (完成时态中)
     * → I have received a letter.
     * → She has bought a gift.
-    * →  He had left.
-    * 
+    * → He had left.
+  * 如果 have 是实义动词, 变否定或者疑问需要搭配助动词, 如 do (能直接提前的只有助动词)
+    * e.g.
+      * → I have a book 
+        * → I do not have a book
+      * → She has lunch 
+        * →  She does not have lunch
+      * →  He had a good time
+        * →  He did not have a good time.
+  * 如果have 是助动词, 变否定或者疑问可以直接提前
+    * e.g.
+      * → I have not received a letter.
+      * → She has not bought a gift.
+      * → He had not left.
+* have 的用法补充
+  * had had (have 的过去完成时)
+    * 表示过去的之前有, 过去之前的吃喝玩乐做
+    * 第一个 had 是助动词, 用于体现 过去完成时, 第二个 had 是实义动词
+    * → I had had lunch at a village pub.
+  * have/has had (have 的现在完成时)
+    * 现在的之前有, 现在的之前吃喝玩乐做
+  * 表示实义动词有的时候, have(实义动词) = have(助动词) got
+    * 例句
+      * → I have got a book.
+      * --
+      * → You have a lot of money
+      * → You have got a lot of money.
+      * --
+      * → You don't have a lot of money
+      * → You have not got alot of money
+      * --
+      * → Do you have a lot of money?
+      * → Have you got a lot of money?  (不建议)
 
+* 易混淆词
+  * beside 在旁边
+  * beside the door
+  * besides 除了 (注意这两个词,意思完全不同)
+    * → Besides this book, I have some others
+    * 词义和 expect 类似
 
+* 关于 give 的短语动词
+  * give sth. back to sb.
+  * give in 上交, 投降
+    * → Give in your exercise books to me.
+    * → He can't continue fighting. He will soon give in.
+  * give away 送给
+    * → I gove away my collection of stamps to the little boy.
+  * give up 放弃
+    * → I have given up smoking
+    * → Three of our officers gave them up to the enemy.
 
+## L19 sold out
+
+**## word**
+
+* hurry v. 匆忙
+  * hurry to the ticket office (hurry to 赶去)
+  * hurry up
+  * hurriedly adv. 匆忙的
+    * do std. hurriedly
+* pity n. 遗憾
+  * What a pity!
+* return v. 退回(返回) n. 返回, 回来
+  * return the books 
+  * → Sir, may I see your return ticket?
+
+**## key structure**
+
+* 情态动词 may/can 动词前
+
+**## text**
+
+* 情态动词 may(might)
+  * 
