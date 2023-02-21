@@ -50,7 +50,8 @@
         * 参考上面的范文, 可以知道 报警的十分钟的表达可以用如下句子来写
           * <u>Ten minutes after calling 911</u>, a police car arrived <u>on the spot</u>.
 
-  * v 发现 (派生)
+  * v. 发现 (派生)
+    * 茫茫一片中发现一个点
     * (NCE3-10 P50-L9) → <u>Four days after setting out</u>, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly <u>spotted</u>  by a look-out.
     * (NCE3-11 P54-L14) → He had <u>spotted</u> a tiny bottle at the bottom of my case and he pounced on it with delight.
 
@@ -132,11 +133,123 @@
 
 2. **## text**
 
-3. * at large 习语搭配
+3. * at large 习语搭配, 在逃的, 未被捕获的, 未被控制住的
      * 习语搭配掌握的好不好, 是决定英语能力的一个非常重要的指标
-     * 习语的特征是不能按照字面特征去理解
+     * 习语的特征是不能按照字面特征去理解, 每个单词都认识, 放一起就不认识了.
+     * a prisoner / suspect at large , at large 短语通常当后置定语来用
+       * suspect v. 怀疑, 猜想, 读得时候重音在后
+         * n. 嫌疑犯, 读得时候重音在前
+     * → The disease is still **at large** . 疾病依然在肆虐.
+   * cat-like 
+     * *-like 像什么一样的, (构词法)
+     * bear-like animals 像熊一样的动物
+     * lady-like behavior 女人般的举止
+     * child-like simplicity 孩子般的率真
+     * an angel-like girl 天使般的女孩
+     * crystal-like eyes 水晶般的双眼
+     * flu-like symptoms 类似于流感的症状
+     * → Foxes and farmers have never got on wall. These small **dog-like** animals have long been accused of killing farm animals.
+     * → As is shown in the picture, there is a **cobweb-like** structure with separate compartments packed in it.
+     * → Pumas are large, cat-like animals (which are) found in America.
+       * 定语从句的关系代词做主语, 如果后面紧跟的 be 动词, 一般来说, 我们可以把做主语的关系代词 和 be 动词同时省略. 非谓语动词 做后置定语
 
+4. * be found in... 动植物 生存于某地, 某个物质存在于某地, 产于某地
+     * → Many plant and animal species **are found** only **in** the rainforests.
+     * → Vitamin C **is found in** citrus fruit.
+   * 仿写: 大熊猫 (giant panda) 时一种大型的, 类似于熊的动物, 产于 中国四川省.
+     * Giant pandas are large, bear-like animal which are found in Sichuan privince, China.
+   * came into
+     * → He came into the classroom.
+     * → (NCE3-29 P138-L9) However, a new type of <u>humor</u>, which stems largely from the US, has recently <u>come into</u> fashion.
+     * → (NCE3-34 P158-L15) The dealer told him that **it** had just **come in**, but that he could not be bothered to open it. (无灵主语 / 物称主语 inanimate subject , 用人做主语会略显单调)
+       * → I thought of a good idea. (人做主语)
+         * → A good idea came into my mind. (无灵主语)
+         * → A good idea flashed into my mind. 
+       * → He went to the town on business.
+         * → Business took him to the town. 
+       * → A warm and sunny Sunday found my whole family going for an outing at the beach. (我们全家人在一个风和日丽的星期天去海边旅游.)
+   * 定语从句 和 同位语从句 的区别
+     * 同位语从句 是定语从句的一个外甥,  
+     * 从句分为 三类, 定语从句(形容词性从句, 修饰名词), 状语从句(副词性从句), 名词性从句
+       * 名词性从句
+         * 主语从句
+         * 宾语从句
+         * 表语从句
+         * 同位语从句
+     * 从定义上看, 
+       * 同位语从句解释前面名词的具体作用; 
+       * 定语从句 仅起到后置定语的作用, 常译为 ".....的"
+     * 从形式上看
+       * 同位语从句中的 "that" 仅 起到 **连接符号** 的作用, 不充当 语法成分;
+       * 定语从句中的 "that" 时关系代词, 在从句中充当主语/宾语/表语
+     * → The proposal that **John should be dismissed** is unacceptable. (同位语, 这里 that 可以随便去掉, `John should be dismissed` 就是 proposal 的内容)
+     * → The proposal that **John put forward** is unacceptable. (定语从句, 这里 John put forward 意思不完整, 需要带上前面的 The proposal , that 不能随便去掉, 所以是定语从句)
+     * → When reports came into London Zoo **that** a wild puma had been spotted forty-five miles south of London. (同位语从句)
+       * 这里的的 后面的同位语从句离开 前面的名词 reports 比较远, 原因是 这个 从句比较长, 而 主句的 came into London Zoo 又比较短, 所以这里没有像例句那样直接把从句跟在同位语的名词后面, 而是把 从句移到了最后
+       * 英语在写作时, 句子中比较累赘的东西会比较习惯往后放, 比较间断的东西会往前放.
 
+* had been spotted / seen /found /observed 都表示看到, 可以相互替换
+  * → a wild puma <u>had been spotted</u> forty-five miles south of London.
+  * → people who claimed to <u>have seen</u> the puma were extraodinarily similar.
+  * → ....for the puma <u>was often observed</u> at one place in the morning and at ....
+  * → Paw prints were seen in a number of places and puma fur <u>was found</u> clinging to bushes.
+* south 前面的介词
+  * in the south of ...  在 范围之内
+    * → Shanghai is in the south of China.
+  * On the south of ... 在外部, 但是相邻的
+    * → Vietnam is on the south of China.
+  * To the south of ... 在外部, 相隔有一段距离
+    * →  Indonesia is the south of China.
+  * 文中的 south of London,  **如果东西南北之前的 介词被省略了, 那么省略的一定是 to.** 
+    * →  a wild puma had been spotted forty-five miles <u>south of London</u> 
+    * 西安南部一百公里处
+      * →  100 kilometers south of Xi'an.
+* → They were not taken seriously.
+  * take sth. seriously  严肃对待, 重视
+  * seriously adv. 严肃的, 认真的, 非常
+  * take sth. lightly 轻视
+    * → They were taken lightly.
+  * take 在这里是看待, 对待的意思.
+* →  When reports came into  Landon Zoo that a wild puma have been spotted firty-five miles south of Landon, They were not taken seriously.
+  * 造句: 当消息(news) 传到了国家博物馆 (the national museum), 说是在西安以南 100 公里处发现了一座古墓(an ancient tomb), 这则消息受到了重视.
+    * → When news came into the national museum that a ancient tomb have been spotted/seen/found/observed one handrad kilometers south of Xi'an, It were taken seriously.
+* investigate v. 调查
+* as 引导时间状语从句
+* expert 专家
+* for 引导原因状语从句, 起到补充说明, 因果关系不强烈, 所以 for 引导的从句一般不放在句首, 放在主句后面或者中间, 一般会在前面加个逗号, 补充说明
+  * → experts from the Zoo felt obliged to investigate, **<u>for</u>** the descriptions <u>given by people.</u>
+* give descriptions. 作描述
+  * descriptions given by people <= descriptions <u>which were</u> given by people
+    * 定语从句 的关系词如果做主语 , 那么 关系词 和 后面的 be 动词可以同时省略
+  * make description
+    * descriptions make description <= ... descriptions made by people....
+  * 这叫做 非谓语动词 做了 后置定语 修饰名词, 非谓语动词 有三种形式
+    * 现在分词形式 - 主动
+    * 过去分词形式 - 被动
+    * 不定式形式 - 目的, 要做
+    * → (NCE3-1 P14-L7) The hunt for the puma began in a small village where <u>a woman **picking** blackberries</u> saw a large cat only five yards away from her.
+      * 这里 picking 作为后置的定语, 修饰前面的 woman, 进一步增加描述
+    * → (NCE3-7 P38-L10) John had a very good day and put <u>his wallet **containing** $3000</u> into the microwave oven for safekeeping
+      * 这里 containing 也是一样, 修饰前面的钱包, 进一步加强说明
+    * →  (NCE3-8 P42-L4) For hundreds of years, St. Bernard dogs have saved the lives of <u>travellers **crossing** the dangerous Pass.</u>
+      * 补充说明是什么游客, 穿越危险山口的游客. 如果更细的说明的话, 应该就需要从句了. 这里简单说明可以用 后置定语, 修饰名词
+    * 仿写: 
+      * 鲁迅写的小说 - novels written by Xun Lu.
+      * 张艺谋的电影 - movies directed by YiMou Zhang.
+      * 那个靠在墙上, 名字叫乔治的男人是我哥哥- The man  leaning against the wall named George is my brother.
+  * claim 声称
+    * claim to have done. 声称曾经做过某事, (表示之前做过)
+      * → people who <u>claimed to have seen</u> the puma were extraordinarily similar.
+      * 为什么这里要 to 和 完成时态连用, 只用 claim 加 have done 不行么?
+        1. 固定搭配, claim 只能和 to 连用
+        2. 但 to 只能表示 目的要做, 但这里又要表示之前已经做过, 所以只能 在后面接上完成时态, 最后造成了这个比较奇怪的样子.
+           * 再举一个例子
+             * → Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed <u>to have died</u> as a young man.
+               * be supposed to do 是固定结构
+               * 但又要表达完成时态.
+    * claim to do ... 声称做某事. (表示之后要做)
+      * → So far, no organization has <u>claimed to be responsible</u> for the accident.
+    * 
 
 
 
