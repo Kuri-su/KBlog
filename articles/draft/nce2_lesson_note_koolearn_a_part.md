@@ -1460,7 +1460,7 @@ ous 结尾 (adj. 后缀)
 * 不规则变化的动词
   * sell sold sold
 
-## L20 One man is a boat
+## L20 One man in a boat
 
 **## word**
 
@@ -1471,3 +1471,48 @@ ous 结尾 (adj. 后缀)
 * waste
   * n. 浪费
     * → It's a waste of time/money/food
+  * v. 浪费
+    * → Don't waste your time.
+  * n. 垃圾, 废物
+    * recyclable 可回收的
+    * other waste 其他垃圾
+* realize 
+  * v. 意识到
+  * v. 使.... 成真
+    * realize your dream
+
+**## key structure**
+
+* doing 动名词 
+
+**## text**
+
+* doing 动名词 
+
+  1. 作主语
+
+     * → Fishing is my favourite sport .(doing)
+
+     * → Playing basketball is my favourite sport. (doing sth.)
+
+     * → <u>Playing backetball with my friends every Sunday(主语)</u> is my favourite sport.
+
+  2. 介词后, 作宾语 (介词后只能接名词 / 代词)
+
+     * → I often fish for hours without <u>catching anything</u>.
+
+*  介词 + doing 动名词 改写句子
+
+  * → He sat there . He did not say anything (without)
+    * →  He sat there without saying anything.
+  * → He turned off the radio. He left the room (before)
+    * →  Before leaving the room, he turned off the radio.
+
+* 生词 和 固定搭配
+
+  * worry + sb. 使某人担心
+  * unpleasant 不愉快的
+  * unimportant 不重要的
+  * uninteresting 没有兴趣的 
+    * boring
+  * be interested in .... 在某方面感兴趣
