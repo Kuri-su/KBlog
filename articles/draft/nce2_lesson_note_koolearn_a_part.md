@@ -1427,4 +1427,47 @@ ous 结尾 (adj. 后缀)
 **## text**
 
 * 情态动词 may(might)
-  * 
+  * 推测 "可能", (可能性比 must 小)
+    * may do / may have done
+    * e.g.
+      * → "The play may begin at any moment", I said.
+      * → "It may have begun already.", susan answered.
+  * 请求允许? "可以吗?" 
+    * May 只能 疑问句加 I
+      * → "May I do sth?"
+  * 允许 , "可以"
+    * I/You/They may.
+    * 例子: 
+      * → A: May I come in?
+      * → B: You may come in and have sth to drink.
+  * may 和 might 的区别
+    1. might 表示过去, may 表示现在
+    2. may 和 might 都表示现在, might 表示现在 (更委婉的语气)
+* 情态动词 can 
+  * 能力 "能, 能够"
+    * → Trust youself! You can do it.
+  * 请求允许? "可以吗?" 用在 I/You/He/They 中
+  * 允许 (陈述句) "可以"
+    * → A: Can I help you? / What can I do for you?
+    * → B: You can help me to find my size please.
+  * 推测(常用于 否定) can't/couldn't 不可能
+    * → He is abroad. It can't be him
+    * → I <u>might as well(勉为其难的)</u> have them.
+    * → with the help of the new technology, you can <u>email(名词动用- 名词当动词用)</u> you friends by mobile phone
+    * → We couldn't <u>ask for(要求, 索取)</u> a better one.
+    * → This  TV program is quite boring, we might as well listen to the music (不妨听听音乐).
+
+* 不规则变化的动词
+  * sell sold sold
+
+## L20 One man is a boat
+
+**## word**
+
+* catch v. 抓到 (caught, caught)
+  * catch fire 着火
+  * catch a bus 赶车
+  * catch a cold 感冒
+* waste
+  * n. 浪费
+    * → It's a waste of time/money/food
