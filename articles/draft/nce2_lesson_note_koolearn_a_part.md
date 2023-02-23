@@ -1775,5 +1775,16 @@ ous 结尾 (adj. 后缀)
 
 **## word**
 
+* railway n. 铁路
+  * rail 轨
+  * tailway station
+  * train station
+* several  (量词) 几个
+  * several times
+  * serveral people
+* foreigner n. 外国人
+  * foreign adj. 外国的, 外国人的
+    * a foreign language
+  * TOEFL = Test of English foreign language
 * 
 
