@@ -1589,5 +1589,120 @@ ous 结尾 (adj. 后缀)
   * 时态和情态要一起迁移
 * → I can't find my bag. someone bas stolen it.
   * → I can't find my bag, It has been stolen.
-* 
+
+**## doing / done 修饰名词 (作定语) (限定)**
+
+* doing
+
+  * → ... passing plane can be heard night and day.
+
+  * → I am one of the few peole left(定语-遗留).
+
+  * doing 修饰名词 (作定语) 通常表主动, 或者正在进行
+    * a waiting car
+    * boiling water 沸腾的水 
+    * a developing country 发展中国家
+    * a woman wearing a white coat 
+
+  * 英语中习惯长的词组放后面
+
+* done 修饰名词 (作定语)
+
+  * 通常表被动, 或 已完成
+    * used car
+    * a deserted car park 被废弃的停车场
+    * a ploughed field
+    * a developed country 发达国家
+    * wasted time 被浪费的时间
+    * a car called blue bird 被叫做蓝鸟的汽车
+
+* 不规则动词变化
+  * hear heard heard
+
+## L22 A glass envelope
+
+**## words**
+
+* dream v. 做梦 n. 梦想, 梦
+  * → I always dream <u>of/about flying</u>(介词 + 动名词) like a bird 
+  * → Your future depends on your dreams, so go to sleep.
+  * → I dreamed a dream in time gone by.  - Anne Hathaway
+* The Channel
+  * the English Channel 
+  * The British Channel
+  * 以上三者都是英吉利海峡
+* throw v. 扔, 抛 (threw , thrown)
+  * throw the bottle into the sea.
+  * throw away 扔掉
+
+**## text**
+
+* → a girl of her own age 同年纪的女孩
+* with prep.  伴随着有
+  * without prep. 伴随着没有
+  * → a piece of paper with here name and address on it
+    * with + n. + 介词短语
+      * → a wallet with 200 dollars in it.
+      * → a bus with 500 people on it.
+* → Letters with cost <u>a little more</u>, but they will certainly travel faster
+  * a little 修饰比较级, 更 ... 的 程度
+  * mush / a lot / for
+  * even 甚至
+
+* 后面可接 of / from/ in /on 的 动词 (背诵)
+  * 后面可接 on 的动词 (在 ... 上面)
+    * act on 遵守
+    * base on 在...基础上
+    * comment on 评论
+    * concentrate on 集中
+    * lean on/against 倚靠于
+    * live on 靠...为生
+    * operate on 起作用 / 做手术
+    * count on 依靠依赖
+      * depend on
+      * rely on
+  * 后面可接 in 的动词 (在 ... 里面)
+    * believe in 信仰
+    * delight in 喜欢
+    * interest in 感兴趣
+    * include in 包括
+    * involve in 卷入
+    * engage in 正做(参与)
+    * experience in 在... 有经验
+    * fail in 没有尽到 (失败)
+    * help in (with) 帮助
+  * 后面可接 from 的 动词 (来源)
+    * borrow from 从... 借
+    * receive from 收到 来自于...
+    * escape from 从...逃出
+    * draw from 从...拉过来
+    * suffer from 从... 受苦受难
+    * differ from 有别于
+    * separate from 从.. 分开
+    * protect from 保护... 使免于
+    * defend from 保护 ... 使免于
+    * prevent from 阻止 ... 使免于
+  * 后面可接 of 的 动词 (属于, 属性)
+    * consist of 由...组成
+    * think of 思考
+    * complain of/about 抱怨
+    * dream of/about 幻想, 梦到
+    * accuse of 控告
+    * approve of 赞成
+    * assure of 让...方向
+    * beware of 注意, 小心
+    * be/get rid of 摆脱
+    * tired of 对...感到厌烦
+    * convince of/about 使 ... 信服
+* 不规则变化的动词
+  * dream dreamed dreamed
+    * dreamt dreamt
+  * travel traveled traveled traveling
+    * travelled travelled travelling
+  * throw threw thrown
+  * cost cost cost
+
+## L23 A new house
+
+
 
