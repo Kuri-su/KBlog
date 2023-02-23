@@ -1500,14 +1500,14 @@ ous 结尾 (adj. 后缀)
   2. 介词后, 作宾语 (介词后只能接名词 / 代词)
 
      * → I often fish for hours without <u>catching anything</u>.
-
-*  介词 + doing 动名词 改写句子
+* 介词 + doing 动名词 改写句子
 
   * → He sat there . He did not say anything (without)
     * →  He sat there without saying anything.
   * → He turned off the radio. He left the room (before)
     * →  Before leaving the room, he turned off the radio.
-
+  * →  I have spent whole mornings on the river. &&→  I always go home with an empty bag (after)
+    * →  After having spent whole mornings on the river, I always go home with an empty bag.
 * 生词 和 固定搭配
 
   * worry + sb. 使某人担心
@@ -1516,3 +1516,78 @@ ous 结尾 (adj. 后缀)
   * uninteresting 没有兴趣的 
     * boring
   * be interested in .... 在某方面感兴趣
+* doing 和 having done 的区别
+  * doing 表示主动 或 正在进行
+    * →  I must apologinze for interrupting you.
+  * having done 强调发生在之前 (不是很懂这是个什么时态... 查了下似乎是完成时态动名词)
+    * →  I must apologinze for having interrupted you.
+
+## L21 Mad or not ?
+
+**## 生词**
+
+* drive v. 驱使
+
+* mad adj. 发疯 (疯狂的, 气愤的, 狂热的)
+  * drive sb. mad
+    * →  Everybody says I must be mad.
+    * be+ adj. 傲视处于某种状态, 强调持续做某事
+  * go/get mad 强调变疯的过程
+* reason n. 原因
+  * for some reason 因为某种原因
+  * for some reasons 因为某些原因
+  * for no reason
+* a large sum of money.
+* determined adj. 坚定的, 下决心的
+  * be determined to do sth.
+
+**## key structure**
+
+1. 被动语态 与 时态相结合 (复习 L10)
+2. 被动语态 与 情态动词 或 词组相结合
+3. 主语的单复数
+
+**## 被动语态 be+done**
+
+* done 1. 被动的动作
+* be 2. 被动的时间
+
+**## 被动语态 x 情态动词**
+
+* Planes are heard.
+* Planes can be heard.
+  * Planes may be heard.
+  * Planes must be heard.
+* 这封信必须马上寄出 (特指一般用 the 表达)
+  * →  The letter must be sent immediately.
+* 天气不能被人们所控制
+  * →  The weather cannot be controlled by people.
+* Aeroplanes are slowly driving me mad .
+  * Aeroplanes 是英式写法, Airplanes 是美式写法
+  * drive a car
+  * drive sb. mad
+  * drive away 驱赶某人离开
+* come into stop 进入停止状态
+  * come into + n. 进入某种状态.
+* → Over a hundred people <u>s</u> away from their homes by the noise.
+  * must have done (be done)
+    * = must(推测) have(过去) been(被动) driven
+  * must have been done 推测过去的被动
+  * → My cell phone <u>must have been stolen</u>.
+  * → His keys <u>must have been lost</u>.
+  * → ... the wallet <u>must have been found</u> by one of the villagers.
+* knock down 击倒, 撞倒
+  * → I have been offered a large sum of money to go ways, but i am determined to stay here.
+
+**## 主动语态 vs 被动语态**
+
+* → He will repair you watch (主动, 突出主语)(who)
+  * → Your watch will be repaired (by him ) (被动) (what) (突出事情) 
+    * 被动使用突出事来体现客观性
+* → They must test this new car
+  * → This new car must be tested
+  * 时态和情态要一起迁移
+* → I can't find my bag. someone bas stolen it.
+  * → I can't find my bag, It has been stolen.
+* 
+
