@@ -249,7 +249,68 @@
                * 但又要表达完成时态.
     * claim to do ... 声称做某事. (表示之后要做)
       * → So far, no organization has <u>claimed to be responsible</u> for the accident.
-    * 
+  * were extraordinarily similar(类似的)
+    * extraordinarily 特别的, 与众不同的
+      * 美语中 通常会有 重音后移的现象
+    * 更多的 "特别的相似" 的表达
+      * were particularly alike
+      * had a lot in common
+        * have some sth in common  有共同的 ..... 东西
+      * had considerable(相当多的, 客观的, 书面形容词) commonalities(共同之处) 有相当多的共同之处
+      * → well, I saw the ad on the back of the bus stop tody. And, uh... though it was not exactly like looking in the mirror, you can't deny that <u>there is a certain commonality in our visages.</u>
+      * → I guess <u>we do look a little bit alike</u> 
+  * 造句: 随着 病例 (case) 开始慢慢增多, 医学专家们 (specialist) 觉得必须要调查了, 因为得了这种病的人的症状 (symptom) 特别地相似.
+    * → As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar.
+  * hunt for ... 出去打猎的意思 
+    * →  I'm hunting for a job now.
+    * →  The hunt for a job will begin tomorrow.
+  * 关于 '的' 的搭配
+    * the winter in America 美国的冬天
+    * the entrance to the parking lot  停车厂的入口
+    * a witness to the accident 这起事故的目击证人
+    * a longing for love  对 爱情的渴望
+    * the reason for the disaster 这起事故的原因
+  * 1 yard = 0.914 meter
+  * corner n. 角落 v. 使走投无路, 使陷入绝境
+  * unless  除非, (连词)
+  * proved (to be) + adj. /n. 被证明是...
+    * → His injury(外伤) proved (to be) fatal(致命的). 
+    * → The operation(手术) proved (to be) a success.
+    * turn out to be + adj./n. 原来是... (有点出乎意料的色彩)
+      * → (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they were amazed to find that the goddess <u>turned out to be</u> a very modern-looking woman.
+  * wherever 
+    * 疑问词 + ever (whenever, wherever, whoever, whichever, whatever) 有两个含义: 
+      1. 表示 "无论....", 引导让步状语从句. 
+         * = no matter + 疑问词
+           * whenever = no matter when
+           * whoever = no matter who
+           * Wherever it went  => No matter where it went, ...
+           * → (NCE3-29 P138-L8) <u>No matter where</u> you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+      2. 表示 "到底....", 用于 疑问句中, 加强疑问句的语气
+         * →  (NCE3-2 P18-L10) '<u>Whatever</u> are you doing up here Bill?' asked the vicar(牧师) in surprise.
+           * 昨天你去哪了?
+             * → Where did you go yesterday?
+             * → <u>Wherever</u> did you go yesterday? (到底去哪了?)
+           * 我什么时候才能够再见你一面
+             * → <u>When ever</u> am i going to see you again?
+               * 既可以拼写到一块, 也能分开, 甚至可以插入别的词
+           * → when will you ever learn? (到底啥时候才能学会?)
+             * 去学可以用 study, learn 表示学会了/ 明白了
+             * → Answer: (C) Why do you keep on making the same mistakes.
+  * → Wherever it went, it left <u>behind it</u> a trail of dead deer and small animals like rabbits.
+    * 这里为了句式平衡, 牺牲了正常的语序, 这里的 谓语是 "a trail of dead deer and small animals like rabbits.", 状语是 behind it.
+    * 如果一个句子里的及物动词后的宾语太长, 状语比较短,可以先写 状语, 把宾语放到最后去.
+    * a trail of 一条小路/ 小径, 一连串的
+      * Wherever he went, he left a trail of ..... behind him. 不管他在哪, 总会留下一连串的 ... 
+        * → Wherever he went, he left a trail of <u>unpaid bils</u> behind him.
+        * → Wherever he went, he left a trail of <u>broken hearts</u> behind him. (playboy)
+    * one deer, two deer / one sheep , two sheep / one fish , two fish 单复数同形
+    * 句尾的 like 做介词构成介词短语, 动词是喜欢, 介词是像
+  * print n. 印痕
+  * → <u>Paw prints</u>(掌印, 无灵主语) were seen in a number of places and puma fur was found clinging to bushes.
+    * 本文 使用 paw prints 无灵主语 做主语的好处
+      1. 没有必要用 people 做主句, 比较简洁, 因为不可能是 苍蝇发现的
+      2. 突出了句子的核心内容
 
 
 
