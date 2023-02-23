@@ -189,11 +189,14 @@
        * 英语在写作时, 句子中比较累赘的东西会比较习惯往后放, 比较间断的东西会往前放.
 
 * had been spotted / seen /found /observed 都表示看到, 可以相互替换
+
   * → a wild puma <u>had been spotted</u> forty-five miles south of London.
   * → people who claimed to <u>have seen</u> the puma were extraodinarily similar.
   * → ....for the puma <u>was often observed</u> at one place in the morning and at ....
   * → Paw prints were seen in a number of places and puma fur <u>was found</u> clinging to bushes.
+
 * south 前面的介词
+
   * in the south of ...  在 范围之内
     * → Shanghai is in the south of China.
   * On the south of ... 在外部, 但是相邻的
@@ -204,21 +207,32 @@
     * →  a wild puma had been spotted forty-five miles <u>south of London</u> 
     * 西安南部一百公里处
       * →  100 kilometers south of Xi'an.
+
 * → They were not taken seriously.
+
   * take sth. seriously  严肃对待, 重视
   * seriously adv. 严肃的, 认真的, 非常
   * take sth. lightly 轻视
     * → They were taken lightly.
   * take 在这里是看待, 对待的意思.
+
 * →  When reports came into  Landon Zoo that a wild puma have been spotted firty-five miles south of Landon, They were not taken seriously.
+
   * 造句: 当消息(news) 传到了国家博物馆 (the national museum), 说是在西安以南 100 公里处发现了一座古墓(an ancient tomb), 这则消息受到了重视.
     * → When news came into the national museum that a ancient tomb have been spotted/seen/found/observed one handrad kilometers south of Xi'an, It were taken seriously.
+
 * investigate v. 调查
+
 * as 引导时间状语从句
+
 * expert 专家
+
 * for 引导原因状语从句, 起到补充说明, 因果关系不强烈, 所以 for 引导的从句一般不放在句首, 放在主句后面或者中间, 一般会在前面加个逗号, 补充说明
+
   * → experts from the Zoo felt obliged to investigate, **<u>for</u>** the descriptions <u>given by people.</u>
+
 * give descriptions. 作描述
+
   * descriptions given by people <= descriptions <u>which were</u> given by people
     * 定语从句 的关系词如果做主语 , 那么 关系词 和 后面的 be 动词可以同时省略
   * make description
@@ -237,80 +251,124 @@
       * 鲁迅写的小说 - novels written by Xun Lu.
       * 张艺谋的电影 - movies directed by YiMou Zhang.
       * 那个靠在墙上, 名字叫乔治的男人是我哥哥- The man  leaning against the wall named George is my brother.
-  * claim 声称
-    * claim to have done. 声称曾经做过某事, (表示之前做过)
-      * → people who <u>claimed to have seen</u> the puma were extraordinarily similar.
-      * 为什么这里要 to 和 完成时态连用, 只用 claim 加 have done 不行么?
-        1. 固定搭配, claim 只能和 to 连用
-        2. 但 to 只能表示 目的要做, 但这里又要表示之前已经做过, 所以只能 在后面接上完成时态, 最后造成了这个比较奇怪的样子.
-           * 再举一个例子
-             * → Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed <u>to have died</u> as a young man.
-               * be supposed to do 是固定结构
-               * 但又要表达完成时态.
-    * claim to do ... 声称做某事. (表示之后要做)
-      * → So far, no organization has <u>claimed to be responsible</u> for the accident.
-  * were extraordinarily similar(类似的)
-    * extraordinarily 特别的, 与众不同的
-      * 美语中 通常会有 重音后移的现象
-    * 更多的 "特别的相似" 的表达
-      * were particularly alike
-      * had a lot in common
-        * have some sth in common  有共同的 ..... 东西
-      * had considerable(相当多的, 客观的, 书面形容词) commonalities(共同之处) 有相当多的共同之处
-      * → well, I saw the ad on the back of the bus stop tody. And, uh... though it was not exactly like looking in the mirror, you can't deny that <u>there is a certain commonality in our visages.</u>
-      * → I guess <u>we do look a little bit alike</u> 
+
+* claim 声称
+
+  * claim to have done. 声称曾经做过某事, (表示之前做过)
+    * → people who <u>claimed to have seen</u> the puma were extraordinarily similar.
+    * 为什么这里要 to 和 完成时态连用, 只用 claim 加 have done 不行么?
+      1. 固定搭配, claim 只能和 to 连用
+      2. 但 to 只能表示 目的要做, 但这里又要表示之前已经做过, 所以只能 在后面接上完成时态, 最后造成了这个比较奇怪的样子.
+         * 再举一个例子
+           * → Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed <u>to have died</u> as a young man.
+             * be supposed to do 是固定结构
+             * 但又要表达完成时态.
+  * claim to do ... 声称做某事. (表示之后要做)
+    * → So far, no organization has <u>claimed to be responsible</u> for the accident.
+
+* were extraordinarily similar(类似的)
+
+  * extraordinarily 特别的, 与众不同的
+    * 美语中 通常会有 重音后移的现象
+  * 更多的 "特别的相似" 的表达
+    * were particularly alike
+    * had a lot in common
+      * have some sth in common  有共同的 ..... 东西
+    * had considerable(相当多的, 客观的, 书面形容词) commonalities(共同之处) 有相当多的共同之处
+    * → well, I saw the ad on the back of the bus stop tody. And, uh... though it was not exactly like looking in the mirror, you can't deny that <u>there is a certain commonality in our visages.</u>
+    * → I guess <u>we do look a little bit alike</u> 
+
   * 造句: 随着 病例 (case) 开始慢慢增多, 医学专家们 (specialist) 觉得必须要调查了, 因为得了这种病的人的症状 (symptom) 特别地相似.
     * → As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar.
-  * hunt for ... 出去打猎的意思 
-    * →  I'm hunting for a job now.
-    * →  The hunt for a job will begin tomorrow.
-  * 关于 '的' 的搭配
-    * the winter in America 美国的冬天
-    * the entrance to the parking lot  停车厂的入口
-    * a witness to the accident 这起事故的目击证人
-    * a longing for love  对 爱情的渴望
-    * the reason for the disaster 这起事故的原因
-  * 1 yard = 0.914 meter
-  * corner n. 角落 v. 使走投无路, 使陷入绝境
-  * unless  除非, (连词)
-  * proved (to be) + adj. /n. 被证明是...
-    * → His injury(外伤) proved (to be) fatal(致命的). 
-    * → The operation(手术) proved (to be) a success.
-    * turn out to be + adj./n. 原来是... (有点出乎意料的色彩)
-      * → (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they were amazed to find that the goddess <u>turned out to be</u> a very modern-looking woman.
-  * wherever 
-    * 疑问词 + ever (whenever, wherever, whoever, whichever, whatever) 有两个含义: 
-      1. 表示 "无论....", 引导让步状语从句. 
-         * = no matter + 疑问词
-           * whenever = no matter when
-           * whoever = no matter who
-           * Wherever it went  => No matter where it went, ...
-           * → (NCE3-29 P138-L8) <u>No matter where</u> you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
-      2. 表示 "到底....", 用于 疑问句中, 加强疑问句的语气
-         * →  (NCE3-2 P18-L10) '<u>Whatever</u> are you doing up here Bill?' asked the vicar(牧师) in surprise.
-           * 昨天你去哪了?
-             * → Where did you go yesterday?
-             * → <u>Wherever</u> did you go yesterday? (到底去哪了?)
-           * 我什么时候才能够再见你一面
-             * → <u>When ever</u> am i going to see you again?
-               * 既可以拼写到一块, 也能分开, 甚至可以插入别的词
-           * → when will you ever learn? (到底啥时候才能学会?)
-             * 去学可以用 study, learn 表示学会了/ 明白了
-             * → Answer: (C) Why do you keep on making the same mistakes.
-  * → Wherever it went, it left <u>behind it</u> a trail of dead deer and small animals like rabbits.
-    * 这里为了句式平衡, 牺牲了正常的语序, 这里的 谓语是 "a trail of dead deer and small animals like rabbits.", 状语是 behind it.
-    * 如果一个句子里的及物动词后的宾语太长, 状语比较短,可以先写 状语, 把宾语放到最后去.
-    * a trail of 一条小路/ 小径, 一连串的
-      * Wherever he went, he left a trail of ..... behind him. 不管他在哪, 总会留下一连串的 ... 
-        * → Wherever he went, he left a trail of <u>unpaid bils</u> behind him.
-        * → Wherever he went, he left a trail of <u>broken hearts</u> behind him. (playboy)
-    * one deer, two deer / one sheep , two sheep / one fish , two fish 单复数同形
-    * 句尾的 like 做介词构成介词短语, 动词是喜欢, 介词是像
-  * print n. 印痕
-  * → <u>Paw prints</u>(掌印, 无灵主语) were seen in a number of places and puma fur was found clinging to bushes.
+
+* hunt for ... 出去打猎的意思 
+
+  * →  I'm hunting for a job now.
+  * →  The hunt for a job will begin tomorrow.
+
+* 关于 '的' 的搭配
+
+  * the winter in America 美国的冬天
+  * the entrance to the parking lot  停车厂的入口
+  * a witness to the accident 这起事故的目击证人
+  * a longing for love  对 爱情的渴望
+  * the reason for the disaster 这起事故的原因
+
+* 1 yard = 0.914 meter
+
+* corner n. 角落 v. 使走投无路, 使陷入绝境
+
+* unless  除非, (连词)
+
+* proved (to be) + adj. /n. 被证明是...
+
+  * → His injury(外伤) proved (to be) fatal(致命的). 
+  * → The operation(手术) proved (to be) a success.
+  * turn out to be + adj./n. 原来是... (有点出乎意料的色彩)
+    * → (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they were amazed to find that the goddess <u>turned out to be</u> a very modern-looking woman.
+
+* wherever 
+
+  * 疑问词 + ever (whenever, wherever, whoever, whichever, whatever) 有两个含义: 
+    1. 表示 "无论....", 引导让步状语从句. 
+       * = no matter + 疑问词
+         * whenever = no matter when
+         * whoever = no matter who
+         * Wherever it went  => No matter where it went, ...
+         * → (NCE3-29 P138-L8) <u>No matter where</u> you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+    2. 表示 "到底....", 用于 疑问句中, 加强疑问句的语气
+       * →  (NCE3-2 P18-L10) '<u>Whatever</u> are you doing up here Bill?' asked the vicar(牧师) in surprise.
+         * 昨天你去哪了?
+           * → Where did you go yesterday?
+           * → <u>Wherever</u> did you go yesterday? (到底去哪了?)
+         * 我什么时候才能够再见你一面
+           * → <u>When ever</u> am i going to see you again?
+             * 既可以拼写到一块, 也能分开, 甚至可以插入别的词
+         * → when will you ever learn? (到底啥时候才能学会?)
+           * 去学可以用 study, learn 表示学会了/ 明白了
+           * → Answer: (C) Why do you keep on making the same mistakes.
+
+* → Wherever it went, it left <u>behind it</u> a trail of dead deer and small animals like rabbits.
+
+  * 这里为了句式平衡, 牺牲了正常的语序, 这里的 谓语是 "a trail of dead deer and small animals like rabbits.", 状语是 behind it.
+  * 如果一个句子里的及物动词后的宾语太长, 状语比较短,可以先写 状语, 把宾语放到最后去.
+  * a trail of 一条小路/ 小径, 一连串的
+    * Wherever he went, he left a trail of ..... behind him. 不管他在哪, 总会留下一连串的 ... 
+      * → Wherever he went, he left a trail of <u>unpaid bils</u> behind him.
+      * → Wherever he went, he left a trail of <u>broken hearts</u> behind him. (playboy)
+
+* one deer, two deer / one sheep , two sheep / one fish , two fish 单复数同形
+
+* 句尾的 like 做介词构成介词短语, 动词是喜欢, 介词是像
+
+* print n. 印痕
+
+  * → <u>Paw prints</u>(掌印, 无灵主语) were seen in a number of places and puma <u>fur</u> was found clinging to bushes.
     * 本文 使用 paw prints 无灵主语 做主语的好处
-      1. 没有必要用 people 做主句, 比较简洁, 因为不可能是 苍蝇发现的
-      2. 突出了句子的核心内容
+      * 没有必要用 people 做主句, 比较简洁, 因为不可能是 苍蝇发现的
+      * 突出了句子的核心内容, 一个句子里, 句首和句尾 会比较重要, 把 掌痕放在句首, 突出重点
+      * 例句: 人们对下岗工人的生活状况越来越关注了
+        * → People have paid more and more attention to the condition of the laid-off(短期解聘的) workers.  (不佳, people 是废话, 不可能是 狗关注下岗工人的生活, 这个新闻的关键点在 "越来越关注了" 的这个变化)
+        * →  Increasing attention has been paid to the codition of the laid-off workers. (佳, 语法正确是相对容易的, 但要注意写的地道,  )
+        *  fur 皮毛, 皮和毛放到一块
+        * a fur coat 裘皮大衣
+        * feather 羽毛
+          * fur and feather 飞禽走兽 (借代修辞, fur 是走兽的特征, feature 是 飞禽的特征, 英语中 短的一般放前面, 长的一般放后面)
+          * fin, fur and feature 各种各样的动物 (fin 是鱼鳍, 鱼翅, 天上飞的, 地上跑的, 水里游的. 这里除了用到借代修辞, 还用到了压首韵的手法)
+      * The crown(王权) should not yield(屈服) to the cross(十字架). (这里也是借代的手法, 同时 crown 和 cross 压了首韵, ) 
+      * 借代手法在中文里
+        * 臣本布衣, 
+        * 巾帼不让须眉
+        * 过尽千帆皆不是, 斜晖脉脉水悠悠
+    * cling v. 粘
+      * 通常用 clinging to  + sth, 表示 粘在哪里.
+      * 这里的 clinging to bushes 是非谓语动词在句尾当主语的补足语, 补充说明主语的状态.
+        * →  (L14) As no pumas had been reported <u>missing</u> from any zoo in the country, ...
+        * → The fire was reported <u>controlled</u>. (佳)
+          * →  It is reported that the fire was controlled. (不佳)
+          * 巧妙的使用 主语补足语, 可以让句子更加简洁和精练.
+
+* 
 
 
 
