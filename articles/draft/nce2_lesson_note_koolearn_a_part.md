@@ -1704,5 +1704,76 @@ ous 结尾 (adj. 后缀)
 
 ## L23 A new house
 
+**## words**
 
+* complete v. 完成 adj. 完整的
+  * a complate story
+* modern adj. 新式的, 与以往不同的
+* strange adj. 奇怪的
+  * → We heard a strange sound.
+  * → The modern building looks strange to some people.
+  * stranger n. 陌生人 / 奇怪的
+* district n. 地区
+  * CBD = central Bussiness District
+
+**## text**
+
+* There be 句型
+  * There be + n. (有 => 客观存在)
+  * 倒装句
+    * → There is a girl.
+      * → Girl is there.
+  * There be + n. + 介词短语 (常用)
+    * → There is a girl in the classroom.
+    * → There was a book on the table.
+    * → There is still some honesty in the world.
+  * There be + n. + doing (有什么正在做某事)
+    * → There is a girl crying.
+    * There be + n. doing / 介词短语
+      * → There is a girl crying in the classroom.
+      * → There were some people rowing on the river.
+
+## L24 It could be worse
+
+**## word**
+
+* upset adj. 不安
+  * be upset 处于不安的状态
+  * fell upset
+    * → I'm felt very upset.
+* complain v. 抱怨
+  * complain about sth. 抱怨 某事
+    * → He always complain about the weather.
+  * complain to sb. 
+  * complain about sth. to sb.
+* wicked > bad
+* contain v. 包含
+  * 表示能实实在在的包含 (物理)
+    * → The envlope contained $50.
+  * include v. 包含 (抽象)
+    * → The list include 500 people.
+* honesty n. 诚实
+  * honest adj. 诚实的
+    * an honest man.
+* in the way 挡路
+  * on the way 在路上
+* salary 月薪
+  * wages  蓝领薪水
+* borrow 借给别人
+  * lend 找别人借钱给自己
+* look after 照着
+  * pay attention to 注意
+* besides 除了
+  * beside 在旁边
+* Its 它的
+* excited 激动
+* exciting adj. 令人激动的
+* 不规则变化的动词
+  * lose lost lost losing
+
+## L25 Do the English speck English
+
+**## word**
+
+* 
 
