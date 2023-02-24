@@ -374,10 +374,78 @@
   * complain (that) 某人抱怨说 的时候, 后面可以跟 that 引导的定语从句, 这时可以省略 complain 后的介词
     * → She <u>complained that</u> no one had been at the airport to meet her.
     * 为什么这个句子使用 "She complained of that .... ", 因为 that 引导的句子一般来说不需要跟在介词后面. 不需要在介词之后, 是 that 这个词引导的句子 最明显的 特征之一. 宾语从句前是不能加介词的, 所以这里为了接 宾语从句 牺牲了 介词.
+      * 例外情况: 
+        * in that ... (复合连词, 表因为, 放在句子中部)
+        * except / but that ... (除了... 情况之外.. , 复合连词)  
 
-* 介词 on 经常表示 在 ... 的路上
+* 介词 on 经常表示 在 ... 的路上, 不要用中文理解, 中文里面 "中" 和 "上" 都行
 
-  * on a business / honeymooon trip
+  * on a business / honeymoon trip (出差/蜜月旅行)
+  * on a journey(中长距离的旅行) / voyage (航行途中, 通常是出海远航), expedition (远征, 探险) / tour (环游, 周游) 
+
+* fully adv. 完全的, 彻底的
+
+* convince v. 使某人相信
+
+  * con 弱读发 [cən] 的音, 而不是 类似 '康' 的音, 重读发 [cɑn] 的音
+  * be convinced that ... 使某人相信, 后面跟从句, 主语用人
+    * → The experts <u>were</u> now fully <u>convinced that</u> the animal was a puma.
+  * convince sb. of sth. (convince sb. 连读, ce 不发音, 直接发后面的 sb. 的 s)
+
+* 英文文章中 如果遇到斜体印刷, 需要重读 , 例如下面的 
+
+  * →  the animal *was* a puma
+
+* as 做连词也可以表示 原因状语从句
+
+  * → <u>As</u> no pumas had been reported missing from any zoo inthe country, this one must have been in the possession of a private collector and somehow managed to escape.
+    * must have done  表示语气, 表示强烈的<u>推测</u>语气, must 表示推测说明 非常有把握, 情态动词的完成时.
+      * → You must have heen ill yesterday. You looked so pale.
+    * must do 情态动词的现在时
+      * She knew that it must be the baker
+    * may/might have done 也表示语气, 没有 must 那么有把握, 语气稍弱, 对过去的肯定推测
+    * Can not / could not have done  对过去的否定的推测, 表示过去不可能怎么怎么样.
+      * → You can't have been ill yesterday. I saw you going shopping with your wife.
+      * → (NCE3-60 P268-L27) The girl asked to see a timetable, feeling sure that her father could not have made such a mistake.
+    * should / ought to have done , ought 通常用于书面语中, 比较强烈的责备语气, 过去应该完成的事情却没做, 这是一种批评. 
+      * should not / ought not to have done , 过去不应该做的事情, 你为什么这么做了呢?! 它不应该这么做, 也是责备的语气.
+      * → You should have finished your work yesterday.
+      * → I shouldn't have shouted at you yesterday.
+
+* purse 表示女士小包, 放点口红等化妆品, 或者 零钱和钥匙, 
+
+* in the possession of sb.  / in one's possession  归于某人拥有, 物做主语的形式
+
+  * 人做主语用 in possession of sth.
+    * I'm in possession of the book.
+  * → The book is in my possession.
+  * 同义
+    * in the charge of sb. / in one's charge 归某人管, 物作主语
+      * in charge of ...人作主语
+      * → The bookstore is <u>in my charge</u>. 物做主语
+      * → I'm <u>in charge of</u> the bookstore. 人做主语
+
+* manage to do (习语搭配) 设法完成了某事 (强调完成了, 强调结果)
+
+  * → (NCE3-2 P18-L1) Our vicar is always raising money for one cause or another, but he has never <u>managed to get</u> enough money to have the church clock repaired.
+  * try to do 设法去做(还没做, 强调去做)
+  * fail to do (manage to do 的反意搭配) 没能完成某事
+    * →  (NCE3-5 P30-L12) When the journalist again <u>failed to reply</u>, the editor reluctantly published the article as it had originally been written.
+
+* The hunt went  on for several weeks. 这里 went(go) on 表示持续, 追捕行动持续了几个星期.
+
+* → **It** is disturbing **to think <u>that a dangerous wild animal is still at large in the quiet countryside</u>.**
+
+  *  disturbing adj. 令人不安的.  由现在分词构成的形容词 通畅表示事物的特征, 令人怎样的, disturbed  则表示感到不安的.
+  * quiet countryside 宁静的乡间 
+  * It 是形式主语, It is ... to think that ... 一想到就...
+    * → It is worrying to think that
+    * → It is exciting to think that...
+    * → It is comforting to think that...
+    * → It is amusing to think that...
+    * → It is irritating to think that... 一想到就让人气愤
+
+## L2 Thirteen equals one
 
 
 
