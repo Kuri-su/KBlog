@@ -368,7 +368,16 @@
           * →  It is reported that the fire was controlled. (不佳)
           * 巧妙的使用 主语补足语, 可以让句子更加简洁和精练.
 
-* 
+* Complain of / about sth. 
+
+  * complain 是不及物动词, 不能直接接名词, 通常后面加 of / about
+  * complain (that) 某人抱怨说 的时候, 后面可以跟 that 引导的定语从句, 这时可以省略 complain 后的介词
+    * → She <u>complained that</u> no one had been at the airport to meet her.
+    * 为什么这个句子使用 "She complained of that .... ", 因为 that 引导的句子一般来说不需要跟在介词后面. 不需要在介词之后, 是 that 这个词引导的句子 最明显的 特征之一. 宾语从句前是不能加介词的, 所以这里为了接 宾语从句 牺牲了 介词.
+
+* 介词 on 经常表示 在 ... 的路上
+
+  * on a business / honeymooon trip
 
 
 
