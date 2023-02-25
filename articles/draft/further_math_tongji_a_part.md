@@ -237,7 +237,50 @@
                 * $|\frac{2x^2-x-1}{x-1} -3|<\epsilon$
                 * 所以 $lim_{x\to 1}\frac{2x^2-x-1}{x-1}=3$
 2. 定义 $(\epsilon-x)$ , 当 x 趋近于 $\infty$ 的情况
-   * 
+   * 例子: 
+     * y=arctan$x$ 
+       * $arctanx \to -\frac{\pi}{2} (x\to -\infty)$
+       * $arctanx\to\frac{\pi}{2}(x\to+\infty)$
+     *  $y=e^{-x^2}+1$
+       * $e^{-x^2}+1\to 1 \  (x\to\infty)$
+   * 定义
+     * Case1: If $\forall\epsilon>0, \exists X>0, 当 x> X 时$,
+       * $|f(x)-A|< \epsilon $
+       * 记 $lim_{x\to+\infty}=A$
+     * Case2: If $\forall \epsilon > 0, \exists X>0, 当 x<-X 的时候, $
+       * $|f(x)-A|<\epsilon $
+       * 记 $lim_{x\to-\epsilon}f(x)=A$
+     * Case3: If $\forall\epsilon>0,\exists X>0,当 |x|>X 时$
+       * $|f(x)-A|<\epsilon$
+       * 记 $lim_{x\to\infty}f(x)=A$
+   * 例题: 证明 $lim_{x\to\infty}\frac{2x^2+1}{x^2}=2$
+     * 证: $\forall\epsilon>0, |\frac{2x^2+1}{x^2}-2|=\frac{1}{x^2}<\epsilon \Leftrightarrow |x|>\frac{1}{\surd{\epsilon}}$
+       * 取 $x=\frac{1}{\surd{\epsilon}}>0$
+       * 当 $|x|>X 时$,
+       * $|\frac{2x^2+1}{x^2}-1|<\epsilon$
+       * 所以 $lim_{x\to\infty}\frac{2x^2+1}{x^2}=2$
+3. 性质
+   1. (唯一性) 函数有极限必唯一
+      * 证: 仅证 $x\to a$的情形
+        * 设 $\lim_{x\to a} f(x)=A , lim_{x\to a}f(x)=B$
+        * (反证) 设 A>B
+          * 取 $\epsilon = \frac{A-B}{2}>0$
+          * 因为 $lim_{x\to a}f(x)=A, 所以 \exists\delta_1>0 , 当 0<|x-a|<\delta_1 时$
+            * $|f(x)-A|<\frac{A-B}{2} \Leftrightarrow \frac{A+B}{2}<f(x)<\frac{3A-B}{2} \ \ (*)$
+          * 又因为 $lim_{x\to a}f(x)=B$ $ 所以 \exists\delta_2>0 , 当 0<|x-a|<\delta_2 时$
+            * $|f(x)-B|<\frac{A-B}{2} \Leftrightarrow \frac{3B-A}{2}<f(x)<\frac{A+B}{2} \ \ (**)$
+          * 取 $\delta=mix\{\delta_1,\delta_2\}$ , 当 $0<|x-a|<\delta$ 时, (*),(**) 成立, 矛盾
+          * 所以 A>B 不成立, 同理 A<B 也不成立, 所以 A=B
+      * 证: 证明 $x\to \infty$ 的情况
+        * // TODO
+   2. (<u>局部</u>有界)  设 $lim_{x\to a}f(x)=A$ , 则 $\exists \delta > 0, M>0, 当 0<|x-a|<\delta 时$, 
+      * $|f(x)|\le M$
+      * 证: 取 $\epsilon =1 >0$
+        * 因为 $lim_{x\to a}f(x)=A, 所以 \exists \delta >0, 当 0<|x-a|<\delta 时,$
+        * $|f(x)-A|<1$
+        * 又因为 $||f(x)|-|A||\le |f(x)-A|$
+        * 所以当 $0<|x-a|<\delta 时$
+        * $$
 
 
 
