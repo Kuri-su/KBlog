@@ -182,7 +182,24 @@
              * 反例2: 二次函数, 有界, 但不存在极限
              * 所以 $lim_{n\to\infty}a_n$ 不存在, 但 $|a_n|\le2$
          * 既 如果存在极限, 那么函数必定有界, 但反之则不成立, 函数有界, 但不一定存在极限
-      3. (保号性)
+      3. (保号性)  if $\lim_{n\to\infty}a_n=A \begin{cases} >0 \\ <0 \end{cases} $   , 则 $\exists N>0, 当 n>N时$, $a_n\begin{cases} >0\\<0 \end{cases}$
+         * 证: 设 A>0
+           * 取 $\epsilon = \frac{A}{2} >0$
+           * 因为 $lim_{n\to\epsilon}a_n=A$, 所以 $\exists N>0, 当 n> N 时$
+             * $|a_n-A|<\frac{A}{2} \ \ \Rightarrow \ \ a_n>\frac{A}{2} > 0$ 
+             * Q.E.D.
+         * 设 A < 0
+           * 取 $\epsilon = - \frac{A}{2} >0$
+           * 因为 $lim_{n\to\epsilon}=A$, 所以 $\exists N > 0 , 当 n> N 时$
+             * $|a_n-A|<-\frac{A}{2} \Rightarrow a_n < \frac{3A}{2} < 0 $
+             * Q.E.D.
+
+### 第三节 函数极限
+
+1. 定义
+   * 
+
+
 
 
 
