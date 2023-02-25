@@ -135,7 +135,7 @@
 ### 第二节 数列极限
 
 1. 定义
-   1. 设 $\{x_n\}$ 为一数列, 如果存在常数 $a$, 对于任意给定的正数 $\epsilon$ (不论它多么小), 总存在 正整数 $N$, 使得当 $n > N$ 时, 不等式 $|x_n -a| <\epsilon$都成立, 那么就称 常数 $a$  是数列 $\{x_n\}$ 的 极限, 或者称 数列 $\{x_n\}$ 收敛与 $a$, 记作 $\lim_{n\to \infty}x_n=a$  或 $x_n \to a (n \to \infty)$
+   1. 设 $\{x_n\}$ 为一数列, 如果存在常数 $a$, 对于任意给定的正数 $\epsilon$ (不论它多么小), 总存在 正整数 $N$, 使得当 $n > N$ 时, 不等式 $|x_n -a| <\epsilon$都成立, 那么就称 常数 $a$  是数列 $\{x_n\}$ 的 极限, 或者称 数列 $\{x_n\}$ 收敛与 $a$, 记作 $\lim_{n\to \infty}x_n=a$  或 $x_n \to a (n \to \infty)$ , ($\epsilon 是误差值, N是数列中为界的那个数的序号, a 是数列 \{x_n\} 极限值$)
       * 例子1
         * 证明 $lim_{n\to\infty} \frac{n-1}{n+1} =1$
           * 证: $|\frac{n-1}{n+1}-1|=\frac {2}{m+1}$
@@ -153,6 +153,36 @@
           * Q.E.D.
    2. 性质
       1. (唯一性) 数列有界限必唯一, 
+         * 证: (反) 设 $lim_{n\to\infty}a_n=A$, $lim_{n\to\infty}a_n=B$ , 且 $A\ne B$ , (翻译一下就是 说一个数列有两个界限)
+           * 设 A > B
+           * 取 $\epsilon=\frac{A-B}{2}$ > 0,  
+           * 因为 $lim_{n\to\infty}a_n=A$, 
+             * 所以 $\exists N_1>0, 当 n>N_1 时$,
+             *  $|a_n-A|<\frac{A-B}{2}  \Leftrightarrow \frac{A+B}{2} < a_n < \frac{3A-B}{2}  $  $(*)$
+           * 又因为 $lim_{n\to\infty}a_n=B$, 
+             * 所以 $\exists N_2 > 0 $, 当 $n>N_2时$,
+             * $|a_n-B| < \frac{A-B}{2} \Leftrightarrow \frac{3B-A}{2} < a_n < \frac{A+B}{2}$  $(**)$
+           * 取 $N=max{N1,N2}, $ 当 $n>N 时$, $(*)(**)$ 成立
+           * 然而上述矛盾, $a_n$ 是不可能在 (*) 中 既大于 $\frac{A+B}{2}$ 又在 (**) 中小于 $\frac{A+B}{2}$ 的
+           * 所以 假设 $A>B$ 不成立, 同理 A<B 也不成立, 
+           * 所以 A=B
+      2. (有界性) if $lim_{n\to\infty}a_n=A$, 则 $\exists M>0$, 使 $|a_n|\le M$ , 反之则不成立
+         * 证: 
+           * "$\Rightarrow$" 正向
+             *  取 $\epsilon = 1 >0$
+               * 因为 $lim_{m\to\infty}a_n=A$
+               * 所以 $\exists N > 0$, 当 $n>N$ 时, $|a_n-A|<1$
+               * $||a_n|-|A||\le|a_n-A|$
+               * 所以 当 n>N 时, $||a_n|-|A||<1 \Rightarrow |a_n| < 1+|A|$  $(*)$
+               * 取 M=max{$|a_1|,|a_2|, ... ,|a_N|,1+|A|$} $(**)$
+               * 所以 根据上面两条结论 (*) 和 (**), 
+               * $\forall n$, 有 $|a_n|\le M$
+           * "$\nLeftarrow$" 反向
+             * 反例1: $a_n=1+(-1)^n$  ={0,2,0,2,0,2,....)
+             * 反例2: 二次函数, 有界, 但不存在极限
+             * 所以 $lim_{n\to\infty}a_n$ 不存在, 但 $|a_n|\le2$
+         * 既 如果存在极限, 那么函数必定有界, 但反之则不成立, 函数有界, 但不一定存在极限
+      3. (保号性)
 
 
 
