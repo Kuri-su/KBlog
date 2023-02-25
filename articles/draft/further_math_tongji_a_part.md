@@ -196,7 +196,47 @@
 
 ### 第三节 函数极限
 
-1. 定义
+1. 定义$(\epsilon-\delta)$
+   * $(\epsilon-\delta) $若 $\forall \epsilon > 0 , 当 0 < |x-a| < \delta 时, $(0<|x-a|)( 意味着 不取 a 这个点)
+     * $|f(x)-A|<\epsilon$
+     * 称 $f(x)当 x\to a 时, A 为极限$
+     * 记 $lim_{x\to a}f(x)=A$, 或 $f(x)\to A(x\to a)$
+   * Notes: 
+     1. $x\to a 时, x\ne a;$
+     2. $x\to a, 含 \begin{cases} x\to a^- \\ x\to a^+ \end{cases} \ ;$  
+     3. $\{x| 0< |x-a|< \delta  \}\triangleq \mathring{U}(a,\delta) $ , a 的 去心 $\delta$ 领域
+        * $\triangleq$ 是定义为的意思
+        * ![image-20230225173355165](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230225173355165.png)
+     4. $lim_{x\to a }f(x) 与 f(a) 无关$
+     5. $若\forall \epsilon > 0 , \exists \delta >0,$
+        1. $ 当 x \in (a-\delta,a) 时, $ (左侧)
+           1.  $|f(x)-A|<\epsilon $ , 
+           2. A 称为 $f(x) 在 x=a 处的左极限$
+           3. 记 $lim_{x\to a^-}f(x)=A, 或 f(a-0)=A$
+        2. $ 当 x \in (a,a+\delta) 时, $ (右侧)
+           1. $|f(x)-B|<\epsilon$
+           2. B 称为 f(x) 在 x=a 处的 右极限
+           3. 记 $lim_{x\to a^+}f(x)=B, 或 f(a+0)=B$
+        3. ⭐️ $lim_{x\to a}f(x)\exists \Leftrightarrow f(a-0),f(a+0)\exists 且相等$
+           1. 例子: 已知 $ f(x)=\begin{cases} 2x-1 & x<1 \\ 3x & x>1 \end{cases} , 求\ lim_{x\to 1} f(x)$
+              * 解: 
+                * $f(1-0)=lim_{x\to1^-}f(x)=lim_{x\to 1^-}2x-1=1;$
+                * $f(1+0)=lim_{x\to 1^+}f(x)=lim_{x\to1^+}3x=3;$
+                * 由于 $f(1-0) \ne f(1+0)$
+                * 所以 $lim_{x\to1} 不存在$
+           2. 例子: 证 $lim_{x\to 2}(3x+1)=7$
+              * 证: 
+                * $\forall \epsilon > 0$, $|(3x+1)-7|=3|x-2|<\epsilon \Leftrightarrow |x-2|<\frac{\epsilon}{3} $
+                * 取 $\delta = \frac{\epsilon}{3} > 0$, 当 $0<|x-2|<\delta$ 时, 
+                * $|(3x+1)-7|<\epsilon$
+                * 所以 $lim_{x\to2}(3x+1)=7$ 成立
+           3. 例子: 证 $lim_{x\to1}\frac{2x^2-x-1}{x-1}=3$
+              * 证: 
+                * $\forall \epsilon >0, |\frac{2x^2-x-1}{x-1}-3|= |(2x+1)-3|=2|x-1|<\epsilon\Leftrightarrow |x-1|<\frac{\epsilon}{2}$
+                * 取 $\delta = \frac{\epsilon}{2}>0, 当 0<|x-1|<\delta$ 时, 
+                * $|\frac{2x^2-x-1}{x-1} -3|<\epsilon$
+                * 所以 $lim_{x\to 1}\frac{2x^2-x-1}{x-1}=3$
+2. 定义 $(\epsilon-x)$ , 当 x 趋近于 $\infty$ 的情况
    * 
 
 
