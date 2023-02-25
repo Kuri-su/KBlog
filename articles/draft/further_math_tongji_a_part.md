@@ -280,7 +280,22 @@
         * $|f(x)-A|<1$
         * 又因为 $||f(x)|-|A||\le |f(x)-A|$
         * 所以当 $0<|x-a|<\delta 时$
-        * $$
+        * $||f(x)|-|A||<1 \Rightarrow |f(x) < 1+|A| \triangleq M|$
+        * 即当 $0<|x-a|<\delta$ 时, $|f(x)\le M|$
+   3. (保号性) $设 lim_{x\to a }f(x)=A \begin{cases}>0\\<0\end{cases}, 则 \exists \delta >0, 当0<|x-a|<\delta 时,  f(x)\begin{cases}>0\\<0\end{cases} $
+      * 证: 设 A>0
+        * 取 $\epsilon = \frac{A}{2}>0$
+        * 因为 $lim_{x\to a }f(x)=A$
+        * 所以 $\delta >0, 当 0<|x-a|<\delta时$
+        * $|f(x)-A|<\frac{A}{2} \Rightarrow f(x)<\frac{A}{2}>0$
+        * $(A<0, 取 \epsilon = -\frac{A}{2} >0)$ 
+
+### 第四节 无穷小 和 无穷大
+
+1. 无穷小
+   1. 定义: 
+
+
 
 
 
