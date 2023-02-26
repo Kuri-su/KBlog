@@ -1,4 +1,4 @@
-# Further Mathematic (tongji) (A part)
+# Further Mathematic lecture (tongji) (A part) cross Jiafeng Tang
 
 看起来上册的 七章, 基本是 把 高中的 数学从根上重新定义了一次
 
@@ -380,19 +380,94 @@
             6. $\therefore lim_{x\to x_0}\alpha\beta=0$
 2. 四则求导法则
    1. suppose/assume $lim_{x\to x_0}f(x)=A, lim_{x\to x_0}g(x)=B$, (极限趋向 只有 趋向于 某个点 或者 趋近于无穷 两种情况 )
-   2. $\lim_{x\to x_0}[f(x)\pm g(x)]=\lim_{x\to x_0}f(x)\pm lim_{x\to x_0}g(x)=A\pm B$
+   2. (加法) $\lim_{x\to x_0}[f(x)\pm g(x)]=\lim_{x\to x_0}f(x)\pm lim_{x\to x_0}g(x)=A\pm B$
       * 证明: 
         * $lim_{x\to x_0}f(x)=A \Leftrightarrow f(x)=A+\alpha, \alpha \to 0 (x\to x_0)$
         * $lim_{x\to x_0}g(x)=B \Leftrightarrow g(x)=B+\beta, \beta\to0(x\to x_0)$
         * $f(x)+g(x)=(A\pm B)+(\alpha\pm\beta)$
         * $\therefore lim_{x\to x_0}[f(x)\pm g(x)]=A\pm B$
-   3.  乘法
+   3. 乘法
       1. k 为常数, $lim_{x\to x_0}k\cdot f(x) = k\cdot lim_{x\to x_0}f(x)=k\cdot A$
          * 证: 
            * $lim_{x\to x_0}f(x)=A \Leftrightarrow f(x)=A+\alpha,\alpha\to0(x\to x_0)$
            * $k\cdot f(x)=kA+k\alpha$
            * $\therefore lim_{x\to x_0}kf(x)=k\cdot A$
-      2. $$
+      2. $lim_{x\to x_0}f(x)\cdot g(x)=lim_{x\to x_0}\cdot lim_{x\to x_0}g(x)=A\cdot B$
+         * 证: 
+           * $lim_{x\to x_0}f(x)=A \Leftrightarrow  f(x)=A+\alpha, \alpha\to0$
+           * $lim_{x\to x_0}g(x)=A \Leftrightarrow  g(x)=B+\beta, \beta\to0$
+           * $f(x)\cdot g(x)=AB+(A\beta+B\alpha+\alpha\beta)$
+           * $\therefore lim_{x\to x_0}f(x)\cdot g(x)=AB$
+   4. (除法)⭐️ 若 $lim_{x\to x_0}g(x)=B\ne0$, 则 $lim_{x\to x_0}\frac{f(x)}{g(x)}=\frac{lim_{x\to x_0}f(x)}{lim_{x\to x_0}g(x)}=\frac{A}{B}$
+      * 证: 
+        * $lim_{x\to x_0}f(x)=A \Leftrightarrow f(x)=A+\alpha, \alpha\to0 (x\to x_0)$
+        * $lim_{x\to x_0}g(x)=A \Leftrightarrow g(x)=B+\beta, \beta\to0 (x\to x_0)$
+        * $|\frac{f(x)}{g(x)}-\frac{A}{B}|=|\frac{A+\alpha}{B+\beta}-\frac{A}{B}|=\frac{1}{|B|\cdot |B+\beta|}\cdot |B\alpha\cdot A\beta|$
+        * 另取 $\epsilon_0=\frac{|B|}{2}>0, \because lim_{x\to x_0}\beta=0, \therefore \exists \delta_1>0, 当 0<|x-x_0|<\delta_1 时$
+          * $|\beta-0|=|\beta|< \frac{|B|}{2}$ 
+        * 当 $0<|x-x_0|<\delta_1$ 时, 
+          * $|B+\beta|\ge|B|-|\beta|>\frac{|B|}{2}$
+        * $\therefore \frac{1}{|B|\cdot |B+\beta|}<\frac{2}{|B|^2} \ (*)$
+        * $\because lim_{x\to x_0}(B\alpha-A\beta)=0$
+        * $\therefore \forall \epsilon >0 , \exists \delta_2>0, when \ 0<|x-x_0|<\delta $
+          * $|B\alpha-A\beta-0|=|B\alpha-A\beta|<\epsilon \ (**)$
+        * 取 $\delta=min\{\delta_1,\delta_2\}, 当 0<|x-x_0|<\delta 时, (*)(**) 成立 $
+        * $|\frac{f(x)}{g(x)}-\frac{A}{B}|<\frac{2}{B^2}\cdot \epsilon$
+          * 那么由于 $\epsilon$ 可以被随意控制, 那么也就意味着 $|\frac{f(x)}{g(x)} 与 \frac{A}{B}|$ 无限接近
+        * $\therefore lim_{x\to x_0}\frac{f(x)}{g(x)}=\frac{A}{B}$
+   5. 例子
+      1. $lim_{x\to2}(3x^2-2x+3)$
+         * 解: 
+           * $lim_{x\to2}(3x^2-2x+3)$
+           * $=lim_{x\to2}3x^2-lim_{x\to2}2x+lim_{x\to2}3$
+           * $=3lim_{x\to2}(x\cdot x)-2lim_{x\to2}(x)+3$
+           * $=3*4+2*2+3=11$
+      2. $lim_{x\to1}(\frac{x^3-2}{x^2+x+1})$
+         * 解: 
+           * $lim_{x\to1}(\frac{x^3-2}{x^2+x+1})=\frac{lim_{x\to1}(x^3-2)}{lim_{x\to1}(x^2+x+1)}$
+           * $=\frac{lim_{x\to1}(x^3)-lim_{x\to1}(2)}{lim_{x\to1}(x^2)+lim_{x\to1}(x)+lim_{x\to1}(1)}$
+           * $=\frac{1-2}{1+1+1}=-\frac{1}{3}$
+         * Note1:
+           * $P(x)=a_nx^n+...+a_1x^1+a_0$
+           * 则 $lim_{x\to x_0}p(x)=p(x_0)$
+         * Note2:
+           * $P(x)=a_nx^n+...+a_1x^1+a_0$
+           * $Q(x)=b_mx^m+...+b_1x^1+b_0$
+           * 当 $Q(x_0)\ne0$
+           * 则 $lim_{x\to x_0}\frac{P(x)}{Q(x)}=\frac{P(x_0)}{Q(x_0)}$
+      3. $lim_{x\to1}\frac{x^2+x-2}{x^2-1}$
+         * 解: 
+           * 数学要注重原理
+           * $lim_{x\to1}\frac{x^2+x-2}{x^2-1}=lim_{x\to1}\frac{(x-1)(x+2)}{(x-1)(x+1)}=lim_{x\to1}\frac{x+2}{x+1}=\frac{3}{2}$ (绕过一下 分母为0的情况即可)
+      4. $lim_{x\to\infty}\frac{2x^2-x+2}{x^2+1}$
+         * 解: 
+           * $lim_{x\to\infty}\frac{2x^2-x+2}{x^2+1}=lim_{x\to\infty}\frac{2-\frac{1}{x}+\frac{2}{x^2}}{1+\frac{1}{x^2}}=2$
+      5. $lim_{x\to\infty}\frac{2x^2-x+2}{x+1}$
+         * 解: 
+           * $lim_{x\to\infty}\frac{2x^2-x+2}{x+1} \Rightarrow(取倒数) lim_{x\to\infty}\frac{\frac{1}{x}+\frac{1}{x^2}}{1+\frac{2}{x}+\frac{1}{x^2}} =0$ (无穷小)
+           * $\therefore lim_{x\to\infty}\frac{2x^2-x+2}{x+1} = \infty$
+         * Note: 
+           * $P(x)=a_nx^n+...+a_1x^1+a_0$
+           * $Q(x)=b_mx^m+...+b_1x^1+b_0$
+           * $lim_{x\to\infty}\frac{P(x)}{Q(x)}=\begin{cases}\frac{a_n}{b_m} &, m=n \\ \infty&,n>m \\ 0&,n<m  \end{cases}$
+3. 复合运算极限法则
+   1. $Th. y=f(u), u=\phi(x),\phi(x)\ne a$
+      * $若 lim_{u\to a}f(u)=A, lim_{x\to x_0}\phi(x)=a, 则 lim_{x\to x_0}f(\phi(x))=A$
+        * 证明: 
+          * $\forall\epsilon>0, \because lim_{u\to a}f(u)=A, \therefore \exists \eta>0, 当 0<|u-a|<\eta 时.$
+          * $|f(u)-A|<\epsilon \ (*)$
+          * $对 \eta >0, \because lim_{x\to x_0}\phi(x)=a, \therefore \exists \eta>0, 当 0<|x-x_0|<\delta 时.$
+          * $0<|\phi(x)-a|<\eta \ (**)$
+          * $\therefore |f(\phi(x))-A|<\eta $
+          * $\therefore f(\phi(x))=A$
+
+
+### 第六节 极限存在准则 ⭐️ 
+
+1. 极限存在准则
+   1. 准则 I: 迫敛定理 (夹逼定理)
+
+
 
 
 
