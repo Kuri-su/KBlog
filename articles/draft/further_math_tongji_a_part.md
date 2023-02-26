@@ -293,7 +293,106 @@
 ### 第四节 无穷小 和 无穷大
 
 1. 无穷小
-   1. 定义: 
+   1. 定义: $\alpha(x)为 x 的函数, 如果 lim_{x\to x_0}\alpha(x)=0, 称 \alpha(x) 当 x\to x_0时为无穷小$
+      * Notes;
+        1. 0 是无穷小, 但 无穷小不一定是0
+        2.  $设 \alpha (x) \ne 0 , \alpha(x)是否为无穷小 与自变量的趋向有关$
+           * 例子: $\alpha(x)=3(x-1)^2$
+             * 因为 $lim_{x\to1}\alpha(x)=0$
+               * 所以 $\alpha(x)=3(x=1)^2 , 当x\to1时为无穷小$
+             * 因为 $lim_{x\to2}\alpha(x)=3 $
+               * 所以 $\alpha(x)=3(x=1)^2 , 当x\to2时不为无穷小$
+        3. 等价定义: If $\forall\epsilon >0,\exists\delta>0, 当 0<|x-x_0|<\delta 时$,
+           * $|\alpha(x)-0|<\epsilon$
+           * 即 $lim_{x\to x_0}\alpha(x)=0$
+   2. 常规性质: ⭐️
+      1. $\alpha \to 0, \beta\to0(x\to x_0), 则 \alpha\pm\beta\to0(x\to x_0)$
+         * 证: $\forall\epsilon>0$
+           * 因为 $lim_{x\to x_0}\alpha=0, 所以 \exists \delta_1>0 ,当 0<|x-x_0|<\delta_1 时$
+             * $|\alpha|<\epsilon $ (*)
+           * 又因为 $\lim_{x\to x_0}\beta=0 所以\exists \delta_2>0, 当 0<|x-x_0|<\delta_2 时$,
+             * $|\beta|<\epsilon$ (**)
+           * 取 $\delta = min \{\delta_1,\delta_2\},  当 0<|x-x_0|<\delta 时$, (*)(**) 成立
+           * 所以 , $当 0<|x-x_0|<\delta 时$ , $|\alpha\pm\beta|\le|\alpha|+|\beta|<2\epsilon$
+           * 所以, $lim_{x\to x_0}(\alpha\pm\beta)=0$
+      2. $\alpha\to0 (x\to x_0), 则 k\alpha\to0 (x\to x_0) (k 是常数)$
+         * 证: $\forall\epsilon>0$
+           * 因为 $lim_{x\to x_0}\alpha=0$ , 所以 $\exists \delta >0, 当 0<|x-x_0|<\delta 时$
+             * $|\alpha|<\delta$
+           * 当 $0<|x-x_0|<\delta$ 时
+             * $|k\alpha-0|=|k\alpha|<|k|*\epsilon$
+           * 所以 $lim_{x\to x_0}k\alpha=0$
+      3. $lim_{x\to x_0}f(x)=A \Leftrightarrow f(x)=A+\alpha, \alpha\to0(x\to x_0)$
+         * 证: "$\Rightarrow$" $f(x)=A+[f(x)-A]=A+\alpha, \alpha=f(x)-A$
+           * $\forall\epsilon>0, lim_{x\to x_0}f(x)=A$ , 所以 $\exists \delta >0, 当 0<|x-x_0|<\delta 时$
+             * $|f(x)-A|<\epsilon$
+             * 即 $|\alpha|<\epsilon$
+           * 所以 $lim_{x\to x_0}\alpha=0$
+           * "$\Leftarrow$" 设 $f(x)=A+\alpha, \alpha\to0 (x\to x_0)$
+             * $\forall\epsilon>0, 因为 lim_{x\to x_0}\alpha=0 , 所以 \exists\delta >0, 当 0<|x-x_0|<\delta 时$
+               * $|\alpha|<\epsilon$
+               * 即 $|f(x)-A|<\epsilon$
+             * 所以 $lim_{x\to x_0}f(x)=A$
+2. 无穷大
+   1. 定义: $若 \forall M>0, \exists \delta >0, 当 0<|x-x_0|<\delta 时 , |f(x)|\ge M$, 称 $f(x) 当 x\to x_0 时为无穷大$
+      * 记 $\lim_{x\to x_0}f(x)=\infty$
+        * 另一种情况: $当 \forall M >0, \exists X>0 , 当 x> X 时, |f(x)|\ge M, 称 f(x) 当 x\to\infty 为无穷大, 记 lim_{x\to\infty}f(x)=\infty$
+      * 例子1: 证明 $\lim_{x\to1}\frac{2}{(x-1)^2}=\infty$
+        * 证: $\forall M>0, |\frac{2}{(x-1)^2}|>M \Leftrightarrow |x-1|<\sqrt{\frac{2}{M}}$
+          * 取 $\delta=\sqrt{\frac{2}{M}}>0, 当 0< |x-1|<\delta 时, 有 |\frac{2}{(x-1)^2}|>M  $
+          * 所以 $lim_{x\to1}\frac{2}{(x-1)^2}=\infty$
+      * 例子2: 证 $lim_{x\to\infty}(2x^2+1)=\infty$
+        * 证: $\forall M>0, |2x^2+1|>M \Leftrightarrow |x|>\sqrt{\frac{M-1}{2}}$
+          * 取 $X=\sqrt{\frac{M-1}{2}}>0, 当 |x|>X 时, |2x^2+1|>M$
+          * 所以 $lim_{x\to\infty}(2x^2+1)=\infty$
+3. 无穷小和无穷大的关系
+   1.  性质: $lim_{x\to x_0}f(x)=0 \Leftrightarrow lim_{x\to x_0}\frac{1}{f(x)}=\infty$
+      * 证: $\forall M>0$
+        * "$\Rightarrow$"
+          * 取 $\epsilon=\frac{1}{M}>0$, 因为 $lim_{x\to x_0}f(x)=0, 所以 \exists \delta >0, 当 0 <|x-x_0|<\delta 时$
+          * $|f(x)-0|<\epsilon \Leftrightarrow |\frac{1}{f(x)}|>M$
+          * $lim_{x\to x_0}\frac{1}{f(x)}=\infty$
+        * "$\Leftarrow$"
+          * $\forall\epsilon>0, 取 M=\frac{1}{\epsilon}>0$
+          * 因为 $lim_{x\to x_0}\frac{1}{f(x)}=\infty$
+          * 所以 $\exists\delta>0, 当 0<|x-x_0|<\delta 时$
+          * $|\frac{1}{f(x)}|>M \Leftrightarrow |f(x)|<\epsilon$
+          * 所以 $lim_{x\to x_0}f(x)=0$
+
+### 第五节 极限的运算法则
+
+1. 预备知识: 
+   1. 初等函数, 由 `常数` 和 `基本初等函数` , 由 `四则` 和 `复合` 而成的式子, 叫做初等函数.
+   2. 无穷小
+      1. $\alpha\to0,\beta\to0 \Rightarrow \alpha\pm\beta\to0$
+         1. $\alpha\to0,\beta\to0,\gamma\to0 \Rightarrow \alpha\pm\beta\pm\gamma\to0$
+      2. $\alpha\to0 \Rightarrow k\alpha\to0$
+      3.  $f(x)\to A \Leftrightarrow f(x)=A+\alpha, \alpha\to0$
+      4. $\alpha\to0,\beta\to0 \Leftrightarrow \alpha\beta\to0$
+         1. 证: 设 $lim_{x\to x_0}\alpha(x)=0$
+            1. 取 $\epsilon_0=1>0$
+            2. $lim_{x\to x_0}\alpha=0, \therefore \exists \delta_1>0, when 0<|x-x_0|<\delta_1 $
+               1. $|\alpha-0|<1, i.e. |\alpha|<1 $
+            3. $\forall\epsilon>0,\because lim_{x\to x_0}\beta=0,\therefore \exists\delta_2>0. when\  0<|x-x_0|<\delta_2$
+               1. $|\beta-0|<\epsilon$ 
+            4. 取 $\delta=min\{\delta_1,\delta_2\}$, when $0<|x-x_0|<\delta $, 上述二式成立
+            5. $i.e.\ |\alpha\beta-0|=|\alpha\beta|=|\alpha|\cdot|\beta|<\epsilon$
+            6. $\therefore lim_{x\to x_0}\alpha\beta=0$
+2. 四则求导法则
+   1. suppose/assume $lim_{x\to x_0}f(x)=A, lim_{x\to x_0}g(x)=B$, (极限趋向 只有 趋向于 某个点 或者 趋近于无穷 两种情况 )
+   2. $\lim_{x\to x_0}[f(x)\pm g(x)]=\lim_{x\to x_0}f(x)\pm lim_{x\to x_0}g(x)=A\pm B$
+      * 证明: 
+        * $lim_{x\to x_0}f(x)=A \Leftrightarrow f(x)=A+\alpha, \alpha \to 0 (x\to x_0)$
+        * $lim_{x\to x_0}g(x)=B \Leftrightarrow g(x)=B+\beta, \beta\to0(x\to x_0)$
+        * $f(x)+g(x)=(A\pm B)+(\alpha\pm\beta)$
+        * $\therefore lim_{x\to x_0}[f(x)\pm g(x)]=A\pm B$
+   3.  乘法
+      1. k 为常数, $lim_{x\to x_0}k\cdot f(x) = k\cdot lim_{x\to x_0}f(x)=k\cdot A$
+         * 证: 
+           * $lim_{x\to x_0}f(x)=A \Leftrightarrow f(x)=A+\alpha,\alpha\to0(x\to x_0)$
+           * $k\cdot f(x)=kA+k\alpha$
+           * $\therefore lim_{x\to x_0}kf(x)=k\cdot A$
+      2. $$
 
 
 
