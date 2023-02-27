@@ -1786,5 +1786,44 @@ ous 结尾 (adj. 后缀)
   * foreign adj. 外国的, 外国人的
     * a foreign language
   * TOEFL = Test of English foreign language
-* 
+* wonder v. 感到奇怪 n. 奇迹, 奇观
+  * feel surprised 
+  * seven wonders 七大奇观
+  * wonder 有 want to kown 的意思 
+
+**## text**
+
+* 并列句
+
+  * 句子的分类
+
+    1. 简单句, (unit1) 描述清楚一件事
+    2. 并列句, (英语是形合的预演, 词语 或分句 用语言形式手段连接 (连接词))
+       * (n.+v.)+conj.+ (n.+v.)+conj.(n.+v.)
+    3. 复合句
+       * (n.+v.)+conj.+ (n.+v.)+conj.(n.+v.)
+
+  * 并列句
+
+    * 含义: 多件事, 一样重要, 如果不一样重要, 要写成复合句 (主从复合句)
+    * 并列连词 (顺接, 转折, 选择, 因果)
+      1. 顺接
+         * 一样
+           * ...and... / both ... and ... 一样
+         * 不但...而且...
+           * not only ... but ... as well 
+           * not only ... but alose
+           * not only ... but ...
+      2. 转折 (前后两件事, 后面的事 有出乎意料的结果)
+         * ... but ...
+         * ... yet ... 然而
+      3. 选择 (或者)
+         * ... or ... / either ... or ... 二选一
+         * neither ... nor 既不 ... 也不 ...
+      4. 因果
+         * ... for ... 因为 (because, as 用在原因状语从句)
+         * ... so ...
+
+    * 并列连词 例句: 
+      * She locked the door, <u>for</u> she was afraid of thieves. (因为)
 
