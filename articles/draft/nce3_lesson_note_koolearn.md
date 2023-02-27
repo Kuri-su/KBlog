@@ -447,6 +447,47 @@
 
 ## L2 Thirteen equals one
 
+**## word**
+
+* equal /ˈiːkwəl/ 
+  * v. 等于
+    * → He equaled the world record. 他达到了世界纪录
+    * → Nobody equals him in strength. 没有人的力量能与其相匹敌 (最高级的用法)
+      * → Nobody matches him in strength.
+        * match n. 比赛 v. 与什么相匹敌
+  * n. 相匹敌者, 与... 势均力敌
+    * → In English she has no equal in her class. 她的英语在他们班是无敌的.  (最高级的用法)
+    * → be / stand head and shoulders above sb: be must better than others 明显超过别人, 鹤立鸡群  (最高级的用法)
+      * → In computer programming, Susan is head and shoulders above the rest of us. (the rest of  意思是 其余的部分)
+  * adj. 同样地
+    * → Women demand equal pay for equal work.
+    * → A is <u>equal to</u> B (做表语的重要用法)
+  * equality n. 平等
+    * racial equality 种族平等
+    * secual equality 性别平等
+* raise /reiz/ 
+  * v. $募集, 筹措_1, 举起来_2, 饲养_3$ (及物动词)
+    * raise one's hand
+    * raise one's voice
+    * raise one's hat to sb. 朝某人举起帽子, 表示打招呼
+    * raise one's glass to sb. 朝某人举起酒杯, 表示祝贺, 祝酒
+    * raise the roof 发脾气
+    * raise pigs 养猪
+    * → He has a big family to raise.
+    * → We're raising a fund for orphans. 我们正在为 孤儿 募集一笔基金.
+  * n. 涨工资 (可数名词)
+    * → I heard that you recently changed jobs, and you got a good raise, right? Congratulations!
+      * → Thanks! I think the new job will be much more satisfying. 
+  * rise v. 升起 (不及物动词)
+  * arise n. 问题, 困难, 麻烦
+    * arise arose arisen
+    * Problems arose.
+    * Difficulty arose. 困难出现了
+  * arouse v. 激起, 唤起 (某种情绪)
+    * arouse one's pity / anger 激起了某人的同情 / 愤怒
+
+**## text**
+
 
 
  
