@@ -1812,7 +1812,7 @@ ous 结尾 (adj. 后缀)
            * ...and... / both ... and ... 一样
          * 不但...而且...
            * not only ... but ... as well 
-           * not only ... but alose
+           * not only ... but also
            * not only ... but ...
       2. 转折 (前后两件事, 后面的事 有出乎意料的结果)
          * ... but ...
@@ -1825,5 +1825,183 @@ ous 结尾 (adj. 后缀)
          * ... so ...
 
     * 并列连词 例句: 
-      * She locked the door, <u>for</u> she was afraid of thieves. (因为)
+      * → She locked the door, <u>for</u> she was afraid of thieves. (因为)
+      * → She Locked the door, <u>and</u> she was afraid of thieves (顺接)
+      * 上述二者皆可
+      * → I did not know the way to my hotel,<u>so</u> I asked a porter.
+      * → My brother bought her a gift <u>and</u> she accepted it.
+      * → Then he spoke slowly, <u>but</u> I could not understand him.
+      * → <u>(Either)</u> you hurry up, <u>or</u> you will be late
+
+  * 并列句的特点
+
+    * 相同的可以省略, 余下的保持不变 (主语/谓语/宾语)
+    * → I ran to the station, I missed the train.
+      * → I ran to the station but I missed the train.
+        * → I ran to the station <u>but</u> missed the train.
+    * → I spoke English very carefully, I spoke English very clearly.
+      * → I not only spoke English very carefully, but I spoke English very clearly as well.
+        * → I <u>not only</u> spoke English very carefully, <u>but</u> very clearly <u>as well</u> . (虽然 看起来不像变列举, 因为主谓被省略了, 但是可以根据并列连词判断)
+          * → I spoke English not only very carefully, but very clearly as well.
+    * → He did not speak English, I did not speak English.
+      * → <u>Neither</u> he <u>nor</u> I spoke English.
+
+  * 总结并列句
+
+    * 含义: 多件事一样重要
+    * 写法: 多个简单句, 用宾列连词连接
+    * 特点: 相同的可以省略, 余下的保持不变
+
+**## text**
+
+* arrive
+  * arrive  in 到..里面
+    * I arrived in London at last
+
+  * arrive at 把低点当成一个点来说
+
+* or 否则, 或者
+* → My sister went shopping, I went shopping (both ... and)
+  * →Both my sister and I went shopping.
+
+* →I wash my face , brush my teeth, and comb my hair every morning
+
+## L26 The best art critics
+
+**## word**
+
+* critic n. 评论家
+  * critical adj. 批评的
+  * critically adv. 批评地
+* paint 
+  * v. 画(涂油漆, 涂抹, 化妆)
+    * paint + pictures/ a house
+  * n. 涂料, 油漆, 化妆品
+  * painting n. 油画, 水彩画, 绘画艺术
+* pretend v. 假装
+* pattern n. 图案
+* curtain n. 窗帘, 幕布
+* material n. 材料
+* appreciate v. 鉴赏 (欣赏, 感激, 感谢)
+  * → appreciate modern pictures
+  * → I really appreciate your help.
+* notice v. 注意到 n. 通知
+* whether conj. 是否
+  * weather n. 天气
+* hang 
+  * v. 悬挂, 吊
+    * hung, hung
+  * v. 绞死
+    * → We must all hang together , or assuredly. We shall all hang separately. - Benjamin Franklin
+* upside down 上下点到
+* inside out 里外颠倒
+
+**## key structure**
+
+* 宾语从句
+
+**## text**
+
+* 宾语从句
+  * 定义: 
+    * 在一个句子中, 每个成分都是一个词, 当 某一个成分变成句子的时候, 就有了从句.
+    * 宾语从句就是一个句子作宾语, 放在另一个句子(主句)里
+    * 宾语从句是主从复合句
+  * 写法
+    1. 陈述句 变 宾语从句  -> 直接变
+       * → Many people pretend (that) they understand modern art.
+    2. 特殊疑问句 变 宾语从句 (WH Question) -- 疑问句变陈述句语序, 用特殊疑问词 作连词
+       * → They always tell you what a picture is 'about'?
+    3. 一般疑问句 变 宾语从句 (YN Question) -- 疑问句变陈述句语序, 用 if/whether 作连接词
+       * → She always tells me whether/if my pictures are good or not.
+  * 总结
+    1. 连接词 + 陈述句
+    2. 连接词 看 从句 缺少的内容
+       * 缺 "什么" 用 what
+       * 缺 "谁" 用 who
+       * 缺 "低点" 用 where
+       * 缺 "时间" 用 when
+       * 缺 "是否" 用 whether
+       * 什么都不缺用 that
+* 宾语从句的位置
+  * 分类
+    * 动词(及物动词) + 宾语从句 (动宾)
+      * 动单宾 (及物动词直接加从句)
+        *  → Many people pretend that they understand modern art.
+      * 动双宾 (及物动词直接加从句)
+        * → They always tell you what a picture is about?
+    * 介词 + 宾语从句 (介宾)
+      * → He was astonished at what he found 
+    * 形容词 + 介词(可省略)+ 宾语从句
+  * 例句
+    * → You never told me what you had done to my computer (动双宾)
+    * → I wonder when we will set out.
+    * → They don't know whether they will finish the work on time.
+  * 总结
+    * 宾语从句  写法: 连接词 + 句子
+    * 名词性从句
+      * 宾语从句
+      * 表语从句
+      * 同位语从句
+      * 主语从句
+
+* Speech marks 引号
+  * 习惯
+    * 英式 常用 单引号
+    * 美式 常用 双引号
+  * 用法
+    1. 位于一行之上, 句尾其他的标点 (都好, 句号, 问号)
+       * e.g. : 'What are you going ?'
+    2. 引语的第一个词, 以大写字母开头
+       * e.g.: 'What are you doing?'
+    3. 在 said, asked 等词 后面用逗号
+       * e.g. : 'It's all right', she said, 'but isn't it upside down?'
+    4. 只有 said , asked 等词, 位于句尾 用句号
+       * e.g.: 'What are you doing', she asked
+    5. said, asked 等词置于 引语之间时, 句子后半部分以 小写字母开头
+       * e.g.: 'It's all right, ' she said,'but isn't it upside down?'
+    6. 当一个新的人说话时, 要另起一段
+
+## L27 A wet night
+
+**## word**
+
+* tent n. 帐篷
+* field n. 田地, 领域
+* smell  smelled smelled v. 闻起来(系动词)
+  * smelt smelt
+* campfire n. 营火 
+  * by the campfire 营火旁边
+* creep crept crept v. 爬行
+* comfortable adj. 舒适的
+  * uncomfortable adj. 不舒适的
+* soundly adv. 状况良好的
+* leap leapt leapt v. 跳跃
+* heavily adv. 大量的
+* wind wound wound v. 蜿蜒 n. 风
+  * wind one's way 使某些路蜿蜒
+    * → The stream wound its way across the field
+  * wind round sth. 缠绕某物
+    * → A snake wound round the wires(电线).
+* form v. 形成 构成
+* right adv. 正好
+* sleeping bag
+  * doing 表示功能, 用途
+    * a swimming pool
+    * a fishing boat
+    * a packing case 
+    * a waiting room
+  * sleep soundly / deeply / well 睡得好的
+    * be fast asleep 睡得深
+
+**## key structure**
+
+* 复习一般过去时
+
+**## text**
+
+* put up a tent = set up a tent
+* in the middle of ... + 地点/时间
+  * in the center of... + 地点
+* as soon as 不久 
 
