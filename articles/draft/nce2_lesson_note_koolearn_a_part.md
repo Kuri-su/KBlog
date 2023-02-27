@@ -2004,4 +2004,73 @@ ous 结尾 (adj. 后缀)
 * in the middle of ... + 地点/时间
   * in the center of... + 地点
 * as soon as 不久 
+* by the campfire 在 营火旁
+* some time 一段时间
+  * → It was raining heavily and they found that a stream had formed in the field
+
+* 短语动词 put
+  * → ... the boys <u>put up</u> their tend in the middle of a field.
+  * → You needn't go back to London tonight. We can <u>put</u> you <u>up</u> for the night.  安排住宿
+  * → The teacher sent the boy to the headmaster, He could not <u>put up with</u> him any longer. 忍受
+  * → ... they <u>put out</u> the fire and crept into their tent.
+  * → Take out your notebooks. <u>Put down</u> all the sentences that are on the blackboard.
+  * → Close your books and <u>put</u> them <u>away</u>.
+  * → We cannot have the meeting tonight.  We shall have to <u>put</u> it <u>off</u> until tomorrow
+  * → I <u>put on</u> my coat and left the house 
+  * -
+  * put up 搭起/ 安排住宿
+  * put up with sb. 容忍
+  * put out the fire 扑灭火
+  * put down 放下, 写下来
+  * put away 放到一边, 收起来
+  * put off 推迟
+  * put on  穿上
+
+* 不规则动词变化
+  * smell smelled smelled 
+    * smelt smelt
+
+  * creep crept crept
+  * sleep slept slept
+  * weak woke woken
+  * leap leaped leaped
+    * leapt leapt
+
+  * wind wound wound
+
+
+## L28 No parking
+
+**## word**
+
+* rare adj. 罕见的
+  * rare people 
+  * a rare disease 罕见病
+    * rare steak 较生的牛排 (一分熟)
+    * medium-rare 三分
+    * medium steak 5 分熟
+    * medium-well 七分
+    * well steak 10 分熟
+* ancient adj. 古代的
+* myth n. 神话故事
+* trouble n. 麻烦, 问题
+  * have trouble with n.
+  * have trouble (in) doing sth.
+  * be in trouble 
+  * run into trouble 陷入麻烦
+  * ask for trouble 自找麻烦
+* effect n. 结果, 效果
+* have effect 有效果
+* have no effect 没有效果
+
+**## key structure**
+
+* 定语 从句
+* 复习现在完成时
+* 复习宾语从句
+
+**## text**
+
+* 定语从句
+  * 
 
