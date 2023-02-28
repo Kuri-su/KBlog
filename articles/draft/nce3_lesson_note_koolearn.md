@@ -488,6 +488,53 @@
 
 **## text**
 
+* be always doing sth. 
+  * 不耐烦的语气, 厌烦的语气
+  * → He <u>is always being</u> late.
+  * → (NCE4-5 P29-L1) People <u>are always talking about</u> the problems of youth.
+  * 听力练习: 
+    * W: Mary <u>is always complaining</u> about her job.
+    * M: Maybe if you try typing letters every day, you'd see what it's like.
+    * Answer: (A) the woman would understand if she <u>did(虚拟语气)</u> Mary's job.
+  * be forever doing sth. 
+    * 令人厌烦, 总是做某事, 事实上是不同意 这种 观点 / 做法
+    * → (NCE3-41 P192-L8) He <u>is forever talking about</u> the friendly people, the clean atmosphere, the closeness to nature and gentle pace of living.
+  * be constantly/continually doing sth. 总做某事
+    * → The boys <u>are constantly/continually arguing</u>.
+    * → Your behavior reflects on me, and I can't do my job if you'<u>re constantly humiliating</u> me . 
+      * → Constantly? Aside from today, give me one example
+  * keep (on) doing sth. 令人讨厌的持续做某事
+    * → (NCE3-29 P138-L13) From the moment he arrived there, he <u>kept on pestering</u> his doctor to tell him when he would be able to go home.
+    * → (NCE3-29 P138-L20) In the process, he enjoyed himself thoroughly and <u>kept telling</u> everybody how mush he hated hospitals.
+      * enjoy oneself 表示过的开心
+  * do sth. all the time 总是做某事
+    * 听力练习: 
+      * W: I thought the doctor said you should stay off your foot until the swelling goes down.
+      * M: She did, It just make me uncomfortable to ask my friends to wait on me all the time.
+        * bother 打扰, 麻烦某人
+        * stay off your foot 卧床
+        * swel 肿
+        * wait on 伺候, 为某人服务, 
+          * waiter 服务员
+  * 练习
+    1. Sam, mess up the kitchen (always)
+       * → Sam is always messing up the kitchen.
+    2. Bruce, leave his dirty dishes on the table (forever)
+       * → Bruce is forever leaving his dirty dishes on the table.
+    3. Peter, try to show me he's smarter than me. (constantly)
+       * →  Peter is constantly tryng to show me he's smarter than me
+    4. Mary, borrow my clothes without asking me (continually)
+       * → Mary is continually borrowing my clothes without asking me.
+    5. Why, you , make the same mistakes (keep on doing)
+       * → Why do you keep on making the same mistakes.
+    6. Jane, forget to give me my phone messages. (do sth. all the time)
+       * → Jane is forget to give me my phone messages all the time.
+* cause
+  * → (NCE3-22 P110-L3) One would expect then to know their parts by heart and never have cause to falter.
+* one ... or another
+  * one cause or another
+  * 
+
 
 
  
