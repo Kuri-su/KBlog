@@ -532,8 +532,44 @@
 * cause
   * → (NCE3-22 P110-L3) One would expect then to know their parts by heart and never have cause to falter.
 * one ... or another
-  * one cause or another
-  * 
+  * one cause or another 各种各样的理由
+  * → He <u>is always asking</u> me for money for <u>one</u> cause <u>or another</u>. 他总是用各种各样的理由找我借钱
+  * → Beginners will err at <u>one time or another</u>. 初学者总是会在各种时间犯错
+    * err v. 犯错 error 是它的名词  
+  * → Everyone can contribute to society in <u>one way or another.</u> 每个人都可以以<u>各种各样的方式</u>对社会作出贡献
+  * one ... after another 一个又一个
+    * <u>one</u> day <u>after anothor</u> 日复一日
+    * encounter <u>one</u> difficulty <u>after another</u> 遭遇了一个又一个的困难
+    * achieve(取得了) <u>one</u> success <u>after another</u>  取得了一个又一个的成功
+* manage to do , 设法完成了某事 
+  * → (NCE3-1 P14-L15) As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow <u>managed to escape.</u>
+  * fail to do 未能完成某事
+    * → (NCE3-5 P30-L12) When the journalist again <u>failed to reply</u>, the editor reluctantly published the article as it had originally been written.
+* have sth. done 请某人做某事,(这里省略的某人, 要么是没必要说, 要么是不知道)
+  * have the church clock repaired
+  * →  I'm going to <u>have my hair cut</u> this weekend.
+  * have sth. done 的另一个意思: 某种经历, 某种遭遇, 往往是指不愉快的事
+    * →  (NCE3-14 P66-L7) ... people would rather pay large sums of money than <u>have their life work destroyed</u> by gangsters.
+    * → King charles I <u>had his head cut off</u>.
+    * → The house <u>had its window broken</u> in the explosion.
+    * 这个句子常和 无灵主语 / 物称主语 (inaminate subject)搭配
+      * 无灵主语 / 物称主语
+        * → (NCE3-1 P14-L1) When reports <u>came into</u> London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. 用 reports 做主语
+        * → (NCE3-32 P150-L8) The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom. 
+        * →  He lost his confidence (不佳)
+          * → Confidence deserted him (物做主语, 句子表达更加优美)
+        * → I couldn't sleep that night. (不佳)
+          * → That night sleep eluded(躲避) me. (物做主语, )
+        * →  We only travelled half the distance at sunset. (不佳)
+          * → Sunset met us helfway. (黄昏 在半路时与我们相遇)
+        * → The past few years witnessed(见证) the great influx(涌入) of foreigners to China, for travelling, studies or business. (用 这些年" 做主语)
+* 造句: 我的小女儿总是抱怨 (complain of) 各种各样的病, 但她从未成功地得到允许 (get permission) 呆在家里.
+  * → My little dautght is always complaining of one illnes or another, but she has never managerd to get permission successfully stay at home.
+* used to do 过去曾经, 过去常常, 现在已经不这样的了
+  * → I used to get up early. 我过去早起过
+  * be /become / get used to n. / doing
+    * → I'm used to getting up early.
+    * → (NCE3-2 P18-L17) 'We'll get used to that, Bill,' said the vicar
 
 
 
