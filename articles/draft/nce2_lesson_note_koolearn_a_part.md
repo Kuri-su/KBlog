@@ -2520,5 +2520,45 @@ ous 结尾 (adj. 后缀)
 
 **## word**
 
-* 
+* record n. 记录 v. 记录, 录
+  * set up a new world record
+  * hold/keep a record
+  * break a record
+  * record-holder
+* strong adj. 强壮的
+  * weak adj. 虚弱的
+* succeed v. 成功
+  * succeed in sth./doing sth.
+  * success n. 成功 (读音不同)
+* train v. 训练 n. 火车
+* anxiously adv. 焦急地
+  * anxious adj. 焦急的
+* intend v. 打算
+  * intend to do sth.
+  * → Debbie intends to take short resets every two hours
+  * plan to do 
+  * mean to do
+* solid adj. 固体的, 硬的, n. 固体
+  * liquid adj. 液态的, n. 液体
+  * gas n. 气体, 汽油, 天然气
+
+**## key structure**
+
+* 复习表示将来的几种方式
+* 非限定性定语从句
+
+**## text**
+
+* set out 出发
+  * 表示将来也可以通过词组的意思来体现
+* between 两者之间
+  * among 多个人中
+    * → Among them will be Debbie's mother (倒装)
+      * → Debbie's mother will be among them 
+    * 为什么倒装
+      * 为了配合上下文 , 承上启下
+      * Most of Debbie's school friends will be waiting for her on English wast
+      * Among them will be Debbie's mother, who ... 
+* 表示将来的方式
+  * 
 
