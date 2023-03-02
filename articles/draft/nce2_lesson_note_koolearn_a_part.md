@@ -2287,5 +2287,238 @@ ous 结尾 (adj. 后缀)
   * 动名词/不定式都是名词单数
   * 例子
     * 环游世界是我的梦想
-      * → 
+      * → It was my dream to travel around the world.
+      * → It is very important to study English.
+      * → It is necessary to think about the future.
+      * → It is necessary for student to think about the future.
+      * → It is my honer to be here.
+* 不规则动词
+  * become became become
+
+## L32 shopping made easy
+
+**## word**
+
+* once adv. 曾经, 以前, 一度
+  * 一次 once a week
+  * 一旦 once you know the truth, please let us know
+* temptation n. 诱惑
+  * the temptation to do sth. 去做某事的诱惑
+  * → the temptation to eat
+  * → the temptation to steal
+* article n. 物品, 东西, 文章
+* wrap v. 包裹
+  * wrap sth. up 把 ... 包起来
+* simply adv. 仅仅地, 简单地
+  * simple adj. 简单的
+  * simplify v. 简单化
+* arrest v. 逮捕
+
+**## key structure**
+
+* 形容词/副词 的 原级比较 (同级比较)
+* 复习 形容词/副词的比较级 和 最高级
+
+**## text**
+
+* 形容词/副词 的 最高级
+  * adj./adv. + est 或 前面加 most (+介词短语表示比较的范围, 也可以不加)
+  * 通常用于三人或以上
+* 形容词 / 副词的比较级 
+  * adj./adv. 的 比较级 (+than 比较的对象, 也可以不加)
+  * 通常用于两者之间的比较
+* 形容词 / 副词 的 原级比较
+  * as + 比较的内容(adj./adv. 原型) + as + 比较的对象
+    * as ... as
+  * "和 ... 相比一样的..."
+  * 例子
+    * → I am as tell as you.
+    * → He works as hard as before
+    * → I will do it as quickly as possible 尽可能的快
+* 原级比较的否定
+  * not + as/so + 比较的内容(adj./adv. 原型)+ as + 比较的对象
+    * not as/so ... as
+  * "和 ... 相比 还不如"
+  * 例子: 
+    * → People are not so honest as before.
+    * → People are not so honest as they were.
+    * → People are not so honest as they once were.
+    * → The temptation to steal is greater than ever before , especially in large shops
+* 形容词 / 副词 的 原级比较 (比较对象的多样)
+  * 现在 和 过去 比
+    * → Her mother is as beautiful as before.
+    * → Her mother is as beautiful as she was.
+    * → Her mother is as beautiful as she used to be.
+  * 过去和现在比
+    * → Travelling was not as easy as today
+    * → Travelling was not as easy as it is today
+  * 与可能的相比
+    * → I will do it as quickly as possible.
+    * → I will do it as quickly as I can.
+  * 和想象相比
+    * → You are as clever as I think.
+    * → The problem was not as complicated as we though
+* 不规则动词变化
+  * choose chose chosen
+  * wrap wrapped wrapped
+
+## L33 out of the darkness
+
+**## word**
+
+* darkness n. 黑暗
+  * dark adj.
+  * -ness 名词后缀
+    * happiness 高兴
+    * nervousness 紧张
+    * carelessness 粗心
+* explain v. 解释, 叙述
+  * explanation n. 解释
+* coast n. 海岸
+* storm n. 风暴
+  * rain storm
+  * snow storm
+  * sand storm
+  * brain storm
+* towards prep. 向, 朝, 逐渐接近(过程感强)
+  * 介词接词, 接 名词, 代词, doing
+  * towards evening 逐渐接近, 傍晚
+  * walk towards the door 一步一步的逐渐接近 门, 更生动
+    * 对比 walk to the door 走向门
+    * the ball flew towards me.
+* rock n. 岩石, 礁石, 摇滚
+* shore n. 海岸
+* ahead adv. 在前面
+  * → She saw a light ahead.
+  * go ahead 你先走, 你请便
+
+**## key structure**
+
+* 表示地点的介词
+
+**## text**
+
+* 介词
+  * 介词接名词, 代词, doing , 构成介词短语, 介宾结构用于补充说明 (地点, 时间)
+  * 介词 (介系词) 前面是 与 介词 搭配的词, 可能是动词/名词/形容词/介词, 其 宾语 一般放在后面, 宾语的形式主要是 名词, 还有相当名词的代词/数词/动名词/名词性从句
+  * in 是静态的, 表示一直在里面, into 是动态的, 表示之前不在里面, 后来到了里面
+  * on doing 表示一做... 事 就...
+  * 表示 地点的介词 (prep.)
+    * set out <u>from</u> the coast
+    * swam <u>to</u> the shore
+    * <u>toward</u> the light she had seen
+    * set out <u>for</u> the village
+    * jumped <u>into</u> the sea
+    * out <u>of</u> darkness
+    * arriving <u>at</u> the shore
+    * <u>on</u> the cliff
+    * in a small boat
+  * at 强调 点, 地点/时间点
+  * on 强调 面
+  * in 强调 体, 在 ... 空间里
+* pass/past
+  * pass 动词
+  * past 有许多词性, 但是不能做动词
+  * 句中有动词用 past, 没有的话用 pass 做动词
+    * → He passed my house this morning.
+    * → He walked past my house.
+    * → He told me about his past experiences
+    * → He seems to live in the past(n.).
+* set off/out 出发
+* be caught in 被困在
+  * → I was caught in the traffic jam yesterday.
+* 不规则动词变化
+  * swim swom swum
+
+## L34 Quick work
+
+**## word**
+
+* station n. 站点
+  * bus station / subway station / railway station
+* most adv. 相当, 非常
+  * a most interesting story 很, 非常
+  * the most interesting story 最
+    * most 前有 the 表示 最(最高级), 否则表示 "非常"
+
+**## key structure**
+
+* 复习被动语态
+
+**## text**
+
+* call at sp.(地点) 拜访某地
+* call on sb. 拜访某人
+* 名词 + ing 表示主动
+  * asmiling policeman
+* pick up 捡起/偶然得到
+* → It is now being sent to his home by train.
+  * 现在进行时的被动
+* be+ adj. 表示处于 状态
+* 动词的过去分词有形容词性, 说以 be+done 也可以表示处于某种状态
+* 短语动词 call
+  * call v. 喊
+  * call at sp. 拜访某地
+    * → He was asked to call at the station
+  * call out 喊
+    * →  He call out the me but I didn't hear him
+  * call on sb. 拜访某人
+    * → I called on George yesterday.
+  * call sb. up 等于 call sb. 打电话给某人
+    * → She will call you up tomorrow.
+  * call off 取消
+    * → It began to rain so we called off the match.
+
+## L35 Stop thief!
+
+**## word**
+
+* while n. 一段时间, conj. 当... 时候
+  * a short while age 连词
+  * for a while 持续了一段时间
+    * → Some of the detectives were waiting inside the main building while others were waiting on the airfield.
+* regret v. 后悔
+  * regret regretted regretted
+  * regret sth.
+* far adv. 非常
+* act v. 行动
+  * action n.
+* straight adv. 径直 adj. 直的
+  * adv. 
+    * drive/ run straight at...
+  * adj. 
+    * straight hair/hine
+  * → I'm straight (我是异性恋)
+* fright n. 害怕
+  * get a fright 当动词用
+  * frighten v. 受惊吓
+* shortly adv. 很快
+* afterwards adv. 以后
+  * shortly afterwards 不久以后
+
+**## text**
+
+* 比较级只能表示多, 不能表示多了多少, 可以加词来表示程度 (修饰比较级)
+  * a little more exciting
+  * far more exciting
+  * much more exciting
+  * a lot more exciting
+* 当过去正在发生事情的时候, 突然被大段, 用过去进行时 + 一般过去时 搭配 when
+  * → When he was driving along Catford street recently, he saw two thieves rush out of a shop and run towards a waiting car.
+* so...that / such ... that 如此... 以至于太... , 所以
+  * that + 结果状语从句
+  * so + adj./adv+ that ...
+  * such + n. +  that ...
+    * → It is such an interesting story that I want to share it with you.
+    * → The story is so interesting that I want to share it with you.
+    * → I am so tired that I want to sleep for an entire day.
+* 不规则动词变化
+  * regret regretted regretted regretting
+  * drop dropped dropped dropping
+
+## L36 Across the Channel
+
+**## word**
+
+* 
 
