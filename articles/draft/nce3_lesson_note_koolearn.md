@@ -567,9 +567,25 @@
   * → My little dautght is always complaining of one illnes or another, but she has never managerd to get permission successfully stay at home.
 * used to do 过去曾经, 过去常常, 现在已经不这样的了
   * → I used to get up early. 我过去早起过
-  * be /become / get used to n. / doing
+  * be /become/get used to(介词) n. / doing  习惯于做某事, (become 和 get 表示状态的转变)
     * → I'm used to getting up early.
     * → (NCE3-2 P18-L17) 'We'll get used to that, Bill,' said the vicar
+    * → Life is not fair, get used to it.      --- Bill Gates
+  * be accustomed to(介词) (doing) sth. 习惯于 做某事 (更加文言和正式的表达 )
+    * (NCE4-3 P17-15) For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed.
+    * strike the hours 钟打点报时
+      * → (NCE2-9 P44-L3) It would <u>strike twelve</u> in twenty minutes. 
+        * strike + 数字 表示 打响了几点的钟声
+  * Ever since: adv./prep./conj 从那个时间之后, 一直...(用完成时) (可以做副词/介词/连词)
+    * →  (NCE3-23 P114-L10) There are countless people who, <u>ever since(作介词)</u> their early years, have learned to associate snails with food.
+    * → You know how she feels about you. It's been the same way <u>ever since(连词)</u> we were kids.
+* → The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
+  * 造句: 过去 日夜辛苦工作的老王 两年前下岗了 (be laid off) 了, 从那以后 就变得懒了
+    * → Lao Wang who used to work hard day and night was laid off two years ago  and has been lazy ever since.
+* wake (up): vi & vt. 醒了; 唤醒 (up) 可以省略
+  * → (NCE2-54 P252-L11) The doorbell rang loud enough to <u>wake</u> the dead.
+    * start n. 激灵 (由于恐惧或者惊讶身体突然的一动)
+    * 
 
 
 
