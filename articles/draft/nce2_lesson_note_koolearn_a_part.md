@@ -2072,5 +2072,220 @@ ous 结尾 (adj. 后缀)
 **## text**
 
 * 定语从句
+  * 含义
+    * 一个句子作宾语, 修饰/限定名词叫 定语, 限定名词的范围
+  * 位置
+    * 所修饰的名词后, 也称 后置定语.
+  * 写法
+    * → This is the job.
+    * → I have dreamed of the job for years
+      * → This is the job which I have dreamed for years.
+  * 定语从句的关系词(连接词)
+    * the job 先行词
+    * which 关系词
+  * 公式
+    * n.(先行词)+<u>关系词 + 陈述句 (定语从句)</u>
+    * 关系词 的选择 要看 先行词 , 对应着选 关系词(连接词)
+    * 先行词 - 关系词 的选择
+      * 事/物  -  which/that (常用)
+      * 人       - who/whom/that (常用)
+      * 人/物 (某人的/某物的) - whose
+      * 时间 - when
+      * 地点 - where
+      * 原因 - why
+  * 定语从句关系词的几点注意
+    * 定语从句的关系词 每一个都作成分, 包括 that (宾语从句中, 连接词不作成分)
+    * whom 指人, 只能在宾语时使用, 
+    * 关系词在 定语从句 中 作宾语时, 可以省略 (只针对 人 / 事物)
+  * 练习
+    * → I have a class <u>which begin at 8:00 am.</u> (which 在定语从句中作主语)
+    * → The lawyer (who/whom/that) my bother called didn't answer the phone .
+    * → My daughter asked me a question (which/that) I couldn't answer
+    * → Leo is the student <u>who</u> bike was stolen.
+    * → Australia is one of the few countries <u>where</u> people drive on the left.
+    * → Sunday is the day <u>when</u> people usually don't go to work
+    * → Is there any particular reason <u>why</u> you can't come?
+    * → I lost the book (which/that) I borrowed from the library last week.
+    * → The woman whom I saw in the park was feeding pigeons.
+    * → I cannot remember the day when we met last time.
+* Because + 句子
+* Because of + 单词
+* 定语从句 注意
+  * 关系词 在定语从句中 作 宾语时, 可以省略 修饰人和物
+
+## L29 Taxi!
+
+**## word**
+
+* text n. 出租车 BrE
+  * cab  AmE
+* flat n. 公寓房 BrE
+  * apartment  AmE
   * 
+* land v. 着陆 n. 陆地 
+  * lend v. 借
+* plough v. 犁地
+* lonely adj. 偏僻的 人迹罕至的, 感到孤单的
+* Welsh adj. 威尔士的
+  * Wales n. 威尔士的
+  * → The United Kingdom of Great Britain and Northern Ireland.
+    * = Scotland + Wales + England + Northern Ireland
+  * Great Britain = Scotland + Wales + England
+* roof n. 楼顶
+* block n. 一座大楼 v. 堵住
+  * → a block of flats/apartments
+  * → an office block
+  * → traffic block/jam
+
+**## key structure**
+
+* 复习现在完成时
+* 表语从句 (名词性从句)
+
+**## text**
+
+* 现在完成时
+  * 形式: have/has + done
+  * 用法: 现在的之前(是否完成不太重要)
+* 插入语 
+  * however , 前后会有成对的标点, 也可以去掉不看
+* 英文冒号
+  * 表示解释说明
+* 表语从句 (主系表) seem as 宾语从句
+  * 一个句子作表语, 放在系动词后.
+  * 写法
+    * 同宾语从句, 连接词 + 陈述句 , 陈述句缺什么 , 连接词就填什么 (what,whether,), 什么都不缺就用 that, that 不能省略
+  * 什么是什么的句子 可以用 表语从句
+    * → The most surprising/interesting/embarrassing thing ... is that ...
+    * → His suggestion is that we should keep calm.
+    * → The question is when he will arrive here.
+    * → The point is whether the new plan is feasible.
+* → A  roof of a block of flats 一座公寓楼的楼顶
+* once .. and on another occasion 一次... 另一次
+  * → I met him once at a conference, and on another occasion we ran into each other at a restaurant
+  * 我曾在一次会议上见过他，另一次我们在一家餐厅里偶遇了
+* refuse a request 拒绝一个请求
+* deny 否认
+* take (拿走)/bring(带上)/fetch(去取)
+* very/too (过度了)
+* 现在完成时, 常搭配
+  * have/has + just/already/ever/never + done 
+  * up to now/up till now (到目前为止)
+  * so for (目前位置 )
+  * for + 一段时间
+  * since + 过去的时间
+    * since + 过去的动作 (一般过去时的句子)
+    * since 从...到现在
+    * → He has lived in Beijing since 1993
+    * → He has lived in Beijing since he was born.
+* 不规则变化的动词
+  * fly flew flown
+
+## L30 Football or polo
+
+**## word**
+
+* polo n. 水球, 马球
+* cut v. 穿过 (切割, 削减)
+  * → A small river cuts across the park near my home.
+  * cut paper/one's finger
+  * cut sth. into pieces
+  * cut and paste
+* towards prep. 朝, 向
+* nearly/almost adv. 几乎
+* sight n. 眼界, 视域
+  * in sight 
+  * out of sight / out of mind
+  * catch sight of
+  * love at first sight
+
+**## key structure**
+
+* 冠词 L6
+  * 定冠词 the 表示特指
+  * 不定冠词 a/an 表示泛指
+  * 零冠词  不加冠词
+  * 地名和人名的前面, 一般不加冠词
+    * → John lives in England, He has a house in London.
+
+**## text**
+
+* 海洋, 河流, 山脉 和 部分国名之前, 加 定冠词 the 
+  * the Atlantic 大西洋
+  * the Alps 阿尔卑斯山
+  * America / the United States 
+* in afternoons 限定的上午, 下午, 晚上用 on
+  * on fine afternoons.
+*  There be 句型, 是倒装句, 表示有
+  * There be + n.
+  * There be + n. + 介词短语  : 强调方位, 位置
+  * There be + n. + doing : 补充说明在干嘛
+    * → There is a girl crying in the classroom
+
+* so...that ... 如此以至于, 过于...
+  * → The ball struck him so hard that he nearly fell into the water L35
+* 扩展 some/any
+  * some/any + 可数名词复数 / 不可数名词
+  * 当 some 都表示 一些/许多 的时候,  some 用于肯定句 , any 用于否定和疑问, 当他们表示别的意思的时候就没这个区别了
+* 不规则动词变化
+  * cut cut cut
+  * fall fell fallen
+  * run ran run
+
+## L31 Success story
+
+**## word**
+
+* retire v. 退休
+* bicycle n. 自行车
+  * bi 前缀 表示 双的
+  * tri 前缀 表示 三个的
+    * tricycle 三轮车
+    * recyclable 可循环使用的
+* save v. 积蓄
+  * save money for the rainy days
+  * save time
+  * save the games
+* grandson n. 孙子
+* success n. 成功
+  * successful adj.
+  * successfully adv. 
+  * succeed v.
+* company n. 公司, 同事, 伙伴
+* employ v. 雇佣
+  * employ ten workers
+  * employment n. 雇佣, 就业
+  * unemployment n. 失业
+  * unemployment rate n. 失业率
+
+**## key structure**
+
+* 复习 一般过去时/ 过去进行时
+* used to do sth. (过去常常做某事)(言外之意, 现在已经不这样做了, )(通常与一般过去时连用)
+
+**## text**
+
+* used to do sth. 过去常常做某事
+  * → I used to drink a lot of coffee
+    * → I drinked a lot of coffee
+  * → We used to live in the country side.
+  * → People used to be happy when they were young.
+  * → He saved money <u>for years(持续了多年)</u>
+* → He bought a small workshop of his own (佳)   他买了一个属于自己的小作坊
+  * → He bought a small his own workshop. 显得头重脚轻
+* spare part 备件, 零件
+* In his twenties  在他二十多岁的时候
+* → In a few years the small workshop had become a large factory which employed some people.
+* 并列句中, 一部分是过去完成时, 一部分是过去时, 表示一先一后
+* 形式主语
+  * → It was his job to repair bicycles...
+    * = → To repair bicycles was his job.
+  * it 做形式主语, to do sth. 做 真正主语, 名词/代词/动名词/不定式 可以做主语
+  * 上述 两句的语法都正确, 第一句在应试中更容易得分, 更优雅
+  * 动词不定式 是动词的基本形式中的一种, 不定式的一般式为 to+ 动词原型
+  * 不定式用以形容 "动词的 简单, 不变形 不被限定 的形式,", 表达其原本的意义
+  * 动名词/不定式都是名词单数
+  * 例子
+    * 环游世界是我的梦想
+      * → 
 
