@@ -2557,8 +2557,235 @@ ous 结尾 (adj. 后缀)
       * → Debbie's mother will be among them 
     * 为什么倒装
       * 为了配合上下文 , 承上启下
-      * Most of Debbie's school friends will be waiting for her on English wast
-      * Among them will be Debbie's mother, who ... 
+      * → Most of Debbie's school friends will be waiting for her on English wast
+      * → Among them will be Debbie's mother, who ... 
 * 表示将来的方式
-  * 
+  * 一般将来时 : 
+    * will/shall do
+    * am/is/are going to do
+  * 将来进行时
+    * will/shall be doing (将来某时正在进行, 或者 确定发生的将来)
+  * 一般现在时
+    * intend to do
+* 非限定性定语从句
+  * 限定性定语从句
+    * → I met <u>your friend</u> who was staying in Paris
+      * 由于名词范围不确定, 加上定语从句来限定
+      * 名词范围不确定 →  要限定 →  无逗号隔开, 这种定语从句不可以省略
+  * 非限定性定语从句
+    * → I met your mother, who was staying in Pairs
+    * 限定性 和 和限定的区别点在于 名词范围是否需要额外的描述去确定, 
+    * 每次范围是否确定也分位两种情况
+      1. 绝对确定, 独一无二的, 专有名词
+      2. 相对确定, 上下文中已指定的对象
+    * 非限定性定语从句, 关系词不能省略, 不能用 that, 指人做宾语只能用 whom, 主语用 who
 
+## L37 The Olympic Games
+
+**## word**
+
+* hold v. 召开 
+  * hold held held
+  * → The Olympic Games will be held in our country
+  * hold a meeting / conference / party
+    * have a meeting
+* immense adj. 巨大的
+  * fantastic adj. 巨大的
+    * fantasy n. 幻想
+  * 表示'大的'的单词
+    * big, large , huge (实体/抽象都可)
+    * vast , gigantic , titanic (实体的人)
+    * enormous , tremendous , colossal (抽象的大, 数字...等)
+* stadium n. 露天体育馆
+  * gym n. 有顶的体育馆
+* double standard 双重标准
+
+**## key structure**
+
+* 将来完成时
+  * will be done 将来完成时下的被动 (L10)
+  * will be doing 将来完成时 (L13)
+
+**## text**
+
+* (in+时间) 和 将来时态连用, 表示在多长时间后
+* as + 句子的意思
+  1. 表示 因为, 引出 原因状语从句
+  2. 表示当... 时候, 引出时间状语从句
+* 将来进行式:  (shall / will)
+  1. 将来某时正在进行
+  2. 将来确定要发生的事
+
+* by+ 时间: 截止到 ... 时间, 通常与完成时连用
+  * by + 过去: e.g. by last yesr 用过去完成时
+  * by + 现在: e.g. by now 用现在完成时
+  * by + 将来: 用 将来完成时
+* 将来完成时
+  * 形式
+    * will/shall + have done
+  * 用法
+    * 将来的之前
+      * → By the end of next year, they will have finished work on the new stadium.
+* → Everybody will be watching anxiously as the new buildings go up.
+  * as 后跟的是时间状语从句, 用一般现在时表示将来
+* look forward to 期盼, (接名词 或者 doing)
+* 完成时态
+  * 过去完成时 had done
+  * 现在完成时 have/has done
+  * 将来完成时 will have done
+* 完成时都表示 "之前" , 做完没做完都不重要 (阶段性总结), 没做完也是一种结果
+  * 过去完成时 表示 过去的之前
+  * 现在完成时 表示 现在的之前
+  * 将来完成时 表示 将来的之前
+* 短语动词 look
+  * → We are <u>looking forward to</u> celebrating the Spring Festival.
+  * → Look out! A bus is coming (小心)
+  * → I don't understand this word , I shall <u>look</u> it <u>up</u> in a dictionary. (查阅)
+  * → Don't forget to <u>look</u> me <u>up</u> when you return
+
+## L38 Everything expect the weather
+
+**## word**
+
+* complain v. 抱怨
+  * complain about/of + sth.
+  * complain to + sb.
+  * → They complained about the customer service th the manager.
+* continually adv. 不断地 (频繁地, 反复地)
+  * → It rained continually
+  * continuously adv. 连续不断地
+    * → The river flows continuously under the bridge.
+* bitterly adv. 极其的
+  * bitter adj. 味苦的, 强烈的
+    * bitterly cold 刺骨的冷
+
+**## key structure**
+
+* 过去完成时 vs. 一般过去时
+* no sooner ... than 
+* hardly ... when...
+
+**## text**
+
+* ⭐ no sooner ... than .. 一... 就... (只能搭配 过去完成时 和 一般过去式, 时态固定)
+  * → He had <u>no sooner</u> returned <u>than</u> he bought a house and went to live there.
+  * no sooner 放在完成时中间, than 放在过去时前面
+  * 例子
+    * → I had left the house. It began to rain.
+      * → I had no sooner left the house than it began to rain.
+    * → We had no sooner hung the picture on the wall than it fell down.
+    * → Yesterday, I had no sooner got back to the kitchen than the door bell rang.
+* ⭐ as soon as 一... 就 , 没多久 (时态灵活)
+  * → As soon as he had returned, he bought a house and went to live there.
+* even though 尽管.... 但是
+  * 英文中, 连词不能像 中文里成对出现, 因为/所以 只能出现一个, 尽管/但是 也只能出现一个
+  * →... even though it was still summer, it rained continuously 
+    * = → I was still summer, but it rained continuously.
+* even though / though / although /even if 引导让步状语从句, 明让步-暗转折
+* go a shock 受到惊吓
+* as if 似乎, 好像
+* hardly ... when 当...时, 几乎没有 (用法与 no sooner ... than 一样)
+  * → He <u>had hardly had</u> time to settle down <u>when</u> he <u>sold</u> the house and left the country.
+* → The dream he had had for so many years ended there
+  * end v. 结束
+
+**## 分析主谓**
+
+* 分界长难句, 第一件事, 找连接词断开, 但如果连接词被省略, 只能分析主谓
+  1. 找谓语动词, 然后主语必然在谓语前
+     * → The <u>dream</u> 主 (<u>he</u>主 <u>had had 谓</u> for so many years) <u>ended</u> 谓 there.
+     * → <u>She 主</u> <u>knew 谓</u> <u>she 主</u> <u>was 谓</u> near the shore.
+  2. 大体上只有两种结构
+     1. 主主谓谓, 中间的是从句
+     2. 主谓主谓, 后面的是从句
+
+## L39 Am I all right?
+
+**## word**
+
+* operation n. 操作, 手术
+  * have an operation 做手术
+  * business operation 操作, 运转, 经营
+  * rescue operation 救援行动
+  * military operation  军事行动
+* success n. 
+  * successful adj.
+  * successfully adv.
+  * succeed v.
+* following adj. 下一个
+  * coming adj. 下一个
+* patient n. 病人, adj. 有耐心的
+* alone adj./adv. 独自的
+  * → When he was alone , he telephoned the hospital exchange .
+  * be+ alone 处于独自的状态
+  * leave me alone
+* lonely adj. 偏僻的, 人迹罕至的, 孤单寂寞的
+  * lonely 强调内心感受
+  * alone 强调一个人
+  * → The old lady lived alone, so she felt lonely
+* → exchange n. (电话的) 交换台, 交换 v. 交换
+  * the hospital exchange
+  * exchange students
+* inquire v. 询问, 打听
+  * =ask
+* relative n. 亲戚
+  * relation n.亲属
+
+**## key structure**
+
+* 直接引语 变 间接引语 (宾语从句)
+* 需要转换人称角度
+
+**## text**
+
+* → He says, "I am a fool"
+  * → He says (that) he is a fool
+* 直接引语变 间接引语 (陈述句 , 一般疑问句, 特殊疑问句)
+  1. 引号打开, 变 宾语从句
+     * 看句子总的句子类型 (L26)
+       * 陈述句 加 宾语从句, 前加 that
+       * 特殊疑问句 变 宾语从句, 调整语序, 主语提前
+       * 一般疑问句 变 宾语从句, 调整语序, 主语提前, 前加是否 (if/whether)
+  2. 设身处地, 转换角度
+     * 人称 / 时态 / 代词 或 状语 等 (需要向过去推一个时态)
+  3. 例子
+     * → 'I am inquiring about a certain patient' ... 
+       * → Mr. Gilbert said (that) he was inquiring about a certain patient
+     * → 'Was my operation successful?'
+       * → He asked his doctor to tell him whether his operation had successful.
+     * → 'When will Mr. Gilbert be allowed to go home?'
+       * → He then asked when Mr. Gilbert would be allowed to go home 
+       * → The following day 一天后
+     * → 'Are they tired?' she asked
+       * → She asked whether they were tired?
+     * → 'Will Jack arrive tomorrow?' Tom asked.
+       * → Tom asked whether Jack would arrive the following day.
+     * → 'Have you ever been abroad?' Tom asked
+       * → Tom asked whether you had ever been abroad. (主语可能会变, 视情况而定, 例如上文的 you )
+     * → 'Why didn't he write to me?' she asked
+       * → She asked why he hadn't writen to her?
+
+## L40 Food and talk
+
+**## word**
+
+* hostess n. 女主人
+  * host n. 男主人
+  * -ess 女性后缀
+    * waitress 女服务生  waiter 男
+    * goddess 女神 god 男
+* tight adj. 紧的
+  * a tight dress  
+  * tight shoes 
+  * tight schedule
+* fix v. 固定, 修理
+* globe n. 地球
+  * global adj. 地球的, 全球的, 球状体的
+  * global economy 全球的经济
+* despair n. 绝望
+  * in despair
+  * desperate adj. 绝望的
+  * desperate house wife 绝望主妇
+* be busy doing sth. 忙于做某时
+  * be busy with sth
+* 将来进行时在口语表示更委婉的语气
