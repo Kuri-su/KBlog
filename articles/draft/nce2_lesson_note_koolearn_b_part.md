@@ -168,5 +168,8 @@ sweep swept swept.
 
 ## L50 Taken for a ride
 
+**## word**
 
-
+* ride 
+  * v. 骑, 搭乘 , ride a bicycle / horse
+  * n. 旅行 
