@@ -3024,4 +3024,389 @@ ous 结尾 (adj. 后缀)
 
 **## text**
 
-* 
+* though 尽管
+  * think thought thought
+  * through 穿过
+  * throughout prep. / adv. 自始至终
+  * thorough adj. 仔细的, 彻底的
+  * tough adj. 结实的
+* teach taught taught
+* can/be able to
+  * 相同点: 都 表示能力, "能够"
+    * (be able to 时态比 can/could 更灵活)
+  * 不同点: 
+    * was/were able to 表示过去有能力做, 而且做到了
+      * be able to 只能表示能力
+    * could 只能表示过去有能力做, 具体做没做没说
+      * can 还可以表示猜测/允许
+      * →  It <u>could</u> only get over the mountains. if it rose to 10000 feet. (could之表示可能, 不表示真的这么做了)
+* at once 立刻
+* →  The plane was then able to rise and it cleared the mountains <u>by</u> 400 feet. (by 在这表示 差距, 上升了, 下降了, 增加了, 这一类都用 by 表差额)
+  * by 10 percent
+* at one point 在某个地点
+* in sight 视野中
+* seem certain 好像是确定的
+  * →  It(形式主语) seemed certain <u>that their plane would crash.(主语从句) </u>   (It 形式主语 )
+* 主语从句
+  * 含义, 主语作从句
+  * 位置
+    1. 放在句首
+    2. 放在句尾 (推荐, 避免头重脚轻)
+  * 写法: 同宾语从句
+    * 主语从句
+      1. that 不能省
+      2. 条件从句用 whether 不用 if
+    * 例句: 
+      1. →  It seemed certain that their plane would crash.
+         * →  That their plane would crash seemed certain.
+      2. 你不能跟我们一起去 真是个遗憾
+         * →  That you can't go with us is a pity.
+           * →  It is a pity that you can't go with us.
+      3. 他们是否将会准时到达, 这不确定
+         * →  Whether they will arrive have on time is uncertain.
+           * →  It is uncertain whether they will arrive here on time.
+* at 介词短语
+  * at first 起初
+  * at once 马上
+  * at present 在现在
+  * at last 最后
+  * at any rate 在任何程度上来说, 不管怎么样
+  * at time = sometime 优势
+  * at heart 在内心深处
+  * at a loss 非常困惑
+
+## L44 Through the forest
+
+**## word**
+
+* risk n. 危险, 冒险 v. 冒险, 使面临风险
+  * take the risk 冒险 (v.)
+  * →  They took the risk of losing their lives to put out the fire.
+* picnic n. 野餐
+  * have a picnic v. 野餐
+  * go for a picnic 去野餐
+* edge n. 边缘
+  * at the edge of ...
+  * at the edge of a forest / a cliff(峭壁)
+* possess v. 拥有
+  * possession n. 拥有
+    * in one's possession
+    * →  The bag is in their possession
+* breath n. 呼吸
+  * be out of breath 上气不接下气
+    * →  She was soon out of breath
+  * hold one's breath 憋气
+  * take a deep breath 深呼吸
+  * breathe v. 呼吸
+* contents n. 内有的物品 (常用复数)
+  * the contents of the bag
+* mend v. 修理
+  * repair
+  * fix
+
+**## key structure**
+
+* doing 动名词
+
+**## text**
+
+* start doing sth. = start to do sth.
+* begin doing sth. = begin to do sth.
+* →  and with the bag in their possession in one's possession 插入语
+  * with + n. + 介词短语, 伴随什么在哪里
+* so ... that ... 太... 所以 .. 
+  * so + adj./adv. + that
+  * such + n./n.词组 + that....
+* →  She were going <u>through</u> the contents of the bag.
+  * 这里 through 不表示 穿过, 表示 清点/浏览 bag 里的东西
+* need doing sth. 需要被修, 主动表被动
+  * →  The windows need cleaning.
+* doing 动名词
+  * 含义: 动词 当名词用
+  * 用法: 
+    1. 作主语
+       * →  Fishing is my favourite sport.
+    2. 介词后作宾语
+       * →  I often fish for hours without catching anything.
+* 特殊的介词 to
+  1. to 表示 向.... , go to school , 后加名词 或 动名词
+  2. to 动词不定式, 表 目的
+     * →  I am looking forward to seeing him tomorrow.
+     * →  I am accustomed to getting up early.
+     * →  I am used to getting up early
+  3. 有些动词后, 做宾语
+     * →  The men started to run through the trees. 
+       * = →  The men started running through the trees.
+     * start/begin/continue 接 doing 与 to do 意思一样
+     * 反例: 
+       * →  I hate to disturb you, but can I come in?
+       * →  I hate disturbing people when they are busy.
+     * 有的动词 加 to do 表示 一次, 偶尔做
+     * 有的动词 加 doing 表 always, 经常做
+* love/like/hate/dislike 接 doing 与 to do
+* need + doing 表被动, 其他动词 + doing 表主动
+* iron v. 熨衣服 n. 铁
+
+## L45 A clear conscience
+
+**## text**
+
+* clear adj. 清白的
+* conscience n. 良心, 道德心
+  * have a clear conscience
+  * have no conscience
+* wallet n. 皮夹, 钱包
+  * purse n. 女士手包
+* learnt 得知
+* pay back
+  * →  I'll pay you back for what you did to me.
+
+## L46 Expensive and uncomfortable
+
+**## word**
+
+* unload v. 卸货
+  * unload boxes
+  * unload passengers
+    * load v. 装(货) , 放入
+    * download / upload
+* wooden adj. 木制的
+* extremely adv. 非常, 极其
+  * 比 very 的程度更高
+  * too 比 extremely 的程度更高, 过于
+* occur v. 发生
+  1. sth. occur to sb. 某人 (突然) 想起某事
+     * →  A good idea occurred to me 
+       * = →  I suddenly got a good idea
+  2. To do sth. = occur to sb. 某人 (突然) 想起来去做某事
+     * to do 可以相当于名词做主语
+     * 例句
+       1. 我突然想起来给我妈打电话
+          * →  It occurs to me to call my mon.
+       2. →  It suddenly occurred to one of the workers to open the box
+* astonish v. 使惊讶
+  * be astonished at / be surprised at 被某事弄得惊讶
+  * →  I am astonished at news
+* pile n. 堆
+  * a pile of 一堆
+* woollen adj. 羊毛的
+  * wool n. 羊毛
+* discover v. 发现 (c 读得时候浊化)
+* admit v. 承认
+  * admit sth. 承认某事
+    * →  I'm wrong , and I admit it.
+  * ⭐  admit doing sth. 承认做了某事
+    * →  The man admitted hiding in the box
+* confine v. 关在 (一个狭小的空间里)
+  * be confined to ... 被关在
+* normal adj. 正常的,通常的
+  * abnormal adj. 反常的, 异常的
+    * ab+... 否定前缀
+
+**## key structure**
+
+* 同位语从句 (名词性从句)
+* 介词后的宾语从句
+* being done
+
+**## text**
+
+* arrive 
+
+  * arrive in 到达里面, 强调里面
+  * arrive at 到达地点, 仅仅强调地点
+
+* 开始做某事 begin to do / begin doing
+
+* a number of 许多, 大量
+
+* account for 解释 = explain
+
+* 同位语从句
+
+  * 含义: 解释说明前面的名词, 一个句子作同位语 
+  * 位置: 所解释的抽象名词后
+  * 抽象名词: fact,news, theory, idea, suggestion, report
+  * 写法: 同宾语从句
+    * 名词性从句 : 宾语从句, 表语从句, 主语从句, 同位语从句
+  * 常见: that+ 陈述句
+    * →  No one could account for the fact <u>that one of the boxes was wxtremely heavy .</u>
+    * 例句
+      1. 我毫不怀疑他将会帮我的忙
+         * →  I have no doubt that he will help me.
+      2. 我们支持这种观点, 校车问题必须被严肃对待
+         * →  We support the argument that the problems of school buses must be taken seriously.
+      3. 我们讨论了是否这个会议应该举行这个问题
+         * →  We discuss the question whether the meeting should be held.
+      4. 一个新的地铁站将会建在这里
+         * The plan that a new subway station will be built here is welcome.
+
+* →  It suddenly occurred to one of the workers to open up the box
+
+  * It occurs/occurred to sb. to do sth.
+
+* 介词后的宾语从句 (介宾)
+
+  * →  He was astonished at what he found
+  * 其他的是动宾
+
+* being done
+
+  * →  He was so surprised at being discovered that he did not even try to run away
+  * doing 通常主动 / being dong 被动
+    * →  He was so surpried at discovering. (主动发现)
+    * →  He was so surpried at being discovered. (被发现)
+    * →  Hewas delighted at being promoted to senior manager.
+
+* for 
+
+  * for + 句子表示因为
+  * for + 时间表示持续了多久
+  * for + 名词表示目的
+
+* 后面可以接 to /at /for / with 的动词
+
+  * with 伴随着有
+    * communicate with 与.. 联系
+    * compare with 与... 比较
+    * compete with 与... 竞争
+    * correspond with 与... 一致
+    * contrast with  与... 对比
+    * quarrel with  与 ... 争吵
+    * mix with  与 ... 混合
+    * confuse with 与... 混淆
+    * agree / comply with 同意/服从
+    * begin/finish with 开始 / 结束
+    * cope with 处理
+
+* for , 后面可以接 for 的动词
+
+  * 意思
+
+    1. 目的
+       * wait for 等候
+       * thank for  感谢
+       * prepare for 准备
+       * pay for 付钱
+       * search for 搜寻
+       * look for 寻找
+       * hope for 希望
+       * ask for  请求
+
+    2. 针对某一对象, 对于 sb. 来说
+
+    3. 原因, 因为
+       * account for 解释
+       * apologize for  道歉
+       * blame for 责怪
+
+* 后面可接 at 的东西 (表示某个点)
+
+  * look / stare(盯着看) / glance(L42 扫了一眼) at 看
+  * amused at 兴趣点
+  * 吃惊
+    * astonished at 感到吃惊(偏惊奇)
+    * shocked at 感到吃惊(不高兴)
+    * surprised at 感到吃惊(高效/生气 都有可能)
+  * Point at 指着
+  * knock at 敲
+  * arrive at  到达
+  * work at 工作
+
+* 后面可以接 to 的动词
+
+  * go to 走向
+  * turn to  转向
+  * Submit to  服从
+  * surrender to 投降
+  * yield to  屈服
+  * Reply to 回答
+  * respond to  响应
+  * react to 反应
+  * apply to  适用于
+  * attach to 附属于
+  * belong to 属于
+  * confine to  限制
+  * listen to  听
+  * object to  反对
+  * prefer to 更喜欢
+
+* BTW: 介词 + 名词 / 代词 / doing
+
+## L47 A thirsty ghost
+
+**## word**
+
+* thirsty adj. 口渴的
+  * hungry adj. 饿的
+  * a thirsty ghost
+  * →  I am thirsty / I feel thirsty
+  * →  The man was thirsty for power/knowledge.
+* haunt v. 闹鬼 v.(不愉快的事情) 萦绕心头
+  * →  People say ghosts haunt the old house
+  * →  The house is haunted (by the ghosts)
+  * →  If something unpleasant haunts you, try to ignore it and move on
+  * →  She was haunted by bad feeling might and day
+* block v. 堵
+  * →  The doors had been blocked by chairs
+  * →  The clouds blocked his view of the mountains 
+  * n. 拥堵/ 大楼 / 街区 
+  * traffic block / jam
+  * a block of flats 一座大楼
+  * →  She walked three blocks down the main street .
+* a piece of furniture 一件家具
+* shake v. 摇动
+  * shake shook shaken
+  * shake one's hand 摇头
+  * shake hand with sb. 和某人握手
+
+**## text**
+
+* receive 被动接收
+* accept 主动接受
+* A plublic house 小酒馆
+* be up for sale 可供出售
+* 句子的分类 按照结构划分
+  * 简单句
+    * 主语 + 谓语
+      * 谓语动词变化多样 , 包括 时态/语态(主/被动)/情态(情绪/态度/可能性)/否定/虚拟
+      * 主语通常是名词, 用 adj. 修饰
+      * 通常 adv. 修饰谓语
+  * 并列句
+    * (n.+v.)+conj.+(n.+v.)+conj.+(n.+v.) 
+    * 句子一样重要
+  * 复合句
+    * (n.+v.)+conj.+(n.+v.)+conj.+(n.+v.)
+    * 复合句 = 主语 + 从句: 
+      * 名词性从句 (主L43/宾L7L15L26/表L29/同位L46)
+      * 定语从句 L28
+      * 状语从句 L36
+
+## L48 Did you want to tell me something?
+
+**## word**
+
+* pull 
+  * pull out one of my teeth
+* cotton 棉的
+  * wool 羊毛
+  * cotton wool 药棉
+* collect v. 收集
+  * collect evidence 证据 / infomation
+  * collect match boxes / stamps
+  * collection n.  
+* match 火柴
+* meanwhile adv. 同时
+* dentist 牙医
+* impossible 不可能
+* rest 同时有 v. 和 n.
+* to rest (v.)= to have a rest (n.)
+* →  He then asked me <u>how my brother was 从句1</u> and(连接词) <u>whether I liked my new job in London从句2</u>
+* In answer to 作为对 ... 的回答
+* either .. or ... 并列连词 (二选一)
+* take 拿走, fetch 取回
+* past adv./介词 
+  * passed v. 
+* continuously 持续不断的
+  * continually 频繁的
+* steal 偷, rob 抢
