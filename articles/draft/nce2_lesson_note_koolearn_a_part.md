@@ -2789,3 +2789,239 @@ ous 结尾 (adj. 后缀)
 * be busy doing sth. 忙于做某时
   * be busy with sth
 * 将来进行时在口语表示更委婉的语气
+
+**## text**
+
+* 虚拟语气
+  * If 条件, 状语从句
+    1. if 真实条件句
+    2. if 虚拟条件句 (虚拟语气)
+       1. 假设与事实不符合
+       2. 有些事假设了之后, 实现的可能性很小 或 没有
+  * ⭐ 虚拟语气是 谓语动词的特殊形式, 利用谓语动词的异常, 让人感觉到这不是真的.
+    * 通过改变时态
+      * If 虚拟条件句
+        * 假设现在
+          * if 从句, 哪一句跟着 if 就是从句, 从句不一定在后, 主句不一定在前, 从句向过去推一个时态, 在一般过去时, be 动词用 were
+          * 主句
+            * could + do (能力)
+            * would + do (将要)
+            * should + do (应该)
+            * might + do (可能可以)
+        * 例句
+          * → If I were you, I wouldn't be so confident
+          * → What would you do if you won a lot of money?
+          * → He would enjoy this if he were present(adj. 出席的).
+          * → I am not you, so I can't make the decision.
+            * → If I were you, Icould make the decision.
+          * → You make the arrangements, so it will save us a lot of trouble.
+            * → If you didn't make the arrangements it wouldn't save a lot of trouble.
+          * → If I could rearrange the alphabet, I would put you I together.
+* 短语动词 make
+  * →  I tried to make conversation.
+  * →  When she had made the beds she went downstairs.
+  * →  You mustn't make so much noise.
+  * →  I made a promise never to see him again.
+  * →  He's the sort of person who always makes trouble.
+  * →  He is learning English but he hasn't made much progress
+  * →  He made a lot of money is South America.
+  * →  I was asked to make a speech.
+  * →  I'll nevermake the same mistake again.
+  * →  I found it difficult to make up my mind.
+* 短语动词 do
+  * →  He always does his best.
+  * →  When didi you do your homework?
+  * →  Do me a favour, please. 帮我个忙
+  * →  I want you to do exercise 24 on page 16.
+  * →  I did a lot of shopping yesterday.
+
+## L41 Do you call that a hat?
+
+**## word**
+
+* rude adj. 无理的
+  * rudely adv. 无礼地
+  * →  A rude man was shouting rudely.
+* mirror n. 镜子
+  * look at oneself in the mirror 照镜子
+* remind v. 提醒
+  * remind sb. of sth.
+  * Remind sb. to do sth.
+  * reminder n. 提醒, 提示的
+
+**## key structure**
+
+* need
+  * 实义动词
+  * 情态动词
+
+**## text**
+
+* need 实义动词
+  * need sth./sb.  
+    * 否定形式 : don't(doesn't/didn't/won't) need
+  * need to do / need sb. to do
+  * need doing
+  * need 实义动词时, 接名词 或 相当于名词的词 , 比如 动名词 或 不定式
+  * →  He needs some time.
+  * →  He needs to have a rest.
+  * →  Her bag needs mending
+* need 情态动词
+  * need do (常用于 否定/疑问)
+    * →  Need I go to the meeting?
+    * →  No , you needn't (go to the meeting)
+  * 否定式
+    * need do / needn't do
+      * 真实表达
+    * need have done (虚拟)
+      * 本来需要做某事, 但事实上没做. (虚拟表达)
+  * 实义动词用法搭配
+    * need sth./sb.
+    * need to do / need sb. to do.
+    * need doing
+    * 否定形式: don't need (doesn't/didn't/won't)
+  * 情态动词 用法搭配
+    * need do /needn't do
+    * need have done / needn't have done
+    * 否定: needn't
+    * needn't do = don't have to do
+* in front of ... 在...面前
+* in the front of ... 前半部
+  * →  My wife was still <u>in front of</u> the mirror
+  * →  I sat <u>in the front of</u> the bus.
+* →  We <u>mustn't buy(整体)</u> things we <u>don't need(整体)</u>.
+  * 谓语动词 时态/语态/情态 算 一个整体
+* at once 立刻
+* regret 遗憾, 后悔
+  * regret sth. 遗憾, 某件事
+  * regret doing sth. 后悔做过了某事
+  * regret to do 遗憾要求去做某事, 还没做
+* too many  表否定
+  * →  A man can <u>never(否定)</u> have <u>too many ties(否定)</u>.
+    * 否定 + 否定 = 肯定
+* mustn't 禁止 / needn't 没必要
+  * →  Must I finish my homework today?
+    * Yes , you must
+    * No , you needn;t
+* 不规则动词的变化
+  * wear wore worn
+
+## L42 Not very musical
+
+**## word**
+
+* musical adj. 精通音乐的
+  * natural adj. 自然的
+  * musial instrument n. 乐器
+* charm n. 美丽
+  * charmer n. 有魅力的人
+    * snake charmer 用音乐控制蛇的人
+  * charming adj. 有魅力的人
+* tune n. 曲调, 曲子
+  * play a tune.
+* glimpse n. 一瞥
+  * quick a look
+  * have a glimpse of ...
+    * →  We had our first glimpse of the snake.
+* continue to do = continue doing
+* abviously adv. 显然地
+  * abvious adj. 显然的
+* tell the difference between A and B
+  * difference n. 差别
+  * different adj. 不同的
+
+**## key structure**
+
+* 复习 have 的用法 (实义动词/助动词)
+* have a + n. = 对应的 v.
+
+**## text**
+
+* have 的用法
+  * 实义动词
+    * 表示 "有" "吃喝玩乐做"
+  * 助动词词 (无实义, 用于完成时态中)
+  * 新增 have 实义动词 "做"
+    *  have a walk(n.) = walk (v.)
+    * 只要一个词 既能当 动词 v., 又能当 名词 n., 就可以使用上述 用法
+      * have a + n. = 对应的 v.
+        * have a rest = rest
+        * have a look = look
+        * have a swim = swim
+        * have a sleep = sleep
+      * 此处可以对 n. 作更多的修饰
+    * →  As we had had a long walk through one of the markets of old Delhi.
+      * Long 和 后面的 表语都修饰名词 walk
+        * have a look = look
+        * have a look at = look at
+    * →  I wanted to smoke
+      * →  I wanted to have a smoke
+    * →  I swam in the sea this morning.
+      * →  I had a swin in the sea this morning
+    * →  She is resting.
+      * →  She is having a rest.
+    * →  Did you sleep(v.) well last night?
+      * →  Did you <u>have a good(adj.) sleep(n.)</u> last night?
+* as soon as 一...就...
+* pick up
+  * ... he picked up a long pipe...
+  * I'll pick you up in the car this evening.
+  * I picked up a lot of English while I was I England.
+* rise rose risen 上升
+  * rise 不及物 vi. 
+    * →  The sun rises every day
+    * raise vt. 及物
+      * You raise me up.
+* but 是连词, however 是副词, 修饰动词等, 但不是连词
+  * 可以放在句首/句尾/句子中间, 插入到 主谓之间
+  * →  The snake, however, continued to dance slowly.
+  * →  However, the snake continued to dance slowly.
+  * →  The snake continued to 'dance' slowly, however.
+
+## L43 Over the south pole
+
+**## word**
+
+* pole n. (地球的) 极
+  * the South Pole 南极
+  * the North Pole 北极
+* flight n. 飞行
+  * have a good flight
+  * Flight CA112 is boarding, Please get ready.
+* explorer n. 探险家 (探测器)
+  * Internet Explorer (IE)
+  * explore v. 探测, 探险, 探索
+  * exploration n. 考察, 探险 (科研)
+* lie v. 
+  * 趟/处于, 位于 lie , lay , lain ,lying
+    * 表示过去的 "躺/处于,位于"
+      * →  The begger lay there yesterday.
+  * 说谎 lie, lied , lied , lying.
+  * 不表示过去, 作动词原型, 表示 放置/摆放, 产卵/下蛋
+    * lay, laid , laid
+* serious adj. 严重的(严肃的)
+  * →  The proble of are pollution is serious
+  * →  I am serious, I'm not joking.
+* point 各种点 (地点, 时间点, 小数点, 圆点, 泥点)
+  * n. 地点
+    * at one point
+  * v. 点出, 指出
+    * →  They pointed out the problem
+  * point at/to 指着某个方向
+* same adj. 相同
+  * seem v. 相似
+* endless adj. 无尽的
+  * endless white plains
+  * -less adj.->adj. 否定后缀
+    * careless 不小心的
+    * worthless 不值钱的
+      * worth 之前的
+
+**## key structure**
+
+* can/be able to
+* 主语从句
+
+**## text**
+
+* 
