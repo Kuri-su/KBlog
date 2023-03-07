@@ -582,10 +582,66 @@
 * → The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
   * 造句: 过去 日夜辛苦工作的老王 两年前下岗了 (be laid off) 了, 从那以后 就变得懒了
     * → Lao Wang who used to work hard day and night was laid off two years ago  and has been lazy ever since.
-* wake (up): vi & vt. 醒了; 唤醒 (up) 可以省略
+* wake (up): vi & vt. 醒了; 唤醒, (up) 可以省略
   * → (NCE2-54 P252-L11) The doorbell rang loud enough to <u>wake</u> the dead.
     * start n. 激灵 (由于恐惧或者惊讶身体突然的一动)
+      * wake (up) with a start
+        * → She woke from the dream with a start.
+          * with + 名词 作状语修饰谓语动词, 一般来说是方式状语.  所有的词性中, 名词是最正式的.
+            * →  (NCE3-11 P54-L13) The officer went through the case with greate care.
+            * → (NCE3-11 P54-L15) He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
+            * → (NCE3-11 P54-L18) Then I added with a smile.
+            * → (NCE3-27 P130-L16) His few meterial possessions make it possible for him to move from place to place with ease
+            * → She faced the difficulty calmly.
+              * → She faced the difficulty with calmness.
+            * → I looked at her curiously.
+              * → I looked at her with curiosity.
+            * → She spoke to me tenderly;.
+              * → She spoke to me with tenderness.
+            * → I greeted Philip enthusiastically.
+              * → I greeted Philip with enthusiasm.
+* 非谓语动词的逻辑主语
+  * → Looking at his watch, he saw that it was one o'clock, 
+    * 上面的句子写成 状语从句 会像下面这样
+      * →  When he looked at his watch, he saw that it was one o'cloeck
+    * 状语从句稍显冗余, 写成 非谓语动词 修饰主句会简洁一些, 不过非谓语作状语时, 有一个逻辑主语 (隐含的主语), 这种情况下, 一般其隐含的主语 应该与主句主语保持一致, 但也有例外(什么例外之后说), 例如下面这种情况就是 隐含的主语 和 主句主语不一致
+      * →  Looking at his watch, it was one o'clock. (x)
+* before 的译法
+  * 并不全部都翻译成 '之前' , 意思还是之前的意思, 但翻译成中文 可以稍微变化一下使之更加 自然
+  * 强调主句的时间 比 预期的长时, 译为 '才'
+    * → It will be a long time before we meet again.
+  * 强调主句的时间比预期的短时, 译为 '就'
+    * → I hadn't waited long before he came.
+* → Armed with a torch, the vicar went up into the clock tower to see what was going on.
+  * 这里 `Armed with a torch` , 前后主语一致没问题, 
+
+* go on 发生 (意料之外)
+  * → What's going on here?
+  * 和 go up 意思一样的词
+    * happen
+    * occur
+    * come up 
+    * come about
+
+  * 也表示发生, 不过是意料之内
+    * take place
+      * → The funeral will take place on Monday.
+
+  * 不幸的事, 悲伤的事发生
+    * → Most people were fast asleep when the earthquake <u>struck</u>.
+      * be fast asleep 表示熟睡
+
+  * 同时发生 , coincide (with ...)
+    * → When I came, he was just about to leave. (平时写的时候可能这么写)
+      * My arrival <u>coincided with</u> his departure. (这样写就更加拽文)
+
+  * catch sight of...  无意中一眼看到了, 瞥见
+    * catch a glimpse of ... (同一个意思)
+    * glimpse sb./sth. 一眼看到/一眼瞥见
+
+  * figure 人影(本意时 图像/数字/图表/人物)
     * 
+
 
 
 
