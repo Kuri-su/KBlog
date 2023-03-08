@@ -640,9 +640,117 @@
     * glimpse sb./sth. 一眼看到/一眼瞥见
 
   * figure 人影(本意时 图像/数字/图表/人物)
-    * 
+    * → (NCE3-30 P142-L6) A farm worker, who stayed up all night, claimed to have seen a <u>figure</u> cutting corn in the moonlight.
+    * → (NCE3-21 P106-L6) One of the most colorful figures in boxing history was Daniel Mendoza, who was born in 1764.
+
+  * recognize ... as ... 认出某人是谁
+    * → I recognized her as one of my classmates. 
+
+  * grocer n. 杂货商
+    * grocery n. 杂货
+
+  * "疑问词+ever" 有两个含义
+    1. 表示 "无论..."
+       * (NCE3-1 P14-L11) Wherever it went , it left behind it a trail of dead deer and small animals like rabbits.
+    2. 表示 "到底..."
+       * whenever, wherever, whoever, whichever ...
+       * →  where did you go yesterday?
+       * → when ever am I going to see you again?
+       * 同义词
+         * on earth
+           * → What on earth has happened to trouble you so?
+         * in the world
+           * → What in the world are you doing here at seven in the morning?
+         * in God's name
+           * → What in God's name was that huge bang?
+         * in heaven's name
+           * → → Where in heaven's name have you been?
+  * have been doing 现在完成进行时
+    * 表示持续性的动作一直到现在, 而且还有可能继续下去.
+
+  * night after night 每天晚上
+    * 同义
+      * night by night
+      * every night
+      * one night after another 
+
+    * 一天又一天, 每天
+      * day after day 
+      * day be day
+      * every day 状语
+        * everyday adj. 日常的
+
+      * one day after another
+
+  * for weeks 好几周了
+    * for hours 好几小时了
+    * for months 好几个月了
+    * for years  好几年了
+    * for centuries 好几百年了
+
+  * was/were hoping ... 表达一种试探性的, 委婉的语气
+    * → I was hoping you chould marry me.
+
+  * 强调肯定式 (emphatic positive)
+    * 在 肯定句 和 祈使句 中, 在 谓语动词前加上 助动词 do 以 加强语气. 只用于 **一般现在时(do, does)** 和 **一般过去时 (did)** 中.
+      * → I <u>do</u> need a car 他的确需要一辆车
+      * → He speak English well. 他英语说的好
+        * → He <u>does</u> speak English well. 他引语确实说得好
+
+      * → So you <u>did</u> come after all. 你到底还是来了
+      * Come in.
+        * Do come in.
+
+      * Shut up!
+        * Do shut up!
+
+  * as well : ...也...
+    * as well as .... : 除了...之外, .... 也....
+    * as well  是 as well as me 的省略形式, 
+      * →  You've probably woken upeveryone in the village as well as me.
+
+  * glad adj. 高兴的
+  * still 尽管如此, 还是.... 表转折, 放句首, 后面跟一个逗号
+    * →  <u>Still</u>, I'm glad the bell is working again.
+    * 同义词:
+      * nevertheless
+      * nonetheless
+      * all the sames
+      * just the same
+
+    * →  The girl is not beautiful.
+      * →  <u>Still</u>, I like her very much.
+      * →  <u>Nevertheless / Nonetheless / All the same/ Just the same,</u> I like her very much
+
+  * →  Still, I'm glad (that) the bell is working again.
+    * 这类句子不在三大类从句内, 属于 '形容词补足语', 专门用在形容词后面
+    * →  ..., but I'm afraid (that) at one o'clock it will strike thirteen times and there is nothing I can do about it.
+
+  * →  There is nothing I can do about it. 对此我无能为力.
+    * →  The telephone is out of order, and there is nothing I can do about it.
+    * →  I know you are not statisfied(不满意), but there is nothing I can do about it.
+    * →  We apologize(抱歉, 感到歉意) for this, but there is nothing we can do about it.
+
+  * as good as (和什么一样好(字面意思)) = almost (几乎...; 和...差不多)
+    * → The injured man is as good as dead. 
+      * = → The injured man is almost dead.
+
+    * → Everything is as good as settled. 每件事都几乎解决了
+    * → (NCE3-46 P212-L21) As far as I could see, it needed only a minor adjustment:  a turn of a screw here, a little tightening up there, a drop of oil and it would be <u>as good as</u> new.
+
+  * go downstairs 去楼下
 
 
 
+
+## L3 An unknown goddess 
+
+**## word**
+
+
+
+**## text**
+
+ 
 
  
