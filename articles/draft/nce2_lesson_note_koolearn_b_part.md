@@ -10,7 +10,7 @@ unit 2 并列句 和 复合句
 
 unit 3 并列句 和 复合句 的 简化, 非谓语动词
 
-**## 单词**
+**## word**
 
 - tired adj. 厌烦的
   - be tired of …
@@ -42,7 +42,7 @@ unit 3 并列句 和 复合句 的 简化, 非谓语动词
 2. 并列句 vs. (主从) 复合句
 3. 状语从句的省略 → 非谓语动词 (主语相同)
 
-**## 课文**
+**## text**
 
 1. 简单句 → 基础的重中之重
 2. 并列句 : 多件事一样重要
@@ -171,5 +171,39 @@ sweep swept swept.
 **## word**
 
 * ride 
-  * v. 骑, 搭乘 , ride a bicycle / horse
-  * n. 旅行 
+  * v. 骑, 搭乘 
+    *  ride a bicycle / horse
+  * n. 旅行
+    * take (sb.) for a ride 开车带某人兜风 / 欺骗某人 
+* excursion n. 远足
+  * go on an excursion 去远足
+* conductor n. 售票员
+* view n. 景色, 观点, 视野
+  * → from my point of view
+
+**## key structure**
+
+* 复习 doing/done/to do 作定语/状语
+* 宾语从句的省略
+
+**## text**
+
+* take v. 花费 (主语不能是人)
+  * sth. take sb. sometime
+  * → The recovery took her three years.
+  * 英语水平的提高在于多变
+  * To do sth. takes sb. some time.
+    * = It takes sb. some time to do sth.
+      * It 是形式主语, 
+    * 去劝说她 花费了我 10 分钟
+      * → It took me ten minutes to persuade her.
+* get on the bus 上车
+  * get off the bus 下车
+* → I'll tell you where you should get off
+  * → I'll tell you where to get off.
+* 宾语从句的省略 (wh-/how to do)
+  * Making Love out of Nothing At All
+    * → I know just how to whisper
+    * → and I know just how to cry
+    * → I know just where to find the answers
+
