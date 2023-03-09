@@ -747,6 +747,72 @@
 
 **## word**
 
+* archaeologist (英) 考古学家
+  * archeologist (美)
+  * 长的单词 比较容易记忆
+    1. 有字根, 类似于在背短语
+    2. 意思固定
+  * 字根
+    * "arch(a)" = ancient 古的, 古老的, 古代的
+      * archaic adj. 古老的, 古代的, 原始的
+        * archaic words 古老的文字
+        * archaic civilizations  古老的文明
+    * "-(o)logy"=to study   / "-ist" = 人
+      * <u>archa</u>e<u>ology</u> 考古学  <u>arch</u>eolog<u>ist</u> 考古学家
+      * bio<u>logy</u> 生物学  biolog<u>ist</u> 生物学家 
+        * "bio-"=life
+      * geo<u>logy</u> 地质学  geolog<u>ist</u> 地质学家
+        * "geo-" = earth
+      * psych<u>ology</u> 心理学   psycholog<u>ist</u> 心理学家
+        * "psysh-" = mind
+      * physi<u>ology</u> 生理学  physiolog<u>ist</u> 生理学家
+        * "physi-" = 身体
+* prosperous adj. (经济上) 繁荣的
+  * a prosperous country / businessman  繁荣的国家/商人
+  * prosperity n. 繁荣(不可数)
+    * economic prosperity 经济繁荣
+    * → We'll keep the prosperity and stability of Hong Kong at any cost.
+    * → One hundred years later, the Negro(黑人) lives on a lonely island of <u>poverty(贫穷)</u> in the midst(中间的,文雅的书面语) of a vast(广袤的) ocean of material(物质的) <u>prosperity</u>.  --- Dr. 马丁路德金
+  * prosper v. 繁荣 不及物
+    * → A company can't <u>prosper</u> without investment.
+    * 同义词(可替换)
+      * thrive / flourish v. 繁荣 ( 本意是植物枝繁叶茂 以至于 茁壮成长)
+        * → A company can't thrive/flourish without investment.
+        * → Plants that thrive / flourish in tropical(热带的) rainforests.
+        * thriving / flourishing adj. 繁荣的
+          * → a <u>thriving /flourishing</u> tourist industry. 一个繁荣的旅游业
+* storey / story n. 楼层(英/美)
+  * 复数形式
+    * storey → storeys 
+    * story → stories
+  * story 和 floor 的区别
+    * floor 一般指第几层, 比方说我住在第几层
+    * story 一般指总共有多少层, 比方说楼有几层
+  * 例句: 
+    * → a two-story house.
+    * → The house is two stories high.
+    * → a multi-story parking lot.
+  * floot 上, 英式和美式有区别, 美式的一楼称为 the first floor, 英式的一楼称为 the ground floor, 二楼才称为 the first floor
+    * 地下室: basement
+    * 顶层: the top floor
+    * 阁楼: attic
+* sacred adj. 宗教的, 神圣的
+  * a <u>sacred</u> holiday 
+  * sacred music 圣乐
+  * → Mecca is a sacred place. 
+  * 同义词
+    * holy adj. 神圣的
+      * holy bible 圣经 
+      * holy water 圣水
+      * a holy war 圣战
+    * bles<u>se</u>d adj. 神圣的, 有福的
+      * bless v. 保佑
+      * The Blessed Virgin Mary 圣母玛丽亚
+      * → It is more blessed to give than to receive. 施比受更有福
+    * divine adj. 神的, 神性的, 有神的特征的
+      * → To err is human , to forgive divine. -- Alexander Pope 凡人多舛误, 唯神能见宥.
+* classical adj. 古代 (希腊和罗马) 文化的
+
 
 
 **## text**
