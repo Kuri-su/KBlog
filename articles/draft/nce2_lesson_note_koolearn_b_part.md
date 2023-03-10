@@ -475,4 +475,6 @@ sweep swept swept.
 
 **## word**
 
-* 
+* sticky adj. 粘的
+  * sticky fingers 黏糊糊的手指
+  * 
