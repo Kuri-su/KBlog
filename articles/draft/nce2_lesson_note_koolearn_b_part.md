@@ -337,5 +337,142 @@ sweep swept swept.
 
 **## word** 
 
+* temporarily adv. 暂时的
+  * temporary adj. 暂时的, 临时的
+    * do sth. temporary
+    * a temporary job
+* inch n. 英寸
+  * 12 inches = 1 foot (英尺) = 0.3048 meter
+  * 3 feet(foot 复数) = 1 yard (码) = 0.9134 meter
+* space 空间
+  * outer space 外太空
+* actually adv. 实际上
 
+**## key structure**
 
+* 现在完成时
+* 现在完成进行时
+
+**## text**
+
+* 现在完成时
+  * 形式: have/has + done
+  * 意思: 表达现在的之前完成的事, 不管做完没做完
+  * 用法: 现在的之前, 强调事情完成的结果
+  * 例句
+    * → We have not won the match.
+* 现在完成进行时
+  * 形式: have/has been doing
+  * 用法: 现在的之前发生的事, 强调事情进行的过程
+  * 例句: 
+    * → We have been working hard for several months.
+    * → I have been studying English all morning.
+    * → It has been raining for a week.
+    * → We have been living here since I was born.
+    * → We have just moved into a new house and I have been working hard all morning.
+* 上述两种时态的区别
+  * 现在完成时  |  现在完成进行时
+  * have/has done  |  have/has been doing
+  * 角度相同: 都表示 "现在的之前"
+  * 强调不同: 强调完成的结果 (是否做完都可以) | 强调持续进行
+* → I have been trying to get my new room in order.
+  * get sth. in order 使 ... 有序
+* To make matters worse 更糟糕的是.. 
+* adv 放在助动词后, 实义动词前
+* have to 必须做某事
+* A short while ago 不久前
+* carpet 地毯
+* gaze 盯着看
+* spare 备用, 空闲时间
+* at all 根本
+  * not at all 根本不
+* 句子分析
+  * 定语从句中, 如果<u>关系词</u>作宾语, 则可以省略
+    * → This is the prettiest carpet (that)<u>I have ever seen</u> 
+* 表达 这一辈子最...的事用
+  * 形容词最高级 + n. + sb. +have ever done
+  * 例句
+    * → ... So it will soon be sending us the clearest pictures .... (that) <u>we have ever seen</u>
+    * 你是我见过的最漂亮的女孩
+      * → You are the prettiest girl (that) I have ever seen.
+    * 这是我们听过的最令人激动的消息
+      * → This is the most exciting news we have ever heard.
+    * 那是我做的最蠢的事
+      * → This is one of the stupidest things I have ever done.
+
+## L53 Hot snoke
+
+**## word**
+
+* hot adj. 带电的
+* fireman/firemen 消防队员
+* cause 
+  * v. 引起
+    * Carelessness causes accidents
+  * n. 起因
+    * the cause of the fire
+  * reason 原因
+* examine v. 检查
+  * examiner n. 主考官
+  * examination n. 检查, 考试 (简写: exam)
+* accidentally adv. 意外地, 偶然地
+  * 意外的做了某时
+    * do sth. accidentally
+    * do sth. by accident
+    * do sth. by chance
+  * accident n. 事故
+  * accidental adj. 意外的, 偶然的
+* remains n. 尸体, 残骸, 剩余的东西
+  * → the remains of a snake
+  * remain v. 保持, 保留
+    * remain silent
+* wire n. 电线
+  * wireless adj. 无线的,  (-less adj. 的否定后缀)
+    * wireless network 
+    * wireless mouse 
+    * wireless keyboard
+* volt n. 伏特
+* solve v. 解决
+  * solve the mystery(谜)
+  * solve the problem of ...
+  * solve the problem of air pollution/earthquake
+* snatch v. 抓住, 往上抓住
+* spark n. 电火花
+
+**## key structure**
+
+* 一般过去时 did
+* 现在完成时 have/has+ done (强调结果)
+* 现在完成进行时 have/has + been + doing (强调过程)
+
+**## text**
+
+* → At last fireman <u>have put</u> out a big forest fire in CA
+* → Since then, they have been trying to <u>find out</u> how the fire began
+* 名词可以修饰名词
+* → They were also quite sure that a cigarette end did not start the fire
+* wind v. 缠绕,蜿蜒
+  * wind wound wound 
+  * wind round 围绕着 sth./sb.
+* explanation n. 解释
+  * explain v. 解释
+* onto  = on to 
+  * on/in : 表示静止的在 ... 上面/里面
+  * onto/into 表示动态的到 上面/里面
+* I think so (代词, 如此/这样)
+* throw to/ throw at / throw away 的区别
+  * → Forest fires are often caused by cigarette ends which people carelessly <u>throw away</u>
+  * → He <u>threw</u> the ball <u>to</u> me and I caught it
+  * → The boy <u>threw</u> a stone <u>at</u> the window and broken it.
+* quite(adv. 很,非常) / quiet (adj. 安静的)
+  * → They were also <u>quite</u> sure that a cigarette end did not start the fire.
+  * → The class kept very <u>quiet</u> during the lesson.
+* drop / fall
+  * → A bird had <u>dropped</u> the snake on to the wires
+  * → He <u>fell</u> down the stairs and broke his leg
+
+## L54 Sticky fingers
+
+**## word**
+
+* 
