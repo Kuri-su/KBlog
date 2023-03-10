@@ -811,12 +811,37 @@
       * → It is more blessed to give than to receive. 施比受更有福
     * divine adj. 神的, 神性的, 有神的特征的
       * → To err is human , to forgive divine. -- Alexander Pope 凡人多舛误, 唯神能见宥.
-* classical adj. 古代 (希腊和罗马) 文化的
-
-
+* classical adj. 古代 (希腊和罗马) 文化的 (因为西方文化起源于 希腊 和 罗马) 
+  * 第二个意思, 古典的 adj.
+  * classical studies
+  * classical music
+  * classic adj. 经典的, 一流的, 最棒的
+    * a classic novel 一本经典小说
+  * -al 后缀
+    * electric adj. 用电的, 电动的   -- an electric light/razor  电灯/电剃刀
+      * electrical adj. 电的, 与电有关的  ---- electrical failure 停电
+    * historic adj. 有历史意义的 --- a historic moment 历史性的时刻
+      * historical adj. 历史的 --- historical record 历史记录
+    * economic   adj. 经济的  --- economic policy  经济政策
+      * economical adj. 经济的(省钱的), 节约的 --- an economical car 一台经济型汽车
+    * politic adj. 策略的, 明智的 ---- a politic decision 一个明智的决定
+      * political adj. 政治的  ---- political asylum(避难,庇护,庇护所)  政治避难
+* rest v. 放置, 倚放
+  * → Her elbows rested on the table. 她的胳膊肘 搭在桌子上(不及物动词的用法)
+  * → She rested her head against a cushion(垫子). 她把她的头靠在一个垫子上  (及物动词的用法)
+  * 派生意
+    * rest on / upon 基于
+      * → Columbus' decision to sail west rests on his belief that the world is round.
+      * be based on/upon 基于
+      * be founded on/upon 基于
+        * upon 更正式一点
+      * depend on/upon 基于, 依赖, 依靠, 取决于
+        * → Don't always depend on others. You should learn to rely on yourself.
+      * rely on/upon 依赖依靠取决于
 
 **## text**
 
- 
+* some time 一些时间
+  * sometime 有时
 
  
