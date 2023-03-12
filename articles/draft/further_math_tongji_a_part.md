@@ -466,6 +466,24 @@
 
 1. 极限存在准则
    1. 准则 I: 迫敛定理 (夹逼定理)
+      * 情况1 : 数列型
+        * 设: 
+          * 已知
+            * $a_n\le b_n \le c_n$
+            * $lim_{n\to\infty}a_n=lim_{n\to\infty}b_n=A$
+          * 则 $lim_{n\to\infty}b_n=A$
+        * 证明: 
+          * $\forall\epsilon>0$
+          * $\because lim_{n\to\infty}a_n=A, \therefore \exists N_1>0, 当 n > N_1 时, $
+          * $|a_n-A|<\epsilon \Leftrightarrow A-\epsilon < a_n < A+\epsilon $ (*)
+          * 又 $\because lim_{n\to\infty}C_n=A, \therefore \exists N_2>0, 当 n > N_2 时, $
+          * $|c_n-A|<\epsilon \Leftrightarrow A-\epsilon < c_n < A+\epsilon $ (**)
+          * 取 $N=max\{N1,N2\} , 当 n> N 时, (*)/(**) 成立$
+          * 当 n>N 时, 有 $A-\epsilon<a_n\le b_n\le c_n<A+\epsilon$
+          * $\Rightarrow A-\epsilon < b_n < A+\epsilon \Leftrightarrow |b_n-A|<\epsilon$
+          * $\therefore lim_{n\to\infty}b_n=A$
+        * 例子1: // TODO 5:03:00
+2. 两个重要极限
 
 
 
