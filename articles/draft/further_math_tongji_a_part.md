@@ -482,8 +482,37 @@
           * 当 n>N 时, 有 $A-\epsilon<a_n\le b_n\le c_n<A+\epsilon$
           * $\Rightarrow A-\epsilon < b_n < A+\epsilon \Leftrightarrow |b_n-A|<\epsilon$
           * $\therefore lim_{n\to\infty}b_n=A$
-        * 例子1: // TODO 5:03:00
+        * 例子1: 
+          * $lim_{n\to\infty}(\frac{1}{\sqrt{n^2+1}}+\frac{1}{\sqrt{n^2+2}}+...+\frac{1}{\sqrt{n^2+n}})$
+          * 解: 
+            * 令 $b_n=\frac{1}{\sqrt{n^2+1}}+\frac{1}{\sqrt{n^2+2}}+...+\frac{1}{\sqrt{n^2+n}}$
+            * 1. $ \frac{n}{\sqrt{n^2+n} } \le b_n \le \frac{n}{\sqrt{n^2+1}}$ (找个上式中最小的, 找个上式中最大的, 证明他们极限相等, 从而利用夹逼定理, 求得 $b_n$ 的极限)
+              2. $lim_{n\to\infty}\frac{n}{\sqrt{n^2+n} } = lim_{n\to\infty}\frac{1}{\sqrt{1+\frac{1}{n}} } = 1 $ && $lim_{n\to\infty}\frac{n}{\sqrt{n^2+1} } = lim_{n\to\infty}\frac{1}{\sqrt{1+\frac{1}{n^2}} } = 1$
+            * $\therefore 原式 = 1$
+        * 例子2: 
+          * $lim_{n\to\infty}(\frac{1}{n^2+1}+\frac{1}{n^2+2}+...+\frac{1}{n^2+n})$
+          * 解: 
+            * 令 $b_n=\frac{1}{n^2+1}+\frac{1}{n^2+2}+...+\frac{1}{n^2+n}$
+            * 1. $ \frac{n^2}{n^2+n } \le b_n \le \frac{n^2}{n^2+1}$ (找个上式中最小的, 找个上式中最大的, 证明他们极限相等, 从而利用夹逼定理, 求得 $b_n$ 的极限)
+              2. $lim_{n\to\infty}\frac{n}{n^2+n } = lim_{n\to\infty}\frac{1}{1+\frac{1}{n} } = 1 $ && $lim_{n\to\infty}\frac{n^2}{n^2+1 } = lim_{n\to\infty}\frac{1}{1+\frac{1}{n^2} } = 1$
+            * $\therefore 原式 = 1$
+      * 情形2: 函数型
+        * If
+          1. $f(x)\le g(x) \le h(x)$
+          2. $limf(x)=limh(x)=A$
+        * 则 $lim g(x)=A$
+   2. 准则2: 单调有界的数列, 必有极限
+      * Note: 
+        1. $\{a_n\} 有界 \Leftrightarrow \{a_n\}有上下界$
+        2. 如果 $\{a_n\}↑ \begin{cases} 有上界 &\Rightarrow lim_{n\to\infty}a_n\exists \\ 无上界 & \Rightarrow lim_{n\to\infty}a_n 不存在 \end{cases}$ (箭头向上代表函数单调递增)
+        3. 如果 $\{a_n\}↓ \begin{cases} 有下界 &\Rightarrow lim_{n\to\infty}a_n\exists \\ 无下界 & \Rightarrow lim_{n\to\infty}a_n 不存在 \end{cases}$ (箭头向下代表函数单调递减)
+      * 例题3: 
+        * 若 $a_1=\sqrt{2}, a_2=\sqrt{2+\sqrt{2}},a_3=\sqrt{2+\sqrt{2+\sqrt{2}}}, ... $
+        * 求证: $lim_{n\to\infty}a_n\exists, $ 求此极限
+        * 证: 
+          1. 
 2. 两个重要极限
+   1. 5:34:42
 
 
 
