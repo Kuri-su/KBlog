@@ -586,6 +586,7 @@ sweep swept swept.
 **## text**
 
 * 非谓语动词
+
   1. 不作谓语的动词
   2. 什么时候用非谓语动词
      * 在已经有谓语动词的情况下, 用非谓语动词, 一个主语只能有一个谓语, 其余的 动词需要变成非谓语动词
@@ -595,7 +596,9 @@ sweep swept swept.
      * be done 不是非谓语是被动语态
      * 情态, 时态, 语态, 都是谓语的特征
      * 非谓语独立出现, 旁边没有别的动词
+
 * 非谓语动词的作用
+
   1. 相当于名词来用, 可作主语/宾语/表语, 仅(doing/to do), 另外, doing 可变成词组
      * 作主语
        * → Fishing is my favorite sport. L20
@@ -627,6 +630,110 @@ sweep swept swept.
   3. 非谓语动词的用法总结
      1. 相当于名词用, 作 主语/ 宾语 / 表语 (doing / to do)
      2. 修饰 名词 / 句子, 作 定语 / 状语 (doing / done / to do)
+
 * → Dreams of <u>finding</u> <u>lost</u> treasure almost came true recently.
-  * 
+
+  * finding 是非谓语, 介后动名词, 
+  * lost 是非谓语, 修饰后面的 名词 treasure, 
+
+* → A new machine <u>called 'The Revealer'</u> has been invented. 
+
+  * call 非谓语, called 'The Revealer' 整个是个 定语, 修饰前面的名词
+  * 如何判断哪个是谓语动词? 观察 3态1否
+
+* → and it <u>has been used(谓语)</u> to detect gold.
+
+* → which has been buried in the ground.
+
+* 英文中, 两个括号/破折号 中间的是插入语
+
+  * → The machine was used in a cave near the seashore where --- it is said --- pirates used to hide gold.
+
+* → The pirates would often bury gold in the cave and the fail to collect it .
+
+  * would + do 有两种意思,
+    1. 表示过去将来时
+    2. 表示过去常常做某时
+
+* 过去常常做某事, used to do sth. / would do sth.
+
+  1. 如果表示过去做,现在不做, 用 used to do sth. , 因为 would do sth. 仅表示过去常做某时, 不关心现在
+
+     * → I used to go to work by bus, Now I go by bus.
+
+     * → I used to be a student, I used to have many pen-friends.
+
+  2. 表示过去的状态 用 used to do sth. , would 只能表示过去动态的
+
+     1. When I was a body, I used to spend  my holiday in a factory. I would get up at 5:00 and would start working at 6:00
+
+  3. would 不能用在故事的开头
+
+  4. 其他情况下, used to do sth./would do sth. 可以随意使用.
+
+* → <u>Armed with the new machine(修饰整个句子)</u>, a search party went into the cave ...
+
+* tin n. 锡
+
+* 尽管
+
+  * In spite of + 词
+  * despite + 词
+  * Although + 句子
+  * even though + 句子
+  * though + 句子
+
+* something of value 有价值的
+
+  * = something valuable
+
+* 写作扩展
+
+  * → In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.
+    * something of value = something valuable
+      * something of great value = something very valuable
+    * very important(adj.) = of great importance(n.)
+      * very different = of great difference
+    * → Your final exam is of greate importance (main)
+      * =→ You final exam is very importance.
+    * → Chinese and English are of great difference
+      * =→ Chinese and English very different.
+    * → Studying English is of great importance.
+
+* 易混淆词
+
+  * used to do sth. 过去常常做某事(现在不这样做了)
+  * be used to sth. 习惯于某物
+  * be used to doing sth. 习惯于做某事
+  * <u>be used(被动)</u> to do sth. 被用来 去做某时
+    * get used to sth./doing sth.
+  * stand 忍受 = bear
+
+* 不规则动词变化
+
+  * dig dug dug digging
+
+## L56 Faster than sound
+
+**## word**
+
+* sound n. 声音, 一切的声音 v. 听起来
+  * voice n. 声音, 人的声音
+  * noise n. 声音, 不好的声音, 噪音
+* excitement n. 激动
+* wheel n. 轮子
+  * at the wheel 在开车
+* explosion n. 爆炸
+  * explosive n. 炸药 adj. 易爆炸的
+* course n. 跑道, 行程, 课程, 一道菜
+  * on/off the course.
+* rival  n. 对手
+* speed v. 疾驶, 加速, m. 速度
+  * speed up/ slow down
+  * reach(达到) / keep a speed.
+  * drive at the speed of 以... 速度开车
+
+
+
+
 
