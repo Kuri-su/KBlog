@@ -733,6 +733,86 @@ sweep swept swept.
   * reach(达到) / keep a speed.
   * drive at the speed of 以... 速度开车
 
+**## key structure**
+
+* 复习 形容词 / 副词 的 比较级/最高级
+* 其他表示比较的词/ 词组
+
+**## text**
+
+* race 专门比速度的比赛
+* once / twice(两次) / .... times e.g. ten times
+* → There was a great deal of excitement just before it began
+  * a lot of + 可数/不可数 : 大量
+  * a great deal of + 不可数 : 大量
+  * a great many + 可数: 大量
+  * take part 参加(比赛)
+* many time
+* → Many of the cars broke down on the course. and some drivers spent more time under their cars than in them!
+* → A few car , however, completed the race.
+* reached a speed of ... 达到...速度
+* faster than : 只能说明比...更快, 不能说明程度
+  * much faster than: 加强了程度, 快很多
+* speed sped sped
+  * → It sped down hill at the end of the race and its driver had a lot of trouble trying to stop it.
+* pleasure 愉快
+* be different from 与... 不同
+* be the same as 与...一样
+* be similar to 与... 相似
+* 其他的表示比较的词 / 词组
+  1. 修饰 或 指代 不可数名词, 表示 "许多, 大量"
+     * much (+n.)
+     * a great deal (of) (+n.)
+     * a lot (of ...) (+n.)
+     * 重复出现的时候可以忽略名词
+       * → There isn't much I do to help him.
+     * 少
+       * a little 一点 (肯定)
+       * litte 没多少了 (否定)
+  2. 修饰可数名词(必须复数), 表示 "许多, 大量"
+     * many 
+     * a great many (of)
+     * a great number (of)
+     * a lot (of...)
+     * a large number (of)
+     * a good number (of)
+     * 重复出现时, 可以省略名词
+  3. 少, 不可数
+     * a little 
+     * little
+       * → There isn't much whisky , but you can have a little
+       * → There is letter I can do to help him
+  4. 少, 可数
+     1. a few 有几个 (肯定)
+     2. few 没剩几个 (否定)
+* 扩展, 区分易混淆词
+  * 形容好看
+    * handsome 男性, 帅的
+    * beautiful 女性, 漂亮
+    * pretty 女性, 漂亮
+    * good-looking 中性, 好看的
+  * 到达
+    * reach 到达某地, 到达某个程度, 够得着某个东西
+    * arrive in/at 到达某地
+      * → The winning car reached a speed of forty miles an hour.
+      * → Will you pass me that book please? I can't reach it.
+      * → I had nearly reached the town, when the young man suddenly said...
+      * → We arrived in New York yesterday.
+      * → We arrive at the station in good time
+  * 参加和发生
+    * take part 参加
+    * take place 发生
+      * → It was the oldest car taking part.
+      * → The next race will take place in a year's time.
+* 不规则动词变化
+  * speed sped sped
+
+## L57 Can I help you, madam?
+
+**## words**
+
+* 
+
 
 
 
