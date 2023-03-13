@@ -811,7 +811,29 @@ sweep swept swept.
 
 **## words**
 
-* 
+* madam 太太, 夫人, 结婚的上了年纪的女士
+  * young lady 年轻的女士
+* jeans n. 牛仔裤
+* scornfully adv. 轻蔑地
+  * scornful adj. 轻蔑的
+  * scorn n./v. 轻蔑/蔑视
+* fur n. 各种皮毛, 裘皮
+* eager adj. 热切的, 热情的, 急切的, 渴望的
+  * be eager for sth.
+    * → The man is eager for success.
+
+  * be eager to do sth.
+    * → The stranger was eager to help me.
+
+
+**## key structure**
+
+* 复习介词
+
+**## text**
+
+* 介词
+  * 介词用于构成介词短语
 
 
 
