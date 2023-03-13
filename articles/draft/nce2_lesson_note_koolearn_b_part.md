@@ -477,4 +477,156 @@ sweep swept swept.
 
 * sticky adj. 粘的
   * sticky fingers 黏糊糊的手指
+  * sticky weather 闷热的天气
+  * stick v. 粘贴
+* pastry n. 面糊, 面团
+* annoying adj. 令人烦的, 恼人的
+* dismay v. 失望
+* recognize v. 认出
+* persuade v. 说服
+  * persuade sb. (not) to do sth.  劝说某人做某事
+  * persuade sb. into/out of doing sth. 劝说某人做某事
+* mess n. 乱七八糟
+  * What a mess !
+  * make a mess (of ...) 使... 乱
+  * be in a mess 处于乱的状态
+* sign v. 签字 n. 指示牌,符号
+  * sign your name here
+  * sign a contract
+  * signature n. 签名
+* register v. 登记, 注册
+
+**## key structure**
+
+* 冠词
+
+**## text**
+
+* flour (面粉) / flower 读音一样
+* → Nothing could have been more annoying. 没什么比这个让人更烦的了
+* pick up (接起 , 捡起) / hang up 挂断 (电弧)
+* It takes sb. some time to do sth.
+  * = To do sth. takes sb. some time.
+* There be + n. 表示有
+  * There be + n. + 介词短语, 表示有什么在那里
+* no sooner .... than ... 一....就...
+  *  → I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.
+* enough
+  * adj. I have enough time/ time enough.
+  * adv. good enough , loud enough
+* 定冠词的用法 (the)
+  1. the + adj. 表示一类, 通常表示一类人
+     * e.g. 
+       * the dead 私人
+       * the living 活人
+       * the rich 
+       * the poor
+       * the deaf 失聪的人
+       * the blind 失明的人
+       * the new 新的事物 
+       * the old 旧的事物
+       * the sick 生病的
+       * the disabled
+* go to the school 去学校
+  * go to school 去上学 (抽象概念)
+  * go to the hospital 去医院
+    * go to hospital 去看病(抽象概念)
+* → It is the most interesting film I have ever seen.
+* → Most(大部分) people enjoyed it
+  * 最高级要有 the, 没有的 the 的最高级不表示最高级
+
+## L55 Not a gold mine
+
+- gold n. 金子
+  - 可以修饰别的名词
+  - a gold mine
+  - He has <u>a gold watch</u>
+  - golden adj. <u>金色的, 珍贵的(常用)</u>, 金子制的
+    -  → He missed <u>a golden opportunity(一个珍贵的机会)</u>
+- mine n. 矿/n. 我的
+  - mineral n. 矿物, 矿物质
+    - -al adj 后缀
+  - mineral water 矿物质水
+- treasure n. 财宝
+- revealer n. 探测器
+  - reveal v. 披露, 探测
+- invent v. 发明 (从无到有)
+  - discover v. 发现(从不知道到知道)
+- detect v. 探测
+  - detective n. 侦探
+- bury v. 埋藏
+- cave n. 山洞
+- seashore n. 海岸
+  - shore n. (海/湖/大河) 的 岸
+- pirate n. 海盗 n. 盗版
+  - → Pirate of the Caribbean  加勒比海盗
+  - pirate books 盗版书
+  - pirate software 盗版软件
+- arm n. 胳膊, 武器 v. 武装
+- entrance n. 入口
+  - enter v. 进入
+  - exit n. 出口
+- worthless adj. 毫无价值的
+  - worth adj. 值...钱的
+    - → Our house is worth $20000.
+- thoroughly adv. 彻底的
+- trunk n. 树干 / 大象鼻子/ 行李箱
+- confident adj. 有信心的
+  - confidence n. 信心
+    - t 结尾的形容词, 把 t 变为 ce , 词性变为 名词
+  - self-confident adj. 有自信心的
+  - self-confidence n. 自信心
+
+**## key structure**
+
+* used to do sth.
+* would do sth.
+* 总结非谓语动词
+
+**## text**
+
+* 非谓语动词
+  1. 不作谓语的动词
+  2. 什么时候用非谓语动词
+     * 在已经有谓语动词的情况下, 用非谓语动词, 一个主语只能有一个谓语, 其余的 动词需要变成非谓语动词
+  3. 非谓语动词分几种
+     * doing/done/to do (不一定是非谓语, 必须单独出现才是非谓语)
+     * be doing 不是 非谓语是进行时态
+     * be done 不是非谓语是被动语态
+     * 情态, 时态, 语态, 都是谓语的特征
+     * 非谓语独立出现, 旁边没有别的动词
+* 非谓语动词的作用
+  1. 相当于名词来用, 可作主语/宾语/表语, 仅(doing/to do), 另外, doing 可变成词组
+     * 作主语
+       * → Fishing is my favorite sport. L20
+         * → = To Fish is my favorite sport.
+       * → Playing basketball is my favorite sport
+       * → It(形式主语) was his job to repair bicycles L31
+         * 主语后置, 可以用It 形式主语补位
+     * 作宾语, 介宾用  doing , 动宾用 doing/to do 
+       * → I often fish for hours without(介) catching anything.
+         * 介词后面只能接代词/名词/动名词 , 所以此处只能用 doing
+       * → Both men started <u>running through the trees (关于 doing 的词组)</u>. L44
+         * =→ Both men started <u>to run through the trees(to do 的词组)</u>
+     * 作表语
+       * → My dream is traveling around the world
+         * =→ My dream is to traveling around the world. 
+  2. 作定语修饰名词, 或者作状语修饰句子(doing/done/to do)
+     * 通常就近修饰, 在这种情况下, doing 表主动, done 表被动, to do表目的, 即将去做
+     * 修饰名词作定语
+       * → <u>Passing planes(经过的飞机)</u> can be heard night and day
+       * → I was the only passenger <u>left on the bus</u> 修饰前面的 passenger
+       * → I have a lot of homework <u>to do</u>. 修饰前面的 homework.
+       * 需要知道修饰谁, 会比较容易看懂句子, 写的时候也要知道在修饰谁.
+       * 短的放前面, 长的放后面
+     * 修饰句子
+       * → <u>Looking round</u>, I realized that I was the only passenger
+         * Looking round 前后没有名词, 而且 逗号隔开, 修饰整个句子(的主语)
+       * → <u>Armed with the new machine</u>, they went into the cave.
+       * → I sat in the front of the bus <u>to get a good view</u>.
+  3. 非谓语动词的用法总结
+     1. 相当于名词用, 作 主语/ 宾语 / 表语 (doing / to do)
+     2. 修饰 名词 / 句子, 作 定语 / 状语 (doing / done / to do)
+* → Dreams of <u>finding</u> <u>lost</u> treasure almost came true recently.
   * 
+
