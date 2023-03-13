@@ -511,7 +511,7 @@
         * 求证: $lim_{n\to\infty}a_n\exists, $ 求此极限
         * 证: 
           1. $a_{n+1}=\sqrt{2+a_n} ,(n=1,2,3,...)$
-          2. $\therefore \{a_n\}↑$, 显然
+          2. $\therefore \{a_n\}↑$(单调递增), 显然
           3. 现证 $a_n\le 2$
              * $n=1时, $
 2. 两个重要极限

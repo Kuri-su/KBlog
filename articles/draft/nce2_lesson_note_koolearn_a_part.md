@@ -1382,7 +1382,7 @@ ous 结尾 (adj. 后缀)
       * → You have got a lot of money.
       * --
       * → You don't have a lot of money
-      * → You have not got alot of money
+      * → You have not got a lot of money
       * --
       * → Do you have a lot of money?
       * → Have you got a lot of money?  (不建议)
@@ -1495,7 +1495,7 @@ ous 结尾 (adj. 后缀)
 
      * → Playing basketball is my favourite sport. (doing sth.)
 
-     * → <u>Playing backetball with my friends every Sunday(主语)</u> is my favourite sport.
+     * → <u>Playing basketball with my friends every Sunday(主语)</u> is my favorite sport.
 
   2. 介词后, 作宾语 (介词后只能接名词 / 代词)
 
@@ -1518,9 +1518,9 @@ ous 结尾 (adj. 后缀)
   * be interested in .... 在某方面感兴趣
 * doing 和 having done 的区别
   * doing 表示主动 或 正在进行
-    * →  I must apologinze for interrupting you.
+    * →  I must apologize for interrupting you.
   * having done 强调发生在之前 (不是很懂这是个什么时态... 查了下似乎是完成时态动名词)
-    * →  I must apologinze for having interrupted you.
+    * →  I must apologize for having interrupted you.
 
 ## L21 Mad or not ?
 
@@ -1714,7 +1714,7 @@ ous 结尾 (adj. 后缀)
   * → The modern building looks strange to some people.
   * stranger n. 陌生人 / 奇怪的
 * district n. 地区
-  * CBD = central Bussiness District
+  * CBD = central Business District
 
 **## text**
 
@@ -2350,8 +2350,8 @@ ous 结尾 (adj. 后缀)
     * → Her mother is as beautiful as she was.
     * → Her mother is as beautiful as she used to be.
   * 过去和现在比
-    * → Travelling was not as easy as today
-    * → Travelling was not as easy as it is today
+    * → Traveling was not as easy as today
+    * → Traveling was not as easy as it is today
   * 与可能的相比
     * → I will do it as quickly as possible.
     * → I will do it as quickly as I can.
@@ -2504,7 +2504,7 @@ ous 结尾 (adj. 后缀)
   * much more exciting
   * a lot more exciting
 * 当过去正在发生事情的时候, 突然被大段, 用过去进行时 + 一般过去时 搭配 when
-  * → When he was driving along Catford street recently, he saw two thieves rush out of a shop and run towards a waiting car.
+  * → When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.
 * so...that / such ... that 如此... 以至于太... , 所以
   * that + 结果状语从句
   * so + adj./adv+ that ...
@@ -2813,7 +2813,7 @@ ous 结尾 (adj. 后缀)
           * → What would you do if you won a lot of money?
           * → He would enjoy this if he were present(adj. 出席的).
           * → I am not you, so I can't make the decision.
-            * → If I were you, Icould make the decision.
+            * → If I were you, I could make the decision.
           * → You make the arrangements, so it will save us a lot of trouble.
             * → If you didn't make the arrangements it wouldn't save a lot of trouble.
           * → If I could rearrange the alphabet, I would put you I together.
@@ -2924,8 +2924,8 @@ ous 结尾 (adj. 后缀)
   * have a glimpse of ...
     * →  We had our first glimpse of the snake.
 * continue to do = continue doing
-* abviously adv. 显然地
-  * abvious adj. 显然的
+* obviously adv. 显然地
+  * obvious adj. 显然的
 * tell the difference between A and B
   * difference n. 差别
   * different adj. 不同的
@@ -2995,7 +2995,7 @@ ous 结尾 (adj. 后缀)
 * lie v. 
   * 趟/处于, 位于 lie , lay , lain ,lying
     * 表示过去的 "躺/处于,位于"
-      * →  The begger lay there yesterday.
+      * →  The beggar lay there yesterday.
   * 说谎 lie, lied , lied , lying.
   * 不表示过去, 作动词原型, 表示 放置/摆放, 产卵/下蛋
     * lay, laid , laid
@@ -3125,7 +3125,7 @@ ous 结尾 (adj. 后缀)
   * 含义: 动词 当名词用
   * 用法: 
     1. 作主语
-       * →  Fishing is my favourite sport.
+       * →  Fishing is my favorite sport.
     2. 介词后作宾语
        * →  I often fish for hours without catching anything.
 * 特殊的介词 to
@@ -3256,7 +3256,7 @@ ous 结尾 (adj. 后缀)
   * doing 通常主动 / being dong 被动
     * →  He was so surpried at discovering. (主动发现)
     * →  He was so surpried at being discovered. (被发现)
-    * →  Hewas delighted at being promoted to senior manager.
+    * →  He was delighted at being promoted to senior manager.
 
 * for 
 
@@ -3392,7 +3392,7 @@ ous 结尾 (adj. 后缀)
   * wool 羊毛
   * cotton wool 药棉
 * collect v. 收集
-  * collect evidence 证据 / infomation
+  * collect evidence 证据 / information
   * collect match boxes / stamps
   * collection n.  
 * match 火柴
