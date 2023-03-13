@@ -833,7 +833,41 @@ sweep swept swept.
 **## text**
 
 * 介词
-  * 介词用于构成介词短语
+  * 介词用于构成介词短语, 对整个句子进行补充
+  * In(体)/on(面)/at(点)
+    * 地点: in 表示里面, on 表示上面, at 表示点
+    * 时间: in 接大的范围(年月季上午下午晚上), on 接天, at 时间点 
+  * to 朝着某个方向
+  * into / out of : 动态的进入/出来
+  * with: 伴随着有
+  * without: 伴随着没有
+* in + 衣物: 表穿着
+* though + 让步状语从句
+* wear(表主动) /dress (穿衣, 表主动只能接人(sb.))
+  * be dressed (in+衣服)
+    * 用被动式表示意义上的主动
+* be eager to do sth. 热切的做...
+* 非谓语 + 宾语从句
+* as soon as 一.. 就...
+* 享受做某事, enjoy + doing
+* make sb. (to) do 使某人做某事
+* 课文扩展: 使役动词
+  * 使役动词: 使某人做某事
+    * make sb. (to) do / let sb. (to) do 两个都是省略 to 的不定式
+      * make sb. do 有强迫的色彩
+      * let sb. do 有建议的语气, 有许可的含义
+      * → She made the assistant bring almost everything in the window.
+      * → The teacher made the boy write the exerciceagain.
+      * → Let's take a taxi
+      * → Don't let the children touch anything in the room please.
+* 不规则动词变化
+  * seek sought sought 寻找
+
+## L58 A blessing in disguise?
+
+**## word**
+
+* 
 
 
 
