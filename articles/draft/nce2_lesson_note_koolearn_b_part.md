@@ -867,6 +867,17 @@ sweep swept swept.
 
 **## word**
 
+* blessing n. 福气, 福分, 好事
+  * bless v. 保佑
+  * → God bless you!
+
+* disguise.
+  * n. 伪装 
+    * a blessing in disguise 因祸得福
+
+  * v. 伪装
+    * disguise one's voice
+
 * 
 
 
