@@ -513,15 +513,26 @@
           1. $a_{n+1}=\sqrt{2+a_n} ,(n=1,2,3,...)$
           2. $\therefore \{a_n\}↑$(单调递增), 显然
           3. 现证 $a_n\le 2$
-             * $n=1时, $5:29:00
+             * n=1 时, $a_1=\sqrt{2}\le2;$
+             * 当 n = k 时, 设 $a_k\le 2;$
+             * 当 n = k +1 时, $a_{k+1}=\sqrt{2+a_k}\le\sqrt{2+2}=2$
+             * $\therefore \forall n, 有 a_n \le2$
+             * $\therefore lim_{n\to\infty}a_n 存在$
+          4. 令 $lim_{n\to\infty}a_n=A$
+             * 由 $a_{n+1}=\sqrt{2+a_n} \Rightarrow A=\sqrt{2+A}$
+             * $\Rightarrow A^2-A-2=0$
+             * $\Rightarrow A=-1 (舍) , A=2$
 2. 两个重要极限
-   1. 5:34:42
+   1. $lim_{x\to0}\frac{sinx}{x}(lim_{x\to0}\frac{sim\Delta}{\Delta})$
+      * 5:34:42
+   2. 
 
 
 
 
+### 第七节 无穷小的比较
 
-
+6:17:00
 
 
 
