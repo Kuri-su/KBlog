@@ -899,6 +899,105 @@
 * promontory(headland): a long narrow area of high land that sticks out into the sea.小海角, 峭壁
 * cape: a very large piece of land sticking out into the sea. 地理上的大的海角, 例如好望角.
 * At one time = once 曾经
-* 
+  * 这座城市肯定经历过繁荣
+    * → The city at one time must have seen/known prosperity.
+* 享有 enjoy
+  * enjoy good health 有个好健康
+  * enjoy a high standard of living 享有高水平的生活
+  * →  The garments are magnificent and tasteful and have long <u>enjoyed</u> great fame both at home and abroad.
+    * at home and abroad 国内外
+  * 同义词
+    * be blessed with... 幸运的拥有(were lucky in having)
+      * →  They <u>were blessed with</u> two children, a boy and a girl.
+    * be endowed with... 被赋予
+      * →  She is endowed with both brains and beauty.
+        * brains 的复数是智慧的意思, 如果用 intelligent的话,  和 beauty 不押韵
+      * → We hold these truths to be self-evident, that all men are created equal, that they <u>are endowed</u> by the Creator <u>with</u> certain unalienable rights. that among these are life, liberty, and the pursuit of happiness.      --- *Declaration of Independence*  by Thomes Jefferson
+* boast 有(好的东西)(事物做主语) - 词法比语法难
+  * boast 如果用人做主语是 指吹牛, 说大话
+  * boast 如果用事物做主语才表示 有 (好的东西)
+  * → There is a lot of beautiful scenery in China. (不佳)
+    * → China boasts a lot of beautiful scenery. (佳)
+* 表示从属的 with
+  * a girl with blue eyes
+  * a mug with a broken handle
+* 表示被... 的东西, 可以用 过去分词限定名词, 然后再用 adv. 在前面去加工
+  * a vastly improved method 一个极大改善的方法
+  * a much acclaimed novel 一个受到赞扬的小说
 
-  
+* 英文是层次结构, 可以不断的套, 像一棵树,  中文是像竹子一样的结构, 
+  * ![image-20230315122450170](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230315122450170.png)
+
+* equip v. 装备, (及物动词)
+  * equip A with B
+  * be equipped with ... 
+  * 名词形式: 
+    * equipment n. 设备 (不可数)
+  * → The classrooms <u>are equipped with</u> modern multimedia teaching equipment.
+* a great many (of) ... + 可数名词复数
+  * a great number of ... + 可数名词复数
+  * a great amount/deal of ... + 不可数名词
+* clay n. 陶土
+* 表示 在上方和在下方的 介词辨析
+  * beneath / underneath → on
+    * 表示紧贴着在上方或者在下方, 注意 on 的读音, 是前鼻音
+  * under → over 
+    * 表示隔着一段距离的上方和下方, 
+  * below → above 
+    * 表示海平面的上方或者下方, 不一定是正下方, 可能距离很远, 但相比海平面的位置低于或者高于
+
+**## text part 2**
+
+* → The temple <u>which the archaeologists explored</u> **was used as** a place of worship <u>from the fifteenth century B.C. until Roman times</u>.
+
+* 被用作的主动和被动写法
+  * 被动
+    * be used as ... 被用作, 当成什么来用, 发挥什么功能
+      * → The wooden box <u>is used as</u> a seat.
+  * 主动
+    * act / serve / function as .... 被用作, 当成什么来用, 发挥什么功能
+      * → The wooden box acts / serves / functions as a seat.
+      * → (NCE3-25 P122-L3) She <u>serves as</u> an impressive reminder of the great ships of the past.
+* B.C. (BC): Before Christ
+  * A.D. (AD): Anno Domini (拉丁文)
+  * Roman times: 500 B.C.
+    * times 在这里不是代表时间的复数, 代表的是**时代**
+      * in modern / recent / ancient / prehistoric times
+        * 当代/近代/古代/史前时代
+      * in times of .... 在某个年代
+        * In times of peace / war
+          * 在和平时期 / 在 战争时代
+          * → (NCE3-14 P66-L12) In times of peace, when business was bad, Hawkwood and his men would march into a city-state ... 
+      * 同义词: 
+        * age 时代
+          * the Ice Age 冰河时代
+          * the Stone Age 石器时代
+          * the modern age 现代
+          * the computer age 计算机时代
+        * era 时代, 时期 (相对正式)
+          * the steam-engine era
+          * **mark the end of an era**
+            * → His death marked the end of an era.
+          * **mark the beginning of a new era**
+            * → (NCE3-25 P122-L9) It <u>marked</u> the end of the great  tradition of ships with sails and <u>the beginning of a new era.</u>
+            * → The foundation of the People's Republic of China <u>marked the beginning of a new era.</u>
+* 类似的音变, 读起来会省力
+  * t + j(半元音) = tʃ (常见)
+    * don'<u>t y</u>ou
+    * won'<u>t y</u>ou
+    * las<u>t y</u>ear
+    * si<u>tu</u>ation
+  * d + j(半元音) = dʒ (常见)
+    * di<u>d y</u>ou
+    * woul<u>d y</u>ou
+    * gra<u>du</u>ate v. 毕业 n. 毕业生
+    * cre<u>du</u>lous 
+  * s + j (半元音) = ʃ (不一定会发生这个变化, 语速特别快的时候会比较常见)
+    * thi<u>s y</u>ear
+    * Blus<u>s y</u>ou.  上帝保佑你
+    * I promi<u>se y</u>ou.
+  * z + j(半元音) = ʒ (不一定会发生这个变化, 语速特别快的时候会比较常见)
+    * May I us<u>e y</u>our book?
+    * How'<u>s y</u>our father?
+  * 更详细的在 American Accent Training.
+* 
