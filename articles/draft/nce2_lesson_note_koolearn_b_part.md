@@ -903,10 +903,189 @@ sweep swept swept.
   * gain / get / earn (都表示 获得) + an evil reputation(名声)
 
 * claim v. 领取, 索取 v. 声称, 主张, 断言
-  * 
+  * → The hurricane claimed hundreds of victims.
+  * claim the baggage(行李)
+  * → She claimed that she had won the match.
+* source n. 来源
+  * the source of income
+  * the source of infomation
 
+* trunk n. 树干, 箱子, 大象的鼻子
 
+**## key structure**
 
+* 复习被动语态
+* 强调句
 
+**## text**
 
+* be said 被说, 据说
+  * → The number of visitors to Frinley has now .
+* increased 增长
+* the number of + 可数名词复数, "...的数量", 如果做主语, 后接 第三人称单数 动词
+  * 区分 `the number of` 和  `a number of `
+    * the number of  ...的数量, 
+      * 后接三单动词
+    * a number of + 可数名词复数  "许多/大量"
+      * 后接动词
+* 强调句
+  * → The tree was planted near the church fifty years ago, but <u>it is **only in recent years(强调的内容)** that it has gained on evil reputation.(强调句)</u>
+  * 强调句的结构
+    * It's ...(强调句的内容) that ... 
+    * It is + 强调的部分 + that + 句子余下的部分
+  * 变化
+    * It is/was + 强调的部分 + that/who + 句子余下的部分
+      * 英语中, 没有未来的用 现在时 代替
+  * 不能强调什么
+    * 不能强调 adj. 和 v.
+      * → It(形式主语) was obvious that he was very embarrassed. 不是强调句
+    * 判断句子是否能够还原, 来进而判断是否是强调句
+      * → It is said that he has returned from English. 不是强调句
+      * → It is said that if anyone touches the tree , he will have bad luck; If he picks a leaf, he will die.
+  * 例句
+    * → I want to go to America this summer.
+      * → It's <u>America</u> that I want to go to this summer. 强调 America
+    * → Tom went camping whith Jerry
+      * → It was Tom that/who went camping with Jerry
+    * → We used to have meetings in the cafe.
+      * → It was in the cafe that we used to have meetings.
+    * → Men can solve the problem of natural disaster only by controlling the environmental pollution.
+      * → It is only by controlling the environmental pollution that men can solve the problem of natural disaster.
+* → Many villagers believe that the tree has already claimed(索取) a number of victims(受害者)
+* has been asked 之前被要求 
+* so far ... 截至到现在, 用现在完成时
+* point  有点出/指出的意思
+* tourist 游客
+* as 因为
+* In spite of 尽管... , 不能够接句子, 后接词
+  * although , though , even though 是连词, 可以接句子
+  * → In spite of all that has been said , the tourists have been picking leaves and cutting their names on the tree-truck.
+* 被动语态
+  * be + done 中
+    * done表示 1. 被动的动作
+    * be 表示 2.被动的时态 和 3.主语的单复数
+* 双宾语动词的被动语态
+  * 例子
+    * She gave me a pen = She gave a pen to me.
+      * I was given a pen by her = A pen was given to me.
+    * The manager offered the vacant post to him.= The manger offered him the vacant post.
+      * The vacant post was offered to him by the manager. = He was offered the vacant post by the manager.
+  * 写作中的应用
+    * → People say (that) he is a genius.
+      * 中文中常是 sb. 说了什么事, 以人为主体
+      * 英文中常以 `什么事为主体` (写作时需注意)
+      * 方法 1: 用 be said to do 
+        * → He is said to be a genius
+      * 方法2 : 形式主语 + 主语从句
+        * → It(形式主语) is said <u>that he is a genius.(主语从句)</u>
+    * → People say (that) is oil under the North Sea.
+      * → There is said to be oil under the North Sea.
+      * → It is said that there is oil under the North Sea.
 
+## L59 In or out?
+
+**## text**
+
+* bark v. 狗叫 (也可以表示人叫, 但有贬低的色彩)
+* press v. 按压 n. 出版社, 新闻界
+  * press the button
+  * press any key to continue.
+  * pressure n. 压力
+    * relieve the pressure
+    * the pressure of life/work
+* paw n. 脚爪
+* develop v. 发展, 开发
+  * develop a bad/good habit
+  * a developing country
+  * a developed country.
+
+**## key structure**
+
+* 复习课
+* 表示目的的几种方式
+
+**## text**
+
+* complain of/about
+* spend + 时间/钱 + on sth./(in) doing sth.
+* train sb. to do sth.
+* → He ran to the station <u>so that</u> he caught the train. 结果状语从句, 已经完成了
+  * → He ran to the station <u>so that</u> he might catch the train. 目的状语从句, 尚未完成
+* 表示目的的几种方式
+  1. 用词组表示目的 (主语必须相同)
+     * in order to do sth.
+     * so as to do sth.
+     * to do sth.
+  2. 用从句表示目的状语从句 (主语可以不同)
+     * so that / in order that + 句子 (有情态动词)
+  3. 例子
+     * 1
+       * → He ran to the station
+       * → he wanted to catch the last rain.
+         * → He ran to the station to/in order to / so as to catch the last train.
+         * → He ran to the station so that/ in order to that he would catch the last train.
+     * 2
+       * → I opened the door quietly
+       * → I didn't want to disturb him.
+         * → I opened the door quietly not to/ in order not to / so as not to disturb him.
+         * → I opened the door quietly so that/ in order that I would not disturb him.
+     * 3
+       * → The thief ran quickly
+       * → The policeman couldn't catch him
+         * → The thief ran quickly so that/in order that the policeman couldn't catch him.
+  4. 主语不同的词组表示目的
+     * for sb. to do
+     * in order for sb. to do
+     * so as for sb. to do.
+
+## L60 The future
+
+**## word**
+
+* future n. 未来, 前途
+  * in the (near/distant) future
+  * look forward to the futurn
+* fair n. 小集市, 展览会 adj. 公平的 
+  * fair enough
+* fortune-teller n. 算命的人
+  * fortune n. 运气, 命运
+* crystal n. 水晶
+* relation n. 亲属
+  * 等价 relative n. 亲属
+  * relationship n. 关系
+* impatiently adv. 不耐烦地
+  * im+(p/m)开头的单词, 表否定
+    * impatient adj. 没有耐心的, 不耐烦的
+      * patient adj. 有耐心的 n. 患者, 病人
+        * patiently adv. 耐心的
+
+**## key structure**
+
+* 复习表示将来的各种时态
+
+**## text**
+
+* 名词修饰名词
+  * a village fair
+  * a school bus
+  * a birthday present
+  * a door key
+  * a crystal ball
+* intends to 打算做
+* the moment 引出时间状语从句
+  * → the moment you leave this tent, you will get a big surprise.
+  * 时间状语从句用 一般现在时 表示将来
+* → <u>A woman(主)</u> <u>you主</u> <u>know谓</u> well <u>will rush谓</u> towards you.
+  * 中间的是从句
+* 复习表示将来的各种时态
+  * L12 一般将来时(现在的将来), will do (将来有可能发生的事), am/is/are going to do (事前有计划打算)
+  * L2 现在进行时, am/is/are doing (I'm coming to see you) 表示确定的将来, 通畅与 来/去 的动词搭配
+  * L13 将来进行时, will be doing (表示确定的将来)
+  * L16,36 一般现在时 do/does 
+    1. 状语从句 (条件/时间)
+    2. 有计划表的将来
+       1. →  The trains arrives at 9:00 am
+
+## L61 Trouble with the Hubble
+
+**## word**
