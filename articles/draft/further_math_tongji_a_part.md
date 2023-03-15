@@ -534,7 +534,18 @@
 
 6:17:00
 
+* 主要注重于 无穷小的比较
 
+1. 无穷小的概念与性质
+   * 定义: $如果 lim_{x\to x_0}\alpha(x)=0, 称 \alpha(x)当 x\to x_0 时为无穷小$
+     * 简称: 以 0 为极限的函数叫做无穷小
+   * 性质: 
+     1. $\alpha\to0,\beta\to0, 则 \begin{cases} \alpha\pm\beta \to 0 \\ k\alpha\to0\\\alpha\beta\to0\end{cases}$
+     2. $\alpha\to0, |\beta|\le M, 则 \alpha\beta\to0$
+        * 证明:  // TODO
+     3. $limf(x)=A \Leftrightarrow f(x)=A+\alpha,\alpha\to0$
+2. 无穷小的比较
+   * 
 
 
 
