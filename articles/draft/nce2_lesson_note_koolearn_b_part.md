@@ -878,7 +878,33 @@ sweep swept swept.
   * v. 伪装
     * disguise one's voice
 
-* 
+* tiny adj. 极小的 (very very small)
+  * 比 micro 还小
+
+* possess v. 拥有 (正式写法)
+  * own/have (日常使用)
+  * possession n. 拥有, 拥有权
+
+* cursed adj. 可恨的
+  * curse v. 诅咒, 咒骂
+  * a cursed tree 被诅咒的树
+
+* increase v. 增加, 上涨
+  * rise / grow / go up / climb 都可以表示上升/ 增加
+  * decrease v. 减少, 降低, 下降
+    * decline / go down / drop / fall 都可以表示下降
+
+* decade 十年
+
+* plant v. 种植, 安放
+  * plant a boomer in the place
+
+* evil adj. 坏的, 邪恶的 (比 bad 更坏)
+  * gain / get / earn (都表示 获得) + an evil reputation(名声)
+
+* claim v. 领取, 索取 v. 声称, 主张, 断言
+  * 
+
 
 
 
