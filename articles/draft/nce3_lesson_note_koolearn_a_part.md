@@ -1000,4 +1000,48 @@
     * May I us<u>e y</u>our book?
     * How'<u>s y</u>our father?
   * 更详细的在 American Accent Training.
-* 
+* represent v. 代表
+  * stand for v. 代表
+  * 上述两个词 都可以作谓语动词用
+  * → Honey, this gold ring <u>stands for / represents</u> my love for you.
+  * 做状语的 代表
+    * on behalf of sb. 如果somebody 是名词或者比较长, 那么通常用这种形式
+    * on one's behalf 如果是代词, 就直接用属格放中间即可
+      *  → <u>On behalf of</u> the entire company, I would like to thank you for all your work.
+      * → Unfortunately, George cannot be with us today so I am pleased to accept this award <u>on his behalf.</u>
+        * pleased 高兴
+* date from ... 从某个时候就有了, 可以追溯到某时
+  * date from(主动) 可以把 date from 变非谓语动词 dating from 做后置定语 
+  * date back to... (主动) 可以追溯到
+  * can be traced back to .... (被动) 可以追溯到
+  * 动词的主动被动要注意看单词, 这个和每个单词的用法有关
+    * 造句: 丝绸之路(the Silk Road) 的 繁荣可以追溯到 遥远的汉朝
+      * → The prosperity of the Silk Road <u>dates from</u>/ <u>dates back to</u> / <u>can be traced back to</u> the distant Han Dynasty.
+        * distance 距离 n.
+        * distant 遥远的 adj.
+* happen to do 碰巧, (p 被浊化)
+  * 如果表示发生的话, 那么 这里 happen 后面是不能加动词不定式的, 因为 happen 是不及物动词.
+  * sth. happen to(介词) sb. 这个才表示 发生
+    * → A car accident <u>happened to</u> him. 一场车祸发生在他的身上
+  * 动词的搭配往往决定了动词的含义
+  * it happen that 碰巧
+    * → We <u>happened to take</u> the same train.
+    * → <u>It happened that</u> we took the same train.
+  * chance to do 碰巧 (另一种表达)
+    * → We <u>chanced to</u> take the same train.
+  * it chance that 碰巧 (另一种表达)
+    * → It chanced that we took the same train.
+  * 做状语的碰巧
+    * by chance
+    * by accident
+    * accidentally
+      * → We took the same train <u>by chance</u> / <u>by accident</u> / <u>accidentally</u>.
+  * as it happen 碰巧 (习语搭配, 不能翻译成 它发生时)
+    * 通常放在句首, 后面加一个逗号
+    * 比较口语化的用法
+    * → As it happended, we took the same train.
+  * as luck would have it 碰巧
+    * 口语化的用法
+    * → As luck would have it, we took the same train.
+
+**## part 3**
