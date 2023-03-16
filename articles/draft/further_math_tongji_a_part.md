@@ -545,7 +545,11 @@
         * 证明:  // TODO
      3. $limf(x)=A \Leftrightarrow f(x)=A+\alpha,\alpha\to0$
 2. 无穷小的比较
-   * 
+   *  
+
+### 第八节 函数的连续性与间断点
+
+* 
 
 
 
