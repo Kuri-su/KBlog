@@ -1045,3 +1045,68 @@
     * → As luck would have it, we took the same train.
 
 **## part 3**
+
+* In Classical time 在古罗马时代
+* preserve v. 保护 (保护在好的状态 in good condition)
+  * preserve one's eyesight(保护视力) / food (保存事物, 不让腐朽坏掉)
+  * 类似的词的辨析
+    * conserve v. 保护(强调的是保护它不让数量再减少)
+      * conserve wildlife(保护野生动物) / resources (保护资源)
+    * reserve v. 保护 (保护起来, 以备未来使用)
+      * → <u>Reserve</u> your energy for the climb tomorrow. 保存你的体力,为了明天爬山
+      * → I <u>reserve</u> the right(权利) to disagree.
+      * reserve a table for 2 预订一个二人桌
+        * tea for 2 鸳鸯茶(一杯茶两个人喝, 情侣)
+* precious adj. 宝贵的 (美语中, 如果没有 r 的大多数情况是不卷舌的.)
+  * nervous adj. 紧张的
+  * anxious adj. 焦虑的
+* surprise adj. 惊喜的, 惊讶的
+  * astonish adj. 惊讶的 (因为难以置信的事情)
+    * → (NCE2-46 P206-L5) He was <u>astonished</u> at what he found. A man was lying in the box on top of a pile of woolen goods.
+  * amaze adj. 惊讶的 (强调搞不清楚, 迷惑不解)
+    * → They were <u>amazed</u> to find that the goddess turned out to be a very modern-looking woman.
+  * astound adj. 惊讶的 (强调把某人给惊呆了, 更加让人惊讶的, 发愣, 变成一块石头一样)
+    * → (NCE3-19 P86-L16) The police were <u>astounded</u> when Mrs. Ramsay told them what she had done.
+* turn out to be 原来是
+  * → Eric's girlfriend <u>turned out to be</u> his half-sister.
+  * prove (to be ) 被证明是
+* adj.-doing 构词法
+  * → (NCE3-34 P158-L17) an interesting-looking(看上去有趣的) carved(雕花的) dagger(匕首).
+  * hard-working
+  * Easy-going 随和的, 好相处的
+* stand 表示有多高的意思, 不表示站着
+  * → The tower stands 15 meters (high).
+  * weigh 表示有多种,不表示重量
+    * → The boy weights 50 kilos.
+  * measure 表示有多宽,或者有多长
+    * → The carpet measures 5 meters long.
+      * carpet 地毯,满铺地毯, 比较大张的
+        * rug 装饰用的小地毯
+      * 5 meters long.
+        * 3 meters across.
+* rested on 搭在
+  * → Her hands <u>reseted on</u> her hips.
+  * → Her face <u>rested on</u> her hands.
+* sweep 扫地
+  * full-length skirt 拖地长的裙子
+* 让步介词 despite (尽管)
+  * 类似的介词还有, 表示尽管
+    * in spite of
+    * notwithstanding (文言)
+    * 变连词引导从句
+      * In spite of <u>the fact that</u> ....(同位语从句, 解释 the fact, 直译就是尽管这些事实, 什么事实? 后面跟同位语从句)
+      * despite <u>the fact that</u> .... 
+        * → (NCE3-52 P236-L2) Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.
+  * 也表示尽管, 但是是连词, 引导让步状语从句
+    * though + 从句
+    * although + 从句
+    * even though + 从句
+    * while (书面语中常用) + 从句
+* 如何写出引人入胜的叙事类文章?
+  * 制造悬念 (有趣发现) -> 层层深入, 迫近主题 (古城->庙宇->殿堂->神像)-> 解释谜底, 故事高潮(身首异处, 摩登女郎)-> 尾声, 意犹未尽(身份未知)
+
+## L4 The double life of Alfred broggs.
+
+**## word**
+
+* 
