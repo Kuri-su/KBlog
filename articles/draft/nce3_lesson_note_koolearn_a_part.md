@@ -1109,4 +1109,14 @@
 
 **## word**
 
-* 
+* manual /补音标/ adj. 体力的, 手动的
+  * 
+* collar /补音标/ n. 衣领
+  * .
+* sacrifice /补音标/ v. 牺牲, 献出
+  * .
+* privilege /补音标/ n. 特权, 特殊的好处
+  * .
+* corporation /补音标/ n. 公司
+  * .
+* // 补笔记
