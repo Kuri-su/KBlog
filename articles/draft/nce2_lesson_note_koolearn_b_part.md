@@ -1090,3 +1090,40 @@ sweep swept swept.
 
 **## word**
 
+* space n. 空间
+  * outer space 外太空
+  * spaceship
+  * space station
+  * → At the moment, they cover every inch of floor space.
+* faulty adj. 有错误的
+  * fault n. 错误, 故障
+* hundred
+  * thousand 千
+    * five thousand_ (不加s)
+    * thousands of (加s)
+  * million 百万
+  * billion 十亿
+    * hundreds of 
+  * trillion 兆
+* shuttle n. 往返的, 班车/ 班机
+* grab v. 抓
+  * grabbed 
+  * grabbing
+* atmosphere n. 大气层, 氛围
+* distant adj. 有距离的
+  * distance n. 距离
+* universe n. 宇宙
+  * universal adj. 宇宙的, 普遍的, 通用的
+* eagle eye n. 突起的镜头
+
+**## key structure**
+
+* 将来进行时 (复习)
+* 将来完成时 (复习)
+* 将来完成进行时 
+* 分析长难句
+
+**## text**
+
+
+
