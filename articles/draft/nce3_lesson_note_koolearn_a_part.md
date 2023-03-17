@@ -1109,14 +1109,83 @@
 
 **## word**
 
-* manual /补音标/ adj. 体力的, 手动的
-  * 
-* collar /补音标/ n. 衣领
-  * .
-* sacrifice /补音标/ v. 牺牲, 献出
-  * .
-* privilege /补音标/ n. 特权, 特殊的好处
-  * .
-* corporation /补音标/ n. 公司
-  * .
-* // 补笔记
+* manual /ˈmænyuəl/ adj. 体力的, 手动的
+  * manual work/labor(劳动)
+  * 反义词: 
+    * mental(脑力的)
+      * mental work/ labor
+      * 有关的词
+        * spiritual 精神的 adj.
+          * 反义词: 
+            * material adj. 物质的
+  * 字根: 
+    * "man(u)"=hand (带这个字根的词通常与 手, 或者手工制作的 有关) 
+      * **manu**facture 批量制作 (过去是手工制作)
+        * (NCE3-26 P126-L12) biscuit <u>**manu**facturers</u>. (饼干生产厂家)
+        * (NCE3-45 P208-L20) soap <u>**manu**facturers</u>. (肥皂厂家)
+      * **man**acle 手铐 n.
+      * **manu**script 手稿 n.
+        * script v. 写
+      * e**man**cipate 解放 v.
+        * e(x) 前缀有出来的意思
+        * emancipate slaves
+        * the <u>emancipation(n. 解放)</u> of women
+          * tion 是名词后缀
+        * the <u>Emancipation</u> Proclamation 废奴宣言
+* collar /ˈkɑlər/ n. 衣领
+  * 元音读法辨析: ɑ, ʌ, ə
+    * ɑ 和中文拼音的 a 是一个读音
+    * 美音中 ʌ, ə 是同一个读音,嘴唇松弛 , 嘴巴微张开, 喉咙发生, 声音类似于 拼音的e第一声. 区别在于重读音节中用 ʌ, 弱读音节中用 ə 
+      * 口语中读错和书写中拼写错误一样的严重性
+      * above [**ə**'b**ʌ**v]
+      * color /'kʌlər/
+      * Hi, b**u**ddy! /ʌ/
+      * m**u**ch /ʌ/
+      * I love you, honey. /ʌ/
+      * → The c**o**lor/ʌ/ of the c**o**llar/ɑ/ is white.
+  * <u>white-collar</u> workers
+  * <u>blue-collar</u> workers
+  * v. 揪住领子
+    * → The policeman <u>collared</u> the thief. 警察一把揪住了小偷的领子
+  * 动词名词是同一个单字的情况
+    * tie a tie v. 系,捆,扎 n. 领带
+    * sign a sign v. 叹气, n. 叹出的气
+    * wish a wish v. 许愿 n. 许的愿望
+      * I wished a wish on the star.
+  * 名词动词不是同一个词但是相近
+    * dream a dream v. 做梦 n. 梦, 梦想
+    * die a glorious death 死的光荣 v. 死, n. 死
+    * breathe one's last breath v. 喘气, n. 呼吸
+* sacrifice /ˈsækrəˌfaɪs/ v. 牺牲, 献出
+  * sacrifice ... for ... 为了某个目的而牺牲了宝贵的东西
+    * → Many women <u>sacrifice</u> their careers <u>for</u> their families.
+    * → (NCE3-4 P26-L4) Such is human nature, that a great many people are often willing to <u>sacrifice</u> higher pay <u>for</u> the privilege of becoming white-collar workers.
+    * → (NCE3-44 P204-L16) Relatively few people are prepared to <u>sacrifice</u> holiday time <u>for</u> the pleasure of travelling by sea.
+  * 表示放弃的意思
+    * give up
+    * abandon
+      * abandon ship 弃船
+    * renounce v. 正式宣布放弃了
+      * <u>renounce</u> smoking and drinking
+    * cede v. 放弃(割让领土)
+      * → Hong Kong <u>was ceded to</u> Britain after the Opium war.
+* privilege /ˈprɪvlɪdʒ/ n. 特权, 特殊的好处
+  * enjoy(享有 v.) a privilege 
+  * abuse(滥用 v.) a privilege
+  * 权利 right n.
+    * Education is a <u>right</u>, not a <u>privilege</u>.  教育是一种权利, 而不是特权.
+  * have the privilege to ... 有幸做某事(习语搭配)
+    * → Today, I <u>have the privilege to</u> speak at this important international forum on behalf of the Chinese government. 
+* corporation /ˌkɔrpəˈreɪʃn/ n. 公司
+  * multinational <u>corporation</u> 跨国公司
+  * company n. 公司
+  * firm n. 公司
+  * business n. 公司, 商号
+  * concern n. 公司
+  * enterprise n. 企业
+    * foreign funded(投资) enterprise 外资企业
+    * joint(共同的 adj.)-venture(投资) enterprise 合资企业
+    * state(国家 n.)-owned enterprise (SOE)
+    * private enterprise
+    * township enterprise
+
