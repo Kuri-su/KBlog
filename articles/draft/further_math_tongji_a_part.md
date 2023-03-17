@@ -522,9 +522,9 @@
              * 由 $a_{n+1}=\sqrt{2+a_n} \Rightarrow A=\sqrt{2+A}$
              * $\Rightarrow A^2-A-2=0$
              * $\Rightarrow A=-1 (舍) , A=2$
-2. 两个重要极限 5:34:42
+2. 两个重要极限
    1. $lim_{x\to0}\frac{sinx}{x}(lim_{x\to0}\frac{sim\Delta}{\Delta})$
-      * 设 $0<x<\frac{\pi}{2}$
+      * 5:34:42
    2. 
 
 
