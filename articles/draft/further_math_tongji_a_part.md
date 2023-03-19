@@ -523,9 +523,31 @@
              * $\Rightarrow A^2-A-2=0$
              * $\Rightarrow A=-1 (舍) , A=2$
 2. 两个重要极限 (5:34:42)
-   1. $lim_{x\to0}\frac{sinx}{x}(lim_{x\to0}\frac{sim\Delta}{\Delta})$
-      * 
-   2. 
+   1. $lim_{x\to0}\frac{sinx}{x}(lim_{x\to0}\frac{sim\Delta}{\Delta})$ = 1
+      * ![image-20230318165300581](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230318165300581.png)
+   
+      * 设: $0< x < \frac{\pi}{2}$
+        * $S_{\triangle AOB}=\frac{1}{2}sinx$
+        * $S_{扇AOB}=\frac{1}{2}x$
+        * $S_{RT\triangle AOC}=\frac{1}{2}tanx$
+          * $\frac{AC}{OA}=tanx \Rightarrow AC=tanx \because (OA =1)$
+        * $\therefore sinx < x < tanx \Rightarrow 1<\frac{x}{sinx}< \frac{1}{cosx}$ 
+          * $0\le1-cosx\le2sin^2\frac{x}{2}<2(\frac{x}{2})^2=\frac{1}{2}x^2$
+        * $\because lim_{x\to 0^+}\frac{1}{2}x^2=0 \therefore lim_{x\to 0^+}(1-cosx)=0 \Rightarrow lim_{x\to 0^+}cosx =1 $
+        * $\therefore lim_{x\to0^+}\frac{1}{cosx}=1$
+        * $\therefore lim_{x\to0^+}\frac{x}{sinx}=1$
+        * $\because \frac{x}{sinx} 为偶函数. \therefore lim_{x\to0^-}\frac{x}{sinx}$
+        * $\therefore lim_{x\to0}\frac{x}{sinx}=1$
+        * $\therefore (\mathrm{I})  lim_{x\to0}\frac{sinx}{x}=1$
+      * 推广: $lim_{x\to0}\frac{sin\Delta}{\Delta}=1$
+        * 例子1: $求 lim_{x\to0}\frac{sin3x}{x}$
+          * 解: $lim_{x\to0}\frac{sin3x}{x}=3*lim_{x\to0}\frac{sin3x}{3x}=3$
+        * 例子2: $lim_{x\to0}\frac{1-cosx}{x^2}$
+          * 解: $lim_{x\to0}\frac{1-cosx}{x^2} = lim_{x\to0}\frac{2sin^2\frac{x}{2}}{x^2}$
+            * $=\frac{1}{2}lim_{x\to0}(\frac{sin\frac{x}{2}}{\frac{x}{2}}) = \frac{}{}*1^2=\frac{1}{2}$
+   2. $lim_{n\to\infty}(1+\frac{1}{n})^n$
+      * $a_n=(1+\frac{1}{n})^n$
+      * $a_n=C^0_n+C^0_n$ // TODO
 
 
 
@@ -553,13 +575,33 @@
 
 
 
+### 第九节 连续函数运算 以及 初等函数 连续性
+
+
+
+复合运算保持连续性, 基本初等函数保持连续性, 函数的加减乘除保持连续性 
 
 
 
 
 
+### 第十节 闭区间上连续函数的性质
+
+$f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续
 
 
 
+最值定理
 
+有界定理
+
+零点定理
+
+介值定理
+
+
+
+## 第二章 导数与微分
+
+### 第一节 导数概念
 

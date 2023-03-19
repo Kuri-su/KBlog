@@ -1189,3 +1189,250 @@
     * private enterprise
     * township enterprise
 
+**## text part1**
+
+* → <u>These days</u>, people **who do manual work** often receive far more money <u>than people **who work in offices**</u>
+  * 后面的than people who work in offices 是定语从句, 修饰 前面的 far more money
+* These days 当今, 现如今 (不要翻译成这几天)
+  * 同义词
+    * these days
+    * today
+    * nowadays
+  * 反义词 
+    * <u>in</u> those days (一定要加介词 in)
+      * → (NCE3-21 P106-L2) **<u>In</u> those days**, boxers fought with bare fists for prize money.
+      * → (NCE4-9 P53-L1) In those days wandering minstrels were welcome everywhere.
+* receive money 挣钱 (比较正式) 
+  * make money (没那么正式比较随意)
+  * earn money 
+* far + 比较级 增强比较级的语气, 多得多, 大得多
+  * 相同作用的词
+    * far / much / even / still / yet ...
+  * 多一点点
+    * slightly / a little / a bit / a little bit ... 
+* 模仿句造句: 
+  * 现如今, 在娱乐界 (the entertainment field) 工作的人挣的钱往往比在教育行业 (the education sector) 工作的人 多得多
+    * field 表示 界/行业
+    * sector 表示国民经济的某个领域, 某个行业
+    * toil v. 工作, 劳累 (辛勤的工作, 汗滴流到地上)
+    * → These days, people who work in the entertainment field often receive far more money than people who toil in the education sector.
+* → People <u>who work in offices</u> are frequently referred to as 'white-collar workers' <u>for the simple reason **that they usually wear a collar and tie to go to work.**</u>
+  * 后面 for the simple .... 原因状语从句 
+    * 里面的 that 从句是同位语从句
+  * 这里 People who work in offices 和前面一句的结尾重复了, 这里是有意这样做修辞, 这叫做 anadiplosis 的手法, 中文翻译叫 顶真; 连珠
+    * 这个手法在中文中也常见
+      * 一生**<u>二  二</u>**生<u>三 三</u>生万物
+      * 地法**<u>天 天</u>**法**<u>道 道</u>**法自然
+    * 英文中
+      * → Our grief has turned to <u>anger</u>, and <u>anger</u> to resolution.     -- 小布什
+      * → For glances beget <u>ogles, ogles</u> <u>sighs, sighs</u> <u>wishes, wishes</u> <u>words, and words</u> a letter--- 英国大诗人拜伦
+      * → If you dream it, you can do it; if you do it , you can love it; if you love it , you can enjoy it; If you enjoy it, you can make it.
+* refer to ... : 提到 ....; 谈及 ....
+  * = mentoin ... / speak of ...
+  * → Please don't refer to this matter again.
+  * 把 A 称为 B 的表达
+    * refer to A as B 
+      * 如果 A 是什么很明显, 比方说上文刚刚在着重说 A, 那么 A 可以省略, 变成
+        * refer to as B
+    * call A B
+      * ... and others will call him 'Mr. Bloggs' not Alf.
+    * address A as B
+      * 如果是被动就是 be addressed A as B
+    * know A as B
+      * 生活中常用被动 
+        * be known A as B
+          * → (NCE3-14 P66-L10) He soon made a name for him self and came to be known to the ltalians as Giovanni Acuto. 
+          * → (NCE3-21 P106-L3) Because of this, they were known as 'prizefighters'.
+          * → (NCE3-31 P146-L8) He was known to us all as Dickie and his eccentricity had become legendary long before he died.
+* for the simple rease that... 因为一些简单的原因, 只是因为 (正式, 因为这里用的名词)
+  * = simply because ... 
+  * 原理是 介词 + 名词 + 同位语从句 = 普通从属连词
+    * 表示因为
+      * for <u>the reason</u> that ... 
+        * 因为 for 有歧义, 可以表示因为, 也可以表示目的, 所以这里为了避免歧义, 所以后面接的 the reason
+      * because of <u>the fact</u> that...
+      * due to <u>the fact</u> that ..
+      * on account of <u>the fact</u> that ...
+      * = because 
+    * 表示尽管, 虽然
+      * in spite of <u>the fact</u> that...
+      * despite <u>the fact</u> that ...
+      * = although...
+      * →  (NCE3-52 P236-L2) Despite the fact that the bottle is tinted a delicate shade of green , an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.
+* 模仿造句
+  * 大熊猫常常被称为活化石 (living fossil), 只不过因为他们在世界上已经生存了两亿多年了
+    * → Giant panda are frequently referred to as  "living fossil" for the simple reason that they have lived on earth for over  200 million years. 
+
+**## text part2**
+
+* → <u>Such</u> is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
+* 这里的 such is human nature 是一个倒装, 这里 such 当代词来用, 代词 such 做表语, 但是放在前面
+* 后面的 that 接的是一个同位语从句, 用于解释这是一个怎样的人类本性
+  * nature n. 本性, 天性
+    * → Excuse me, <u>nature calls.</u> 不好意思, 我去上个厕所 (本性召唤)
+    * → He is kind by nature . 他的善良出自本性
+    * → Such is human nature that ... 人的本性就是这样的!
+      * →  It is human nature that ..  这句话和上一句话的意思一样, 语法正确, 但是强调的意味差了很多.
+    * →  <u>Such is human nature that</u> we all love to get something for nothing.
+      * for 后面可以跟给多少钱, 这里用 nothing 就表示免费
+      * 这是人的本性使然, 我们喜欢获得免费的东西
+    * → <u>Such is human nature that</u> we don't treasure what we have until we lose it. 
+      * 这里 treasure 做动词, 表示 珍惜 (也对应了他的名词意思)
+      * 直到失去才懂得珍惜, 这是人的本性
+    * → <u>Human nature is **such** that</u> a great many people ...
+      * 这是正常语序, 但是语气不如刚才那么强
+      * →  (NCE3-27 P130-L9) <u>The conditions of society are **such** that</u> skills have to be paid for in the same way that goods are paid for at a shop.
+        * 社会的情况是这样的, 技术要掏钱买, 就像商品要掏钱买一样.
+        * 倒装写法 → <u>Such are the conditions of society that</u> skills have to be paid for in the same way that goods are paid for at a shop.
+* be willing to do 乐意做某事 (willing 乐意的, adj.)
+  * → (NCE3-28 P134-L17) I shook my head and held up five fingers indicating that I <u>was willing to</u> pay $5
+  * 乐意做某事的其他表达
+    * be ready to do 这里不翻译成准备好做某事, 而翻译成乐意做某事
+      * → If your order is large enough we are ready to reduce our prices by 5%
+        * 如果你的订单足够大, 我们可以把出价下调 5%
+    * be prepared to do 这里也不翻译成准备好做某事, 也翻译成乐意做某事
+      * → (NCE3-41 P192-L14) Why people <u>are prepared to</u> tolerate a four-hour journey each day for the dubios privilege of living in the country is beyoud me.
+        * country 这里表示乡村
+        * be beyoud me  我简直无法理解
+* for the privilege of ... 为了 ... 好处
+  * → (NCE3-41 P192-L14) Why people are prepared to tolerate a four-hour journey each day <u>for the dubious privilege of</u> living in the country is beyoud me.
+    * dubious adj. 可疑的, 不可靠的
+* → This can give rise to curious situations, <u>as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.</u>
+  * 后面是从句, 前面是主句
+  * 从句的 as 表示 正如
+  * 从句的 it 表示 前面的 this, 也就是为了称为白领放弃高收入这件事
+  * 从句的 did 表示前面的 give rise to  sth. 
+* give rise to sth. (fml.) 导致...
+  * fml. 是指 正式书面语
+  * → The president's absence <u>gave prise to</u> speculations about his health.
+* 用介词搭配表示在哪工作
+  * → I work <u>as</u> an English teacher <u>for</u> New Oriental School.
+  * as + 职位 + for + 公司
+* 观点+ 例证 的句型
+  * **... (观点), as it did/does in the case of ... who ...**  (句子句型有难度, )
+  * 这个句子如果用简单句写就会写成一个零散的句子
+    * → This can cause curious situation. Alfred Bloggs was an example. He worked.... 结构松散, 而且难度系数太低, 评分会很低
+    * → This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation. (紧凑而且有难度)
+* 模仿造句: 
+  * 压力 (stress) 会导致精神上的一些疾病(mental diseases), 正如在通用汽车公司 (General Motors) 工作的工程师 Mike Johnson 身上发生的情况一样.
+    * → Stress can give rise to mental diseases, as it did in case of Mike Johnson as an engineer for Gerneral Motors.
+
+**## text part3**
+
+* 关于结婚
+
+  * get married  加了个 get 表示已经结婚的这个过程
+  * be married 表示已婚
+  * marry sb. 表示和某人结婚
+    * be married to sb. 嫁给了谁, 
+    * 注意这里一定要用 to ,注意不能用 with , 用with 表示 随着女孩一起被嫁, 变成嫁妆了.
+  * → The girl was married to me. 和某人结婚
+  * → The girl was engaged to me . 和某人订婚
+
+* 穿着
+
+  * dress 表示给某人穿衣服, 所以人做主语的时候要用被动, 这个不能从中文的意思来判断, 这个需要根据具体的词来判断
+  * be (dressed) in, dressed 可省略
+    * →  He was (dressed) in a smark black suit.
+      * suit 表示全套西装
+  * sb. wear sth. 
+    * → He left thome waring a smart black suit.
+  * change 表示换一件衣服
+    * change (out of ...) (into ...), 如果只表示换上什么衣服可以把 out of 换掉
+      * → You'd better <u>change out of</u> the red jacket <u>into</u> a blue one.
+
+* 花费 spend
+
+  * speed ... on sth. /(in) doing  (in 可省略)
+    * → I <u>spent</u> a lot of money <u>on</u> food.
+    * → I <u>spent</u> a lot of time <u>on</u> homework. (接物用 on)
+    * → I <u>spent</u> a lot of time <u>(in) learning</u> English.
+    * → I <u>spent</u> my summer vacation in Hainan Province.
+    * → I treasured every minute I <u>spent</u> with your family.
+
+* 动名词的时态和语态
+
+  * | 时态/语态 | 主动        | 被动             |
+    | --------- | ----------- | ---------------- |
+    | 一般时    | doing       | being done       |
+    | 完成时    | having done | having been done |
+
+    一般时 万用, 只要是动名词都可以用, 无论是比谓语动词早, 还是同时, 或者比谓语动词晚, 都可以用这个
+
+  * 完成时是用于强调, having done 里面的这个动作, 比谓语动词发生的早一些, 强调它发生的早一些.
+  * 例句
+    * → (NCE3-6 P35-L7) <u>After **gazing**</u> at the display for saveral minutes, Mr. Taylor went back into his shop.
+    * → (NCE3-10 P50-L9) Four days <u>after **setting**</u> out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
+    * → (NCE3-16 P74-L13) Ashamed <u>of having acted</u> so rashly, Dimitri apologized to Aleko <u>for having accused</u> him.
+    * → (NCE3-40 P182-L21) Pretending to speak seriously, one of the workmen asked if he might make a telephone call <u>before being taken</u> to the station.
+    * → (NCE3-36 P166-L18) <u>After **having been wounded**</u> towards the end of the war, he had been sent to hospital and was separated from his unit.
+
+**## text part4**
+
+* fellow n. 同事, 同僚, 同胞 
+
+  * 这个词和 follow 没关系, follow的过去式和过去分词都是 followed
+  * 用法: 
+    * fellow dustmen
+    * fellow actors
+    * fellow students
+    * fellow citizens
+    * follow Chinese /Americans ... 
+  * 例句: 
+    * →  (NCE3-22 P110-L14) The gaoler looked on eagerly, anxious to see if his <u>fellow actor</u> had at last learnt his lines.
+    * → (NCE4-33 P195-L8) We would lay less stress on 'facts and figures' and more on a good memory, on applied psychology, and on the capacity of a man to get along with his fellow citizens.
+    * And so , my fellow Americans, ask not what your country can do for you; ask what you can do for your country.   --- kennedy.
+  * 表示同事的常见词
+    * workmate 可数
+    * colleague 可数名词
+    * associate  可数
+    * 例句
+      * →  (NCE3-22 P110-L10) One night, the gaoler decided to play a joke on his <u>colleague</u> to find out if, after so many performances, he had managed to learn the contents of the letter by heart.
+
+* → Alf's wife has never discovered <u>that she married a dustman</u> **and** she never will, <u>for Alf has just found another job.</u>
+
+  * 我过去是, 现在是, 将来也会是你的朋友 (活用时态)
+    * → I was, am and will be your friend.
+
+* will be doing 表示一种可预见性
+
+  * → Professor Wang will be taking charge of our department next Monday
+    * department 表示大学里的系
+
+* 英文中表示倍数的三种方式
+
+  * 方式
+    1. A is .. **times** <u>as .. as</u> B
+    2. A is ... times <u>the amount</u>  of B
+       * the amount 可以使用 下列词替换 (the number, the size , the length, the width/breadth, the height, the value, the price ... )
+    3. A is ... times 比较级 than B
+
+  * 例句
+    * 1
+      * →  His salary <u>is three times as much as</u> mine.
+      * → His salary <u>is three times the amount of</u> mine.
+      * → His salary <u>is twice more than</u> mine 
+    * 2
+      * → The box <u>is four times as big as</u> that one.
+      * → The box <u>is four times the size of</u> that one.
+      * → The box <u>is three times bigger than</u> that one.
+
+* worth 值得
+
+  * be worth + sth.
+    * be worth + doing  (这个只用主动, 不管是被动)
+  * be worthy + of sth. 
+    * be worthy to do / to be done
+  * 例子: 
+    * → the matter is worth consideration(n.)/considering.
+    * → The matter is worthy of consideration(n.)/to be considered.
+  * 纠错: 
+    * → The day when Beijing won the right to host the 2008 Olympic Games <u>is worth being celebrated.</u> (X) 这里 worth 后面只能跟动词的主动形式
+      * 改正: 后面跟 is worth celebration (n. 变成名词) / celebrating (变成主动)
+        * 或者改成 is worthy of celebration(n. 变成名词)/ to be celebrated. (被动)
+
+##  L5 The facts
+
+**## words**
+
+* 
