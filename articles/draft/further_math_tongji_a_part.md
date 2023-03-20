@@ -545,11 +545,36 @@
         * 例子2: $lim_{x\to0}\frac{1-cosx}{x^2}$
           * 解: $lim_{x\to0}\frac{1-cosx}{x^2} = lim_{x\to0}\frac{2sin^2\frac{x}{2}}{x^2}$
             * $=\frac{1}{2}lim_{x\to0}(\frac{sin\frac{x}{2}}{\frac{x}{2}}) = \frac{}{}*1^2=\frac{1}{2}$
-   2. $lim_{n\to\infty}(1+\frac{1}{n})^n$
+   2. $lim_{n\to\infty}(1+\frac{1}{n})^n = e$ 
       * $a_n=(1+\frac{1}{n})^n$
-      * $a_n=C^0_n+C^0_n$ // TODO
-
-
+      * $a_n=C^0_n+C^1_n*\frac{1}{n}+C^2_n*\frac{1}{n^2}+...+C^n_n\frac{1}{n^n}$
+        * $= 1+ 1+\frac{n(n-1)}{2!} + \frac{n(n-1)(n-2)}{3!}+ ... + \frac{n(n-1)...2*1}{n!}*\frac{1}{n^n}$
+        * $= 1+1+\frac{1}{2!}(1-\frac{1}{n})+\frac{1}{3!}(1-\frac{1}{n})(1-\frac{2}{n})+...+\frac{1}{n!}(1-\frac{1}{n})...(1-\frac{n-1}{n})$
+      * $a_n=(1+\frac{1}{n})^n$
+        * $= 1+1+\frac{1}{2!}(1-\frac{1}{n})+\frac{1}{3!}(1-\frac{1}{n})(1-\frac{2}{n})+...+\frac{1}{n!}(1-\frac{1}{n})...(1-\frac{n-1}{n})$
+      * $a_{n+1}=(1+\frac{1}{n+1}^{n+1})$
+        * $= 1+1+\frac{1}{2!}(1-\frac{1}{n+1})+\frac{1}{3!}(1-\frac{1}{n+1})(1-\frac{2}{n+1})+...+\frac{1}{n!}(1-\frac{1}{n+1})...(1-\frac{n-1}{n+1})+ \frac{1}{(n+1)^{n+1}}$
+      * $ \therefore a_n < a_{a+1}, 即 {a_n} 单调递增 ↑$
+      * 又 $a_n \le 1+1+\frac{1}{2!}+ .. + \frac{1}{n!} \le 1+1 +\frac{1}{1*2} + \frac{1}{2*3} + \frac{1}{3*4} + ... + \frac{1}{n(n-1)}$
+      * 又$ n(n-1) \le n! \Rightarrow \frac{1}{n!} \le \frac{1}{n(n-1)} $
+        * $= 1+1 + (1-\frac{1}{2}) + ... + (\frac{1}{n-1}-\frac{1}{n})=3-\frac{1}{n} \le 3$
+      * $即 \{a_n\} 有上界$
+      * $lim_{n\to\infty}(1+\frac{1}{n})^n \exists$
+      * $\therefore lim_{n\to\infty}(1+\frac{1}{n})^n = e $
+      * 推广:  $lim_{x\to\infty}(1+\frac{1}{x})^x = e$
+        * $\&\ \ \ lim_{\Delta\to0}(1+\Delta )^\frac{1}{\Delta}=e$
+      * 例题3: 
+        * $lim_{x\to0}(1+2x)^{\frac{1}{sinx}}$
+        	* 解: $lim_{x\to0}(1+2x)^\frac{1}{sinx}= lim_{x\to0}[(1+2x)^{\frac{1}{2x}}]^{2x*\frac{1}{sinx}}$
+        		* $= e^{2lim_{x\to0}\frac{x}{sinx}}= e^2$
+      * 例题4: 
+        * $lim_{x\to0}(1+x^2)^{frac{1}{x*sin2x}}$
+        	* 解: $lim_{x\to0}(1+x^2)^{\frac{1}{x*sin2x}}=lim_{x\to0}\{[1+(-x^2)]^{\frac{1}{-x^2}}\}^{-x^2*\frac{1}{x*sinx}}$
+        		* $= e^{-\frac{1}{2}*\frac{2x}{sin2x}}=e^{-\frac{1}{2}}$
+      * 例题5: 
+      	* $lim_{x\to0}\frac{ln(1+x)}{x}$
+      		* 解: $lim_{x\to0}\frac{ln(1+x)}{x}=\lim_{x\to0}\frac{1}{x}ln(1+x)$
+      			* = $lim_{x\to0}ln(1+x)^{\frac{1}{x}}=lne=1$
 
 
 ### 第七节 无穷小的比较
@@ -564,24 +589,109 @@
    * 性质: 
      1. $\alpha\to0,\beta\to0, 则 \begin{cases} \alpha\pm\beta \to 0 \\ k\alpha\to0\\\alpha\beta\to0\end{cases}$
      2. $\alpha\to0, |\beta|\le M, 则 \alpha\beta\to0$
-        * 证明:  // TODO
+        * 证明:  $\forall \epsilon > 0 , \because lim_{x\to0}\alpha(x)=0, \therefore \exists \delta , 当 0<|x-x_0|<\delta 时$
+        	* $|\alpha-0|=|\alpha| < \epsilon$
+        	* $\therefore 当 0<|x-x_0| < \delta 时,$
+        		* $|\alpha\beta|=|\alpha|*|\beta|<M\epsilon$
+          * $\therefore lim_{x\to x_0}\alpha\beta =0$
+          * 如: $lim_{x\to0}x^2sin\frac{1}{x}=0$
      3. $limf(x)=A \Leftrightarrow f(x)=A+\alpha,\alpha\to0$
 2. 无穷小的比较
-   *  
+   * 无穷小之间也有变小的速度差距, 这个知识点是为了体现这种差距
+   * 设 $\alpha \to 0, \beta \to 0$
+     1. $lim\frac{\beta}{\alpha}=0 , 称 \beta 为 \alpha 的高阶无穷小, 记为 \beta = {o}(\alpha), lim\frac{\beta}{\alpha}=\infty, 称 \beta 为 \alpha 的低阶无穷小$
+     2. $lim\frac{\beta}{\alpha}=k(\neq 0,\infty) (\beta\ is\ almost\ k\ times\ of\ \alpha), 称 \alpha 和 \beta 为同阶无穷小, 记 \beta ={O}(\alpha)$
+        * 如果 $lim\frac{\beta}{\alpha}=1, 称 \alpha 与 \beta 为等价无穷小, 记 \alpha \sim \beta $
+     3.    $lim\frac{\beta}{\alpha}=k (\neq 0 , \infty)$
+        * 称 $\beta 为 \alpha 的k阶无穷小$
+3. 等价无穷小的性质以及常见的等价无穷小
+   1. 等价无穷小性质, 
+      1. $\alpha\to0, \beta\to0$, 则 $\alpha \sim \beta \Leftrightarrow \beta = \alpha +0(\alpha)$
+         * 证明: $"\Rightarrow" 设 \alpha \sim \beta \Rightarrow lim\frac{\beta}{\alpha}=1$
+           * $\Rightarrow \frac{\beta}{\alpha}=1+\gamma, \gamma\to 0 $
+           * $\beta = \alpha+\alpha\gamma$
+           * $\because lim\frac{\alpha\gamma}{\alpha}=0, \therefore \alpha\gamma = 0(\alpha)$
+           * $\beta = \alpha + 0(\alpha)$
+         * 证明 : $"\Leftarrow" 设 \beta=\alpha+0(\alpha)$
+           * $\Rightarrow \frac{\beta}{\alpha}=1+\frac{0(\alpha)}{\alpha}$
+           * $\because lim\frac{\beta}{\alpha}=1$ 
+           * $\therefore \alpha \sim \beta$
+   
+   2. $\alpha \to 0, \beta \to 0$
+   
+      ![image-20230320213035408](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213035408.png)
+   
+   * 常见的等价无穷小: $x\to 0$ (七个)
+   
+   ![image-20230320213104937](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213104937.png)
+
+​		![image-20230320213132405](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213132405.png)	![image-20230320213301935](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213301935.png)
+
+![image-20230320213320175](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213320175.png)
+
+![image-20230320213343204](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213343204.png)
+
+![image-20230320213409850](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213409850.png)
 
 ### 第八节 函数的连续性与间断点
 
-*  (7:42:00)
+*  ![image-20230320213716009](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213716009.png)
 
+![image-20230320213739670](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213739670.png)
 
+![image-20230320213834525](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213834525.png)
+
+![image-20230320213857838](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213857838.png)
+
+![image-20230320213913001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213913001.png)
+
+![image-20230320213940811](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213940811.png)
+
+![image-20230320213955844](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213955844.png)
+
+![image-20230320214052342](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214052342.png)
+
+![image-20230320214113068](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214113068.png)
+
+![image-20230320214131042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214131042.png)
+
+![image-20230320214145801](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214145801.png)
+
+![image-20230320214255790](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214255790.png)
+
+![image-20230320214324181](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214324181.png)
 
 ### 第九节 连续函数运算 以及 初等函数 连续性
 
+![image-20230320214350471](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214350471.png)
 
+![image-20230320214416289](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214416289.png)
+
+![image-20230320214432527](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214432527.png)
+
+![image-20230320214449999](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214449999.png)
+
+![image-20230320214506586](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214506586.png)
+
+![image-20230320214537852](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214537852.png)
+
+
+
+![image-20230320214552391](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214552391.png)
+
+![image-20230320214611428](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214611428.png)
+
+![image-20230320214626959](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214626959.png)
+
+![image-20230320214712833](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214712833.png)
+
+![image-20230320214728412](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214728412.png)
 
 复合运算保持连续性, 基本初等函数保持连续性, 函数的加减乘除保持连续性 
 
+![image-20230320214750341](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214750341.png)
 
+![image-20230320214820860](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214820860.png)
 
 
 
@@ -589,7 +699,27 @@
 
 $f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续
 
+![image-20230320214906276](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214906276.png)
 
+![image-20230320214929018](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214929018.png)
+
+![image-20230320214953080](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214953080.png)
+
+![image-20230320215021391](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215021391.png)
+
+![image-20230320215046569](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215046569.png)
+
+![image-20230320215109722](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215109722.png)
+
+![image-20230320215136154](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215136154.png)
+
+![image-20230320215210128](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215210128.png)
+
+![image-20230320215300363](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215300363.png)
+
+![image-20230320215314953](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215314953.png)
+
+![image-20230320215330026](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215330026.png)
 
 最值定理
 

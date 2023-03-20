@@ -420,7 +420,7 @@
     * I'm in possession of the book.
   * → The book is in my possession.
   * 同义
-    * in the charge of sb. / in one's charge 归某人管, 物作主语
+    * in the charge of sb. / in one's charge 归某人管, 负责, 物作主语
       * in charge of ...人作主语
       * → The bookstore is <u>in my charge</u>. 物做主语
       * → I'm <u>in charge of</u> the bookstore. 人做主语
@@ -1435,4 +1435,32 @@
 
 **## words**
 
-* 
+后面要补笔记, 现在只记了比较重要的
+
+* editor /ˈɛdɪtər/ n. 编辑
+  * editors 后面接 of 介词
+  * 同根词
+    * edit
+      * → Janet edited books for a variety of publishers.
+    * edition 出版 注意音标, 和 editor 开头不一样,  /ɪˈdɪʃən/
+      * . 
+      * de luxe 豪华的, 特指 书籍
+      * a revised edition 修订版
+      * in its sixth edition
+        * 这个 sixth 读法是 six的读音加个 /t/ , /ˈsɪksθ/
+    * editorial /ˌɛdɪˈtɔriəl/ n. 社评, 社论
+    * 听力题
+      * 1
+        * in charge of  负责, 归某人管
+          * be responsible for 负责 , 归某人管
+        * What are you ? 表示 你是做什么的
+      * 2
+        * .
+* extreme  /ɪkˈstrim/ n. 极端
+  * go to extremes 走极端
+  * .
+  * 同根词
+    * extreme adj. 极端的, 过分的 (程度)
+      * .
+    * extremely adv. 极端地(程度副词)
+      * .
