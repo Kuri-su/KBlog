@@ -735,3 +735,51 @@ $f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续
 
 ### 第一节 导数概念
 
+![image-20230320221006240](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320221006240.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1456,7 +1456,7 @@
         * What are you ? 表示 你是做什么的
       * 2
         * .
-* extreme  /ɪkˈstrim/ n. 极端
+* extreme  /ɪkˈstrim/ n. 极端 (⭐️ 五星级词汇)
   * go to extremes 走极端
   * .
   * 同根词
@@ -1464,3 +1464,10 @@
       * .
     * extremely adv. 极端地(程度副词)
       * .
+* journalist /ˈdʒɜːrnəlɪst/ n. 记者
+  * reporter 
+  * columnist (用法比较窄, 专栏记者, 专栏作家)
+    * column n. 专栏
+  * -ist 后缀 表示某个人
+  * 
+
