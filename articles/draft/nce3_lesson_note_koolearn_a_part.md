@@ -1438,36 +1438,116 @@
 后面要补笔记, 现在只记了比较重要的
 
 * editor /ˈɛdɪtər/ n. 编辑
+
   * editors 后面接 of 介词
+    * → the editor of the Washington Post
+    * → (NCE3-5 P30-L1) editors of newspapers and magazines
+  * 主编: 
+    * chief editor = editor in chief
   * 同根词
-    * edit
+    * edit 编辑 v.
       * → Janet edited books for a variety of publishers.
-    * edition 出版 注意音标, 和 editor 开头不一样,  /ɪˈdɪʃən/
-      * . 
-      * de luxe 豪华的, 特指 书籍
-      * a revised edition 修订版
-      * in its sixth edition
+    * edition 版本,  注意音标, 和 editor 开头不一样,  /ɪˈdɪʃən/
+      * a paperback / hard-cover / de luxe <u>edition</u>
+        * de luxe 豪华的, 特指 书籍
+      * the first <u>edition</u> 首版
+      * a revised <u>edition</u> 修订版
+      * in its sixth edition 在它的第六版里
         * 这个 sixth 读法是 six的读音加个 /t/ , /ˈsɪksθ/
     * editorial /ˌɛdɪˈtɔriəl/ n. 社评, 社论
     * 听力题
       * 1
-        * in charge of  负责, 归某人管
-          * be responsible for 负责 , 归某人管
-        * What are you ? 表示 你是做什么的
+        * M: Mary is <u>in charge of</u> the art and music section; and Charles the sports page. What are you?  
+          * in charge of  负责, 归某人管
+            * be responsible for 负责 , 归某人管
+          * What are you ? 表示 你是做什么的
+        * W: I'm responsible for the <u>editorials</u>.
+        * Q: Where does the woman work?
       * 2
-        * .
+        * M: Would you pass me the sports section, please?
+
+        * W: Sure. If you give me the classified ads and <u>editorial</u> section.
+        * Q: What are the people doing?
+
 * extreme  /ɪkˈstrim/ n. 极端 (⭐️ 五星级词汇)
+
   * go to extremes 走极端
-  * .
+    * → (NCE3-5 P30-L1) Editors of newspapers and magazines often <u>go to extremes</u> to provide their readers with unimportant facts and statistics.
+    * → (NCE3-56 P252-L14) This is a rare occurrence as our climate seldom goes to extremes.
   * 同根词
     * extreme adj. 极端的, 过分的 (程度)
-      * .
+      * → Extreme poverty still exists in many rural areas.
+      * → Force is only justified in extreme circumstances.
     * extremely adv. 极端地(程度副词)
-      * .
+      * **be extremely difficult / important / useful / complicated / pleased / gratefu**
+      * → (NCE3-27 P130-L4) Though it may be possible to measure the value of material goods in terms of money, it <u>is extremely difficult</u> to estimate the true value of the services which people perform for us.
+      * (NCE3-46 P212-L24) But I <u>was extremely pleased(极端高兴的)</u> with myself. I had traced the cause of the trouble.
+
 * journalist /ˈdʒɜːrnəlɪst/ n. 记者
-  * reporter 
-  * columnist (用法比较窄, 专栏记者, 专栏作家)
-    * column n. 专栏
-  * -ist 后缀 表示某个人
-  * 
+
+  * 同义词
+    * reporter  记者
+    * columnist (用法比较窄, 专栏记者, 专栏作家)
+      * column n. 专栏
+    * -ist 后缀 表示某个人
+    * correspondent n. 记者(驻外记者)
+      * our Middle East correspondent
+      * Our correspondent in South Africa sent this report.
+      * a war / sports / education / political(政治) correspondent
+  * 同根词
+    *  journalism  n. 新闻业, 新闻学, 新闻工作
+      * a career in <u>journalism</u>
+
+      * → I plan to study <u>journalism</u> at college.
+      * → I see under "activities" that vou've been writing for the school paper. <u>Yes, sir</u>. What kinds of articles have you written? <u>All kinds-sports, **editorials**, theater reviews. You name it, I've written it</u>. Hmmm. Well, have you ever thought of becoming a **journalist**? <u>A professional writer? Not until recently</u>. Michigan has a fine School of **Journalism**. <u>Yes, I know that</u>. You seem to have some reservations. <u>I'm a little uncertain.</u>
+
+* publish /ˈpʌblɪʃ/  v. 出版
+
+  * → This book is published by Oxford University Press.
+    * press 也表示出版社
+  * publisher n. 出版社, 出版商
+  * publishing n. 出版业, 出版行业
+    * → She chose publishing as a career.
+  * the press n. 新闻界, 报界, 舆论界
+    * the freedom of the press
+      * → (NCE3-45 P208-L1) In democratic countries any efforts to restrict <u>the freedom of the press</u> are rightly condemned.
+  * go to press v. 出版, 付梓
+    * → (NCE3-5 P30-L10) Meanwhile, the editor was getting impatient, for the magazine would soon <u>go to press</u>.
+  * pirate v. 非法出版, 盗版 n. 海盗
+    * pirated CDs / books / software
+
+* fire /'faɪər/ v. 解雇
+
+  * fire / dismiss sb. from .. 用被动, 大多数情况是被解雇
+
+    * → I've just <u>been fired from</u> my job, and | don't know what to do.
+
+
+    * → She claims she <u>was</u> unfairly <u>dismissed from</u> her post.
+    * → (NCE3-49 P224-L29) The poor girl **was dismissed** instantly.
+
+  * lose one's job 主动用法, 丢了工作
+
+    * → Many people won't complain about pay and conditions because they're terrified of losing their jobs.
+
+  * lay off  短期解聘
+
+    * → Millions of people have been laid off in the steel industry.
+    * laid-off workers 下岗工人
+
+  * suspend v. 停职
+
+    * → The two police officers.have been suspended until an enquiry is carried out.
+
+  * depose v. 罢免 (通常是重要岗位)
+
+    * → King Charles I was deposed from the English throne in 1646.
+
+**## text part1**
+
+* go to extremes to do sth. 过分地⋯ 在某方面走极端
+  * 造句: 
+* 提供, 动词
+  * provide
+    * provide sb. with sth. 
 
