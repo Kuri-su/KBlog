@@ -1550,4 +1550,155 @@
 * 提供, 动词
   * provide
     * provide sb. with sth. 
+  * offer
+    * .
+* facts and statistics 为什么 facts 放前面
+  * 并列结构都是这样, 短的放前面, 长的放后面的原则
+  * 例子
+    * .
+    * bed and board 这里有头韵, 
+    * 衣食住行
+      * .
+      * .
+*  → .
+  * 造句: 某些网站常常过份地给访问者提供令人眼花缭乱的大量的信息. 
+    * → Some websites often go to extremes to provide their visitors with a bewildering amount of information.
+* instruct sb. in sth. 在某方面教导某人
+  * instructor n.老师, 教学人员
+  * instruct 命令指示,
+  * refund 退款
+    * fund n. 资金
+  * defendant n. 被告
+* → 
+  * 这句话使用动作的承受者做主语, 是为了突出这个承受者, 所以换而言之, 就是想强调突出 哪个就用 那个做主语, 这是使用被动语态的主要动机之一.
+  * → 
+  * → 
+  * → 
+  * → 
+* article on / about sth. (by sb.) 文章关于什么, by 后面跟是谁写的
+  * .
+  * .
+* arrived v. 到达
+  * 通常是物做主语
+  * .
+  * .
+  * 造句：当Jane收到信时，读完第一句话就哭了.
+    * → When the letter came / arrived, Jane read the first sentence and then cried.
+* → 
+  * Hundreds of
+    * 
+  * lead to  通往 (led to 过去式) 导致
+    * 通往
+      * → 
+    * 导致
+      * → 
+  * surround v. 包围, 环绕 n. 环绕物, 周围环境
+    * → .
+    * surrounding adj. 周围的
+      * .
+* → 
+  * fax n. 传真(有时传真机也会缩写成 fax, 注意根据上下文辨析意思)
+  * at once 立即, 立刻
+  * exact adj. 精确的
+  * find out :  get information, 找到抽象的信息/情报/情况, 而不是 找到具体的物件
+    * → 
+    * → 
+    * find: 表示找到了一个具体的东西/物件
+      * → 
+  * 造句：这位经理立刻给他的秘书发了一封email，要求她了解一下即将出席会议的确切人数。
+    * → 
 
+**## text part 2**
+
+* → 
+
+  * **set out**: to start a journey, especially(尤其的) a long journey.
+    * → 
+    * → 
+  * **set out to do sth.** : begin a job, task, atc with a particular aim or goal.
+    * → 
+    * → 
+  * obtain v. 采集, 获取
+  * take 后面跟 时间表示花费了多少时间, 可以用人和物 做主语
+    * .
+    * .
+    * .
+    * .
+    * .
+    * .
+    * speed ... on sth./(in) doing sth. 只能是人做主语
+      * → 
+      * → 
+  * 造句：这位秘书立刻着手核实 (verify) 这些重要的事实，但是她花了很长时间才完成。
+    * → 
+
+  
+
+* meanwhile adv. 与此同时, 在这个期间
+
+  * at the same time
+  * (in the ) meantime
+    * meantime adv. 时和 meanwhile 一样, 单独使用
+      * → 
+    * meatime 如果是名词, 那么需要和 in the  一起连用
+      * → 
+
+* one more 与 another 的关系
+
+  * .
+
+* → 
+
+  * inform 是通知的意思
+    * inform sb. of sth.
+    * inform sb. that ..
+    * 为什么第二个搭配里 of 没了
+      * that 从句最明显的特征之一就是不用在介词后, 所以 介词碰到 that 这个连词一般说得 死掉, 不光是宾语从句, 定语从句也一样, 介词后面 如果跟关系代词的话, 一般用 which 这样的词, 通常不用 in that 这种搭配. 不过也有例外
+        * in that ...  这里 in 不是介词, 而是和 that 一起做复合连词, 翻译成因为... , 是书面语 
+        * but / except that ... 除了...情况之外/要不是... 的话, 也是复合连词
+  * yet 强调, 强调又一个, 没有书面语和口语的区别
+    * .
+    * inflation n. 通货膨胀
+    * → 
+    * 听力题
+      * → 
+        * boils down to 归根结底到最后的结局是, 概括为, 归纳为
+        * .
+  * 造句：绑匪(kidnapper)又寄了一封匿名信 (anonymous letter)，通知老太太如果她报警，她就再也看不到她儿子了。
+    * → The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again.
+
+**## text part3**
+
+* → 
+  * reluctantly adv. 不情愿地, 不乐意地
+    * 
+  * as 按照/像...一样
+  * had originally been written 强调发生在过去
+  * 造句：当再一次未能得到签证 (visa)时 ，我们不情愿地按照原计划在国内旅行 (go on a domestic journey)。
+    * → 
+* → 
+  * not only ... but also ... 不但....而且....
+    * not only ... but ... 特别注意这里的 but 不是但是, 而是表示而且
+    * not only ... but ... as wall
+    * → 
+    * → 
+  * 部分倒装
+    * 只把 <u>助动词</u>，<u>be 动词</u>（之前没有其他助动词)或<u>情态动词</u> 置于<u>**主语**</u>之前. 只提前一个, 按照上面的次序.
+    * 目的是为了突出句首的成分, 当把上述成分放到句首之后, 会引发部分倒装, 突出的成分有以下几种情况
+      1. ., 突出句首状语
+         * → 
+           * beauty n. 美丽
+         * → 
+         * → 
+      2. “only + 状语”位于句首, 这里状语有可能是 副词, 介词短语, 或者状语从句, 如果是状语从句的话, 这个状语从句不能倒装, 只能后面的主句倒装(和前面的副词/介词短语的情况一样)
+         1. only 跟时间状语, 通常翻译成 直到某个时候才...
+            * 
+         2. only 不跟时间状语, 通常翻译成 只有....才....
+            * .
+         3. only 后面跟状语从句
+            * → 
+      3. such, so, well, often, many a time 等表示程度、频率的词位于句首
+         * → 
+         * → 
+         * → 
+         * → 
