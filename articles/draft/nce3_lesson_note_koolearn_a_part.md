@@ -1546,45 +1546,62 @@
 **## text part1**
 
 * go to extremes to do sth. 过分地⋯ 在某方面走极端
-  * 造句: 
+  * 造句：女孩子常常在减肥方面走极端.
+    * → Girls often go to extremes to lose weight.
+  * 造句：有些父母常常过分地满足孩子的需要.
+    * → Some parents often go to extremes to satisfy the needs of their children.
+  * 造句：阿尔弗雷德•布洛格斯过分地追求 (seek) 成为白领工人的特权. 
+    * → Alfred Bloggs went to extremes to seek the privilege of becoming a white-collar worker.
 * 提供, 动词
   * provide
+    * 下面两种情况也是短的在前, 长的在后, 灵活选用
     * provide sb. with sth. 
+      * → (NCE3-41 P192-L17) If you can do without the few pastoral pleasures of the country, you will find the city can **provide** <u>you</u> **with** <u>the best that life'can offer</u>.
+    * provide sth. for sb.
+      * → Colleges **provide** <u>accommodation</u> **for** <u>all first-year undergraduate students.</u>
   * offer
-    * .
+    * offer sb. sth.
+      * → They **offered** <u>him</u> <u>a very good job</u>, but he turned it down.
+    * offer sth. to sb.
+      * → The drama school **offers** <u>places</u> **to** <u>students who can show talent.</u>
+
 * facts and statistics 为什么 facts 放前面
   * 并列结构都是这样, 短的放前面, 长的放后面的原则
   * 例子
-    * .
-    * bed and board 这里有头韵, 
+    * fruit and vegetables 水果和蔬菜
+    * fur and feather / birds and beasts 飞禽走兽
+    * bed and board 这里有头韵 / food and shelter  食宿 
     * 衣食住行
-      * .
-      * .
-*  → .
+      * food, shelter, clothing and transportation
+
+*  → Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics.
   * 造句: 某些网站常常过份地给访问者提供令人眼花缭乱的大量的信息. 
+    * → (NCE3-38 P174-L5) Films, videos, CDs and CD-ROMS are just some of the **bewildering amount of information** they will have.
     * → Some websites often go to extremes to provide their visitors with a bewildering amount of information.
-* instruct sb. in sth. 在某方面教导某人
+* instruct sb. in sth. (teach)在某方面教导某人 
+  * → I instruct a class in history. (instructor)
   * instructor n.老师, 教学人员
-  * instruct 命令指示,
+  * <u>instruct</u> / <u>direct</u> sb. to do 命令指示 某人去做某事
+    * → I have been instructed by the company to offer you a refund.
+    * → The judge directed the defendant to remain silent.
   * refund 退款
     * fund n. 资金
   * defendant n. 被告
-* → 
+* → Last year <u>a journalist</u> **had been instructed by** <u>a well-known magazine</u> to write an article on the presidents palace in a new African republic.
   * 这句话使用动作的承受者做主语, 是为了突出这个承受者, 所以换而言之, 就是想强调突出 哪个就用 那个做主语, 这是使用被动语态的主要动机之一.
-  * → 
-  * → 
-  * → 
-  * → 
+  * → (NCE3-3 P22-L1) Some time ago, <u>an interesting discovery</u> **was made by** <u>archaeologists</u> on the Aegean island of Kea.
+  * → (CE3-10 P50-L9) Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, <u>a huge iceberg</u> **was suddenly spotted by** <u>a look-out</u>.
+  * → (NCE3-32 P150-13) <u>A radio message from the mainland</u> **had been received by** <u>the ship's captain</u> instructing him to give up the search.
 * article on / about sth. (by sb.) 文章关于什么, by 后面跟是谁写的
-  * .
-  * .
-* arrived v. 到达
+  * → an article on / about education by Mr. Smith
+* arrived/came v. 到达
   * 通常是物做主语
-  * .
-  * .
+  * → The card **arrived** on my birthday.
+  * → A letter **came** for you this morning.
+  * → (NCE3-1 P14-41) When reports **came** into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.
   * 造句：当Jane收到信时，读完第一句话就哭了.
-    * → When the letter came / arrived, Jane read the first sentence and then cried.
-* → 
+    * → When the letter <u>came / arrived</u>, Jane read the first sentence and then cried.
+* → The article began: "**Hundreds of steps lead to the high wall <u>which surrounds the president's palace</u>**'.
   * Hundreds of
     * 
   * lead to  通往 (led to 过去式) 导致
@@ -1704,4 +1721,6 @@
          * → 
   * 造句：不但有几个人抱怨说在夜里听见了"像猫一样的噪音〞，而且一位钓鱼途中的商人还看见那只美洲狮在树上。
     * → 
-* 
+* → 
+  * .
+  * 好的句子的特征是没有一句废话和一个多余的词
