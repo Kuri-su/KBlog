@@ -1602,125 +1602,170 @@
   * 造句：当Jane收到信时，读完第一句话就哭了.
     * → When the letter <u>came / arrived</u>, Jane read the first sentence and then cried.
 * → The article began: "**Hundreds of steps lead to the high wall <u>which surrounds the president's palace</u>**'.
-  * Hundreds of
-    * 
-  * lead to  通往 (led to 过去式) 导致
+  * Hundreds of 
+    *  two hundred 中的 hundred 是不加 s 的, 但是数以百计是要加 s 的
+    * 意似搭配
+      * dozens(数以十计的, 一打(12 个)) of / scores(数以二十个计的) of / hundreds of / thousands of / millions(数以百万计的) of + 复数名词
+      * tens of thousands of (数以万计的)/ hundreds of thousands of(数以十万计的) + 复数名词
+      * thousands upon thousands of(成千上万的) + 复数名词
+  * lead to  通往 (led to 是  过去式) 导致
     * 通往
-      * → 
+      * → All roads <u>lead to</u> Rome.
+      * → (NCE3-48 P220-L18) The path <u>led to</u> a tiny village perched on the steep sides of a mountain.
     * 导致
-      * → 
+      * → (NCE3-33 P154-L19) This <u>led to</u> yet another angry argument.
   * surround v. 包围, 环绕 n. 环绕物, 周围环境
-    * → .
+    * →  (NCE3-46 P212-30) Needless to say our house <u>is</u> now <u>surrounded by</u> a jungle.
+    * → (NCE3-48 P220-L23) Looking up l saw that we <u>**were surrounded by**</u> children in rags who were looking at us silently as we ate.
     * surrounding adj. 周围的
-      * .
-* → 
+      * → (NCE2-62 P284-L4) Winter was coming on and the hills threatened the <u>**surrounding**</u> villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.
+* → The editor at once sent the journalist a fax **instructing him to find out the exact <u>number of steps</u> and <u>the height of the wall</u>.**
   * fax n. 传真(有时传真机也会缩写成 fax, 注意根据上下文辨析意思)
+    * send sb. a fax / a letter / an email /a card
+    * get / receive a fax / a letter / an email /a card from ...
   * at once 立即, 立刻
   * exact adj. 精确的
   * find out :  get information, 找到抽象的信息/情报/情况, 而不是 找到具体的物件
-    * → 
-    * → 
+    * → (NCE3-13 P62-L8) She wanted to <u>find out</u> whether it would be comfortable to wear.
+    * → (NCE3-22 P110-L10) One night, the gaoler decided to play a joke on his colleague to <u>find out</u> if, after so many performances, he had managed to learn the contents of the letter by heart.
     * find: 表示找到了一个具体的东西/物件
-      * → 
+      * → (NCE3-15P70-L12) He could not <u>find</u> his fifty pence piece anywhere, and what is more, he could not get his arm out.
   * 造句：这位经理立刻给他的秘书发了一封email，要求她了解一下即将出席会议的确切人数。
-    * → 
+    * → The manager at once sent his secretary an email instructing her to find out the exact number of the people who will attend the meeting.
 
 **## text part 2**
 
-* → 
-
+* → The journalist immediately set out to obtain these important facts, but he took a long time to send them.
   * **set out**: to start a journey, especially(尤其的) a long journey.
-    * → 
-    * → 
+    * → (NCE3-25 P122-L8) Both these ships <u>set out</u> from Shanghai on June 18th, 1872 on an exciting race to England.
+    * → (NCE3-10 P50-L9) Four days after ** **, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
   * **set out to do sth.** : begin a job, task, atc with a particular aim or goal.
-    * → 
-    * → 
+    * → (NCE3-16 P74-L8) Dimitri at once **set out to** find the thief.
+    * → (NCE3-31 P146-L1) True eccentrics never deliberately **set out to** draw attention to themselves.
   * obtain v. 采集, 获取
   * take 后面跟 时间表示花费了多少时间, 可以用人和物 做主语
-    * .
-    * .
-    * .
-    * .
-    * .
-    * .
+    * → (NCE2-50 P236-L2) 1 went on an excursion recently, but <u>my trip</u> **took** me longer than l expected.
+    * → (NCE3-44 P204-L15) Even if you travel in ideal weather, <u>sea journeys</u> **take** a long time.
+    * → (NCE3-28 P134-113) <u>It</u> **took** me over half an hour <u>to get rid of him</u>.
+    * → <u>I</u> **took** just ten minutes to solve that problem.
+    * → <u>He</u> always **takes** so long to eat his breakfast.
     * speed ... on sth./(in) doing sth. 只能是人做主语
-      * → 
-      * → 
+      * → (NCE3-50 P228-L25) I argued that if <u>I</u> **spent** less time <u>exhausting</u> myself at exercises in the morning I would keep my mind fresh for reading when I got home from work.
+      * → (NCE4-39 P228-L4) <u>One</u>, to my certain knowledge, **spent** nine months <u>on</u> a novel about Kashmir, then reset the whole thing in the Scottish Highlands.
   * 造句：这位秘书立刻着手核实 (verify) 这些重要的事实，但是她花了很长时间才完成。
-    * → 
-
-  
-
+    * → The secretary immediately set out to verify these important facts, but she took a long time to finish it.
 * meanwhile adv. 与此同时, 在这个期间
-
   * at the same time
   * (in the ) meantime
     * meantime adv. 时和 meanwhile 一样, 单独使用
-      * → 
+      * → I continued working. **Meantime**, he went out shopping.
     * meatime 如果是名词, 那么需要和 in the  一起连用
-      * → 
-
+      * → (CE3-33 P154-L19) It took the police nearly an hour to get the traffic on the move again. **In the meantime**, the lorrydriver had to sweep up hundreds of broken bottles.
 * one more 与 another 的关系
+  * one more ... = another ...
 
-  * .
-
-* → 
-
+  * two more ... = another two ...
+  * In another two weeks it'll be finished.
+    * = In two more weeks it'll be finished.
+* → He sent yet another fax **informing the journalist that <u>if he did not reply soon</u> he would be fired.**
   * inform 是通知的意思
     * inform sb. of sth.
-    * inform sb. that ..
+    * inform sb. that ..  如果 inform 后面的事情比较复杂, 用从句来说
     * 为什么第二个搭配里 of 没了
       * that 从句最明显的特征之一就是不用在介词后, 所以 介词碰到 that 这个连词一般说得 死掉, 不光是宾语从句, 定语从句也一样, 介词后面 如果跟关系代词的话, 一般用 which 这样的词, 通常不用 in that 这种搭配. 不过也有例外
         * in that ...  这里 in 不是介词, 而是和 that 一起做复合连词, 翻译成因为... , 是书面语 
         * but / except that ... 除了...情况之外/要不是... 的话, 也是复合连词
   * yet 强调, 强调又一个, 没有书面语和口语的区别
-    * .
-    * inflation n. 通货膨胀
-    * → 
+    * yet/still one more/another/bigger.
+      * → (NCE3-33 P154-L19) This led to <u>**yet** another</u> angry argument.
+    * **yet**/**still** <u>one more</u> example
+      * → He's given us yet/still more work to do.
+      * → Inflation had risen to a yet/still higher level.
+        * inflation n. 通货膨胀
     * 听力题
-      * → 
+      * → M: They said the train won't arrive until nine. 
+      * → W: Well, what that boils down to is **<u>yet</u>** <u>another</u> delay in our schedule.
+      * → Q: What does the woman mean?
         * boils down to 归根结底到最后的结局是, 概括为, 归纳为
-        * .
+        * yet anouther 表示又一次
   * 造句：绑匪(kidnapper)又寄了一封匿名信 (anonymous letter)，通知老太太如果她报警，她就再也看不到她儿子了。
     * → The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again.
 
 **## text part3**
 
-* → 
+* → **<u>When the journalist again failed to reply</u>**, the editor reluctantly published the article **as it had originally been written**.
+
   * reluctantly adv. 不情愿地, 不乐意地
-    * 
+    * = unwillingly 
   * as 按照/像...一样
   * had originally been written 强调发生在过去
   * 造句：当再一次未能得到签证 (visa)时 ，我们不情愿地按照原计划在国内旅行 (go on a domestic journey)。
-    * → 
-* → 
+    * → When we again failed to get visas, we reluctantly went on a domestic journey as it had originally been planned.
+      * go on a domestic journey (国内旅行)
+
+* → **Not only <u>had</u>** the poor man been arrested, **but** he had been sent to prison **as well**.
+
   * not only ... but also ... 不但....而且....
-    * not only ... but ... 特别注意这里的 but 不是但是, 而是表示而且
+
+    * not only ... but ... (特别注意这里的 but 不是但是, 而是表示而且)
     * not only ... but ... as wall
-    * → 
-    * → 
+    * → (NCE3-59 P264-L23) This hobby educates one <u>**not only**</u> in the chosen subject, <u>**but also**</u> in general matters which have some bearing on it.
+    * → (NCE3-10 P50-L4) At that time, however, she was <u>not only</u> the largest ship that had ever been built, <u>but</u> was regarded as unsinkable, for she had sixteen water-tight compartments.
+
   * 部分倒装
+
     * 只把 <u>助动词</u>，<u>be 动词</u>（之前没有其他助动词)或<u>情态动词</u> 置于<u>**主语**</u>之前. 只提前一个, 按照上面的次序.
+
     * 目的是为了突出句首的成分, 当把上述成分放到句首之后, 会引发部分倒装, 突出的成分有以下几种情况
-      1. ., 突出句首状语
-         * → 
+
+      1. 否定词位于句首, 突出句首状语
+
+         * 如：not only,not until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, ... 
+
+         * → **Not only <u>had</u>** the poor man been arrested, but he had been sent to prison as well.
+         * → (NCE3-41 P192-L26) **Nor <u>is</u>** the city without its moments of beauty.
            * beauty n. 美丽
-         * → 
-         * → 
+         * → (NCE3-37 P170-L13) **Neither <u>was</u>** | surprised when the train stopped at Widley, a tiny station a few miles along the line.
+         * → <u>Never **have**</u> l seen such a good movie.
+         * → **Not until** yesterday **<u>did</u>** little John change his mind.
+         * → **Under no circumstances <u>should</u>** you lend Paul any money.
+
       2. “only + 状语”位于句首, 这里状语有可能是 副词, 介词短语, 或者状语从句, 如果是状语从句的话, 这个状语从句不能倒装, 只能后面的主句倒装(和前面的副词/介词短语的情况一样)
+
          1. only 跟时间状语, 通常翻译成 直到某个时候才...
-            * 
+            * → **Only** <u>then **did**</u> he realize that he was mistaken.
          2. only 不跟时间状语, 通常翻译成 只有....才....
-            * .
+            * → **Only** <u>by working hard **can**</u> we succeed in doing anything.
          3. only 后面跟状语从句
-            * → 
+            * → **Only** <u>after a baby seal is pushed into the sea by its mother</u> **will** it learn how to swim.
+            * → (NCE3-40 P182-L22) **Only** <u>when he saw that the man was actually telephoning the police</u> **<u>did</u>** he realize that they had all been the victims of a hoax.
+
       3. such, so, well, often, many a time 等表示程度、频率的词位于句首
-         * → 
-         * → 
-         * → 
-         * → 
+
+         * → (NCE3-4 P26-L4) **Such <u>is</u>** human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
+         * → (NCE3-46 P212-L1) **So** great **<u>is</u>** our passion for doing things for ourselves, that we are becoming increasingly " less dependent on specialized labour.
+         * → **Well <u>did</u>** I know him and <u>well did</u> he know me.
+         * → **often <u>did</u>** it snow there.
+         * → **Many a time <u>has</u>** he given me good advice.
+
   * 造句：不但有几个人抱怨说在夜里听见了"像猫一样的噪音〞，而且一位钓鱼途中的商人还看见那只美洲狮在树上。
-    * → 
-* → 
-  * .
+
+    * → **Not only <u>did</u>** several people complain of 'catiike noises' at night, **but** a businessman on a fishing trip saw the puma up a tree **as well**.
+
+* → <u>However</u>, he had at last been allowed to send a fax **in which he informed the editor that he had been arrested <u>while counting the 1.084 steps [leading to the fifteen-foot wall (which surrounded the president's palacel.)]</u>**  (从句套从句....)
+
+  * 状语从句的省路。
+    * 状语从句中如果满足以下两个条件：
+      1. 状语从句的主语与主句主语一致。
+      2. 状语从句的谓语包含be动词。 
+    * 则可同时省略状语从句的主语和其后的 be动词.
+    * 例句
+      * → **Metals** expand when **they <u>are</u>** heated and contract when **they <u>are</u>** cooled.
+        * → Metals expand when heated and contract when cooled.
+      * → **Francis Preston Blair Jr.**, although **he <u>was</u>** born in Kentucky, lived and practiced in Missouri. 
+        * practiced 不是练习, 表示 医生或者律师 拿着执照在工作
+        * jr. 是 junior 表示儿子, 或者 小xxxx, 国外经常 父亲 与 儿子同名
+        * sr. 是 senior 表示 父亲, 或者 老xxxx
+        * → Francis Preston Blair Jr., although born in Kentucky, lived and practiced in Missouri.
+      * → However, he had at last been allowed to send a fax in which he informed the editor that **he** had been arrested while **~~(he had been)~~** counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
   * 好的句子的特征是没有一句废话和一个多余的词
