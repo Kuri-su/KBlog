@@ -654,27 +654,44 @@ A part 主要是关于 导数&微分
          * $\because sin3x \sim 3x , ln(1+2x)\sim 2x$
          * $\therefore lim_{x\to0}\frac{sin3x}{ln(1+2x)}=\lim_{x\to0}\frac{3x}{2x}=\frac{3}{2}$
      * 2
-       * 
+       * $lim_{x\to0}\frac{(1+2x)^x-1}{x^2}, 求极限$
+       * 解: 
+         * $lim_{x\to0}\frac{(1+2x)^x-1}{x^2}=lim_{x\to0}\frac{e^{2\cdot ln(1+2x)-1}}{x^2}(e^\Delta-1\sim\Delta (\Delta \to 0))$
+         * $=lim_{x\to0}\frac{x\cdot ln(1+2x)}{x^2}=lim_{x\to0}\frac{ln(1+2x)}{x}=lim_{x\to0}\frac{2x}{x}=2$
+     * 3
+       * $lim_{x\to0}\frac{e^{-x^2}-1}{1-cos2x}, 求极限$
+       * 解:
+         * $\because e^{-x^2}-1 \sim -x^2, 1-cos2x\sim \frac{1}{2}\cdot(2x)^2=2x^2$
+         * $\therefore 原式=lim_{x\to0}\frac{-x^2}{2x^2}=-\frac{1}{2}$
      
-
-
-   * 
-
-![image-20230320213320175](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213320175.png)
-
-![image-20230320213343204](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213343204.png)
-
-![image-20230320213409850](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213409850.png)
 
 ### 第八节 函数的连续性与间断点
 
-*  ![image-20230320213716009](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213716009.png)
+* 前置描述
+  1. $x\to a 时, x\ne a , lim_{x\to a}f(x) 与 f(a) 无关$
+  2. $lim_{x\to a}f(x) 与 f(a) 情形:$
+     * 断: 
+       * $f(a-0)=f(a+0)=A\ne f(a)$ , 既 空心点的函数值不等于 极限值
+       * $f(a-0)\ne f(a+0)=f(a)$
 
-![image-20230320213739670](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213739670.png)
-
-![image-20230320213834525](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213834525.png)
-
-![image-20230320213857838](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213857838.png)
+* 连续
+  * 定义1
+    * 函数在一点连续, 则 $lim_{x\to a}f(x)=f(a) 或 f(a-0)=f(a+0)=f(a)$
+  * Note 
+    * If $f(a-0)=f(a), 称 f(x) 在 x=a 左连续$
+    * If $f(a+0)=f(a), 称f(x) 在 x=a 右连续$
+  * 例题
+    * 1
+      * $f(x)=\begin{cases} \frac{e^{ax}-1}{ln(1+x)}, & x>0 \\2, & x=0\\ \frac{b^2}{1+x^2} ,& x<0  \end{cases}, f(x) 在 x=0 连续, 求 a,b$
+      * 解: 
+        * $f(0+0)=lim_{x\to 0 ^+}f(x)=lim_{x\to0^+}f(x)=lim_{x\to0^+}\frac{e^{ax}-1}{ln(1+x)}=lim_{x\to0^+}\frac{ax}{x}=a;$
+        * $f(0)=2;$
+        * $f(0-0)=lim_{x\to0^-}f(x)=lim_{x\to0^-}\frac{b}{1+x^2}=\frac{b}{1}=b$
+        * $\because f(x) 在 x=0 连续, $
+        * $\therefore f(0+0)=f(0-0)=f(0),$
+        * $\therefore a=2,b=2$
+  * 定义2
+    * $f(x) 在闭区间上连续 - $
 
 ![image-20230320213913001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213913001.png)
 
