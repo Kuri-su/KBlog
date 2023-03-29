@@ -691,37 +691,92 @@ A part 主要是关于 导数&微分
         * $\therefore f(0+0)=f(0-0)=f(0),$
         * $\therefore a=2,b=2$
   * 定义2
-    * $f(x) 在闭区间上连续 - $
+    * $f(x) 在闭区间上连续 - 设 f(x) 在 [a,b] 上有定义, 当$
+      1. $f(x) 在 (a,b) 内 处处连续;$
+      2. $f(a)=f(a+0), f(b)=f(b-0)$
+    * 称 $f(x) 在 [a,b] 上连续, 记 f(x)\in C[a,b]$
 
-![image-20230320213913001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213913001.png)
+* 间断点分类
 
-![image-20230320213940811](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213940811.png)
+  * 概念
 
-![image-20230320213955844](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213955844.png)
+    * 间断 - If $lim_{x\to a}f(x) \ne f(a), 称 f(x) 在 x=a 间断$
 
-![image-20230320214052342](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214052342.png)
+  * 分类
 
-![image-20230320214113068](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214113068.png)
+    1. 第一类间断点 , $f(a-0), f(a+0) 有值$
+       1. $f(a-0)=f(a+0) \ne f(a) , x=a 为 f(x) 的 可去间断点$
+       2. $f(a-0)\ne f(a+0),x=a 为 f(x) 的 跳跃间断点$
+    2. 第二类间断点, $f(a-0), f(a+0) 至少有一个不存在, 称 x=a 为 第二类间断点$
 
-![image-20230320214131042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214131042.png)
+  * 例题
 
-![image-20230320214145801](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214145801.png)
+    * 1
 
-![image-20230320214255790](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214255790.png)
+      * $f(x)=\frac{x^2-3x+2}{x^2-1}, 求 f(x) 的 间断点以及分类$
+      * 解: 
+        * $x=1 和 x=-1 为 f(x) 的间断点$
+        * $\because lim_{x\to-1}f(x)=lim_{x\to-1}\frac{x^2-3x+2}{x^2-1}=\infty$
+          * $x=-1 为 f(x) 的 第二类间断点$
+        * $\because lim_{x\to1}f(x)=lim_{x\to1}\frac{(x-2)(x-1)}{(x+1)(x-1)}=lim_{x\to1}\frac{x-2}{x+1}=-\frac{1}{2}$
+          * 既 $f(1-0)=f(1+0)=-\frac{1}{2}$
+          * $x=1 为 f(x) 的 可去间断点$
 
-![image-20230320214324181](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214324181.png)
+    * 2
+
+      * $f(x)=\frac{x}{sinx}, 求 间断点的分类$
+
+      * 解: 
+
+        * $x=k\pi (k\in \mathbb{Z}), 为 f(x) 的间断点$
+        * $\because lim_{x\to0}f(x)=lim_{x\to0}\frac{x}{sinx}=1$
+          * 即 $f(0-0)=f(0+0)=1$
+
+        * $\therefore x=0 为 f(x) 的 可去间断点;$
+        * $又 \because lim_{x\to k\pi}f(x)=\infty$
+        * $\therefore x=k\pi (k\in \mathbb{Z} 且 k\ne 0) 为 第二类间断点$
+
+  * Note: 
+
+    * $a>1 时$
+      * $lim_{x\to-\infty}a^x=0$
+      * $lim_{x\to+\infty}a^x=+\infty$
+        * 如 $lim_{x\to0^-}e^\frac{1}{x}=0, lim_{x\to0^+}e^\frac{1}{x}=+\infty$
+
+    * 例子
+      * $f(x)=\frac{1-2^x}{1+2\frac{1}{x}}, 求 f(x) 的 间断点 及 分类$
+        * 解: 
+          * $x=0 为 f(x) 的 间断点$
+          * $f(0-0)=lim_{x\to0^-}f(x)=lim_{x\to0^-}\frac{1-2^\frac{1}{x}}{1+2^\frac{1}{x}}=1;$
+          * $f(0+0)=lim_{x\to 0^+}f(x)=lim_{x\to 0^+}\frac{1-2^\frac{1}{x}}{1+2^\frac{1}{x}}$
+            * $=\frac{0-1}{0+1}=-1$
+          * $\because f(0-0)\ne f(0+0)$
+          * $\therefore x=0 为 f(x) 的 跳跃间断点$
 
 ### 第九节 连续函数运算 以及 初等函数 连续性
 
-![image-20230320214350471](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214350471.png)
-
-![image-20230320214416289](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214416289.png)
-
-![image-20230320214432527](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214432527.png)
-
-![image-20230320214449999](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214449999.png)
-
-![image-20230320214506586](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214506586.png)
+* 连续函数运算
+  1. 四则
+     * 设 $f(x),g(x) 在 x=x_0处连续, 则$
+       1. $f(x)\pm g(x) 在 x=x_0 连续;$
+       2. $f(x)\cdot g(x) 在 x=x_0 连续;$
+       3. If $g(x_0)\ne 0, 则 \frac{f(x)}{g(x)}在 x=x_0连续$
+     * 证明: 
+       * $\because f(x), g(x) 在 x=x_0 连续$
+       * $\therefore lim_{x\to x_0}f(x)=f(x_0), lim_{x\to x_0}g(x)=g(x_0)$
+       * $\therefore lim_{x\to x_0}[f(x)\pm g(x)]=lim_{x\to x_0}f(x) \pm lim_{x\to x_0}g(x)=f(x_0)\pm g(x_0)$
+       * $\therefore f(x)\pm g(x) 在 x=x_0 连续$
+       * $lim_{x\to x_0}f(x)g(x)=lim_{x\to x_0}f(x)lim_{x\to x_0}g(x)=f(x_0)g(x_0)$
+       * $\therefore f(x)g(x)在 x=x_0 连续$
+       * $lim_{x\to x_0}\frac{f(x)}{g(x)}=\frac{lim_{x\to x_0}f(x)}{lim_{x\to x_0}g(x)}=\frac{f(x_0)}{g(x_0)}$
+       * $\frac{f(x)}{g(x)}在 x=x_0 连续$
+  2. 复合运算
+     * 定理
+       * $y=f(u), u=\varphi(x), \varphi(x)\ne a, 当 lim_{u\to a}f(u)=A, lim_{x\to x_0}\varphi(x)=a, 则 lim_{x\to x_0}f[\varphi(x)]=A$
+       * 证明: 
+         * $\forall \epsilon > 0, \because lim_{u\to a}f(u)=A \therefore \exists \eta >0, 当 0 < |u-a|<\eta\ 时$,
+         * $|f(u)-A|<\epsilon $     (*)
+         * 对 $\eta > 0, $
 
 ![image-20230320214537852](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214537852.png)
 
