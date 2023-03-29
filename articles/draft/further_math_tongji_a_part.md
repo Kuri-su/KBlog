@@ -1,10 +1,14 @@
 # Further Mathematic lecture (tongji) (A part) cross Jiafeng Tang
 
+A part 主要是关于 导数&微分
+
+
+
 看起来上册的 七章, 基本是 把 高中的 数学从根上重新定义了一次
 
 第一章 , 重新定义 什么时函数, 并 加入极限的概念
 
-第二章, 使用极限来定义导数, 并使用 微分重新定义导数?
+第二章, 使用极限来定义导数, 并使用 微分
 
 第三章, 更加详细的介绍微分的定理, 以及各种应用
 
@@ -596,7 +600,7 @@
           * $\therefore lim_{x\to x_0}\alpha\beta =0$
           * 如: $lim_{x\to0}x^2sin\frac{1}{x}=0$
      3. $limf(x)=A \Leftrightarrow f(x)=A+\alpha,\alpha\to0$
-   
+
 2. 无穷小的比较
    * 无穷小之间也有变小的速度差距, 这个知识点是为了体现这种差距
    * 设 $\alpha \to 0, \beta \to 0$
@@ -605,7 +609,7 @@
         * 如果 $lim\frac{\beta}{\alpha}=1, 称 \alpha 与 \beta 为等价无穷小, 记 \alpha \sim \beta $
      3.    $lim\frac{\beta}{\alpha}=k (\neq 0 , \infty)$
         * 称 $\beta 为 \alpha 的k阶无穷小$
-   
+
 3. 等价无穷小的性质以及常见的等价无穷小
    1. 等价无穷小性质, 
       1. $\alpha\to0, \beta\to0$, 则 $\alpha \sim \beta \Leftrightarrow \beta = \alpha +0(\alpha)$
@@ -618,23 +622,43 @@
            * $\Rightarrow \frac{\beta}{\alpha}=1+\frac{0(\alpha)}{\alpha}$
            * $\because lim\frac{\beta}{\alpha}=1$ 
            * $\therefore \alpha \sim \beta$
-   
+
    2. $\alpha \to 0, \beta \to 0$
-   
+
       * 证明If $\alpha \sim \alpha_1, \beta \sim \beta_1; lim\frac{\beta_1}{\alpha_1}=A$, 则 $lim\frac{\beta}{\alpha}=A$
         * 证: 
           * $\alpha \sim \alpha_1, \beta\sim\beta_1 \Rightarrow lim_\frac{\alpha}{\alpha_1}=1, lim\frac{\beta_1}{\beta}=1$
           * $\because \frac{\beta}{\alpha}=\frac{\alpha_1}{\alpha}*\frac{\beta_1}{\alpha_1}*\frac{\beta}{\beta_1}$
           * $又\because lim\frac{\alpha_1}{\alpha}=1, lim\frac{\beta_1}{\alpha_1}=A, lim\frac{\beta}{\beta_1}=1$
           * $\therefore lim\frac{\beta}{\alpha}=lim\frac{\alpha_1}{\alpha}*lim\frac{\beta_1}{\alpha_1}*lim\frac{\beta}{\beta_1}=A$
-   
-      ![image-20230320213035408](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213035408.png)
-   
-   * 常见的等价无穷小: $x\to 0$ (七个)
-   
-   ![image-20230320213104937](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213104937.png)
 
-​		![image-20230320213132405](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213132405.png)	![image-20230320213301935](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213301935.png)
+   * 常见的等价无穷小: $x\to 0$ (七个)
+
+     1. $lim_{x\to 0}\frac{x}{sinx}=1 \Rightarrow x\sim sinx(x\to 0)$
+     2. $lim_{x\to0}\frac{x}{tanx}=lim_{x\to0}\frac{x}{sinx}*cosx=1 \Rightarrow x\sim tanx;$
+     3. $lim_{x\to0}\frac{x}{arcsinx}, arcsinx=t, lim_{t\to0}\frac{sint}{t}=1 \Rightarrow x\sim arcsimx$
+     4. $x\sim arctanx$
+     5. $x\sim ln(1+x)$
+     6. $x\sim e^x-1$
+     7. $1-cosx\sim\frac{1}{2}x^2$
+        * $\lim_{x\to0}\frac{1-cosx}{x^2}=\lim_{x\to0}\frac{2sin^2\frac{x}{2}}{x^2}=lim_{x\to0}\frac{2\cdot(\frac{x}{2})^2}{x^2}=\frac{1}{2}$
+     8. $(1+x)^a-1\sim ax$
+        * $lim_{x\to0}\frac{(1+x)^a-1}{x}=lim_{x\to0}\frac{e^{a\cdot ln(1+x)}-1}{x} ;(e^\Delta-1\sim \Delta (\Delta \to 0))$
+          * $=lim_{x\to0}\frac{a\cdot ln(1+x)}{x}=a\cdot lim_{x\to0}\frac{x}{x}=a$
+          * $\therefore (1+x)^a-1\sim ax$
+   
+   * 等价无穷小例题
+     * 1
+       * $lim_{x\to0}\frac{sin3x}{ln(1+2x)}, 求极限$
+       * 解: 
+         * $\because sin3x \sim 3x , ln(1+2x)\sim 2x$
+         * $\therefore lim_{x\to0}\frac{sin3x}{ln(1+2x)}=\lim_{x\to0}\frac{3x}{2x}=\frac{3}{2}$
+     * 2
+       * 
+     
+
+
+   * 
 
 ![image-20230320213320175](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320213320175.png)
 
