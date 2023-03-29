@@ -787,7 +787,23 @@ $f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续
 
 ![image-20230320221006240](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320221006240.png)
 
+### 第二节 求导法则
 
+
+
+### 第三节 高阶导数
+
+
+
+### 第四节 隐函数
+
+
+
+### 第五节 参数方程
+
+
+
+### 第六节 微分
 
 
 
