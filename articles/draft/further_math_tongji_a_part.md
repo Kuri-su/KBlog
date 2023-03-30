@@ -771,70 +771,121 @@ A part 主要是关于 导数&微分
        * $lim_{x\to x_0}\frac{f(x)}{g(x)}=\frac{lim_{x\to x_0}f(x)}{lim_{x\to x_0}g(x)}=\frac{f(x_0)}{g(x_0)}$
        * $\frac{f(x)}{g(x)}在 x=x_0 连续$
   2. 复合运算
-     * 定理
+     * 定理2
        * $y=f(u), u=\varphi(x), \varphi(x)\ne a, 当 lim_{u\to a}f(u)=A, lim_{x\to x_0}\varphi(x)=a, 则 lim_{x\to x_0}f[\varphi(x)]=A$
        * 证明: 
          * $\forall \epsilon > 0, \because lim_{u\to a}f(u)=A \therefore \exists \eta >0, 当 0 < |u-a|<\eta\ 时$,
-         * $|f(u)-A|<\epsilon $     (*)
-         * 对 $\eta > 0, $
+           * $|f(u)-A|<\epsilon $     (*)
+         * 对 $\eta > 0, \because lim_{x\to x_0}\varphi(x)=a, \therefore \exists \delta >0, 当 0<|x-x_0|<\delta 时$
+           * $0<|\varphi(x)-a|<\eta$     (**)
+         * $\therefore \forall \epsilon >0, \exists \delta >0, 当 0<|x-x_0|<\delta 时,$
+           * $|f[\varphi(x)]-A|=\epsilon$
+         * $\therefore lim_{x\to x_0}f[\varphi(x)]=A$
+     * 定理3
+       * $y=f(u), u=\varphi(x), \varphi(x)\ne a, 当lim_{u\to a}f(u)=f(a), lim_{x\to x_0}\varphi(x)=a, 则$
+       * $lim_{x\to x_0}f[\varphi(x)]=f(a)$, 
+       * 即 $lim_{x\to x_0}f[\varphi(x)]=f[lim_{x\to x_0}\varphi(x)]=f(a)$
+       * 如: 
+         * $lim_{x\to 0} arctan \frac{1-x}{1+x}=arctan(\lim_{x\to0}\frac{1-x}{1+x})=arctan1=\frac{\pi}{4}$
 
-![image-20230320214537852](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214537852.png)
-
-
-
-![image-20230320214552391](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214552391.png)
-
-![image-20230320214611428](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214611428.png)
-
-![image-20230320214626959](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214626959.png)
-
-![image-20230320214712833](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214712833.png)
-
-![image-20230320214728412](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214728412.png)
-
-复合运算保持连续性, 基本初等函数保持连续性, 函数的加减乘除保持连续性 
-
-![image-20230320214750341](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214750341.png)
-
-![image-20230320214820860](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214820860.png)
-
-
+* 初等函数的连续性
+  * 基本初等函数
+    1. $x^a;$
+    2. $a^x (a>0 且 a\ne 1);$
+    3. $log_a^x (a>0 且 a\ne 1);$
+    4. $sinx,cosx,tanx,cotx,secx,cscx;$
+    5. $arcsinx,arccosx,arctanx, arccotx$
+  * 初等函数, 
+    * 由 **常数/基本初等函数** 经过 **四则运算/复合运算** 而成的式子
+  * 结论
+    * 基本初等函数 在其定义域内 连续
+      * 复合运算保持连续性, 基本初等函数保持连续性, 函数的加减乘除保持连续性 
+    * 初等函数在其定义域内连续
+  * 例子
+    * 1
+      * $lim_{x\to2}(x^3-3x^2+4)$
+        * 解: 
+          * $lim_{x\to2}(x^3-3x^2+4)=8-3*4+4=0$
+    * 2
+      * $lim_{x\to0}(\frac{1+2x}{1-x})^\frac{1}{sin2x}$
+        * 解:
+          * $lim_{x\to0}(\frac{1+2x}{1-x})^\frac{1}{sin2x}=lim_{x\to0}[(1+\frac{3x}{1-x})^\frac{1-x}{3x}]^{\frac{1}{sin2x}\cdot\frac{3x}{1-x}}$
+          * $=lim_{x\to0}e^{\frac{1}{sin2x}\cdot\frac{3x}{1-x}}$
+          * $=e^{3lim_{x\to0}\frac{1}{1-x}\cdot \frac{x}{sin2x}}=e^{3\cdot1\cdot lim_{x\to0}\frac{x}{2x}}=e^\frac{3}{2}$
+        * 在 求 x趋近于0 的 y 的极限时, 灵活使用等价无穷小来替换化简.
 
 ### 第十节 闭区间上连续函数的性质
 
-$f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续
+* 回顾
 
-![image-20230320214906276](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214906276.png)
+  * $f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续, 则
+    1. $f(x) 在 (a,b) 内 处处连续$
+    2. $f(a)=f(a+0), f(b)=f(b-0)$
+  * 称 $f(x) 在 [a,b] 上连续, 记 f(x)\in C[a,b]$.
 
-![image-20230320214929018](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214929018.png)
+* 定理1 (最值定理)
 
-![image-20230320214953080](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320214953080.png)
+  * $设 f(x)\in C[a,b] ,则 f(x) 在 [a,b] 上, 能取到最小值 m,和 最大值 M$
+  * $即 \exists x_1, x_2 \in [a,b], 使 f(x_1)=m, f(x_2)=M$
 
-![image-20230320215021391](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215021391.png)
+* 定理2  (有界定理)
 
-![image-20230320215046569](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215046569.png)
+  * $设 f(x) \in C [a,b], 则 \exists k>0, $ $使 \forall x\in [a,b], 有$ $|f(x)|\le k$
+  * 证明: 
+    * $\because f(x)\in C[a,b] , \therefore f(x) 在 [a,b] 上 取最小值 m 和最大值 M$
+    * 即 $f(x)\ge m, f(x)\le M, 或 f(x)在 [a,b] 上 有上下界$
+    * $\Rightarrow f(x) 在 [a,b] 上有界$
+    * $\exists k>0, \forall x \in [a,b], 有 |f(x)|\le k$
 
-![image-20230320215109722](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215109722.png)
+* 定理3 (零点定理)
 
-![image-20230320215136154](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215136154.png)
+  * 设 $f(x)\in C[a,b], f(a)f(b)<0$
+  * $则 \exists c \in (a,b), 使 f(c)=0$
 
-![image-20230320215210128](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215210128.png)
+* 例题
 
-![image-20230320215300363](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215300363.png)
+  * 1
+    * 证明 $x^5-5x+1=0至少有一个正根$
+    * 证: 
+      * $f(x)=x^5-5x+1, $
+      * $f(x)\in C[0,1],$
+      * $f(0)=1,f(1)=-3,$
+      * $\because f(0)f(1)<0$
+      * $\therefore \exists c \in (0,1), 使 f(c)=0, 即 c^5-5c+1=0$
+      * $方程 x^5-5x+1=0 , 至少有一个正根 x=c$
 
-![image-20230320215314953](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215314953.png)
+  * 2
+    * $f(x)\in C[0,1],f(0)=0, f(1)=1,证明 : \exists \varsigma \in (0,1), 使 f(\varsigma)=\frac{2}{3}$
+    * 证: 
+      * $令 \varphi(x)=f(x)-\frac{2}{3}, \varphi(x)\in C[0,1]$
+      * $\varphi(0)=-\frac{2}{3},\varphi(1)=\frac{1}{3}$
+      * $\because \varphi(0)\varphi(1)<0$
+      * $\therefore \exists \varsigma \in (0,1), 使 \varphi (\varsigma)=0, 即 f(\varsigma)-\frac{2}{3}=0$
+      * 则 $f(\varphi)=\frac{2}{3}$
 
-![image-20230320215330026](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320215330026.png)
-
-最值定理
-
-有界定理
-
-零点定理
-
-介值定理
-
-
+* 介值定理
+  * 介值: The value between m and M
+  * $\forall \eta \in [m,M], \exists \varsigma \in [a,b], 使 f(\varsigma)=\eta$
+  * 若 $f(x)\in C [a,b], 则 m 于 M 之间任意值皆可被 f(x) 取到$
+  * 定理: $设 f(x)\in C[a,b], 则 \forall \eta \in [m,M], \exists \varsigma \in [a,b] , 使 f(\varsigma)=\eta$ (即 介于 m 和M 之间的 值, f(x) 皆可取到
+  * Notes: 
+    1. $f(x) \in C[a,b], \exists c\in (a,b) ... \Rightarrow 零点定理$
+    2. $f(x) \in C [a,b] , \exists \varsigma \in [a,b] , .... \Rightarrow 介值定理$
+  * 例子
+    * 1
+      * $\because f(x) \in C [a,b], \therefore f(x)在 [a,b] 上 可任取 最小值 m 和 最大值 M, m\le f(a) \le M, m\le f(b) \le M$
+      * $\because p> 0, q>0$
+      * $\therefore pm \le pf(a)\le pM, mq\le qf(b)\le qM$
+      * $又 \because p+q=1$
+      * $\therefore m \le pf(a)+qf(b)\le M$
+      * $\therefore \exists \varsigma \in [a,b], 使 f(\varsigma)=p\cdot f(a)+q\cdot f(b)$
+    * 2
+      * $f(x)\in C[0,2], f(0)+2f(1)+3f(2)=6, $要求证明 : $\exists c \in [0,2], 使 f(c)=1$
+      * 证
+        * $f(x)\in C[0,2], 则 f(x) 在 [0,2] 上 取 最大值 M 和 最小值 m$
+        * $6m\le f(0) + 2f(1)+3f(2)\le 6M $
+        * 即 $m\le 1 \le M$
+        * $\therefore \exists c \in [0,2], 使 f(c)=1$
 
 ## 第二章 导数与微分
 
@@ -842,15 +893,137 @@ $f(x)\in[a,b]$ 表示 f(x) 在 [a,b] 上连续
 
 ![image-20230320221006240](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320221006240.png)
 
+![image-20230329212909223](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212909223.png)
+
+![image-20230329212925901](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212925901.png)
+
+![image-20230329212956298](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212956298.png)
+
+![image-20230329213011791](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213011791.png)
+
+![image-20230329213100262](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213100262.png)
+
+![image-20230329213122887](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213122887.png)
+
+![image-20230329213147636](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213147636.png)
+
+![image-20230329213203915](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213203915.png)
+
+![image-20230329213234106](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213234106.png)
+
+![image-20230329213251264](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213251264.png)
+
+![image-20230329213340135](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213340135.png)
+
+![image-20230329213357581](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213357581.png)
+
+![image-20230329213424412](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213424412.png)
+
+![image-20230329213438017](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213438017.png)
+
 ### 第二节 求导法则
 
+![image-20230329213518317](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213518317.png)
 
+![image-20230329213624698](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213624698.png)
+
+![image-20230329213646058](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213646058.png)
+
+![image-20230329213715268](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213715268.png)
+
+![image-20230329213731807](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213731807.png)
+
+![image-20230329213753071](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213753071.png)
+
+![image-20230329213814559](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213814559.png)
+
+![image-20230329213832378](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213832378.png)
+
+![image-20230329213854004](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213854004.png)
+
+![image-20230329213919146](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213919146.png)
+
+![image-20230329213929790](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213929790.png)
+
+![image-20230329213941479](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213941479.png)
+
+![image-20230329213951786](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213951786.png)
+
+![image-20230329214010450](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214010450.png)
+
+![image-20230329214032317](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214032317.png)
+
+![image-20230329214055025](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214055025.png)
+
+![image-20230329214120261](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214120261.png)
+
+![image-20230329214145659](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214145659.png)
+
+![image-20230329214201992](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214201992.png)
+
+![image-20230329214218739](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214218739.png)
+
+![image-20230329214253875](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214253875.png)
+
+![image-20230329214308979](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214308979.png)
+
+![image-20230329214354761](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214354761.png)
+
+![image-20230329214424999](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214424999.png)
+
+![image-20230329214434989](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214434989.png)
+
+![image-20230329214449050](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214449050.png)
+
+![image-20230329214514319](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214514319.png)
+
+![image-20230329214529947](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214529947.png)
+
+![image-20230329214543856](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214543856.png)
+
+![image-20230329214556220](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214556220.png)
+
+![image-20230329214606532](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214606532.png)
+
+![image-20230329214623042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214623042.png)
+
+![image-20230329214633562](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214633562.png)
+
+![image-20230329214646412](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214646412.png)
 
 ### 第三节 高阶导数
 
+![image-20230329214713570](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214713570.png)
 
+![image-20230329214733674](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214733674.png)
 
-### 第四节 隐函数
+![image-20230329214749649](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214749649.png)
+
+![image-20230329214806616](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214806616.png)
+
+![image-20230329214818042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214818042.png)
+
+![image-20230329214838863](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214838863.png)
+
+![image-20230329214848957](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214848957.png)
+
+![image-20230329214901388](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214901388.png)
+
+![image-20230329214913661](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214913661.png)
+
+![image-20230329214934045](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214934045.png)
+
+![image-20230329214944407](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214944407.png)
+
+![image-20230329215003497](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215003497.png)
+
+![image-20230329215017950](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215017950.png)
+
+![image-20230329215031830](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215031830.png)
+
+![image-20230329215049497](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215049497.png)
+
+### 第四节 隐函数 及由参数方程确定的函数求导 
 
 
 
