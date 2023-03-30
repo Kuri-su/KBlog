@@ -891,9 +891,22 @@ A part 主要是关于 导数&微分
 
 ### 第一节 导数概念
 
-![image-20230320221006240](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230320221006240.png)
+* 定义
+  * $y=f(x) (x\in \mathbb{D}), x_0\in \mathbb{D}, x_0+\Delta x\in \mathbb{D}$
+  * $\Delta y = f(x_0+\Delta x)-f(x_0)$
+  * 若 $lim_{\Delta x \to 0}\frac{\Delta y }{\Delta x}, 存在,  称 f(x) 在 x=x_0 处 可导$
+  * 极限值 称为 $f(x) 在 x=x_0 处的导数, 记 f'(x_0) 或 \frac{dy}{dx}|_{x=x_0}$
+* 例子: 
+  * 1
+    * $y=x^3, 求 y=x^3 在 x=2 处的导数$
+    * 解: 
+      * $\Delta y = f(2+\Delta x)-f(2)=(2+\Delta x)^3-2^3=3*2^2\Delta x+ 3*2(\Delta x )^2+(\Delta x)^3$
+      * $=12\Delta x + 6(\Delta x)^2+(\Delta x)^3$
+      * $lim_{\Delta x\to 0}\frac{\Delta y}{\Delta x}=\lim_{\Delta x \to 0}[12+6\Delta x+(\Delta x)^2]=12$
+      * 即 $\frac{dy}{dx}|_{x=2}=12$
 
-![image-20230329212909223](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212909223.png)
+* Notes: 
+  1. 
 
 ![image-20230329212925901](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212925901.png)
 
