@@ -1002,19 +1002,30 @@ A part 主要是关于 导数&微分
         * $\Rightarrow lim_{\Delta \to 0}\frac{\Delta \varphi}{\Delta x}=lim_{\Delta x \to 0}\frac{\Delta u}{\Delta x}+lim_{\Delta\to 0}\frac{\Delta v}{\Delta x}$
         * $\therefore [u(x)+v(x)]'=u'(x)+v'(x)$
      2. 令 $\varphi (x)=u(x)v(x)$
-        * $\Delta \varphi= \varphi (x+\Delta)$
+        * $\Delta \varphi= \varphi (x+\Delta)-\varphi(x)=u(x+\Delta x)v(x+\Delta x)-u(x)v(x)$
+        * $=u(x+\Delta x)v(x+\Delta x)-u(x)v(x+\Delta x)+u(x)v(x+\Delta x)-u(x)v(x)$
+        * $=\Delta u\cdot v(x+\Delta x)+u(x)\cdot \Delta v$
+        * $\frac{\Delta \varphi}{\Delta x}=\frac{\Delta u}{\Delta x}\cdot v(x+\Delta x)+u(x)\cdot \frac{\Delta v}{\Delta x}$
+        * $\because lim_{\Delta x\to 0}\frac{\Delta \varphi}{\Delta x}=lim_{\Delta x\to0}\frac{\Delta u}{\Delta x}\cdot lim_{\Delta x\to 0}v(x+\Delta x)+u(x)\cdot lim_{\Delta x\to 0}\frac{\Delta v}{\Delta x}$
+        * $\because v(x) 可导, \therefore v(x) 连续, \therefore lim_{\Delta x\to 0}v(x+\Delta x)=v(x)$
+        * $\therefore \varphi'(x)=u'(x)v(x)+u(x)v'(x)$
+        * 即 $[u(x)v(x)]'=u'(x)v(x)+u(x)v'(x)$
+     3. $\varphi(x)=\frac{u(x)}{v(x)} (v(x)\ne 0)$
+        * $\Delta \varphi =\varphi (x+\Delta x)-\varphi (x)=\frac{u(x+\Delta x)}{v(x+\Delta x)}-\frac{u(x)}{v(x)}$
+        * $=\frac{u(x+\Delta x)v(x)-u(x)v(x+\Delta x)}{v(x)v(x+\Delta x)}$
+        * $=\frac{u(x+\Delta x)v(x)-u(x)v(x)-[u(x)v(x+\Delta x)-u(x)v(x)]}{v(x)v(x+\Delta x)}$
+        * $=\frac{\Delta u\cdot v(x)-u(x)\cdot \Delta v}{v(x)v(x+\Delta x)}$
+        * $\frac{\Delta \varphi}{\Delta x}=\frac{1}{v(x)v(x+\Delta x)}\cdot [\frac{\Delta u}{\Delta x}\cdot v(x)-u(x)\cdot \frac{\Delta v}{\Delta x}]$
+        * $lim_{\Delta x \to 0}\frac{\Delta \varphi}{\Delta x}=\frac{1}{v(x)}\cdot\frac{1}{lim_{\Delta x \to 0}v(x+\Delta x)}\cdot [v(x)\cdot lim_{\Delta x\to 0}\frac{\Delta u}{\Delta x}-u(x)\cdot lim_{\Delta x \to 0}\frac{\Delta v}{\Delta x}]$
+        * 即 $\varphi '(x)=\frac{1}{v^2(x)}\cdot [u'(x)v(x)-u(x)\cdot v'(x)]$
+        * $\therefore [\frac{u(x)}{v(x)}]'=\frac{u'(x)v(x)-u(x)v'(x)}{v^2(x)}$
+  3. 推论
+     1. $(ku)'=k'u+ku'=ku;$
+     2. 
 
 
 
-![image-20230329213715268](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213715268.png)
 
-![image-20230329213731807](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213731807.png)
-
-![image-20230329213753071](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213753071.png)
-
-![image-20230329213814559](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213814559.png)
-
-![image-20230329213832378](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213832378.png)
 
 ![image-20230329213854004](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213854004.png)
 
