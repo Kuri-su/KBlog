@@ -906,19 +906,39 @@ A part 主要是关于 导数&微分
       * 即 $\frac{dy}{dx}|_{x=2}=12$
 
 * Notes: 
-  1. 
+  1. $f'(x_0)=lim_{\Delta x\to0}\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}$ (定义1)
+     * $x_0\to x, f(x_0)\to f(x)$
+     * $\Delta x = x-x_0, \Delta y = f(x)-f(x_0)$
+     * $f'(x_0)=lim_{x\to x_0}\frac{f(x)-f(x_0)}{x-x_0}$ (等价定义, 定义2)
+  2. 当 $f(x) 在 x=x_0 可导, 则 f(x) 在 x=x_0 连续$
+     * 证明: 
+       * $\because f(x) 在 x=x_0 可导$
+       * $\therefore lim_{x\to x_0}\frac{f(x)-f(x_0)}{x-x_0} 存在$
+       * $\therefore lim_{x\to x_0}[f(x)-f(x_0)]=0 ; \Rightarrow lim_{x\to x_0}f(x)=f(x_0)$
+       * $即 f(x) 在 x=x_0 连续$
+  3. $\Delta x\to 0 \begin{cases} \Delta x \to 0^- \\ \Delta x \to 0^+\end{cases} (或 x\to x_0 \begin{cases}x\to x_0^- \\ x\to x_0^+ \end{cases})$
+     * $lim_{\Delta x\to 0^-}\frac{\Delta y}{\Delta x}(=lim_{x\to x^-_0}\frac{f(x)-f(x_0)}{x-x_0}) \triangleq f_-'(x_0)$ - 左导数
+     * $lim_{\Delta x\to 0^+}\frac{\Delta y}{\Delta x}(=lim_{x\to x^+_0}\frac{f(x)-f(x_0)}{x-x_0}) \triangleq f_+'(x_0)$ - 右导数
+     * $f'(x_0)\exists \Leftrightarrow f_-'(x_0), f_+'(x_0) 存在且相等 $
+* 例子: 
+  * 1
+    * $f(x) = \begin{cases} ln(1+2x),& x\geq 0 \\ e^x-1, & x<0  \end{cases}, 讨论 f(x) 在 x=0 可导性$
+    * 解: 
+      * $f(0-0)=lim_{x\to 0^-}f(x)=lim+{x\to 0^-}(e^x-1)=0;$
+      * $f(0)=0;$
+      * $f(0+0)=lim_{x\to 0^+}f(x)=lim+{x\to 0^+}ln(1+2x)=0;$
+      * $\because f(0-0)=f(0+0)=f(0)=0$
+      * $\therefore f(x) 在 x=0 连续$
+      * $f_-'(0)=lim_{x\to 0^-}\frac{f(x)-f(0)}{x-0}=lim_{x\to0^-}\frac{e^x-1}{x}=1;$
+      * $f_+'(0)=lim_{x\to 0^-}\frac{f(x)-f(0)}{x-0}=lim_{x\to0^+}\frac{ln(1+2x)}{x}=2;$
+      * $\because f_-'(0)\ne f_+'(0), \therefore f(x) 在 x=0 不可导$
+  * 2
+    * $y=f(x)=|x|, 研究 f(x) 在 x=0 可导性$
+    * 解: 
+      * 显然, $y=f(x)=|x| 在 x=0 连续$
+      * $f_-'(0)$
 
-![image-20230329212925901](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212925901.png)
 
-![image-20230329212956298](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329212956298.png)
-
-![image-20230329213011791](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213011791.png)
-
-![image-20230329213100262](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213100262.png)
-
-![image-20230329213122887](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213122887.png)
-
-![image-20230329213147636](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213147636.png)
 
 ![image-20230329213203915](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213203915.png)
 
