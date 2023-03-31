@@ -936,31 +936,74 @@ A part 主要是关于 导数&微分
     * $y=f(x)=|x|, 研究 f(x) 在 x=0 可导性$
     * 解: 
       * 显然, $y=f(x)=|x| 在 x=0 连续$
-      * $f_-'(0)$
+      * $f_-'(0)=lim_{x\to 0^-}\frac{f(x)-f(0)}{x-0}=lim_{x\to0^-}\frac{|x|}{x}=-1;$
+      * $f_+'(0)=lim_{x\to0^+}\frac{f(x)-f(0)}{x-0}=lim_{x\to0^+}\frac{|x|}{x}=1;$
+      * $\because f_-'(0)\ne f_+'(0) , \therefore f(x) 在 x=a 不可导$
 
-
-
-![image-20230329213203915](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213203915.png)
-
-![image-20230329213234106](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213234106.png)
-
-![image-20230329213251264](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213251264.png)
-
-![image-20230329213340135](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213340135.png)
-
-![image-20230329213357581](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213357581.png)
-
-![image-20230329213424412](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213424412.png)
-
-![image-20230329213438017](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213438017.png)
+* 定理
+  * $f(x) 在 x = x_0 \Rightarrow f(x) 在 x=x_0$
+* 举例: 
+  1. $y=f(x)=C, 求 f'(x)$
+     * 解: 
+       * $f'(x)=lim_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x}=lim_{\Delta x\to 0}\frac{C-C}{\Delta x}=0$
+       * $即 (C)'=0$
+  2. $y=x^n, 求 f'(a)$
+     * 解:
+       * $f'(a)=lim_{x\to a}\frac{f(x)-f(a)}{x-a}=lim_{x\to a}\frac{x^n-a^n}{x-a}$
+       * $=lim_{x\to a}\frac{(x-a)(x^{n-1}+ax^{n-2}+ ... + a^{n-2}x+a^{n-1})}{x-a}$
+       * $=lim_{x\to a}(x^{n-1}+ax^{n-2}+...+a^{n-1})=na^{n-1}$
+       * $\therefore (x^n)'=nx^{n-1}$
+       * 一般的, $(x^a)'=ax^{a-1}$
+  3. $y=f(x)=a^x (a>0 且 a\ne 1), 求 f'(x)$
+     * 解:
+       * $f'(x)=lim_{\Delta x \to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$
+       * $=lim_{\Delta x\to0}\frac{a^{x+\Delta x}-a^x}{\Delta x}$
+       * $=a^x\cdot lim_{\Delta x \to 0}\frac{a^{\Delta x}-1}{\Delta x}$
+       * $= a^x \cdot lim_{\Delta x \to 0} \frac{e^{\Delta x \cdot ln a} -1}{\Delta x}$ ; $e^\Delta -1 \sim \Delta (\Delta \to 0)$
+       * $= a^x \cdot lim_{\Delta x \to 0}\frac{\Delta x \cdot lna}{\Delta x}= a^x\cdot ln a$
+       * $\therefore (a^x)'=a^x\cdot ln a$
+       * 特别的 , $(e^x)'=e^x$
+  4. $y=f(x)=log_ax (a>0 且 a\ne 1, x>0), 求 f'(x)$
+     * 解:
+       * $f'(x)=lim_{\Delta x\to0}\frac{f(x+\Delta x)-f(x)}{\Delta x}$
+       * $=lim_{\Delta x\to 0}\frac{log_a{x+\Delta x}-log_a{x}}{\Delta x}= lim_{\Delta \to 0}\frac{1}{\Delta x}\cdot log_a{(1+\frac{\Delta x}{x})} $
+       * $=lim_{\Delta x \to 0}log_a({1+\frac{\Delta x}{x}})^{\frac{1}{\Delta x}}$
+       * $=log_a{lim_{\Delta x\to0}[(1+\frac{\Delta x}{x})^{\frac{x}{\Delta x}}]^\frac{1}{x}}; (1+\Delta )^{\frac{1}{\Delta}}\to e^{\Delta}(\Delta \to 0)$
+       * $=\frac{1}{x}log_ae=\frac{1}{x}\frac{lne}{lna}=\frac{1}{x\cdot ln a}$
+       * $\therefore (log_ax)'=\frac{1}{x\cdot lna}$
+       * 特别地, $(ln x)'=\frac{1}{x}$
+* 后续还缺 三角函数 和 反三角函数 的求导
 
 ### 第二节 求导法则
 
-![image-20230329213518317](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213518317.png)
+* 前言
+  * 对象: 初等函数 - 材料: 常数/基本初等函数, 动作: 四则/复合函数
+  * 任务1: 材料求导: 
+    1. $(c)'=0;$
+    2. $(x^a)'=ax^{a-1};$
+    3. $(a^x)'=a^xlna, (e^x)'=e^x$
+    4. $(log_ax)'=\frac{1}{x\cdot lna}, (lnx)'=\frac{1}{x};$
+    5. 三角函数
+       1. $(sinx)'=cosx;$
+       2. $(cosa)'=-sinx;$
+    6. 反三角函数
+       1. ?
 
-![image-20230329213624698](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213624698.png)
+* 求导四则法则
+  1. 设 $u(x), v(x) 可导$, 则
+     1. $[u(x)\pm v(x)]'=u'(x)\pm v'(x);$
+     2. $[u(x)v(x)]'=u'(x)v(x)+u(x)v'(x);$
+     3. 设 $v(x)\ne 0, [\frac{u(x)}{v(x)}]'=\frac{u'(x)v(x)-u(x)v'(x)}{v^2(x)}$
+  2. 证明: 
+     1. 令 $\varphi (x)=u(x)+v(x)$
+        * $\Delta \varphi =\varphi (x+\Delta x)-\varphi (x)=u(x+\Delta x)+ v(x+\Delta x)-u(x)-v(x)$
+        * =$\Delta u + \Delta v$
+        * $\frac{\Delta \varphi }{\Delta x}=\frac{\Delta u}{\Delta x}+\frac{\Delta v}{\Delta x}$
+        * $\Rightarrow lim_{\Delta \to 0}\frac{\Delta \varphi}{\Delta x}=lim_{\Delta x \to 0}\frac{\Delta u}{\Delta x}+lim_{\Delta\to 0}\frac{\Delta v}{\Delta x}$
+        * $\therefore [u(x)+v(x)]'=u'(x)+v'(x)$
+     2. 令 $\varphi (x)=u(x)v(x)$
 
-![image-20230329213646058](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213646058.png)
+
 
 ![image-20230329213715268](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213715268.png)
 
