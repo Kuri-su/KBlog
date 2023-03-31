@@ -1002,6 +1002,7 @@ A part 主要是关于 导数&微分
         * $\Rightarrow lim_{\Delta \to 0}\frac{\Delta \varphi}{\Delta x}=lim_{\Delta x \to 0}\frac{\Delta u}{\Delta x}+lim_{\Delta\to 0}\frac{\Delta v}{\Delta x}$
         * $\therefore [u(x)+v(x)]'=u'(x)+v'(x)$
      2. 令 $\varphi (x)=u(x)v(x)$
+        * $\Delta \varphi= \varphi (x+\Delta)$
 
 
 
