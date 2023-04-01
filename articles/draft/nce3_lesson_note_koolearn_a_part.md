@@ -1769,3 +1769,146 @@
         * → Francis Preston Blair Jr., although born in Kentucky, lived and practiced in Missouri.
       * → However, he had at last been allowed to send a fax in which he informed the editor that **he** had been arrested while **~~(he had been)~~** counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
   * 好的句子的特征是没有一句废话和一个多余的词
+
+## L6 Smash and grab
+
+**## word**
+
+* smash-and-grab /,smæʃ ən 'ɡræb/ n. 砸橱窗抢劫
+  * 英文释意: . 
+  * smash v. 打碎, 砸碎 , 可以表示主语本身粉碎, 或者把宾语打碎, 也有把宾语打倒的意思(引申意)
+    * **smash** the window (及物)
+    * → The glass **smashed** into small bits. (不及物)
+      * "into"是一个介词，表示一种变化、转换或状态的改变。
+    * → We're determined(有决心的) to **smash** terrorism. 我们下定决心打倒/粉碎 恐怖主义
+    * **smash** the Gang(匪帮) of Four 打倒四人帮
+    * 同义词
+      * shatter v. 粉碎(及物不及物皆可)
+        * . (及物)
+        * . (不及物)
+        * → .
+          * in your arms 这里注意 arm 得是复数才表示怀中, 单数就是胳膊里了就emmmm
+          * matter 这里表示重要
+        * 派生意
+          * . 
+  * grab v. 抢过来, 夺过来
+    * → 
+      * mugger 抢劫犯 n.
+        * mug v. 当街抢劫
+    * 同义词
+      * seize v. 强制夺取, 
+        * → 
+      * rob v. 抢劫 (特指非法夺取)
+        * → The convenience store was robbed last night.
+
+* jewallery/jewelry  /ˈdʒuːəlri/ n. 珠宝 (总称, 高档珠宝, 不可数)
+  * a piece of **jewelry** 一件珠宝 (不能用 a jewelry)
+  * two pieces of **jewelry** 两件珠宝
+  * 她有很多漂亮的珠宝
+    * .
+    * . 
+    * 可数形式变形成 不可数形式 (因为是总称所以不可数)
+      * jewel → jewelry 
+      * scene → scenery 风景风光 (+ry)
+      * machine → machinery 机器机械(泛指)
+      * weapon → weaponry 武器军备(泛指)
+      * poem → poetry 诗歌(文学题材)
+      * novel[ˈnɑːvəl 注意第一个元音不发噢的音]→ fiction 小说(文学题材总称)
+      * myth → mythology 神话 (文学题材)
+      * leaf → foliage 树叶(通常指全部或部分的叶子)
+      * table/chair ... → furniture 家具
+      * pen/pencil ... → stationery 文具
+      * trunk/suitcase ... 行李箱/箱子 → luggage /baggage 行李
+
+* staff [stæf] n. 一个组织的 全体工作人员 , 手杖, 拐杖
+  * →  
+  * .
+  * .
+  * .
+    * → 
+    * → 
+  * 同义词
+    * cast n. 某部电影中的全体演员 (卡斯)
+    * crew n. 一群人, 一群机组人员, 一艘船的工作人员, 一个装修队
+    * faculty n. 一个学校的全体老师, 或者大学里一个专业的全体教师
+    * audience n. 一个戏院/剧场/礼堂的台下的全部观众, 两个大礼堂就可以用复数
+
+**## text 1**
+
+* 这是一片记叙文, 英语记叙文 (narrative) 的 要点
+  1. . (必须)
+  2. . 
+     * 句式多变, 避免句式的单调死板 也是英文写作中必要的.
+* 第一段第一句在描述地点和大致的时间
+* expensive 在这里不翻译成贵的来修饰 shop, 而是翻译成 高档的 来修饰 shop, 本意/抽象含义 是费钱的.
+  * .
+  * →  
+    * 玛丽是一个费钱的女孩 (拜金), 她吃得像马一样多(类似中文中的吃得和猪一样多, 英文中也常说成吃得和 狮子一样多, 英文中如何说 eat like a pig, 通常不是说吃得多, 而是说吃得没有吃相, 不优雅).
+  * 近义词, 豪华的, 高档的
+    * .
+    *  .
+* arcade n. 有顶的商业街, (下雨也可以逛)
+  * arc(arch) 这个词(根)有拱 或者 弧形的含义
+  * . 
+  * .
+* 在附近 的介词/介词短语的表达
+  * around ...
+  * close to ...
+  * .
+  * .
+  * . (更正式, 口语中比较少用)
+  * . (更正式)
+  * off ... (在... 的附近)
+    * → 
+    * 听力题 
+      * →
+        * dormitory n. 宿舍楼(美式) 宿舍的房间(英式)
+        * Not if I can help it.
+          * 如果我能避免的它话就不要, 这里 help 表示避免
+        * off campus 学院附近
+* 造句: 
+  * .
+    * →
+* empty adj. 空的, 空荡荡的
+  * .
+* 职业后面加 属格表示 职业的工作场所
+  * the jeweler's 珠宝店
+  * the grocer's 杂货店
+  * . 裁缝店
+  * . 面包店
+  * . 肉店
+  * . 理发店
+  * . 文具店
+  * . 药店
+    * chemist 化学家/药剂师
+  * 人名后面加属格, 某人的房子/家庭/大学/..., 要视具体的语境和上下文而定
+    * → 
+    * → 
+    * → 
+* admire v. 赞赏, 钦佩, 注目, 
+  * 这是一个静态的动词, 不太适合用 进行时, 表示 我正在倾佩您的意思会比较奇怪. 这个词用 进行时的时候, 表示用欣赏的眼光在看
+  * → 
+  * →  
+  * 同义词/词组
+    * gaze at ... 欣赏的看, 充满兴趣的看
+      * → 
+      * → 
+        * belle n. 美女 (来自法语)
+* assistants n. 店员/ 助理
+  * .  助理经理
+  * (shop) assistant (英式)
+  * (shop) clerk (美式)
+* had been doing 过去完成进行时
+  * 表示持续性的动作 一直做到过去的某时, 而且还有可能继续下去.
+  * → 
+  * → 
+* **only just** adv. not long ago / before 刚刚
+  * → 
+  * → 
+* arrange v. 布置
+  * → 
+  * → 
+    * alphabetical adj. 按字母顺序排列的
+* 动名词的一般时无视时态万用
+  * → After **gazing** at the display for several minutes,
+* 

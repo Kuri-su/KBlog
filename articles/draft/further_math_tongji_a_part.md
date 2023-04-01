@@ -1024,7 +1024,8 @@ A part 主要是关于 导数&微分
           * $y'=(x^3)'e^x+x^3\cdot(e^x)'=3x^2e^x+x^3e^x$
      5. $y=tanx, 求 y'; y=cotx, 求 y'; y=secx, 求 y'; y=cscx, 求 y'$
         * 解: 
-          1. 
+          1. $(tanx)'=(\frac{sinx}{cosx})'=\frac{(sinx)'cosx-sinx\cdot(cosx)'}{cos^2x}$
+             * =
   3. 推论
      1. $(ku)'=k'u+ku'=ku;$
      2. $(uvw)'=(uv')w+(uv)w'$
