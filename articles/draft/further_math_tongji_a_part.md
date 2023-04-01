@@ -1019,15 +1019,18 @@ A part 主要是关于 导数&微分
         * $lim_{\Delta x \to 0}\frac{\Delta \varphi}{\Delta x}=\frac{1}{v(x)}\cdot\frac{1}{lim_{\Delta x \to 0}v(x+\Delta x)}\cdot [v(x)\cdot lim_{\Delta x\to 0}\frac{\Delta u}{\Delta x}-u(x)\cdot lim_{\Delta x \to 0}\frac{\Delta v}{\Delta x}]$
         * 即 $\varphi '(x)=\frac{1}{v^2(x)}\cdot [u'(x)v(x)-u(x)\cdot v'(x)]$
         * $\therefore [\frac{u(x)}{v(x)}]'=\frac{u'(x)v(x)-u(x)v'(x)}{v^2(x)}$
+     4. $y=x^3e^x, 求 y'$
+        * 解
+          * $y'=(x^3)'e^x+x^3\cdot(e^x)'=3x^2e^x+x^3e^x$
+     5. $y=tanx, 求 y'; y=cotx, 求 y'; y=secx, 求 y'; y=cscx, 求 y'$
+        * 解: 
+          1. 
   3. 推论
      1. $(ku)'=k'u+ku'=ku;$
-     2. 
-
-
-
-
-
-![image-20230329213854004](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213854004.png)
+     2. $(uvw)'=(uv')w+(uv)w'$
+        * $=(u'v+uv')w+uvw'$
+        * $=u'vw+uv'w+uvw'$
+     3. 
 
 ![image-20230329213919146](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213919146.png)
 
