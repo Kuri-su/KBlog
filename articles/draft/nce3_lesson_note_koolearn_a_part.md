@@ -1892,8 +1892,11 @@
   * 同义词/词组
     * gaze at ... 欣赏的看, 充满兴趣的看
       * → 
-      * → 
+      * → He **gaze**d **at** the belle.
         * belle n. 美女 (来自法语)
+      * → He **stare**d **at** the belle. 瞪大眼镜, 瞪圆眼睛在看
+      * → He **gape**d **at** the belle. 强调下颚下拉, 张嘴, 看傻了
+      * → The belle **glare**d **at** him. 怒目而视 
 * assistants n. 店员/ 助理
   * .  助理经理
   * (shop) assistant (英式)
@@ -1911,4 +1914,17 @@
     * alphabetical adj. 按字母顺序排列的
 * 动名词的一般时无视时态万用
   * → After **gazing** at the display for several minutes,
-* 
+* 作文写法
+  * 文似看山不喜平。为人贵直,而作诗文者贵曲。        — 袁枚《随园诗话》
+
+
+**## text 2**
+
+* → 
+  * horn n. 喇叭 (本来意思是牛羊的犄角, 后面又派生出号角的意思, 接着就变成喇叭)
+  * blaring adj. 刺耳的, 大声喧哗的
+  * 独立主格
+    * .
+  * 
+  * → 
+  * → 

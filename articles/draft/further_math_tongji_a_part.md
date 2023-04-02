@@ -990,6 +990,7 @@ A part 主要是关于 导数&微分
        1. ?
 
 * 求导四则法则
+
   1. 设 $u(x), v(x) 可导$, 则
      1. $[u(x)\pm v(x)]'=u'(x)\pm v'(x);$
      2. $[u(x)v(x)]'=u'(x)v(x)+u(x)v'(x);$
@@ -1025,27 +1026,44 @@ A part 主要是关于 导数&微分
      5. $y=tanx, 求 y'; y=cotx, 求 y'; y=secx, 求 y'; y=cscx, 求 y'$
         * 解: 
           1. $(tanx)'=(\frac{sinx}{cosx})'=\frac{(sinx)'cosx-sinx\cdot(cosx)'}{cos^2x}$
-             * =
-  3. 推论
+             * =$\frac{cos^2x+sin^2x}{cos^2x}; secx=\frac{1}{cosx}, sin^2x+cos^2x=1$
+             * $=\frac{1}{cos^2x}=sec^2x$
+          2. $(cotx)'=(\frac{cosx}{sinx})'=\frac{(cosx)'\cdot sinx-cosx\cdot(sinx)'}{sin^2x}$
+             * $=\frac{-sin^2x-cos^2x}{sin^2x}; cscx=\frac{1}{sinx}$
+             * $=-\frac{1}{sin^2x}=-csc^2x$
+          3. $(secx)'=(\frac{1}{cosx})'=\frac{1'\cdot cosx - 1\cdot (cosx)'}{cos^2x}$
+             * $=\frac{sinx}{cos^2x}=\frac{1}{cosx}\cdot \frac{sinx}{cosx}=secx\cdot tanx$
+          4. $(cscx)'=(\frac{1}{sinx})'=\frac{1'\cdot sinx-1\cdot (sinx)'}{sin^2x}$
+             * $=-\frac{cosx}{sin^2x}=-\frac{1}{sinx}\cdot \frac{cosx}{sinx}=-cscx\cdot cotx$
+
+  1. 推论
      1. $(ku)'=k'u+ku'=ku;$
      2. $(uvw)'=(uv')w+(uv)w'$
         * $=(u'v+uv')w+uvw'$
         * $=u'vw+uv'w+uvw'$
-     3. 
+     3. 三角函数
+        * $(sinx)'=cosx$
+        * $(cosx)'=-sinx$
+        * $(tanx)'=sec^2x$
+        * $(cotx)'=-csc^2x$
+        * $(secx)'=secx\cdot tanx$
+        * $(cscx)'=-cscx\cdot cotx$
 
-![image-20230329213919146](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213919146.png)
+  * 例子: 
+    * 1
+      * $y=f(x)=x(x+1).....(x+99), 求 f'(0)$
+      * 解: 
+        * 法一:
+          * $f'(0)=lim_{x\to0}\frac{f(x)-f(0)}{x-0}=lim_{x\to0}(x+1)...(x+99)=99!$
+        * 法二: 
+          * $f'(x)=(x+1)(x+2)...(x+99)+x(x+2)...(x+99)+ .. + x(x+1)...(x+98)$
+          * $\therefore f'(0)=99!$
 
-![image-20230329213929790](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213929790.png)
-
-![image-20230329213941479](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213941479.png)
-
-![image-20230329213951786](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329213951786.png)
-
-![image-20230329214010450](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214010450.png)
-
-![image-20230329214032317](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214032317.png)
-
-![image-20230329214055025](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214055025.png)
+* 反函数求导法则
+  * $y=f(x) 严格单调$
+  * $u=f(x)\Rightarrow x=\varphi (y)$
+  * 定理 1: 
+    * 
 
 ![image-20230329214120261](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214120261.png)
 
