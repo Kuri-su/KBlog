@@ -1928,3 +1928,73 @@
   * 
   * → 
   * → 
+  * →  
+  * → 
+  * 在一些庄重的场合, 我们可以把 with 去掉, 一般来说加不加 with 区别不大
+  * → 
+  * → 
+  * 独立主格比非谓语动词 多了 独立主格中描述 自己的逻辑主语 的部分 , 使用非谓语动词隐含的主语和实际主语是一致的, 如果非谓语动词自己的逻辑主语和主句主语不一致, 那这个时候, 就可以加上非谓语动词自己的逻辑主语.
+    * 所以, 非谓语动词的逻辑主语和主句一致时, 可以省略, 这个时候叫做非谓语. 非谓语动词的逻辑主语和主句不一致时, 不可以省略, 这个时候叫 独立主格.
+    * → He came in and carried a book.
+      * 但如果这时我想强调其中的一个动作, 而把另一个动作作为次要信息, 上面的句子用 非谓语动词即可.
+      * → He came in **carrying a book**. (主语统一)
+      * → He came in and a book was in his hand. (主语不统一, 突出强调 book)
+      * → He came in **(with) a book (being) in his hand**.
+
+* roar v. 吼叫, 咆哮(狮子老虎的吼叫声), 派生意是 n. 轰鸣声, 
+* → The __ __ __ of airplane engines announced a coming air raid.
+  * A. roar (轰鸣声)
+  * B. exclamation (大声的惊呼声)
+  * C. whistle (口哨声)
+  * D. scream (尖叫声)
+* 造句:
+  * 
+  * →  
+* **come to a <u>stop</u> / <u>halt</u> = <u>stop</u> / <u>halt</u>**
+  * → 
+  * come to an end = end
+  * come to a close = close
+  * .
+  * .
+
+**## text 3**
+
+* → 
+  * at the wheel (习语搭配)在驾驶室, 在驾驶舱, wheel 表示车轮/方向盘, 所以这个能表达在驾驶室
+  * while 引导并列句的时候表示 '而', 表达轻微的对比. 而不是表示 ''当某时'', 
+    * whereas 也能表示 '**而**'
+    * → 
+    * while 还能表示 尽管, 类似于 Although, 放在句首, 引导 让步状语从句
+      * → 
+        * likeable adj. 讨人喜欢的, likeable 是英式写法, 美式写法是 likable
+      * → 
+      * →
+        * bedrock 基石
+
+* began doing / began to do 区别不大, 尤其在当代英语, 
+  * began doing 多是主动发出的行为
+    * → 
+  * began to do 多描述一个可观发生的现象
+    * → 
+    * → 
+* 非谓语做方式状语
+  * → Chairs and tables went **flying** into the arcade.
+  * → The boy went **running** to meet him.
+  * → The girl came **bouncing** to tell me the news.
+* → One of the thieves was struck by a heavy statue(雕像), but he was too busy helping himself to diamonds to notice any pain(疼痛).
+  * 忙于做某事
+    * .
+      * → 
+    * .
+      * → 
+    * .
+      * → 
+  * 习语搭配 help oneself to sth. 有两个意思 (都是未经允许, 自己拿的状态, 自取, 不客气了哈)
+    1. 别客气, 请自己拿
+       * → **Help yourself to** a beer.
+    2. 偷/抢
+       * → They **helped themselves to** the farmer's apples.
+* The raid was all over **in** three minutes, 这里的in 是用了 多久的意思
+  * → (NCE2-5 P28-15) The birds covered the distance **in** three minutes.
+  * 表示 多久之内可以用 under, 例如 under three minutes. within 也行, within three minutes.
+  * 
