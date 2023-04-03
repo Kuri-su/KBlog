@@ -1259,29 +1259,105 @@ A part 主要是关于 导数&微分
 
 ### 第四节 隐函数 及由参数方程确定的函数求导 
 
+![image-20230403185838232](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185838232.png)
 
+![image-20230403185858117](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185858117.png)
 
-### 第五节 参数方程
+![image-20230403185917118](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185917118.png)
 
+![image-20230403185938161](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185938161.png)
 
+![image-20230403185957208](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185957208.png)
 
-### 第六节 微分
+![image-20230403190015776](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190015776.png)
 
+![image-20230403190039022](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190039022.png)
 
+![image-20230403190102544](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190102544.png)
 
+![image-20230403190116046](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190116046.png)
 
+![image-20230403190131571](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190131571.png)
 
+![image-20230403190148587](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190148587.png)
 
+![image-20230403190206428](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190206428.png)
 
+![image-20230403190440254](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190440254.png)
 
+![image-20230403190457707](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190457707.png)
 
+![image-20230403190518595](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190518595.png)
 
+![image-20230403190533769](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190533769.png)
 
+![image-20230403190545286](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190545286.png)
 
+![image-20230403190602155](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190602155.png)
 
+### 第五节 微分
 
+![image-20230403190648263](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190648263.png)
 
+![image-20230403191030854](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191030854.png)
 
+![image-20230403191049335](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191049335.png)
+
+![image-20230403191103096](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191103096.png)
+
+![image-20230403191124055](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191124055.png)
+
+![image-20230403191139170](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191139170.png)
+
+![image-20230403191157144](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191157144.png)
+
+![image-20230403191210697](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191210697.png)
+
+![image-20230403191225840](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191225840.png)
+
+![image-20230403191244043](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191244043.png)
+
+![image-20230403191304069](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191304069.png)
+
+![image-20230403191317832](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191317832.png)
+
+![image-20230403191332973](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191332973.png)
+
+![image-20230403191354478](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191354478.png)
+
+![image-20230403191419312](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191419312.png)
+
+![image-20230403191437973](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191437973.png)
+
+![image-20230403191449204](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191449204.png)
+
+![image-20230403191505736](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191505736.png)
+
+![image-20230403191518280](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191518280.png)
+
+![image-20230403191531325](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191531325.png)
+
+![image-20230403191548119](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191548119.png)
+
+![image-20230403191604881](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191604881.png)
+
+![image-20230403191616510](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191616510.png)
+
+![image-20230403191631259](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191631259.png)
+
+![image-20230403191655192](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191655192.png)
+
+![image-20230403191708784](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191708784.png)
+
+![image-20230403191727458](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191727458.png)
+
+![image-20230403191742486](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191742486.png)
+
+![image-20230403191754792](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191754792.png)
+
+![image-20230403191819642](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191819642.png)
+
+![image-20230403191848846](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191848846.png)
 
 
 
