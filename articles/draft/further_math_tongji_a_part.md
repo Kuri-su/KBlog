@@ -1063,25 +1063,62 @@ A part 主要是关于 导数&微分
   * $y=f(x) 严格单调$
   * $u=f(x)\Rightarrow x=\varphi (y)$
   * 定理 1: 
-    * 
-
-![image-20230329214120261](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214120261.png)
-
-![image-20230329214145659](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214145659.png)
-
-![image-20230329214201992](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214201992.png)
-
-![image-20230329214218739](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214218739.png)
-
-![image-20230329214253875](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214253875.png)
-
-![image-20230329214308979](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214308979.png)
-
-![image-20230329214354761](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214354761.png)
-
-![image-20230329214424999](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214424999.png)
-
-![image-20230329214434989](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214434989.png)
+    * $设 y=f(x) 可导, 且 f'(x)\ne 0, x=\varphi(y) 为反函数$
+    * $且 x=\varphi (y) 可导, 且 \varphi'(y)=\frac{1}{f'(x)}$
+      * 证明: 
+        * $f'(x)=lim_{\Delta x \to 0}\frac{\Delta y}{\Delta x}\ne 0 \Rightarrow \Delta y =O(\Delta x)$
+        * $\varphi'(y)=lim_{\Delta y \to 0}\frac{\Delta x}{\Delta y}=lim_{\Delta y \to 0}\frac{1}{\frac{\Delta y}{\Delta x}}$
+        * 由于 $\Delta y 是 \Delta x 的等价无穷小$
+        * $=lim_{\Delta x \to 0}\frac{1}{\frac{\Delta y}{\Delta x}}=\frac{1}{f'(x)}$
+        * $\therefore \varphi'(y)=\frac{1}{f'(x)}$
+  * 例子
+    * 1
+      * $y=arcsinx (-1<x<1), 求 y'$
+      * 解: 
+        * $y=arcsinx\Rightarrow x=siny$
+        * $y=f(x) , x=\varphi (y)$
+        * $由 f'(x)=\frac{1}{\varphi'(y)}\Rightarrow (arcsinx)'=\frac{1}{cosy}$
+        * $\because -1<x<1, \therefore -\frac{\pi}{2}<y<\frac{\pi}{2}\Rightarrow cosy >0$
+        * $\therefore (arcsinx)'=\frac{1}{\sqrt{1-sin^2y}}=\frac{1}{\sqrt{1-x^2}}$
+    * 2
+      * $y=arccosx (-1<x<1), 求 y'$
+      * 解: 
+        * $y=arccosx \Leftrightarrow x = cosy$
+        * $\because -1<x<1, \therefore 0<y<\pi$
+        * $又 \because f'(x)=\frac{1}{\varphi '(y)}$
+        * $\therefore (arccosx)'=-\frac{1}{siny}=-\frac{1}{\sqrt{1-cos^2y}}=-\frac{1}{\sqrt{1-x^2}}$
+    * 3
+      * $y=arctanx, 求 y'$
+      * 解: 
+        * $y=arctanx \Leftrightarrow x=tany$
+        * $\because -\infty < x <+\infty , \therefore -\frac{\pi}{2} < y < \frac{\pi}{2}$
+        * $\because f'(x)=\frac{1}{\varphi ' (y)}$
+        * $又 sec^2x=1+tan^2x, csc^2x=1+cot^2x$
+        * $\therefore (arctanx)'=\frac{1}{sec^2y}=\frac{1}{1+tan^2y}=\frac{1}{x^2+1}$
+    * 4
+      * $y=arccotx, y'$
+      * 解:
+        * $y=arccot x \Leftrightarrow x=coty$
+        * $\because -\infty < x < +\infty , \therefore 0<y<\pi$
+        * $又 \therefore f'(x)=\frac{1}{\varphi'(y)}$
+        * $(arccotx)'=-\frac{1}{csc^2y}=-\frac{1}{1+cot^2y}=-\frac{1}{1+x^2}$
+  * 记: 
+    * $ (arcsinx)'=\frac{1}{\sqrt{1-x^2}}$
+    * $ (arccosx)'=-\frac{1}{1-x^2}$
+    * $ (arctanx)'=\frac{1}{x^2+1}$
+    * $ (arccotx)'=-\frac{1}{x^2+1}$
+* 复杂函数的求导法则
+  * 定理 3:
+    * $y=f(u) 可导, u=\varphi(x) 可导, 且 \varphi '(x)\ne 0, 则 y=f[\varphi(x)]可导$
+    * $且 \frac{dy}{dx}=\frac{dy}{du}*\frac{du}{dx}=f'(u)\cdot \varphi'(x)=f'[\varphi(x)]\cdot \varphi'(x)$
+    * 证明: 
+      * $\varphi'(x)=\lim_{\Delta \to 0}\frac{\Delta u }{\Delta x}\ne 0 \Rightarrow \Delta u = O(\Delta x)$
+      * $\frac{dy}{dx}=lim_{\Delta x\to 0}\frac{\Delta y}{\Delta x}=lim_{\Delta x \to 0}(\frac{\Delta y}{\Delta u}\cdot \frac{\Delta u}{\Delta x})=lim_{\Delta x\to 0}\frac{\Delta y}{\Delta u}\cdot lim_{\Delta x\to 0}\frac{\Delta u}{\Delta x}$
+      * $=lim_{\Delta u \to 0}\frac{\Delta y}{\Delta u}\cdot lim_{\Delta x \to 0}\frac{\Delta u }{\Delta x}=f'(u)\cdot \varphi'(x)=f'[\varphi(x)]\cdot \varphi'(x)$
+      * 即 $\frac{dy}{dx}=f'[\varphi(x)]\cdot \varphi'(x)$
+  * 例子
+    * 1
+      * 
 
 ![image-20230329214449050](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214449050.png)
 
