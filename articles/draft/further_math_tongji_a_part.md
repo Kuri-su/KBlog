@@ -1118,25 +1118,58 @@ A part 主要是关于 导数&微分
       * 即 $\frac{dy}{dx}=f'[\varphi(x)]\cdot \varphi'(x)$
   * 例子
     * 1
-      * 
-
-![image-20230329214449050](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214449050.png)
-
-![image-20230329214514319](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214514319.png)
-
-![image-20230329214529947](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214529947.png)
-
-![image-20230329214543856](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214543856.png)
-
-![image-20230329214556220](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214556220.png)
-
-![image-20230329214606532](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214606532.png)
-
-![image-20230329214623042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214623042.png)
-
-![image-20230329214633562](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214633562.png)
-
-![image-20230329214646412](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214646412.png)
+      * $y=e^{x^3}+sin^2\frac{1}{x}, 求 y'$
+      * 解: 
+        * $y'=(e^{x^3})'+(sin^2\frac{1}{x})'$
+        * $=e^{x^3}\cdot 3x^2+2sin\frac{1}{x}\cdot cos\frac{1}{x}\cdot (-\frac{1}{x^2}); \ \ \ \ \varphi=u^2,u=sinv,v=\frac{1}{x}$
+    * 2
+      * $y=lntan(x^2+e^{2x}), 求 y'$
+      * 解: 
+        * $\frac{dy}{dx}=\frac{1}{tan(x^2+e^{2x})}\cdot sec^2(x^2+e^{2x})\cdot (2x+2e^{2x})$
+    * 3
+      * $y=e^{sin(x+\frac{1}{x})}, 求 y'$
+      * 解:
+        * $y'=e^{sin(x+\frac{1}{x})}\cdot cos(x+\frac{1}{x})\cdot (1-\frac{1}{x^2})$
+    * 4
+      * $y=arctan^2\frac{1-x}{1+x}, 求 y'$
+      * 解: 
+        * $y'=2arctan\frac{1-x}{1+x}\cdot \frac{1}{1+(\frac{1-x}{1+x})^2}\cdot \frac{(1-x)'(1+x)-(1-x)\cdot (1+x)'}{(1+x)^2}$
+        * $=2arctan\frac{1-x}{1+x}\cdot \frac{(1+x)^2}{(1+x)^2+(1-x)^2}\cdot \frac{-1-x-1+x}{(1+x)^2}$
+        * =$-2arctan \frac{1-x}{1+x}\cdot \frac{1}{x^2+1}$
+* 总结: 
+  * 三大工具
+    1. 基本公式
+       1. $(c)'=0;$
+       2. $(x^a)'=ax^{a-1};$
+          * $(x^n)'=nx^{n-1}$
+          * $\Rightarrow$
+          * $(x^a)'=(e^{alnx})')$
+            * $=e^{alnx}\cdot a \cdot \frac{1}{x}=x^a\cdot a\cdot \frac{1}{x}$
+            * $=ax^{a-1}$
+       3. $(a^x)'=a^xlna$
+          * $(e^x)'=e^x$
+          * $(a^x)'=(e^{xlna})'=e^{xlna}\cdot lna=a^xlna$
+       4. $(log_ax)'=\frac{1}{xlna} $
+          * $(lnx)'=\frac{1}{x}$
+       5. 三角函数
+          1. $(sinx)'=cosx,$
+          2. $(cosx)'=-sinx,$
+          3. $(tanx)'=sec^2x$
+          4. $(cotx)'=-csc^2x$
+          5. $(secx)'=secxtanx$
+          6. $(cscx)'=-cscxcotx$
+       6. 反三角函数
+          1. $(arcsinx)'=\frac{1}{\sqrt{1-x^2}}(-1<x<1)$
+          2. $(arccosx)'=-\frac{1}{1-x^2}(-1<x<1)$
+          3. $(arctanx)'=\frac{1}{1+x^2}(-\infty < x < +\infty)$
+          4. $(arccotx)'=-\frac{1}{1+x^2}(-\infty < x < +\infty)$
+    2. 四则
+       1. $(u\pm v)'=u'\pm v';$
+       2. $(uv)'=u'v+uv';$
+       3. $(\frac{u}{v})'=\frac{u'v-uv'}{v^2};$
+    3. 复合求导法则 - 链式法则
+       * $y=f(u) 可导, u=\varphi(x) 可导, 且 \varphi'(x)\ne 0$
+       * $\Rightarrow y=f[\varphi(x)] 可导, 且 \frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}=f'[\varphi(x)]\cdot \varphi'(x)$
 
 ### 第三节 高阶导数
 
