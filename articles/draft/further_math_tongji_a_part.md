@@ -1173,35 +1173,89 @@ A part 主要是关于 导数&微分
 
 ### 第三节 高阶导数
 
-![image-20230329214713570](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214713570.png)
-
-![image-20230329214733674](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214733674.png)
-
-![image-20230329214749649](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214749649.png)
-
-![image-20230329214806616](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214806616.png)
-
-![image-20230329214818042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214818042.png)
-
-![image-20230329214838863](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214838863.png)
-
-![image-20230329214848957](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214848957.png)
-
-![image-20230329214901388](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214901388.png)
-
-![image-20230329214913661](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214913661.png)
-
-![image-20230329214934045](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214934045.png)
-
-![image-20230329214944407](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329214944407.png)
-
-![image-20230329215003497](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215003497.png)
-
-![image-20230329215017950](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215017950.png)
-
-![image-20230329215031830](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215031830.png)
-
-![image-20230329215049497](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230329215049497.png)
+* 定义
+  * $y=f(x), f'(x)\triangleq\frac{dy}{dx} - y对 x 的 一阶导数$
+  * $若 f'(x) 可导$
+  * $[f'(x)]'\triangleq f''(x)=\frac{d(\frac{dy}{dx})}{dx}\triangleq \frac{d^2y}{dx^2} y对 x 的 二阶导数$
+  * $记 y'',f''(x), \frac{d^2y}{dx^2}$
+  * $若 f''(x) 可导$
+  * $[f''(x)]'\triangleq f'''(x)=\frac{d(\frac{d^2y}{dx^2})}{dx}\triangleq \frac{d^3y}{dx^3} - y 对 x 的 三阶导数$
+  * $记 y''', f'''(x), \frac{d^3y}{dx^3}$
+* 高阶导数的表示:
+  *  $y',y'',y''',y(4),y(5)...$
+* 二阶导数 以上的导数称为 高阶导数
+  * 若 $f^{(n-1)(x)} 可导, 则其导数 [f^{(n-1)}(x)]'\triangleq f^{(n)}(x) \triangleq \frac{d^ny}{dx^n}$
+* 例子
+  * 1
+    * $y=(3x-2)^3, 求 y'''$
+    * 解: 
+      * $y'=4(3x-2)^3\cdot 3$
+      * $y''=4\cdot 3(3x-2)^2\cdot 3^2$
+      * $y'''=4\cdot3\cdot2(3x-2)^1\cdot 3^3=4!\cdot 3^3(2x-2)$
+  * 2
+    * $y=e^{3x}, 求 y(10)$
+    * 解: 
+      * $y'=3e^(3x), y''=3\cdot 3e^{3x}=3^2\cdot e^{3x}$
+      * $y^{(10)}=3^10\cdot e^{3x}$
+* 方法一: 归纳法
+  * 例题
+    * 1
+      * $y=sinx, 求 y(n)$
+      * 解: 
+        * $y'=cosx=sin(x+\frac{\pi}{2})$,
+        * $y''=-sinx=sin(x+\frac{2\pi}{2})$,
+        * $y'''=-cosx=sin(x+\frac{3\pi}{2})$,
+        * $y(4)=sinx=sin(x+\frac{4\pi}{2})$,
+        * $sin(x+\frac{\pi}{2}+\pi)=-sin(x+\frac{\pi}{2})=-cosx$
+        * $\therefore y(n)=sin(x+\frac{n\pi}{2})$
+        * 即 $(sinx)^{(n)}=sin(x+\frac{n\pi}{2}) $
+        * 同理 $(cosx)^{(n)}=cos(x+\frac{n\pi}{2})$
+    * 2
+      * $y=e^xsinx, 求 y^{(n)}$
+      * 解: 
+        * $y'=(e^x)'sinx+e^x(sinx)'=e^xsinx+e^xcosx$
+        * $=e^x(sinx+cosx)$
+        * $=\sqrt2e^x(\frac{\sqrt2}{2}sinx+\frac{\sqrt2}{2}cosx)$
+        * $=\sqrt2e^xsinx(x+\frac{\pi}{4})$
+        * $由归纳法, y^{(n)}=(\sqrt2)^{(n)}e^xsin(x+\frac{n\pi}{4})$
+    * 3
+      * $y=\frac{1}{2x+1}, 求 y^{(n)}$
+      * 解: 
+        * $y=(2x+1)^{-1}$
+        * $y'=(-1)(2x+1)^{-2}\cdot 2$
+        * $y''=(-1)\cdot (-2)(2x+1)^{-3}\cdot 2^2$
+        * $y(n)=\frac{(-1)^nn!\cdot 2^n}{(2x+1)^{n+1}}$
+    * 4
+      * $f(x)=\frac{1}{x^2-1}, 求 f^{(n)}(x)$
+      * 解: 
+        * $f(x)=\frac{1}{2}(\frac{1}{x-1}-\frac{1}{x+1})$
+        * $f^{(n)}(x)=\frac{1}{2}[\frac{(-1)^nn!}{(x-1)^{n+1}}-\frac{-1^nn!}{(x+1^{n+1})}]$
+    * 5
+      * $y=ln(2x+2), y^{(n)} (n\ge 1)$
+      * 解:
+        * $y'=\frac{1}{3x+2}\cdot 3$
+        * $y^{(n)}=\frac{(-1)^{n-1}\cdot (n-1)!\cdot 3^{n-1}}{(3x+2)^n}\cdot 3= \frac{(-1)^{n-1}\cdot (n-1)!\cdot 3^{n}}{(3x+2)^n}$
+  * 归纳
+    1. $(sinx)^{(n)}=sin(x+\frac{n\pi}{2})$
+    2. $(cosx)^{(n)}=cos(x+\frac{n\pi}{2})$
+    3. $(\frac{1}{ax+b})^{(n)}=\frac{(-1)^nn!a^n}{(ax+b)^{n=1}}$
+  * 方法二: 公式法
+    * $(uv)'=u'v+uv'$
+    * $(uv)''=(u'v)'+(uv')'=u''v+2u'v'+uv''$
+    * 记: Leibniz 公式
+      * $(uv)^{(n)}=C^0_nu^{(n)}v+C^1_nu^{(n-1)}v'+C^2_nu^{(n-2)}v''+...+C^n_nuv^{(n)}$
+  * 例子: 
+    * 1
+      * $y=x^2e^x, 求 y^{(5)}$
+      * 解: 
+        * $y^{(5)}=C^0_5(e^x)^{(5)}+C^1_5(e^x)^{(4)}\cdot 2x+C^2_5(e^x)'''\cdot2+0+0$
+        * $=x^2e^x+10xe^x+20e^x$
+    * 2
+      * $y=x^2sinx, 求 y^{(6)}$
+      * 解:
+        * $y^{(6)}=C^0_6(sinx)^{(6)}\cdot x^2+C^1_6(sinx)^{(5)}\cdot 2x+ C^2_6(sinx)^{(4)}\cdot 2+0+0$
+        * $=x^2sin(x+\frac{6\pi}{2})+12xsin(x+\frac{5\pi}{2}+30sin(x+{\frac{4\pi}{2}}))$
+        * $=-x^2sinx+12xcosx+30sinx$
 
 ### 第四节 隐函数 及由参数方程确定的函数求导 
 
