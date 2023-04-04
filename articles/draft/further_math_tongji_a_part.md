@@ -1531,10 +1531,24 @@ A part 主要是关于 导数&微分
         * $f(x)=\sqrt{x},x_0=1, \Delta x=0.04$
         * $f'(x)=\frac{1}{2\sqrt{x}}$
         * $f(x_0)=1, f'(x_0)=\frac{1}{2}$
+        * $\because f(x_0)+\Delta x\approx f(x_0)+f'(x_0)\Delta x$
+        * $\therefore \sqrt{1.04}=f(1+0.04\approx f(1)+f'(1)*0.04$
+        * $=1+\frac{1}{2}*0.04=1.02$
+  * Note: 
+    * $x\to 0 时,
+    * $f(x)=f(0+x)\approx f(0)+f'(0)x$
+      1. $ ^n\sqrt{1+x}{}\approx1+\frac{x}{n}$
+         * $f(x)=^n\sqrt{1+x}{}=(1+x)^\frac{1}{n}$
+         * $f'(x)=\frac{1}{n}(1+x)^{\frac{1}{n}-1}*1$
+         * $f(0)=1, , f'(0)=\frac{1}{n}$
+         * $f(x)\approx f(0)+f'(0)x = 1+\frac{1}{n}x$
+      2. $e^x\approx 1+x$
+         * $f(x)=e^x, f'(x)=e^x$
+         * $f(0)=1, f'(0)=1$
+         * $f(x)\approx f(0)+f'(0)x=1+x$
+      3. $ln(1+x)\approx x$
 
-![image-20230403191754792](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191754792.png)
 
-![image-20230403191819642](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191819642.png)
 
 ![image-20230403191848846](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191848846.png)
 
