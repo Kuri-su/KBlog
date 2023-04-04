@@ -1,6 +1,6 @@
 # Further Mathematic lecture (tongji) (A part) cross Jiafeng Tang
 
-A part 主要是关于 导数&微分
+A part 主要是关于 导数 和部分 微分, 
 
 
 
@@ -1547,36 +1547,3 @@ A part 主要是关于 导数&微分
          * $f(0)=1, f'(0)=1$
          * $f(x)\approx f(0)+f'(0)x=1+x$
       3. $ln(1+x)\approx x$
-
-
-
-![image-20230403191848846](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191848846.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
