@@ -1535,7 +1535,7 @@ A part 主要是关于 导数 和部分 微分,
         * $\therefore \sqrt{1.04}=f(1+0.04\approx f(1)+f'(1)*0.04$
         * $=1+\frac{1}{2}*0.04=1.02$
   * Note: 
-    * $x\to 0 时,
+    * $x\to 0 时$,
     * $f(x)=f(0+x)\approx f(0)+f'(0)x$
       1. $ ^n\sqrt{1+x}{}\approx1+\frac{x}{n}$
          * $f(x)=^n\sqrt{1+x}{}=(1+x)^\frac{1}{n}$
