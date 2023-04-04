@@ -1770,12 +1770,14 @@
       * → However, he had at last been allowed to send a fax in which he informed the editor that **he** had been arrested while **~~(he had been)~~** counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.
   * 好的句子的特征是没有一句废话和一个多余的词
 
+
+
 ## L6 Smash and grab
 
 **## word**
 
 * smash-and-grab /,smæʃ ən 'ɡræb/ n. 砸橱窗抢劫
-  * 英文释意: . 
+  * 英文释意:  a kind of robbery in which the robbers break the shop window and steal the goods on display
   * smash v. 打碎, 砸碎 , 可以表示主语本身粉碎, 或者把宾语打碎, 也有把宾语打倒的意思(引申意)
     * **smash** the window (及物)
     * → The glass **smashed** into small bits. (不及物)
@@ -1784,20 +1786,21 @@
     * **smash** the Gang(匪帮) of Four 打倒四人帮
     * 同义词
       * shatter v. 粉碎(及物不及物皆可)
-        * . (及物)
-        * . (不及物)
-        * → .
+        * shatter the window (及物)
+        * The glass shattered into small bits. (不及物)
+        * → When I'm in your arms Nothing seems to matter My whole world could ,shatter, I don't care
           * in your arms 这里注意 arm 得是复数才表示怀中, 单数就是胳膊里了就emmmm
           * matter 这里表示重要
         * 派生意
-          * . 
+          * shatter one's dream / hope / confidence .. 粉碎了某人的梦想, 粉碎了某人的希望, 粉碎了某人的信心
+            * → Peter's comments **shattered** the boy's **confidence**.
   * grab v. 抢过来, 夺过来
-    * → 
+    * → A mugger **grabbed** her handbag as she was walking across the park.
       * mugger 抢劫犯 n.
         * mug v. 当街抢劫
     * 同义词
       * seize v. 强制夺取, 
-        * → 
+        * → (NCE3-40 P182-L17) As the men refused to stop working, the police attempted to **seize** the pneumatic drill.
       * rob v. 抢劫 (特指非法夺取)
         * → The convenience store was robbed last night.
 
@@ -1805,8 +1808,9 @@
   * a piece of **jewelry** 一件珠宝 (不能用 a jewelry)
   * two pieces of **jewelry** 两件珠宝
   * 她有很多漂亮的珠宝
-    * .
-    * . 
+    * She has a lot of beautiful jewelries. (X)
+    * She has a lotof beautiful jewelry. (T)
+    * She has a lot of beautiful jewels. (T)
     * 可数形式变形成 不可数形式 (因为是总称所以不可数)
       * jewel → jewelry 
       * scene → scenery 风景风光 (+ry)
@@ -1821,12 +1825,12 @@
       * trunk/suitcase ... 行李箱/箱子 → luggage /baggage 行李
 
 * staff [stæf] n. 一个组织的 全体工作人员 , 手杖, 拐杖
-  * →  
-  * .
-  * .
-  * .
-    * → 
-    * → 
+  * →  The hospitals **medical staff** is / are excellent.
+  * **teaching staff** 
+  * **engineering staff** 
+  * **domestic staff** 全体家仆
+    * → (NCE3-49 P224-L14) Though my aunt pursued what was, in those days, an enlightened policy, in that she never allowed her **domestic staff** to work more than eight hours a day, she was extremely difficult to please.
+    * → (NCE4-10 P59-L10) Already, orientals and Asian Americans constitute the majority of the **engineering staffs** at many Valley firms.
   * 同义词
     * cast n. 某部电影中的全体演员 (卡斯)
     * crew n. 一群人, 一群机组人员, 一艘船的工作人员, 一个装修队
@@ -1836,62 +1840,61 @@
 **## text 1**
 
 * 这是一片记叙文, 英语记叙文 (narrative) 的 要点
-  1. . (必须)
-  2. . 
+  1. 五个W一个R (when, where, who, why, what and result) (必须)
+  2. 目的明确，线索清晰，描写生动， 详略得当，句式多变。
      * 句式多变, 避免句式的单调死板 也是英文写作中必要的.
 * 第一段第一句在描述地点和大致的时间
 * expensive 在这里不翻译成贵的来修饰 shop, 而是翻译成 高档的 来修饰 shop, 本意/抽象含义 是费钱的.
-  * .
-  * →  
+  * **expensive** shops / hotels
+  * →  Mary is an **expensive** girl. She eats like ahorse.
     * 玛丽是一个费钱的女孩 (拜金), 她吃得像马一样多(类似中文中的吃得和猪一样多, 英文中也常说成吃得和 狮子一样多, 英文中如何说 eat like a pig, 通常不是说吃得多, 而是说吃得没有吃相, 不优雅).
   * 近义词, 豪华的, 高档的
-    * .
-    *  .
+    * a **fancy** / **luxury** car
+    * a **fancy** / **luxury** hotel
 * arcade n. 有顶的商业街, (下雨也可以逛)
   * arc(arch) 这个词(根)有拱 或者 弧形的含义
-  * . 
-  * .
+  * 17-Arch Bridge 
+  * Arch of Triumph 凯旋门
 * 在附近 的介词/介词短语的表达
   * around ...
   * close to ...
-  * .
-  * .
-  * . (更正式, 口语中比较少用)
-  * . (更正式)
+  * in the neighborhood of ...(更正式, 口语中比较少用)
+  * in the vicinity of...(更正式)
   * off ... (在... 的附近)
-    * → 
+    * → I rent an apartment **off** campus.
     * 听力题 
-      * →
+      * →M: Will you be living in the dormitory this vear? 
+      * → W: Not if I can help it. Ive been thinking of renting an apartment off campus with some friends of mine.
+      * → Q: What does the woman imply?
         * dormitory n. 宿舍楼(美式) 宿舍的房间(英式)
         * Not if I can help it.
           * 如果我能避免的它话就不要, 这里 help 表示避免
         * off campus 学院附近
-* 造句: 
-  * .
-    * →
+* 造句：在朝阳区建国门外大街上高档的国贸商城 (China World Shopping Mall) 刚刚开始营业.
+  * →The expensive China World Shopping Mall on / at the Jian GuoMenWai Avenue in Chaoyang District was just opening.
 * empty adj. 空的, 空荡荡的
-  * .
+  * an **empty** truck,  **empty** streets
 * 职业后面加 属格表示 职业的工作场所
   * the jeweler's 珠宝店
   * the grocer's 杂货店
-  * . 裁缝店
-  * . 面包店
-  * . 肉店
-  * . 理发店
-  * . 文具店
-  * . 药店
+  * the tailor's 裁缝店
+  * the baker's 面包店
+  * the butcher's 肉店
+  * the barber's 理发店
+  * the stationer's 文具店
+  * the chemist's 药店
     * chemist 化学家/药剂师
   * 人名后面加属格, 某人的房子/家庭/大学/..., 要视具体的语境和上下文而定
-    * → 
-    * → 
-    * → 
+    * → We spent the weekend at **Mr. Green's (house).**
+    * → He graduated from **St. John's (University).**
+    * → Joe lives near **St. Paul's (Cathedral)** in London.
 * admire v. 赞赏, 钦佩, 注目, 
   * 这是一个静态的动词, 不太适合用 进行时, 表示 我正在倾佩您的意思会比较奇怪. 这个词用 进行时的时候, 表示用欣赏的眼光在看
-  * → 
-  * →  
+  * → I admire her courage.
+  * →  I am admiring her beauty.
   * 同义词/词组
     * gaze at ... 欣赏的看, 充满兴趣的看
-      * → 
+      * → (NCE3-6 P34-L7) After **gazing at** the display for several minutes, Mr. Taylor went back into his shop.
       * → He **gaze**d **at** the belle.
         * belle n. 美女 (来自法语)
       * → He **stare**d **at** the belle. 瞪大眼镜, 瞪圆眼睛在看
@@ -1903,14 +1906,14 @@
   * (shop) clerk (美式)
 * had been doing 过去完成进行时
   * 表示持续性的动作 一直做到过去的某时, 而且还有可能继续下去.
-  * → 
-  * → 
+  * → (NCE3-20 P90-L8) Bleriot **had been making** planes since 1905 and this was his latest model.
+  * → (CE3-32 P150-L1) The small ship, Elkor, which **had been searching** the Barents Sea for weeks, was on its way home.
 * **only just** adv. not long ago / before 刚刚
-  * → 
-  * → 
+  * → We've **only just** arrived.
+  * → Ive **only just** moved to Londan.
 * arrange v. 布置
-  * → 
-  * → 
+  * → We **arranged** the chairs in a semicircle.
+  * → His books **are** neatly **arranged** in alphabetical order.
     * alphabetical adj. 按字母顺序排列的
 * 动名词的一般时无视时态万用
   * → After **gazing** at the display for several minutes,
@@ -1920,20 +1923,20 @@
 
 **## text 2**
 
-* → 
+* → The silence was suddenly broken **when a large car, <u>with its headlights on</u> and <u>its horn blaring</u>, roared down the arcade.**
   * horn n. 喇叭 (本来意思是牛羊的犄角, 后面又派生出号角的意思, 接着就变成喇叭)
   * blaring adj. 刺耳的, 大声喧哗的
   * 独立主格
-    * .
-  * 
-  * → 
-  * → 
-  * →  
-  * → 
-  * 在一些庄重的场合, 我们可以把 with 去掉, 一般来说加不加 with 区别不大
-  * → 
-  * → 
-  * 独立主格比非谓语动词 多了 独立主格中描述 自己的逻辑主语 的部分 , 使用非谓语动词隐含的主语和实际主语是一致的, 如果非谓语动词自己的逻辑主语和主句主语不一致, 那这个时候, 就可以加上非谓语动词自己的逻辑主语.
+    * (with）+n. + 非谓语 (doing / done / to do,其中being常省路)，在句中常作状语或定语.
+    * → The silence was suddenly broken when a large car, **with <u>its headlights</u> (being) on** and **<u>its horn</u> blaring**, roared down the arcade.
+    * → One man stayed at the wheel while two others **with <u>black stockings</u> (being) over their faces** jumped out and smashed the window of the shop with iron bars.
+    * → (NCE3-57 P256-L19). ., and at this point, according to my father, I should be looking at farms and cottages in a valley, **with <u>the spire of the church of our village</u> showing in the far distance.**
+    * →  (NCE3-59 P264-L30) Collecting, by occupying spare time so constructively, makes a person contented, **with <u>no time</u> (being) for boredom.**
+    * → (NCE4-18 P104-L9)1t is possible that upon such an occasion a battle ensued, **with <u>the sharks</u> being driven away or killed.**
+    * 在一些庄重的场合, 我们可以把 with 去掉, 一般来说加不加 with 区别不大
+    * → (CE3-34 P158-L17) Apart from an interesting-looking carved dagger, the box was full of crockery. **<u>much of it</u> broken.**
+    * → (NCE3-36 P166-L1) In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences-**<u>most of them</u> wildly improbable.**
+    * 独立主格比非谓语动词 多了 独立主格中描述 自己的逻辑主语 的部分 , 使用非谓语动词隐含的主语和实际主语是一致的, 如果非谓语动词自己的逻辑主语和主句主语不一致, 那这个时候, 就可以加上非谓语动词自己的逻辑主语.
     * 所以, 非谓语动词的逻辑主语和主句一致时, 可以省略, 这个时候叫做非谓语. 非谓语动词的逻辑主语和主句不一致时, 不可以省略, 这个时候叫 独立主格.
     * → He came in and carried a book.
       * 但如果这时我想强调其中的一个动作, 而把另一个动作作为次要信息, 上面的句子用 非谓语动词即可.
@@ -1947,48 +1950,47 @@
   * B. exclamation (大声的惊呼声)
   * C. whistle (口哨声)
   * D. scream (尖叫声)
-* 造句:
-  * 
-  * →  
+* 造句：宁静突然被打破， 一个凶恶的家伙 (a tough guy)，瞪着眼睛拿着枪，闯进了 (break into) 银行。
+  * → The silence was suddenly broken when a tough guy, with his eyes glaring and a gun in his hand, broke into the bank. 
 * **come to a <u>stop</u> / <u>halt</u> = <u>stop</u> / <u>halt</u>**
-  * → 
+  * → (NCE3-39 P178-L21) Bruce charged at it, but in the middle, the car **came to a grinding halt.**
   * come to an end = end
   * come to a close = close
-  * .
-  * .
+  * come to a decision = decide 
+  * come to a conclusion = conclude
 
 **## text 3**
 
-* → 
+* → One man stayed at the wheel <u>while</u> two others **with black stockings over their faces** jumped out and smashed the window of the shop with iron bars.
   * at the wheel (习语搭配)在驾驶室, 在驾驶舱, wheel 表示车轮/方向盘, 所以这个能表达在驾驶室
   * while 引导并列句的时候表示 '而', 表达轻微的对比. 而不是表示 ''当某时'', 
     * whereas 也能表示 '**而**'
-    * → 
+    * → He must be over 60, **<u>while</u> / whereas** his <u>wife</u> looks about 30.
     * while 还能表示 尽管, 类似于 Although, 放在句首, 引导 让步状语从句
-      * → 
+      * → **While** she is a likable girl, she can be extremely difficult to work with.
         * likeable adj. 讨人喜欢的, likeable 是英式写法, 美式写法是 likable
-      * → 
-      * →
+      * → (NCE4-16 P92-L10) **While** they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life.
+      * → **While** Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create .
         * bedrock 基石
 
 * began doing / began to do 区别不大, 尤其在当代英语, 
   * began doing 多是主动发出的行为
-    * → 
+    * → (CE3-28 P134-L6) Many of the tourists on board had **begun bargaining** with the tradesmen,
   * began to do 多描述一个可观发生的现象
-    * → 
-    * → 
+    * → It **began to rain.**
+    * → (NCE3-12 P58-L10) During the journey, the boat **began to sink.**
 * 非谓语做方式状语
   * → Chairs and tables went **flying** into the arcade.
   * → The boy went **running** to meet him.
   * → The girl came **bouncing** to tell me the news.
 * → One of the thieves was struck by a heavy statue(雕像), but he was too busy helping himself to diamonds to notice any pain(疼痛).
   * 忙于做某事
-    * .
-      * → 
-    * .
-      * → 
-    * .
-      * → 
+    * **be busy doing sth.**
+      * → They **are busy preparing** for the wedding.
+    * **be busy with sth.**
+      * → They **are busy with preparations** for the wedding.
+    * **be too busy doing sth. to do sth.**
+      * → He **was too busy working to notice** us come in.
   * 习语搭配 help oneself to sth. 有两个意思 (都是未经允许, 自己拿的状态, 自取, 不客气了哈)
     1. 别客气, 请自己拿
        * → **Help yourself to** a beer.
@@ -1996,5 +1998,35 @@
        * → They **helped themselves to** the farmer's apples.
 * The raid was all over **in** three minutes, 这里的in 是用了 多久的意思
   * → (NCE2-5 P28-15) The birds covered the distance **in** three minutes.
-  * 表示 多久之内可以用 under, 例如 under three minutes. within 也行, within three minutes.
-  * 
+  * 表示 多久之内可以用 under, 例如 under three minutes. 用 within 也行, within three minutes.
+* scramble v. 争相恐后/争夺/仓惶的跑 , 也能表示往高的地方爬
+  * → As the burning plane landed, the terrified passengers **scrambled** for the door.
+* 接速度的介词
+  1. speed 做不可数名词时, 与 at, with 搭配均可
+     * e.g. <u>at</u> / <u>with</u> great speed
+  2. speed 做可数名词时，只能与 at搭配
+     * e.g. at a speed of 60 mph
+* → **Just as it was leaving**, Mr. Taylor rushed out and ran after it **<u>throwing ashtrays and vases</u>**, <u>but</u> <u>it</u> was impossible <u>to stop the thieves.</u>
+  * ran after 表示追, 相当于 trace, 既可以表示物理上的追, 也可以表示追求, 
+    * 同义词
+      * chase v. 追, 及物动词
+        * → Instead of studying, he wastes his time **chasing** girls.
+      * pursue v. 追 , 及物动词
+        * → The thief ran across the field, with an officer **pursuing** him.
+  * vases n. 花瓶
+  * ashtrays n. 烟灰缸
+* 价值多少钱的东西
+  * **金钱+worth of + 物品**
+    * → one billion dollars **worth of** merchandise
+    * → fifty pence worth of trouble
+    * → Ross: Well, how was the date?
+
+      * → Rachel: Well I'm alone and I just bought fifteen dollars worth of candy bars, what do you think?
+    * → I just bought 50 yuan **worth of** groceries.
+      * 汉语拼音构成的单位, yuan, jiao, fen, mu亩, qin顷, li 里, 都是单复数同行 
+
+## L7 Mutilated ladies 
+
+**## words**
+
+* 
