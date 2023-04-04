@@ -1259,99 +1259,278 @@ A part 主要是关于 导数&微分
 
 ### 第四节 隐函数 及由参数方程确定的函数求导 
 
-![image-20230403185838232](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185838232.png)
+* 隐函数求导
 
-![image-20230403185858117](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185858117.png)
+  * $y=f(x)$ - 显函数 
 
-![image-20230403185917118](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185917118.png)
+  * $F(x,y)=0 理论上可以推导为 y=f(x) , F(x,y)=0 称为 隐函数, 这个推导为 y=f(x) 的过程, 称为 隐函数的显式化$
 
-![image-20230403185938161](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185938161.png)
+  * $隐函数 求 \frac{dy}{dx}?$
 
-![image-20230403185957208](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403185957208.png)
+  * $方法: F(x,y)=0 确定 y 为 x 的函数, 求 \frac{dy}{dx}, y 看成 \varphi(x)$
 
-![image-20230403190015776](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190015776.png)
+  * 例子: 
 
-![image-20230403190039022](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190039022.png)
+    * 1
 
-![image-20230403190102544](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190102544.png)
+      * $e^{x+y}=x^2+y+1 确定 y 为 x 的函数, 求 \frac{dy}{dx}$
+      * 解:
+        * $e^{x+y}=x^2+y+1 两边对 x 求导$
+        * $e^{x+y}\cdot (1+\frac{dy}{dx})=2x+\frac{dy}{dx}$
+        * $\Rightarrow (e^{x+y}-1)\frac{dy}{dx}=2x-e^{x+y}\Rightarrow \frac{dy}{dx} = \frac{2x-e^{x+y}}{e^{x+y}-1}$
 
-![image-20230403190116046](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190116046.png)
+    * 2
 
-![image-20230403190131571](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190131571.png)
+      * $x^y=y^x (x>0,y>0), 求 \frac{dy}{dx}$
+      * 解: 
+        * $x^y=y^x \Rightarrow ylnx=xlny$
+        * $\therefore \frac{dy}{dx}lnx+y\cdot\frac{1}{x}=lny+x\cdot \frac{1}{y}\cdot \frac{dy}{dx}$
+        * $\Rightarrow (lnx-\frac{x}{y})\frac{dy}{dx}=lny-\frac{y}{x}$
+        * $\therefore \frac{dy}{dx}=\frac{lny-\frac{y}{x}}{lnx-\frac{x}{y}}$
 
-![image-20230403190148587](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190148587.png)
+    * 3
 
-![image-20230403190206428](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190206428.png)
+      * $2^{xy}+3x=y, 求 y'(0),y''(0)$
 
-![image-20230403190440254](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190440254.png)
+      * 解
 
-![image-20230403190457707](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190457707.png)
+        1. $x=0 时, y=1;$
 
-![image-20230403190518595](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190518595.png)
+        2. $2^{xy}+3x=y 两边同时对 x 求导, (a^x)'=a^xlna$
 
-![image-20230403190533769](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190533769.png)
+           * $2^{xy}\cdot ln 2 \cdot (y+x\cdot y')+3=y'$
 
-![image-20230403190545286](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190545286.png)
+           * $x=0, y=1 代入, y'(0)=ln2+3;$
 
-![image-20230403190602155](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190602155.png)
+        3. $ln2\cdot [2^{xy}\cdot (y+xy')]'+3=y' \Rightarrow ln2\cdot [2^{xy}\cdot ln2\cdot (y+xy')^2+ 2^{xy}\cdot (2y'+xy'')]=y'' $
+
+           * $x=0,y=1,y'(0)=ln2+3 代入$
+           * $ln2\cdot [ln2+2(ln2+3)]=y''(0)$
+           * $y''(0)=(3ln2+6)\cdot ln2$
+
+    * 4
+
+      * $x-y+\frac{1}{2}siny=0 确定 y=y(x), 求 \frac{d^2y}{dx^2}$
+      * 解
+        * $x-y+\frac{1}{2}siny=0 两边对 x 求导$
+        * $1-\frac{dy}{dx}+\frac{1}{2}cosy\frac{dy}{dx}=0 \Rightarrow \frac{dy}{dx}=\frac{2}{2-cosy}$
+        * 法一: 
+          * $-\frac{d^2y}{dx^2}+\frac{1}{2}\cdot [-siny\cdot (\frac{dy}{dx})^2+cosy\cdot \frac{d^2y}{dx^2}]=0$
+          * $(\frac{1}{2}cosy-1)\cdot \frac{d^2y}{dx^2} = \frac{1}{2}siny\cdot \frac{4}{(2-cosy)^2}$
+          * $(cosy-2)\cdot \frac{d^2y}{dx^2}=siny\cdot \frac{4}{(2-cosy)^2}$
+          * $\frac{d^2y}{dx^2}=-\frac{4siny}{(2-cosy)^3}$
+        * 法二: 
+          * $\frac{dy}{dx}=\frac{2}{2-cosy}$
+          * $\frac{d^2y}{dx^2}=\frac{2'\cdot (2-cosy)-2\cdot \frac{d(2-cosy)}{dx}}{(2-cosy)^2}$
+          * $=\frac{-2\cdot siny\cdot \frac{dy}{dx}}{(2-cosy)^2}$
+          * $=\frac{-4siny}{(2-cosy)^3}$
+
+    * 5
+
+      * $y=(1+x^2)^{sinx}, 求 y'$
+      * 解: 
+        * 法一:
+          * $y=e^{sinx\cdot ln (1+x^2)}$
+          * $\frac{dy}{dx}=e^{sinx\cdot ln (1+x^2)}\cdot [(sinx)'ln(1+x^2)+sinx\cdot (ln(1+x^2))']$
+          * $=(1+x^2)^{sinx}\cdot [cosx\cdot ln(1+x^2)+sinx\cdot \frac{1}{1+x^2}\cdot 2x]$
+        * 法二: 
+          * $lny=sinx\cdot ln(1+x^2), 两边对 x 求导$
+          * $\frac{1}{y}\cdot \frac{dy}{dx}=cosx\cdot ln (1+x^2)+sinx\cdot \frac{1}{1+x^2}\cdot 2x$
+          * $\frac{dy}{dx}=(1+x^2)^{sinx}\cdot [cosx\cdot ln(1+x^2)+sinx\cdot \frac{2x}{1+x^2}]$
+
+* 常数方程确定的函数求导
+  * 由 $\begin{cases} x=\varphi(t) \\ y=\psi(t) \end{cases} 确定 y=y(x) , 称为由 常数方程而确定的 函数$
+  * 定理: 
+    * $\begin{cases} x=\varphi(t) \\ y=\psi(t) \end{cases}, 其中 \varphi (t), \psi (t) 可导, 且 \varphi'(t)\ne 0$
+    * 则 $\frac{dy}{dx}=\frac{\frac{dy}{dt}}{\frac{dx}{dt}}=\frac{\psi'(t)}{\varphi'(t)}$
+    * 证明: 
+      * $\varphi'(t)=lim_{\Delta t\to 0 }\frac{\Delta x}{\Delta t}\ne 0 \ne \Delta x = O (\Delta t)$
+      * $\frac{dy}{dx}=lim_{\Delta x \to 0}\frac{\Delta y}{\Delta x}=lim_{\Delta x\to 0}\frac{\frac{\Delta y}{\Delta t}}{\frac{\Delta x}{\Delta t}}$
+      * $=lim_{\Delta t \to 0}\frac{\frac{\Delta y}{\Delta t}}{\frac{\Delta x}{\Delta t}}=\frac{lim_{\Delta t \to 0}\frac{\Delta y}{\Delta t}}{lim_{\Delta t \to 0}\frac{\Delta x}{\Delta t }}=\frac{\frac{dy}{dt}}{\frac{dx}{dt}}=\frac{\psi'(t)}{\varphi '(t)}$
+  * 例题
+    * 1
+      * $\begin{cases} x=arctant \\ y=ln(1+t^2) \end{cases}, 求 \frac{dy}{dx}, \frac{d^2y}{dx^2}$
+      * 解: 
+        * $\frac{dy}{dx}=\frac{\frac{dy}{dt}}{\frac{dx}{dt}}=\frac{\frac{2t}{1+t^2}}{\frac{1}{1+t^2}}=2t$
+        * 那么是否 $\frac{d^2y}{dx^2}=2?$, 这种想法是错误, 这里如果直接等于 2 事实上是在 对 t 求导, 而不是对 x 求导 (可能后续将偏导的时候会再讲到这个)
+        * $\frac{dy}{dx}=2t\Rightarrow \frac{d^2y}{dx^2}=\frac{d(\frac{dy}{dx})}{dx}=\frac{d(2t)}{dx} $
+          * $=\frac{\frac{d(2t)}{dt}}{\frac{dx}{dt}}=\frac{2}{\frac{1}{1+t^2}}=2(1+t^2)$
+    * 2
+      * $\begin{cases}x=a(t-sint)\\y=a(1-cost) \end{cases} (a>0) 确定 y=f(x), 求 \frac{d^2y}{dx^2}$
+      * 解:
+        * $\frac{dy}{dx}=\frac{dy/dt}{dx/dt}=\frac{asint}{a(1-cost)}=\frac{sint}{1-cost}$
+        * $\frac{d^2y}{dx^2}=\frac{d(\frac{dy}{dx})}{dx}=\frac{d(\frac{sint}{1-cost})}{dx}=\frac{d(\frac{sint}{1-cost})/dt}{dx/dt}$
+        * $=\frac{(\frac{sint}{1-cost})'}{a(1-cost)}=\frac{1}{a(1-cost)}\cdot \frac{cost\cdot (1-cost)-sin^2t}{(1-cost)^2}$
 
 ### 第五节 微分
 
-![image-20230403190648263](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403190648263.png)
+* 导入
+  * 例子
+    * 1
+      * $y=x^2, x_0=2, \to x=2+\Delta x , 求 \Delta y$
+      * 解:
+        * $\Delta y = y(2+\Delta x)-y(2)=(2+\Delta x)^2-2^2=4\Delta x + (\Delta x)^2$
+        * $\because (\Delta x)^2=o(\Delta x)$
+        * $\therefore \Delta y = 4\Delta x+o(\Delta x)$, 其中 $4\Delta x$ 为主要值, $o(\Delta x)$ 为次要值
+    * 2
+      * $v=\frac{4}{3}\pi r^3, r_0=2, r=2+\Delta r, \Delta v = ?$
+      * 解: 
+        * $\Delta  v= v(2+\Delta r)-v(2)$
+        * $=\frac{4\pi}{3}(2+\Delta r)^3-\frac{4}{3}\pi\cdot 2^3$
+        * $=\frac{4\pi}{3}[(2+\Delta r)^3-2^3]$
+        * $=\frac{4\pi}{3}[2^3s+3*4\Delta x +3*2(\Delta r )^2]+(\Delta r )^3-2^3$
+        * $=\frac{4\pi}{3} [12\Delta x+6(\Delta r)^2+(\Delta r )^3]$
+        * $=16\pi\Delta r+8\pi(\Delta r)^2+\frac{4\pi}{3}(\Delta r)^3$
+        * $\because 8\pi (\Delta r)^2+\frac{4\pi}{3}(\Delta r)^3=o(\Delta r)$
+        * $\Delta v=16\pi \Delta r +o(\Delta r)$, 其中 $16\pi\Delta r $为主, $o(\Delta r)$ 为次
 
-![image-20230403191030854](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191030854.png)
+* 定义
 
-![image-20230403191049335](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191049335.png)
+  * $y=f(x) (x\in \mathbb{D}), x_0\in\mathbb{D}, x_0+\Delta x\in \mathbb{D}$
 
-![image-20230403191103096](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191103096.png)
+    * $\Delta y= f(x_0+\Delta x)-f(x_0)$
+    * if $= A\Delta x+o(\Delta x)$
+    * 称 $y=f(x) 在 x=x_0 可微, 称 A\Delta x 为 y=f(x) 在 x=x_0 的微分$, 记 $dy|_{x=x_0}, 即$
+    * $dy|_{x=x_0},=A\Delta x\triangleq adx$
 
-![image-20230403191124055](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191124055.png)
+  * Note: 
 
-![image-20230403191139170](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191139170.png)
+    1. 可导 $\Leftrightarrow$ 可微
 
-![image-20230403191157144](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191157144.png)
+       * 证明
+         * $"\Rightarrow" $
+           * $设 lim_{\Delta x\to 0}\frac{\Delta y}{\Delta x}=f'(x_0)$
+           * $\Rightarrow \frac{\Delta y}{\Delta x}=f'(x_0)+\alpha, 其中 \alpha\to 0(\Delta x\to 0)$
+           * $\Rightarrow \Delta y=f'(x_0)\Delta x+\alpha\Delta x$
+           * $\because lim_{\Delta x\to 0}\frac{\alpha\Delta x}{\Delta x}=lim_{\Delta x \to 0}\alpha -0, \therefore \alpha \Delta x=o(\Delta x),$
+           * $\therefore \Delta = f'(x_0)\Delta x+o(\Delta x)$
+           * 即 $y=f(x) 在 x=x_0 可微$
+         * $\Leftarrow$
+           * 设 $\Delta y = A\Delta x+ o(\Delta x)$
+           * $\Rightarrow \frac{\Delta y}{\Delta x}=A+\frac{o(\Delta x)}{\Delta x}$
+           * $lim_{\Delta x\to 0}\frac{\Delta y}{\Delta x}=A , 即 f'(x_0)=A$
+           * $\therefore y=f(x) 在 x=x_0 可导, 且 A=f'(x_0)$
 
-![image-20230403191210697](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191210697.png)
+    2. $y=f(x), x=x_0, If \Delta y =A\Delta x+o(\Delta x), 则 A=f'(x_0)$
 
-![image-20230403191225840](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191225840.png)
+    3. $y=f(x), x=x_0, If \Delta y = A\Delta x + o(\Delta x), 则 dy|_{x=x_0}=f'(x_0)dx$
 
-![image-20230403191244043](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191244043.png)
+       * $若 y=f(x) 可导, 则 dy = df(x)=f'(x)dx$
+       * 如: 
+         * $d(x^3)=(x^3)'dx=3x^2dx$
+         * $d(e^{3x})=3\cdot e^{3x}dx$
+         * $x^2dx=d(\frac{1}{3}x^3+C)$
+         * $\frac{1}{1+x^2}dx=d(arctanx+C)$
 
-![image-20230403191304069](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191304069.png)
+       * 例子: 
 
-![image-20230403191317832](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191317832.png)
+         * 1
 
-![image-20230403191332973](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191332973.png)
+           * $y=ln(1+x^2), dy|_{x=3}=?$
+           * 解: 
+             * $y'=\frac{1}{1+x^2}\cdot 2x=\frac{2x}{1+x^2}$
+             * $y'|_{x=3}=\frac{6}{10}=\frac{3}{5}$
+             * $\therefore dy|_{x=3}=y'(3)dx=\frac{3}{5}dx$
 
-![image-20230403191354478](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191354478.png)
+         * 2
 
-![image-20230403191419312](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191419312.png)
+           * $y=sin^2(3x+2), 求 dy$
+           * 解:
+             * $y'=2sin(3x+2)\cdot cos(3x+2)\cdot 3=3sin(6x+4)$
+             * $\therefore dy=y'dx=3sin(6x+4)dx$
 
-![image-20230403191437973](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191437973.png)
+         * Note:
 
-![image-20230403191449204](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191449204.png)
+           1. $若 y=f(x) 在 x=x_0 可微, \Delta y = f'(x_0)\Delta x+o(\Delta x)$
 
-![image-20230403191505736](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191505736.png)
+              * $dy|_{x=x_0}=f'(x_0)\Delta x$
 
-![image-20230403191518280](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191518280.png)
+              * $\Rightarrow \Delta y -dy = o(\Delta x)$
 
-![image-20230403191531325](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191531325.png)
+           2. $设 y=f(x) 在 x=x_0  可微$
 
-![image-20230403191548119](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191548119.png)
+              * $dy=f'(x_0)\Delta x = tan\alpha\Delta x$ 
+              * $f'(x_0) 为 y=f(x) 在 x=x_0 对应切线斜率$
+              * $f'(x_0)=k=tan\alpha$
+              * 这阐明了 微分和导数的区别.
 
-![image-20230403191604881](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191604881.png)
+* 微分工具
+  1. 公式
+     1. $d(c)=(c)'dx=0;$
+     2. $d(x^a)=(x^a)'dx=ax^{a-1}dx;$
+     3. $d(a^x)=(a^x)'dx=a^xlnadx;$
+     4. $d(log_ax)=(log_ax)'dx=\frac{1}{xlna}dx$
+     5. 三角函数求微分
+        1. $d(sinx)=cosxdx$
+        2. $d(cosx)=-sinxdx$
+        3. $d(tanx)=sec^2xdx$
+        4. $d(cotx)=-csc^2xdx$
+        5. $d(secx)=secxtanxdx;$
+        6. $d(cscx)=-cscxcotxdx$
+     6. 反三角函数求微分
+        1. $d(arcx)=\frac{1}{\sqrt{1-x^2}}dx,$
+        2. $d(arccosx)=-\frac{1}{\sqrt{1-x^2}}dx$
+        3. $d(arctanx)=\frac{1}{1+x^2}dx$
+        4. $d(arccotx)=-\frac{1}{1+x^2}dx$
+  2. 四则
+     1. $(u\pm v)'=u'\pm v'\Leftrightarrow d(u\pm v)=du\pm dv$
+     2. $(uv)'=u'v+uv' \Leftrightarrow d(uv)=vdu+udv$
+     3. $(\frac{u}{v})'=\frac{u'v-uv'}{v^2}\Leftrightarrow d(\frac{u}{v})=\frac{vdu-udv}{v^2}$
+  3. 复合 $y=f(u)$
+     * case1: 
+       * u 为自变量
+         * $dy=f'(u)du;$
+     * case2: 
+       * $u = \varphi (x), y=f[\varphi(x)]$
+         * $\frac{dy}{dx}=f'[\varphi(x)]\cdot \varphi'(x)$
+         * $\Rightarrow = dy = f'[\varphi (x)]\varphi'(x)dx=f'[\varphi(x)]\cdot d[\varphi(x)]$
+         * $=f'(u)du$ - 一阶微分形式不变 性
+  4. 例子: 
+     * 1
+       * $y=sin(3x+2), dy$
+       * 解: 
+         * 法一
+           * $y'=3cos(3x+2)$
+           * $dy=3cos(3x+2)dx$
+         * 法二
+           * 令 $3x+2=u, y=sinu$
+           * $dy=f'(u)du=cosu\cdot du$
+           * $=cos(3x+2)\cdot d(3x+2)$
+           * $=3cos(3x+2)dx$
+     * 2
+       * $y=e^{x^2}, 求 dy$
+       * 解
+         * 法一
+           * $y'=2xe^{x^2},$
+           * $dy=2xe^{x^2}dx$
+         * 法二: 
+           * $令 x^2=u, y=e^u$
+           * $dy=f'(u)du = e^u\cdot du$
+           * $=e^{x^2}\cdot d(x^2)=2xe^{x^2}dx$
 
-![image-20230403191616510](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191616510.png)
+* 近似计算
 
-![image-20230403191631259](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191631259.png)
+  * 设 $y=f(x) 在 x=x_0 可微$
+  * $\Delta y = f(x_0+\Delta x)-f(x_0)=f'(x_0)\Delta x+o(\Delta x)$
+  * $\Rightarrow \Delta y \approx f'(x_0)\Delta x$
+  * $\Rightarrow f(x_0+\Delta x)\approx f(x_0) + f'(x_0)\Delta x$
+  * 或 $f(x)-f(x_0)\approx f(x_0)+f'(x_0)(x-x_0)$
+  * $\Rightarrow f(x) \approx f(x_0)+f'(x_0)(x-x_0)$
 
-![image-20230403191655192](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191655192.png)
-
-![image-20230403191708784](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191708784.png)
-
-![image-20230403191727458](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191727458.png)
-
-![image-20230403191742486](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191742486.png)
+  * 例题
+    * 1
+      * 求 $sin30度 30 分 的近似值$
+      * 解
+        * $f(x)=sinx, x_0=\frac{\pi}{6}, \Delta x = 30'=1/2 度 = \frac{\pi}{360}$
+        * $f'(x)=cosx$
+        * $\because f(x_0+\Delta x)\approx f(x_0)+f'(x_0)\Delta x$
+        * $\therefore sin30度30分 = f(\frac{\pi}{6}+\frac{\pi}{360})\approx f(\frac{\pi}6)+f'(\frac{\pi}{360})=\frac{1}{2}+\frac{\sqrt{3}}{2}\cdot \frac{\pi}{360}$
+    * 2
+      * $\sqrt{1.04} \approx ?$
+      * 解: 
+        * $f(x)=\sqrt{x},x_0=1, \Delta x=0.04$
+        * $f'(x)=\frac{1}{2\sqrt{x}}$
+        * $f(x_0)=1, f'(x_0)=\frac{1}{2}$
 
 ![image-20230403191754792](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230403191754792.png)
 
