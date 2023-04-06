@@ -2030,34 +2030,34 @@
 **## words**
 
 * mutilate /ˈmjuːtɪleɪt/ v. 使残缺不全(及物), 常用被动(被动的时候不及物)
-  * →
-  * → 
+  * → He was **mutilated** in a car accident and lost one arm.
+  * → The painting has been **mutilated** by a boy.
   * 近义词: 
     * maim v. 使残废, (及物), 被动的时候不及物
-      * →  
+      * →  One man has lost his life; another has been **maimed**.
     * paralyze v. 使瘫痪, 使无力(及物)
-      * → 
+      * → The accident left him **paralyzed** from the waist down.
     * cripple v. 使跛脚, 使残疾(及物), n. 瘸子 (不礼貌)
     * disable v. 使失效, 使失去能力 (及物)
-      * . 残疾人
-      * . 有障碍的, 残障的, 残疾人
-      * . 比较礼貌的讲法的 残疾人(政治正确)
-      * . 比较礼貌的讲法的弱智人 (政治正确)
-      * . 比较礼貌的讲法的肥胖症患者 (政治正确)
-      * . 比较礼貌的讲法的侏儒症患者 (政治正确)
+      * the disabled 残疾人
+      * the handicapped 有障碍的, 残障的, 残疾人
+      * the physically challenged 比较礼貌的讲法的 残疾人(政治正确)
+      * the mentally challenged  比较礼貌的讲法的弱智人 (政治正确)
+      * the horizontally challenged 比较礼貌的讲法的肥胖症患者 (政治正确)
+      * the vertically challenged 比较礼貌的讲法的侏儒症患者 (政治正确)
 * chew /tʃuː/ v. 咀嚼, 及物不及物皆可
   * 听力题
-    * → 
+    * → Here, take this pill, and don't **chew** it.
   * 近义词: 
     * bite  v. 咬, (及不及物皆可)
-      * → 
+      * → **bite** off more than one can **chew**
         * bite off 咬下来
     * swallow v. 吞咽, n. 燕子
     * gobble v. 狼吞虎咽地吃 
     * devour v. 吞食, 狼吞虎咽地吃
-      * → 
+      * → (NCE3-33 P154-L21) Only two stray dogs benefited from all this confusion, for they greedily **devoured** what was left of the cake.
     * nibble v. 细嚼慢咽, 小口吃 n. 咬痕
-      * → 
+      * → Eagles catch snakes <u>that</u> **gobble** toads <u>that</u> **swallow** insects <u>that</u> **nibble** green leaves. 老鹰抓住了蛇正在吃 蟾蜍, 这只蟾蜍吃了昆虫, 这只昆虫吃树叶
         * 从句套从句
 
 * fiance n. 未婚夫,(可数名词)
@@ -2073,7 +2073,7 @@
     * groomsman n. 傧相 (男, 大约四个)
     * best man n. 伴郎 (傧相的 chief)
     * newlyweds n. 新婚夫妇, 新婚燕尔
-      * → 
+      * → (NCE3-46 P212-14) Armed with the right tools and materials, **newlyweds** gaily embark on the task of decorating their own homes.
     * happy couple n. 新婚夫妇, 新婚燕尔
 
 * spokeswoman n. 女发言人 (女权运动的产物)
@@ -2084,25 +2084,25 @@
     * chairwoman n. 女主席
     * chairperson n. 主席 (中性, 指男主席比较多见)
   * 听力题: 
-    * → 
-    * daen n. 美国大学某个学院的院长
-    * head n. 美国大学的系主任, 
-    * chairperson n. 美国大学的系主任.
-    * take over  接过
-    * Dept. n. 系专业
+    * → W: The **dean** just announced that Dr. Jeffries is going to <u>take over</u> as **Chairperson** of the English **Dept**. M: I knew it all along. He was the obvious choice.
+      * daen n. 美国大学某个学院的院长
+      * head n. 美国大学的系主任, 
+      * chairperson n. 美国大学的系主任.
+      * take over  接过
+      * Dept. n. 系专业
 
 **## text 1**
 
 * happen to do 碰巧做某事
   * sth. happen to sb. 某事发生到某人身上
   * come up 某事出现了/发生了
-    * → 
+    * → Has it ever **come up** to you?
   * sth. occur to sb. 某人想到了某事
-    * → 一场车祸发生到了他的身上
-    * → 他想到了一个好主意
+    * → 一场车祸发生到了他的身上 A car accident happened to him.
+    * → 他想到了一个好主意 A good idea occurred to me.
 * 银行的纸钞 back note/ banknote / note 
   * 美式喜欢用 bill 表示纸钞, bill 也表示 账单
-    * → 
+    * → a **<u>fake</u>** / **<u>counterfeit</u>** $20 **bill**
       * counterfeit  adj. 伪造的, 假冒的, 
   * William (威廉) 的昵称是 Bill
     * Bill Clinton 的实际名字是 William Clinton
@@ -2112,22 +2112,22 @@
   * 钞票相关的可数与不可数的总结
     * bill note coin 可数
     * change 不可数
-      * → 
+      * → 1 carry no **change** on me.
 * rescue / save v. 救, 抢救
-  * → 
-  * → 
+  * → (NCE3-12 P58-L15) When a passing tanker **rescued** them five days later, both men were genuinely sorry that they had to leave. .
+  * → Wow! Have you ever **rescued** anyone **from** a burning building before?
   * come / go to one's rescue 来救某人/ 去救某人
-    * → 
+    * → When John was in trouble, everyone **went to his rescue.**
   * pick up sb. 救起某人, 搭救起某人
-    * → 
+    * → (NCE3-20 P9O-L7) The'Antoinette' floated on the water until Latham **was picked up** by a ship.
   * salvage ... from ... 从... 中 救了某物, (通常指物不指人 )
-    * → 
-    * → 
+    * → He tried desperately to **salvage** belongings **from** the burning house.
+    * → (NCE3-32 P150-L13) The captain of the Elkor ordered his men to **salvage** as much as possible **from** the wreck.
       * salvage as mush as possible from the wreck  尽所有可能救出残骸中的物品
   * savior /saviour n. 救命恩人 
     *  → You are my savior.
     * a knight in shining armor 关键时刻出现的救命恩人
-      * → 
+      * → I don't know who you are, Nick. You just magically show up like **some knight in shining armor**, ready to save the day..
         * save the day  力挽狂澜
 * → People **who live in Britain** needn't despair **<u>when they make mistakes like this</u>** (and a lot of people do)!
   * Britain, needn't 读的时候需要用 鼻腔爆破
@@ -2138,49 +2138,49 @@
   * despair 
     * despair of sb. 对某人 绝望
     * despair of (doing ) sth. 对某事绝望
-      * → 
-      * → 
+      * → The teachers began to **despair of** him.
+      * → Mike **despaired of** ever seeing her again.
     * in despair 绝望地
-      * → 他绝望的自杀了
-      * → 
-      * → 
-      * → 
+      * → 他绝望的自杀了 He killed himself **in despair.**
+      * → (NCE3-54 P244-427)I got up early next morning hoping to find that the ants had given up **in despair.**
+      * → (NCE3-46 P212-L28) 1 gave up **in despair.**
+      * → With this <u>faith</u>, we will be able to <u>hew</u> out of **the mountain of despair** a stone of hope.
         * faith n. 信仰
         * hew v. 砍
 * → <u>Fortunately for them</u>(状语), the Bank of England has a team **called Mutilated Ladies which deals with claims from people <u>who fed their money to a machine or to their dog.</u>**(后置定语)
   * claims v. 要求, 索赔 n. 声明 (保险业用的特别多)
     * 形似词: climax n. 高潮
   * deals with  应付, 处理, 解决, (常用, 听说读写都有可能出现)
-    * → 
+    * → W: I had to **deal with** so many courses last term that I really had a hard time. M: Itold you it would be better for you if you took fewer courses during the first semester.
     * attend to  应付, 处理, 解决
       * attend v. 出席
-      * → 
+      * → (CE3-33 P154-L9) You hang up hurriedly and **attend to** baby, crockery, etc.
     * see to 应付, 处理, 解决
       * see v. 看
-      * → 
+      * → Don't worry about it. I'll **see to** it later.
     * handle 应付, 处理, 解决
-      * → 
+      * → 'Molly, Ineed your special talent for **handling** special matters.’ “Like what special matters?’
       * talent n. 才能
       * d 碰到 j 会音变为 [dʒ]
     * tackle 解决
-      * → 
+      * → Many schools are now trying to **tackle** the problem of drug abuse.
         * drug n. 毒品
         * abuse v. 辱骂, 滥用, 虐待
     * cope with ... 解决
-      * → 
+      * → a seminar on '**coping with** stress in the workplace’
         * stress n. 压力, v. 强调
   * feed sth. to sb. / feed sb. on sth. 把 某物 喂给某人 吃
     * fed 过去式
-    * → 
-    * → 
+    * → I **fed** raw meat **to** the dog.
+    * → I **fed** the dog **on** raw meat.
     * → well-fed, well-bred 吃得饱的人懂礼貌
     * feed 还有投币的意思
-    * → 
+    * → She **fed** two coins into the machine for a cup of coffee.
   * 一个动词和两个不同的宾语搭配表示两个不同的意思, 
     * zeugma 轭式修辞/ 共轭修辞
-    * → 
+    * → Clothes that **<u>fit</u> the man** and **the times**
       * fit 
-    * → 
+    * → You're free to **<u>execute</u> your laws**, and **your citizens**, as you see fit.
       * as you see fit 如果你觉得合适的话
       * execute + 法律 表示 执行法律
       * execute + 某人 表示 处死某人
@@ -2188,91 +2188,92 @@
     * use 用 use up 用光了
     * burn 烧 burn up 烧光了
     * chew 嚼 chew up 嚼完了, 嚼烂了
-  * → 
+  * → It seems that dogs love to chew up money.
     * 通常重要信息放在主句中, 次要信息放在从句中, 所以这个写法没有课文中的写法好
     * → Dogs, it seems, love to chew up money!
       * 把原来的主句作为插入语放到句子中, 然后把原来的从句作为主句. 重点突出, 主次分明.
       * 另一个例子: 
-        * →
-        * → 
+        * →You may wonder why spiders are our friends.
+        * → (NCE4-2 P11-L1) Why, **you may wonder**, should spiders be our friends?
           * 突出 主要内容
           * should 在疑问句中可以表示 怎么
       * 又一个例子
-        * → 
-        * → 
+        * → Many of us believe that economic development is of paramount importance to China.
+        * → Economic development, **many of us believe**, is of paramount importance to China.
 
 **## text2**
 
 * concern  n. 有关于, 关于... 
   * be about... n. 关于
-  * → 
+  * → A recent case **is about** Jane Butlin ..
   * 书信中也可以用
-    * → 
-  * →  
+    * → To whom it may **concern**,
+  * →  (NCE4-4 P23-L2) One case **concerns** an eleven-year-old schoolgirl, Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls.
   * be concerned with....
-    * → 
-    * → 
-    * → 
+    * → The book **concerns** music.
+    * → The book **is concerned with** music.
+    * → a book **concerning** music
       * concerning 很多字典直接把它看成介词
-    * → 
+    * → a book **concerned with** music
 * run: be in charge of (sth); manage 经营 
-  * .
-  * → 
-  * → 
-* → 
-  * go + doing 表示 去做某事
-    * .
-    * .
-    * .
-    * .
-    * .
-    * .
-* → 
+  * run a <u>hotel</u> / <u>shop</u> / <u>language school</u>
+  * → John **manages** a successful furniture business.
+  * → John **is in charge of** a successful furniture business.
+* → John had a very good day and put his wallet **containing $3,000** into the microwave oven **for safekeeping**.
+* go + doing 表示 去做某事
+  * go fishing 
+  * go camping
+  * go sight-seeing
+  * go mountain-hiking
+  * go hunting go bowling
+* → **When they got home,** Jane cooked their dinner in the microwave oven <u>and</u> <u>**without realizing it**</u>, cooked her fiance's wallet as well.
   * without realize it 替换
-    * .
-    * .
+    * … without knowing it,
+    * …. without being aware of it
 * dismay: both shocked and discouraged. 既惊讶又沮丧
 * turn to /into ... 变成 ... 
   * change into...
   * become 
-  * → 
+  * → The caterpillar eventually **turns to / into** a beautiful butterfly.
+  * → The caterpillar eventually **changes into** a beautiful butterfly.
+  * → The caterpillar eventually **becomes** a beautiful butterfly.
     * caterpillar n. 毛毛虫
   * turn + 名词 表示 身份的改变, 同时用 零冠词
-    * → 
-    * → 
+    * → The teacher **turned** writer.
+    * → He has **turned** traitor.
       * traitor n. 叛徒
 * imagine one's .... when ... 想象一下某人在某时的感情/感觉
-  * → 
-* 定语从句有人认为应该叫  continuative clause 接续性分句
-  * → 
+  * → **Imagine his** dismay **when** he found he took the wrong train.
+* 定语从句有人认为应该叫  **continuative clause 接续性分句**
+  * → John went to see <u>his bank manager</u> **and** <u>**the manager**</u> sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies!
   * 很多并列句或者状语从句 都会考虑用 定语从句的外壳, 因为定语从句比较简洁, 关系代词/关系副词 既引导从句, 又在从句里充当成分, 这样表述就能简洁一些
-  * → 
-    * → 
+  * → He violently beat <u>the boy</u> **and <u>the boy</u>** later died from his injuries.
+    * → He violently beat the boy **who** later died from his injuries.
       * 这样就可以省略 一个 the boy
       * 书面语中, 如果表达效果相同, 那么用字越少, 水平越高, 好的句子特征是没有一个冗余的词.
-  * → 
+  * → (NCE4-1P5-L1)We can read of things that happened 5,000 years ago in the Near East, **where people first learned to write.**
     * 靠... 这句子特么是个解释原因的原因状语从句.... 但是壳是 定语从句的壳
-    * → 
-  * → 
-    * → 
-  * → 
-    * → 
+    * → We can read of things that happened 5,000 years ago <u>in the Near East</u>, **because people first learned to write <u>there</u>.** (等价,但是没有上面的句子简练)
+  * → Don't sit on <u>the chair</u> **because <u>it</u> has a broken leg.**
+    * → Don't sit on the chair **which has a broken leg.**
+  * → I have to be very careful not to offend <u>the manager</u> **because <u>he</u> could give me the sack at any time.**
+    * → Ihave to be very careful not to offend the manager **who could give me the sack at any time.**
       * give sb. the sack 炒某人鱿鱼
-  * → 
-    * → 
+  * → History books never mention <u>those people</u> **although <u>they</u> really helped civilization forward.**
+    * → History books never mention those people **who really helped civilization forward .** 
 * special 除了表示特别的, 也能表示专用的, 专门的
 * 某人说了某话, 可以用倒装语序 'said sb.', 但是后面 的 sb. 不能是代词
 * as/ so long as 只要.....
   * 类似的词
     * provided/ providing (that) ...
     * on condition (that) ...
-  * → 
-  * → 
-  * → 
+  * → You'll be quite safe **as long as** you follow my instructions.
+  * → He can come with us, **<u>provided</u>** / **<u>providing</u>** **(that)** he pays for his own meals.
+  * → I'lI lend you the money **on condition (that)** you pay it back within three weeks.
   * 辨析
     * only if  ...  只有... , if 后加状语从句, only if 如果在句首, 需要部分倒装
-    * → 
-    * → 
+    * → she will go **only if** he goes.
+    * → **Only if** he goes **<u>will</u>** she go.
 
 * for 可以表示 在哪工作
 
@@ -2280,15 +2281,15 @@
 
 * 把某人说话的内容, 中间用某人说 拆成两截, 一头一尾, 用于强调说话的信息, 弱化说话的人
 
-  * → 
-  * → 
+  * → (NCE3-2 P18-L11)“I'm trying to.repair the bell,” **answered Bill**. "I've been coming up here night after night for weeks now. You see, I was hoping to give you a surprise".
+  * → (NCE3-2 P18-L13) "You certainly did give me a surprise!" **said the vicar.** "You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again."
 
 * 如何写出优秀的解释说明类文章 (exposition)
 
-  1. .
-  2. .
-  3. .
+  1. 语言生动活泼，充满趣味性。
+  2. 用词准确清晰，避免模棱两可。
+  3. 抽象说明与具体例证相结合。
 
-  * 本文脉络 (...): 
-    * .
-    * .
+  * 本文脉络 （经典的解释说明类文章）: 
+    * 第一段：三个设问句引起读者兴趣并引入主题：残钞鉴别组，并确切地说明其作用。语言充满趣味性。
+    * 第二段：给出具体例证。描述清晰，语言风趣，句式多变。
