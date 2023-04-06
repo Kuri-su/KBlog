@@ -2056,3 +2056,239 @@
     * gobble v. 狼吞虎咽地吃 
     * devour v. 吞食, 狼吞虎咽地吃
       * → 
+    * nibble v. 细嚼慢咽, 小口吃 n. 咬痕
+      * → 
+        * 从句套从句
+
+* fiance n. 未婚夫,(可数名词)
+  * financee n. 未婚妻
+  * husband-to-be n. 未婚夫 
+  * bride-to-be n. 未婚妻
+  * groom/bridegroom n. 新郎
+    * groom n. 有牵马的人的意思
+  * bride n. 新娘
+  * 教堂婚礼相关的人物的单词
+    * bridesmaid n. 傧相(女, 大约四个左右)
+    * maid of honor n. 伴娘 (傧相中的chief)
+    * groomsman n. 傧相 (男, 大约四个)
+    * best man n. 伴郎 (傧相的 chief)
+    * newlyweds n. 新婚夫妇, 新婚燕尔
+      * → 
+    * happy couple n. 新婚夫妇, 新婚燕尔
+
+* spokeswoman n. 女发言人 (女权运动的产物)
+  * spokesman n. 发言人 (不分男女)
+  * spokesperson n. 发言人 (中性词, 指男发言人比较多见)
+  * 类似的
+    * chairman n. 主席 (不分男女)
+    * chairwoman n. 女主席
+    * chairperson n. 主席 (中性, 指男主席比较多见)
+  * 听力题: 
+    * → 
+    * daen n. 美国大学某个学院的院长
+    * head n. 美国大学的系主任, 
+    * chairperson n. 美国大学的系主任.
+    * take over  接过
+    * Dept. n. 系专业
+
+**## text 1**
+
+* happen to do 碰巧做某事
+  * sth. happen to sb. 某事发生到某人身上
+  * come up 某事出现了/发生了
+    * → 
+  * sth. occur to sb. 某人想到了某事
+    * → 一场车祸发生到了他的身上
+    * → 他想到了一个好主意
+* 银行的纸钞 back note/ banknote / note 
+  * 美式喜欢用 bill 表示纸钞, bill 也表示 账单
+    * → 
+      * counterfeit  adj. 伪造的, 假冒的, 
+  * William (威廉) 的昵称是 Bill
+    * Bill Clinton 的实际名字是 William Clinton
+    * Bill Gates 
+  * coin 硬币
+  * change n. 零钱, v. 改变
+  * 钞票相关的可数与不可数的总结
+    * bill note coin 可数
+    * change 不可数
+      * → 
+* rescue / save v. 救, 抢救
+  * → 
+  * → 
+  * come / go to one's rescue 来救某人/ 去救某人
+    * → 
+  * pick up sb. 救起某人, 搭救起某人
+    * → 
+  * salvage ... from ... 从... 中 救了某物, (通常指物不指人 )
+    * → 
+    * → 
+      * salvage as mush as possible from the wreck  尽所有可能救出残骸中的物品
+  * savior /saviour n. 救命恩人 
+    *  → You are my savior.
+    * a knight in shining armor 关键时刻出现的救命恩人
+      * → 
+        * save the day  力挽狂澜
+* → People **who live in Britain** needn't despair **<u>when they make mistakes like this</u>** (and a lot of people do)!
+  * Britain, needn't 读的时候需要用 鼻腔爆破
+    * 鼻腔爆破 nasal explosion (口语)
+      * 英文中的爆破音, p/b/t/d/k/g 六个爆破音, 这六个音通常是在口腔爆破, 但有些时候爆破会发生在鼻腔, [t]/[d]+[n] 的时候. 这时 会不读 [t]/[d] 直接发 [n],
+      * 鼻腔爆破只发生在 弱读音节
+      * 示例单词 : Bri**tain** / mu**tton**/ cer**tain** /moun**tain** /di**dn**'t / stu**den**t
+  * despair 
+    * despair of sb. 对某人 绝望
+    * despair of (doing ) sth. 对某事绝望
+      * → 
+      * → 
+    * in despair 绝望地
+      * → 他绝望的自杀了
+      * → 
+      * → 
+      * → 
+        * faith n. 信仰
+        * hew v. 砍
+* → <u>Fortunately for them</u>(状语), the Bank of England has a team **called Mutilated Ladies which deals with claims from people <u>who fed their money to a machine or to their dog.</u>**(后置定语)
+  * claims v. 要求, 索赔 n. 声明 (保险业用的特别多)
+    * 形似词: climax n. 高潮
+  * deals with  应付, 处理, 解决, (常用, 听说读写都有可能出现)
+    * → 
+    * attend to  应付, 处理, 解决
+      * attend v. 出席
+      * → 
+    * see to 应付, 处理, 解决
+      * see v. 看
+      * → 
+    * handle 应付, 处理, 解决
+      * → 
+      * talent n. 才能
+      * d 碰到 j 会音变为 [dʒ]
+    * tackle 解决
+      * → 
+        * drug n. 毒品
+        * abuse v. 辱骂, 滥用, 虐待
+    * cope with ... 解决
+      * → 
+        * stress n. 压力, v. 强调
+  * feed sth. to sb. / feed sb. on sth. 把 某物 喂给某人 吃
+    * fed 过去式
+    * → 
+    * → 
+    * → well-fed, well-bred 吃得饱的人懂礼貌
+    * feed 还有投币的意思
+    * → 
+  * 一个动词和两个不同的宾语搭配表示两个不同的意思, 
+    * zeugma 轭式修辞/ 共轭修辞
+    * → 
+      * fit 
+    * → 
+      * as you see fit 如果你觉得合适的话
+      * execute + 法律 表示 执行法律
+      * execute + 某人 表示 处死某人
+  * 动词 + up 表示强调彻底性
+    * use 用 use up 用光了
+    * burn 烧 burn up 烧光了
+    * chew 嚼 chew up 嚼完了, 嚼烂了
+  * → 
+    * 通常重要信息放在主句中, 次要信息放在从句中, 所以这个写法没有课文中的写法好
+    * → Dogs, it seems, love to chew up money!
+      * 把原来的主句作为插入语放到句子中, 然后把原来的从句作为主句. 重点突出, 主次分明.
+      * 另一个例子: 
+        * →
+        * → 
+          * 突出 主要内容
+          * should 在疑问句中可以表示 怎么
+      * 又一个例子
+        * → 
+        * → 
+
+**## text2**
+
+* concern  n. 有关于, 关于... 
+  * be about... n. 关于
+  * → 
+  * 书信中也可以用
+    * → 
+  * →  
+  * be concerned with....
+    * → 
+    * → 
+    * → 
+      * concerning 很多字典直接把它看成介词
+    * → 
+* run: be in charge of (sth); manage 经营 
+  * .
+  * → 
+  * → 
+* → 
+  * go + doing 表示 去做某事
+    * .
+    * .
+    * .
+    * .
+    * .
+    * .
+* → 
+  * without realize it 替换
+    * .
+    * .
+* dismay: both shocked and discouraged. 既惊讶又沮丧
+* turn to /into ... 变成 ... 
+  * change into...
+  * become 
+  * → 
+    * caterpillar n. 毛毛虫
+  * turn + 名词 表示 身份的改变, 同时用 零冠词
+    * → 
+    * → 
+      * traitor n. 叛徒
+* imagine one's .... when ... 想象一下某人在某时的感情/感觉
+  * → 
+* 定语从句有人认为应该叫  continuative clause 接续性分句
+  * → 
+  * 很多并列句或者状语从句 都会考虑用 定语从句的外壳, 因为定语从句比较简洁, 关系代词/关系副词 既引导从句, 又在从句里充当成分, 这样表述就能简洁一些
+  * → 
+    * → 
+      * 这样就可以省略 一个 the boy
+      * 书面语中, 如果表达效果相同, 那么用字越少, 水平越高, 好的句子特征是没有一个冗余的词.
+  * → 
+    * 靠... 这句子特么是个解释原因的原因状语从句.... 但是壳是 定语从句的壳
+    * → 
+  * → 
+    * → 
+  * → 
+    * → 
+      * give sb. the sack 炒某人鱿鱼
+  * → 
+    * → 
+* special 除了表示特别的, 也能表示专用的, 专门的
+* 某人说了某话, 可以用倒装语序 'said sb.', 但是后面 的 sb. 不能是代词
+* as/ so long as 只要.....
+  * 类似的词
+    * provided/ providing (that) ...
+    * on condition (that) ...
+  * → 
+  * → 
+  * → 
+  * 辨析
+    * only if  ...  只有... , if 后加状语从句, only if 如果在句首, 需要部分倒装
+    * → 
+    * → 
+
+* for 可以表示 在哪工作
+
+  * → (NCE3-4 P26-L6) This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked **as** a dustman **for** the Ellesmere Corporation.
+
+* 把某人说话的内容, 中间用某人说 拆成两截, 一头一尾, 用于强调说话的信息, 弱化说话的人
+
+  * → 
+  * → 
+
+* 如何写出优秀的解释说明类文章 (exposition)
+
+  1. .
+  2. .
+  3. .
+
+  * 本文脉络 (...): 
+    * .
+    * .
