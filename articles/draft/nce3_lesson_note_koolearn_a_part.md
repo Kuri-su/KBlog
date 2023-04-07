@@ -2298,7 +2298,26 @@
 
 **word**
 
-
+*  monastery /ˈmɑːnəstɛri/ n. 修道院
+  * monastery 基督徒的修道院 (基督徒住的地方, 布道的地方叫教堂)
+  * temple 佛教徒和道教徒 的 寺庙
+  * mosque 伊斯兰教徒的清真寺
+  * --
+  * monk n. 洋和尚/中国的和尚 (男性)
+  * nun n. 修女/尼姑
+  * nunnery n. 女修道院
+  * convent n. 修女住的地方
+  * --
+  * church n. 普通的教堂, 教会
+  * cathedral n. 大教堂(更宏伟的建筑)
+* St. Bernard 圣伯纳德 (地名)
+  * St. → saint n. 圣徒
+  * 某些地名或者大学的名字前面有 St. 前缀, 通常是为了纪念某位圣徒.
+    * St. Andrew's Road 圣安德鲁大街 (伦敦)
+    * St. Paul's Cathedral 圣保罗大教堂 (伦敦)
+    * St. Valentine's Day 圣瓦伦汀节 (情人节)
+* rashly /ˈræʃli/ adv. 莽撞地, 冒失地
+  * 
 
 **text 1**
 
