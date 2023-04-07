@@ -2317,14 +2317,236 @@
     * St. Paul's Cathedral 圣保罗大教堂 (伦敦)
     * St. Valentine's Day 圣瓦伦汀节 (情人节)
 * rashly /ˈræʃli/ adv. 莽撞地, 冒失地
-  * 
+  * rash adj. 轻率的, 鲁莽的
+    * .
+    * → 
+  * 近义词: 
+    * reckless adj. 轻率的, 不顾后果的, 不顾可能出现的危险的
+      * → 
+        * fine v. 罚款
+    * impulsive adj. 爱冲动的, 头脑发热的.
+      * impulse n. 冲动
+      * → 
+        * straight away = right away = immediately 立刻
+* enclosure /ɪnˈkloʊʒər/ n. 围场, 圈地, 附件
+  * . 圈地运动
+    * Thomas More 的 Utopia(乌托邦) 中将 圈地运动叫做 Sheep eat men.
+  * enclose v. 包围, 环绕
+    * .
+    * → 
+  * surround v. 包围, 围绕
+    * .
+    * → 
+  * besiege v. 包围, 围绕 (军队)
+    * .
+    * → 
+  * 形似词
+    * closure n. 关闭
+    * close v. 关闭
+* privacy /ˈpraɪvəsi/(美式发音) n. 清静, 隐私, 个人自由
+  * . 
+    * invade v. 入侵，侵略，侵入
+  * private adj. 私人的
+    * 一般形容词或者名词末尾的 ate 会轻渎. 而非重读拖音
+    * .
+      * None of your business
 
-**text 1**
+ **text 1**
 
+* . 物理上的连接
+  *  → 
+  * 同义表达
+    * .
+    * .
+      * → 
+  * 抽象的联系
+    * .
+    * .
+      * → 
+    * .
+      * → 
+    * .
 
+* Switzerland 中间的 z 发 ts 的音
+  * pizza 中间的 zz 发 ts 的 类似 次的音
+  * Nazi 
+* at... 
+  * at  可以是 at an altitude of .... 的缩写, 表示在多少海拔高度上... 
+  * 这个 At 2473 meters,... 可以看成原因状语, 也可以看成非谓语动词修饰整句, 省略了作为现在分词的 Being.
+    * → 
+      * Being 如果出现在非谓语动词的句子里面, 通常 可以省略 Being.
+* 造句: .
+  * .
+    * Mont Blanc 是从法文来的, The Alps 阿尔卑斯山
+* 使用 of 引出 某些东西的名字
+  * → The famous monastery **of** St. Bernard
+  * → 
+  * → 
+  * → 
+  * 小说的名字不能用 of
+    * → 
+    * → 
+    * → 
+  * 人的名字也不能用 of
+    * → 
+* found  v. 建造, 成立
+  * foundation  n. 基础
+* 公元后 通常不需要明确标明 AD(Anno Domini), 公元前通常需要标明 BC (Before Christ)
+* 可以追溯到 某个时期 
+  * date from 
+  * → 
+  * date back to ... 
+  * . 
+  * 上述两个都可以表示追溯到某个时候, 
+    * → 
+    * → 
+    * → 
+
+* 位于的多种说法, (复习第三课)
+  * lie 
+  * stand 强调立体感,  立着, stand 本身也有站的意思.表示比较小的东西
+  * 描述大的东西可以用躺着, 例如 lie, 
+* St. Bernard Dog 温顺, 巨型犬, 常做救生犬
+* → St. Bernard dogs have saved the lives of travellers **crossing the dangerous Pass.** 
+  * **crossing the dangerous Pass.**  做后置定语, 修饰 travellers.
+  * → 
+  * → 
+  * . 穿越, 横穿某个地方
+  * 动词 ＋across ＋ 宾语, 和上面的穿越, 是不同的表示方式, 但是意思一样 
+    * → 
+      * row across the Caribbean
+    * → 
+      * fly across the English Channel
+    * . = .
+    * .=.
+    * .=.
+* Roman time: 公元前 五世纪 , the 5th century
+* n. 后面加 ly, 一般是 adj., adj. 后面加 ly, 一般是 adv.
+  * friendly adj. 友好的, 无害的.
+    * environment-friendly 环保的, 环境无害的
+    * ozone-friendly 臭氧层无害的
+* bring ... from .... : 从 .... 带来 ....
+  * introduce ...from....：从.....引进....
+    * → 
+    * → 
+      * The grey squirrel 灰松鼠
+    * → 
+  * (写作中最忌讳雷同)
+* → 
+  * sent out into 被派往某个地方 
+  * now (that) conj. 同时表示时间和原因, 现在怎么怎么样, 或者因为怎么怎么样.
+    * 使用现在时
+      * → 
+  * tunnel n. 隧道, 地道
+    * .
+    * canal n. 运河
+      * →  巴拿马运河
+* 疑问词 + ever 的含义
+  * 表示 “到底… . ”引号疑问句
+    * → 
+  * 表示“无论...〞引导让步状语从句。=no matter + 疑问词
+    * → 
+    * → 
+    * → 
+  * 知新： "疑问词+ever〞 表示“无论〞 时还可以用于名词性从句，此时 $\ne$ “no matter+ 疑问词”，因为后者只能用于让步状语从句。
+    * 名词性从句: 主语从句 / 宾语从句 / 表语从句 / 同位语从句, 都可以由名词来充当, 所以这四类从句都叫做名词性从句
+    * → . (T)主语从句
+    * → . (F) 让步状语从句, 这样整个句子没有主语了, 上面的句子因为是主语从句, 所以开头的从句是主语, 后面加 谓宾, 而改成 no matter+疑问词之后, 上一句开头的主语从句变成了 让步状语从句, 整个句子没有了主语
+      * → . [T]
+    * → . [T]
+      * → . [T] (No matter what)
+  * 读书使人充实, 讨论使人机敏, 写作使人精确 -- 弗朗西斯 培根 "论读书"
+* despite 介词 尽管
+* attempt to do sth. 设法去做某事, 努力试图做某事
+  * 同义词
+    * try to do sth.
+    * make an attempt to do sth.
+    * make an effort to do sth.
+    * seek to do sth. (fml.[正式的书面语])
+  * → .
+  * → .
+  * → .
+  * → .
+  * → .
 
 **text 2**
 
-
+* → .
+  * months 通常 读得时候, th 不发音, 最后的 s 由于受 n 的干扰, 读成 ts 发的 类似 刺的音.
+    * month 正常读
+  * in cars = by car 
+    * 表示“使用某种交通工具”的介词短语， "by”后要直接加单数名词 "in" 后的名词要有人称和数的变化.
+      * by 的 描述相对于 in 来说更少, in 能够加更多的描述, 描述多少辆/某人的交通工具, 一定要用 in, **绝对不能用 by 这个表达.**
+    * → .
+    * → .
+* As 可以引导原因状语从句, 表示因为
+* about 可以做副词表示周围/环绕
+* → .
+  * there be 句型的主语是后面的名词, 这里就是后面的 so many people
+  * 这里的非谓语的逻辑主语和主句主语不一致, 所以是独立主格结构, 这个句子原句如下: 
+    * → .
+    * 连词后面必须跟完整的句子, 而不是非谓语, 
+  * 这里的 special 是表示专用的, 而非 特殊的' 的意思 
+  * keep: confine 把... 关起来, 上文的 be kept 表示被关起来
+    * → .
+    * → .
+      * cage 笼子
+* life 表示生活, 中文中的 在英文中并不都是 of
+  * [btw 补笔记的时候记得补加粗的位置]
+  * life at the monastery 在修道院的生活
+  * life on a desert island(island 的 s 不发音) 荒岛生活
+  * life in the army 军旅生活
+  * life on campus 校园生活 (campus 大学校园)
+    * collage 学院
+    * off campus 学校周围
+* quite adv. completely 完全, 截然
+  * 越是高级英语越是细致活儿, 细致的位置体现水平
+  * quite 作adv. 常见的意思有两个, 
+    1. 颇为, 相当地
+    2. 截然, 完全, 彻底, 完全地, 
+  * 文中 quite different 应该翻译成截然不同, 不应该翻译成 颇为不同.
+  * 其他的表示 截然地/完全地 的例子
+    * → .
+    * → .
+* tem<u>per</u>ature 中间的 a 不发音
+* drop to 下降到
+  * 同义词
+    * fall 掉下来, 摔下来, 也可以表示数量下降
+      * → .
+      * → .
+    * plunge 扑通一声跳到水里了
+      * → .
+      * → .(替换)
+    * dive to 跳水
+  * 反义词
+    * increase to ... 上升到
+    * rise to ... 上升到
+    * rocket to .... 暴涨到 
+    * soar to ... 上升的 (鸟儿飞到天上去了)
+  * 上升/下降的幅度
+    * → . (温度下降了十度)
+* -30度 怎么读
+  * minus 30 degrees (注意美语中, 没有字母r 的时候是不能 勾舌尖的)
+  * 30 degrees below zero 零下三十度
+  * 摄氏度C
+    * minus 30 degrees <u>Centigrade</u>(n后面的 t读快了就没了, 直接用 n 拼 i) / <u>Celsius</u>
+  * 华氏F
+    * minus 30 degrees Fahrenheit
 
 **text 3**
+
+* ⭐️ perfer v. 更喜欢, 宁愿, 偏爱
+  * . 
+    * → 
+  * .
+    * → 
+  * 听力题
+    * → .
+    * 否定疑问是希望预期 肯定的回答.
+  * **prefer A rather than B** 
+    * → 
+  * **prefer to do rather than do**
+    * → 
+      * 注意让人坐下的时候不要说 sit, 这是对狗下口令, 应该是 'sit down , please'
+  * **would rather do than do**
+    * → 
