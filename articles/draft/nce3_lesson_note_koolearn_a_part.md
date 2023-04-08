@@ -2543,10 +2543,83 @@
   * 听力题
     * → .
     * 否定疑问是希望预期 肯定的回答.
-  * **prefer A rather than B** 
+    * imply v. 暗示, 意味着
+  * **prefer A rather than B** 喜欢 A 而不是 B, 有排斥 B 的意思 (刚刚那个是 相比 A 更喜欢 B)
     * → 
-  * **prefer to do rather than do**
+  * **prefer to do rather than do** 更喜欢做 A 相较于 B, 这里没有排斥 B 的意思
     * → 
       * 注意让人坐下的时候不要说 sit, 这是对狗下口令, 应该是 'sit down , please'
-  * **would rather do than do**
+  * **would rather do than do** 宁愿做 A 也不愿意做 B (区别较为微妙)
     * → 
+    * → 
+    * 听力题
+      * → .
+        * due adj. 到期的, 应付的,
+          * cue n. 线索
+        * make that one 赶上那辆车
+* 允许做某事的表达
+  * permit sb. to do 
+  * allow sb. to do
+  * give sb. permission to do 
+* wander: to walk aim<u>less</u>ly 漫无目的的闲逛
+  * 同义词: 
+    * roam v. 闲逛
+      * 形似词: foam n. 泡沫
+  * 形似词
+    * wonder : n. 奇迹, v. 想知道
+* regular  adj. 规律的, 常规的, 规则的
+  * regular visitors 常客
+    * regular visitors to sp. 到某地的常客
+  * 同义词: 
+    * normal
+  * 反义词: 
+    * irregular adj. 不规则的
+  * → .
+    * → What'll it be? 您想点啥?
+    * → the u<u>su</u>al , please.
+* parties of skiers 一队一队的滑雪者
+  * 这里的 party 不是表示派对, 而是表示一队有共同目的的人
+  * a party of tourists 一队游客
+  * a search party 搜寻队
+  * a rescure party 营救队
+  * 同义词
+    * group / bunch / crowd / band
+    * bunch  用在水果上是一串, 例如一串葡萄
+    * band 不但可以表示乐队, 也可以表示一群人.
+      * → .
+* 复活节是 耶稣复活的日子 Easter(三月底四月初左右), 圣诞节是耶稣出生的日子Christmas, 
+  * on Christmas Day 圣诞节那一天
+    * At Christmas 是整个圣诞节假期
+  * on Easter Day
+  * on(美)/at(英) weekends
+* 受到欢迎
+  * ., are always warmly welcomed .. (不佳)
+  * **receive** a warm welcome (名词会相对更加正式)
+  * 致以欢迎 extend ... to ...  
+    * extend v. 延展, 提供
+    * → .
+  * receive + n. 受到；得到；遭到, 这三个意思都可以优先 考虑 用 receive
+    * → 
+      * 受到的表扬 和 遭到的谩骂
+        * abuse 辱骂, 虐待, 滥用
+    * receive insults  遭到了侮辱
+    * receive support 得到了支持
+    * receive adequate treatment 得到了充分的治疗
+    * receive good education 得到了良好的教育
+    * 用 receive 的话就不需要使用动词被动了.
+    * receive attention 得到了关注
+      * → .
+* 到了三册, 词法上的重要性, 慢慢就会超过语法的重要性, 随着单词量的增加, 词法上的细节会越来越多, 
+
+## L9 Flying cats
+
+**## word**
+
+
+
+**## text1**
+
+
+
+**## text2**
+
