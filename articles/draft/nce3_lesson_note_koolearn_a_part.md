@@ -2318,89 +2318,111 @@
     * St. Valentine's Day 圣瓦伦汀节 (情人节)
 * rashly /ˈræʃli/ adv. 莽撞地, 冒失地
   * rash adj. 轻率的, 鲁莽的
-    * .
-    * → 
+    * a **rash** decision
+    * → Don't make **rash** promises.
   * 近义词: 
     * reckless adj. 轻率的, 不顾后果的, 不顾可能出现的危险的
-      * → 
+      * → He was fined $100 for **reckless** driving.
         * fine v. 罚款
     * impulsive adj. 爱冲动的, 头脑发热的.
       * impulse n. 冲动
-      * → 
+      * → She's so **impulsive** --- she saw the house for the first time and said she'd buy it straight away.
         * straight away = right away = immediately 立刻
 * enclosure /ɪnˈkloʊʒər/ n. 围场, 圈地, 附件
-  * . 圈地运动
+  * **enclosure movement** 圈地运动
     * Thomas More 的 Utopia(乌托邦) 中将 圈地运动叫做 Sheep eat men.
   * enclose v. 包围, 环绕
-    * .
-    * → 
+    * be enclosed by ..
+    * → The garden **was** completely **enclosed** **by** a high wall.
   * surround v. 包围, 围绕
-    * .
-    * → 
+    * **be surrounded by ...**
+    * → She said that she wanted to die **surrounded by** the people she loves.
   * besiege v. 包围, 围绕 (军队)
-    * .
-    * → 
+    * **be besieged by ...**
+    * → Troy **was besieged by** Greeks.
   * 形似词
     * closure n. 关闭
     * close v. 关闭
 * privacy /ˈpraɪvəsi/(美式发音) n. 清静, 隐私, 个人自由
-  * . 
+  * .protect / respect / invade sb.'s **privacy**
     * invade v. 入侵，侵略，侵入
   * private adj. 私人的
     * 一般形容词或者名词末尾的 ate 会轻渎. 而非重读拖音
-    * .
+    * a **private** <u>conversation</u> / <u>collector</u>
       * None of your business
 
  **text 1**
 
-* . 物理上的连接
-  *  → 
+* **connect A <u>with</u> / <u>to</u> B** 物理上的连接
+  *  → The Channel Tunnel has **connected** Britain **with** mainland Europe for the first time .
   * 同义表达
-    * .
-    * .
-      * → 
+    * **link A <u>with</u> / <u>to</u> B**
+    * **join A to B**
+      * → (NCE3-17 P78-L8) The Verrazano Bridge, which was designed by Othmar Ammann, **joins** Brooklyn **to** Staten lsland.
   * 抽象的联系
-    * .
-    * .
-      * → 
-    * .
-      * → 
-    * .
+    * **connect A <u>with</u> / <u>to</u> B**
+    * **link A <u>with</u> / <u>to</u> B**
+      * → There is no evidence to **<u>link</u>** / <u>**connect**</u> him **<u>with</u>** the murder.
+        * evidence n. 证据
+    * **associate A with B**
+      * → (NCE3-23 P114-L10) There are countless people who, ever since their early years, have learned to **associate** snails **with** food.
+    * **relate A to B**
 
 * Switzerland 中间的 z 发 ts 的音
+
   * pizza 中间的 zz 发 ts 的 类似 次的音
   * Nazi 
+
 * at... 
+
   * at  可以是 at an altitude of .... 的缩写, 表示在多少海拔高度上... 
   * 这个 At 2473 meters,... 可以看成原因状语, 也可以看成非谓语动词修饰整句, 省略了作为现在分词的 Being.
-    * → 
+    * → Being at 2,473 meters, ...
       * Being 如果出现在非谓语动词的句子里面, 通常 可以省略 Being.
-* 造句: .
-  * .
+
+* 造句：4807米的勃朗峰 (Mont Blanc) 是阿尔卑斯山脉 (the Alps) 的最高峰。
+
+  * At 4,807 meters, Mont Blanc is the highest peak of the Alps.
     * Mont Blanc 是从法文来的, The Alps 阿尔卑斯山
+
 * 使用 of 引出 某些东西的名字
+
   * → The famous monastery **of** St. Bernard
-  * → 
-  * → 
-  * → 
-  * 小说的名字不能用 of
-    * → 
-    * → 
-    * → 
+  * → (NCE3-3 P22-L2 the Aegean island **of** Kea
+  * → (NCE3-3 P22-L3) the promontory **of** Avia lrini
+  * → (NCE3-16 P74-L1)the tiny village **of** Perachora
+  * 小说的名字不能用 of, 要用 entitle
+    * → the novel of Three Kingdoms (F)
+    * → the novel **entitled** Three Kingdoms
+    * → the movie **entitled** Da Vinci Code
   * 人的名字也不能用 of
-    * → 
+    * → the man **<u>named</u>** / <u>**called**</u> Vincent
+
 * found  v. 建造, 成立
+
   * foundation  n. 基础
+
 * 公元后 通常不需要明确标明 AD(Anno Domini), 公元前通常需要标明 BC (Before Christ)
+
 * 可以追溯到 某个时期 
+
   * date from 
-  * → 
-  * date back to ... 
-  * . 
+
+  * → (NCE3-3 P22-L11)The body of one statue was found among remains **dating from** the fifteenth century B.C.
+
+  * **date back to ...** 
+
+  * **can be traced back to**
+
   * 上述两个都可以表示追溯到某个时候, 
-    * → 
-    * → 
-    * → 
+
+    * → ..,which **dates from** the 11th century, ...
+
+    * →..., which **dates back to** the 11th century,.
+
+    * → ..,which **can be traced back to** the 11th
+
+      century,
 
 * 位于的多种说法, (复习第三课)
   * lie 
@@ -2409,17 +2431,17 @@
 * St. Bernard Dog 温顺, 巨型犬, 常做救生犬
 * → St. Bernard dogs have saved the lives of travellers **crossing the dangerous Pass.** 
   * **crossing the dangerous Pass.**  做后置定语, 修饰 travellers.
-  * → 
-  * → 
-  * . 穿越, 横穿某个地方
+  * → (NCE3-8 P42-L10) cross the pass on foot
+  * → (NCE3-8 P42-L11) cross the pass in cars
+  * **cross ＋ 宾语 ＋方式状语** 穿越, 横穿某个地方
   * 动词 ＋across ＋ 宾语, 和上面的穿越, 是不同的表示方式, 但是意思一样 
-    * → 
-      * row across the Caribbean
-    * → 
-      * fly across the English Channel
-    * . = .
-    * .=.
-    * .=.
+    * → (NCE3-12 P58-L11) They quickly loaded a small rubber dinghy with food, matches, and tins of beer and **rowed** for a few miles **across the Caribbean** until they arrived at a tiny coral island .
+      * **row across the Caribbean**
+    * → (NCE3-20 P90-L1)In 1908 Lord Northcliffe offered a prize of £ 1000 to the first man who would **fly across the English Channel.**
+      * **fly across the English Channel**
+    * <u>cross</u> the pass **on foot** = **walk** <u>across</u> the pass
+    * <u>cross</u> the pass **in cars** = **drive** <u>across</u> the pass
+    * **row** <u>across</u> the Caribbean = <u>cross</u> the Caribbean **by boat.**
 * Roman time: 公元前 五世纪 , the 5th century
 * n. 后面加 ly, 一般是 adj., adj. 后面加 ly, 一般是 adv.
   * friendly adj. 友好的, 无害的.
@@ -2427,34 +2449,34 @@
     * ozone-friendly 臭氧层无害的
 * bring ... from .... : 从 .... 带来 ....
   * introduce ...from....：从.....引进....
-    * → 
-    * → 
+    * → ...,which were introduced from Asia, ...
+    * → The grey squirrel was introduced into Britain from North America.
       * The grey squirrel 灰松鼠
-    * → 
+    * → (NCE4-17 P98-L1) In the early days of the settlement of Australia, enterprising settlers unwisely introduced the European rabbit.
   * (写作中最忌讳雷同)
-* → 
+* → **Now that a tunnel has been built through the mountains,** the Pass is less dangerous, <u>but</u> each year, the dogs are still sent out into the snow **<u>whenever a traveller is in difficulty.</u>**
   * sent out into 被派往某个地方 
   * now (that) conj. 同时表示时间和原因, 现在怎么怎么样, 或者因为怎么怎么样.
-    * 使用现在时
-      * → 
+    * Now (that) 从句 使用现在时
+      * → Now (that) you are a big boy you must behave better.
   * tunnel n. 隧道, 地道
-    * .
+    * the Channel **Tunnel**
     * canal n. 运河
-      * →  巴拿马运河
+      * → the Panama **Canal**  巴拿马运河
 * 疑问词 + ever 的含义
   * 表示 “到底… . ”引号疑问句
-    * → 
+    * → (NCE3-2 P18-L10)"**Whatever** are you doing up here Bill ?' asked the vicar in surprise.
   * 表示“无论...〞引导让步状语从句。=no matter + 疑问词
-    * → 
-    * → 
-    * → 
+    * → (NCE3-1 P14-L11) **Wherever** it went, it left behind it a trail of dead deer and small animals like rabbits.
+    * → **No matter where** it went, it left behind it a trail of dead deer and small animals like rabbits.
+    * → ...,the dogs are still sent out into the snow **no matter when** a traveller is in difficulty.
   * 知新： "疑问词+ever〞 表示“无论〞 时还可以用于名词性从句，此时 $\ne$ “no matter+ 疑问词”，因为后者只能用于让步状语从句。
     * 名词性从句: 主语从句 / 宾语从句 / 表语从句 / 同位语从句, 都可以由名词来充当, 所以这四类从句都叫做名词性从句
-    * → . (T)主语从句
-    * → . (F) 让步状语从句, 这样整个句子没有主语了, 上面的句子因为是主语从句, 所以开头的从句是主语, 后面加 谓宾, 而改成 no matter+疑问词之后, 上一句开头的主语从句变成了 让步状语从句, 整个句子没有了主语
-      * → . [T]
-    * → . [T]
-      * → . [T] (No matter what)
+    * → **Whoever wants to sign up for the course** is welcome.  (T)主语从句
+    * → **No matter who wants to sign up for the course** is welcome.  (F) 让步状语从句, 这样整个句子没有主语了, 上面的句子因为是主语从句, 所以开头的从句是主语, 后面加 谓宾, 而改成 no matter+疑问词之后, 上一句开头的主语从句变成了 让步状语从句, 整个句子没有了主语
+      * → **No matter who wants to sign up for the course**, **<u>he</u>** is welcome.  [T]
+    * → **Whatever project he works on** is always successful. [T]
+      * → **No matter what project he works on,** **<u>it</u>** is always successful. [T] (No matter what)
   * 读书使人充实, 讨论使人机敏, 写作使人精确 -- 弗朗西斯 培根 "论读书"
 * despite 介词 尽管
 * attempt to do sth. 设法去做某事, 努力试图做某事
@@ -2463,33 +2485,33 @@
     * make an attempt to do sth.
     * make an effort to do sth.
     * seek to do sth. (fml.[正式的书面语])
-  * → .
-  * → .
-  * → .
-  * → .
-  * → .
+  * → (NCE3-38 P174-L7) But the historian **attempting to** reconstruct the distant past is always faced with a difficult task.
+  * → I **made an attempt to** apologize, but Brian wouldn't even talk to me.
+  * → (NCE3-20 P90-L2) Over a year passed before the first **attempt was made.**
+  * → (NCE3-38 P174-L21)It seems that man was **making a** real **effort to** understand the seasons 20,000 years earlier than has been supposed.
+  * → (NCE4-24 P138-L14) ... if, in a word, beauty means something, yet we must not **seek to** interpret the meaning.
 
 **text 2**
 
-* → .
+* → <u>During the summer months</u>, the monastery is very busy, **for it is visited by thousands of people <u>who cross the Pass in cars.</u>**
   * months 通常 读得时候, th 不发音, 最后的 s 由于受 n 的干扰, 读成 ts 发的 类似 刺的音.
     * month 正常读
   * in cars = by car 
     * 表示“使用某种交通工具”的介词短语， "by”后要直接加单数名词 "in" 后的名词要有人称和数的变化.
       * by 的 描述相对于 in 来说更少, in 能够加更多的描述, 描述多少辆/某人的交通工具, 一定要用 in, **绝对不能用 by 这个表达.**
-    * → .
-    * → .
+    * → You can go to the airport **in my car.**
+    * → We crossed the river **in a boat.**
 * As 可以引导原因状语从句, 表示因为
 * about 可以做副词表示周围/环绕
-* → .
+* → As there are so many people about, the dogs have to be ...
   * there be 句型的主语是后面的名词, 这里就是后面的 so many people
   * 这里的非谓语的逻辑主语和主句主语不一致, 所以是独立主格结构, 这个句子原句如下: 
-    * → .
+    * → **(With) so many people (being) about**, the dogs have to be
     * 连词后面必须跟完整的句子, 而不是非谓语, 
   * 这里的 special 是表示专用的, 而非 特殊的' 的意思 
   * keep: confine 把... 关起来, 上文的 be kept 表示被关起来
-    * → .
-    * → .
+    * → He **was <u>kept</u> / <u>confined</u> in** prison.
+    * → You shouldn't **<u>keep</u> / <u>confine</u>** the bird **in** a cage.
       * cage 笼子
 * life 表示生活, 中文中的 在英文中并不都是 of
   * [btw 补笔记的时候记得补加粗的位置]
@@ -2506,17 +2528,17 @@
     2. 截然, 完全, 彻底, 完全地, 
   * 文中 quite different 应该翻译成截然不同, 不应该翻译成 颇为不同.
   * 其他的表示 截然地/完全地 的例子
-    * → .
-    * → .
+    * → (NCE3-12 P58-L4) The other side of the picture is **<u>quite</u> the opposite.**
+    * → (NCE3-30 P142-L21) He used to sleep during the day and work at night, **<u>quite</u>** **unaware** of the fact that he had become the ghost of Endley.
 * tem<u>per</u>ature 中间的 a 不发音
 * drop to 下降到
   * 同义词
     * fall 掉下来, 摔下来, 也可以表示数量下降
-      * → .
-      * → .
+      * → The temperature falls to -30°...
+      * → (NCE3-50 P228-L24) Little by little the eleven minutes **fell to** zero. (Little by little 一点一点的)
     * plunge 扑通一声跳到水里了
-      * → .
-      * → .(替换)
+      * → (NCE3-10 P50-L15) The order to abandon ship was given and hundreds of people **plunged** into the icy water.
+      * → The temperature **plunges to** -30°...(替换)
     * dive to 跳水
   * 反义词
     * increase to ... 上升到
@@ -2524,7 +2546,7 @@
     * rocket to .... 暴涨到 
     * soar to ... 上升的 (鸟儿飞到天上去了)
   * 上升/下降的幅度
-    * → . (温度下降了十度)
+    * → The temperature drops by 10° (温度下降了十度)
 * -30度 怎么读
   * minus 30 degrees (注意美语中, 没有字母r 的时候是不能 勾舌尖的)
   * 30 degrees below zero 零下三十度
@@ -2536,24 +2558,26 @@
 **text 3**
 
 * ⭐️ perfer v. 更喜欢, 宁愿, 偏爱
-  * . 
-    * → 
-  * .
-    * → 
+  * **prefer A to B**
+    * → I **prefer** mutton **to** beef.
+  * **prefer doing to doing**
+    * → I **prefer** standing **to** sitting down.
   * 听力题
-    * → .
+    * → W: Didn't Marian go shopping with you yesterday?
+    * → M: Even if she hadn't had a lot of studying, she would have **preferred** staying home **to** going shopping.
     * 否定疑问是希望预期 肯定的回答.
     * imply v. 暗示, 意味着
   * **prefer A rather than B** 喜欢 A 而不是 B, 有排斥 B 的意思 (刚刚那个是 相比 A 更喜欢 B)
-    * → 
+    * → I **prefer** mutton **rather than** beef.
   * **prefer to do rather than do** 更喜欢做 A 相较于 B, 这里没有排斥 B 的意思
-    * → 
+    * → I **prefer to** stand **rather than** sit down.
       * 注意让人坐下的时候不要说 sit, 这是对狗下口令, 应该是 'sit down , please'
   * **would rather do than do** 宁愿做 A 也不愿意做 B (区别较为微妙)
-    * → 
-    * → 
+    * → I**’d** **rather** stand **than** sit down.
+    * → (NCE3-14 P66-L7) ... people **would rather** pay large sums of money **than** have their life work destroyed by gangsters.
     * 听力题
-      * → .
+      * → M: It says here the next train is due in at 6:30.
+      * → W: I know, but I don't know whether I can make that one. I**'d rather** call you from the station **than** have you waiting around for an hour.
         * due adj. 到期的, 应付的,
           * cue n. 线索
         * make that one 赶上那辆车
@@ -2574,7 +2598,7 @@
     * normal
   * 反义词: 
     * irregular adj. 不规则的
-  * → .
+  * → He is one of our restaurant's **regulars**.
     * → What'll it be? 您想点啥?
     * → the u<u>su</u>al , please.
 * parties of skiers 一队一队的滑雪者
@@ -2586,7 +2610,7 @@
     * group / bunch / crowd / band
     * bunch  用在水果上是一串, 例如一串葡萄
     * band 不但可以表示乐队, 也可以表示一群人.
-      * → .
+      * → (NCE3-14 P66-L9) Six hundred years ago, Sir John Hawkwood arrived in ltaly with a **band** of soldiers and settled near Florence.
 * 复活节是 耶稣复活的日子 Easter(三月底四月初左右), 圣诞节是耶稣出生的日子Christmas, 
   * on Christmas Day 圣诞节那一天
     * At Christmas 是整个圣诞节假期
@@ -2597,18 +2621,18 @@
   * **receive** a warm welcome (名词会相对更加正式)
   * 致以欢迎 extend ... to ...  
     * extend v. 延展, 提供
-    * → .
-  * receive + n. 受到；得到；遭到, 这三个意思都可以优先 考虑 用 receive
-    * → 
+    * → Let's all **extend** a warm welcome **to** our visitors.
+  * receive + n. 受到；得到；遭到, 这三个意思都可以优先 考虑 用 receive, (黄金的第一选择)
+    * → (NCE3-23 P114-L9) No creature has **received more praise and abuse** than the common garden snail.
       * 受到的表扬 和 遭到的谩骂
         * abuse 辱骂, 虐待, 滥用
-    * receive insults  遭到了侮辱
-    * receive support 得到了支持
-    * receive adequate treatment 得到了充分的治疗
-    * receive good education 得到了良好的教育
+    * **receive insults**  遭到了侮辱
+    * **receive support** 得到了支持
+    * **receive adequate treatment** 得到了充分的治疗
+    * **receive good education** 得到了良好的教育
     * 用 receive 的话就不需要使用动词被动了.
-    * receive attention 得到了关注
-      * → .
+    * **receive attention** 得到了关注
+      * → (NCE3-31 P146-L20) This exhibition **received a great deal of attention** in the press, ...
 * 到了三册, 词法上的重要性, 慢慢就会超过语法的重要性, 随着单词量的增加, 词法上的细节会越来越多, 
 
 ## L9 Flying cats
