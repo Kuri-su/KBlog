@@ -2639,11 +2639,196 @@
 
 **## word**
 
-
+* fascinate /ˈfæsɪneɪt/ v. 迷住, 吸引住 (及物)
+  * ate 字根在 动词末尾有固定的 读法, eit, 
+  * → 
+  * → 
+    * 这里不是现在分词, 是直接当作形容词来用
+  * **<u>be</u> / <u>find</u> .... endlessly fascinating**
+    * find 不一定表示发现, 也可以表示认为/觉得, 
+    * → 
+    * → 
+  * fascination n. 魅力, 吸引力
+    * have a ... fascination for ... 对某人某物来说有一种什么样的魅力
+      * → 
+      * → 
+        * voyagers n. 探险家, 旅行者, 航海家
+      * →  
+* affectionate /əˈfɛkʃənət/ adj. 充满深情的, 柔情的
+  * ate 字根 不在动词末尾读成 ət
+  * → 
+  * affection n. 慈爱, 柔情
+    * parental(父母亲) affection 父母亲的爱
+    * maternal(妈妈的) affection 母爱
+    * paternal(父亲的) affection 父爱
+* mysterious /mɪˈstɪriəs/ adj. 神秘的, 难以理解的
+  * 中间的 ə 经常被吞掉
+  * the **mysterious** pyramids(金字塔)
+  * **mystery** n. 谜, 难以理解的人或事
+    * **be a mystery to sb.** 对某人来说难以理解
+      * → It'**s a complete mystery to** me why she married him at all!
+        * complete adj. 完全的 v. 完成
+        * 最后的 at all 用来加强语气
+      * 听力题: 
+        * → 
+        * → 
+* submissive /səbˈmɪsɪv/ adj. 服从的, 顺从的, 温顺的
+  * → 
+  * submit v. 提交, 呈递, 服从, 屈服
+    * **submit to** 服从于, 顺从于
+    * → 
+  * yield/jiːld/ to ... 服从于, 屈服于
+  * bow(鞠躬) to ... 屈服于,服从于
+    * → 
+  * be subject to sth. 屈服于, 服从于
+    * → 
+      * regulations n. 规章制度
+    * → 
+      * anew = again
+      * sincerity 真诚
+      * 最后一句 用了 倒复手法, 
+* feline /ˈfiːlaɪn/ adj. 猫的, 像猫的, 
+  * → 
+    * grace n. 优美,优雅 (来自古法语)
+      * graceful adj. 优美的, 优雅的
+  * ine 词缀经常表示像... 一样的
+  * canine adj. 狗的, 像狗的, 犬的
+    * canine teeth 狗牙
+  * aquiline adj. 鹰的, 像鹰的
+    * an aquiline nose 鹰鼻
+  * prcine adj. 猪的, 像猪的
+  * equine adj. 马的, 像马的
+  * bovine adj. 牛的, 像牛的
+    * bovine spongiform(海绵形状的) encephalopathy(脑部病变) (BSE) 疯牛病
+      * mad cow disease(疾病) 疯牛病
+  * feminine adj. 女人气的, 像女人的
+    * female 女性的
+  * masculine adj. 男子气的, 像男人的
+* independence /ˌɪndɪˈpɛndəns/ n. 独立, 自主
+  * Independence Day 独立日 (7.4 美国国庆)
+  * → 
+    * gain(v. 获得) independence from sb. 从某人获得独立
+  * independent adj. 独立的, 自主的, 
+    * **be independent of ....**
+      * → Hlis wages(n. 工资) enabled him to **become economically independent of** his family.
+    * be dependent on ... adj. 依赖的
+      * → They hate **being dependent on** their parents.
+        * 这里的 hate 不翻译成 憎恨, 翻译成 不乐意,
+      * → ICE3-46 P212-L1) So great is our passion for doing things for ourselves, that we are **becoming** increasingly less **dependent on** specialized labour.
 
 **## text1**
 
-
+* **never fail to do sth. ** 总是能做某事
+  * be always doing sth. 略有贬义词的味道
+  * → 
+  * 双重否定
+    * 表肯定, 用于加强 肯定句 的语气, 比肯定句更加肯定.
+    * → (NCE3-9 P46-L11) ...,because there is **no shortage** of tall buildings.
+      * shortage n. 缺乏
+        * no shortage 有得是
+    * → (NCE3-41 P192-L26) **Nor** is the city **without** its moments of beauty.
+    * → (NCE3-43 P200-L7)It is **not uncommon** to hear that a shipping company has made a claim for the cost of salvaging a sunken ship.
+    * → She did **<u>not fail</u>** to keep her word.
+    * → **Nobody** is **without** his faults. 人无完人
+    * → **Nothing** is **impossible** to a willing mind. 如果你想做某事, 那么没什么是不可能的. (有志者, 事尽成)
+      * willing adj. 乐意的, 愿意的
+    * → **<u>No</u>** one has **<u>nothing</u>** to contribute to society(社会). 每个人都可以为社会作出贡献
+    * → I will **<u>never</u>** read books **<u>without</u>** falling asleep.  我一看书就想睡觉,  
+* → Cats **are endlessly fascinating.**
+* → We **find** cats **endlessly fascinating.**
+* → They **can be** friendly and affectionate towards humans, but they lead mysterious lives of their own as well.
+  * can be 表示一种可能性, 
+  * be friendly to/toward(s)(美服可以把 s 去掉也行) 对某人友好
+    * →  
+  * be affectionate toward(s) 对某人充满深情
+    * → 
+  * live/lead a ... life 过着一种 .. 的生活
+    * live 表示活着, 他的名词 生活 就是 life,
+    * 这种动词和后面宾语同根的情况较为常见, 
+      * **sing** a **song** 
+      * **live** a **life**
+      * He **breathed** his last **breath**
+      * She **died** a glorious **death**. 死得光荣
+  * ... of one's own 自己的....(专门用来做后置定语)
+    * → I want a room **of my own.**
+* 像...一样
+  * like 如果表示像...一样 , 在书面语中作介词 (或者说连词)
+  * as ... as .... (用于肯定句)
+  * as/so ... as (否定/疑问)
+    * 第一个 as/so 是副词, 修饰形容词或者副词, 第二个 as 是连词, 表示 就像, 这个连词后面跟的并列句中, 谓语动词一般是省略的, 因为后面的谓语动词往往和主句中的谓语动词是一样的.
+    * → They never become **<u>as</u>** / **<u>so</u>** submissive **<u>as</u>** dogs and horses **<u>(do).</u>**
+  * **in the (same) way that(which) ....**, 就像 ,这个 that 在这里表示关系副词, 
+    * → (NCE2-26 P126-L4) We like them **in the same way that** we like pretty curtain material. 
+    * → Love me **in the way that** I love you.
+      * 祈使句, 省略主语, 以动词开头.
+    * → The city is living proof that the policy works **in the way that** economists claim(声称).
+    * → They never become submissive **in the (same) way that** dogs and horses do.
+* learn 学会了, 明白了, 懂了,(强调结果)
+  * study 表示去学习, 去研究, (强调过程)
+  * 听力题: 
+    * → When will you ever **learn**?
+      * 为什么你总是 在明白了? 翻译一下就是为什么你总是学不会? 
+      * 意思是: Why do you keep on making the same mistakes? 
+* 古罗马/古希腊 认为的三个成熟男子必备的品性
+  * independence  独立
+  * humor 幽默
+  * honesty 诚实
+* sovereignty n. 主权
+* autonomy n. 自治权
+  * → the Inner Mongolia **Autonomous** Region 内蒙古自治区
+* → Most cats remain suspicious of humans all their lives.
+  * remain  留有, 保持
+  * suspicious adj. 怀疑的(怀疑别人) / 可疑的(令别人怀疑)
+    * be suspicious of /about ... 对... 怀疑的, 有戒备
+    * → He appeared **suspicious**. 他看起来可疑的
+      * appeare 看起来
+    * 同义词
+      * **sceptical**(英) / **skeptical**(美)  adj. 怀疑的, 持怀疑态度的
+        * **be skeptical <u>of</u>/ <u>about</u>** 
+        * → I'**m highly skeptical <u>of</u> / <u>about</u>** his motives.
+* **all one's life = throughout(贯穿) one's life** 终生
+  * **for life = for the rest(其余的) of one's life** 余生
+    * for  读快了会读成 fe 
+    * → The accident crippled him **for life.** 事故使他余生残废了.
+    * → I'll love you for life.
+* → <u>One</u> of the things **that <u>fascinates</u> us most about cats** is the popular belief **that they have nine lives.**
+  * belief n. 信念, 信仰, 观念
+  * 这里 第一个从句 `that fascinates us most about cats` 修饰 前面的 one 或者 things 都对,  新概念体系中, 通常认为这个从句修饰前面的 one, 而国内的考试中通常认为 这里修饰前面前面的 things. 
+    * 如果是 修饰 one , 那么这里的动词 fascinate 要用第三人称单数 加 s, 
+    * 如果是修饰 things, 那么这里 动词 fascinate 用原型即可
+    * 上述两种在语法上都对, 
+    * 以下是新概念体系的其他例子
+      * → (NCE2-28 P134-L1) Jasper White is <u>one</u> of those rare people **who <u>believes</u> in ancient myths.**
+      * → (NCE3-25 P122-L6) The Cutty Sark was <u>one</u> of the fastest sailing ships **that <u>has</u> ever been built.**
+      * 语法改错 : 
+        * → John is the only one of the students in the class **(A)** <u>that</u> never **(B)** <u>**admit making**</u> a mistake even when **(C)** <u>it</u> is **(D)** <u>pointed out</u> to him.
+        * admit 改为 admits
+  * 这个知识点 叫做 `one of something 后面加 定语从句的谓语用三单还是原型`
+* most 修饰 v. 前面加或不加 the 都 ok, 而 most 如果修饰 adj. ,那么前面要加 the
+  * → Those who work **(the) most** often get paid **(the) least.**
+* 造句：最令我们感到伤心 (sadden) 的一件事是一种令人沮丧的说法 (a depressing saying)：每当我们在街上有麻烦或者有危险时没有人来帮助我们 (come to our assistance)。
+  * One of thing that saddens us most is a depressing saying that **whenever** we  are in  trouble or danger in the street no one will come to our assistance. 
+* there is a good deal of truth in ...  (某事很有道理)
+  * 某事有点道理
+    * (NCE3-12 P58-L7) Perhaps **there is an element of truth in** both this pictures, but few of us have had the opportunity to find out.
+    * **There is** probably **an element of truth in** this argument, but they ignore a more basic fact that the freedom of the press is often abused.
+      * argument n. 争论, 论据,
+      * the freedom of the press 新闻自由
+      * abuse v. 辱骂, 虐待, 滥用
+    * → Albert Einstein once **attributed** the creativity in a famous scientist **to** the fact that he never went to school. **There is** undoubtedly **a truth in** his observation, but such a truth is not criticism of schools.
+      * creativity n. 创造力
+      * attributed ... to ... 把前者归因于后者
+      * observation n. 某人的观点
+      * there is a truth in ... (某事有道理)
+      * criticism n. 批评
+* ability to do 做... 的能力
+* servive v. 存活, (不及物) v. 经历某事而存活 (及物)
+  * → in the battle, only 4 soldiers **survived**.(不及物)
+  * → Only 4 soldiers **survived** the battle. (及物)
+  * → (NCE3-54 P244-L18)1am especially proud of it, not only because it has **survived** <u>several severe winters,</u> but because it occasionally produces luscious peaches.
+* ... **is <u>based</u> / <u>founded</u> on** fact  基于... 的, 这里是基于事实的
+  * ... **rests on** fact 基于事实
+  * ... is supported by fact 被事实支持的
 
 **## text2**
 
