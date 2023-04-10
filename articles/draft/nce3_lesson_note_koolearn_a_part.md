@@ -2832,3 +2832,152 @@
 
 **## text2**
 
+* medical adj. 医学的/医疗的
+* **make a study of  sth.** (名词结构, 更为庄重) **= study ...** 对 sth. 做研究 / 研究 sth.
+  * **make a study of** human nature 对人性做研究
+  * 对人性做仔细的研究
+    * 例1: make a study of human nature carefully
+    * 把动词变成名词作为中心词的短语之后,  充满了灵活性, 不止是表达更加庄严正式, 而且可以直接在名词前面用形容词来限定了, 之前用副词修饰动词, 现在可以 用形容词修饰 名词, 
+    * **made a close(adj. 仔细的) study of** human nature
+* → All these cats had <u>one experience</u> in common: **<u>they had fallen off high buildings,</u>** <u>yet</u> only eight of them died from shock or injuries.
+  * yet 表示然而 既可以做副词, 也可以做连词, 本句中作连词
+  * injurie n. 外伤
+  * **have sth. in common :** 
+    * → ... because people's descriptions of the puma **had a lot in common.**
+    * → These two <u>species</u> **have <u>certain</u> features in common.**
+      * species n. 物种 (单复数同行)
+      * certain adj. 某些, 某种程度上
+  * share sth. : 有共同的某些东西的(的 替换) 
+    * → We **share** an interest in history. 我们对历史有着共同的兴趣
+    * → These two species **share** certain features. 这两个物种有着共同的特征
+    * → All these casts **shared** one experience: ....  所有的猫有着共同的经历(经验/体验)
+  * fall off sth. 从某处掉落
+    * 替换:
+      * fall off sth.
+      * fall from sth.
+      * fall sth.
+  * shock v. 受到 打击/冲击
+  * **die from** ... 更强调外因
+    * **die from** <u>shock or injuries</u> / <u>a wound</u> / <u>an accident</u>
+      * shock 冲击力
+      * Injuries 外伤
+      * wound n. 伤口(常指刀枪伤), v. 使受伤/使受创
+      * accident 事故
+    * 替换: 
+    * **die of** ... 更强调内因, 疾病/饥饿/悲伤
+      * **die of**  <u>a disease</u> / <u>hunger</u> / <u>grief</u>
+        * disease n. 疾病
+        * grief 伤心
+    * 上述二者的区别并不是语法错误, 只是一个习惯和趋势
+    * → (NCE2-77 P358-L3) As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman **died <u>of</u>** a rare disease.
+    * → (NCE4-37 P218-L6) It is one of the most unpleasant discoveries which we all make that we must decline in this way, that if we escape wars, accidents and disease we shall eventually '**die <u>of</u>** old age', and that this happens at a rate which differs little from person to person, so that there are heavy odds in favour of our dying between the ages of sixty-five and eighty.
+
+* → New York is the <u>ideal</u> place for such an interesting study, because there is no shortage of tall buildings. 
+  * ideal n. 理想 adj. 理想的, 完美的, 最好的 (由于这个词本身已经有最高级的含义了, 所以这个词没有最高级的变化)
+  * shortage n. 短缺
+    * **there is a shortage of ....** 缺乏某人某物 (这个修饰前面用单数形式, 即便 of 后面的词是复数也是用单数形式, 这里强调的是 shortage , 而不是 of 后面的词)
+      * → **There is a shortage of** food in the refugee camps.
+      * → **There <u>is</u> a shortage of** <u>nurses and doctors</u> in this area.
+    * **there is no shortage of ...** 双重否定个表肯定, 
+      * → …because **there <u>is</u> no shortage of** <u>tall buildings.</u>
+    * **there are plenty of** 
+      * plenty n. 丰富, 充足 adj. 充足的, 丰富的, 
+      * plenty of 某物充足
+      * → ..., because **there <u>are</u> plenty of** <u>tall buildings.</u> (这里的短语主体是 plenty of , 所以是否用复数是看后面的 tall buildings) (?没太搞懂这里的意群是怎么分的...)(查了下, 这里的 plenty of 做形容词短语, 修饰后面的高楼大厦, 谓语主体是高楼大厦)
+      * → There are **plenty of** high-rise windowsills to <u>fall from</u>!
+        * windowstills n. 窗台
+* → One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth.
+  * storey n. 楼层
+  * yet 然而
+  * suffer (from) sth.  v. 经历了痛苦的事情
+    * suffer v. 遭受, 忍受
+    * moreover adv. 此外, 而且
+    * in spite of 介词短语, 尽管, 不顾
+    * ever so adv. 非常, 极其
+
+* 造句：一个叫 Mike 的出租司机出了 (be involved in .）一次严重的车祸，然而只断了两根肋骨 (rib)。
+
+  * → .
+
+* →  'Cats behave like well-trained paratroopers,'
+
+  * behave v. 行为举止
+  * well-trained adj. 训练有素的
+
+* → It seems that <u>the **further**</u> cats fall, <u>the less</u> they are likely to injure themselves. 
+
+  * seem v. 似乎, 好像, 显得
+  * further adj. 进一步的, 越, 更远
+    * further 来自 far ,是 far 的 两个比较级之一
+    * far → farther / further → farthest/furthest
+      * 美式用 farther 多点, 英式两种都行
+      * 在抽象概念上的含义,  更加深入的, 进一步的, 更深远的, 通通得用 further
+        * **further** <u>development(发展)</u> /<u>investigation(调查)</u>
+        * 
+  * 越...就....
+    * → **<u>The harder</u> they worked** <u>the hungrier</u> they became.
+      * 这个句子前面是从句, 后面是主句, 
+      * 意思是 : 他们工作的越努力, 他们就越饿
+    * → They became <u>(the) hungrier</u> **<u>the harder</u>** they worked
+      * 这个句子的前半句是主句, 后半句是从句, 要先翻译后半句的从句, 再翻译前半句的主句
+      * 意思依旧是: 他们工作的越努力, 他们就越饿
+    * 幸运的是, 这个句式就上面两种格式, 没有第三种格式
+    * → 
+    * → (NCE3-55 P248-L20) A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because <u>the dust becomes thinner</u> <u>**the further we travel towards the outer edges of our own solar system.**</u>
+      * dust n. 尘埃
+      * thin adj. 薄, 瘦
+        * thinner 更薄的
+      * solar system n. 太阳系
+      * 这里的 own 不表示拥有, 而强调 它属于我们自己
+      * 这句话是上面的第二个句式, 前面的 thinner 的 前面的 the 被省略了, (注意观察 比较级的词前面的 the, 而不是 名词前面的 the, ), 所以这句的前半句是主句, 后半句是从句, 先翻译从句, 再翻译主句
+      * 所以这句的意思是 当我们向太阳系边缘行驶的越远, 那么尘埃会越稀薄.
+    * → **The younger the child is**, the more <u>is</u> the child's need of sleep.
+      * 主句的主语如果太长, 就可以考虑用倒装
+      * 然后更变态的点, 如果主句和从句的谓语动词都是 be 动词的话, 那么这两个 be 动词都可以被省略, 所以上面这个句子可以进一步被简化为(不一定需要主从两句的谓语都是 be 动词, 这个主从两句里面的 be 动词只要存在就都可以省略): 
+      * →**The younger the child**, the more the child's need of sleep. 整个句子没有谓语动词, 但是句子语法是对的(这种省略非必须, 前面省后面留, 或者 前面留后面省 都行)
+      * → (NCE4-7 P41-L4) **The further off this solid obstruction**, the longer time will elapse for the return of the echo.
+        * 前面是从句, 后面是主句
+        * elapse v. 流逝
+    * 这个句型有三个要非常注意的细节
+      1. 第一个是翻译的顺序
+      2. 第二个是主句中如果主语太长可以倒装(可选, 可省可不省)
+      3. 第三个是谓语动词中出现了 be 动词是可以省略的 (可选, 可省可不省)
+
+* reach v. 达到
+
+* → In a long drop, they reach <u>speeds</u> 15 of 60 miles an hour and more. 
+
+  1. speed 做 不可数名词时, 与 at, with 搭配均可.
+     * e.g. <u>at</u>/<u>with</u> great speed
+  2. speed 做 可数名词时, 只能与 at 搭配
+     * e.g. at <u>a</u> speed of 60 mph 
+
+  * → (NCE3-6 P34-L14) The raid was all over in three minutes, for the men scrambled back into the car and it moved off **at** a fantastic speed.
+  * → (NCE3-25 P122-L23) Though the new rudder was fitted **at**/**with** tremendous speed, it was impossible for the Cutty Sark to win.
+
+* stretch v. 伸展, 拉伸
+
+  * → (NCE3-44 P204-127) ...,you can enjoy the extraordinary sight of unbroken cloud plains that **stretch out** for miles before you, ...
+    * unbroken adj. 连续的, 中间未中断的
+    * stretch out for miles 连绵数英里
+    * stretch out 延伸, 伸展, 伸出
+  * → (NCE3-44 P204-L13) You can **stretch your legs** on the spacious decks,
+    * stretch one's legs 散散步, 出去走走
+
+* flying squirrel n. 飞鼠
+* → This <u>increases</u> their air-<u>resistance</u> and <u>reduces</u> the shock of impact when they hit the ground.
+  * increase v. 增加
+  * resistance n. 阻力
+  * reduces v. 减少
+  * inpact n. 冲击力
+  * ground n. 地面
+* 本文篇章分析
+  * 现象一解释〞型说明类文章。题目新奇，引其读者的兴趣。
+  * 第一段：引文（猫很迷人，路做陈述）一引出主题（最迷人之处在于有九条命一跌落时不死）
+  * 第二段：介绍一项研究并举例一借用医生的话展开解释原理 （语言生动风趣）一末尾点题 (flying squirrels → flying cats)
+
+
+
+## L10 The loss of the Titanic
+
+(先抄 L9 的笔记)
