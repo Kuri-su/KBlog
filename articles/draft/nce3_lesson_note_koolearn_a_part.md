@@ -2641,22 +2641,24 @@
 
 * fascinate /ˈfæsɪneɪt/ v. 迷住, 吸引住 (及物)
   * ate 字根在 动词末尾有固定的 读法, eit, 
-  * → 
-  * → 
+  * be fascinated by 被吸引住了
+  * → I **am fascinated by** the story. 我被这个故事迷住了
+  * → So the story is **fascinating**.
     * 这里不是现在分词, 是直接当作形容词来用
-  * **<u>be</u> / <u>find</u> .... endlessly fascinating**
+    * fascinating adj. 迷人的
+  * **<u>be</u> / <u>find</u> .... endlessly fascinating** 永远都是那么迷人
     * find 不一定表示发现, 也可以表示认为/觉得, 
-    * → 
-    * → 
+    * → This city **is endlessly fascinating**.
+    * → I **find** the natural world **endlessly fascinating**.
   * fascination n. 魅力, 吸引力
     * have a ... fascination for ... 对某人某物来说有一种什么样的魅力
-      * → 
-      * → 
+      * → The story **has a great fascination for** me.
+      * → (NCE4-35 P207-L17) Mars **has an extraordinary fascination** for would-be voyagers.
         * voyagers n. 探险家, 旅行者, 航海家
-      * →  
+      * →  (NCE3-42 P196-L5) For him, caves **have the same peculiar fascination** which high mountains **have for** the climber.
 * affectionate /əˈfɛkʃənət/ adj. 充满深情的, 柔情的
   * ate 字根 不在动词末尾读成 ət
-  * → 
+  * → She looked at him in an **affectionate** way.
   * affection n. 慈爱, 柔情
     * parental(父母亲) affection 父母亲的爱
     * maternal(妈妈的) affection 母爱
@@ -2670,25 +2672,26 @@
         * complete adj. 完全的 v. 完成
         * 最后的 at all 用来加强语气
       * 听力题: 
-        * → 
-        * → 
+        * → M: I was shocked when I heard you'd finished your research project a whole month early.
+        * → W: How I managed to do it **is still a mystery to** me.
 * submissive /səbˈmɪsɪv/ adj. 服从的, 顺从的, 温顺的
-  * → 
+  * → He was looking for a quiet **submissive** wife who would obey his every word.
   * submit v. 提交, 呈递, 服从, 屈服
     * **submit to** 服从于, 顺从于
-    * → 
+    * → First, you must give Helen back to my brother. Second, Troy must  **submit to my command** to fight for me whenever I call.
   * yield/jiːld/ to ... 服从于, 屈服于
   * bow(鞠躬) to ... 屈服于,服从于
-    * → 
+    * → The government refused to **<u>yield</u> / <u>bow</u> / <u>to</u>** the <u>terrorists</u>.
+      * terrorists n. 恐怖分子
   * be subject to sth. 屈服于, 服从于
-    * → 
+    * → All employees **are subject to** the regulations of the company.
       * regulations n. 规章制度
-    * → 
+    * → So let us begin anew----remembering on both sides that civility is not a sign of weakness, and sincerity **is** always **subject to** proof. Let us never negotiate out of fear, but let us never fear to negotiate.
       * anew = again
       * sincerity 真诚
       * 最后一句 用了 倒复手法, 
 * feline /ˈfiːlaɪn/ adj. 猫的, 像猫的, 
-  * → 
+  * → She walks with **feline** grace.
     * grace n. 优美,优雅 (来自古法语)
       * graceful adj. 优美的, 优雅的
   * ine 词缀经常表示像... 一样的
@@ -2706,7 +2709,7 @@
   * masculine adj. 男子气的, 像男人的
 * independence /ˌɪndɪˈpɛndəns/ n. 独立, 自主
   * Independence Day 独立日 (7.4 美国国庆)
-  * → 
+  * → India gained **independence from** Britain in 1947.
     * gain(v. 获得) independence from sb. 从某人获得独立
   * independent adj. 独立的, 自主的, 
     * **be independent of ....**
@@ -2720,7 +2723,7 @@
 
 * **never fail to do sth. ** 总是能做某事
   * be always doing sth. 略有贬义词的味道
-  * → 
+  * → My grandson **never fails to** phone me on my birthday.
   * 双重否定
     * 表肯定, 用于加强 肯定句 的语气, 比肯定句更加肯定.
     * → (NCE3-9 P46-L11) ...,because there is **no shortage** of tall buildings.
@@ -2739,9 +2742,9 @@
 * → They **can be** friendly and affectionate towards humans, but they lead mysterious lives of their own as well.
   * can be 表示一种可能性, 
   * be friendly to/toward(s)(美服可以把 s 去掉也行) 对某人友好
-    * →  
+    * →  Why **is** he suddenly so **friendly <u>to</u> / <u>toward(s)</u>** you?
   * be affectionate toward(s) 对某人充满深情
-    * → 
+    * → He **is** very **affectionate toward(s)** his children.
   * live/lead a ... life 过着一种 .. 的生活
     * live 表示活着, 他的名词 生活 就是 life,
     * 这种动词和后面宾语同根的情况较为常见, 
@@ -2897,7 +2900,7 @@
 
 * 造句：一个叫 Mike 的出租司机出了 (be involved in .）一次严重的车祸，然而只断了两根肋骨 (rib)。
 
-  * → .
+  * → One taxi driver, Mike, was involved in a serious car accident, yet only suffered from two broken ribs.
 
 * →  'Cats behave like well-trained paratroopers,'
 
@@ -2913,7 +2916,6 @@
       * 美式用 farther 多点, 英式两种都行
       * 在抽象概念上的含义,  更加深入的, 进一步的, 更深远的, 通通得用 further
         * **further** <u>development(发展)</u> /<u>investigation(调查)</u>
-        * 
   * 越...就....
     * → **<u>The harder</u> they worked** <u>the hungrier</u> they became.
       * 这个句子前面是从句, 后面是主句, 
@@ -2922,7 +2924,6 @@
       * 这个句子的前半句是主句, 后半句是从句, 要先翻译后半句的从句, 再翻译前半句的主句
       * 意思依旧是: 他们工作的越努力, 他们就越饿
     * 幸运的是, 这个句式就上面两种格式, 没有第三种格式
-    * → 
     * → (NCE3-55 P248-L20) A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because <u>the dust becomes thinner</u> <u>**the further we travel towards the outer edges of our own solar system.**</u>
       * dust n. 尘埃
       * thin adj. 薄, 瘦
@@ -2976,8 +2977,5 @@
   * 第一段：引文（猫很迷人，路做陈述）一引出主题（最迷人之处在于有九条命一跌落时不死）
   * 第二段：介绍一项研究并举例一借用医生的话展开解释原理 （语言生动风趣）一末尾点题 (flying squirrels → flying cats)
 
-
-
 ## L10 The loss of the Titanic
 
-(先抄 L9 的笔记)
