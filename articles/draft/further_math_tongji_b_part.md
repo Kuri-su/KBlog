@@ -8,9 +8,16 @@
 
 ### 第一节 微分中值定理 (part A)
 
-![image-20230411180050383](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411180050383.png)
-
-![image-20230411180122869](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411180122869.png)
+* 引导: 
+  * 极值点 - $y=f(x)(x\in \mathbb{D}),x_0\in \mathbb{D}$
+    1. If $\exists \delta >0, 当 0<|x-x_0|<\delta 时 , (x_0-\delta )<x_0< (x_0+\delta)$
+       * $f(x)>f(x_0)$
+       * $称 x_0 为 f(x) 的 极小点$
+    2. If $\exists \delta > 0 , 当 0< |x-x_0|<\delta 时$
+       * $f(x) < f(x_0)$
+       * $x=x_0 称 f(x) 的 极大点 $
+  * $f'(a)\begin{cases} >0 \\<0\\=0\\不存在 \end{cases}$
+    * 当 
 
 ![image-20230411180138250](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411180138250.png)
 
