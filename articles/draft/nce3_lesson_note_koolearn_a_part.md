@@ -3060,7 +3060,99 @@
 
 **## text 1**
 
+* 船只的名字前一般要加上 定冠词 the,  有个例外, 当船在 句子中间当同位语的时候, **可以省略** 前面的 the, 但不是 必须省略
+  * **The** Titanic
+  * (NCE3-25) **the** Cutty Sark
+  * (NCE4-27) **the** Vasa
+  * → (NCE3-32 P150-L1) The small ship, **Elkor**, which had been searching the Barents Sea for weeks, was on its way home.
+  * → (NCE3-25 P122-L1) One of the most famous sailing ships of the nineteenth century, **the Cutty Sark**, can still be seen at Greenwich.
+    * sailing ship 帆船
+* 从 A 启航 驶往 B
+  * sail **from** A **to** B
+  * sail **out** of A **towards** B : 从 A 出发, 向 B
+  * sail **for** B **from** A
+  * 飞往
+    * → The Boeing 747 flew **from** Shanghai **to** New York.
+    * → The Boeing 747 flew **out of** Shanghai **towards** New York.
+    * → The Boeing 747 flew **for** New York **from** Shanghai.
+      * 英文的地名中, 通常是重读最后一个音节
+  * 如果表示出发或者离开的动词后面要接 **目的地**, 那么中间的介词通常用 for 而不用 to 
+    * leave **for**
+      * → I am leaving **for** Dalian on Friday.
+    * depart(离开) **for** ...  
+    * set <u>out</u> / <u>off</u> **for** ...
+    * make **for** ....  表示朝某个方向走
+      * → I think it's time we made **for** home. 
+        * 这里 made 是虚拟语气, 不是表示过去式
+        * 英语是介词的语言
+    * be <u>heading</u> / <u>headed</u> **for** ... 朝着某个状态前进
+      * → The negotiation is heading **for** deadlock.
+        * negotiation /nɪˌɡoʊʃiˈeɪʃən/ n. 谈判
+        * deadlock n. 僵局, 死锁
+      * → Newcastle seemed to be heading **for** failure until a late goal saved the day.
+* 造句：马航370号航班 (Malaysia Airlines Flight 370)于2014年3月8日从吉隆坡 (Kuala Lumpur) 出发飞往北京。
+  * → Malaysia Airlines Flight 370 flew **for** Beijing from Kuala Lumpur on March 8th, 2014.
+* 指“车、船、祖国”时常用"she”
+  * → What's wrong with my car? **She** won't start.
+    * start 有时候也表示激灵, 醒来的时候的一机灵
+  * → China has done what **she** promised to do.
+* 对于 1316 的读法, 通常英式会在 百和十之间加一个 and,  而美式则 加不加都 ok. 而在 千和 百之间通常都不会加.
+* 描述团队的人数可以用 全体成员的称谓 + of + 数量, 例如
+  * a crew of 891
+  * a staff of 1319
+  * a committee of 100  一百人的委员会
+  * a family of 5 五口之家
+    * 如果写成 'a family of 5 people' 则有点罗嗦
+* 表示在车上, 在船上, 在飞机上
+  * on board n. / aboard adv. & prep.
+    * board 通常当名词用(木板/董事会/食物/登机牌) 或者 当动词用(上载具) 
+    * aboard 通常当副词或者 介词用
 
+  * All aboard! 全体上船
+  * Welcome aboard! 欢迎上船/ 欢迎加入我们的组织
+  * <u>One thousand three hundred and sixteen</u> passengers and a crew of 891 were **<u>on board (her) / aboard (her).</u>**
+    * 放在句首通常不用 阿拉伯数字, 而用英文字母把它拼写出来, 这是一个习惯 (个人理解是开头用 阿拉伯数字 的话, 在书面语中有点显得不庄重, 即便在中文里也是如此, ), 在句子后面用 阿拉伯数字没问题.
+
+* 全部倒装
+  * 把全部谓语置于主语之前
+    1. **表示位置或次序的状语置于句首，只要满足两个条件，要用全部倒装。**这种倒装主要目的是为了突出**句末**的主语.(突出句首的是部分倒装)
+       1. **主语不是代词。**
+       2. **谓语动词不是及物动词。**
+    2. **表语置于句首。**这种倒装主要目的是为了避免头重脚轻 (主语较长) (例如 表系主)
+       * → **Happy <u>is</u>** <u>he who has a sound mind in a sound body.</u>
+         * sound adj. 健康的(就是那个'听起来'那个词, 有健康的意思, 修饰名词)
+       * → **Gone** **<u>are</u>** <u>the days when my heart was young and gay.</u>
+         * gay adj. 开心的
+  * 句首和句尾是整个句子中 最重要的地方,  而句尾比句首更加重要. 
+  * 能倒装的例子: 
+    * → **In <u>came</u>** Miss Green. 格林小姐进来了
+      * 中文中也有这样的全部倒装: 一推门, 进来了格林小姐
+
+    * → **On the hill <u>stands</u>** a temple. 一座庙矗立在山上
+    * → **There <u>are</u>** two people.  那有两个人
+      * there be 句型也是一种全部倒装, 原句应该是 Two people are there.
+
+    * → **There** once **<u>stood</u>** a little village. 那个地方曾经有一个小村庄
+    * → **Now <u>comes</u>** your turn. 现在该你了
+    * → (NCE3-56 P252-L23) **Next <u>came</u>** a horse, ... 现在来了匹马
+
+  * 不能倒装的例子(注意上面的两个条件, 主语不是代词, 谓语不是及物动词): 
+    * → Off <u>**he**</u> went. (he 是代词)
+    * → On the hill John **<u>saw</u>** Mary. (see 是及物动词)
+
+* 部分倒装
+  * 只把**助动词**, **be 动词**(之前没有其他助动词)或 **情态动词** 置于主语之前.  用于强调句首的内容
+    1. 否定词位于向首
+    2. 'only+ 状语'  位于句首
+    3. such, so, well, often, many a time 等表示程度、频率的词位于句首
+
+* 部分倒装和 全部倒装的区别.
+  1. 强调的部分有所不同
+     * **<u>部分倒装</u>**是为了突出**句首**, 
+     * **<u>全部倒装</u>**是为了突出**句尾** (表语前置引起的全部倒装多是为了避免头重脚轻)
+  2. 限制条件有所不同
+     * 部分倒装只看句首, 对主语谓语没有要求
+     * 全部倒装对主语谓语有要求(表语前置引起的完全倒装除外).
 
 **## text 2**
 
