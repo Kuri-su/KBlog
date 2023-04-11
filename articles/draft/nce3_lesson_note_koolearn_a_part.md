@@ -3156,6 +3156,73 @@
 
 **## text 2**
 
+* → Even by modern standards, the 46,000 ton Titanic was a
+  colossal ship.
+  * By: according to 根据 ...
+    * → What time is it **by** your watch?
+    * → **By** my watch it's 4 o'clock.
+  * modern: 现代的, 当代的(当时的时代的, 这个意思不是表示现代)
+  * standards: 标准, 表示这个意思的时候通常用复数, 毕竟标准是复杂的 ;)
+    * safety **standards** 安全标准
+    * moral **standards** 道德标准
+    * living **standards** 生活水平
+    * 同义词: 
+      * criterion n. 标准, 判断依据 (来自希腊语 kritērion，意思是“判断标准”)不一定是通用的标准, 通畅表示是某机构某公司某个学校用来选拔和鉴别的标准
+        * 复数是 criteria 
+        * admission criteria 录取标准
+        * → the **criteria** we use to select candidates 
+          * candidates n. 候选人
+* → At that time, however, she was <u>not only</u> the largest ship **that had ever been built**, <u>but</u> was regarded as unsinkable, **<u>for she had sixteen watertight compartments.</u>**
+  * ever adv. 用来询问是否在任何时候发生过某事, 从来
+    * 形似词: 
+      * even adv. 平均分配, 甚至, adj. 平坦的, v. 使平坦
+  * as adj.
+    * 像 adj.
+  * regard v. 关心, 重视, 认为
+    * regard ... as ... 把 前者 看作是 后者, 这里的 as 是介词, 但介词后通常跟名词性的词, 为什么这里可以跟一个 adj. ?
+      * 原因如下: 
+        * 形容词作介词宾语时可视为其前省略了动名词 being，即 ''介词(+being)+形容词 " 的形式。 
+          * → He regarded the situation **as** <u>(being)</u> **serious**.
+            * serious adj. 严重的
+          * → His work is far **from** <u>(being)</u> **satisfactory**.
+  * unsinkable adj. 不会沉没的, 无法击沉的
+    * sunk v. 表示沉默, 下沉
+  * 并列句表示 '不但而且' 的句型
+    * not only ... but also ...
+    * not only ... but ...
+    * not only ... but ... as well 
+* 尽管 和 即使的辨析
+  * 中文里的 **<u>尽管</u>** 和 **<u>即使</u>**, 两个都是让步的连词
+    * **<u>尽管</u>**表示 已经发生的事情, **<u>即使</u>**表示 未发生的假设
+    * 对比例子
+      * → **Even if** you dislike ancient monuments, Warwick Castle is worth a visit. (我不确定你喜不喜欢古迹, 所以我说即使你不喜欢古迹的话, 沃里克城堡也值得一去)
 
+      * → **Even though** you dislike ancient monuments, Warwick Castle is worth a visit.(我确定你喜不喜欢古迹, 所以我说尽管你不喜欢古迹, 但沃里克城堡也值得一去)
+        * ancient monuments 古迹
+  * 例句: 
+    * → (NCE2-47 P210-L10) The villagers have told him that they will not accept the inn **even if** he gives it away. (你送我我也不要, 这个只是一个假设)
+      * inn n. 旅社, 旅馆, 小酒馆
+    * → (NCE2-38 P174-L4) Almost immediately he began to complain about the weather, for **even though** it was still summer, it rained continually and it was often bitterly cold.
+      * bitterly adv. 非常地, 极其地
+    * → (NCE3-44 P204-L15) **Even if** you travel in ideal weather, sea journeys take a long time.
+      * ideal adj. 理想的
+    * → (NCE3-54 P244-L22) I immediately embarked on an experiment which, **even though** it failed to get rid of the ants, kept me fascinated for twentyfour hours.
+  * even if 一定是对假设的让步
+  * even though 一定是对事实的让步
+* 等价的两句: 
+  * → Even if two of these were flooded, she would still be able to float. 
+  * → Even if two of these were flooded, she still wouldn't **sink**.
+  * 课文中没有用 sink 是因为后文中比较近的地方有用到 sink, 所以这里为了避免重复换了一种说法
+* → The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+  * 无灵主语, 这里使用被动省略了 people 的出现, 使句子更加简洁. 这里这个被动语态既突出主题, 又句子简洁
+  * go down: sink 下沉的意思.
+  * 处女航/处女作: maiden voyage / flight / work
+    * maiden 未婚少女
+    * 处女地: virgin land
+      * virgin 处女
+* 造句：人们将永远牢记这架马来西亚班机(the Malaysian airliner)的失踪惨剧， 因为它在从吉隆坡(Kuala Lumpur)到北京的航行中神秘地失去联系，造成惨重的生命损失。
+  * → The tragic missing of the Malaysian airliner will always be remembered, for it mysteriously lost contact on its flight from Kuala Lumpur to Beijing with heavy loss of life.
 
 **## text 3**
+
+* <u>Four days after setting out</u>, **while the Titanic was sailing across the icy waters of the North Atlantic**, a huge iceberg was suddenly spotted by a lookout.
