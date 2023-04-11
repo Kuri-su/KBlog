@@ -2979,3 +2979,91 @@
 
 ## L10 The loss of the Titanic
 
+**## word**
+
+* colossal /kəˈlɑːsl/ adj. 巨大的, 庞大的, 惊人的 (来自 希腊语 kolossos , 意为巨像)
+  * 美式发音中, 中间的 o 还是发 ɑː 的音
+  * 形容 数量 或者 体积 巨大的
+  * a **colossal** ship
+  * a **colossal** sum of money
+  * 同义词
+    * **huge**
+    * **great** 
+    * **immense** /ɪˈmɛns/ adj. 巨大的
+    * enormous /ɪˈnɔːrməs/ adj. 巨大的 (来自中古拉丁语 enormis, 意为 不寻常的大小)
+    * gigantic /dʒaɪˈɡæntɪk/ adj. 巨大的 (来自希腊语, 意为 "巨人")
+    * titanic (来自希腊神话中的泰坦) 除了表示巨大的之外, 还暗示特别坚固的, 特别强壮的, 特别结实的 (毕竟词从泰坦来)
+* tragic  /ˈtrædʒɪk/ adj. 悲惨的, 悲剧的
+  * tragedy /ˈtrædʒədi/ n. 悲剧, 惨剧, 不幸的事件
+  * comedy /ˈkɑːmədi/ n. 喜剧
+    * comic adj. 滑稽的, 好笑的
+  * drama /ˈdrɑːmə/ n. 戏剧 (网络词 抓马)
+    * dramatic /drəˈmætɪk/ adj. 戏剧性的, 引人注目的, 激动人心的, 夸张的
+* liner /ˈlaɪnər/ n. 班轮, 班机, (来自 line 这个词)
+  * (ocean) liner 班轮
+  * airliner 班机
+  * steamship 汽轮
+  * yacht /jɑːt/ n. 游艇 (来自荷兰语 jaght, 意为 '追求'/'狩猎')
+  * tanker 油轮 (来自 tank, 意为 存储器, 容器)
+    * tank n. 储存罐, 水箱, 坦克 (来自中古英语的 tanke, 意为储藏室)
+      * gas tank 油箱
+      * storage tank 储罐
+      * water tank 水箱
+  * ferry /ˈferi/ n. 渡轮 (来自古英语的 ferian，意为 "运送")
+    * berry n. 浆果
+      * cherry n. 樱桃
+  * raft /ræft/ n. 木筏
+  * dinghy /ˈdɪŋi/ n. 橡皮艇, 橡皮救生艇
+  * canoe /kəˈnu/ n. 独木舟
+    * kayak n. 爱斯基摩独木舟, 皮艇, 划皮艇
+      * kayaking v. 划皮艇
+* voyage /ˈvɔɪɪdʒ/ n. 航行(海上的), 可数
+  * flight n. 航行 (空中的), 可数
+    * 形似词
+      * blight n./v. 枯萎
+      * bright adj. 明亮的
+        * blind adj. 失明的
+  * navigation /ˌnævɪˈɡeɪʃən/ n. 航海 (不可数)
+  * aviation /ˌeɪviˈeɪʃən/ n. 航空 (不可数)
+  * 在... 的途中
+    * be **on** a <u>voyage</u> / <u>flight</u> / <u>trip</u> / <u>journey</u> / <u>tour</u>
+      * on a business trip
+      * on a hunny moon trip
+      * journey 比较长距离的旅行, tour 一般是周游, 要去好几个地方
+  * Bon voyage! 一路顺风(法语) 坐船/坐飞机/坐火车 皆可
+    * Have a good trip! 一路顺风
+      * 诺曼征服, 征服过英国, 强迫英国人学法语, 所以英语中来自法文的词比较多, 
+    * Happy landings! 一路顺风
+      * land n. 降落, 着陆
+* norrowly /ˈnærəʊli/ adv.  侥幸地,勉强地(发生) , 狭窄地 (来自 narrow 的 副词形式)
+  * → We won **narrowly**. 我们险胜
+  * → He **narrowly** escaped drowning. 他险些淹死
+    * drown v. 淹死
+  * **(only) just** adv. 勉强地, 侥幸地
+    * → She **(only) just** failed in the exam. 没及格, just failed 要直译 勉强地失败, 就是差点成功嘛
+  * hardly(几乎不) / scarcely(几乎没有) / barely (几乎没有, 仅仅, 来自 bare)
+    * → I **hardly** know him. 我不太认识他. (不熟, 可能有一面之缘) (别理解成 我几乎快忘了他, 英文应该不会表达的那么模糊.)
+* tremble /ˈtrembl/ v. 颤抖, (来自古法语 trembler，源自拉丁语 tremulare，表示颤动，震颤)
+  * → He **trembled** with anger. 他气的浑身发抖.
+    * anger n. 怒火, 愤怒
+  *  → The leaves **trembled** in the breeze. 树叶在 微风中颤抖
+    * breeze /briːz/ n. 微风 (来自古法语 breser)
+  * quiver n./v. 颤抖(指人或者事物都行)
+  * shiver n./v. 颤抖(指人或者事物都行)
+    * → When I kiss your lips, ooh l start to **shiver**, Can't control the **quivering** inside. Wouldn't you agree, baby you and me got a groovy kind of love.
+      * lips n. 嘴唇
+      * groovy adj. 绝妙的, 特别好的, 很棒的 (口语)
+  * shudder v./n. 剧烈的颤抖(更大幅度)
+    * → (NCE4-3 P17-L5)... make a modern climber shudder at the thought, ..
+    * 形似词: 
+      * shutter n. 百叶窗
+
+**## text 1**
+
+
+
+**## text 2**
+
+
+
+**## text 3**
