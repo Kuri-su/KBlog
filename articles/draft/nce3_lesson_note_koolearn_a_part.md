@@ -3225,4 +3225,134 @@
 
 **## text 3**
 
-* <u>Four days after setting out</u>, **while the Titanic was sailing across the icy waters of the North Atlantic**, a huge iceberg was suddenly spotted by a lookout.
+* → <u>Four days after setting out</u>, **<u>while</u> the Titanic was sailing across the icy waters of the North Atlantic**, a huge iceberg was suddenly spotted by a lookout.	
+  * 上文的 while 引导时间状语从句
+  * 第一课的造句: 报警之后十分钟, 一辆警车到达了现场
+    * Ten minutes <u>after calling 911</u>, a police car arrived on the spot.
+  * 这里的 water 是表示水域的意思, 所以这里是复数, 行驶在北大西洋冰冷的水域
+  * 文中多处使用了无灵主语的修辞, 
+    * → a huge iceberg was suddenly spotted by a lookout.
+    * → (NCE3-1 P14-L12) Paw prints were seen in a number of places and puma fur was found clinging to bushes.
+* → After the <u>alarm</u> had been <u>given</u>, the great ship turned sharply to avoid adirect collision. 
+  * alarm n./v. 警报
+  * given 也可以表示发出的意思, 
+    * **give <u>an alarm</u> (发出警报)/ <u>an order</u> (发出命令) / <u>a cry</u> (发出叫喊声) / <u>a long sigh</u> (发出一声长叹)**
+      * sigh /saɪ/ v. 叹气
+    * → The girl **gave a charming smile.** 女孩显露出迷人的微笑
+      * charm n. 令人着迷的, 迷人的
+    * → (NCE3-10 P50-L15) **The order** to abandon ship **was given** and hundreds of people plunged into the icy water.
+  * the great ship turned **sharply** 船迅速的急转弯
+    * sharply adv. 尖锐地, 急剧地
+  * 表达载具转弯的词
+    * turn v. 转向, 旋转, 变成
+    * veer v. 改变方向, 突然转向
+      * → Moments before crashing, the jet was seen **veering** <u>sharply</u> to the right.
+        * jet 喷气式飞机
+        * veer sharply 急转弯 
+    * swerve v. 突然改变方向, 偏离原路线
+      * → The lorry **swerved** <u>sharply</u> to avoid the child.
+        * avoid v. 避免 (及物)
+      * → (NCE3-39 P178-L9) As we bumped over the dusty track, we **swerved** to avoid large boulders.
+    * change course v. 改变方向/计划/航线 (不及物)
+      * course n. 路线(本意), 课程, 过程, 一道菜, 疗程
+      * → The plane **changed course** to avoid the storm.
+  * once 有一旦的意思, 
+  * rise 的过去式是 rose, 所以不要见了 rose 就是玫瑰
+  * collision /kəˈlɪʒən/ n. 碰撞
+    * collide v. 碰撞
+      * → (NCE3-33 P154-413) During the rush hour one evening two cars **collided** and both drivers began to argue.
+        * rush hour n. 高峰时段
+        * argue v. 争论, 辩论, 争吵
+          * argument n. 理由, 论据
+  * corner v. 使陷入绝境 n. 角落, 路口拐角(两个意思不一样)
+* → The Titanic turned just in time, narrowly missing the immense wall of ice **which rose over 100 feet out of the water beside her.**
+  * just in time adv. 勉强及时
+    * with no time to spare adv. 没有时间浪费, 赶时间
+      * spare v. 节约, 抽出时间 adj. 多余的, 备用的
+        * → **Spare** the rod and spoil the child. 剩下了棒子, 宠坏了孩子
+          * Spare 和 spoil 压了首韵
+      * → We boarded the train **with no time to spare.** 我们刚好赶上火车.
+    * in no time adv. 立刻, 马上
+      * in next to no time adv. 立即, 马上
+    * nearly on time adv. 几乎准时
+  * on a sudden impulse adv. 出于突然的冲动
+  * on time adv. 准时
+  * only just adv. 勉强, 几乎没有
+  * feet n. 脚, 英尺
+    * foot v. 步行
+  * rose v. 矗立, 高耸
+    * → The immense building **rose** before our eyes. 这巨大的建筑 **矗立** 在 我们眼前
+    * → (NCE3-17 P78-L12) Above the surface of the water, the towers **rise to a height of** nearly 700 feet.
+      * rise to a height of 高达
+
+* 造句：这辆汽车及时转向，勉强躲过了这个孩子.
+
+  * → The car turned **just in time**, **narrowly missing** the child.
+
+* 造句：我闪避(dodge)得及时，勉强躲过了这块坠落的石头.
+
+  * → I dodged **just in time**, **narrowly missing** the falling rock.
+    * dodge v. 闪避
+
+* → <u>Suddenly</u>, there was a <u>slight</u> <u>trembling</u> sound from <u>below</u>, and the captain went down to see what had happened. 
+
+  * **<u>suddenly</u>** / **<u>all of a sudden</u>** / **<u>all at once</u>** 
+
+    * → (NCE3-33 P154-L16) Seeing a cake flying through the air, a lorry-driver who was drawing up alongside the car, puled up **<u>all of a sudden.</u>**
+
+    * → (NCE3-48 P220-L23) **<u>All at once</u>**, I noticed that my wife seemed to be filled with alarm.
+
+  * slight adj. 微弱的
+
+  * tremhie v. 颤抖
+
+  * ⭐️ **adv. 和 介词短语 都可以作 介词的宾语**
+
+    * → There is a fine view **from <u>here</u>.**
+    * → I heard them calling me **from <u>below</u>.** 从下面
+    * → They have just returned **from <u>abroad</u>.**
+      * aboard adv. 在交通工具上
+      * abroad adv. 在国外
+    * → I took my watch **from <u>under the pillow</u>.** 后面接的介词短语
+    * → He picked up the gun **from <u>behind the counter</u>.** 介词短语, counter n. 柜台
+    * → I live **near <u>here</u>**
+    * → We didn't meet **until <u>after the show.</u>**
+    * → The weather has been fine **except <u>in the north.</u>**
+
+  * go down 往下走
+
+    * go up 走上去
+    * be going on 发生
+
+* → The noise had been so faint **that no one thought <u>that the ship had been damaged.</u>**
+
+  * faint  adj. 微弱的, 模糊的 v. 昏倒, 变的微弱
+  * 注意这里的 so ... that .... 句型, 如此 微弱 以至于 ...  
+  * 用 too... to...改写上面的句子
+    * → The noise had been **too faint for anyone to think** that the ship had been damaged.
+
+* → <u>Below</u>, the captain realized <u>to his horror</u> **that the Titanic was sinking rapidly**, <u>for five of her sixteen watertight compartments had already been flooded!</u>
+
+  * horror n. 惊恐, 恐惧
+    * to his horror 令他感到惊骇的是
+  * **rapidly** adv. very quickly
+  * **plunge** v. to move, fall, or be thrown suddenly forwards or downwards, 跳入, 跳进
+    * → Her car swerved and **plunged** off the cliff.
+
+* → As there were **too few lifeboats for everybody to take**, 1,500 lives were lost.
+
+### Lesson 11 Not guilty
+
+**word**
+
+
+
+**text1**
+
+
+
+**text2**
+
+
+
+**text3**
