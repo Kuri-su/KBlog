@@ -3345,11 +3345,118 @@
 
 **word**
 
-
+* guilty /ˈɡɪlti/ adj. 有罪的, 内疚的
+  * be guilty of .... 有罪于, 犯有....罪 (后面接 某种罪)
+    * → .
+  * be innocent of ... 没有犯...罪 (后面接某种罪)
+    * → .
+  * have a guilty conscience 问心有愧
+  * have a clear conscience 问心无愧
+  * guilt n. 有罪
+  * innocence n. 清白, 无罪
+    * → .
+      * jury n. 陪审团
+      * defendant  n. 被告
+        * defend v. 辩护
+  * crime n. 犯罪, 罪行, 罪案
+    * commit a serious **crime** v. 犯下一项严重的犯罪行为
+  * sin n. 罪孽 (道德上, 宗教上的)
+    * → .
+* declare  /dɪˈklɛr/ v. (向税务部门或海关) 申报; 声明, 宣布
+  * (向税务部门或海关) 申报
+    * → .
+    * → .
+      * → .
+  * 声明, 宣布
+    * → .
+    * → .
+      * independence n. 独立
+    * → .
+      * declared war on 表示向... 宣战
+      * official corruption 官员腐败
+  * declaration /ˌdɛkləˈreɪʃən/ n. 声明, 宣言, 宣告
+    * the **Declaration** of Independence 独立宣言
+    * the United Nations **Declaration** of Human Rights 联合国人权宣言
+* dreadful /ˈdrɛdfəl/  adj. 可怕的, 糟糕的
+  * a **<u>dreadful</u>** / **<u>terrible</u>** accident(事故), disease(疾病), nightmare(噩梦)
+  * → We've had some **<u>dreadful</u>** / **<u>terrible</u>** weather lately.
+  * → (NCE3-11 P54-L13) All the things | had packed so carefully were soon in a **dreadful** mess.
+  * 派生词
+    * dread v. & n. 害怕, 恐惧
+      * dread (v.) doing sth 害怕去做 ... 
+        * → I **dread being** sick.
+        * → (NCE3-29 P138-L14) He **dreaded having** to spend Christmas in hospital.
+      * live in dread(n) of ....  一直害怕某事... 
+        * → The committee members **live in dread of** anything that may cause a scandal.
+          * scandal n. 丑闻
+        * → (NCE3-54 P244-L6) We **live in dread** not only **of** unpleasant insects like spiders or wasps, but **of** quite harmless ones like moths.
+* perfume /ˈpɜːrfjuːm/ n. 香水, 香味(芳香味)
+  * 词根: fume n. 烟雾,
+  * 可以表示 <u>香味</u>/<u>芳香的味道</u>  的名词 n. : **<u>scent</u>** / **<u>perfume</u>** / **<u>fragrance</u>**
+    * the **scent** of ripe fruit 成熟水果的香味 
+      * ripe adj. 成熟的 
+    * the **perfume** of flowers 花香
+    * the **fragrance** of lilacs 丁香花的香味
+  * 可以表示 <u>香的</u> / <u>芬芳的</u> 的 形容词 adj. : **<u>scented</u>** / **<u>perfumed</u>** / **<u>fragrant</u>**
+    * **<u>scented</u>** / **<u>perfumed</u>** soap 香皂
+    * the Fragrant Hills 香山
+  * 其他表示味道的词
+    * aroma n. 香气, 芳香 (一般表示食品/饮料的芬芳)
+      * the **aroma** of hot coffee 热咖啡的浓香
+    * smell n. 气味 (中性词)
+      * funny **smell**  异味, 怪味
+    * smelly adj. 恶臭的, 臭的
+      * **smelly** feet 臭脚
+    * odor n. 异味, 刺鼻的味道, 臭味
+      * body **odor** 体味
+* sarcastically /sɑːrˈkæstɪkli/ adv. 讽刺地，说反话地
+  * **sarcasm** / **irony** n. 讽刺, 反话, 反语
+    * **with heavy <u>sarcasm</u> / <u>irony</u>** 带着浓浓的讽刺/反话
+    * → Good of you to arrive on time,' George said, **with heavy <u>sarcasm</u> / <u>irony</u>.** 你来的真够准时的
+      * on time 准时
+  * **sarcastic / ironic** adj.  讽刺的
+    * an **<u>sarcastic/ironic</u>** **<u>smile/remark(评论)/expression(表情)</u>** etc
+    * → (NCE2-92 P418-L4) I was almost there when a **sarcastic** voice below said, 'I don't think the windows need cleaning at this time of the night.'
+  * **sarcastically** / **ironically** adv. 讥讽地, 讽刺地
+    * → "Oh good,' he said **<u>sarcastically</u>**/**<u>ironically</u>**.
+    * → (NCE3-11 P54-L16)'Perfume, eh?' he asked **sarcastically**.
+* baggage n. 行李(美服) (不可数) 统称全部行李
+  * luggage n. 行李 (英国)(不可数) 统称全部行李
+  * trunk/suitcase 旅行箱, 行李箱, 
+  * 种类 和 实际的某个具体类目的 可数和不可数的情况
+    * table / chair (可数) → furniture (不可数)
+    * pen / pencil (可数)  → stationery(不可数)
+    * jewel (可数)  →  jewelry (不可数)
+    * scene (可数)  → scenery (不可数)
+    * weapon (可数)  → weaponry (不可数)
+    * machine (可数)  → machinery (不可数)
+    * poem (可数)  → poetry(不可数)
+    * novel (可数)  → fiction (不可数)
+    * myth (可数)  → mythology(不可数)
+    * leaf (可数)  → foliage(不可数)
 
 **text1**
 
-
+* → Customs Officers are quite tolerant these days, <u>but</u> they can still stop you **when you are going through the Green Channel <u>and</u> have nothing to declare.**
+  * tolerant adj. 宽容的
+  * these days adv. 现如今, 近来, 现在 (和以前做比较)
+    * these days / today / nowadays  同义词
+  * customs n. 海关(结尾必须要加s)
+    * customs officers n. 海关官员
+    * → It took ages to **clear customs** but then we were out of the airport quite quickly.
+      * clear customs v. 清关
+    * → You won't be able to take that **through customs**.
+      * through customs v. 过海关
+    * custom n. 风俗, 习惯(可数)
+      * → the **custom** of giving presents at Christmas
+      * → Chinese traditional customs 中国的传统习俗
+  * quite adv. 相当地, 十分地
+    * 形似词: qui<u>e</u>t adj. 安静的
+  * go through  有多个意思
+    1. 经历(尤指 不愉快的经历)
+       * → When you're **going through** a crisis, it often helps to talk to someone.
+    2. 检查/翻找 
+       * 
 
 **text2**
 
