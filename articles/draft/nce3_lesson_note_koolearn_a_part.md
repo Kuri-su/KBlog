@@ -3456,10 +3456,116 @@
     1. 经历(尤指 不愉快的经历)
        * → When you're **going through** a crisis, it often helps to talk to someone.
     2. 检查/翻找 
-       * 
+       * → I've **gone through** all my pockets but l can't find my keys.
+         * pocket n. 口袋
+       * → (NCE3-11 P54-L13) The Officer **went through** the case with great care.
+       * → (NCE2-44 P198-L7) When she caught up with them, she saw that they had sat down and were **going through** the contents of the bag, so she ran straight at them.
+    3. 走过, 通过 (字面意思)
+* 海关常见的对话
+  * → Have/Do you anything to declare?
+  * → No, I have nothing to declare.
+* 使某人做某事的主动形式和被动形式 (看到了完整的过程)
+  * **make sb. do sth.** 主动形式
+    * 这个是不带 to 的动词不定式 do
+  * **be made to do sth.** 被动形式
+    * → I **made him repeat** it.
+    * → He **was made to repeat** it.
+  * 其他的 see / hear / notice 也可以用相同的形式
+    * **<u>see</u> / <u>hear</u> / <u>notice</u> sb. do sth.** 主动形式, 听到/看到/注意到 某人做某事, 看到了完整的过程
+    * **be <u>seen</u> / <u>heard</u> / <u>noticed</u> to do sth.** 被动形式, 某人被看到/听到/注意到 做某事
+      * → I **<u>saw</u>** / **<u>heard</u>** / **<u>noticed</u>** him **leave** the room.
+      * → He **was <u>seen</u> / <u>heard</u> / <u>noticed</u> to leave** the room.
+  * 表示 只看到在做某事, 而未看到完整的过程, 只是那个刹那
+    * **<u>see</u>** / **<u>hear</u>** / **<u>notice</u>** **sb. doing sth.** 主动形式
+    * **be <u>seen</u> / <u>heard</u> / <u>noticed</u> doing sth.** 被动形式
+      * → I **saw** him **crossing** the road.
+      * → He **was seen crossing** the road.
+      * → I **heard** the girl **singing** in the room.
+      * → The girl **was heard singing** in the room.
+      * → (NCE4-18 P104-L12) Almost any day a young porpoise may **be seen trying** to turn a 300-pound sea turtle over by sticking his snout under the edge of his shell and **pushing** up for dear life.
+  * 例题: 
+    * → The missing boy was last seen ____ near the river.
+* → <u>Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare.</u> **Even really honest people are often made to feel quilty.** <u>The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase.</u>
+  * 长句子中间喜欢用短句子做个过渡, 保证句式的变化多样, 同时也让读者有片刻的休息. 多用长句是没错的, 短句太多显得对句子的驾驭能力不佳.
+* → The <u>hardened</u> professional smuggler, <u>on the other hand</u>, is never troubled by such feelings, **even if he has five hundred gold watches <u>hidden in his suitcase.</u>**
+  * **hardened** adj. someone who is hardened has had a lot of difficult or unpleasant experiences and is no longer much affected by such things. 麻木不仁的, 经验丰富的, 见怪不怪的
+    * a **hardened** <u>criminal</u> / <u>police officer</u> etc. 经验丰富的罪犯, 经验丰富的警察
+    * → The children became **hardened** to the violence. 这些孩子对暴力见怪不怪了
+      * violence n. 暴力
+  * smuggler n. 走私犯
+    * smuggle v. 走私
+  * **on the other hand ...** (单独使用)
+    * **on the one hand ..... on the other (hand)...**
+    * used to indicate contrasting points of view, opinions, etc 用于表示相对立的观点, 表转折关系
+    * → I'd like to eat out, but **on the other hand** I should be trying to save money.
+    * → **On the one hand** they'd love to have kids, <u>but</u> **on the other (hand)**, they don't want to give up their freedom.
+      * 注意, on the other 不是连词, 前面需要有连词连接句子, 或者使用分号也行, 分号可以代替连词的功能
+    * 类似的搭配
+      * **for one thing ...;**  原因之一是...
+      * **for one thing ..... for another ....** 原因之一是 .... , 另一个原因是
+        * used to introduce a reason for sth.
+        * → "Why don't you get a car?” "Well, **for one thing**, I can't drive!”
+        * → "Why won't you come to New York with me ?" , "**For one thing**, I don't like fying, and **for another**, I can't afford it."
+          * afford  v. 承担得起, 买得起
+  * trouble v. 使困扰 n. 困扰/困难
+    * if a problem troubles you, it makes you feel worried or upset
+      * upset 沮丧
+    * → Don't **trouble** <u>trouble</u> until <u>trouble</u> **troubles** you.
+  * 造句: 他的口袋里藏着一张大额的钞票.
+    * → He has a large bank note **<u>hidden in his pocket.</u>**
+  * 造句：这个贪官 (corrupt official) 在地下室里藏了1000万元。
+    * → The corrupt official has 10 million yuan **<u>hidden in the basement.</u>**
+* 表示回来的词
+  * return
+  * come back
+  * go back
+  * return back (x) 这个是错的, 逻辑重复了, 上面都是对的
+  * 类似的错误
+    * say it again 
+    * repeat it 
+    * repeat it again (X) 这个也是错的, 逻辑重复了
+  * 类似的错误2
+    * go forward 向前
+    * advance 前进
+    * advance forward (x)
+  * 类似的错误3
+    * in my opinion
+    * I think
+    * in my opinion, I think ... X 重复了, 属于病句
+  * 类似的错误4
+    * it is because ...
+    * the reason is that ...
+    * the reason is because ... (x)
+* from(介词) 后可以加 adv.  和 介词短语
+  * → .
+  * → .
+  * → .
+  * → .
+  * → .
+* 容易弄错的词
+  * .
+    * .
+  * .
+  * .
+  * .
+* officious adj. 
+  * (disapproving) too ready to tell people what to do or to use the power you have to give orders 爱发号施令的，指手画脚的
+  * → When people put on uniforms, their attitude becomes more confident and their manner more **officious**.
+  * 辨析: 
+    * **officer** n. 官员(军队/政府/公司)
+      * .
+      * .
+      * .
+      * .
+    * **official** n. 政府官员 (专指文职官员), adj. 官员的, 官方的 (ial 是形容词后缀)
+      * .
+      * .
+      * .
+      * .
+* reglared A as B  把 A 看作 B
 
 **text2**
 
-
+* look sb. in the eye(s) /face
 
 **text3**
