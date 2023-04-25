@@ -183,6 +183,8 @@
 
 ![image-20230412183138510](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183138510.png)
 
+#### $\frac{\infty}{\infty }$型
+
 ![image-20230412183152824](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183152824.png)
 
 ![image-20230412183210923](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183210923.png)
@@ -205,29 +207,115 @@
 
 ![image-20230412183440995](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183440995.png)
 
-
-
-
-
-
-
-
-
-
-
-#### $\frac{\infty}{\infty }$型
-
-![image-20230412134829815](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412134829815.png)
-
 ### 第三节 泰勒公式 Taylor
 
-在分数上下阶次相同的时候使用等价无穷小是相对安全的
+![image-20230425152354682](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152354682.png)
 
+![image-20230425152414209](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152414209.png)
 
+>  在分数上下阶次相同的时候使用等价无穷小是相对安全的
+
+![image-20230425152445055](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152445055.png)
+
+![image-20230425152541110](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152541110.png)
+
+![image-20230425152607372](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152607372.png)
+
+![image-20230425152633001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152633001.png)
+
+![image-20230425152712674](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152712674.png)
+
+![image-20230425152736899](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152736899.png)
+
+![image-20230425152759755](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152759755.png)
 
 麦克劳林公式是解决 $\frac{0}{0}$ 型的优秀方法, 
 
+![image-20230425152845663](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152845663.png)
+
+![image-20230425152902108](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152902108.png)
+
+![image-20230425152914864](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152914864.png)
+
+![image-20230425152932329](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152932329.png)
+
+![image-20230425152943959](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152943959.png)
+
+![image-20230425152957748](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152957748.png)
+
+![image-20230425153022117](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153022117.png)
+
+![image-20230425153044216](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153044216.png)
+
+![image-20230425153105379](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153105379.png)
+
+![image-20230425153123467](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153123467.png)
+
+![image-20230425153136169](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153136169.png)
+
+![image-20230425153200586](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153200586.png)
+
+![image-20230425153216843](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153216843.png)
+
 ### 第四节 函数单调性 与 曲线的凹凸性
+
+![image-20230425153311528](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153311528.png)
+
+![image-20230425153326456](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153326456.png)
+
+![image-20230425153347700](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153347700.png)
+
+![image-20230425153409583](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153409583.png)
+
+![image-20230425153428956](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153428956.png)
+
+![image-20230425153551896](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153551896.png)
+
+![image-20230425153610670](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153610670.png)
+
+![image-20230425153633952](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153633952.png)
+
+![image-20230425153702700](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153702700.png)
+
+![image-20230425153721348](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153721348.png)
+
+![image-20230425153737218](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153737218.png)
+
+![image-20230425153759453](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153759453.png)
+
+#### 曲线凹凸性
+
+![image-20230425153905220](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153905220.png)
+
+![image-20230425153920478](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153920478.png)
+
+![image-20230425153938181](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153938181.png)
+
+![image-20230425164424534](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164424534.png)
+
+![image-20230425164450769](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164450769.png)
+
+![image-20230425164503575](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164503575.png)
+
+![image-20230425164524479](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164524479.png)
+
+![image-20230425164555885](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164555885.png)
+
+![image-20230425164615754](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164615754.png)
+
+![image-20230425164634487](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164634487.png)
+
+![image-20230425164652088](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164652088.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -251,3 +339,10 @@ $0<|x-x_0|<\delta $ 叫做 $x_0$的 去心邻域
 
 ### 第三节 分部积分法
 
+## 第五章 定积分
+
+### 第一节 定积分的概念与性质(一)
+
+### 第一节 定积分的概念与性质(二)
+
+### 第二节 基本公式
