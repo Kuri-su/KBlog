@@ -307,15 +307,11 @@
 
 ![image-20230425164652088](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164652088.png)
 
+![image-20230427182239604](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182239604.png)
 
+![image-20230427182259389](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182259389.png)
 
-
-
-
-
-
-
-
+![image-20230427182319550](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182319550.png)
 
 
 
@@ -323,11 +319,87 @@
 
 $0<|x-x_0|<\delta $ 叫做 $x_0$的 去心邻域
 
+![image-20230427182417619](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182417619.png)
+
+![image-20230427182434116](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182434116.png)
+
+![image-20230427182449487](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182449487.png)
+
+![image-20230427182511263](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182511263.png)
+
+![image-20230427182522350](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182522350.png)
+
+![image-20230427182539572](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182539572.png)
+
+![image-20230427182556061](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182556061.png)
+
+![image-20230427182612514](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182612514.png)
+
+![image-20230427182648943](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182648943.png)
+
+![image-20230427182719033](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182719033.png)
+
+![image-20230427182738415](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182738415.png)
+
+![image-20230427182752816](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182752816.png)
+
+![image-20230427182816520](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182816520.png)
+
+![image-20230427182827564](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182827564.png)
+
+![image-20230427182850768](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182850768.png)
+
+![image-20230427182917467](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182917467.png)
+
+![image-20230427182933003](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182933003.png)
+
+![image-20230427182956870](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182956870.png)
+
+![image-20230427183014562](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183014562.png)
+
+![image-20230427183030627](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183030627.png)
+
+![image-20230427183057030](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183057030.png)
+
+
+
 ### 第六节 函数图像描绘
 
+![image-20230427183124604](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183124604.png)
 
+![image-20230427183134729](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183134729.png)
+
+![image-20230427183357272](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183357272.png)
+
+![image-20230427183411628](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183411628.png)
+
+![image-20230427183427850](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183427850.png)
+
+![image-20230427183443462](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183443462.png)
+
+![image-20230427183459502](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183459502.png)
+
+![image-20230427183515972](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183515972.png)
+
+![image-20230427183533394](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183533394.png)
+
+![image-20230427183548174](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183548174.png)
+
+![image-20230427183603236](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183603236.png)
+
+![image-20230427183618540](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183618540.png)
+
+![image-20230427183630182](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183630182.png)
+
+![image-20230427183642316](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183642316.png)
+
+![image-20230427183656179](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183656179.png)
+
+![image-20230427183717949](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183717949.png)
 
 ### 第七节 弧微分 与 曲率
+
+
 
 ## 第四章 不定积分
 
