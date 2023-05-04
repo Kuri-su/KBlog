@@ -3566,6 +3566,18 @@
 
 **text2**
 
-* look sb. in the eye(s) /face
+* **look sb. in the eye(s) /face**
+  * .
+  * → 
+  * → 
+
+* **confidently $\Leftrightarrow$ with confidence**
+  * **介词短语可以当副词用,** 
+  * confidence 是名词
+
+*  Would/Do you mind  用法
+  1. 请求对方做某事
+     * would / do you mind doing
+       * mind 是介意的意思
 
 **text3**

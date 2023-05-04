@@ -71,11 +71,17 @@
         * 又 $\because f(c_1)=f(c_2)=0$
         * $\therefore \exists \xi \in C(c_1,c_2) \subset (0,2), 使 f'(\xi)=0$
     * 2
-      * 
-
-![image-20230411183058481](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411183058481.png)
-
-![image-20230411183125825](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411183125825.png)
+      * $f(x)\in C[0,2], (0,2) 内 可导, 且 f(0)=1, f(1)+2f(2)=3. 证明: \exists \xi \in (0,2), 使 f'(\xi)=0$
+      * 证:  
+        1. 步骤1: 
+           * $\because f(x)\in C[1,2], \therefore f(x) 在 [1,2] 上 取到 m 和 M$
+           * $3m\le f(1)+2f(2)\le 3M$
+           * $\therefore m\le 1 \le M$
+           * $\therefore \exists c\in [1,2], 使 f(c)=1$
+        2. 步骤2: 
+           * $\because f(0)=f(c)=1$
+           * $\therefore \exists \xi \in (0,c) \subset (0,2)$
+           * $使 f'(\xi)=0$
 
 ### 第一节 微分中值定理 (part B)
 
@@ -86,18 +92,33 @@
     * 当 如下条件同时满足的时候, 式子$\exists \xi (a,b), 使 f'(\xi) = \frac{f(b)-f(a)}{b-a}$, 成立 
       1. $f(x)\in C[a,b]$
       2. $f(x) 在 (a,b) 内可导$
-         1. 闭区间内可导
+         1. 开区间内可导
     * 可以看到 Lagrange 中值定理 比 Rolle 中值定理少了 $f(a)=f(b) $ 的限制, 所以 Rolle 是 Lagrange 中值定理的 一种特殊情况
-
-![image-20230411183808686](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411183808686.png)
-
-![image-20230411183853121](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411183853121.png)
-
-![image-20230411183920384](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411183920384.png)
-
-![image-20230411184009818](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184009818.png)
-
-![image-20230411184126770](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184126770.png)
+  * 分析: 
+    * $L: y=f(x)$
+    * $L_{AB}: y-f(a)=\frac{f(b)-f(a0)}{b-a}\cdot (x-a)$
+    * $即 L_{AB}: y=f(a)+\frac{f(b)-f(a)}{b-a}(x-a)$
+  * 证明: 
+    * 令 $\varphi (x)= 曲-直 = f(x)-f(a)-\frac{f(b)-f(a)}{b-a}(x-a)$
+    * $\varphi (x) \in C[a,b], \varphi (x) 在 (a,b) 内可导, 且 \varphi (a)=\varphi(b)=0$
+    * $\exists \xi \in (a,b), 使 \varphi ' (\xi )=0$
+    * $而 \varphi'(x)=f'(x)-\frac{f(b)-f(a)}{b-a}$
+    * $\therefore f'(\xi)=\frac{f(b)-f(a)}{b-a}$
+  * Notes: 
+    1. If $f(a)=f(b), 则 L\Rightarrow R$
+    2. $等价形式$
+       * $f'(\xi)=\frac{f(b)-f(a)}{b-a} \Leftrightarrow f(b)-f(a)=f'(\xi)(b-a) (a<\xi<b)$
+       * $\Leftrightarrow f(b)-f(a)=f'[a+(b-a)\theta](b-a), (0<\theta<1)$
+  * 例子
+    * 1
+      * $f(x)\in C[a,b], (a,b) 内可导, f(a)=0. f(b)=0,a<c<b, 且 |f'(x)|\le M,$
+      * $证明: |f(c)\le M(b-a)|$
+      * 证: 
+        * 步骤一: 
+          * $f(c)-f(a)=f'(\xi_1)(c-a)(a<\xi_1<c)$
+          * $f(b)-f(c)=f'(\xi_2)(b-c)(c<\xi_2<b)$
+        * 步骤二: 
+          * 
 
 ![image-20230411184201325](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184201325.png)
 
