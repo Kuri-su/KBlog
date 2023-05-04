@@ -3567,17 +3567,97 @@
 **text2**
 
 * **look sb. in the eye(s) /face**
+
   * .
   * → 
   * → 
 
 * **confidently $\Leftrightarrow$ with confidence**
+
   * **介词短语可以当副词用,** 
   * confidence 是名词
 
 *  Would/Do you mind  用法
-  1. 请求对方做某事
-     * would / do you mind doing
+
+  1. **请求对方做某事**
+     * **would / do you mind doing**
        * mind 是介意的意思
+     * → **Would you mind waiting** outside? (您介意到外面等一会儿么?)
+       * 肯定回答: 
+         * No, not at all.  (这里的 No 不表示不愿意, 表示不介意)
+         * Not at all. 
+         * Certainly not. 
+           * certainly 当然地
+         * Of course not. 
+         * No, that's quite all right.
+         * Not at all, I'd be happy / glad to.
+  2. 请求对方允许自己做某事
+     * **<u>would/do</u> you mind <u>my/our</u> doing**
+       * would 理论上来说比 do 更委婉一些
+       * my/our doing, 表示我这么做, 用的属格
+     * mind 后面加 if 从句, 带上真实语气/虚拟语气.
+       * **<u>do</u> you mind if (真实语气: 一般现在时)**
+       * **<u>would</u> you mind if (虚拟语气: 一般过去时)**
+       * 三种表达之间的比较: 
+         * → **Would you mind my smoking** here?
+           * 用属格
+         * → **Do you mind if** I **<u>smoke</u>** here?
+           * 真实语气
+         * → **Would you mind if** I **<u>smoked</u>** here?
+           * 虚拟语气
+       * 回答
+         * 肯定回答
+           * No, not at all. 
+           * Not at all. 
+           * Certainly not.
+           * Of course not. 
+           * Go ahead.
+         * 否定回答
+           * I wish you wouldn't. 
+           * You'd better not.
+           * I'm sorry, but ...
+           * I'm afraid ...
+         * 例句: 
+           * → **Do you mind if** l smoke here?
+           * → **I'm afraid** this is a non-smoking office.
+       * 例题: 
+         * "Do you mind  ? " "Go ahead.” 
+           * (A) opening the window
+           * (B) I open the window
+           * (C) if l open the window (T)
+           * (D) whether l open the window
+       * 听力题
+         * 1
+           * W: would you mind waiting a few more minutes?
+           * M: Not at all.
+           * Q: What does the man mean?
+           * Answer: (B) It doesn't bother him to wait.
+             * bother v. 打扰, 烦扰
+         * 2
+           * M: **Do you mind if** l use your phone?
+           * W: **Of course not.** 
+           * What does the woman mean?
+           * Answer: (B) The man is welcome to use the telephone.
+         * 3
+           * M: Excuse me, **do you mind if** I borrow that newspaper for a little bit. 
+           * W: **I'm sorry, but** it doesn't belong to me.
+             * belong v. 属于
+           * Q: What does the woman imply?
+           * Answer: (C) She can't lend the man the newspaper.
+
+* with + 名词 相当于 副词的用法
+
+  * with great care 
+  * 这么用, 把名词作为中心词, 相比直接用副词会更加正式, 名词前可以用形容词来限定
+    * → The officer went through the case **<u>with great care</u> (=<u>very caretully</u>).**
+    * → (NCE3-11 P54-L15) He had spotted a tiny bottle at the bottom of my case and he pounced on it **<u>with delight</u> (=<u>delightedly</u>)**.
+    * → (NCE3-11P54-L18) Then l added **<u>with a smile</u> (=<u>smilingly</u>).**
+    * → (NCE3-11 P54-L10)'No', l answered **<u>confidently</u> (=<u>with confidence</u>).**
+    * → (NCE3-27 P130-L16) His few material possessions make it possible for him to move from place to place **with ease (=<u>easily</u>).**
+    * → She faced the difficulty **<u>with calmness</u> (=<u>calmly</u>).**
+    * 
+
+
+  
 
 **text3**
