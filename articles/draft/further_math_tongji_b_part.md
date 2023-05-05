@@ -118,7 +118,8 @@
           * $f(c)-f(a)=f'(\xi_1)(c-a)(a<\xi_1<c)$
           * $f(b)-f(c)=f'(\xi_2)(b-c)(c<\xi_2<b)$
         * 步骤二: 
-          * 
+          * $\because f(a)=0, f(b)=0$
+          * $\therefore $
 
 ![image-20230411184201325](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184201325.png)
 

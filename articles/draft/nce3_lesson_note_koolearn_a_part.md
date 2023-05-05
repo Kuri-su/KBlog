@@ -3567,18 +3567,15 @@
 **text2**
 
 * **look sb. in the eye(s) /face**
-
   * .
   * → 
   * → 
 
 * **confidently $\Leftrightarrow$ with confidence**
-
   * **介词短语可以当副词用,** 
   * confidence 是名词
 
 *  Would/Do you mind  用法
-
   1. **请求对方做某事**
      * **would / do you mind doing**
        * mind 是介意的意思
@@ -3644,9 +3641,7 @@
              * belong v. 属于
            * Q: What does the woman imply?
            * Answer: (C) She can't lend the man the newspaper.
-
 * with + 名词 相当于 副词的用法
-
   * with great care 
   * 这么用, 把名词作为中心词, 相比直接用副词会更加正式, 名词前可以用形容词来限定
     * → The officer went through the case **<u>with great care</u> (=<u>very caretully</u>).**
@@ -3655,9 +3650,94 @@
     * → (NCE3-11 P54-L10)'No', l answered **<u>confidently</u> (=<u>with confidence</u>).**
     * → (NCE3-27 P130-L16) His few material possessions make it possible for him to move from place to place **with ease (=<u>easily</u>).**
     * → She faced the difficulty **<u>with calmness</u> (=<u>calmly</u>).**
-    * 
+    * → I looked at her **<u>with curiosity</u> (<u>curiously</u>)**.
+    * → She spoke to me **<u>with tenderness</u> (=<u>tenderly</u>).**
+    * → I greeted Philip **<u>with enthusiasm</u> (=<u>enthusiastically</u>).**
 
+* 介词+ 名词相当于 副词 的用法
+  * 不是所有的名词前面都 加 with 来相当于副词用
+  * → The gang picked their victims **<u>at random</u> (=<u>randomly</u>).**
+  * → I met an old friend in town **<u>by accident</u> (=<u>accidentally</u>).**
+  * → The negotiations were conducted **<u>in secret</u> (=<u>secretly</u>).**
+  * → It's unprofessional to criticize your colleagues **<u>in public</u> (=<u>publicly</u>).**
 
-  
+* → All the things **<u>I had packed so carefully</u>** were soon in a dreadful mess.
+  * All the things 中的 things 有另外一个意思: 
+    * [pl.] personal belongings 私人财物
+    * → (NCE3-32 P150-L12) The chest contained the personal **belongings** of a seaman, Alan Fielding.
+
+  * pack
+    * pack 的宾语 可能是财物, 也可能是箱子
+    * → Kelly **packed** <u>her things</u> before dinner.
+    * → He was still **packing** <u>his suitcase</u> when the taxi came.
+
+  * unpack
+    * unpack 的 宾语 可能是财物, 也可能是箱子
+    * → (NCE3-24 P118-L15) He told me to **unpack** <u>my things</u> and then come down to dinner.
+    * → I **unpacked** <u>my bags</u> as soon as I arrived.
+
+  * **in a mess** 介词短语 乱七八糟
+    * **in <u>a</u>/<u>an</u> <u>dreadful</u>/<u>terrible</u>/<u>awful</u>/<u>apalling</u> mess** 大乱七八糟
+    * → Jem's house is always **in an awful mess.**
+    * 同义词
+      * **in (a state of) disorder** 
+        * disorder n./v. 混乱
+          * 同义词
+            * chaos n. 混乱
+            * confusion n. 混淆
+
+        * a state of 表示处于某种混乱的状态
+        * → Everything was **in disorder**, but nothing seemed to be missing.
+        * → The whole office was **in a state of disorder.**
+
+      * **in (a state of) chaos**
+        * chaos 比 disorder 程度更强, 表示更大规模的混乱
+        * → The kitchen was **in chaos**
+        * → (NCE3-60 P268-L3) without it, nothing could ever be brought to a conclusion; everything would be **in a state of chaos.**
+
+* → I felt <u>sure</u> **I would never be able to close the case again.**
+  * 从句做 **形容词补足语** 的成分, 补充说明 形容词
+  * → (NCE3-2 P18-414) Still, I'm <u>glad</u> **the bell is working again.**
+  * → (NCE3-2 P18-L15)'1t's working all right, but I'm <u>afraid</u> **that at one o'clock it will strike thirteen times and there's nothing I can do about it.'**
+  * → (NCE3-12 P58-L15) When a passing tanker rescued them five days later, both men were genuinely <u>sorry</u> **that they had to leave.**
+
+* **light up** 
+  * if someone's face or eyes light up, they show pleasure, excitement etc （因喜悦、兴奋等脸上或眼中）露出光彩
+  * → His eyes lit up with laughter. 他笑着, 眼睛露出光彩来
+  * → Her face lit up with pleasure. 他因为喜悦, 脸上显出光彩来
+
+* pounce (on sth) 扑上去 (就像老虎扑食一样)
+  * → The lion crouched ready to **pounce.**
+  * → The hawk **pounced on** its prey.
+
+* plunge (into sth) 猛地坠落, 猛地跳下去
+  * → (NCE3-10 P50-L15) The order to abandon ship was given and hundreds of people **plunged into** the icy water .
+
+* charge (at sth) 猛冲 (不及物)
+  * → (NCE3-39 P178-L21) Bruce **charged at** it, but in the middle, the car came to a grinding halt.
+
+* **with delight $\Leftrightarrow$ delightedly**
+  * **delighted** / **delightedly** 感到高兴的(地)  
+    * 形容人的感受
+    * → (NCE3-23 P114-L16) Robert was **delighted** to see me and equally pleased with my little gift.
+
+  * **delightful** / **delightfully** 令人高兴的(地)
+    * 表示事物的性质, 是使人高兴的
+    * → (NCE3-59 P264-L2) Indeed they can have a **delightful** surprise when they find something useful which they did not know they owned.
+      * indeed adv. 确实, 真正地, 果然
+
+    * → (NCE4-32 P188-L5) The old view of Galileo was **delightfully** uncomplicated.
+
 
 **text3**
+
+* perfume n. 香水
+* **eh** interi. used for asking someone to agree with you. 被用来让对方同意你
+  * → Pretty good, eh?
+  * → Pertume, eh?' he asked **<u>sarcastically</u> / <u>ironically</u>.**
+  * → Perfume, eh?'he asked **with (heavy) <u>sarcasm</u> / <u>irony</u>.**
+    * sarcasm n. 讽刺
+    * irony n. 讽刺, 反语
+* **<u>should</u> / <u>ought</u> to have done**
+  * 情态动词的完成时, 表示责备的语气
+  * → (NCE2-65 P296-L5) He **should have known** that the police would never allow this sort of thing. A policeman approached Jimmy and told him he **ought to have gone** along a side street as Jumbo was holding up the traffic.
