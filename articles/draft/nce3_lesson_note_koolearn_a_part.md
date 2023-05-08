@@ -3537,39 +3537,39 @@
     * the reason is that ...
     * the reason is because ... (x)
 * from(介词) 后可以加 adv.  和 介词短语
-  * → .
-  * → .
-  * → .
-  * → .
-  * → .
+  * → When l returned **from <u>abroad</u>** recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
+  * → (NCE3-10 P50-L 12) Suddenly, there was a slight trembling sound **from <u>below</u>**, and the captain went down to see what had happened.
+  * → (NCE3-26 P126-L14) **Before <u>long</u>**, biscuits of all shapes and sizes began arriving at the factory.
+  * → (NCE3-25 P122-L17) After crossing the equator, the captain called in at a port to have a new rudder fitted, but **by <u>now</u>** the Thermopylae was over five hundred miles ahead.
+  * → (NCE3-35 P162-L13) Towards midday, a girl heard a muffled cry coming **from <u>behind one of the walls.</u>**
 * 容易弄错的词
-  * .
-    * .
-  * .
-  * .
-  * .
+  * **abroad $\leftrightarrow$ aboard**
+    * study **abroad**      All **aboard**!
+  * **quite $\leftrightarrow$ quiet** 
+  * **dairy $\leftrightarrow$ diary**
+  * **latitude $\leftrightarrow$ altitude**
 * officious adj. 
   * (disapproving) too ready to tell people what to do or to use the power you have to give orders 爱发号施令的，指手画脚的
   * → When people put on uniforms, their attitude becomes more confident and their manner more **officious**.
   * 辨析: 
     * **officer** n. 官员(军队/政府/公司)
-      * .
-      * .
-      * .
-      * .
+      * a commanding **officer** 
+      * a police **officer**
+      * a customs **officer** 
+      * chief executive **officer**
     * **official** n. 政府官员 (专指文职官员), adj. 官员的, 官方的 (ial 是形容词后缀)
-      * .
-      * .
-      * .
-      * .
+      * government **officials** 
+      * corrupt **officials** 
+      * **official** corruption 
+      * **official** statistics
 * reglared A as B  把 A 看作 B
 
 **text2**
 
 * **look sb. in the eye(s) /face**
-  * .
-  * → 
-  * → 
+  * to look straight at sb without feeling embarrassed or ashamed 直视
+  * → Can you **look me in the eye** and tell me you're not lying?
+  * → I'll never be able to **look her in the face** again!
 
 * **confidently $\Leftrightarrow$ with confidence**
   * **介词短语可以当副词用,** 
@@ -3741,3 +3741,75 @@
 * **<u>should</u> / <u>ought</u> to have done**
   * 情态动词的完成时, 表示责备的语气
   * → (NCE2-65 P296-L5) He **should have known** that the police would never allow this sort of thing. A policeman approached Jimmy and told him he **ought to have gone** along a side street as Jumbo was holding up the traffic.
+  * → How I regretted the hours wasted in the woods and fields, the days when 1had played and **should have studied.**
+    * regret v. 后悔
+    * the hours 时光
+
+* **be exempt form sth.** 免于某事或者某个东西
+  * → Children **are exempt from** the charges.
+    * charge 费用
+  * → Currently, developing nations **are exempt from** certain restrictions on carbon emissions.
+* 关税 **<u>import duty</u>** / **<u>customs duty</u>** / **<u>tariff</u>** (最后一个最正式)
+  * (NCE4-8 P47-L2) These days, it is differences in national regulations, far more than **tariffs**, that put sand in the wheels of trade between rich countries.
+  * tax 税
+    * income tax 所得税
+    * property tax 房屋税/物业税
+    *  sales tax 营业税
+    *  inheritance tax遗产税
+* hair gel 发胶/摩丝/啫喱水
+  * a thick liquid substance which is put in the hair to help the hair keep a particular shape or style
+  * gel 凝胶
+* **add** v. to say more about something that has just been said
+  * → I have nothing to **add** to my earlier statement.
+  * **add that ... **
+  * → (NCE3-40 P182-L11) He **added that** a student had dressed up as a policeman and was playing all sorts of silly jokes on people.
+* **do sth with a <u>smile</u>/<u>laugh</u>/<u>sneer</u>/<u>shock</u>/<u>sigh</u>/<u>start</u>** 
+  * 一边 微笑/大笑/讥笑/震惊/叹气/激灵 一边做某事
+  * sneer v. 讥笑
+  * → (NCE3-24 P118-121)'Oh, that,'he said **with a smile** as if he were talking about an old friend.
+  * → (NCE2-50 P236-L8) Looking round, I realized with a shock that I **was the only** passenger left on the bus.
+  * → (NCE2-74 P346-114) 'Oh, is it?' said the sheriff **with a sneer**.'Well, Im Brinksley Meers, and my other name is Gloria Gleam. Now you get out of here fast !'
+  * → (NCE3-2 P18-L5) One night, however, our vicar woke up **with a start**: the clock was sstriking the hours!
+  * She slowly sat down **with a sigh** and closed her eyes.
+* **oneself 与by oneself 作状语时的区别**
+  * oneself 强调 “亲自〞，并非他人代劳 
+  * by oneself =alone 强调“独自”，没有他人陪伴或帮助
+  * 上述强调的点不太一样, oneself 强调亲自,  就自己动手做, 比方说 Do it yourself, by oneself 强调独自, 比方说 Do it by yourself 独立完成.
+  * → (NCE3-46 P212-L19) I would not hear of the suggestion and said that I would fix it **myself**. 我不愿意听从这个建议, 并且说 "我自己就能修"
+  * → They are living **<u>by themselves</u>** **(=<u>alone</u>).** 他们独自生活
+  * → One can't play tennis **<u>by oneself</u> (=alone).**
+* **<u>As</u> l expected**, <u>he did not believe me.</u>
+  * as 引导的定语从句, 是唯一可以放在句首的定语从句, 非限定性定语从句, As 的意思是正如
+  * → (NCE2-14 P64-L8) **<u>As</u> I soon learnt**, <u>he was English himself!</u>
+  * → (NCE2-78 P362-112) Anyway, **<u>as</u> Brian pointed out**, <u>it is the easiest thing in the world to give up smoking.</u>
+  * → (NCE3-33 P154-L12) <u>Things can go wrong on a big scale</u>, **as a number of people recently discovered in Parramatta, a suburb of Sydney.**
+* 试试吧的表达
+  * 鼓动对方, 
+  * try it
+  * gi<u>ve i</u><u>t a</u> try (注意连读)
+  * gi<u>ve i</u><u>t a</u> shot(注意连读)
+* unscrew v. 拧开, 拧松
+  * screw n. 螺丝钉, v. 拧上 
+    * screw a bulb in 把灯泡拧上
+  * → She **unscrewed** the cap of her water bottle and gave him a drink.
+* nostrils n. 鼻孔
+* → He <u>was greeted by</u> an unpleasant smell **which convinced him <u>that I was telling the truth.</u>**
+  * **be greeted by ....** (of sights, sounds or smells) to be the first thing that you see, hear or smell at a particular time 首先看到的、听到的、闻到的是
+  * → I woke up and **was greeted by** bird song.
+  * → When she opened the door she **was greeted by** complete disorder.
+    * disorder 混乱
+  * convince sb. of sth. 使某人相信某事
+    * convince sb. that 使某人相信某事
+    * → (NCE3-1 P14-L13) The experts **were** now fully **convinced that** the animal was a puma, but where had it come from?
+  * **tell the truth**
+    * **tell a lie / story / joke .**
+*  → <u>A few minutes later</u>, I was able to <u>hurry away</u> **<u>with precious chalk marks on my baagage.</u>**
+  * hurry away 匆忙离开
+  * hurry 后加介词短语 或者副词修饰匆忙
+  * → She **hurried** <u>away</u> in the opposite direction.
+  * → He **hurried** <u>forward</u> to meet him.
+    * hurry forward 匆忙向前
+  * → We **hurried** <u>upstairs</u> to see what was going on.
+  * → (NCE3-22 P110-L 18) With this, he **hurried** <u>off the stage.</u>
+  * → She **hurried** <u>down the corridor</u> as fast as she could.
+  * → More than 100 men **hurried** <u>to the scene</u> to donate their blood.
