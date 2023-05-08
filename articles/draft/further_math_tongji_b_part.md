@@ -211,13 +211,10 @@
 ### 第二节 罗必达法则
 
 * $Q: lim_{x\to 0}\frac{tanx-sinx}{x^3}?$
-  * 
-
-![image-20230412182536643](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182536643.png)
-
-![image-20230412182614883](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182614883.png)
-
-* .
+  * $原式=lim_{x\to0}\frac{x-x}{x^3}=0$ 这个推理是错的, 精确度不够
+  * $原式=lim_{x\to0}\frac{tanx}{x}\cdot \frac{1-cosx}{x^2}=\frac{1}{2}$ 这个推理是正确的
+  * **对于 $\frac{0}{0} 型 的式子, 用等价无穷小求极限有局限性$**
+*  本节的目标就是 找到 $\frac{0}{0}, \frac{\infty}{\infty} 型求极限的方法$
 
 #### $\frac{0}{0} $型
 
