@@ -210,6 +210,9 @@
 
 ### 第二节 罗必达法则
 
+* $Q: lim_{x\to 0}\frac{tanx-sinx}{x^3}?$
+  * 
+
 ![image-20230412182536643](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182536643.png)
 
 ![image-20230412182614883](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182614883.png)
