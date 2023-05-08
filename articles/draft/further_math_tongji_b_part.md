@@ -119,15 +119,26 @@
           * $f(b)-f(c)=f'(\xi_2)(b-c)(c<\xi_2<b)$
         * 步骤二: 
           * $\because f(a)=0, f(b)=0$
-          * $\therefore $
-
-![image-20230411184201325](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184201325.png)
-
-![image-20230411184421669](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184421669.png)
-
-![image-20230411184455478](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184455478.png)
-
-![image-20230411184521958](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184521958.png)
+          * $\therefore f(c)=f'(\xi_1)(c-a), -f(c)=f'(\xi_2)(b-c)$
+          * $\therefore \begin{cases} |f(c)|=|f'(\xi_1)|(c-a)\le M(c-a) \\  |f(c)|=|f'(\xi_2)|(b-c)\le M(b-cs) \end{cases}$
+          * $\Rightarrow 2|f(c)|\le M (b-a) \Rightarrow |f(c)|\le \frac{M}{2}(b-a)$
+    * 2
+      * $a<b, 证: arctanb-arctana \le b-a$
+      * 证: 
+        * 令 $f(x)=arctanx , f'(x)=\frac{1}{1+x^2}$
+        * $arctan b - arctan a = f(b)-f(a)=f'(\xi)(b-a) (a<\xi < b)$
+        * $=\frac{1}{1+\xi^2}\cdot (b-a)$
+        * $\because \frac{1}{1+\xi^2}\le 1$
+        * $\therefore arctan b - arctan a = \frac{1}{1+\xi^2}\cdot (b-a) \le b-a$
+  * 推论
+    * 若 $f(x)\in C[a,b], f(x) 在 (a,b), 且 f'(x)=0. 则 f(x) \equiv C$
+    * 证: 
+      * $\forall x_1, x_2 \in [a,b] 且 x_1<x_2$
+      * $f(x_2)-f(x_1)=f'(\xi)(x_2-x_1) (x_1<\xi<x_2)$
+      * $\because f'(x)\equiv 0$
+      * $\therefore f(x_2)-f(x_1)=0 \Rightarrow f(x_1)=f(x_2)$
+      * $\therefore f(x)\equiv C_0 (a\le x\le b)$
+      * 
 
 #### Canchy
 
@@ -137,29 +148,65 @@
     2. $f(x),g(x) 在 (a,b) 内可导$
     3. $g'(x)\ne 0 (a<x<b)$
        * 这个是比 Lagrange 多的内容
-  * 
-
-![image-20230411184713789](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184713789.png)
-
-![image-20230411184733473](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184733473.png)
-
-![image-20230411184909042](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184909042.png)
-
-![image-20230411184950482](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411184950482.png)
-
-![image-20230411185016133](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185016133.png)
-
-![image-20230411185043692](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185043692.png)
-
-![image-20230411185121384](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185121384.png)
-
-![image-20230411185223117](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185223117.png)
-
-![image-20230411185245233](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185245233.png)
-
-![image-20230411185350488](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185350488.png)
-
-![image-20230411185428250](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230411185428250.png)
+  * Notes: 
+    1. $g'(x)\neq 0 (a<x<b) \Rightarrow \begin{cases} g'(\xi)\ne 0  \\g(b)-g(a)\ne 0 \end{cases}$
+       * $(当 g(b)-g(a)=0 \Rightarrow g(a)=g()b, \exists C\in (a,b) , g'(c)=0, 矛盾)$
+    2. 若 $g(x)=x, 则 C\Rightarrow L$
+    3. $L: \varphi(x)= 曲-直 = f(x)-f(a)-\frac{f(b)-f(a)}{b-a}(x-a)$
+       * Canchy: $\varphi (x)=f(x)-f(a)-\frac{f(b)-f(a)}{g(b)-g(a)}\cdot [g(x)-g(a)]$
+       * 证: 
+         * $令 \varphi (x)=f(x)-f(a)-\frac{f(b)-f(a)}{g(b)-g(a)}[g(x)-g(a)]$
+         * $\varphi \in C[a,b], \varphi (x)在 (a,b) 内可导$
+         * $\varphi (a)=0, \varphi (b)=0$
+         * $\because \varphi (a)=\varphi (b)=0$
+         * $\therefore \exists \xi \in (a,b), 使 \varphi ' (\xi)=0$
+         * 而 $\varphi'(x)=f'(x)-\frac{f(b)-f(a)}{g(b)-g(a)}\cdot g'(x)$
+         * $\therefore f'(\xi)-\frac{f(b)-f(a)}{g(b)-g(a)}\cdot g'(\xi)=0$
+         * $\because g'(\xi)\ne 0, \therefore \frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(\xi)}{g'(\xi)}$
+  * 例子:
+    * 1
+      * $f(x)\in C[a,b], (a,b) 内 可导 (a>0),$
+      * 证明: $使 f(b)-f(a)=\xi f'(\xi)\cdot ln\frac{b}{a}$
+      * 分析: 
+        * $\Leftrightarrow \frac{f(b)-f(a)}{lnb-lna}=\xi f'(\xi)$
+      * 证: 
+        * 令 $g(x)=lnx, g'(x)=\frac{1}{x}\ne 0 (a<x<b)$
+        * 由 $Canchy , \exists \xi \in (a,b), 使$
+        * $\frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f'(\xi)}{g'(\xi)}$
+        * $\Rightarrow \frac{f(b)-f(a)}{lnb-lna}=\frac{f'(\xi)}{\frac{1}{\varphi}}=\xi f'(\xi)$
+        * $\Rightarrow f(b)-f(a)=\xi f'(\xi)\cdot ln\frac{b}{a} $
+    * 2
+      * $f(x) 二阶可导, lim_{x \to 0}\frac{f(x)}{x}=0, f(1)=0$
+      * 试证明: $\exists \xi \in (0,1), 使 f''(\xi)=0$
+      * 证: 
+        * 步骤一: 
+          * $\because lim_{x\to 0}\frac{f(x)}{x}=0, \therefore lim_{x\to 0}f(x)=0$
+          * $又 \because f(x) 连续, \therefore f(0)=0$
+          * $0=lim_{x\to0}\frac{f(x)}{x}=lim_{x\to 0}\frac{f(x)-f(0)}{x-0}=f'(0)$
+          * $\therefore f(0)=0, f'(0)=0$
+        * 步骤二: 
+          * $\therefore f(0)=f(1)=0$
+          * $\therefore \exists C\in (0,1), 使 f'(c)=0$
+        * 步骤三: 
+          * $\because f'(0)=f'(c)=0$
+          * $\therefore \exists \xi  \in (0,c) \sub (0,1), 使 f''(\xi)=0$
+    * 3
+      * 试证明:$ x>0 时, e^x>1+x$
+      * 证: 
+        * $f(t)=e^t, f'(t)=e^t$
+        * $对 x>0, f(x)-f(0)=f'(\xi)(x-0)(0<\xi<x)$
+        * 即 $e^x-1=e^\xi x$
+        * $\because \xi >0 , \therefore e^\xi > 1$
+        * $\therefore e^x-1=e^\xi x > x$
+        * $\Rightarrow e^x > 1+x$
+    * 4
+      * $0<a<b, 试证明: \frac{b-a}{b} < ln \frac{b}{a} < \frac{b-a}{a}$
+      * 证: 
+        * 令 $f(x)=lnx, f'(x)=\frac{1}{x} \ne 0 (a<x<b)$
+        * $ln \frac{b}{a}=ln b-lna=f(b)-f(a)=f'(\xi)(b-a)=\frac{b-a}{\xi} (a<\xi<b)$
+        * $\because a<\xi < b, \therefore \frac{1}{b}<\frac{1}{\xi} < \frac{1}{a}$
+        * $\Rightarrow \frac{b-a}{b} < \frac{b-a}{\xi} < \frac{b-a}{a}$
+        * $\therefore \frac{b-a}{b} < ln \frac{b}{a} < \frac{b-a}{a}$
 
 ### 第二节 罗必达法则
 
