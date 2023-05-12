@@ -468,13 +468,81 @@ $0<|x-x_0|<\delta $ 叫做 $x_0$的 去心邻域
 
 ### 第七节 弧微分 与 曲率
 
+![image-20230512162623159](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162623159.png)
 
+![image-20230512162642021](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162642021.png)
+
+![image-20230512162658655](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162658655.png)
+
+![image-20230512162715323](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162715323.png)
+
+![image-20230512162731102](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162731102.png)
+
+![image-20230512162750866](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162750866.png)
+
+![image-20230512162808947](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162808947.png)
+
+![image-20230512162825328](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162825328.png)
+
+![image-20230512162839182](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162839182.png)
+
+![image-20230512162857593](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162857593.png)
+
+![image-20230512162909719](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162909719.png)
+
+![image-20230512162923917](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162923917.png)
 
 ## 第四章 不定积分
 
 ### 第一节 不定积分的概念与性质
 
+![image-20230512163019628](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163019628.png)
+
+![image-20230512163033946](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163033946.png)
+
+![image-20230512163048821](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163048821.png)
+
+![image-20230512163112210](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163112210.png)
+
+![image-20230512163131625](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163131625.png)
+
+![image-20230512163148315](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163148315.png)
+
+![image-20230512163206227](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163206227.png)
+
+![image-20230512163222702](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163222702.png)
+
+![image-20230512163236893](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163236893.png)
+
+![image-20230512163254358](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163254358.png)
+
+![image-20230512163307940](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163307940.png)
+
+![image-20230512163323609](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163323609.png)
+
+![image-20230512163338779](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163338779.png)
+
+![image-20230512163348896](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163348896.png)
+
+![image-20230512163400482](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163400482.png)
+
+![image-20230512163411758](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163411758.png)
+
+![image-20230512163534670](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163534670.png)
+
+![image-20230512163947344](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164008051.png)
+
+![image-20230512164024580](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164024580.png)
+
+![image-20230512164238741](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164238741.png)
+
+![image-20230512164252159](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164252159.png)
+
 ### 第二节 积分方法-换元积分法(一) 
+
+![image-20230512164343327](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164343327.png)
+
+
 
 ### 第二节 积分方法-换元积分法(二) 
 
@@ -487,3 +555,11 @@ $0<|x-x_0|<\delta $ 叫做 $x_0$的 去心邻域
 ### 第一节 定积分的概念与性质(二)
 
 ### 第二节 基本公式
+
+### 第三节 换元积分
+
+### 第四节 分部积分
+
+### 第五节 反常积分
+
+## 第六章 定积分的应用
