@@ -626,9 +626,87 @@ $0<|x-x_0|<\delta $ 叫做 $x_0$的 去心邻域
 
 ![image-20230513130052688](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130052688.png)
 
+![image-20230513130134444](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130134444.png)
 
+![image-20230513130146310](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130146310.png)
+
+![image-20230513130201286](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130201286.png)
+
+![image-20230513130223114](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130223114.png)
 
 ### 第三节 分部积分法
+
+![image-20230513130251946](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130251946.png)
+
+![image-20230513130300712](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130300712.png)
+
+![image-20230513130517528](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130517528.png)
+
+![image-20230513130535698](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130535698.png)
+
+![image-20230513130549531](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130549531.png)
+
+![image-20230513130616588](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130616588.png)
+
+![image-20230513130637702](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130637702.png)
+
+![image-20230513130651785](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130651785.png)
+
+![image-20230513130714515](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130714515.png)
+
+![image-20230513130728818](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130728818.png)
+
+![image-20230513130805486](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130805486.png)
+
+![image-20230513130821794](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130821794.png)
+
+![image-20230513131332304](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131332304.png)
+
+![image-20230513131344719](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131344719.png)
+
+![image-20230513131726158](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131726158.png)
+
+![image-20230513131738146](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131738146.png)
+
+![image-20230513131752121](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131752121.png)
+
+### 第四节 有理函数不定积分
+
+![image-20230513131846857](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131846857.png)
+
+![image-20230513131942805](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131942805.png)
+
+![image-20230513131956398](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131956398.png)
+
+![image-20230513132010001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132010001.png)
+
+![image-20230513132035446](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132035446.png)
+
+![image-20230513132047586](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132047586.png)
+
+![image-20230513132102924](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132102924.png)
+
+![image-20230513132117093](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132117093.png)
+
+![image-20230513132132582](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132132582.png)
+
+![image-20230513132150233](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132150233.png)
+
+![image-20230513132202949](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132202949.png)
+
+![image-20230513132214839](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132214839.png)
+
+![image-20230513132737612](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132737612.png)
+
+![image-20230513132755136](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132755136.png)
+
+
+
+
+
+
+
+
 
 ## 第五章 定积分
 
