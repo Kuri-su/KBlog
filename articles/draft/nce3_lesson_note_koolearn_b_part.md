@@ -89,6 +89,32 @@
 
 **text 1**
 
+* 什么什么的生活不能用 on
+  * life **on** a desert island  荒岛生活
+  * life **at** the monastery 在修道院的生活
+  * life **in** the army 军旅生活
+  * life **on** campus 校园生活
+    * on campus 是固定搭配
+* **form a picture of ... = imagine ...** 想象
+  * form n. 形状
+    * → Can you **form a picture of** what I described to you?
+  * unrealistic adj. 不切实际的, 脱离现实的
+  * 造句：他们之中多数人对于西方世界有一种不切实际的想象。
+    * → Most of them have **formed an unrealistic picture of** life on westem world.
+* **take a picture of ...** 给某人拍张像
+  * → Excuse me. My name is Richard Stewart. I'm a photographer. May I **take a picture of** you and your little boy?
+    * photographer /fəˈtɑːɡrəfər/ n. 摄影师,  (注意这个词不是 photo + grapher 连起来读) 
+  * Look in the camera 看镜头
+  * Hold that pose. 别动, 保持姿势
+  * Say cheese. (拍照时候说茄子)
+  * You are photogenic. 你挺上像的.
+    * photogenic adj. 上镜的, 适于拍照的
+  * The picture does not do your justice.  这照片没拍好
+    * not do one's justice 没有反映出某人的真实水平
+    * → The exam does not do your justice. 这考试没考好
+* → We sometimes <u>imagine</u> a desert island <u>to be</u> a sort of paradise **where the sun always shines.**
+  * 
+
 
 
 **text 2**
