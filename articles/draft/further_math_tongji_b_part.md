@@ -39,6 +39,9 @@
            * $f_-'(0)=lim_{x\to0^-}\frac{f(x)-f(0)}{x-0}=1$
            * $f_+'(0)=lim_{x\to 0^+}\frac{f(x)-f(0)}{x-0}=2$
            * $\because f_-'(0) \ne f_+'(0), \therefore f'(0) 不存在, 但 x=0 不是极值点$
+
+#### Rolle
+
 * ⭐️ Rolle 中值定理
   * 定理: 
     * 当满足如下三个条件的时候, 定理 $\exists \xi \in (a,b) , 使 f'(\xi)=0$
