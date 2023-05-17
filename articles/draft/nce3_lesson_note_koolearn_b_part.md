@@ -113,7 +113,7 @@
     * not do one's justice 没有反映出某人的真实水平
     * → The exam does not do your justice. 这考试没考好
 * → We sometimes <u>imagine</u> a desert island <u>to be</u> a sort of paradise **where the sun always shines.**
-  * 
+  * **imagine ... to be ...**
 
 
 
