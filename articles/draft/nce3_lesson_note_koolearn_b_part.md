@@ -113,7 +113,54 @@
     * not do one's justice 没有反映出某人的真实水平
     * → The exam does not do your justice. 这考试没考好
 * → We sometimes <u>imagine</u> a desert island <u>to be</u> a sort of paradise **where the sun always shines.**
-  * **imagine ... to be ...**
+  * **imagine ... to be ...** 把 ... 想象成 ... (把前者想象成后者)
+  * **picture ... as ...** 把 ... 想象成 ... (把前者想象成后者)
+  * **conceive of ... as ...** 把 ... 想象成 ... (把前者想象成后者)
+  * 把... 当成是 ... 
+    * **regard ... as ...** 把 ... 看作 ...  (把前者看作 后者)
+      * → (NCE3-11P54-L6) When l returned from abroad recently, a particularly officious young Customs Officer clearly **regarded** me **as** a smuggler.(把前者看作 后者)
+    * **consider ... (to be) ...** 把 ... 看作 ... (把前者看作 后者)
+      * → (NCE3-23 P114-L2) If you lived in the Mediterranean, for instance, you would **consider** octopus a great delicacy. 如果你住在地中海地区, 比方说, 你就会把章鱼看作是一种美味佳肴
+        * consider <u>octopus</u> <u>a great delicacy</u> 把章鱼看作美味佳肴
+    * **see ... as ...** 把 ... 看作 ....   (把前者看作 后者)
+      * → I **see** his words **as** a joke.
+    * **count ... as ....** 把 ... 看作 ...  (把前者看作 后者)
+      * count 有把 ... 算作 ... 的意思, 所以可以表示 把 .... 看作 ... 的意思
+      * → I don't **count** him **as** a friend any more. 我再也不把他看作我的朋友了.
+    * **look on .... as ...** 把 ... 看作 ...  (把前者看作 后者)
+      * → They **look on** her **as** a daughter. 他们把她像女儿一样看待
+    * **think of ... as ...** 把 ... 看作 ...  (把前者看作 后者)
+      * → Learning a language should **be thought of as** a natural process. 学习一门语言应该被看作是一个自然的过程
+  * 把 ... 公认为是 .... (通常用被动 , ... 被公认为是 ... )
+    * **be recognized / acknowledged as ...** 
+      * recognized adj. 已被认可的
+      * acknowledged adj. 公认的
+      * → Heifetz **was recognized/acknowledged as** the greatest violinist of the 2Oth century.
+        * violinist /ˌvaɪəˈlɪnɪst/ 小提琴手
+          * violin n. 小提琴
+  * **a sort of**
+    * 意思1: n. 种类, 类型 v. 分类, 排序, 整理, adj. 整理好的, 整齐的
+    * 意思2: 有些像...的, .... 般的 
+      * **a sort of ... = a kind of ....**
+        * a sort of paradise 天堂般的
+      * → (NCE3-14 P66-L14) In spite of this, the ltalians regarded him as **a sort of** hero. 意大利人把他看作英雄般的人物
+      * → (NCE3-42 P196-L16) Since its discovery, it has become **a sort of** potholers' Everest.
+      * → (NCE3-54 P244-L21) They were visited by a large colony of ants which obtained **a sort of** honey from them.
+      * → An atom is **a kind of** solar system. 
+        * solar 太阳系
+      * → (NCE4-22 P127-L6) Libraries made education possible, and education in its turn added to libraries: the growth of knowledge followed **a kind of** compound interest law, which was greatly enhanced by the invention of printing.
+    * **kind of = sort of = somewhat** adv. 有点 (注意辨析, a sort of 与 sort of 以及 a kind of 与 kind of 是不一样的意思)
+      * somewhat adv. 有点地, 稍微地
+      * somehow adv. 不知怎么地
+      * somewhere adv. 某处
+      * → I'm **kind of** hungry. 我有点饿了
+      * → He felt **sort of** embarrassed.  他觉得有一点尴尬
+* ripe adj. 成熟的
+  * ripe fruit 成熟的水果
+  * → Soon **ripe**, soon rotten. 成熟的早, 腐烂的快
+    * rotten adj. 腐烂的
+  * → The time is ripe. 时机成熟了
+  * → I'm waiting till the **time is ripe** before I tell my parents that I failed my exames.
 
 
 
