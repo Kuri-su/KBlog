@@ -90,18 +90,23 @@
 **text 1**
 
 * 什么什么的生活不能用 on
+
   * life **on** a desert island  荒岛生活
   * life **at** the monastery 在修道院的生活
   * life **in** the army 军旅生活
   * life **on** campus 校园生活
     * on campus 是固定搭配
+
 * **form a picture of ... = imagine ...** 想象
+
   * form n. 形状
     * → Can you **form a picture of** what I described to you?
   * unrealistic adj. 不切实际的, 脱离现实的
   * 造句：他们之中多数人对于西方世界有一种不切实际的想象。
     * → Most of them have **formed an unrealistic picture of** life on westem world.
+
 * **take a picture of ...** 给某人拍张像
+
   * → Excuse me. My name is Richard Stewart. I'm a photographer. May I **take a picture of** you and your little boy?
     * photographer /fəˈtɑːɡrəfər/ n. 摄影师,  (注意这个词不是 photo + grapher 连起来读) 
   * Look in the camera 看镜头
@@ -112,7 +117,9 @@
   * The picture does not do your justice.  这照片没拍好
     * not do one's justice 没有反映出某人的真实水平
     * → The exam does not do your justice. 这考试没考好
+
 * → We sometimes <u>imagine</u> a desert island <u>to be</u> a sort of paradise **where the sun always shines.**
+
   * **imagine ... to be ...** 把 ... 想象成 ... (把前者想象成后者)
   * **picture ... as ...** 把 ... 想象成 ... (把前者想象成后者)
   * **conceive of ... as ...** 把 ... 想象成 ... (把前者想象成后者)
@@ -155,13 +162,75 @@
       * somewhere adv. 某处
       * → I'm **kind of** hungry. 我有点饿了
       * → He felt **sort of** embarrassed.  他觉得有一点尴尬
+
 * ripe adj. 成熟的
+
   * ripe fruit 成熟的水果
   * → Soon **ripe**, soon rotten. 成熟的早, 腐烂的快
     * rotten adj. 腐烂的
   * → The time is ripe. 时机成熟了
-  * → I'm waiting till the **time is ripe** before I tell my parents that I failed my exames.
+    * → I'm waiting till the **time is ripe** <u>before</u> I tell my parents that I failed my exames. 
+      * before  这里表示然后, 不一定表示之前
+      * till prep. 直到
+  * 其他表示成熟的词的辨析
+    * 人和动物 成年了 (生理上成熟了)
+      * **<u>adult</u>/<u>full-grown</u>** 
+        * adult n. 成年 adj. 成年人的
+        * → an **adult** cat
+        * → A **full-grown** giraffe is 5.5 m tall.
+          * giraffe n. 长颈鹿
+    * **mature** /məˈtjʊə(r)/ adj. 心理上成熟了, 心智成熟
+      * → He is very **mature** for his age.
+    * 牛排的熟度
+      * **well-done** 全熟的
+      * **medium well** 七八分熟的 
+      * **medium** 五分熟的
+      * **medium rare** 四分熟的 
+      * **rare** 三分熟的
+      * **raw** 全生的
+      * → How would you like your steak (cooked)?
+      * → I’d like my steak **<u>well-done</u> / <u>medium well</u> / <u>medium</u> / <u>medium rare</u> / <u>rare</u>**.
+      * → Ilike to eat fish raw.
+        * raw fish 未加工的鱼 (刚捞上来的)
+        * fish raw 生鱼片(鱼生)
 
+* **quite** 
+
+  * 做副词有两个意思, 
+    * 一个是表示相当的, 颇为... 
+    * 一个是截然, 完全, 彻底
+  * → (NCE3-8 P42-L12) In winter, however, life at the mionastery is **quite** different.
+
+* **the opposite** 反面, 对立面
+  * → **The opposite** of love is hatred. 爱的反面就是恨
+  * → **the opposite** bank 彼岸
+  * → **the opposite** sex 异性
+  * → **be quite the opposite** 截然相反
+  * 造句：我的父亲是个性格平和的人， 但是我的母亲却截然相反。
+    * → My father is a very calm person , but my mother **is quite the opposite**.
+
+* **either ... or ... 要么... 要么...**
+
+* waiting for a boat <u>which it never comes.</u>
+  * = waiting for a boat **but it never comes** 
+
+* **there is an element of truth in ...** .... 有点道理
+  * → **There is an element of truth in** what she said. 她说的有点道理
+  * → **There is an element of truth in ** she words
+
+* **there is a good deal of truth in ...** ... 很有道理
+  * → (NCE3-9 P46-L7) Apparently, **there is a good deal of truth in** this idea.
+
+* **there is no truth in ...**  ... 没道理
+  * → **There is no truth in ** the rumor
+
+* 过于乐观和过于悲观的表达
+  * → The former picture **is unduly optimistic** while the latter picture **is unduly pessimistic**前者太过于乐观
+    * unduly  adv. 过分地
+    * optimistic adj. 乐观的
+    * pessimistic adj. 悲观的
+    * 上文可以优化成下面这样
+      * → The former picture **is unduly optimistic** while the latter **unduly pessimistic**.
 
 
 **text 2**
