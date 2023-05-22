@@ -232,5 +232,7 @@
     * 上文可以优化成下面这样
       * → The former picture **is unduly optimistic** while the latter **unduly pessimistic**.
 
-
 **text 2**
+
+* → Two men **who recently spent five days on a coral island** wished **they <u>had stayed</u> there longer.**
+  * spent 
