@@ -235,4 +235,62 @@
 **text 2**
 
 * → Two men **who recently spent five days on a coral island** wished **they <u>had stayed</u> there longer.**
-  * spent 
+
+  * coral /ˈkɒrəl/ n. 珊瑚, adj. 珊瑚色的
+
+    * coral island 珊瑚岛
+
+  * spent(spend)
+
+    * 表示 度过
+      * (NCE3-4 P26-L11) He then changed into overalls and **spent** the next eight hours as a dustman.
+        * dustman n. 垃圾工
+        * overalls n. 工装裤
+
+  * **'wish' 型的虚拟语气(表示希望)** 
+
+    * 除了 wish 型, 还有 'if' 型的表示<u>如果</u>,  'should + do' 表示<u>应该</u>
+
+    * **wish 型**
+
+      1. **S.+ wish + (that) + S.+** (S. 表示主语)
+
+         1. **did/were (现在)**
+         2. **had done (过去)**
+         3. **would/should/could/might + do (将来)**
+
+         * 注解: wish 和 hope 的区别
+           * hope 一般用于真实语气, 表示可能性还是比较大的
+           * wish 一般是对可望不可及的一种希望, 一般表示可能性微乎其微
+         * 例句: 
+           * → I wish (that) I **met** my uncle now. (现在)
+           * → I wish (that) I **had met** my uncle yesterday. (过去)
+           * → I with (that) I **could meet** my uncle tomorrow. (将来)
+
+      2. **would <u>rather</u>/<u>sooner</u> (that) + S. +** 
+
+         1. **did/were (现在)**
+         2. **had done (过去)**
+         3. **would/should/could/might + do (将来)**
+
+         * 注解
+           * 表示真希望, e.g. 要是真这样就好了
+           * 需要和 would rather do than do 区分开, 后者表示 宁愿做某事也不愿做某事
+         * 例句
+           * → I'd rather you **started off** now. (现在)
+           * → Id rather you **had been present** yesterday. (过去)
+
+      3. **if only + S. + **
+
+         1. **did/were (现在)**
+         2. **had done (过去)**
+         3. **would/should/could/might + do (将来)**
+
+         * 注解
+           * 表示真希望, e.g. 要是真这样就好了
+
+         * 例句
+           * → If only Tessa **were** here now!
+           * → If only I **had listened** to my parents at that time.
+
+* → They were taking a badly damaged boat <u>from the Virgin lslands to Miami</u> **to have it repaired.**
