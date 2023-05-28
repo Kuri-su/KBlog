@@ -8,11 +8,11 @@ Automatically syncing with blog [[kuricat.com](https://kuricat.com)]
 $ tree -d
 .
 ├── articles        # articles
-│   ├── beta            # pending to be publishing
-│   ├── draft           # draft
-│   ├── fork_and_edit   # puslished non-original articles
-│   ├── origin			# puslished original articles
-│   └── trash           # discard 
+│    ├── beta            # pending to be publishing
+│    ├── draft           # draft
+│    ├── fork_and_edit   # puslished non-original articles
+│    ├── origin			# puslished original articles
+│    └── trash           # discard 
 ├── ARTS            # Project ARTS
 ├── assets          # images
 ├── backup          # backup other peoples's articles
