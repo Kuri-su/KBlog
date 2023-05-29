@@ -2,6 +2,7 @@
 
 # 在 cli 模式下推荐的 docker 仪表板
 
+![](/assets/recommendedDockerDashboardInCliMode.png)
 
 ## Cli Docker DashBoard 的适用场景
 
