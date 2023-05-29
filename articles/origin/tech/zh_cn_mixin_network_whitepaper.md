@@ -281,7 +281,7 @@ func kernel_registerDomain(uuid string, publicKeyList []string ) (res string)
 1. UUID - `一个唯一的 UUID, 作为这个 Domain 的 ID.` A unique UUID that represents the domain among all other domains. 
 2. Array - `Domain 节点的 公钥列表.`.Array of domain nodes’ transparent public keys.
 
-```json
+```text
 params: [“c6d0c728-2624-429b-8e0d-d9d19b6592fa”,[“4b7a842ce6050c99450dc30b4e848c4eaffd33915653b472d900f47d11722058”,“b3aef7b3a998a593c157103d20f9cb17bdbd535f304b17c862e3b35b108faeb8”]]
 ```
 
@@ -361,7 +361,7 @@ func domain_associatePublicKey(publicKey string, uuid string) (specificPublicKey
 1. String - `一个 Mixin 公钥` The Mixin public key.
 2. UUID - `资产 Id`  Unique asset ID within the whole Mixin Network.
 
-```json
+```text
 params:
 [“4b7a842ce6050c99450dc30b4e848c4eaffd33915653b472d900f47d11722058”, “c6d0c728-2624-429b-8e0d-d9d19b6592fa”]
 ```
@@ -393,7 +393,7 @@ func domain_unlockAsset(assetUuid UUID, specificPublicKey string,amount string,f
 3. String - `解锁的资产金额`The amount of asset to unlock.
 4. String - `转账费率`The fee for external source transaction.
 
-```json
+```text
 params: [“c6d0c728-2624-429b-8e0d-d9d19b6592fa”,“15SdoFCiwaoUN4grnhPCoDWxWLcY6ZT68V”, “12.345678”,“0.0005”]
 ```
 
