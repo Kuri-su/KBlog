@@ -9,7 +9,6 @@ headline = "SDN 全称 (software-defined networking), 直译为 `软件定义网
 headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/k8sNetworkScheme-00-header.png"
 +++
 
-# Kubernetes network scheme
 
 > * 因为笔者对 计算机网络 认识浅薄, 加上很多的部分都是现学现卖，所以下述内容可能存在与具体事实相悖的内容, 所以如果发现请劳烦指正或讨论! 不胜感激.
 >

@@ -1,10 +1,14 @@
-{"title":"Protocal buffer Guide","description":"Protocal buffer 简易指南","category":"protobuf","tag":["golang","protobuf"],"page_image":"/assets/protobufGuideHeader.png"}
++++
+date = "2020-07-22"
+title = "Protocal buffer Guide"
+slug = "protocal-buffer-guide-dynag"
+categories = [ "tech","protobuf" ]
+tags = [ "golang","protobuf" ]
+katex = false
+headline = "Protocal buffer Guide, Protocal buffer 简称 `Protobuf` 是 一种 `序列化` 数据结构的协议, 这种协议包含两部分,  "
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/protobufGuideHeader.png"
++++
 
-> Protocal buffer Guide
-
-![](/assets/protobufGuideHeader.webp)
-
-[TOC]
 
 ## 常见的序列化协议/格式
 

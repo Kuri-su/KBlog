@@ -2,17 +2,13 @@
 date = "2020-08-11"
 title = "golang pprof topview"
 slug = "golang-pprof-guide-sw40b"
-categories = [ "golang" ]
+categories = [ "tech","golang" ]
 tags = [ "golang","tools" ]
 katex = false
 headline = "golang pprof topview - 在别的语言,  如果想 Debug Runtime  的话, 得去找各种工具. 而在 Golang 中, 标准库为我们提供了一系列的工具用于 Runtime Debug,"
 headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/pprof0_index.png"
 +++
 
-# golang pprof topview
-
-
-![](/assets/pprof0_index.png)
 
 在别的语言,  如果想 Debug Runtime  的话, 得去找各种工具. 而在 Golang 中, 标准库为我们提供了一系列的工具用于 Runtime Debug, 这一系列 工具的总称叫做 `pprof tool`. 
 

@@ -1,10 +1,15 @@
-{"title": "Prometheus 和 它的监控需求朋友们 ;)","description": "Prometheus 和 它的监控需求朋友们 ;)","category": "cloudNative","tag": ["cloudnative","prometheus"],"page_image":"/assets/prometheus-headphoto.png"}
++++
+date = "2020-09-26"
+title = "Prometheus 和 它的监控需求朋友们 ;)"
+slug = "prometheus-and-its-needs-friends-ozoqx"
+categories = [ "tech","cloudnative" ]
+tags = [ "cloudnative","prometheus" ]
+katex = false
+headline = "这篇博文的面向群体是 还不太了解 Prometheus 和 想要开始使用 Prometheus 的人群.本文想做的事是 想尽力讲清楚  Prometheus 是如何看待监控这件事情 以及  Prometheus 是如何实现这些需求的."
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/prometheus-headphoto.png"
++++
 
-![](/assets/prometheus-headphoto.png)
 
-# Prometheus 和 它的监控需求朋友们 ;)
-
-[TOC]
 
 这篇博文的面向群体是 还不太了解 Prometheus 和 想要开始使用 Prometheus 的人群.
 

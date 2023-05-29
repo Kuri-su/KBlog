@@ -1,10 +1,13 @@
-{"title":"PromQL Guide","description":"PromQL 简易指南","category":"cloudNative","tag":["prometheus","golang","cloudNative"],"page_image":"/assets/promQL_guide_headImage.jpg"}
-
-![](/assets/promQL_guide_headImage.jpg)
-
-# PromQL Guide
-
-[TOC]
++++
+date = "2020-10-02"
+title = "PromQL Guide"
+slug = "promql-guide-guqc2"
+categories = [ "tech","cloudnative" ]
+tags = [ "golang","prometheus","cloudnative" ]
+katex = false
+headline = "PromQL 简易指南, 这篇文章的面向群体是 对 Prometheus 已经有一定的认识, 而开始想要了解 PromQL 的人群."
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQL_guide_headImage.jpg"
++++
 
 \# 文档翻译系列 XD
 

@@ -1,6 +1,6 @@
 +++
 date = "2019-06-27"
-title = "从 程序员 的版权说开去"
+title = "给程序员的常用 开源许可 与 CC 许可 简明手册"
 slug = "cc-pk8ds"
 categories = [ "tech", "linux" ]
 tags = [ "License" ]
@@ -9,7 +9,6 @@ headline = "常用 开源许可 与 CC 许可 简明手册 - 有使用 GitHub �
 headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/open_source_license_and_CC_license_main_image.png"
 +++
 
-# 给程序员的常用 开源许可 与 CC 许可 简明手册
 
 从程序的版权说开去
 

@@ -1,10 +1,15 @@
-{"title":"PromQL query result is abnormal when it process NaN data ","description":"PromQL 处理 NaN 数据 输出结果异常","category":"cloudNative","tag":["prometheus","golang","cloudNative"],"page_image":"/assets/promQLHeadImage.png"}
-
++++
+date = "2020-06-29"
+title = "PromQL query result is abnormal when it process NaN data"
+slug = "promql-process-nan-data-result-is-abnormal-mkziw"
+categories = [ "tech","cloudnative" ]
+tags = [ "golang","prometheus","cloudnative" ]
+katex = false
+headline = "在使用 PromQL  简单查询 一个 Summary 类型的 Metrics 时(假设 Metrics  名字 `A`), 出现了一个比较诡异的现象."
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQLHeadImage.png"
++++
 > PromQL 处理 NaN 数据 输出结果异常
 
-![](/assets/promQLHeadImage.png)
-
-[TOC]
 
 ## 现象
 

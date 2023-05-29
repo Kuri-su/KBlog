@@ -1,6 +1,13 @@
-# [zh-CN] Mixin Network WhitePaper 
-
-[TOC]
++++
+date = "2021-05-08"
+title = "[zh-CN] Mixin Network WhitePaper "
+slug = "zh-cn-mixin-network-whitepaper-e2dc0"
+categories = [ "tech","cryptoCoin" ]
+tags = [ "Cryptonote","whitebook","blockchain" ]
+katex = true
+headline = "Mixin 白皮书 中文翻译, 目前仅仅包括部分内容,"
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/mixinnetwork_headerImg.jpg"
++++
 
 > 目前仅仅包括部分内容, 有翻译不准确或者错误的地方欢迎到 [这里提 Issue 指正](https://github.com/Kuri-su/KBlog)
 >

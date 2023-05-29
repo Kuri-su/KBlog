@@ -1,8 +1,14 @@
-{"title":"recommended docker dashboard in cli mode ","description":"在 cli 模式下推荐的 docker 仪表板","category":"docker","tag":["docker","cloudnative"],"page_image":"/assets/recommendedDockerDashboardInCliMode.png"}
++++
+date = "2020-07-13"
+title = "recommended docker dashboard in cli mode "
+slug = "recommended-docker-dashboard-in-cli-mode-86fvu"
+categories = [ "tech","docker" ]
+tags = [ "docker","cloudnative" ]
+katex = false
+headline = "通常, 我们会使用 `docker` 命令 这个 Docker Daemon 的 Client 来对 Docker 容器资源进行控制, 例如 容器的起停, 亦或者 Docker Image 的管理. 但是当我们镜像数量多起来之后,"
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/recommendedDockerDashboardInCliMode.png"
++++
 
-# 在 cli 模式下推荐的 docker 仪表板
-
-![](/assets/recommendedDockerDashboardInCliMode.png)
 
 ## Cli Docker DashBoard 的适用场景
 
