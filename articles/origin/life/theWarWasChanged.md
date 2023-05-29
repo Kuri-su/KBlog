@@ -2,7 +2,7 @@
 date = "2020-11-12"
 title = "The war was changed"
 slug = "the-war-was-changed"
-categories = [ "tfd",  "essay" ]
+categories = [ "tfd", "life",  "essay" ]
 tags = [ "life", "essay", "tfd" ]
 katex = false
 headline = "不知道从何时起，笔者异常的期待他人的称赞和认可，宛如罂粟一般。在得到称赞的那刻，笔者狂喜和兴奋，在得不到称赞和认可的时候，懊恼和沮丧，甚至焦虑。"

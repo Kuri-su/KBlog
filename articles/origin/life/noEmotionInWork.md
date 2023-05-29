@@ -2,7 +2,7 @@
 date = "2023-05-29"
 title = "No emotion in working"
 slug = "no-emotion-in-working"
-categories = [ "tfd",  "essay" ]
+categories = [ "tfd", "life",  "essay" ]
 tags = [ "life", "essay", "tfd" ]
 katex = false
 draft= true

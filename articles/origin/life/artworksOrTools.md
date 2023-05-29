@@ -2,7 +2,7 @@
 date = "2021-08-04"
 title = "Artwork? Or tools?"
 slug = "artwork-or-tools?"
-categories = [ "tfd",  "essay" ]
+categories = [ "tfd", "life",  "essay" ]
 tags = [ "life", "essay", "tfd" ]
 katex = false
 headline = "在实习和刚毕业的那一两年, 由于在写业务, 然后又想刷经验, 所以很容易就写出一些匪夷所思的代码, 虽然有部分设计是合理的, 但是很多都有过度设计和过早优化的味道."

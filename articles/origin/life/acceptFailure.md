@@ -2,7 +2,7 @@
 date = "2020-11-12"
 title = "Accept failure"
 slug = "accept-failure"
-categories = [ "tfd",  "essay" ]
+categories = [ "tfd", "life",  "essay" ]
 tags = [ "life", "essay", "tfd" ]
 katex = false
 headline = "笔者最近出 Bug 多到想离职。回想过去，这种情况并不少见。今年年初，自己尝试管理自己的 side project ` MSC 项目` ，简直 `堪称项目管理的冒烟测试`。"
