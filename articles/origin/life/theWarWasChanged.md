@@ -1,8 +1,13 @@
----
-title: "The war was changed"
-date: 2020-11-12T13:04:30+08:00
-author: kurisu
----
++++
+date = "2020-11-12"
+title = "The war was changed"
+slug = "the-war-was-changed"
+categories = [ "tfd",  "essay" ]
+tags = [ "life", "essay", "tfd" ]
+katex = false
+headline = "不知道从何时起，笔者异常的期待他人的称赞和认可，宛如罂粟一般。在得到称赞的那刻，笔者狂喜和兴奋，在得不到称赞和认可的时候，懊恼和沮丧，甚至焦虑。"
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/the_war_was_changed_header.png"
++++
 
 ## The war was changed
 

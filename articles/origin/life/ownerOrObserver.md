@@ -1,8 +1,13 @@
----
-title: "Owner? or Observer?"
-date: 2021-08-03T20:13:20+08:00
-author: kurisu
----
++++
+date = "2021-08-03"
+title = "Owner? or Observer?"
+slug = "owner-or-observer?"
+categories = [ "tfd",  "essay" ]
+tags = [ "life", "essay", "tfd" ]
+katex = false
+headline = "我们常说 要有 owner 精神, 有些公司也叫做 主人翁意识, 简单来讲, 通常指 对一个产品, 或者一个项目有那种拥有的感觉(有的公司会发散出更多内容, 但大体是这个意思). "
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/owner-or-observer_header.png"
++++
 
 ## Owner? or Observer?
 

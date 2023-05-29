@@ -1,8 +1,13 @@
----
-title: "BeWater"
-date: 2021-04-29T00:07:51+08:00
-author: kurisu
----
++++
+date = "2021-04-29"
+title = "BeWater"
+slug = "be-water"
+categories = [ "tfd",  "essay" ]
+tags = [ "life", "essay", "tfd" ]
+katex = false
+headline = "在不自知间，我们就会莫名的给自己定上固定的形状，或者自己给自己的刻板印象。比方说，程序员似乎就是程序员，去看产品经理的 产品课，或者 看管理者的管理课，最后会产生一个疑惑，`我` 究竟是什么？"
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/be_water_header.png"
++++
 
 ## Be water
 

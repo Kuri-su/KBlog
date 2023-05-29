@@ -1,7 +1,7 @@
 +++
-date = "2020.11.12"
+date = "2020-11-12"
 title = "Accept failure"
-slug = "slug"
+slug = "accept-failure"
 categories = [ "tfd",  "essay" ]
 tags = [ "life", "essay", "tfd" ]
 katex = false
