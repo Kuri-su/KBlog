@@ -388,7 +388,7 @@ func domain_unlockAsset(assetUuid UUID, specificPublicKey string,amount string,f
 
 ##### Parameters
 
-1. Uuid - `资产 UUID` Unique asset ID within the whole Mixin Network.
+1. Uuid - `资产 UUID` Unique asset ID within the whole Mixin Network.
 2. String - `外部资产专用公钥` External asset specific public key.
 3. String - `解锁的资产金额`The amount of asset to unlock.
 4. String - `转账费率`The fee for external source transaction.
