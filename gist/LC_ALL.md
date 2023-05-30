@@ -1,5 +1,13 @@
++++
+date = "2019-04-17"
+title = "ubuntu-解决语言设置错误的问题"
+slug = "ubuntu-1bglt"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
-# ubuntu-解决语言设置错误的问题
 
 > 转载自: https://blog.wenzhixin.net.cn/2014/01/11/ubuntu_setting_locale_failed/
 

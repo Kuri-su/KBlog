@@ -1,5 +1,12 @@
-
-# 在 OpenWrt 下, 访问 二层网络下的服务器
++++
+date = "2021-03-08"
+title = "access the server under the second layer network in OpenWrt route system"
+slug = "access-the-server-under-the-second-layer-network-in-openwrt-route-system-nxb5t"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 > 基于 静态路由 
 

@@ -1,4 +1,12 @@
-
++++
+date = "2018-12-14"
+title = "记录安装 laravel/installer"
+slug = "laravelinstaller-myeo3"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 ```shell
 $ composer global require "laravel/installer"

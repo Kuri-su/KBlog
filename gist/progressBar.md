@@ -1,3 +1,12 @@
++++
+date = "2018-07-30"
+title = "在命令行上输出进度条"
+slug = "5ev18"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 今天在 Laravel-china 看到一个帖子[link](https://laravel-china.org/articles/14927/php-implementation-of-terminal-progress-bar) ,然后自己以前就想过要做这种效果，就了解了下
 

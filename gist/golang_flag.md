@@ -1,3 +1,12 @@
++++
+date = "2019-08-26"
+title = "Golang flag usage 自定义"
+slug = "golang-flag-usage-erpxr"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "直接进入正题, golang 编译的二进制文件的 help 输出实质上 是调用的 flag.Usage() 方法, 而该方法是一个变量, 接受一个闭包, 源码如下"
++++
 
 直接进入正题, golang 编译的二进制文件的 help 输出实质上 是调用的 flag.Usage() 方法, 而该方法是一个变量, 接受一个闭包, 源码如下
 ```go

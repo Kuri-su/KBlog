@@ -1,3 +1,12 @@
++++
+date = "2019-10-18"
+title = "Git use ssh protocal with proxy in Ubuntu"
+slug = "git-use-ssh-protocal-with-proxy-in-ubuntu-6cv0p"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "关于 Git 使用 Proxy , 网上很多教程讲的都是 如何设置 Http 下 Git 使用 Proxy , 但是并没有提到 SSH 下如何使用 Proxy . 即便有些文章讲到了, 也有不少是 Windows 平台下的, Linux 平台下的很少提及, 所以这里就记录一下, 如何在 Ubuntu 中, 使用 Git 在 SSH 协议下应用代理."
++++
 
 关于 Git 使用 Proxy , 网上很多教程讲的都是 如何设置 Http 下 Git 使用 Proxy , 但是并没有提到 SSH 下如何使用 Proxy . 即便有些文章讲到了, 也有不少是 Windows 平台下的, Linux 平台下的很少提及, 所以这里就记录一下, 如何在 Ubuntu 中, 使用 Git 在 SSH 协议下应用代理.
 

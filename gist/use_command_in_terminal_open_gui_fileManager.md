@@ -1,3 +1,12 @@
++++
+date = "2019-08-18"
+title = "在 Ubuntu 终端下, 使用命令打开图形化文件管理"
+slug = "ubuntu-urkwn"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 ```bash
 # 打开文件夹 

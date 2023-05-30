@@ -1,3 +1,13 @@
++++
+date = "2019-11-08"
+title = "nginxconfig.io"
+slug = "nginxconfigio-ih0v9"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
+
 
 ## What 
 

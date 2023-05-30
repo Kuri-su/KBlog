@@ -1,3 +1,12 @@
++++
+date = "2019-11-30"
+title = "Typora"
+slug = "typera-be1jm"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 ## Install
 

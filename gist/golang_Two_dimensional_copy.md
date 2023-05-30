@@ -1,3 +1,12 @@
++++
+date = "2019-06-16"
+title = "Golang 二维 Slice 深拷贝"
+slug = "golang-slice-y9rdx"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "今天 leetcode 周赛, 一道 dfs 活生生的跪在了 slice 的机制上..."
++++
 
 今天 leetcode 周赛, 一道 dfs 活生生的跪在了 slice 的机制上... 因为 slice 是引用类型, 所以函数间对 slice 的修改都会落到同一个数组上... 导致得不到预期的结果.
 

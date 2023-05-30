@@ -1,3 +1,12 @@
++++
+date = "2019-07-17"
+title = "Ubuntu Proxy 设置简略指北"
+slug = "ubuntu-proxy-lojdq"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 本文以 Ubuntu 为基础, 分别说明 `Terminal 模式` 和 `图形化界面下的 Chrome/Firefox` , 设置代理的方法
 

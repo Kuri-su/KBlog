@@ -1,5 +1,13 @@
-
-![ex](https://zlib.net/pigz/pigz-logo.png)
++++
+date = "2019-11-04"
+title = "Pigz"
+slug = "pigz-hwu0f"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
+headImgUrl = "https://zlib.net/pigz/pigz-logo.png"
++++
 
 ## Install 
 

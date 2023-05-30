@@ -1,7 +1,12 @@
-
-# Opentracing note
-
-[TOC]
++++
+date = "2021-03-22"
+title = "Opentracing note"
+slug = "opentracing-note-1efoz"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 Opentracing 是在分布式追踪的一个通用标准, 提供一系列 平台/厂商/具体实现 无关的 Api, 使得开发人员能够方便的添加和切换 Tracing 系统的实现.
 

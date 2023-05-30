@@ -1,5 +1,12 @@
-
-# Linux 下 IDEA 2019.3 以后版本无法唤出输入法
++++
+date = "2019-12-20"
+title = "Linux 下 IDEA 2019.3 以后版本无法唤出中文输入法解决方案"
+slug = "linux-idea-20193-do12q"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 我的版本是 Ubuntu 19.10 / IDEA 2019.3.1
 

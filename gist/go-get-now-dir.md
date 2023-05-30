@@ -1,5 +1,12 @@
-
-# golang 获取当前目录
++++
+date = "2019-04-14"
+title = "golang 获取当前目录"
+slug = "goalng-xqxqp"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "golang 获取当前目录"
++++
 
 ```go
 path,_:=os.Getwd()

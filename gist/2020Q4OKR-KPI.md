@@ -1,5 +1,12 @@
-
-[TOC]
++++
+date = "2020-10-04"
+title = "2020 Q4 OKR and KPI (myself)"
+slug = "2020-q4-okr-and-kpi-myself-zs3hw"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "每周的活动也是有行动点数的 : )"
++++
 
 > 每周的活动也是有行动点数的 : )
 >

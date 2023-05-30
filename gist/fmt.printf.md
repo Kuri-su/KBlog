@@ -1,3 +1,13 @@
++++
+date = "2019-02-16"
+title = "golang fmt.printf 参数笔记"
+slug = "golang-fmtprintf-unswf"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "在学校学C的时候的那些基本忘光了。。"
++++
+
 
 
 > 在学校学C的时候的那些基本忘光了。。

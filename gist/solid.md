@@ -1,3 +1,12 @@
++++
+date = "2018-07-30"
+title = "面向对象 S.O.L.I.D 基本原则"
+slug = "solid-shnrb"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 * S 单一职责原则 (Single-Resposibility Principle)
 * O 开放封闭原则 (Open-Closed Principle)

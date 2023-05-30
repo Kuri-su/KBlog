@@ -1,3 +1,12 @@
++++
+date = "2019-12-08"
+title = "Ranger"
+slug = "ranger-74auz"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 ![](https://camo.githubusercontent.com/92ea356bac374f6c662f3046cf061c501a049cf9/68747470733a2f2f72616e6765722e6769746875622e696f2f72616e6765725f6c6f676f2e706e67)
 

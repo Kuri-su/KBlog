@@ -1,7 +1,13 @@
++++
+date = "2020-09-06"
+title = "features of golang 1.15"
+slug = "features-of-golang-115-7ciby"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "这次 Go 1.15 的版本升级没有带来太多的改变, 保持了对 Go 1 的兼容性. Feature 主要集中在 `Go Runtime` 以及 `编译器` 和 `连接器` 上, 对于发行平台方面, 我们只关注 Linux Amd64 的更改 . 下面对修改点一一列举"
++++
 
-
-
-[TOC]
 
 这次 Go 1.15 的版本升级没有带来太多的改变, 保持了对 Go 1 的兼容性. Feature 主要集中在 `Go Runtime` 以及 `编译器` 和 `连接器` 上, 对于发行平台方面, 我们只关注 Linux Amd64 的更改 . 下面对修改点一一列举
 

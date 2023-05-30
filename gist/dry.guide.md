@@ -1,5 +1,12 @@
-
-# Dry
++++
+date = "2019-12-18"
+title = "Dry"
+slug = "dry-qp8hs"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "dry"
++++
 
 ## Install
 

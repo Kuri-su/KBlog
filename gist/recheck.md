@@ -1,3 +1,12 @@
++++
+date = "2020-10-09"
+title = "8 Days Holiday recheck At 2020-10"
+slug = "8-days-holiday-recheck-at-2020-10-e4fiw"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 ## 状况概述
 

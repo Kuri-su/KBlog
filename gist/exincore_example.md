@@ -1,3 +1,12 @@
++++
+date = "2019-02-27"
+title = "ExinCore 使用简明教程 (php)"
+slug = "exincore-php-cmui8"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "ExinCore 使用简明教程"
++++
 
 # ExinCore 使用简明教程 (php)
 

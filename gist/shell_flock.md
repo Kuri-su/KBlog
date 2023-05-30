@@ -1,5 +1,12 @@
-
-[TOC]
++++
+date = "2019-09-29"
+title = "shell flock 设置文件锁"
+slug = "shell-flock-cgykt"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 在 Linux 中的两条进程同时编辑文件产生并发冲突时, 我们第一反应就会想到使用 ` 锁 ` 来解决这个问题, 这里就介绍 `flock`,
 

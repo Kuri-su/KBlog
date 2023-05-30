@@ -1,3 +1,12 @@
++++
+date = "2019-08-28"
+title = "如何优雅的体验 golang 的新版本"
+slug = "golang-qduw9"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 > ref:
 >

@@ -1,5 +1,12 @@
-
-# composer/satis 极速搭建 Composer 私有源
++++
+date = "2018-07-23"
+title = "composer/satis 配置文件介绍"
+slug = "composersatis-ca7qi"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 ## 前置操作(satis安装)
 
 ```bash

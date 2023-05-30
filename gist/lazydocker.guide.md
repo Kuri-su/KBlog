@@ -1,5 +1,12 @@
-
-# LazyDocker
++++
+date = "2020-07-23"
+title = "Lazydocker"
+slug = "lazydocker-chqdq"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 https://github.com/jesseduffield/lazydocker
 

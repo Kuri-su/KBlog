@@ -1,3 +1,13 @@
++++
+date = "2021-04-24"
+title = "Proj EMT 复盘"
+slug = "proj-emt-qc75y"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "这是一个受朋友拜托的项目，希望以外包的形式为他们从零构建一个 自治系统的 Framework，由于朋友也在创业的艰难时期，难以拒绝，遂接受在之后用业务时间为他完成这个 Framework，并支付一定薪水。"
++++
+
 
 ## 缘起
 

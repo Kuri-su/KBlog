@@ -1,3 +1,13 @@
++++
+date = "2020-10-11"
+title = "《OKR 工作法》 阅读笔记 (中信出版社)"
+slug = "okr-3qhc8"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
+
 
 ![](https://raw.githubusercontent.com/Kurisu-public/img/master/readingNoteMindMap/%E3%80%8AOKR%E5%B7%A5%E4%BD%9C%E6%B3%95%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0%20%5B%E4%B8%AD%E4%BF%A1%E5%87%BA%E7%89%88%E7%A4%BE%5D.png)
 

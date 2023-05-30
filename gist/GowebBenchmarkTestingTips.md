@@ -1,4 +1,12 @@
-
++++
+date = "2020-08-14"
+title = "Goweb Benchmark Testing Tips"
+slug = "goweb-stress-testing-tips-u2xxa"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "这篇文章讨论范围仅限于 `Golang webApp` 单服务压测, 而不涉及链路压测等场景"
++++
 > 这篇文章讨论范围仅限于 `Golang webApp` 单服务压测, 而不涉及链路压测等场景
 
 ## 压测的目的

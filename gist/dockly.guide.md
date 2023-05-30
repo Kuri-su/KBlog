@@ -1,5 +1,13 @@
++++
+date = "2019-12-19"
+title = "Dockly"
+slug = "dockly-buuqs"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "一个可以用于终端操作的 Docker Dashboard, 使用 Node.js 编写, 可以完成基本的 container 管理工作,"
++++
 
-# Dockly
 
 ## Install
 

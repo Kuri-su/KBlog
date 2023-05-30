@@ -1,5 +1,12 @@
-
-# Mysql 常用函数列举 
++++
+date = "2019-05-02"
+title = "Mysql_常用函数列举"
+slug = "mysql-b1mc7"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 主要有以下几类函数 
 

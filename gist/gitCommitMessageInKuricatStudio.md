@@ -1,7 +1,13 @@
++++
+date = "2020-11-16"
+title = "Git commit message in Kuricat studio"
+slug = "git-commit-message-in-kuricat-studio-upmqp"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "这个规范仅仅做最简单的约束, 不会提及任何 lint 或者 第三方工具, 心情不好的时候根本不想理那些复杂的 Git Commit Message 规范, 尽量还是把注意力放在关键的地方."
++++
 
-# Git commit message in Kuricat studio
-
-[TOC]
 
 此前有一篇 [丢到垃圾桶的文章](https://github.com/Kuri-su/KBlog/blob/master/articles/trash/changlog_and_commit_message.md) 参考 Google 上搜的到的 `Git Commit Message 规范` 做了个总结, 但在 实践接近三年后, 笔者发现自己能够记住的只有 `feat`&& `fix`&&`docs` 这三个提交类型, 于是乎决定 明确 在 `Kuricat stuidio` 用的 Git Commit Message 规范, 这套规范后续或许将有所发展. 
 

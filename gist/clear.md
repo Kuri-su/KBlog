@@ -1,3 +1,12 @@
++++
+date = "2019-03-26"
+title = "golang-cli-清屏	"
+slug = "goalng-cli-sfk7e"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "最初按自己想的,应该这样就可以了"
++++
 
 最初按自己想的,应该这样就可以了
 ```go

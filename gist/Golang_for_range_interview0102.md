@@ -1,4 +1,12 @@
-
++++
+date = "2019-06-09"
+title = "关于 Golang for range 的一道面试题"
+slug = "golang-for-range-y6mtl"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "题目大概是这样子, 挺短的题目, 问输出是什么"
++++
 题目大概是这样子, 挺短的题目, 问输出是什么
 
 ```go

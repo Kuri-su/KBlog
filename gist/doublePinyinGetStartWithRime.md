@@ -1,3 +1,12 @@
++++
+date = "2020-09-19"
+title = "double pinyin get start with rime"
+slug = "double-pinyin-get-start-with-rime-jtvxr"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "双拼是汉语拼音输入法的一种编码方案。相对于全拼而言，使用双拼输入汉字时只需输入一个代表声母的字母，一个代表韵母的字母，就可以打出任意一个中文单字了。"
++++
 
 [TOC]
 

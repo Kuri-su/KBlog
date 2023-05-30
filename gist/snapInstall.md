@@ -1,3 +1,13 @@
++++
+date = "2019-03-12"
+title = "snap install too slow"
+slug = "snap-install-too-slow-zmbjy"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
+
 
 > 过去的做法：  
 > 1. ~~前往 <https://uappexplorer.com/snaps> 搜索需要的 snap 包， 例如 `RedisDesktopManager`~~

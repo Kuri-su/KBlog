@@ -1,3 +1,12 @@
++++
+date = "2019-05-05"
+title = "Ubuntu_方便的设置开机启动(crontab @reboot)"
+slug = "ubuntu-crontab-at-reboot-6vysk"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "在 Ubuntu 上设置开机启动有很多种方式,虽然早年的 rc.local 的方式在 ubuntu 使用 systemd 后已经无法简单的使用,但是还是有一大堆人在回到过去. 我觉得这样没有必要. 然后发现了一种简单的方法."
++++
 
 在 Ubuntu 上设置开机启动有很多种方式,虽然早年的 rc.local 的方式在 ubuntu 使用 systemd 后已经无法简单的使用,但是还是有一大堆人在回到过去. 我觉得这样没有必要. 然后发现了一种简单的方法.
 

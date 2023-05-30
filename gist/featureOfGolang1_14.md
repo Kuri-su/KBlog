@@ -1,5 +1,12 @@
-
-[TOC]
++++
+date = "2020-06-11"
+title = "features of golang 1.14"
+slug = "features-of-golang-114-rjmol"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "这次 Go 1.14 的版本升级没有带来太多的改变, 主要是保持 Go 1 的兼容性, 不过 令人兴奋的改动也是有的, "
++++
 
 这次 Go 1.14 的版本升级没有带来太多的改变, 主要是保持 Go 1 的兼容性, 不过 令人兴奋的改动也是有的, 
 

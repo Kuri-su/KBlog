@@ -1,3 +1,12 @@
++++
+date = "2019-11-04"
+title = "hirak/prestissimo"
+slug = "hirakprestissimo-xexco"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "hirak/prestissimo"
++++
 
 
 ## Install

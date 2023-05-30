@@ -1,3 +1,13 @@
++++
+date = "2019-09-10"
+title = "Ubuntu 上使用 Devstack 安装 Openstack"
+slug = "ubuntu-devstack-openstack-gtubc"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "在献祭了四个晚上之后, 终于在 ubuntu 上用 devstack 成功安装 openstack, 那么请问成功的秘诀是什么, 成功的秘诀就是, 别看 CSXN 上的那些教程, 一顿操作猛如虎, 最后完全安装不上."
++++
+
 
 在献祭了四个晚上之后, 终于在 ubuntu 上用 devstack 成功安装 openstack, 那么请问成功的秘诀是什么, 成功的秘诀就是, 别看 CSXN 上的那些教程, 一顿操作猛如虎, 最后完全安装不上. 一个 local.conf 文件几百行, 结果最后 几行的 local.conf 更加顶用, 另外千万别设置国内的 git 镜像, 虽然拉的慢, 但是能跑! 也不要拉那些很老的稳定分支, 直接拉 master 即可.
 

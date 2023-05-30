@@ -1,5 +1,12 @@
-
-# Container/ring
++++
+date = "2019-05-25"
+title = "Container/ring-golang"
+slug = "containerring-golang-lhwx8"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 > 环状双向链表 (无哨兵)
 

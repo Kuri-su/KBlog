@@ -1,7 +1,12 @@
-
-# Grafana GetStart
-
-[TOC]
++++
+date = "2020-10-01"
+title = "grafana get start"
+slug = "grafana-get-start-ix7r5"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "Grafana 是一个  数据可视化工具,  使用 Javascript + Go 编写 前后端, 支持 将 多种监控方案的 数据库作为数据源, 读取并展示 报表"
++++
 
 
 ## 简介

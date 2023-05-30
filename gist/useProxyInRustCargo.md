@@ -1,3 +1,12 @@
++++
+date = "2020-08-02"
+title = "use Proxy In Rust Cargo"
+slug = "use-proxy-in-rust-cargo-c45q6"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "Rust Cargo 使用 Proxy"
++++
 
 # Rust Cargo 使用 Proxy 
 

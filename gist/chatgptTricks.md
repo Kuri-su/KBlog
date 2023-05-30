@@ -1,4 +1,13 @@
-[TOC]
++++
+date = "2023-05-26"
+title = ""
+slug = ""
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+draft = true
+headline = ""
++++
 
 原文来自: https://www.amazon.com/Art-Asking-ChatGPT-High-Quality-Answers/dp/B0BT2JB67Y
 

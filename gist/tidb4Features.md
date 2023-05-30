@@ -1,5 +1,14 @@
++++
+date = "2020-06-11"
+title = "features of tidb 4.0"
+slug = "features-of-tidb-40-vwabf"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "每次升级不外乎 Bug 修复和 New Features, 由于 bug 修复方面如果不是 踩坑 或者 Contributor, 通常基本不会关心, 所以这里只提 New Features,
+"
++++
 
-[TOC]
 
 每次升级不外乎 Bug 修复和 New Features, 由于 bug 修复方面如果不是 踩坑 或者 Contributor, 通常基本不会关心, 所以这里只提 New Features, 
 

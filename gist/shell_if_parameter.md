@@ -1,3 +1,12 @@
++++
+date = "2019-09-09"
+title = "Shell if 参数笔记"
+slug = "shell-if-phciv"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 文件:
 

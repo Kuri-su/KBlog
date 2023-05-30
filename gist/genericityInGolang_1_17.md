@@ -1,7 +1,12 @@
-
-# Genericity in Golang 1.17
-
-[TOC]
++++
+date = "2021-08-21"
+title = "The difference between genericity in Golang 1.17 and genericity in others PL"
+slug = "the-difference-between-genericity-in-golang-117-and-genericity-in-others-pl-lilc6"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "泛型编程(`Generic Programing`)是 程序设计语言 的一种风格 或者 范式, 允许开发者在 `强类型语言` 中 编写一些 运行时才决定的类型. 这将提升在 强类型语言 中 代码的灵活度, 并让开发者写出更加简洁的代码."
++++
 
 泛型编程(`Generic Programing`)是 程序设计语言 的一种风格 或者 范式, 允许开发者在 `强类型语言` 中 编写一些 运行时才决定的类型. 这将提升在 强类型语言 中 代码的灵活度, 并让开发者写出更加简洁的代码. 各个语言中都有各种对 泛型  的支持 : 
 

@@ -1,3 +1,12 @@
++++
+date = "2019-03-09"
+title = "oh-my-zsh 自带 git alias 一览"
+slug = "oh-my-zsh-git-alias-h5t8x"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 # \#
 

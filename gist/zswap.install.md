@@ -1,3 +1,12 @@
++++
+date = "2020-08-20"
+title = "zswap install"
+slug = "zswap-install-2zs4z"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 ## Ubuntu
 ```shell

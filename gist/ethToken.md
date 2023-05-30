@@ -1,3 +1,12 @@
++++
+date = "2019-01-12"
+title = "Ethereum 发币"
+slug = "ethereum-ehx8b"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "Ethereum 发币"
++++
 
 ### 前置准备
 

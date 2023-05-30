@@ -1,3 +1,12 @@
++++
+date = "2019-09-11"
+title = "use sed regex change camel-case to underline"
+slug = "use-sed-regex-change-camel-case-to-underline-dy7bl"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 驼峰转下划线(大小驼峰都适用)
 

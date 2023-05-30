@@ -1,5 +1,12 @@
-
-# Container/list (容器 / 列表)
++++
+date = "2019-05-24"
+title = "Container/list-golang"
+slug = "containerlist-golang-zeux0"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "链表实现的双向链表"
++++
 
 > 链表实现的双向链表
 

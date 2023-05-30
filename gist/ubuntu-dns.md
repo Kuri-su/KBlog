@@ -1,3 +1,12 @@
++++
+date = "2019-05-31"
+title = "Ubuntu-Change-DNS (19.04)"
+slug = "ubuntu-change-dns-1904-rhzh2"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = ""
++++
 
 首先, 修改 `/etc/resolv.conf` 是没有用的, 因为 Ubuntu 上有 systemd-resolvd 服务, 所以要么直接关掉这个服务, 然后去修改 `/etc/resolv.conf` 添加上 DNS 服务器的地址
 

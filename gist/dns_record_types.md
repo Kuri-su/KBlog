@@ -1,3 +1,12 @@
++++
+date = "2019-07-08"
+title = "DNS 常见记录类型"
+slug = "dns-u8eui"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "DNS 常见记录类型"
++++
 
 |recordType|function|desction
 |-|-|-|

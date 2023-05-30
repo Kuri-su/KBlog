@@ -1,3 +1,13 @@
++++
+date = "2019-12-04"
+title = "use `dd` command make USB boot disk in linux"
+slug = "use-dd-command-make-usb-boot-disk-in-linux-zmng7"
+categories = [ "gist" ]
+tags = [ "gist" ]
+katex = false
+headline = "use `dd` command make USB boot disk in linux"
++++
+
 
 ```shell
 # 确认 U 盘 的路径
