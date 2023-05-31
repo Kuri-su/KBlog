@@ -2,7 +2,7 @@
 
 # Terminal Control Sequences 终端控制转义序列
 
-Author: Amatist Kurisu
+Author: Kurisu Amatist
 
 ## 前言
 
@@ -267,4 +267,4 @@ CSI u | RCP – 恢复光标位置（Restore Cursor Position） | 恢复保存�
 1. [console_codes (4) - Linux Man Pages](https://www.systutorials.com/docs/linux/man/4-console_codes/)
 1. [ISO/IEC 2022](https://zh.wikipedia.org/wiki/ISO/IEC_2022)
 
-Author: Amatist Kurisu
+Author: Kurisu Amatist

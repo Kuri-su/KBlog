@@ -62,7 +62,7 @@ MIT 许可许可 来自 麻省理工学院, 与 GPL 兼容, 可以与 GPL 作品
 ```
 MIT License
 
-Copyright (c) 2019 Amatist_Kurisu
+Copyright (c) 2019 Kurisu_Amatist
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
