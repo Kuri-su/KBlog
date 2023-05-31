@@ -294,3 +294,35 @@
            * → If only I **had listened** to my parents at that time.
 
 * → They were taking a badly damaged boat <u>from the Virgin lslands to Miami</u> **to have it repaired.**
+
+  * 从某地到某地的表达
+    * **from A to B**
+    * **out of A towards B**
+    * **for B from A**
+  * 从某个时间到某个时间的表达
+    * **from A to B**
+      * → The store is open **from** Monday **to** Saturday.
+    * **from A <u>until</u>/<u>till</u> B**
+      * → The store is open **from** Monday **until** /**till** Saturday.
+    * **A through B**
+      * → The store is open Monday **through** Saturday.
+
+* begin to do 表示客观发生的现象
+
+  * begin doing 多表示人主动的行为的发生事情
+
+* → They quickly **<u>loaded</u>** a small rubber dinghy **<u>with</u>** food, matches, and cans of beer <u>and</u> rowed for a few miles <u>across the Caribbean</u> **until they arrived at a tiny coral island .**
+
+  * dinghy n. 皮筏, 充气的救生艇
+  * Load B with A 是固定搭配, 给...里面装上什么东西
+    * load A into B , 把 A 往 B 里装, 
+    * B 和 A 哪个长放后面, 哪个短放前面
+    * → He is **loading** groceries **into** his car.
+    * → He is **loading** his car **with** groceries.
+    * **be loaded with ...**
+      * → (NCE3-28 P134-L1) Small boats **loaded with wares** sped to the great liner as she was entering the harbour.
+        * ware n. 器皿, 大宗商品
+  * match n. 火柴
+  * can n. 罐头, 罐装的, 易拉罐
+  * → Learning is like **rowing** upstream: not to <u>advance</u> is to drop back. 学如逆水行舟, 不进则退
+    * advance n./v. 前进, 促进, 提高
