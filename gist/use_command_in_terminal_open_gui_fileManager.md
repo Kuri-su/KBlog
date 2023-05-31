@@ -8,7 +8,7 @@ katex = false
 headline = ""
 +++
 
-```bash
+```shell
 # 打开文件夹 
 nautilus /var
 
