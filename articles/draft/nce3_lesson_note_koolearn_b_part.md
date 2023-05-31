@@ -326,3 +326,7 @@
   * can n. 罐头, 罐装的, 易拉罐
   * → Learning is like **rowing** upstream: not to <u>advance</u> is to drop back. 学如逆水行舟, 不进则退
     * advance n./v. 前进, 促进, 提高
+
+* prove (to be) + adj./n.  被证明是.... (固定搭配)
+
+  * → (NCE3-P74-L9) The search **proved difficult**, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.
