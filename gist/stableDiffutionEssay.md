@@ -22,7 +22,11 @@ headline = "受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾
 
 基础偏先跳过
 
-## 有奇效的 Prompt 词
+## prompt
+
+### tricks
+
+### 有专门效果的 prompt
 
 ## Webui extension
 
