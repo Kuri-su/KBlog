@@ -38,3 +38,5 @@ headline = "受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾
 
 * https://note.com/redraw_0/n/n376379d66cc7#78979d8b-35bf-4f6a-a27e-84691cd13231
 * https://kurokumasoft.com/2023/03/25/glossary-of-img-generation-ai/
+* https://stable-diffusion-art.com/video-to-video/ // TODO
+* https://stable-diffusion-art.com/ // TODO
