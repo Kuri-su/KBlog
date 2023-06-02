@@ -1,9 +1,9 @@
 +++
 date = "2023-06-01"
-title = "Alpaca reappear"
-slug = "alpaca_reappear"
+title = "Alpaca replicate"
+slug = "alpaca_replicate"
 categories = [ "tech","ai" ]
-tags = [ "alpaca","fineTuringReappear", "ai" ]
+tags = [ "alpaca","fineTuringReplicate", "ai" ]
 katex = false
 headline = ""
 headImgUrl = ""
