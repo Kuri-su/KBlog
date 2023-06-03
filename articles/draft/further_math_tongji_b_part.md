@@ -244,20 +244,29 @@
   * $\therefore lim_{x\to a}f(x)=f(a)=0, lim_{x\to a}F(x)=F(a)=0$
   * $\therefore f(x), F(x) 在 x=a 的 邻域 内 连续$
   * $f(x), F(x) 在 x=a 的 去心邻域内可导, 且 F'(x)\ne 0$
+  * $\therefore \frac{f(x)}{F(x)}=\frac{f(x)-f(a)}{F(x)-F(a)}=\frac{f'(\xi)}{F'(\xi)} (\xi 介于 a 与 x 之间)$
+  * $lim_{x\to a} \frac{f(x)}{F(x)}=lim_{x\to a}\frac{f'(\xi)}{F'(\xi)}=lim_{\xi\to a}\frac{f'(\xi)}{F'(\xi)}=A$
 
-![image-20230412182820288](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182820288.png)
+* 再次详细解释证明过程
 
-![image-20230412182852599](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182852599.png)
+  * $1^\circ $
+    * $ 令 f(a)=0, F(a)=0$
+    * $\Rightarrow f(x)\cdot F(x) 在 x=a 连续$
+    * $\Rightarrow f(x)\cdot F(x) 在 x=a 邻域 内 连续$
 
-![image-20230412182751196](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182751196.png)
+  * $2^\circ$
+    * $f(x)\cdot F(x) 在 x=a 去心邻域 内可导$
 
-再次详细解释证明过程
+  * $3^\circ$
+    * $F'(x)\ne 0$
+    * 由 $ Canchy, \frac{f(x)}{F(x)}=\frac{f(x)-f(a)}{F(x)-F(a)}=\frac{f'(\xi)}{F'(\xi)} (\xi 介于 a 与 x 之间)$
+    * $lim_{x\to a}\frac{f(x)}{F(x)}=lim_{x\to a}\frac{f'(\xi)}{F'(\xi)}=lim_{\xi\to a}\frac{f'(\xi)}{F'(\xi)}=A$
 
-![image-20230412183041192](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183041192.png)
-
-![image-20230412183057872](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183057872.png)
-
-![image-20230412183111442](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183111442.png)
+* 例子
+  * 1
+    * $lim_{x\to0}\frac{x-sinx}{x^3}$
+    * 解: 
+      * 
 
 ![image-20230412183124918](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183124918.png)
 
