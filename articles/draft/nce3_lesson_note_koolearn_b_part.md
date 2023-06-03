@@ -329,4 +329,70 @@
 
 * prove (to be) + adj./n.  被证明是.... (固定搭配)
 
-  * → (NCE3-P74-L9) The search **proved difficult**, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.
+  * → (NCE3-1 P74-L9) The search **proved difficult**, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.
+  * → (NCE3-16 P74-L8) He knew it would not **prove difficult** in such a small village.
+  * → (NCE2-77 P358-L6) The operation, which lasted for over four hours, **proved to be very difficult** because of the hard resin which covered the skin.
+
+* plenty n. 丰富的
+
+* fresh water 淡水
+
+  * salt water 海水, 盐水
+
+* → These two pieces of equipment proved (to be) essential to their survival. 这两项设备对他们的生存是至关重要的.
+
+* → They caught lobster and fish every day, <u>and</u>, **as one of them put it** 'ate like kings' .
+
+  * lobster n. 龙虾 (单复数同行)
+
+  * **put it** = **express it** 措辞说
+
+    * → I don't know how to **put it**
+
+    * **to put it another way**  换句话说
+
+      * → It's fairly risky. Or **to put it another way**, don't try this at home.
+        * fairly adv. 颇为, 相当地 / 公正地
+
+    * **Let me put it this way** 让我这么说吧
+
+    * 听力题
+
+      * W: You had Professor Johnson before, right? How would you describe his lectures? M: Well, let me put it this way: I could never stay awake in one of his classes without first drinking at least two cups of coffee.
+
+        Q: What does the man imply?
+
+      * lectures n. 大学里的授课, 演讲；讲座；课程
+
+      * awake adj. 醒着的, 警觉的, v. 醒着
+
+* → **When a passing tanker rescued them five days later**, both men were genuinely sorry **<u>that they had to leave. (形容词补足语)</u>**
+
+  * sorry adj. 遗憾的, 难过的
+    * genuinely adv. 由衷地
+      * 同义词
+        * sincerely adv. 真诚地, 真心地
+        * from the bottom of their hearts 由衷地, 发自心底的
+    * 同义词
+      * regretful adj. 遗憾的, 后悔的
+        * regret v. 遗憾
+          * 使用 regret 改写上面的句子
+            * → Both men genuinely **<u>regretted</u>** **that they had to leave**
+            * → Both men genuinely **<u>regretted</u>** **having to leave**. (regret + doing)
+          * **regret to say ...** 
+          * **regret to tell you ...**
+          * **regret inform you ...**
+
+## L13 'It's only me'
+
+**### words**
+
+
+
+**### text 1**
+
+
+
+**### text 2**
+
+## L14
