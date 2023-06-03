@@ -238,9 +238,12 @@
       * $f(x)=\begin{cases} \frac{x^2-1}{x-1}& x\ne1 \\ 10 & x=1 \end{cases} $
       * $lim_{x\to1}f(x)=lim_{x\to1}\frac{x^2-1}{x-1}=lim_{x\to1}(x+1)$
 * 证明: 
-  * 
-
-![image-20230412182726139](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182726139.png)
+  * (令 $f(a)=0, F(a)=0$)
+  * $\because lim_{x\to a}f(x), lim_{x\to a}F(x) 与 f(a), F(a) 无关$
+  * $\therefore f(a)=0, F(a)=0$
+  * $\therefore lim_{x\to a}f(x)=f(a)=0, lim_{x\to a}F(x)=F(a)=0$
+  * $\therefore f(x), F(x) 在 x=a 的 邻域 内 连续$
+  * $f(x), F(x) 在 x=a 的 去心邻域内可导, 且 F'(x)\ne 0$
 
 ![image-20230412182820288](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412182820288.png)
 
