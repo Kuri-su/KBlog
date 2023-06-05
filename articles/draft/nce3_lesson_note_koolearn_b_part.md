@@ -393,8 +393,87 @@
       * screen n. 屏幕
   * historical **costume** 古装
   * traditional national **costume** 传统民族服饰
+  * 表示衣服的词
+    * **overalls(英式) / coveralls (美式)** 蓝领工人穿的工作服, 工装裤  
+    * **uniform** 制服
+      * school **uniform** 校服
+      * military **uniform**  军装
+    * wear 为后缀的 名词
+      * wear v. 穿着, n. 服装, 磨损
+      * 通常 wear 为后缀的 表示衣服的词通常不可数
+    * **sportswear** n. 运动服 (不可数)
+    * **under<u>wear</u>** n. 内衣 (不可数)
+    * **leisure wear** n. 休闲装
+    * **rags** n. 乞丐服, 破布, 破旧衣服
+    * **shroud** n. 寿衣, 裹尸布
+* consist /kənˈsɪst/ v. 由.... 组成
+  * **consist of ...** 由..组成 (常用搭配)
+  * 同义词 (**被动**)
+    * **be composed of ...** 由 ... 组成
+    * **be made up of ... ** 由 .. 组成
+    * **comprise ... ** 由 ... 组成
+  * 主语是整体, 宾语是组成的成分
+  * 例句
+    * → The committee 
+      * **consists of** 100 members.
+      * **is composed of** 100 members.
+      * **is made up of**  100 members.
+      * **comprises**  100 members.
+  * 同义词2 - 组成了什么 (**主动**)
+    * **comprise** v. 组成了什么, 由什么组成 (皆可)
+    * **make up** v. 组成了什么
+    * **compose** v. 组成
+    * **constitute**  v. 组成, 构成, 制定
+  * 例句
+    * → One hundred members 
+      * **comprise** the committee.
+      * **make up**  the committee.
+      * **compose**  the committee.
+      * **constitute ** the committee.
 
-
+* metre(英) / meter(美) /ˈmiːtər/ n. 仪表
+  * an electricity **meter** 电表
+  * a water **meter** 水表
+  * a gas **meter** 煤气表
+  * **read the water meter** 查水表
+    * 查不用 check, check 有检修, 坏了要检查的意思
+  * meter 做字缀
+    * thermo**meter** n. 温度表
+    * baro**meter** n. 气压计
+    * <u>odo**meter**</u>/<u>milo**meter**</u> n. 里程表
+    * speedo**meter** n. 速度表
+      * 口语读成 speedo 
+* **pace** /peɪs/ n. 一步, 步伐
+  * **step** 是 pace 完美同义词
+  * take one <u>**pace**</u>/**<u>step</u>** forward 向前迈了一步
+  * quicken one's **<u>pace</u>**/**<u>step</u>** 加快了某人的步伐
+  * pace n. 节奏, 速度 (派生义)
+    * 同义词 tempo n. (音乐或者运动) 节奏 , 乐曲的速度
+    * the **<u>pace</u>**/**<u>tempo</u>** of life 生活的节奏
+    * the fast **<u>pace</u>**/**<u>tempo</u>** of modern life 当代的快节奏的生活
+  * **stride** v. 迈出一大步, 跨越
+    * **make strides in ...**  在某方面取得了长足的进步
+      * → Medical science **has made <u>great strides in</u>** tackling infertility.
+        * tackling infertilify 不孕不育
+  * **leap** n./v. 纵身一跃, 跃过, 猛增
+    * → That's one small **step** for a man, one giant **leap** for mankind.  -- Neil Armstrong 
+    * **by leaps and bounds** : very quickly (习语搭配, 不要理解错了)
+      * bound v. 跳跃, (bind 的过去式)束缚, 限制 adj. 有义务的, 必然的, 
+      * M: Your little nephew is growing **by leaps and bounds.**
+      * W: Yes. He must be at least three feet tall already.
+      * Q:What do the speakers say about the woman's nephew?
+      * He's growing very quickly.
+* slam /slæm/ v. 砰地关上 n. 猛撞,
+  * → The door **slammed (shut).** 不及物动词
+  * → Don't **slam** the door. 及物动词
+  * 完美同义词 
+    * bang /bæŋ/ v. 使砰的一声响，猛撞；（名词）猛撞声，爆炸声
+      * → The door **banged** (shut).
+      * → Don't **bang** the door.
+      * → The door shut with a **slam**/**bang**.
+  * 听力题
+    * → The door **banged shut.**
+      * shut v. 关闭, 关上
 
 **### text 1**
 
