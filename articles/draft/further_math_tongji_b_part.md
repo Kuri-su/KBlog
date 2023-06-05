@@ -280,31 +280,58 @@
 
 #### $\frac{\infty}{\infty }$型
 
-
-
-![image-20230412183152824](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183152824.png)
-
-![image-20230412183210923](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183210923.png)
-
-![image-20230412183225236](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183225236.png)
-
-![image-20230412183237399](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183237399.png)
-
-![image-20230412183252315](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183252315.png)
-
-![image-20230412183318926](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183318926.png)
-
-![image-20230412183333195](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183333195.png)
-
-![image-20230412183349054](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183349054.png)
-
-![image-20230412183401531](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183401531.png)
-
-![image-20230412183420369](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183420369.png)
-
-![image-20230412183440995](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183440995.png)
+* 定理
+  *  ($\frac{\infty}{\infty}$) 若满足如下条件, 则 $lim_{x\to a}\frac{f(x)}{F(x)}=A$
+    1. $f(x), F(x) 在 x=a 的去心邻域内可导, 且 F'(x)\ne 0;$
+    2. $lim_{x\to a}f(x)=\infty, lim_{x\to a}F(x)=\infty$
+    3. $lim_{x\to a}\frac{f'(x)}{F(x)}=A$
+* 例子
+  * 1
+    * $lim_{x\to0^+}xlnx ,(0 * \infty型要转化)\Rightarrow \begin{cases} \frac{0}{0}; \\ \frac{\infty}{\infty}; \end {cases}$
+    * 解
+      * $lim_{x\to 0^+}x ln x = lim_{x\to 0^+}\frac{lnx}{\frac{1}{x}}$
+      * $=lim_{x\to 0^+}\frac{\frac{1}{x}}{-\frac{1}{x^2}}=lim_{x\to0^+}(-x)=0$
+  * 2
+    * $lim_{x\to 0 ^+}x^{sinx},  (0^0 型需要转化)\Rightarrow e^{ln}$
+    * 解: 
+      * $lim_{x\to0^+} x^{sinx} = e^{lim_{x\to0^+}sinx\cdot lnx}$
+      * $\because lim_{x\to 0^+} sinx\cdot lnx, (0 * \infty) \Rightarrow \begin{cases}\frac{0}{0} \\ \frac{\infty}{\infty} \end{cases}$
+      * $= lim_{x\to 0^+}\frac{lnx}{cscx} (\frac{\infty}{\infty})$
+      * $=lim_{x\to0^+}\frac{\frac{1}{x}}{-cscxcotx}=-lim_{x\to0^+}\frac{sinx\cdot tanx}{x}$
+      * $=-lim_{x\to0^+}\frac{x^2}{x}=0$
+      * $\therefore 原式 = e^0 =1$
+  * 3
+    * $lim_{x\to+\infty}\frac{lnx}{x^a} (a>0)$
+    * 解: 
+      * $lim_{x\to+\infty}\frac{lnx}{x^a}, (\frac{\infty}{\infty})$
+      * $=lim_{x\to+\infty}\frac{\frac{1}{x}}{ax^{a-1}}=\frac{1}{a}lim_{x\to+\infty}\frac{1}{x^a}=0$
+  * 4
+    * $lim_{x\to + \infty}\frac{x^3}{e^x}$
+    * 解
+      * $lim_{x\to+\infty} \frac{x^3}{e^x}, (\frac{\infty}{\infty})$
+      * $=lim_{x\to+\infty}\frac{3x^2}{e^x}=lim_{x\to+\infty}\frac{6x}{e^x}=lim_{x\to+\infty}\frac{6}{e^x}=0$
+* Notes:
+  1. $lim_{x\to + \infty} \frac{lnx}{x^a}=0, (a>0);$
+  2. $lim_{x\to+\infty}\frac{x^a}{b^x}=0, (a>0,b>1)$
+  3. $f(x)\to 0, F(x)\to 0, (x\to a)$
+     * 若 $lim_{x\to a}\frac{f'(x)}{F'(x)}不存在$
+     * 只能表明 <u>罗必达法则</u> 不能使用, 但 $lim_{x\to a}\frac{f(x)}{F(x)} 不一定不存在$
+     * 如: $f(x)=x+sinx, F(x)=x$
+       * $lim_{x\to0}f(x)=0, lim_{x\to 0}F(x)=0$
+       * 且 $lim_{x\to0} \frac{f'(x)}{F'(x)}=lim_{x\to0}(1+cosx) 不存在$
+       * $而 lim_{x\to 0}\frac{f(x)}{F(x)}=lim_{x\to0}(1+\frac{sinx}{x})=2$
+  4. $lim_{x\to a}f(x)=\infty, lim_{x\to a}F(x)=\infty$
+     * 若 $lim_{x\to a}\frac{f'(x)}{F'(x)}不存在$
+     * 只能表明 <u>罗必达法则</u> 不能使用, 但 $lim_{x\to a}\frac{f(x)}{F(x)} 不一定不存在$
+     * 如: $f(x)=2x+sinx, g(x)=x$
+       * $lim_{x\to \infty}f(x)=\infty, lim_{x\to \infty} g(x)=\infty$
+       * 且 $lim_{x\to\infty} \frac{f'(x)}{F'(x)}=lim_{x\to\infty}(2+cosx) 不存在$
+       * $而 lim_{x\to \infty}\frac{f(x)}{F(x)}=lim_{x\to\infty}(2+\frac{sinx}{x})=2$
 
 ### 第三节 泰勒公式 Taylor
+
+* 问题的提出: 
+  * Q1: $lim_{x\to0}\frac{e^{x^2}-cosx}{x^2}=lim_{x\to0}\frac{}{}$
 
 ![image-20230425152354682](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152354682.png)
 
