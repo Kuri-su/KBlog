@@ -331,21 +331,50 @@
 ### 第三节 泰勒公式 Taylor
 
 * 问题的提出: 
-  * Q1: $lim_{x\to0}\frac{e^{x^2}-cosx}{x^2}=lim_{x\to0}\frac{}{}$
-
-![image-20230425152354682](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152354682.png)
-
-![image-20230425152414209](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152414209.png)
+  * Q1
+    * $lim_{x\to0}\frac{e^{x^2}-cosx}{x^2}=lim_{x\to0}\frac{(e^{x^2}-1)+(1-cosx)}{x^2}$
+    * $\because e^{x^2}-1 ~ x^2, 1-cosx ~ \frac{x^2}{2}$
+    * $\therefore 原式 \stackrel{?}{=}lim_{x\to0}\frac{x^2+\frac{1}{2}x^2}{x^2}=\frac{3}{2}$
+  * Q2
+    * $lim_{x\to0}\frac{x-sinx}{x^3}\overset{?}{=} lim_{x\to0}\frac{x-x}{x^3}=0$
+    * $=lim_{x\to0}\frac{1-cosx}{3x^2}=\frac{1}{6}$
+  * Conjecture
+    *  $sinx\overset{?}{=}x+kx^3+o(x^3), 带入 结论是否正确?$
 
 >  在分数上下阶次相同的时候使用等价无穷小是相对安全的
 
-![image-20230425152445055](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152445055.png)
+* 思想: 
+  * $f(x) 在 x=x_0 邻域内 n+1 不可导$
+  * $找 P_n(x)=a_0+a_1(x-x_0)+a_2(x-x_0)^2+... + a_n(x-x_0)^n$
+  * 满足: 
+    * $P_n(x_0)=f(x_0)$
+      * $a_0=f(x_0)$
+    * $P_n'(x_0)=f'(x_0)$
+      * $a_1=f'(x_0)$
+    * $P_n''(x_0)=f''(x_0)$
+      * $a_2=\frac{f''(x_0)}{2!}$
+    * ...
+    * $P_n^{(n)}(x_0)=f^{(n)}(x_0)$
+      * $a_n=\frac{f^{(n)}(x_0)}{n!}$
+  * $P_n(x)=f(x_0)+f'(x_0)(x-x_0)+\frac{f''(x_0)}{2!}(x-x_0)^2+...+\frac{f^{(n)}x_0}{n!}(x-x_0)^n$
+  * $f(x)\approx P_n(x)$
+  * $f(x)-P_n(x)\triangleq R_n(x) \Rightarrow f(x)=P_n(x)+R_n(x)$
+    * $R_n(x) 表示余项$
+* 定理: (泰勒)
+  * 设 $f(x) 在 x=x_0 邻域内 n+1 不可导$, 则 $f(x)=P_n(x)+R_n(x)$
+  * 其中 $P_n(x)=f(x_0)+f'(x_0)(x-x_0)+\frac{f''(x_0)}{2!}(x-x_0)^2+...+ \frac{f^{(n)}(x_0)}{n!}(x-x_0)^n$
+    * $R_n(x)=\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1} (\xi 介于 x_0 与 x 之间)$
 
-![image-20230425152541110](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152541110.png)
+  * 证明: 
+    * $f(x_0)=P_n(x_0), f'(x_0)=P'_n(x_0), ... , f^{(n)}(x_0)=P_n^{(n)}(x_0)$
+    * 令 $R_n(x)=f(x)-P_n(x)$
+    * $R_n(x_0)=0, R_n'(x_0)=0,...., R^{(n)}_n(x_0)=0$
+    * $R_n^{(n+1)}(x)=f^{(n+1)}(x), 对 x_0 去心邻域内任一点 x$
+    * $\frac{R_n(x)}{(x-x_0)^{n+1}}=\frac{R_n(x)-R_n(x_0)}{(x-x_\Delta)^{n+1}-(x_\Delta-x_0)^{n+1}}=\frac{R_n'(\xi_1)}{(n+1)(\xi_1-x_0)^n} (\xi_1 在 x与 x_0 内)$
+    * $=\frac{R_n'(\xi_1)-R_n'(x_0)}{(n+1)(\xi_1-x_\Delta)^n-(n+1)(x_\Delta-x_0)^n}=\frac{R_n''(\xi_2)}{(n+1)n(\xi_2-x_0)^{n-1}} (\xi_2 在 x_0 与 \xi_1 内)$
+    * $=...$
+    * $=$
 
-![image-20230425152607372](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152607372.png)
-
-![image-20230425152633001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152633001.png)
 
 ![image-20230425152712674](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152712674.png)
 
