@@ -266,13 +266,21 @@
   * 1
     * $lim_{x\to0}\frac{x-sinx}{x^3}$
     * 解: 
-      * 
-
-![image-20230412183124918](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183124918.png)
-
-![image-20230412183138510](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183138510.png)
+      * $lim_{x\to 0}\frac{x-sinx}{x^3}=lim_{x\to 0}\frac{1-cosx}{3x^2}=\frac{1}{6}$
+  * 2
+    * $lim_{x\to 0} \frac{x-ln(1+x)}x^2{}$
+    * 解: 
+      * $lim_{x\to0}\frac{x-ln (1+x)}{x^2}=lim_{x\to 0}\frac{1-\frac{1}{1+x}}{2x}$
+      * $=\frac{1}{2}lim_{x\to 0}\frac{\frac{x}{1+x}}{x}=\frac{1}{2}lim_{x\to0}\frac{1}{1+x}=\frac{1}{2}$
+  * 3
+    * $lim_{x\to1}\frac{x^2-3x+2}{x^2-1}$
+    * 解: 
+      * 法一: $lim_{x\to1}\frac{x^2-3x+2}{x^2-1}=lim_{x\to 1}\frac{x-2}{x+1}=-\frac{1}{2}$ (因式分解)
+      * 法二: $lim_{x\to1}\frac{x^2-3x+2}{x^2-1}=lim_{x\to 1}\frac{2x-3}{2x}=-\frac{1}{2}$ (罗必达法则)
 
 #### $\frac{\infty}{\infty }$型
+
+
 
 ![image-20230412183152824](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230412183152824.png)
 

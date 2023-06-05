@@ -387,6 +387,13 @@
 
 **### words**
 
+* costume /ˈkɑːstjuːm/ n. 化妆服, 历史上某个时期穿的衣服
+  * → The movie won Oscars for best **costumes** and best screenplay.
+    * screenplay n. 剧本, 电影剧本
+      * screen n. 屏幕
+  * historical **costume** 古装
+  * traditional national **costume** 传统民族服饰
+
 
 
 **### text 1**
