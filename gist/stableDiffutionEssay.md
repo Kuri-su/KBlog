@@ -12,7 +12,7 @@ headline = "受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾
 
 [TOC]
 
-受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾气), 遂开始记录自己的 技巧随笔记. (BTW, 这帮日本人玩这个真的肝.....教程/模型/资讯/社区 一应俱全....)
+受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾气/看车尾灯), 遂开始记录自己的 技巧随笔记. (BTW, 这帮日本人玩这个真的肝.....教程/模型/资讯/社区 一应俱全....)
 
 举个例子: https://note.com/redraw_0/n/n376379d66cc7 
 
@@ -20,13 +20,15 @@ headline = "受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾
 
 ## 基础
 
-基础偏先跳过
+基础篇先跳过
 
 ## prompt
 
 ### tricks
 
 ### 有专门效果的 prompt
+
+* 
 
 ## Webui extension
 
@@ -36,3 +38,5 @@ headline = "受 Twitter 上玩 Stable Diffusion 的日本人的~~启发~~(吃尾
 
 * https://note.com/redraw_0/n/n376379d66cc7#78979d8b-35bf-4f6a-a27e-84691cd13231
 * https://kurokumasoft.com/2023/03/25/glossary-of-img-generation-ai/
+* https://stable-diffusion-art.com/video-to-video/ // TODO
+* https://stable-diffusion-art.com/ // TODO
