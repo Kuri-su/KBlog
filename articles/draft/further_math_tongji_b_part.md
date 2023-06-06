@@ -333,7 +333,7 @@
 * 问题的提出: 
   * Q1
     * $lim_{x\to0}\frac{e^{x^2}-cosx}{x^2}=lim_{x\to0}\frac{(e^{x^2}-1)+(1-cosx)}{x^2}$
-    * $\because e^{x^2}-1 ~ x^2, 1-cosx ~ \frac{x^2}{2}$
+    * $\because e^{x^2}-1 $ ~ $ x^2, 1-cosx$ ~ $\frac{x^2}{2}$
     * $\therefore 原式 \stackrel{?}{=}lim_{x\to0}\frac{x^2+\frac{1}{2}x^2}{x^2}=\frac{3}{2}$
   * Q2
     * $lim_{x\to0}\frac{x-sinx}{x^3}\overset{?}{=} lim_{x\to0}\frac{x-x}{x^3}=0$
@@ -373,44 +373,100 @@
     * $\frac{R_n(x)}{(x-x_0)^{n+1}}=\frac{R_n(x)-R_n(x_0)}{(x-x_\Delta)^{n+1}-(x_\Delta-x_0)^{n+1}}=\frac{R_n'(\xi_1)}{(n+1)(\xi_1-x_0)^n} (\xi_1 在 x与 x_0 内)$
     * $=\frac{R_n'(\xi_1)-R_n'(x_0)}{(n+1)(\xi_1-x_\Delta)^n-(n+1)(x_\Delta-x_0)^n}=\frac{R_n''(\xi_2)}{(n+1)n(\xi_2-x_0)^{n-1}} (\xi_2 在 x_0 与 \xi_1 内)$
     * $=...$
-    * $=$
+    * $=\frac{R_n(\xi_n)}{(n+1)n ... 2(\xi_n-x_0)}=\frac{R_n^{(n)(\xi_n)}-R_n^{(n)}(x_0)}{(n+1)!(\xi_n-x_\Delta)-(n+1)!(x_\Delta-x_0)}$
+    * $=\frac{R^{(n+1)}_n (\xi)}{(n+1)!} , (\xi 在 x_0 于 \xi_n 内) (或 \xi 在 x_\Delta 与 x内)$
+    * $= \frac{f^{(n+1)}(\xi)}{(n+1)!}\Rightarrow \frac{R_n(x)}{(x-x_0)^n+1}=\frac{f^{(n+1)}(\xi)}{(n+1)!}$ 
+    * $\Rightarrow R_n(x)=\frac{f^{(n+1)}\xi}{(n+1)!}(x-x_0)^{n+1}$
+    * 即 $f(x)=p_n(x)+R_n(x)$
+    * 其中 $P_n(x)=f(x_0)+f'(x_0)(x-x_0)+\frac{f''(x_0)}{2!}(x-x_0)^2+...+\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n$
+    * $ R_n(x)=\frac{f^{(n+1)}\xi}{(n+1)!}(x-x_0)^{n+1}$
+    * 若 $x_0 = 0$
+    * 则 $f(x)=f(0)+f'(0)x+\frac{f''(0)}{2!}x^2+...+\frac{f^{(n)}(0)}{n!}x^n+R_n(x)$ (**麦克劳林公式**)
+      * 麦克劳林公式是解决 $\frac{0}{0}$ 型的优秀方法, 
+  * 推论: 
+    * 若 $f(x) 在 x=x_0 邻域 内 n 阶可导, 则对任意 x_0 去心邻域内点 x, 有 $
+    * $f(x)=P_n(x)+o((x-x_0)^n)$
+  * 证: 
+    * $P_n=f(x_0)+f'(x_0)(x-x_0)+...\frac{f^{(n)}(x_0)}{n!}(x-x_0)^n$
+    * $P_n(x_0)=f(x_0),P'_n(x_0)=f'(x_0), P^{(n)}_n(x_0)=f^{(n)}(x_0)$
+    * $令 R_n(x)=f(x)-P_n(x)$
+    * $R_n(x_0)=0,R_n'(x_0)=0, ... , R^{(n)}_n(x_0)=0$
+    * $lim_{x\to x_0}\frac{R_n(x)}{(x-x_0)^n}=lim_{x-x_0}\frac{R'_n(x)}{n(x-x_0)^{n-1}}=lim_{x\to x_0}\frac{R''_n(x)}{n(n-1)(x-x_0)^{n-2}}= ....$
+    * $=\frac{1}{n!}lim_{x\to x_0}\frac{R^{(n-1)}_n(x)}{x-x_0}=\frac{1}{n!}lim_{x\to x_0}R^{(n)}_n(x)=0$
+    * $\Rightarrow R_n(x)=o((x-x_0)^n)$
+    * $\therefore f(x)=P_n(x)+R_n(x)$
+      * $R_n(x)=\begin{cases}\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0^{n+1}) & Lagrange 型余项\\ o((x-x_0)^n) & 匹亚诺型余项 \end{cases}$
+* 基本思想: 
+  * $f(x) 在 x=x_0 邻域内 n+1 阶可导$
+  * $找 P_n(x) 与 f(x) 近似相等$
+    * 满足: $\begin{cases} P_n(x_0) = f(x_0) \\P_n'(x_0) = f'(x_0) \\... \\ P_n^{(n)}(x_0)= f^{(n)}(x_0) \end{cases}$
 
+* $f(x)=P_n(x)+R_n(x)$
+  * $P_n(x)=f(x_0)+f'(x_0)(x-x_0)+ ... + \frac{f^{(n)}(x_0)}{n!}(x-x_0)^n$
+  * $R_n(x)=\begin{cases}\frac{f^{(n+1)}(\xi)}{(n+1)!}(x-x_0)^{n+1}\\ o((x-x_0)^n) \end{cases}$
 
-![image-20230425152712674](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152712674.png)
+* 例题
+  * 1
+    * $f(x)=e^x 的 n 阶 麦克劳林公式$
+    * 解: 
+      * $f^{(n)}(x)=e^x, (n=0,1,2,3,....)$
+      * $f(0)=1, f'(0)=1, f''(0)=1, ....$
+      * $e^x=f(0)+f'(0)x+\frac{f''(0)}{2!}x^2+.... + \frac{f^{(n)}(0)}{n!}x^n+R_n(x)$
+      * $=1+x + \frac{x^2}{2}+ ... + \frac{x^n}{n!}+o(x_n)$
 
-![image-20230425152736899](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152736899.png)
+  * 2
+    * 求 $lim_{x\to 0}\frac{e^{-\frac{x^2}{2}}-1+\frac{x^2}{2}}{x^4}$
+    * 解: 
+      * $\because e^x=1+x+\frac{x^2}{2!}+o(x^2), \therefore e^{-\frac{x^2}{2}}=1-\frac{x^2}{2}+\frac{x^4}{8}+o(x^4)$
+      * $\Rightarrow e^{-\frac{x^2}{2}}-1+\frac{x^2}{2}=\frac{x^4}{8}+o(x^4)$ ~ $\frac{1}{8}x^4$
+      * $\therefore 原式 = \frac{1}{8}$
 
-![image-20230425152759755](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152759755.png)
+  * 3
+    * $f(x)=sinx 的 n 阶 麦克劳林公式$
+    * 解: 
+      * $f^{(n)}(x)=sin(x+\frac{n\pi}{2})$
+      * 即 $f(x)=sinx,f'(x)=cosx, f''(x)=-sinx, f'''(x)=-cosx$
+      * $\therefore f(0)=0, f'(0)=1, f''(0)=0, f'''(0)=-1, f^{(4)}(0)=0, f^{(5)}(0)=1 , ...$
+      * $\therefore sinx=f(0)+f'(0)x+\frac{f''(0)}{2!}x^2+\frac{f'''(0)}{3!}x^3+...$
+        * $=x-\frac{1}{3!}x^3+\frac{1}{5!}x^5-\frac{1}{7!}x^7+ ... $
+        * $=x-\frac{x^3}{3!}+\frac{x^5}{5!}-...+\frac{(-1)^n}{(2n+1)!}x^{2n+1}+o(x^{2n+1})$
 
-麦克劳林公式是解决 $\frac{0}{0}$ 型的优秀方法, 
+  * 4 (例2)
+    * 求 $lim_{x\to 0 }\frac{x-sinx}{x^3}$
+    * 解:
+      *  $\because sinx=x-\frac{x^3}{3!}+o(x^3)=x-\frac{x^3}{6}+o(x^3)$
+      * $\therefore x-sinx=\frac{x^3}{6}+o(x^3)$ ~ $\frac{x^3}{6}$
+      * $\therefore 原式= lim_{x\to 0}\frac{\frac{x^3}{6}}{x^3}=\frac{1}{6}$
 
-![image-20230425152845663](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152845663.png)
+  * 5 (例3)
+    * 求 $lim_{x\to0}\frac{xcosx-sinx}{x^3}$
+    * 解: 
+      * $\because cosx=1-\frac{x^2}{2!}+o(x^2), \therefore xcosx= x-\frac{x^3}{2!}+o(x^3)$
+      * $sinx=x-\frac{x^3}{3!}+o(x^3)=x-\frac{x^3}{6}+o(x^3s)$
+      * $xcosx-sinx=-\frac{1}{3}x^3+o(x^3) $ ~ $ -\frac{1}{3}x^3$
+      * $\therefore 原式 = -\frac{1}{3}$
 
-![image-20230425152902108](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152902108.png)
+  * 6 (例4)
+    * 求 $lim_{x\to0}\frac{x-ln(1+x)}{x^2}$
+    * 解: 
+      * $ln(1+x)=x-\frac{x^2}{2}+o(x^2) \Rightarrow x-ln(1+x)$ ~ $\frac{x^2}{2}$
+      * 则原式 = $\frac{1}{2}$
 
-![image-20230425152914864](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152914864.png)
-
-![image-20230425152932329](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152932329.png)
-
-![image-20230425152943959](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152943959.png)
-
-![image-20230425152957748](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425152957748.png)
-
-![image-20230425153022117](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153022117.png)
-
-![image-20230425153044216](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153044216.png)
-
-![image-20230425153105379](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153105379.png)
-
-![image-20230425153123467](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153123467.png)
-
-![image-20230425153136169](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153136169.png)
-
-![image-20230425153200586](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153200586.png)
-
-![image-20230425153216843](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153216843.png)
+* 记: 
+  1. $e^x=1+x+\frac{x^2}{2!}+ ... + \frac{x^n}{n!}+o(x^n)$
+  2. $sinx= x- \frac{x^3}{3!}+\frac{x^5}{5!}-\frac{x^7}{7!}+ ... + \frac{(-1)^n}{(2n+1)!}x^{2n+1}+o(x^{2n+1})$
+  3. $cosx= 1- \frac{x^2}{2!}+\frac{x^4}{4!}-\frac{x^6}{6!}+ ... + \frac{(-1)^n}{(2n)!}x^{2n}+o(x^{2n})$
+  4. $\frac{1}{1-x}=1+x+x^2+...+x^n+o(x^n)$
+  5. $\frac{1}{1+x}=1-x+x^2-x^3+...+(-1)^nx^n+o(x^n)$
+  6. $ln(1+x)=x-\frac{x^2}{2}+\frac{x^3}{3}-\frac{x^4}{4}+...+\frac{-1^{n-1}}{n}x^n+o(x^n)$
 
 ### 第四节 函数单调性 与 曲线的凹凸性
+
+#### 函数单调性
+
+* 定义
+  * $y=f(x) (x \in D)$
+    1. 
 
 ![image-20230425153311528](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153311528.png)
 

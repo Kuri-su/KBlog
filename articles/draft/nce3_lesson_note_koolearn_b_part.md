@@ -477,7 +477,17 @@
 
 **### text 1**
 
-
+* **send sb. <u>to+n.</u>/ <u>to do</u>** 打发/派 某人 去某地/去做某事
+  * → I **sent** the boy **to** <u>school</u>/<u>bed</u>
+  * → I **sent** the boy **to** buy some beer.
+  * 完美同义词
+    * **dispatch sb. <u>to + n.</u>/<u>to do</u> ** 更正式的版本 (一般拼写复杂的是更加正式的版本)
+    * → An ambulance **was** immediately **dispatched to** the area. 一辆救护车立刻被派往这个区域
+      * ambulance /ˈæmbjələns/ n. 救护车
+    * → The government **dispatched** 150 police **to** restore order. 政府派遣了 150 个警察来恢复秩序
+      * police 本身就是复数, 类似 people
+* 房间的名词
+  * 
 
 **### text 2**
 
