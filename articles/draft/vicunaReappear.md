@@ -10,7 +10,9 @@ headImgUrl = ""
 
 +++
 
-作者推荐配置也是 8 * A100 [Doge], 直接转战 Lora
+
+
+作者推荐配置也是 8 * A100 [Doge], 直接转战 LoRa
 
 * 在单块16G的推理卡上微调复现vicuna-7b- https://zhuanlan.zhihu.com/p/633469921
 * 基于LLaMA复现ChatGPT的方案一览 - https://zhuanlan.zhihu.com/p/620539841
