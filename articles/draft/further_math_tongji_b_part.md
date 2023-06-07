@@ -465,44 +465,116 @@
 #### 函数单调性
 
 * 定义
-  * $y=f(x) (x \in D)$
-    1. 
-
-![image-20230425153311528](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153311528.png)
-
-![image-20230425153326456](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153326456.png)
-
-![image-20230425153347700](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153347700.png)
-
-![image-20230425153409583](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153409583.png)
-
-![image-20230425153428956](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153428956.png)
-
-![image-20230425153551896](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153551896.png)
-
-![image-20230425153610670](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153610670.png)
-
-![image-20230425153633952](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153633952.png)
-
-![image-20230425153702700](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153702700.png)
-
-![image-20230425153721348](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153721348.png)
-
-![image-20230425153737218](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153737218.png)
-
-![image-20230425153759453](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153759453.png)
+  * 1
+    * $y=f(x) (x \in D)$
+      * 若 $\forall x_1, x_2 \in D 且 x_1<x_2, 有 f(x_1)<f(x_2)$
+        * 称 $f(x) 在 D 上 单调递增$
+      * 若 $\forall x_1, x_2 \in D 且 x_1<x_2, 有 f(x_1)>f(x_2)$
+        * 称 $f(x) 在 D 上 单调递减$
+* 判别法
+  * 定理1
+    * $f(x) \in C[a,b], (a,b) 内可导$
+      1. 若 $f'(x)>0 (a<x<b), 则 f(x) 在 [a,b] 上单调递增$
+      2. 若 $f'(x)<0 (a<x<b), 则 f(x) 在 [a,b] 上单调递减$
+    * 证明
+      * 1
+        * 设 $f'(x)>0 (a<x<b)$
+        * $\forall x_1,x_2 \in [a,b] 且 x_1<x_2$
+        * $f(x_2)-f(x_1)=f'(\xi)(x_2-x_1) (a<\xi<b)$
+        * $\because f'(\xi)>0, x_2-x_1>0$
+        * $\therefore f(x_2)-f(x_1)>0 \Rightarrow f(x_1)<f(x_2)$
+        * $\therefore f(x) 在 [a,b] 上 单调递增$
+  * 例题
+    * 1
+      * $y=f(x)=x^2-4x+11 , 求单调性$
+      * 解:
+        * $1^\circ x\in (-\infty, +\infty)$
+        * $2^\circ f'(x)=2x-4=2(x-2)$
+        * 令$f'(x)=0 \Rightarrow x=2$ 
+        * 当 $x\in (-\infty,2) 时, f'(x)<0; 当 x\in (2,+\infty) 时, f'(x)>0$
+        * $\therefore f(x) 在 (-\infty,2]上单调递增, 在 [2,+\infty]上单调递减$
+    * 2
+      * $y=f(x)=x^3-3x^2-9x+2 单调性$
+      * 解
+        * $1^\circ x\in (-\infty,+\infty)$
+        * $2^\circ f'(x)=3x^2-6x-9=3(x^2-2x-3)=3(x+1)(x-3)$ 
+        * 令 $f'(x)=0 \Rightarrow x=-1 或 x=3$
+        * $当 x\in (-\infty,-1) 时, f'(x)>0, f(x) 在 (-\infty,-1] 上 单调递增;$
+        * $当 x\in (-1,3) 时, f'(x)<0, f(x) 在 [-1,3] 上 单调递减;$
+        * $当 x\in (3,+\infty) 时, f'(x)>0, f(x) 在 [3,+\infty) 上 单调递增;$
+    * 3
+      * $y=\sqrt[3]{x} 单调性$
+      * 解
+        * $1^\circ x\in (-\infty,+\infty)$
+        * $2^\circ f'(x)=(x^\frac{2}{3})'=\frac{2}{3}x^{-\frac{1}{3}}=\frac{2}{3}\cdot \frac{1}{\sqrt[3]{x}}$
+          * $f(x)在 x=0 处 不可导$
+        * $3^\circ 当 x\in (-\infty, 0) 时, f'(x)<0, 则 f(x) 在 (-\infty,0] 上 单调递减;$
+        * 当 $x\in (0,+\infty) 时, f'(x)>0$
+        * 则 $f(x) 在 [0,+\infty) 上 单调递增$
+    * 4
+      * $证: 当 x>0 时, \frac{x}{1+x} < ln(1+x)<x$
+      * 证: 
+        * 令 $f(x)=x-ln(1+x), f(0)=0$
+        * $f'(x)=1-\frac{1}{1-x}=\frac{x}{1+x}>0 (x>0)$
+        * $\Rightarrow f(x) 在 [0,+\infty) 单调递增$
+        * $\therefore 当 x>0 时, f(x)>f(0)=0 \Rightarrow ln(1+x)<x;$
+        * 令 $g(x)=ln(1+x)-\frac{x}{1+x}, g(0)=0$
+        * $g'(x)=\frac{1}{1+x}-\frac{1+x-x}{(1+x)^2}=\frac{1}{1+x}-\frac{1}{(1+x)^2}$
+        * $=\frac{x}{(1+x)^2}>0 , (x>0)$
+        * 则 $g(x)$ 在 $[0,+\infty)$ 上 单调递增
+        * $\therefore 当 x>0 时, g(x)>g(0)=0 \Rightarrow \frac{x}{1+x} < ln(1+x)$
+    * 5
+      * $e<a<b , 证: a^b>b^a$
+      * 证: 
+        * $a^b>b^a \Leftrightarrow blna>alnb \Leftrightarrow blna - alnb >0$
+        * 令 $f(x)=xlna-alnx , f(a)=0$
+        * $f'(x)=lna-\frac{a}{x}>0 , (a<x<b)$
+        * $则 f(x) 在 [a,b] 单调递增$
+        * $\therefore 当 x>a 时, f(x)>f(a)=0$
+        * $\because b> a, \therefore f(b)>f(a)=0$
+        * $\therefore blna-alnb > 0$
+        * $\therefore a^b>b^a$
+    * 6
+      * 证明 $当 x>1 时, 2\sqrt x > 3-\frac{1}{x}$
+      * 证: 
+        * 令 $f(x)=2\sqrt x -3 + \frac{1}{x}, f(1)=0$
+        * $f'(x)=2*\frac{1}{2}x^{-\frac{1}{2}}-\frac{1}{x^2}=\frac{1}{\sqrt x}-\frac{1}{x^2}>0 , (x>1)$
+        * 则 $f(x) 在 [1,+\infty) 上 单调递增$
+        * $\therefore 当 x>1 时, f(x)>f(1)=0 \Rightarrow 2\sqrt x> 3-\frac{1}{x}$
 
 #### 曲线凹凸性
 
-![image-20230425153905220](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153905220.png)
+* 定义
 
-![image-20230425153920478](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153920478.png)
+  * $y=f(x) (x\in D)$
 
-![image-20230425153938181](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425153938181.png)
+  1. 若 $\forall x_1, x_2 \in D 且 x_1 \ne x_2, 有 $
+     * $f(\frac{x_1+x_2}{2}) < \frac{f(x_1)+f(x_2)}{2}$
+     * 称 $f(x)$ 在 $D$ 内为 凹函数
+  2. 若 $\forall x_1,x_2 \in D 且 x_1 \ne x_2 , 有$
+     * $f(\frac{x_1+x_2}{2}) > \frac{f(x_1)+f(x_2)}{2}$
+     * 称 $f(x) 在 D 内为 凸函数$
 
-![image-20230425164424534](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164424534.png)
-
-![image-20230425164450769](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164450769.png)
+* 判别法
+  * 引论
+    * 设 $f(x)$ 二阶可导, 且 $f''(x)>0 (<0), x_0 \in D , 则 $
+      * $f(x) \geq (f(x_0) + f'(x_0)(x-x_0))$ 
+      * (或 $f(x)\leq (f(x_0)+f'(x_0)(x-x_0))$)
+      * 且 "=" 成立 $\Leftrightarrow x=x_0$ 
+    * 证明
+      * 设 $f''(x)>0$
+      * 由 Taylor 公式, $f(x)=f(x_0)+f'(x_0)(x-x_0)+\frac{f''(\xi)}{2!}(x-x_0)^2$ ,  ($\xi 介于 x_0 与 x 之间$)
+      * $\because f''(x)>0$
+      * $\therefore R(x)=\frac{f''(\xi)}{2!}(x-x_0)^2\ge 0$
+      * 且 $R(x)=0 \Leftrightarrow x=x_0$
+      * $\therefore f(x) \ge f(x_0)+f'(x)(x-x_0)$
+      * $当 "=" 成立时 \Leftrightarrow x=x_0$
+      * 当 $f''(x)<0, 则 R(x)=\frac{f''(\xi)}{2!}(x-x_0)^2\le 0$
+      * $R(x)=0 \Leftrightarrow x=x_0 $
+      * $\therefore f(x)\le f(x_0)+f'(x_0)(x-x_0)$
+      * $= 成立 \Leftrightarrow x+x_0$
+  * Note: 
+    * $若$
 
 ![image-20230425164503575](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164503575.png)
 
