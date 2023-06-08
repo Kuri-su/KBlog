@@ -719,13 +719,22 @@
           * $f''(x_0)> 0$
           * 即 $f''(x_0)=lim_{x-x_0}\frac{f'(x)}{x-x_0}>0$
           * $\exists \delta > 0 , 当 0<|x-x_0|<\delta 时, \frac{f'(x)}{x-x_0}>0$ 
-          * // TODO
+          * $\begin{cases} f'(x)<0, x\in (x_0-\delta, x_0) \\ f'(x)>0, x\in (x_0, x_0+\delta) \end{cases}$
+          * $\Rightarrow x=x_0 为 极小点$
+        * Case 2
+          * $f''(x_0)<0$
+          * $即 lim_{x\to x_0}\frac{f'(x)}{x-x_0}<0$
+          * $\exists \delta > 0 , 当 0<|x-x_0|<\delta 时, \frac{f'(x)}{x-x_0}<0$ 
+          * $\begin{cases} f'(x)>0, x\in (x_0-\delta, x_0) \\ f'(x)<0, x\in (x_0, x_0+\delta) \end{cases}$
+          * $\Rightarrow x=x_0 为 极大点$
+* 例题
+  * 2
+    * $f'(1)=0, lim_{x\to 1}\frac{f'(x)}{sinx\pi x}=2, 问 x=1 是什么点$
+    * 解
+      * 法一:
+        * 
 
 
-
-![image-20230427182648943](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182648943.png)
-
-![image-20230427182719033](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182719033.png)
 
 ![image-20230427182738415](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182738415.png)
 
