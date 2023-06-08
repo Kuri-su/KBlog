@@ -71,13 +71,25 @@
         * $ \frac{\vartheta\theta_1x^{(i)}}{\vartheta \theta_1}=x^{(i)}$
         * $ \frac{\vartheta y^{(i)}}{\vartheta \theta_1}=0$
       * $\theta_1,j=1: \frac{\vartheta}{\vartheta \theta_1}J(\theta_0,\theta_1)=\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)}),y^{(i)})\cdot x^{(i)}$
-  * This method we call **"Batch" Gradient Descent**
+  * This method is called  **"Batch" Gradient Descent**.
     * **"Batch": Each step of gradrent descent uses all the training examples**
   * In the future , used **normal equations methods** (正规方程组方法) can directly find the minimum value of $J$, without the multi-step gradient descent.
 
 ## L3 Linear Algebra Review 
 
+// moved to tail 
 
+## L4 Linear Regression with Multiple Variables
+
+* L4-1 **Multiple features** (variables)
+  * Notation: 
+    * $n$ : number of features
+    * $x^{(i)}$ : input (features) of $i^{th}$ training example
+    * $x^{(i)}_j$ : value of feature $j$ in $i^{th} training example$
+  * In this Lesson, there have been some changes to the **hypothesis** , **cost function** and **gradient descent**.
+  *  **Hypothesis**
+    * Previously: $h_\theta (x)=\theta_0+\theta_1 x$
+    * Now: $h_\theta(x)=\theta_0+$
 
 ## L5 Octave/Matlab Tutorial
 
@@ -102,6 +114,10 @@
 ## L19 Conclusion
 
 // skip
+
+## L3 Linear Algebra Review 
+
+// TODO
 
 ## ref
 
