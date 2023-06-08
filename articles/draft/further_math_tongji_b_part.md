@@ -732,69 +732,176 @@
     * $f'(1)=0, lim_{x\to 1}\frac{f'(x)}{sinx\pi x}=2, 问 x=1 是什么点$
     * 解
       * 法一:
-        * 
+        * $\because lim_{x\to 1}\frac{f'(x)}{sin\pi x}=2 >0$
+        * $\therefore \exists \delta > 0 , 当 0< |x-1|<\delta 时, \frac{f'(x)}{sin\pi x} >0$
+        * $\begin{cases} f'(x)>0, x\in (1-\delta, 1) \\ f'(x)<0, x\in (1,1+\delta) \end{cases}$
+        * $\therefore x=1 为 极大点$
+      * 法二: 
+        * $f'(1)=0$
+        * $2=lim_{x\to 1}\frac{f'(x)}{sin[\pi + \pi (x-1)]}=-lim_{x\to 1}\frac{f'(x)}{sin\pi (x-1)}$
+        * $=-lim_{x\to1}\frac{f'(x)}{\pi(x-1)}=-\frac{1}{\pi}lim_{x\to 1}\frac{f'(x)-f'(1)}{x-1}$
+        * $=-\frac{1}{\pi}f''(1)$
+        * $\Rightarrow f''(1)=-2\pi < 0$
+        * $\because f'(1)=0, f''(1)<0$
+        * $x=1$ 为 极大点
+  * 3
+    * $y=f(x) \in C(-\infty, +\infty ), 问 f(x) 有几个 极值点$
+    * 解: 
+      * $1^\circ$
+        * $x\in (-\infty, +\infty);$
+      * $2^\circ$
+        * $f'(x)\begin{cases} =0 \\ 无 \end{cases} \Rightarrow x=a,0,b,c ;$
+      * $3^\circ$
+        * $\begin{cases} x<a & f'>0 \\ x>a & f'<0 \end{cases}\Rightarrow x=a 为极大点$
+        * $\begin{cases} x<0 & f'<0 \\ x>0 & f'<0 \end{cases}\Rightarrow x=0 不是极值点$
+        * $\begin{cases} x<b & f'<0 \\ x>b & f'>0 \end{cases}\Rightarrow x=b 为极小点$
+        * $\begin{cases} x<c & f'>0 \\ x>c & f'>0 \end{cases}\Rightarrow x=c 为极大点$
 
 
 
-![image-20230427182738415](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182738415.png)
+#### 最大值 与 最小值
 
-![image-20230427182752816](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182752816.png)
-
-![image-20230427182816520](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182816520.png)
-
-![image-20230427182827564](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182827564.png)
-
-![image-20230427182850768](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182850768.png)
-
-![image-20230427182917467](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182917467.png)
-
-![image-20230427182933003](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182933003.png)
-
-![image-20230427182956870](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182956870.png)
-
-![image-20230427183014562](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183014562.png)
-
-![image-20230427183030627](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183030627.png)
-
-![image-20230427183057030](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183057030.png)
-
-
+* (一) $f(x)\in C[a,b]$
+  * If $f(x)\in C[a,b] , then \exists m,M$
+  * $1^\circ$
+    * $f'(x) \begin{cases} =0 \\ 不存在 \end{cases}, (a<x<b) \Rightarrow x_1,x_2,...,x_m$
+  * $2^\circ$
+    * $m=min\{f(a),f(x_1),...,f(x_n),f(b)\}$
+    * $M=max\{f(a), f(x_1),...,f(x_n),f(b)\}$
+* 例子
+  * 1
+    * 求 $y=x^3-3x^2-4x+1, 在 [-2,4] 上的 m, M$
+    * 解: 
+      * $1^\circ$
+        * 令 $f'(x)=3x^2-6x-9=3(x^2-2x-3)=3(x+1)(x-3)=0$
+        * $\Rightarrow x_1=-1, x_2=3;$
+      * $2^\circ$
+        * $f(-2)=-1$
+        * $f(-1)=6$
+        * $f(3)=-26$
+        * $f(4)=173$
+      * $\therefore m=-26, M=173$
+  * 2
+    * $设 p>1, 证: 当 \in [0,1] 时, 2^{\frac{1}{p-1}}\le x^p+(1-x)^p \le 1$
+      * 证: 
+        * $f(x)=x^p+(1-x)^p \in C[0,1]$
+        * $令 f'(x)=px^{p-1}-p(1-x)^{p-1}=0 \Rightarrow x=\frac{1}{2}$
+        * $\because f(0)=1=f(1)=1 > f(\frac{1}{2})=\frac{1}{2^{p-1}}$
+        * $\therefore m=\frac{1}{2^{p-1}}, M=1 \therefore 2^{\frac{1}{p-1}}\le x^p+(1-x)^p \le 1$
 
 ### 第六节 函数图像描绘
 
-![image-20230427183124604](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183124604.png)
+* $y=f(x):$
+  * $1^\circ$  $x\in D;$
+  * $2^\circ$  $f'(x)\begin{cases} =0 \\ 不存在 \end{cases}$ ;
+  * $3^\circ$  $f''(x)\begin{cases} =0 \\ 不存在 \end{cases}$ ;
+  * $4^\circ$  渐近线;
+  * $5^\circ$  描图
+* 渐近线
+  1. 水平渐近线 - $L: y=f(x)$
+     * 若 $lim_{x\to \infty} f(x)=A , 称 y=f(x) 有水平渐近线 y=A;$
+     * 例题1: $求 y=\frac{2x^2+1}{x}sin\frac{1}{x} 的水平渐近线$
+       * 解: 
+         * $\because lim_{x\to\infty}y=lim_{x\to\infty}\frac{2x^2+1}{x^2}\cdot \frac{sin\frac{1}{x}}{\frac{1}{x}}=2$
+         * $\therefore y=2 为水平渐近线$
+  2. 铅直渐近线 - $L: y=f(x)$
+     * If $lim_{x\to a}f(x)=\infty, 称 x=a 为 铅直渐近线$
+     * 例题2: 求 $y=f(x)=\frac{x^2-3x+2}{x^2-1} 水平, 铅直渐近线$
+       * 解: 
+         * $\because lim_{x\to\infty}f(x)=1 , \therefore y=1 为 水平渐近线$
+         * $\therefore lim_{x\to -1}f(x)=\infty, \therefore x=-1 为 铅直渐近线$
+         * $又 \because lim_{x\to 1} f(x)= lim_{x\to 1}\frac{x-2}{x-1}=-\frac{1}{2}$
+         * $\therefore x=1 不是铅直渐近线$
+  3. 斜渐近线 - $L: y=f(x)$
+     * If $lim_{x\to \infty }\frac{f(x)}{x}=a(\ne 0,\infty)$
+     * $lim_{x\to \infty}[f(x)-ax]=b$
+     * $称 y=ax+b 为 斜渐近线$
+     * 例题3: 求 $y=\frac{x^3-x}{x^2-x-2} 的 渐近线$
+     * 解: 
+       * $\therefore lim_{x\to\infty}y=\infty, \therefore 无水平渐近线;$
+       * $lim_{x\to -1}y=lim_{x\to -1}\frac{x(x-1)(x+1)}{(x+1)(x-2)}=lim_{x\to-1}\frac{x(x-1)}{x-2}=-\frac{2}{3}$
+       * $\therefore x=-1 为铅直渐近线$
+       * $\because lim_{x\to 2}y=\infty, \therefore x=2 为铅直渐近线$
+       * $\because lim_{x\to\infty}\frac{y}{x}=1$
+       * $lim_{x\to \infty}(y-x)=lim_{x\to \infty} (\frac{x^3-x}{x^2-x-2}-x)=lim_{x\to\infty}\frac{x^2+x}{x^2-x-2}=1$
+       * $\therefore y=x+1 为 斜渐近线$
+     * 例题4: 求 $y=xln(e+\frac{3}{x}) (x>0) 的 斜渐近线$
+     * 解: 
+       * $\because lim_{x\to+\infty}\frac{y}{x}=lim_{x\to+\infty}ln(e+\frac{3}{x})=1$
+       * $lim_{x\to+\infty}(y-x)=lim_{x\to+\infty}x[ln(e+\frac{3}{x})-1]$
+       * $=lim_{x\to+\infty}\frac{ln(e+\frac{3}{x}-1)}{\frac{1}{x}}\overset{\frac{1}{x}=t}{=}lim_{t\to0}\frac{ln(e+3t)-1}{t}$
+       * $=lim_{t\to0}\frac{3}{e+3t}=\frac{3}{e}$
+       * $\therefore 斜渐近线, y=x+\frac{3}{e}$
 
-![image-20230427183134729](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183134729.png)
+* 做图 $y=f(x)$
 
-![image-20230427183357272](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183357272.png)
+  1. $x\in D$ ;
 
-![image-20230427183411628](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183411628.png)
+  2. $f'(x)\begin{cases} =0 \\ 无 \end{cases}$  ;
 
-![image-20230427183427850](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183427850.png)
+  3. $f''(x)\begin{cases} =0 \\ 无 \end{cases}$ ;
 
-![image-20230427183443462](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183443462.png)
+  4. 渐近线
 
-![image-20230427183459502](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183459502.png)
+  5. 
 
-![image-20230427183515972](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183515972.png)
+  6. | x      | (  ) | ?    | (  ) | ?    | (  ) | ?    | (  ) | ?    | ...  |
+     | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+     | f'(x)  | +    |      | -    |      | -    |      | +    |      |      |
+     | f''(x) | +    |      | +    |      | -    |      | -    |      |      |
+     | f(x)   | ↗凹  | 极大 | ⤵凹  | 拐点 | 凸⤵  | 极小 | 凸↗  |      |      |
 
-![image-20230427183533394](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183533394.png)
+     找关键点, 描图
 
-![image-20230427183548174](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183548174.png)
+* 例题1: 作 $y=x^3-x^2-x $图
 
-![image-20230427183603236](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183603236.png)
+  * 解: 
 
-![image-20230427183618540](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183618540.png)
+    1. $x\in (-\infty, +\infty);$
 
-![image-20230427183630182](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183630182.png)
+    2. 令 $y'=3x^2-2x-1=0 \Rightarrow x=-\frac{1}{3}, x=1;$
 
-![image-20230427183642316](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183642316.png)
+    3. 令 $y''=6x-2=0 \Rightarrow x=\frac{1}{3}$
 
-![image-20230427183656179](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183656179.png)
+    4. $lim_{x\to \infty}y=\infty \Rightarrow 无水平渐近线\ ,\ lim_{x\to\infty}\frac{y}{x}=\infty \Rightarrow 无斜渐近线$
 
-![image-20230427183717949](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427183717949.png)
+    5. 
+
+       | x     | $(-\infty,-\frac{1}{3})$ | $-\frac{1}{3}$ | $(-\frac{1}{3},\frac{1}{3})$ | $\frac{1}{3}$ | $(\frac{1}{3},1)$ | 1    | (1,+\infty) |
+       | ----- | ------------------------ | -------------- | ---------------------------- | ------------- | ----------------- | ---- | ----------- |
+       | $y'$  | +                        |                | -                            |               | -                 |      | +           |
+       | $y''$ | -                        |                | -                            |               | +                 |      | +           |
+       | y     | 凸增                     | 极大           | 凸减                         | 拐点          | 凹减              | 极小 | 凹增        |
+
+       $y(-\frac{1}{3})=\frac{32}{27}, \frac{1}{3}=\frac{16}{27}, f(1)=0, y(-\infty)=-\infty, y(+\infty)=+\infty$
+
+    6. 绘图 略
+
+* 例题2: $y=e^{-x^2}$
+
+* 解: 
+
+  1. $x\in (-\infty, +\infty)$
+
+  2. 令 $y'=-2xe^{-x^2}=0 \Rightarrow x=0$ ; 
+
+  3. 令 $y''=(4x^2-2)e^{-x^2}=0 \Rightarrow x=\pm \frac{1}{\sqrt2}$
+
+  4. $lim_{x\to \infty} y=0 \Rightarrow y=0 水平渐近线$
+
+  5. 
+
+  6. | x    | $(-\infty, -\frac{1}{\sqrt2})$ | $-\frac{1}{\sqrt2}$ | $(-\frac{1}{\sqrt2},0)$ | 0    | $(0,\frac{1}{\sqrt2})$ | $\frac{1}{\sqrt2}$ | $(\frac{1}{\sqrt2},+\infty)$ |
+     | ---- | ------------------------------ | ------------------- | ----------------------- | ---- | ---------------------- | ------------------ | ---------------------------- |
+     | y'   | +                              |                     | +                       |      | -                      |                    | -                            |
+     | y''  | +                              |                     | -                       |      | -                      |                    | +                            |
+     | y    | 凹增                           | 拐点                | 凸增                    | 极大 | 凸减                   | 拐点               | 凹减                         |
 
 ### 第七节 弧微分 与 曲率
+
+* 弧微分
+  * $L: y=f(x)$
+  * 
 
 ![image-20230512162623159](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162623159.png)
 
