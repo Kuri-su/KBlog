@@ -487,7 +487,34 @@
     * → The government **dispatched** 150 police **to** restore order. 政府派遣了 150 个警察来恢复秩序
       * police 本身就是复数, 类似 people
 * 房间的名词
-  * 
+  * hall n. 门厅, 衣帽间, 大厅, 礼堂, 
+  * living room / sitting room / drawing room n. 客厅, 起居室
+  * dining room  n. 餐厅
+  * kitchen n. 厨房
+  * bathroom n. 淋浴间
+  * guestroom n. 客房
+  * study n. 书房
+  * bedroom n. 卧室
+  * master bedroom n. 主卧
+  * storeroom n. 储藏室
+  * attic/loft n. 阁楼
+  * basement(能住人的地下室) / cellar (地窖)
+  * balcony n. 阳台, 露台
+  * → (NCE3-13 P62-L9) Just as Mrs. Richards was entering the **dining <u>room</u>**, there was a knock on the front door.
+  * → (NCE3-13 P62-L10) She had told him to come straight in if ever she failed to open the door and to leave the bread on the **<u>kitchen</u>** table.
+  * → (NCE3-13 P62-L11) Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small **<u>storeroom</u>** under the stairs.
+  * → (NCE3-23 P114-L16) I left the bag in the **<u>hall</u>** and Robert and I went into the **<u>living room</u>** where we talked for a couple of hours.
+  * → (NCE3-24 P118-L14) George showed me to the **guestroom** which, he said, was rarely used.
+  * → (NCE3-52 P236-L1) My cousin, Harry,keeps a large curiously shaped bottle on permanent display in his **<u>study</u>**.
+  * → (NCE3-58 P260-L10) Looking into the <u>**drawing room**</u>, she saw a scene of confusion over by her writing desk.
+  * → (NCE3-58 P260-L22) The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the **balcony**.
+  * → (NCE3-58 P260-L12) Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his **basement**.
+  * → (NCE3-49 P224-L31) They had mysteriously found their way there from the wine **cellar**!
+  * → (NCE3-59 P264-L5) They leave unwanted objects in drawers, cupboards and **attics** for years, in the belief that they may one day need just those very things.
+
+* → She was <u>too</u> excited <u>to</u> do any housework that morning, **for in the evening she would be going to a fancy-dress party with her husband.**
+  * 未加粗的部分是主句,
+  * too ... to ... 太... 以至于 ... (表否定)
 
 **### text 2**
 

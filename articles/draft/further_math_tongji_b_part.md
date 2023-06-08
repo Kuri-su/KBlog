@@ -574,43 +574,130 @@
       * $\therefore f(x)\le f(x_0)+f'(x_0)(x-x_0)$
       * $= 成立 \Leftrightarrow x+x_0$
   * Note: 
-    * $若$
+    * $若 f''(x)>0, 则 当 x \ne x_0 时, $
+      * $f(x)>(f(x_0)+f'(x_0)(x-x_0));$
+    * $若 f''(x)<0, 则 当 x\ne x_0 时, $
+      * $f(x)<(f(x_0)+f'(x_0)(x-x_0))$
+* 定理
+  * 2
+    * $f(x)\in C[a,b], (a,b) 内 二阶可导$
+      1. 若 $f''(x)>0\ (a<x<b), 则 y=f(x) 图像 在 [a,b] 上是 凹的$
+      2. 若 $f''(x)<0\ (a<x<b), 则 y=f(x) 图像在 [a,b] 上是 凸的$
+    * 证明: 
+      * 1
+        * 设 $f'' (x)>0\ (a<x<b)$
+        * $\forall x_1,x_2 \in [a,b] 且 x_1\ne x_2$
+        * $x_0 \triangleq \frac{x_1+x_2}{2}$
+        * $\because f''(x)>0, \therefore x\ne x_0 时, f(x)> (f(x_0)+f'(x_0)(x-x_0))$
+        * 取 $x=x_1, x=x_2$
+        * 有 $\begin{cases} f(x_1) > f(x_0)+f'(x_0)& (x_1-x_0) & (*) \\ f(x_2) > f(x_0)+f'(x_0) & (x_2-x_0) & (**) \end{cases}$
+        * $\Rightarrow \begin{cases} \frac{1}{2}f(x_1)> \frac{1}{2}f(x_0)+f'(x_0)\cdot \frac{1}{2}(x_1-x_0) \\ \frac{1}{2}f(x_2)> \frac{1}{2}f(x_0)+f'(x_0)\cdot \frac{1}{2}(x_2-x_0) \end{cases}$
+        * $\Rightarrow \frac{f(x_1)+f(x_2)}{2} > f(x_0)+f'(x_0)\cdot (\frac{x_1+x_2}{2}-x_0)=f(x_0) $
+        * $\Rightarrow f(\frac{x_1+x_2}{2})<\frac{f(x_1)+f(x_2)}{2}$
+        * 即 $\forall x_1,x_2 \in [a,b] 且 x_1\ne x_2, 有$
+        * $ f(\frac{x_1+x_2}{2})<\frac{f(x_1)+f(x_2)}{2}$
+        * $\therefore y=f(x) 在 [a,b] 上 凹$
+* Note:
+  * 凹凸判断步骤
+    1. $x\in D$
+    2. $f''(x)\begin{cases} =0 \\ 不存在 \end{cases} \Rightarrow x=?$
+    3. 每个区间内 $f'' >0 \ \ or \ \ < 0?$
 
-![image-20230425164503575](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164503575.png)
-
-![image-20230425164524479](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164524479.png)
-
-![image-20230425164555885](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164555885.png)
-
-![image-20230425164615754](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164615754.png)
-
-![image-20230425164634487](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164634487.png)
-
-![image-20230425164652088](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230425164652088.png)
-
-![image-20230427182239604](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182239604.png)
-
-![image-20230427182259389](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182259389.png)
-
-![image-20230427182319550](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182319550.png)
-
-
+* 例子
+  * 1
+    * $y=lnx$
+    * 解: 
+      * $1^\circ \ \ \ x\in (0,+\infty);$
+      * $2^\circ \ \ \ y'=\frac{1}{x}, y''=-\frac{1}{x^2}$
+      * $\because y''<0, \therefore y= lnx 在 (0,+\infty) 内为 凸函数$
+  * 2
+    * $y=x^3$
+    * 解: 
+      * $1^\circ$
+        * $x\in (-\infty,+\infty)$
+      * $2^\circ$
+        * $y'=3x^2, y'' = 6x$
+        * $令 y'' =0 \Rightarrow x=0$
+      * $3^\circ$
+        * $当 x\in (-\infty, 0 ) 时, y''<0, \therefore y=x^3 在 (-\infty, 0] 上 是 凸的$
+        * $当 x\in (0,+\infty) 时 , y'' > 0, \therefore y=x^3 在 [0,+\infty )上 时 凹的$
+        * $(0,0) 为 y=x^3 的拐点$
+  * 3
+    * $y=e^{-x^2}$
+    * 解: 
+      * $1^\circ$
+        * $x\in (-\infty, +\infty)$
+      * $2^\circ$
+        * $y'=-2xe^{-x^2},$
+        * $y''=-2e^{-x^2}+4x^2e^{-x^2}=4(x^2-\frac{1}{2})e^{-x^2}$
+        * 令 $y''=0 \Rightarrow x= \pm\frac{1}{\sqrt2}$
+      * $3^\circ$
+        * $当 x\in (-\infty, -\frac{1}{\sqrt2}) 时, y''>0 \Rightarrow y=e^{-e^2} 在 (-\infty, -\frac{1}{\sqrt2}] 上凹;$
+        * $当 x\in (-\frac{1}{\sqrt2}, \frac{1}{\sqrt2}) 时, y''<0 \Rightarrow y=e^{-e^2} 在 [-\frac{1}{\sqrt2}, \frac{1}{\sqrt2}] 上凸;$
+        * $当 x\in (\frac{1}{\sqrt2}, \infty) 时, y''>0 \Rightarrow y=e^{-e^2} 在 [\frac{1}{\sqrt2}, \infty] 上凹;$
+        * $(-\frac{1}{\sqrt2}, e^{-\frac{1}{2}}) 与 (\frac{1}{\sqrt2}, e^{-\frac{1}{2}}) 为 y=e^{-x^2}的拐点$
 
 ### 第五节 极值与最值
 
-$0<|x-x_0|<\delta $ 叫做 $x_0$的 去心邻域
+>  $0<|x-x_0|<\delta$ 叫做 $x_0$的 去心邻域
 
-![image-20230427182417619](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182417619.png)
+#### 函数的极大值 和 极小值
 
-![image-20230427182434116](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182434116.png)
+* 定义 - 当$ y=f(x) ,(x\in D), x_0 \in D$
 
-![image-20230427182449487](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182449487.png)
+  1. If $ \exists \delta > 0 , 当 0<|x-x_0|<\delta 时, 有 $
+     * $f(x) > f(x_0)$
+     * 称 $x_0$ 为极小点, $f(x_0) 为 极小值$
+  2. If $ \exists \delta > 0 , 当 0<|x-x_0|<\delta 时, 有 $
+     * $f(x) < f(x_0)$
+     * 称 $x_0$ 为极大点, $f(x_0) 为 极大值$
 
-![image-20230427182511263](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182511263.png)
+* 附:
 
-![image-20230427182522350](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182522350.png)
+  * $f'(a) = \begin{cases} >0 \\ <0 \\ =0 \\无 \end{cases}$
+  * If $f'(a)>0, 既 lim_{x\to a}\frac{f(x)-f(a)}{x-a}>0$
+  * $\exists \delta >0, 当 0<|x-a|<\delta 时, \frac{f(x)-f(a)}{x-a}>0$
+  * $\begin{cases} f(x)<f(a)&x\in (a-\delta , a) \\ f(x)> f(a) & x\in (a,a+\delta) \end{cases}$
+  * $f'(a)>0 \Rightarrow $ 左低右高 ; (x=a 为 极值点)
+  * 同理 $f'(a)<0 \Rightarrow$ 左高右低 ; (x=a 为极值点)
 
-![image-20230427182539572](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182539572.png)
+* 结论: 
+
+  1. $x= a 为 f(x) 的极值点 \Rightarrow f'(a)=0 或 f'(a) 不存在$
+
+  2. $x=a 为 f(x) 极值点 且 f(x) 可导 \Rightarrow f'(a) =0 $
+
+  3. 上述结论反之则不对
+
+     * 反例
+
+       1. 
+
+          * $y=f(x)=x^3$
+
+          * $f'(0)=0$
+          * $x=0 不是极值点$
+
+       2.  
+
+          * $y=f(x)=\begin{cases} x+1 & x<0 \\ e^{2x} & x\ge 0 \end{cases}$
+          * $f'_-(0)=1 \ne f_+'(0)=2$
+          * $\Rightarrow x=0 为 f(x) 不可导点, 但 x=0 不是极值点$
+
+#### 求极值步骤
+
+* $y=f(x)$
+  * $1^\circ$
+    * $ x\in D$
+  * $2^\circ$
+    * $f'(x)\begin{cases} =0 \\ 不存在 \end{cases} \Rightarrow x=? ; (不一定)$
+  * $3^\circ$ 判别法
+    * 方法一: (第一完全条件)
+    * 定理1
+      1. If $\begin{cases} \\ \end{cases}$
+         * $x=x_0 为极小点$
+
+
 
 ![image-20230427182556061](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182556061.png)
 
