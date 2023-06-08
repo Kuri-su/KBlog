@@ -96,11 +96,11 @@
     *  $h_\theta(x)=\theta_0+\theta_1 x_1+\theta_2 x_2+\theta_3 x_3 + .... + \theta_n x_n$
       * $=\theta^T x$
 * L4-2 **Gradient descent for multiple variables**
-  * Hypothesis: $h_\theta(x)=\theta_0+\theta_1 x_1+\theta_2 x_2+\theta_3 x_3 + .... + \theta_n x_n$
-  * Parameters: $\theta_0, \theta_1, \theta_2 ,... , \theta_n$, 
-  * $\theta $ without subscript means a matrix, n+1 dimension vector
-  * Cost function: $J(\theta_0,\theta_1,\theta_2,...,\theta_n)=\frac{1}{2m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})^2$
-  * Gradient descent
+  * **Hypothesis**: $h_\theta(x)=\theta_0+\theta_1 x_1+\theta_2 x_2+\theta_3 x_3 + .... + \theta_n x_n$
+  * **Parameters**: $\theta_0, \theta_1, \theta_2 ,... , \theta_n$, 
+  * $\theta $ without subscript means it is a matrix, n+1 dimension vector
+  * **Cost function**: $J(\theta_0,\theta_1,\theta_2,...,\theta_n)=\frac{1}{2m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})^2$
+  * **Gradient descent**
     * 
 
 
