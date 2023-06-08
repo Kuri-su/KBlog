@@ -692,16 +692,36 @@
   * $2^\circ$
     * $f'(x)\begin{cases} =0 \\ 不存在 \end{cases} \Rightarrow x=? ; (不一定)$
   * $3^\circ$ 判别法
-    * 方法一: (第一完全条件)
-    * 定理1
-      1. If $\begin{cases} \\ \end{cases}$
-         * $x=x_0 为极小点$
+    * 方法一: (第一充分条件)
+      * 定理1
+        * If $\begin{cases} x< x_0 时, f'(x) < 0 \\ x>x_0 时, f'(x)> 0 \end{cases}$
+          * $x=x_0 为极小点$
+        * If $\begin{cases} x<x_0 时, f'(x_0)>0 \\ x>x_0 时, f'(x)<0 \end{cases}$
+          * $x=x_0 为 极大点$
+        * 例题
+          * 1
+            * $f(x)=x^3-6x^2+2$
+            * 解: 
+              * $1^\circ $
+                * $x \in (-\infty, +\infty)$
+              * $2^\circ$
+                * $f'(x)=3x^2-12x=3x(x-4)$
+                * 令 $f'(x)=0 \Rightarrow x=0 或 x=4$
+              * $3^\circ$
+                * $\because \begin{cases} x<0 时 & f'(x)>0 \\0<x<4 时 & f'(x)<0 \end{cases}$
+                  * $\therefore x=0 为极大点, 极大值 f(0)=2;$
+                * $\because \begin{cases} 0<x<4 时 & f'(x)<0 \\ x>4 时 & f'(x)>0 \end{cases}$
+                  * $\therefore x=4 为 极小点, 极小值 f(4)= -30$
+    * 方法二: (第二充分条件)
+      * 定理:
+        * 设 $f'(x_0)=0, f''(x_0)\begin{cases} >0 & x_0 为极小点 \\ <0 \end{cases}$
+        * Case1: 
+          * $f''(x_0)> 0$
+          * 即 $f''(x_0)=lim_{x-x_0}\frac{f'(x)}{x-x_0}>0$
+          * $\exists \delta > 0 , 当 0<|x-x_0|<\delta 时, \frac{f'(x)}{x-x_0}>0$ 
+          * // TODO
 
 
-
-![image-20230427182556061](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182556061.png)
-
-![image-20230427182612514](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182612514.png)
 
 ![image-20230427182648943](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230427182648943.png)
 
