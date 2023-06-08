@@ -16,5 +16,7 @@ https://zhuanlan.zhihu.com/p/618321077
 
 然后接着看 LoRA 方案, 看上去是 单张 4090 能跑的 [Doge]
 
+https://zhuanlan.zhihu.com/p/616504594
+
 https://zhuanlan.zhihu.com/p/620539841
 
