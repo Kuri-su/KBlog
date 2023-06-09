@@ -101,8 +101,29 @@
   * $\theta $ without subscript means it is a matrix, n+1 dimension vector
   * **Cost function**: $J(\theta_0,\theta_1,\theta_2,...,\theta_n)=\frac{1}{2m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})^2$
   * **Gradient descent**
-    * 
+    * Repeat
+      * $\theta_j:=\theta_j-\alpha\frac{\vartheta}{\vartheta\theta_j}J(\theta_0,\theta_1,...,\theta_n)$
 
+    * When previously (n=1)
+      * Repeat {
+        * $\theta_0 :=\theta_0-\alpha\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})$
+        * $\theta_1 :=\theta_1-\alpha\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x^{(i)}$
+
+      * }
+
+    * In new algorithm ($n\ge1$)
+      * Repeat {
+        * $\theta_j :=\theta_j-\alpha\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x_j^{(i)}$
+
+      * }
+      * e.g.
+        * $\theta_0 :=\theta_0-\alpha\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x_0^{(i)}$
+        * $\theta_1 :=\theta_1-\alpha\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x_1^{(i)}$
+        * $\theta_2 :=\theta_2-\alpha\frac{1}{m}\sum\limits_{i=1}^{m}(h_\theta(x^{(i)})-y^{(i)})x_2^{(i)}$
+
+
+* L4-3 **Gradient descent in practice $\mathrm{I}$ : Feature Scaling  **
+  * 
 
 ## L5 Octave/Matlab Tutorial
 
