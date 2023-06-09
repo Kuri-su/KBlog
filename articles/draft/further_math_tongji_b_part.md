@@ -950,17 +950,41 @@
 
 ### 第一节 不定积分的概念与性质
 
-![image-20230512163019628](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163019628.png)
+* 引子
 
-![image-20230512163033946](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163033946.png)
+  * $y=x^3, (x^3)'=? $
 
-![image-20230512163048821](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163048821.png)
+  * $3x^2=(?)': 3x^2=(x^3+C)'$
 
-![image-20230512163112210](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163112210.png)
+  * $\frac{x}{1+x^4}=(?)'$
 
-![image-20230512163131625](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163131625.png)
+* 不定积分的概念
+  1. 原函数 - 设 $f(x), F(x) (x\in I) , 若 \forall x\in I, 有 $
+     * $F'(x)=f(x)$
+     * $F(x)$称为 $f(x)$ 的 一个原函数
+     * Notes: 
+       1. 一个函数有原函数, 则一定有不止一个 原函数
+          * 设 $F'(x)=f(x), 即 F(x) 为 f(x) 的 原函数$
+          * 则 $[F(x)+C]'=F'(x)+(C)'=f(x)$
+          * $\Rightarrow F(x)+C 也是 f(x) 的 原函数$
+       2. 一个函数的两个原函数之间相差常数
+          * 设 $F(x), \Phi(x) 均为 f(x) 的 原函数$
+          * 即 $F'(x)=f(x), \Phi'(x)=f(x)$
+          * $\Rightarrow [F(x)-\Phi(x)]' = F'(x)-\Phi'(x)\equiv 0$
+          * $\therefore F(x)-\Phi(x)\equiv C_0$
+       3. 设 $F(x) 为 f(x) 的 一个原函数, 则 F(x)+C 为 f(x) 的一切原函数 (C 为常数)$
+  2. 不定积分 - 设 $F(x)为 f(x) 的 一个 原函数, F(x)+C 为 f(x) 的 所有原函数, $
+     * $F(x)+C$, 记$\int f(x)dx$
+     * 即 $\int f(x)dx = F(x)+C$
+  3. 例题
+     1. $\int x^2 dx$
+        * 解: 
+          * $\because (\frac{1}{3}x^3)' = x^2, \therefore \int x^2 dx=\frac{1}{3}x^3+c$
+     2. $\int xe^{x^2}dx$
+        * 解:
+          * 
 
-![image-20230512163148315](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163148315.png)
+
 
 ![image-20230512163206227](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163206227.png)
 
