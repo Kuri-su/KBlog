@@ -901,31 +901,50 @@
 
 * 弧微分
   * $L: y=f(x)$
-  * 
+    1. $(\Delta s)^2≈ (\Delta x)^2+(\Delta y)^2$
+       * $\Delta y = f(x+\Delta x)-f(x)$
+    2. $(ds)^2=(dx)^2+(dy)^2$
+       1. $ds=\sqrt{(dx)^2+(dy)^2}$
+  * so
+    * Cases1: $L: y=f(x)$
+      * $ds= \sqrt{1+(\frac{dy}{dx})^2}dx  = \sqrt{1+f'^2(x)}dx$
+      * 即 $ds=\sqrt{1+f'^2(x)}dx \ ;$
+    * Case2: $L: \begin{cases} x=\phi(t) \\ y=\psi(t) \end{cases}$
+      * $ds=\sqrt{(dx)^2+(dy)^2} = \sqrt{(\frac{dx}{dt})^2 + (\frac{dy}{dt})^2}dt=\sqrt{\phi'^2(t)+\psi'^2(t)}dt$
+      * 即 $ds=\sqrt{\phi'^2(t)+\psi'^2(t)}dt$
+* 曲率与曲率半径
+  * $L: y=f()x$
+    * $|\overset{\frown}{MM'}|=\Delta s$
+    * $\overset{\_}k=\frac{|\Delta\alpha|}{|\Delta S|}$ , ($\overset{\_}{k}$ 表示平均曲率)
+  * M 点 处的曲率
+    * $k=lim_{\Delta x\to 0}|\frac{\Delta\alpha}{\Delta s}|=|\frac{d\alpha}{ds}|$ ($\alpha 为 x 的函数$)
+    * $ds= \sqrt{1+y'^2}dx$
+    * $tan\alpha = y' =f'(x)$
+    * 两边对 x 求导
+    * $sec^2\alpha \cdot \frac{d\alpha}{dx}=y''=f''(x)$
+    * $\because sec^2\alpha = 1+tan^2\alpha = 1+y'^2$
+    * $\therefore \frac{d\alpha}{dx}=\frac{y''}{1+y'^2}\Rightarrow d\alpha = \frac{y''}{1+y'^2}\cdot dx$
+    * $ds=\sqrt{1+y'^2}dx$
+    * $d\alpha=\frac{y''}{1+y'^2}dx$
+    * $\therefore k=|\frac{d\alpha}{ds}|=\frac{|y''|}{(1+y'^2)^\frac{3}{2}}$
+* 例题
+  * 1
+    * 求 $L: y=sinx 在 x=\frac{\pi}{4} 对应点处的曲率$
+    * 解:
+      * $y'=cosx, y'(\frac{\pi}{4})=\frac{\sqrt{2}}{2}$
+      * $y''=-sinx, y''(\frac{\pi}{4})=-\frac{\sqrt2}{2}$
+      * $therefore x=\frac{\pi}{4} 对应曲线 y=sinx 在的点 (\frac{\pi}{4},\frac{\sqrt 2}{2}) 处的曲率为 $
+        * $k=\frac{|y''|}{(1+y'^2)^\frac{3}{2}}=\frac{\frac{\sqrt2}{2}}{\frac{3}{2}\cdot \sqrt\frac{3}{2}}=\frac{\sqrt2}{\frac{3\sqrt3}{2}}=\frac{2}{3\sqrt3}$
+  * 2
+    * 求 $y=x^2-4x+11 曲率最大点的座标$
+    * 解:
+      * $y'=2x-4, y''=2$
+      * $k(x)=\frac{|y''|}{(1+y'^2)^\frac{3}{2}}=\frac{2}{[1+(2x-4)^2]^\frac{3}{2}}$
+      * 当 $2x-4=0, 即 x=2 时, 曲率最大$
+      * $k_{max}=2$
+      * 所求点 $(2,7)$
 
-![image-20230512162623159](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162623159.png)
 
-![image-20230512162642021](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162642021.png)
-
-![image-20230512162658655](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162658655.png)
-
-![image-20230512162715323](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162715323.png)
-
-![image-20230512162731102](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162731102.png)
-
-![image-20230512162750866](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162750866.png)
-
-![image-20230512162808947](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162808947.png)
-
-![image-20230512162825328](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162825328.png)
-
-![image-20230512162839182](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162839182.png)
-
-![image-20230512162857593](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162857593.png)
-
-![image-20230512162909719](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162909719.png)
-
-![image-20230512162923917](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512162923917.png)
 
 ## 第四章 不定积分
 
