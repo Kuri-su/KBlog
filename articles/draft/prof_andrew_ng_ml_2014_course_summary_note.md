@@ -123,7 +123,48 @@
 
 
 * L4-3 **Gradient descent in practice $\mathrm{I}$ : Feature Scaling  **
-  * 
+  1. Idea: Make sure features are on a similar scale. Get every feature into approximately at $-1\le x_i \le 1$ range
+     * not $-100 \le x_3 \le 100$
+     * not $-0.0001\le x_4 \le 0.0001$
+  2. Mean normalization
+     * Replace $x_i$ with $x_i - \mu_i$ to make features have approximately zero mean.
+       * $x_1=\frac{x_1-u_1}{s_1}$
+         * $u_1$: avg value of $x_1$ in training set.
+         * $s1$: the range max of $x_1$ in training set.
+         * e.g.
+           * $x_1=\frac{size-1000(avg)}{2000}$
+           * $x_2=\frac{\#bedrooms -2}{5}$
+
+* L4-4 **Gradient descent in practice $\mathrm{II}$: Learning rate  **
+
+
+  * $\theta_j:=\theta_j-\alpha\frac{\vartheta}{\vartheta\theta_j}J(\theta)$
+
+
+    * Question: 
+
+      1. "Debugging": How to make sure gradient descent is working correctly.
+
+         * The $min J(\theta)$ chart must be **A concave curve that  monotonically decreasing.**
+         * Or use smaller $\alpha$
+         * For sufficiently small $\alpha$, $J(\theta)$ should decrease on every iteration.
+         * But if $\alpha$ is too small, gradient descent can be slow to converge.
+
+      2. How to choose learning rate $\alpha$
+
+         * Summary:
+           1. If $\alpha$ is too small: slow convergence
+           2. If $\alpha$ is too large: $J(\theta)$ many not decrease
+
+         * On every iteration; may not converge (slow convage also possible)
+           * To choose $\alpha$, try 
+             * ....., 0.001, 0.003, 0.01, 0.03, 0.1, 0.3, 1, ...
+
+* L4-5 Features and polynomial regression
+
+
+  * // TODO
+
 
 ## L5 Octave/Matlab Tutorial
 
@@ -160,5 +201,4 @@
 * http://www.ai-start.com/ml2014/
 * https://github.com/SrirajBehera/Machine-Learning-Andrew-Ng
 * https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf
-
 
