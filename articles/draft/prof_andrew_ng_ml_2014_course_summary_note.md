@@ -139,22 +139,22 @@
 
 
   * $\theta_j:=\theta_j-\alpha\frac{\vartheta}{\vartheta\theta_j}J(\theta)$
-> * Question: 
->   1. "Debugging": How to make sure gradient descent is working correctly.
->
->      * The $min J(\theta)$ chart must be **A concave curve that  monotonically decreasing.**
->      * Or use smaller $\alpha$
->      * For sufficiently small $\alpha$, $J(\theta)$ should decrease on every iteration.
->      * But if $\alpha$ is too small, gradient descent can be slow to converge.
->   2. How to choose learning rate $\alpha$
->
->      * Summary:
->        1. If $\alpha$ is too small: slow convergence
->        2. If $\alpha$ is too large: $J(\theta)$ many not decrease
->
->      * On every iteration; may not converge (slow convage also possible)
->        * To choose $\alpha$, try 
->          * ....., 0.001, 0.003, 0.01, 0.03, 0.1, 0.3, 1, ...
+    > * Question: 
+    >   1. "Debugging": How to make sure gradient descent is working correctly.
+    >
+    >      * The $min J(\theta)$ chart must be **A concave curve that  monotonically decreasing.**
+    >      * Or use smaller $\alpha$
+    >      * For sufficiently small $\alpha$, $J(\theta)$ should decrease on every iteration.
+    >      * But if $\alpha$ is too small, gradient descent can be slow to converge.
+    >   2. How to choose learning rate $\alpha$
+    >
+    >      * Summary:
+    >        1. If $\alpha$ is too small: slow convergence
+    >        2. If $\alpha$ is too large: $J(\theta)$ many not decrease
+    >
+    >      * On every iteration; may not converge (slow convage also possible)
+    >        * To choose $\alpha$, try 
+    >          * ....., 0.001, 0.003, 0.01, 0.03, 0.1, 0.3, 1, ...
 
 
 * L4-5 Features and polynomial regression
