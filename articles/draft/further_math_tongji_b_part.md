@@ -957,7 +957,6 @@
   * $3x^2=(?)': 3x^2=(x^3+C)'$
 
   * $\frac{x}{1+x^4}=(?)'$
-
 * 不定积分的概念
   1. 原函数 - 设 $f(x), F(x) (x\in I) , 若 \forall x\in I, 有 $
      * $F'(x)=f(x)$
@@ -982,51 +981,126 @@
           * $\because (\frac{1}{3}x^3)' = x^2, \therefore \int x^2 dx=\frac{1}{3}x^3+c$
      2. $\int xe^{x^2}dx$
         * 解:
-          * 
+          * $\because (\frac{1}{2}e^{x^2})'=\frac{1}{2}e^{x^2}\cdot 2x=xe^{x^2}$
+          * $\therefore \int xe^{x^2}dx=\frac{1}{2}e^{x^2}+C$
+     3. $\int \frac{x}{1+x^4}dx$
+        * 解: 
+          * $\because (\frac{1}{2}arctanx^2)'=\frac{1}{2}\frac{1}{1+(x^2)^2}\cdot 2x=\frac{x}{1+x^4}$
+          * $\therefore \int \frac{x}{1+x^4}dx=\frac{1}{2}arctanx^2+C$
 
+#### 不定积分工具 (一)- 不定积分基本公式
 
+* 求导
+  * 幂函数
+  * 指数函数
+  * 对数函数
+  * 三角函数
+  * 反三角函数
+* 不定积分 基本公式
+  1. $\int Kdx=Kx+c $ ;
+  2. $\int x^a dx$ - 幂函数
+     1. $a\ne -1 时, \because (\frac{1}{a+1}x^{a+1})'=x^a$
+        * $\therefore \int x^a dx = \frac{1}{a+1}x^{a+1}+C;$ ;
+     2. $a=-1$
+        * If $x<0, [ln(-x)]'=\frac{1}{x} \Rightarrow \int \frac{1}{x}dx=ln(-x)+C$
+        * $\therefore \int\frac{1}{x}dx = ln |x|+C$
+          * 如: 
+            * $\int \frac{1}{x^4}dx=\int x^{-4}dx=-\frac{1}{3}x^{-3}+C$
+            * $\int \frac{1}{x\sqrt x}dx=\int x^{-\frac{3}{2}}dx=-2x^{-\frac{1}{2}}+C$
+  3. $(\frac{a^x}{lna})'=a^x$ - 指数函数
+     1. $\int a^xdx=\frac{a^x}{lna}+C$
+     2. $a=e 时, \int e^xdx=e^x+C$
+  4. 三角函数
+     1. $\int sinxdx=$
+        * $\because (-cosx)'=sinx$
+        * $\therefore \int sinxdx=-cosx+C$
+     2. $\int cosxdx = $
+        * $\because (sinx)'=cosx$
+        * $\therefore \int cosxdx=sinx+C$
+     3. $\int sec^2xdx=$
+        * $\because (tanx)'=sec^2x$
+        * $\therefore \int sec^2xdx=tanx+C$
+     4. $\int csc^2xdx=$
+        * $\because (-cotx)'=csc^2x$ 
+        * $\therefore \int csc^2xdxs=-cotx+C$
+     5. $\int secxtanxdx=$
+        * $\because (secx)'=secxtanx$
+        * $\therefore \int secxtanx dx=secx+C$
+     6. $\int cscxcotxdx=$
+        * $\because (-cscx)'=cscxcotx$
+        * $\therefore \int cscxcotxdx = -cscx+C$
+* Note: 
+  1. $\int f'(x)dx=f(x)+C$
+  2. $(\int f(x)dx)'=[F(x)+C]'$
+     * $=f(x)$
+     * e.g.
+       * $\int (x^2)'dx = x^2$
 
-![image-20230512163206227](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163206227.png)
+#### 不定积分 性质
 
-![image-20230512163222702](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163222702.png)
+1. $\int [f(x)\pm g(x)]dx=\int (fx)dx\pm \int g(x)dx$
+   * 证明: 
+     * 令 $\int f(x)dx=F(x)+C , \int g(x)dx=G(x)+C$
+     * $则 F'(x)=f(x), G'(x)=g(x)$
+     * $\because (\int[f(x)\pm g(x)]dx)'=f(x)\pm g(x)$
+     * $(\int f(x)dx\pm \int g(x)dx)'=(\int f(x)dx)'\pm (\int g(x)dx)'=f(xs)\pm g(x)$
+2. $\int af(x)dx=a\int f(x)dx$
 
-![image-20230512163236893](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163236893.png)
+* 例题
 
-![image-20230512163254358](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163254358.png)
+  * 4
+    * $\int (3e^x-\frac{1}{x}+sec^2x+2)dx$
+    * 解: 
+      * $\int(3e^x-\frac{1}{x}+sec^2x+2)dx$
+      * $=3\int e^xdx-\int \frac{1}{x}dx+\int{sec^2x}dx+\int 2dx$
+      * $=3e^x-ln|x|+tanx+2x+C$
 
-![image-20230512163307940](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163307940.png)
-
-![image-20230512163323609](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163323609.png)
-
-![image-20230512163338779](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163338779.png)
-
-![image-20230512163348896](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163348896.png)
-
-![image-20230512163400482](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163400482.png)
-
-![image-20230512163411758](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163411758.png)
-
-![image-20230512163534670](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512163534670.png)
-
-![image-20230512163947344](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164008051.png)
-
-![image-20230512164024580](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164024580.png)
-
-![image-20230512164238741](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164238741.png)
-
-![image-20230512164252159](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164252159.png)
+  * 5
+    * $\int{\frac{x^4}{x^2+1}}dx$
+    * 解: 
+      * $\int \frac{x^4}{x^2+1}dx=\frac{(x^4-1)+1}{x^2+1}dx=\int(x^2-1+\frac{1}{x^2+1})dx$
+      * $\int x^2dx-\int1dx+\int \frac{1}{1+x^3}dx=\frac{1}{3}x^3-x+arctanx+C$
 
 ### 第二节 积分方法-换元积分法(一) 
 
-![image-20230512164343327](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230512164343327.png)
+#### 第一类换元积分法
 
-![image-20230513122837965](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513122837965.png)
+* 公式
+  * $f'(x)dx=df(x)$
+    * 证明: 
+      * $f'(x) = lim_{Δx→0} \frac{f(x + Δx) - f(x)}  {Δx}$
+      * $\because df(x) = f(x + Δx) - f(x)$
+      * $f'(x) = lim_{Δx→0} \frac{df(x)}  {Δx}$
+      * $\therefore f'(x)dx=df(x)$
+* 例题
+  * 1
+    * $\int xe^{x^2}dx$
+    * 解: 
+      * $\int xe^{x^2}dx=\frac{1}{2}\int e^{x^2}d(x^2)\overset {x^2=t}{=}\frac{1}{2}\int e^tdt$
+      * $=\frac{1}{2}e^t+C=\frac{1}{2}e^{x^2}+C$
+  * 2
+    * $\int\frac{x}{1+x^4}dx$
+    * 解:
+      * $\int\frac{x}{1+x^4}dx=\frac{1}{2}\int\frac{1}{1+(x^2)^2}d(x^2)\overset{x^2=t}{=}\frac{1}{2}\int \frac{1}{1+t^2}dt$
+      * $=\frac{1}{2}arctant+C=\frac{1}{2}arctanx^2+C$
+  * 3
+    * $\int \frac{1}{x^2}cos\frac{1}{x}dx$
+    * 解:
+      * $\therefore (\frac{1}{x})'=-\frac{1}{x^2}, \therefore (-\frac{1}{x})'=\frac{1}{x^2}$
+      * $\int \frac{1}{x^2}cos\frac{1}{x}dx=-\int cos\frac{1}{x}d(\frac{1}{x})\overset{\frac{1}{x}=t}{=}-\int costdt=-sint+C=-sin\frac{1}{x}+C$
+  * 4
+    * $\int \frac{1}{2x+3}dx$
+    * 解:
+      * $\int \frac{1}{2x+3}dx=\frac{1}{2}\int\frac{1}{2x+3}d(2x+3)\overset{2x+3=t}{=}\frac{1}{2}\int\frac{1}{t}dt$
+      * $=\frac{1}{2}ln|t|+C=\frac{1}{2}ln|2x+3|+C$
 
-![image-20230513122856272](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513122856272.png)
+* 定理1
+  * $f(u) \exists 原函数, \phi (x) 可导, F(u) 为 f(u) 的 原函数, 则 $
+  * $\int f[\phi(x)]\phi'(x)dx=\int f[\phi(x)]d\phi(x)\overset{\phi(x)=t}{=}\int f(t)dt=F(t)+C=f[\phi(x)]+C$
+  * 称为 **第一类换元积分法**
+* 例题1
 
-![image-20230513123129200](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513123129200.png)
 
-![image-20230513123149004](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513123149004.png)
 
 ![image-20230513123204874](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513123204874.png)
 

@@ -514,7 +514,10 @@
 
 * → She was <u>too</u> excited <u>to</u> do any housework that morning, **for in the evening she would be going to a fancy-dress party with her husband.**
   * 未加粗的部分是主句,
-  * too ... to ... 太... 以至于 ... (表否定)
+  * **too ... to ...** 太... 以至于 ... (表否定)
+  * **housework** && **homework** 都是不可数名词
+    * **household chore** 也表示家务活, 是可数, 习惯上用复数
+      * 
 
 **### text 2**
 
