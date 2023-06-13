@@ -1099,14 +1099,18 @@
   * $\int f[\phi(x)]\phi'(x)dx=\int f[\phi(x)]d\phi(x)\overset{\phi(x)=t}{=}\int f(t)dt=F(t)+C=f[\phi(x)]+C$
   * 称为 **第一类换元积分法**
 * 例题1
+  1. $\int \frac{1}{x^2-x-2}dx$
+     * $(记: \int \frac{1}{1+x^2}dx=arctanx+c)$
+     * $\int \frac{1}{x^2-x-2}dx=\int \frac{1}{(x+1)(x-2)}dx=\frac{1}{3}\int(\frac{1}{x-2}-\frac{1}{x+1})dx$
+     * $=\frac{1}{3}\int \frac{1}{x-2}d(x-2)-\frac{1}{3}\int\frac{1}{x+1}d(x+1)$
+     * $=\frac{1}{3}ln|x-2|-\frac{1}{3}ln|x+1|+c=\frac{1}{3}ln |\frac{x-2}{x+1}|+c$
+  2. $\int \frac{dx}{x^2+2x+2}$
+     * $\int \frac{1}{1+(x+1)^2}d(x+1) = arctan(x+1)+c$
+  3. $\int \frac{x}{x^2+3}dx$
+     * 解: $\int\frac{x}{x^2+3}dx=\frac{1}{2}\int \frac{1}{x^2+3}d(x^2+3)=\frac{1}{2}ln(x^2+3)+c$
+  4. 
 
 
-
-![image-20230513123204874](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513123204874.png)
-
-![image-20230513124129614](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124129614.png)
-
-![image-20230513124147628](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124147628.png)
 
 ![image-20230513124209234](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124209234.png)
 
