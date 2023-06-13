@@ -1108,51 +1108,86 @@
      * $\int \frac{1}{1+(x+1)^2}d(x+1) = arctan(x+1)+c$
   3. $\int \frac{x}{x^2+3}dx$
      * 解: $\int\frac{x}{x^2+3}dx=\frac{1}{2}\int \frac{1}{x^2+3}d(x^2+3)=\frac{1}{2}ln(x^2+3)+c$
-  4. 
+  4. $\int \frac{sinx\sqrt x}{\sqrt{x}}dx$
+     * 解: 
+       * $\because (\sqrt x)'=(x^{\frac{1}{2}})'=\frac{1}{2}x^{-\frac{1}{2}}=\frac{1}{2\sqrt x}$
+       * $\therefore \int \frac{sin\sqrt x}{\sqrt x}dx=2\int \frac{sinx\sqrt x}{2\sqrt x}dx=2\int sin\sqrt x d(\sqrt x)$
+       * $\overset {\sqrt x=t}{=}2\int sintdt = -2cost +c =-2cos\sqrt x + C$
 
+* 公式积累: 
+  1. $\int K dx = kx+C; $
+  2. $\int x^adx=\begin{cases}\frac{1}{a+1}x^{a+1}+C & ,a\ne-1  \\ ln |x|+C & ,a=-1 \end{cases}$
+  3. $\int a^xdx=\begin{cases} \frac{a^x}{ln a}+ C &,a\ne e \\ e^x+C & ,a=e \end{cases}$
+  4. .
+     1. $\int sinxdx = -cosx+C$
+     2. $\int cosxdx = sinx+C$
+     3. $\int tanx dx=\int \frac{sinx}{cosx}dx= -\int \frac{1}{cosx}\cdot d(cosx)= -ln |cosx|+C$
+     4. $\int cotxdx =\int \frac{cosx}{sinx}dx=\int \frac{1}{sinx}\cdot d(sinx)= ln |sinx|+C$
+  5. 插入例题, 引入接下来的公式
+     * 例题4 
+       * $\int cscx dx$
+       * 解: 
+         * $\int cscxdx = \int \frac{1}{sinx}dx=\int \frac{1}{2sin\frac{x}{2}cos\frac{x}{2}}dx $
+         * $=\int \frac{1}{tan\frac{x}{2}\cdot cos^2\frac{x}{2}}d(\frac{x}{2})=\int \frac{sec^2\frac{x}{2}}{tan\frac{x}{2}}d(\frac{x}{2})\overset{\frac{x}{2}=t}{=}\int \frac{sec^2t}{tant}dt=\int\frac{1}{tant}\cdot d(tant)$
+         * $=ln|tant|+C=ln |tan\frac{x}{2}|+C$
+         * $\because tan\frac{x}{2}=\frac{sin\frac{x}{2}}{cos\frac{x}{2}}=\frac{2sin^2\frac{x}{2}}{2sin\frac{x}{2}cos\frac{x}{2}}=\frac{1-cosx}{sinx} = cscx -cotx$
+         * $so, ⑤ \int cscxdx=ln |tan\frac{x}{2}|+C=ln|cscx-cotx|+C$
+     * 例题5
+       * $\int secxdx$
+       * 解: 
+         * $\int secx dx=\int \frac{1}{cosx}dx=\int \frac{1}{sin(x+\frac{\pi}{2})}\cdot d(x+\frac{\pi}{2})=\int csc(x+\frac{\pi}{2})d(x+\frac{\pi}{2})$
+         * $=ln|csc(x+\frac{\pi}{2})-cot(x+\frac{\pi}{2})|+C$
+         * $=ln|secx+tanx|+C$
+  6. $\int secxdx=ln |secx+ tanx|+C$
+  7. $\int sec^2xdx=tanx + C$
+  8. $\int csc^2xdx=-cotx+C$
+  9. $\int secxtanxdx=secx+C$
+  10. $\int cscxcotxdxs=-cscx+C$
 
+* 平方和 / 平方差公式
+  1. $\int \frac{1}{\sqrt{1-x^2}}dx=\int \frac{1}{\sqrt{1-(\frac{x}{a})^2}}d(\frac{x}{a}) \overset{\frac{x}{a}=t}{=}\int \frac{1}{\sqrt{1-t^2}}dt=arcsint+C=arcsin\frac{x}{a}+C$
+  2. $\int \frac{1}{\sqrt {a^2-x^2}}dx=arcsin\frac{x}{a}+C(a>0)$
+  3. $\int \frac{1}{1+x^2}dx=arctanx+C$
+  4. $\int \frac{1}{a^2+x^2}dx=\frac{1}{a^2}\int\frac{1}{1+(\frac{x}{a})^2}dx=\frac{1}{a}\int \frac{1}{1+(\frac{x}{a})^2}d(\frac{x}{a}) \overset{\frac{x}{a}=t}{=}\frac{1}{a}\int \frac{1}{1+t^2}dt=\frac{1}{a}arctant+C=\frac{1}{a}arctan\frac{x}{a}+C$
+  5. $\int \frac{1}{x^2-a^2}dx=\frac{1}{2a}ln |\frac{x-a}{x+a}|+C$
+     * $\int \frac{1}{x^2-a^2}=\int \frac{1}{(x-a)(x+a)}dx=\frac{1}{2a}\int (\frac{1}{x-a}-\frac{1}{x+a})dx$
+     * $=\frac{1}{2a}\int \frac{1}{x-a}d(x-a)-\frac{1}{2a}\int \frac{1}{x+a}d(x+a)=\frac{1}{2a}ln|x-a|-\frac{1}{2a}ln|x+a|+C$
+  6. .
+  7. .
+  8. . (6/7/8 下一章会讲)
 
-![image-20230513124209234](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124209234.png)
-
-![image-20230513124227079](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124227079.png)
-
-![image-20230513124239875](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124239875.png)
-
-![image-20230513124250256](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124250256.png)
-
-![image-20230513124311009](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124311009.png)
-
-![image-20230513124332402](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124332402.png)
-
-![image-20230513124818495](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124818495.png)
-
-![image-20230513124834304](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124834304.png)
-
-![image-20230513124845120](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124845120.png)
-
-![image-20230513124856675](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124856675.png)
-
-![image-20230513124942590](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513124942590.png)
-
-![image-20230513125001864](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125001864.png)
-
-![image-20230513125052916](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125052916.png)
-
-![image-20230513125107879](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125107879.png)
-
-![image-20230513125120829](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125120829.png)
-
-![image-20230513125222139](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125222139.png)
-
-![image-20230513125234656](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125234656.png)
-
-![image-20230513125247295](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125247295.png)
-
-
+* 例题
+  6. $\int (1-\frac{1}{x^2})e^{x+\frac{1}{x}}dx$
+     * 解: 
+       * $\int(1-\frac{1}{x^2})e^{x+\frac{1}{x}}dx=\int e^{x+\frac{1}{x}}d(x+\frac{1}{x})=e^{x+\frac{1}{x}}+C$
+  7. $\int \frac{1}{\sqrt x (4+x)}dx$
+     * 解: 
+       * $\int \frac{1}{\sqrt (4+x)}dx=2\int\frac{1}{2\sqrt x (4+x)}dx$
+       * $=2\int \frac{1}{2^2+(\sqrt x)^2}d(\sqrt x) \overset{\sqrt x}{t} 2\int \frac{1}{2^2+t^2}dt=2\cdot \frac{1}{2}arctan\frac{t}{2}+C$
+       * $=arctan\frac{\sqrt x}{2}+C$
+  8. .
+     1. $\int \frac{1}{xln^2x} dx$
+        * 原式= $\int \frac{1}{ln^2x}d(lnx)=-\frac{1}{lnx}+C$
+     2. $\int \frac{1}{x(2lnx+1)}dx$
+        * 原式$=\frac{1}{2}\int \frac{1}{2lnx+1}d(2lnx+1)$
+        * $=\frac{1}{2}ln |2lnx+1|+C$
+  9. $\int sin^3xdx$
+     * 解:
+       * $\int sin^3xdx=-\int sin^2xd(cosx)$
+       * $=-\int (1-cos^2x)d(cosx)\overset{ cosx=t}{=}\int {t^2-1}dt$
+       * $=\frac{1}{3}t^3-t+C=\frac{1}{3}cos^3x-cosx+C$
 
 ### 第二节 积分方法-换元积分法(二) 
 
-![image-20230513125310191](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125310191.png)
+* 复习第一类换元积分法
+  * $\int f[\phi(x)]\phi'(x)dx=\int f[\phi(x)]d\phi(x)\overset{\phi(x)=t}{=}\int f(t)dt=F(t)+C=F[\phi(x)]+C$
+    * 如:
+      * $\int sec^4xdx=\int (tan^2x+1)d(tanx)$
+      * $=\frac{1}{3}tan^3x+tanx+C$
+
+#### 第二类换元积分法
+
+* Case 1. 无理数
 
 ![image-20230513125323197](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125323197.png)
 
