@@ -517,8 +517,92 @@
   * **too ... to ...** 太... 以至于 ... (表否定)
   * **housework** && **homework** 都是不可数名词
     * **household chore** 也表示家务活, 是可数, 习惯上用复数
-      * 
+      * household n. 家庭, 家人, 
+      * chore n. 琐事, 杂物
+      * → I spent all morning **doing (the) <u>housework</u> / <u>household chores</u>.**
+    * **<u>do</u>/<u>wash</u> the dishes** 洗碗筷
+      * **do the washing-up**  洗碗筷
+        * **washing-up** n. 洗涤碗碟 (习语搭配)
+      * 听力题
+        * W: Have you asked your brother to **do the dishes**? 
+        * M: Thousands of times.
+        * Q: What does the man mean?
+        * Answer: (D) He has asked his brother to **wash the dishes** many times.
+        * 听力题中经常会换 同义表达增强迷惑性
+    * **do the laundry/washing** n. 洗衣服
+      * **laundry** n. 要洗的衣服, 洗衣房
+      * **washing** n. 洗涤, 洗衣
+      * 注意区分 `do the washing` 和 `do the washing-up` 前者是洗衣, 后者去洗碗
+* **(过去)将来进行时** 表示一种**可预见性**, 而不是强调将来正在做. 这个事提前已经安排好了,到那个时间将会发生.
+  * (NCE3-4 P26-L14) He **will** soon **be working** in an office. He **will be earning** only half as much as he used to, ...
+* **(fancy-dress) costume ** n. 化妆服, 化妆晚会穿的衣服
+  * **fancy-dress party = masquerade(美式)** 化妆晚会
+    * fancy adj. 花哨的, 奇特的, v. 想象,想要, 喜欢 n. 幻想, 想象力
+* → She <u>intended to</u> dress up as a ghost <u>and</u> **as she had made her costume <u>the night before</u>**, she was impatient to try it on.
+  * **intend to do**  计划做 (主观上)
+    * → We **intend to** go to Australia next year.
+  * 同义词
+    * **mean to do** 有意做, 打算做
+      * mean 表示<u>意思是</u>. **但后面加 动词不定式**表示 有意做
+      * → (NCE3-57 P256-L10) He always **meant to** <u>go back</u> one day but not to stay.
+    * **be going to do** 有意做某事, 打算做某事
+      * → I'**m going to** have my hair cut this weekend.
+      * → (NCE3-20 P90-L12) Both planes **were going to** take off on July 25th, but Latham failed to get up earlv enough.
+    * **have every intention of doing .... ** (较为正式) 有意做某事, 很想做某事
+      * intention n. 意图, 打算, 目的
+      * 形似词: 
+        * attention n. 注意力
+      * → I **had every intention of** phoning her this morning, but Ijust didn't get a chance.
+  * 反义词
+    * **not intend to do**  不打算做某事, 没打算做某事
+    * **not mean to do** 不打算做某事, 没打算做某事
+    * **be not going to do** 不打算做某事, 没打算做某事
+    * **have no intention of doing ...** 不打算做某事, 没打算做某事
+      * → (NCE3-28 P134-L9) I **<u>had no intention of</u> buying one**, but I could not conceal the fact that I was impressed by the size of the diamonds.
+  * 意似词
+    * **tend to do**  有倾向的计划做 (客观趋势/非主观意愿/ 往往, 常常, 大多数情况下)
+* **dress up as** ... 打扮成 .... 的模样
+  * → The children **dressed up as** pirates for Halloween.
+  * **dress sb. up as ... ** 把某人装扮成
+    * → We **dressed** him **up as** a gorilla.
+    * → (NCE3-40 P182-L8) ...,he immediately telephoned the police and informed them that two students **dressed up as workmen** were tearing up the road with a pneumatic drill.
+  * 造句：他打扮成一个鬼去参加这个化妆晚会.
+    * → He went to the fancy-dress party dress up as a ghost.
+  * **disguise sb. as** ....把某人装扮成
+    * **disguised sb. as ....** 某人被装扮成
+      * → He **disguised** himself **as** a dustman. 
+      * disguised as ... (非谓语动词)
+        * → (NCE4-9 P53-L1) Alfred the Great acted as his own spy, visiting Danish camps **disguised as a minstrel.**
+* **the night before** n. 某一天的前一天晚上
+  * **the <u>earlier</u> / <u>previous</u> / <u>preceding</u> night** n. 某一天的前一天晚上
+    * **the <u>earlier</u> / <u>previous</u> / <u>preceding</u> day** n. 某天的前一天
+  * **the night after** n. 某一天的后一天晚上
+  * **the <u>next</u> /<u>following</u>/<u>succeeding</u>** **night** n. 莫一天的后一天晚上
+    * **the <u>next</u> /<u>following</u>/<u>succeeding</u>** **day** 某一天的下一天
+* **be impatient to do **n. 急不可耐的想做某事, 迫不及待地想做某事...
+  * impatient adj. 不耐烦的
+  * **be <u>eager</u> / <u>anxious</u> / <u>itching</u> / <u>desperate</u> / <u>dying</u> to do.** n. 迫不及待地想做某事..., 急切的想要做某事... 
+    * eager adj. 渴望的
+    * anxious adj. 焦虑的
+    * itching adj. 瘙痒, 感觉痒
+    * desperate adj. 绝望的 
+      * be desperate to do 语气稍重
+    * dying adj. 临终的, 垂死
+      * be dying to do 语气稍重
+  * can't wait to do  等不及去做某事
+* consist v. 由...组成
+  * → Though the costume **consisted only of** a sheet.
+    * → Though the costume **was composed only** of a sheet....
+* find 是找到, find out 是获取信息
+  * figure out  弄清楚, 找到答案
+* 形容词后的动词不定式都用主动结构. 
+  * → He is <u>easy</u> **to fool.**
+  * → She is. extremely <u>difficult</u> **to please.**
+  * → The machine is <u>awkward</u> **to handle.**
+  * → The man is <u>hard</u> **to work with.**
 
 **### text 2**
+
+
 
 ## L14
