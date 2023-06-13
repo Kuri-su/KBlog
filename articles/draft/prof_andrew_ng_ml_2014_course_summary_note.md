@@ -159,8 +159,8 @@
 
 * L4-5 Features and polynomial regression
 
+    * // TODO
 
-  * // TODO
 
 
 ## L5 Octave/Matlab Tutorial
