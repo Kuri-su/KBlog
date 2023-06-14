@@ -1188,12 +1188,26 @@
 #### 第二类换元积分法
 
 * Case 1. 无理数
-
-![image-20230513125323197](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125323197.png)
-
-![image-20230513125337033](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125337033.png)
-
-![image-20230513125408576](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125408576.png)
+  * 例题
+    1. $\int\frac{dx}{\sqrt{x(1-x)}}$
+       * 解: 
+         * $\int\frac{dx}{\sqrt{x(1-x)}}=2\int\frac{1}{2\sqrt x\cdot\sqrt {1-x} }dx=2\int \frac{1}{\sqrt{1-(\sqrt x)^2}}d(\sqrt x)$
+         * $=2arcsin\sqrt x +C$
+    2. $\int \frac{x^2}{\sqrt{x^3+1}}dx$
+       * 解:
+         * $\int\frac{x^2}{\sqrt{x^3+1}}dx=\frac{2}{3}\frac{1}{^2\sqrt{x^3}{+1}d(x^3+1)}=\frac{2}{3}\sqrt{x^3 +1}+C$
+    3. $\int x\sqrt{1-x^2}dx$
+       * 解: 
+         * 原式 = $-\frac{1}{2}\int (1-x^2)\frac{1}{2}d(1-x^2)\overset{1-x^2=t}{=}-\frac{1}{2}\int t^\frac{1}{2}dt$
+         * $=-\frac{1}{2}\cdot \frac{2}{3}t^\frac{3}{2}+C=-\frac{1}{3}t^\frac{3}{2}+C=-\frac{1}{3}(1-x^2)^\frac{3}{2}+C$
+    4. $\int \frac{1}{1+\sqrt x} dx$
+       * 解: 
+         * 令 $\sqrt x =t  或 x= t^2$
+         * 原式=$2\int\frac{t}{1+t}dt=2\int (1-\frac{1}{1+t})dt=2[t-ln|1+t|]+C$
+           * $=2\sqrt x-2 ln (1+\sqrt x)+C$
+* 定理 2: 
+  * $x=\psi (t) 可导 且 \psi '(t)\ne 0$
+    * 
 
 ![image-20230513125430394](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125430394.png)
 
