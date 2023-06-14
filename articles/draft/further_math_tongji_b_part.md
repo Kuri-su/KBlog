@@ -1205,15 +1205,31 @@
          * 令 $\sqrt x =t  或 x= t^2$
          * 原式=$2\int\frac{t}{1+t}dt=2\int (1-\frac{1}{1+t})dt=2[t-ln|1+t|]+C$
            * $=2\sqrt x-2 ln (1+\sqrt x)+C$
-* 定理 2: 
-  * $x=\psi (t) 可导 且 \psi '(t)\ne 0$
-    * 
+  * 定理 2: 
+    * $x=\psi (t) 可导 且 \psi '(t)\ne 0$
+      * $\int f(x)dx\overset{x=\psi(t)}{=}\int f[\psi(t)]\psi'(t)dt$
+      * $=\int g(t)dt=G(t)+C=G[\psi^{-1}(x)]+C$
+        * $x=\psi(t) \Rightarrow t=\psi^{-1}(x)$
+    * 例5: 
+      * $\int\frac{dx}{\sqrt x+ ^3\sqrt x}$
+      * 解:
+        * 令 $x=t^6, 则$
+        * $\int \frac{dx}{\sqrt x+^3\sqrt x}\overset {x=t^6}{=}6\int{\frac{t^5}{t^3+t^2}}dt=6\int \frac{(t^3+1)-1}{t+1}dt$
+        * $=6\int (t^2-t+1-\frac{1}{t+1})dt$
+        * $=6[\frac{1}{3}t^3-\frac{1}{2}t^2+t-ln|t+1|]+C=2t^3-3t^2+6t-6ln|t+1|+C$
+        * $=2\sqrt x-3\ ^3\sqrt x+6\ ^6\sqrt x-6ln(^6\sqrt x +1)+C$
 
-![image-20230513125430394](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125430394.png)
+* Case 2. 平方和
+  1. $\sqrt{a^2-x^2}\overset{x=asint}{=}acost$
+  2. $\sqrt{x^2+a^2}\overset{x=atant}{=}asect$
+  3. $\sqrt{x^2-a^2}\overset{x=asect}{=}atant$
+  4. 
 
-![image-20230513125446704](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125446704.png)
 
-![image-20230513125538892](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125538892.png)
+
+
+
+
 
 ![image-20230513125555221](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125555221.png)
 
