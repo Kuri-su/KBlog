@@ -1221,17 +1221,14 @@
 
 * Case 2. 平方和
   1. $\sqrt{a^2-x^2}\overset{x=asint}{=}acost$
+     * 例题:
+       * 
   2. $\sqrt{x^2+a^2}\overset{x=atant}{=}asect$
+     * 例题: 
+       * 
   3. $\sqrt{x^2-a^2}\overset{x=asect}{=}atant$
-  4. 
-
-
-
-
-
-
-
-![image-20230513125555221](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125555221.png)
+     * 例题: 
+       * 
 
 ![image-20230513125615113](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125615113.png)
 
