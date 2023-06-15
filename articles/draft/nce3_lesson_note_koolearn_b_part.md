@@ -696,7 +696,34 @@
       * read one's mind 读懂某人的心思, 看透某人的想法
       * read one's palm 看手相
         * palm n. 手掌,手心, v. 掌握, 藏起来
-* She tried to explain the situation, **saying** **<u>'It's only me'</u>**, but it was too late.
-  * 
+* She tried to explain the situation, **saying** **<u>'It's only me'</u>**, <u>but</u> it was too late.
+  * situation n. 情况, 形势
+  * She tried to explain the situation and said it's only me'. (不佳, 问题在于这样写的话 tried 和 said 看上去同样重要, 英文的句子要写成树形的, 而不是像中文一样是竹子形的.)
+    * 汉语：parataxis—平行语，连动句，没有轻重之别。
+    * 英语：hypotaxis—层次语，突出中心动词(作为谓语动词) ，次要动词状语化(非谓语, 独立主格, 状语从句等)。
+  * 这句话在强调前面的解释这个情况, 如果想强调后面的 It's only me. 可以像下面这样写
+    * → <u>Trying to explain the situation</u>, she <u>**said**</u> 'it's only me'.
+  * 改写句子
+    * → He looked at his watch and **saw** that it was one o'clock, but the bell **struck** thirteen times and then it stopped. (劣, 重点不明确)
+    * → (NCE3-2 P18-L6) <u>Looking at his watch</u>, he **<u>saw</u>** that it was one o'clock, but the bell **<u>struck</u>** thirteen times <u>before it stopped.</u>  (优, 主次得当)
+* let out v. 释放，泄漏，放松，放开，发出（声音）
+  * **let out** a <u>cry </u> 发出一声大叫
+    * **cry** v./n. 哭泣, 喊叫
+  * **let out** a <u>scream</u> 发出一声尖叫
+  * **utter** v. 喉咙发出什么声音
+    * **utter** a <u>cry</u>/<u>scream</u>
+  * **give**  v. 发出
+    * **give** a <u>cry</u>/<u>scream</u>
+* toward 是单音节词
 
-## L14
+## L14 A noble gangster
+
+**## word**
+
+
+
+**## text1**
+
+
+
+**## text2**

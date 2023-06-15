@@ -1222,19 +1222,36 @@
 * Case 2. 平方和
   1. $\sqrt{a^2-x^2}\overset{x=asint}{=}acost$
      * 例题:
-       * 
+       *  $\int \sqrt{a^2-x^2}dx$
+       * 解:
+         *  令 $x=asint$
+         * 
+       * ![image-20230513125913912](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125913912.png)
   2. $\sqrt{x^2+a^2}\overset{x=atant}{=}asect$
      * 例题: 
-       * 
+       1. $\int\frac{1}{\sqrt{x^2+a^2}}$
+          * 解: 
+            * 令 $x=atant$
+            * 原式 = $\int \frac{asec^2t}{asect}dt = \int sectdt$
+            * $=ln|sect+tant|+C$
+            * $=ln|\frac{x}{a}+\frac{\sqrt{x^2+a^2}}{a}|+C$
+            * $=ln|x+\sqrt{x^2+a^2}|+C$
+            * $=ln(x+\sqrt{x^2+a^2})+C$
+            * $\therefore \int \frac{dx}{\sqrt{x^2+a^2}}=ln (x+\sqrt{x^2+a^2})+C$
   3. $\sqrt{x^2-a^2}\overset{x=asect}{=}atant$
      * 例题: 
-       * 
+       1. $\int \frac{dx}{\sqrt{x^2+a^2}}$
+          * 解: 
+            * 令 $x=asect$
+            * $\int \frac{dx}{\sqrt{x^2-a^2}}=\int\frac{asecttant}{atant}dt=\int sect\ dt$
+            * $=ln |sect+tant|+C$
+            * $=ln|\frac{x}{a}+\frac{\sqrt{x^2-a^2}}{a}|+C$
+            * $=ln|x+\sqrt{x^2-a^2}|+C$
+            * $\therefore \int \frac{dx}{\sqrt{x^2-a^2}}=ln|x+\sqrt{x^2-a^2}|+C$
 
-![image-20230513125615113](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125615113.png)
 
-![image-20230513125630933](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125630933.png)
 
-![image-20230513125913912](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125913912.png)
+
 
 ![image-20230513125936013](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125936013.png)
 
