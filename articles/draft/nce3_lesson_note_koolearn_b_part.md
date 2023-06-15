@@ -603,6 +603,100 @@
 
 **### text 2**
 
-
+* **Just as** Mrs. Richards was entering the dining room, there was a knock on the front door.
+  * **就在此时** 的同义搭配
+    * **Just as**  ...
+    * **At the very moment (when)** 
+      * → **At the very moment (when)** Mrs. Richards was entering the dining room, ..
+        * **very** adj. 正是, 就是
+  * **<u>无灵主语的应用</u>**
+    * 敲门
+      * → ..., **somebody knocked at the front door.**  (略显罗嗦)
+      * → **there was a knock on the front door.** (使用无灵主语, 简洁)
+    * 在中国有越来越多的人对英语感兴趣.
+      * → There are more and more people who are interested in English in China. (略显罗嗦)
+      * → **There is increasing interest** in English in China.(使用无灵主语, 简洁)
+    * 人们普遍同意妇女应该享有和男人完全的平等.
+      * → People generally agree that women should enjoy full equality with men. (略显罗嗦)
+      * → There is general agreement that women should enjoy full equality with men. (使用无灵主语, 简洁)
+        * There is general agreement among sb. that ..... (还是继续用无灵主语.)
+    * 例句: 
+      * → (NCE3-32 P150-L8) The sea bed was scoured with powerful nets and **there was tremendous excitement** on board when a chest was raised from the bottom.
+        * 那有大量的兴奋在船上, 当 木箱被拉起来的时候
+        * raise v. 提高, 举起
+        * rise v. 上升
+      * → While the quality of legal journalism varies greatly, **there is an undue reliance** amongst many journalists on interpretations supplied to them by lawyers.
+        * While 在书面语中, 尤其放句首的时候, 大多数翻译成尽管, 表让步.
+        * **vary **v. 变化
+        * **amongst(英式) 和 among(美式)**, amongst 相对 among 更正式
+        * **greatly** adv. 很大, 非常
+* 通常没看到人脸 , 不知道是男是女, 就会用 it 去指代, 而不是用 he/she/you.
+  * Who is it?
+  * Who is there?
+* → She had told him <u>to come straight in</u> **if ever she failed to open the door** <u>and</u> <u>to leave the bread on the kitchen table.</u>
+  * bread n. 面包
+  * come straight in
+    * straight adj./adv.  directly ; immediately; without delay.
+      * → I got home and went **straight** to bed 我回家直接睡觉了
+      * → Time is short so i'Il get **straight** to the point. 时间有点短, 我直奔主题了.
+      * 听力题: 
+        * M: We thought we'd all go out for lunch today. Can you be ready to leave at one o'clock?
+        * W: I have to pick up my car and do a couple of other errands. So I'll  just come **straight** to the restaurant.
+          * thought 是 think 的过去式, 
+          * **errands**  n. 日常生活需要完成的差事
+  * **If ever** = **whenever** 无论什么时候
+    * Maybe she was asleep.
+    * Maybe she was on the phone. 正在打电话, 不是在电话上面
+    * Maybe she was listening to music.
+    * Maybe she was in the bathroom.
+  * **happened to do** 碰巧
+    * - if she ever **happened not to ope**n the door and to leave the bread
+  * leave 留下
+    * Please **leave** a message. 留个信息
+    * Please **leave** your address. 请留下你的地址吧/ 留个地址
+    * Did anybody **leave** a jacket behind last night? 昨晚谁把夹克落在那忘拿走了?
+* **Not wanting to frighten the poor man**, Mrs. Richards quickly hid in the small storeroom under the stairs.
+  * poor man 可怜的家伙
+  * hid v. 隐藏, 是 hide 的过去式, hidden 是 hide 的过去分词
+  * 开头的非谓语动词 相当于 原因状语从句
+    * Because she didn't want to frighten the poor man, ..
+    * 类似的变化
+      * **Because he didn't want to be recognized,** the suspect(嫌疑犯) dressed up as a priest(牧师).
+        * $\Rightarrow$ **Not wanting to be recognized,** the suspect dressed up as a priest.
+* → Mrs. Richards realized **that it must be the man from the Electricity Board <u>who had come to read the metre.</u>**
+  * 想到某事
+    * sb. realize sth.
+    * **sth. occur to sb.**
+    * **sth. strike sb.**
+      * **strike** ./v. 打击,袭击, 
+    * **sth. dawn on sb.**
+      * **dawn** n. 黎明, 拂晓 v. 开始显露, 开始出现
+    * → (NCE2-46 P206-L4) <u>lt</u> suddenly **occurred to** <u>one of the workers</u> to open up the box.
+    * → It suddenly **struck** me how we could improve the situation.
+    * → (NCE3-37 P170-L15) It suddenly **dawned on** me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.
+    * → It suddenly **occurred to** Mrs. Richards that it must be .
+    * → It suddenly **struck** Mrs. Richards that it must be ..
+    * → It suddenly **dawned on** Mrs. Richards that it must be ...
+  * the man **from** the Electricity Board 来自于电力局的人
+    * **from**
+      * (NCE3-1 P14-L4) experts **from** the Zoo 来自于电力局的专家
+      * (NCE3-7 P38-L16) a spokeswoman **for** the Bank 在这银行工作的女发言人
+      * (NCE3-5 P30-L1) editors **of** newspapers and magazines 报纸或者杂志的编辑, 不表示在某个单位工作
+      * 英文中表示的意思不同, 会用不同的介词
+    * **Electricity Boar**d n. 电力公司, 电力局
+      * **board** n. 委员会(局), 木板, 董事会
+      * "Electricity Board" 通常是指一个负责管理和供应电力的机构，也就是我们常说的“电力公司”。这个名称的来历可能和电力行业历史相关。在以前的时代，电力系统是由公共部门或政府直接管理和经营的，通常由一个管理委员会（board）来负责。这个委员会通常会被称为 "Electricity Board"，因为它们的职责是管理和供应电力，因此这个名称就变成了代表电力公司的称呼。随着时间的推移，电力行业逐渐向私营化的方向发展，但这个名称仍然被保留下来，成为现在大多数国家中的主要名称。
+      * **the Water Board** n. 供水局, 自来水公司
+      * **the Gas Board** n. 煤气局, 煤气公司
+      * the board of directors n. 董事会, 董事局
+        * He is **<u>on the board</u>** / **<u>a board member.</u>** 他是董事会成员
+    * **read the meter** 读表
+      * **take a meter-reading** 读表 (取走表上的读数)
+      * read music 识乐谱
+      * read one's mind 读懂某人的心思, 看透某人的想法
+      * read one's palm 看手相
+        * palm n. 手掌,手心, v. 掌握, 藏起来
+* She tried to explain the situation, **saying** **<u>'It's only me'</u>**, but it was too late.
+  * 
 
 ## L14
