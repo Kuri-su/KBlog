@@ -1249,17 +1249,25 @@
             * $=ln|x+\sqrt{x^2-a^2}|+C$
             * $\therefore \int \frac{dx}{\sqrt{x^2-a^2}}=ln|x+\sqrt{x^2-a^2}|+C$
 
-
-
-
-
-![image-20230513125936013](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125936013.png)
-
-![image-20230513125945704](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125945704.png)
-
-![image-20230513130043252](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130043252.png)
-
-![image-20230513130052688](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130052688.png)
+* 基本公式
+  1. $\int K dx =kx+C$
+  2. $\int x^adx=\begin{cases} \frac{1}{a+1}x^{a+1}+C & a\ne -1\\ ln |x|+C & a=-1 \end{cases}$
+  3. $\int a^xdx=\begin{cases} \frac{a^x}{ln a}+C & ,a\ne e \\ e^x+c&,a=e \end{cases}$
+  4. 三角函数
+     1. $\int sinxdx=-cosx+C$
+     2. $\int cosxdx=sinx+C$
+     3. $\int tanxdx=-ln|cosx|+C$
+     4. $\int cotxdx=ln|sinx|+C$
+     5. $\int secxdx=ln|secx+tanx|+C$
+     6. $\int cscxdx=ln|cscx-cotx|+C$
+     7. $\int sec^2xdx=tanx+C$
+     8. $\int csc^2xdx=-cotx+C$
+     9. $\int secxtanxdx=secx+C$
+     10. $\int cscxcotxdx=-cscx+C$
+  5. 平方和 差
+     1. $\int\frac{1}{\sqrt{1-x^2}}dx=arcsinx+C$
+     2. $\int\frac{1}{\sqrt{a^2-x^2}}dx=arcsin\frac{x}{a}+C$
+     3. 
 
 ![image-20230513130134444](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130134444.png)
 
