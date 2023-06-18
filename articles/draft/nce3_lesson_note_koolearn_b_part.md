@@ -763,11 +763,77 @@
   * A 把 B 租给了 C
     * **A hires/rents (out) B to C**
     * **C hires/rents B from A**
-* 
+* dedicate /ˈdɛd.ɪ.keɪt/ v.  奉献, 把...(时间, 精力...) 奉献给  (把某些东西投入到 ... 里面去..., 但还是属于原作者 ), 把... 题献给某人...  
+  * ate 在动词末尾一般是发双元音 /ei/ 的音
+  * **<u>dedicate</u>**/**<u>devote</u>** **... to ....**  
+    * → He has **dedicated** himself **to** scientific research.
+    * **devote** /dɪˈvəʊt/ v. 献身于, 致力于, 专心于
+      * → (NCE2-85 P390-L10) After he has retired, he will **devote** himself **to** gardering.
+    * 近义词
+      * **sacrifice .. . for ...**  为...献祭... (舍弃, 不再属于 主语, 彻底不要了)
+    * **dedicated to** my beloved wife 把这个作品 题献给我深爱的妻子
+      * beloved 心爱的, 被喜爱的
+    * **dedicated** /ˈdɛdɪkeɪtɪd/ adj. 专用的, 全身心投入的, 
+      * → (NCE3-34 P158-L8) A truly **dedicated** bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it.
+        * bargain /ˈbɑːɡən/ n. 廉价货, 便宜货 v. 议价, 谈判
+* memory /ˈmɛməri/ n. 记忆, 回忆, 记忆力, 纪念 (对死者的追忆, 哀思)
+  * in memory of ... 以纪念某人...
+  * to the memory of ... 以纪念...
+    * → The monument was built **in memory of** all the soldiers who died in the war.
+    * → The monument was built **to the memory of** all the soldiers who died in the war.
+  * **commemorate** /kəˈmɛməreɪt/ v. 纪念(某事, 某人, 这个词搭配更加灵活, 含义更加宽泛)
+    * → A statue has been built to commemorate the 100th anniversary of the poet's birthday.
+      * statue /ˈstætʃuː/ n. 雕像, 雕塑
 
 **## text1**
 
-
+* → <u>There was a time when</u> the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'. 
+  * **there was <u>a time</u> when .... = once **曾经
+    * → **There was a time when** I was <u>down and out.</u>
+      * down and out : 穷困潦倒,低谷.  (来自拳击里的词汇, 表示被打趴下了, )
+    * 同样用 there be + when 的句型: 
+      * **there are <u>times</u> when ... = sometimes** 有时候
+        * → **There are times when** even the tiger sleeps.  即使是老虎也有打盹的时候
+        * → **There are times when** silence has the loudest voice. 有时候, 沉默是最响亮的声音.
+        * → (NCE3-27 P130-L6) **There are times when** we would wilingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.  有时候，我们会不惜一切去挽救自己的生命，但却可能会因为付给外科医生高额的费用提供这项服务而感到不满。
+      * **there are rare instances when ... = occasionaly ** 偶尔
+        * → (NCE3-35 P162-L7) **There are rare instances when** justice almost ceases to be an abstract concept.
+  * 同一个词在可数不可数时意思不同
+    * business / businesses
+      * → (NCE3-7 P38-L9) Arecent.case concerns Jane Butlin whose fiance, John, runs **a** successful furniture **business**.
+        * a business (可数) 公司, 商业, 商号
+      * → (NCE3-14 P66-L4).. put a man out of **business** ..
+        * business (不可数) 商业
+      * → (NCE3-14 P66-L12) .., when **business** was bad,
+        * business (不可数) 生意 (没冠词也没复数, 单独使用, 表示这是不可数名词)
+        * → He has done a lot of **business** here in Beijing.
+  * 表示钱的数量
+    * **pay large sums of money** 支付一大笔钱
+    * **make large sums of money** 赚了一大笔钱
+      * → (NCE3-14 P66-L14) Hawkwood **made large sums of money** in this way.
+    * **earn enormous sums of money** 赚了海量的钱
+      * (NCE3-21 P106-L19) He earned enormous sums of money
+        * enormous  adj. 巨大的, 庞大的, 海量的
+  * **in return for...**  以换取
+    * → America helped the rebels **in return for** their promise to support democracy.
+      * rebels n. 叛乱分子, v. 反叛, 反抗
+      * democracy n. 民主, 民主制度
+    * 省略宾语时, 介词必须一并省略, 因为介词后面跟宾语
+      * → He is always willing to help people out, without expecting anything in return <u>(for his help)</u>.
+    * 同义搭配
+      * **in exchange for ...** 以换取, 以交换...
+        * → They were given food and shelter **in exchange for** work.
+          * shelter n. 住处, 避难所 v. 庇护, 掩蔽
+      * **in compensation for ...** 以补偿, 以弥补
+        * → She received $10,000 **in compensation for** her injuries at work.
+    * 目的状语
+      * **in memory of ...**  以追忆 ... (后面跟一个 已死之人)
+      * **in honor of ...** 以纪念..., 为 ... 表示敬意... (后面跟的人不做限制)
+        * → The college was named **in honor of** George Washington.
+        * → a banguet **in honor of** the president
+          * banquet n. 宴会, 盛宴 v. 款待, 宴请
+      * **in appreciation of ... ** 以感谢某人
+        * → I sent him a gift **in appreciation of** his help.
 
 **## text2**
 
