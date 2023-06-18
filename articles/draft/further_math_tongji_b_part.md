@@ -1267,15 +1267,29 @@
   5. 平方和 差
      1. $\int\frac{1}{\sqrt{1-x^2}}dx=arcsinx+C$
      2. $\int\frac{1}{\sqrt{a^2-x^2}}dx=arcsin\frac{x}{a}+C$
-     3. 
-
-![image-20230513130134444](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130134444.png)
-
-![image-20230513130146310](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130146310.png)
-
-![image-20230513130201286](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130201286.png)
-
-![image-20230513130223114](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130223114.png)
+     3. $\int \frac{1}{1+x^2}dx=arcsin\frac{x}{a}+C$
+     4. $\int \frac{1}{a^2+x^2}dx=\frac{1}{a}arctan\frac{x}{a}+C$
+     5. $\int \frac{1}{x^2-a^2}dx=\frac{1}{2a}ln |\frac{x-a}{x+a}|+C$
+     6. $\int \frac{1}{\sqrt{x^2+a^2}}dx=ln(x+\sqrt{x^2+a^2})+C$
+     7. $\int \frac{1}{\sqrt{x^2-a^2}}dx=ln|x+\sqrt{x^2-a^2}|+C$
+     8. $\int \sqrt{a^2-x^2}dx=\frac{a^2}{2}arcsin\frac{x}{a}+\frac{1}{2}x\sqrt{a^2-x^2}+C$
+* 例题
+  * 4
+    * $\int\frac{dx}{\sqrt{x^2+x+1}}$
+    * 解: 
+      * 原式 = $\int \frac{1}{\sqrt{(x+\frac{1}{2})^2+(\frac{\sqrt3}{2})^2}}d(x+\frac{1}{2})$
+        * $\overset{x+\frac{1}{2}=t}{=}\int \frac{1}{\sqrt{t^2+(\frac{\sqrt3}{2})^2}}dt=ln(t+\sqrt{t^2+(\frac{\sqrt3}{2})^2})+C$
+        * $=ln(x+\frac{1}{2}+\sqrt{x^2+x+1})+C$
+  * 5
+    * $\int \frac{1}{\sqrt{2x-x^2}}dx$
+    * 解: 
+      * 原式 = $\int \frac{1}{\sqrt{1-(x-1)^2}}d(x-1)=arc(x-1)+C$
+  * 6
+    * $\int \frac{1}{x^2\sqrt{1-x^2}}dx$
+    * 解: 
+      * 原式 = $\int \frac{1}{sin^2t\cdot cost}\cdot costdt=\int csc^2tdt$
+      * $=-cott+C$
+      * $-\frac{\sqrt{1-x^2}}{x}+C$
 
 ### 第三节 分部积分法
 

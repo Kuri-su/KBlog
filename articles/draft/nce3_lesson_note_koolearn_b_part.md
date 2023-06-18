@@ -720,10 +720,57 @@
 
 **## word**
 
-
+* **gangster** /ˈɡæŋstər/ n. 匪徒, 歹徒, 暴徒, 黑社会成员 (中的一个人)
+  * **gang** n. 团伙, 匪帮
+    * Hi, gang. 大家好./你们好.
+      * → **Hi, gang**. Hi, everybody. Well, what's going on?
+        * what's going on? 发生什么事了?
+      * → Anybody home? We're in here, Dad
+        * → Oh. **Hi, gang.** Hello, Philip. How was your day?
+        * → My day was just fine. So was my night.
+* **promptly** /ˈprɑːmptli/(t 不发音) adv. 迅速地, 立刻地, 准时地
+  * 准时到达
+    * → She arrived **promptly** at ten. 十点钟准时到达
+    * → She arrived **punctually** at ten.  十点钟准时到达
+    * → She arrived at ten **sharp**. 
+      * **sharp** /ʃɑːrp/ adj.  尖锐的, 敏锐的, 精明的, 准确的, 
+        * 放时间后面表示准时
+  * immediately without delay
+    * → An ambulance was **promptly** dispatched to the area.
+      * **dispatch** v. 派遣, 发送, n. 派遣, 分派
+  * prompt adj. 准时, 迅速的, 及时的 adj. 迅速地, 立即地, v. 促使, 推动, 激励
+    * 准时
+      * a **<u>prompt</u>**/**<u>punctual</u>** start 一次准时的出发
+      * → The drowning child was saved by Dick's \_\_\_\_\_ action.
+        * (A) **acute**  
+          * adj. 1. 尖锐的，锐角的 2. （疾病或情况）急性的，紧急的 3. （感知力）敏锐的，敏感的
+        * (B) **alert**  
+          * adj. 警觉的, 机警的 v. 警报, 提醒 n. 警报, 通知
+        * (C) **profound**
+          * adj. 1. 深奥的，深刻的 2. 意义深远的，重要的 3. 极度的，非常的
+        * (D) **<u>prompt</u>**
+    * 立即地
+      * → Staff should be **prompt** in dealing with complaints.  员工应该立刻处理投诉
+        * complaints v./n. 抱怨,投诉
+    * 推动, 激励
+      * → The teacher tried to **prompt** the students to participate in the discussion. 老师试图激励学生参与讨论.
+* hire /haɪər/ v. 1. 雇用, 聘请, 租用, 2. 出租
+  * **hire ... from ...** 雇用, 租过来
+    * **=rent ... from ...**
+      * **rent** /rent/ n. 房租, 租金, v. 租用, 出租 (和 hire 是完美同义词)
+  * **hire (out) ... to ...** 出租
+    * **=rent (out) ... to ...**
+  * A 把 B 租给了 C
+    * **A hires/rents (out) B to C**
+    * **C hires/rents B from A**
+* 
 
 **## text1**
 
 
 
 **## text2**
+
+
+
+## L15 Fifty pence worth of trouble
