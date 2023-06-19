@@ -890,4 +890,76 @@
     *  → They'd like to see their daughter **settle down**, get married, and have kids.
     * → (NCE3-36 P166-L22) Assuming that his family had been killed during an air raid, Hans **settled down** in a village fifty miles away where he had remained ever since.
 
+* **make a name for oneself** 出名, 成名的意思(习语搭配)
+  * → Ge You first **made a name for himself** in the movie 'Wan Zhu'. 
+  * **become famous overnight** 一夜成名 (习语搭配)
+    * overnight 在夜里, 在夜间
+    * → With the success of their first record, they **became famous overnight.**
+      * record n. 记录, 唱片, v. 记录, 录音
+  * **rise to fame**  成名, 出名 (习语搭配)
+    * fame n. 名声, 声望, 名望
+    * → (NCE3-21 P106-L11) Mendoza **rose to fame** swiftly after a boxing match when he was only fourteen years old.
+      * swiftly adv. 迅速地, 敏捷地
+* come to do  也可以翻译成 **开始做某事**
+*  **A be known to B as ...**
+  * **B 把 A 称为 ... / A 被 B 称为是...**
+  * → (NCE3-31 P146-L8) He **was known to** us all **as** Dickie and his eccentricity had become legendary long before he died.
+  * 造句：中国人把李白称为诗仙 (poet immortal)。
+    * → Li Bai **was known to** the Chinese **as** 'poet-immortal'
+    * poet n. 诗人
+    * immortal adj. 不朽的, 永恒的, 不死的
+      * poet immortal 诗仙
+* 造句：篮球运动员 Earvin Johnson 迅速出名了，并且美国人开始把他称为 “魔术师约翰逊” 。
+  * → Basketball player Earvin Johnson soon <u>made a name for himself</u> and <u>came</u> to <u>be known to</u> the Americans <u>as</u> “agic Johnson'.
+* → **Whenever the ltalian city-states were at war with each other,** Hawkwood used to hire his soldiers to princes **who were willing to pay the high price <u>he demanded.</u>**
+  * city-states: 城邦, 一个城市和周边地区就是一个国家
+  * princes: 可以表示王子, 但也可以表示小的城邦国的国王
+    * king 统治的一般是 kingdom 王国, 比较大, 
+  * **be at war with ... **  和某国打仗
+    * → China had **been at war with** Japan for 8 years.
+    * **declare war on ...** 和某国宣战
+      * declare v. 宣布, 声明,
+      * → The Chinese government has **declared war on** official corruption. (宣战的比喻意)
+    * **wage war on ...** 向某国发动战争
+      * → (NCE3-54 P244-41) We continually **wage war on** them, for they contaminate our food, carry diseases, or devour our crops.
+        * (发动战争的比喻义)
+* <u>In times of peace, **when business was bad**</u>, Hawkwood and his men would march into a city-state <u>and</u>, <u>after burning down a few farms</u>, would offer to go away **if protection money was paid to them.**
+  * march v. 军队前进
+    * the long march 长征
+    * 造句：早在20世纪30年代，红军就完成了伟大的长征，在这期间他们走过了25,000里。
+      * 在这期间 的表达: 
+        * (NCE3-20 P90-L9) A week before, he had completed a successful overland flight **during which** he covered twentysix miles.
+      * → As long ago as the 1930's, the Red Army had completed the successful  Long March during which they covered 25,000 li.
+  * burning down 烧毁, 烧光
+  * 生意好或者不好的表达
+    * 生意不好: Business is **<u>bad</u>**/**<u>slow</u>**/**<u>slack</u>**.
+    * 生意好: Business is **<u>good</u>**/**<u>booming</u>**.
+  * → The general commanded **his men** to fire.
+    * 军队场合 his men 代表 他的士兵
+    * subordinate n. 下属
+  * **offer to do  ...** 主动提出做某事...
+    * **volunteer to do ...** 主动提出做某事
+    * → Jill **volunteered to** go with me to the hospital.
+  * **provided (that)...**  只要
+    * **providing (that) ...** 只要
+    * **<u>as</u>/<u>so</u> long as ...**  只要
+      * → (NCE3-7 P38-L15)'**So long as** there's something to identify, we will give people their money back,' said a Spokeswoman for the Bank.
+    * **on condition (that) ... ** 只要
+    * 只有
+      * **only if ...**
+        * → She will go **only if** Peter goes.
+        * → **Only if** Peter goes **<u>will</u>** she go.
+* **a sort of ... **   有点像, 某种程度上类似于...
+* → **When he died at the age of eighty**, the Florentines gave him a state funeral and had a picture painted **which was dedicated to the memory of the most valiant soldier and most notable leader, <u>Signor Giovanni Haukodue</u>'.**
+  * **gave sb. a state funeral** 给某人一个国葬
+    * a **state** funeral 国葬
+    * a **state** visit 国事访问
+    * a **state** banquet 国宴
+    * **state** affairs 国事
+      * affairs n. 事务, 事情
+    * the **State** Council 国务院
+  * **1. 请某人来做某事, 2. 表示某种不愉快的倒楣的经历**
+  * 造句：当罗纳德里根(Ronald Reagan)在93 岁去世时, 美国人为他举行了一次国葬, 并请人塑了一尊塑像以纪念这位伟大的总统.
+    * When Ronald Reagan died at the age of 93, the Americans gave him a state funeral and had a statue built which was dedicated to the memory of the great president.
+
 ## L15 Fifty pence worth of trouble

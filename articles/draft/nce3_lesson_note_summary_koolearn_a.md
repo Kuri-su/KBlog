@@ -1,4 +1,4 @@
-# NCE 3 Lesson Note Summary Koolearn Part A
+# NCE 3 Lesson Note Summary Koolearn first time part A
 
 [TOC]
 
