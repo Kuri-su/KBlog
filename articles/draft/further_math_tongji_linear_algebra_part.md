@@ -1,3 +1,3 @@
-# Further Mathematic lecture (tongji) (linearAlgebra part) cross Jiafeng Tang
+# Further Mathematic lecture (tongji) full notes (linearAlgebra part) cross Jiafeng Tang
 
 [TOC]

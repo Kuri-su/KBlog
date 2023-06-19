@@ -1,3 +1,3 @@
-# Further Mathematic lecture (tongji) (probabilityTheory part) cross Jiafeng Tang
+# Further Mathematic lecture (tongji) full notes (probabilityTheory part) cross Jiafeng Tang
 
 [TOC]
