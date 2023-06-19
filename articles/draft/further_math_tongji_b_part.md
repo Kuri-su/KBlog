@@ -1356,21 +1356,34 @@
 
 * Case 5. $\int e^ax\cdot\begin{cases}cosbx \\sinbx \end{cases}&dx$
   * 例题
-    * 
+    * 8
+      * $\int e^xcos2xdx$
+      * 解: 
+        * 令 $I = \int e^xcos2xdx=\int cos2x d(e^x)$
+        * $=e^xcos2x-\int e^xd(cos2x)$
+        * $=e^xcos2x+2\int e^xsin2xdx$
+        * $=e^xcosx2x+2\int sin2xd(e^x)$
+        * $=e^xcosx2x+2(e^xsin2x-\int e^xd(sin2x))$
+        * $=e^xcos2x+2e^xsin2x-4\int e^xcos2xdx$
+        * $=e^xcos2x+2e^xsin2x-4I$
+        * $I=\int e^xcos2xdx=\frac{1}{5}e^x(cos2x+2sin2x)+C$
 
-
-
-![image-20230513130821794](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130821794.png)
-
-![image-20230513131332304](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131332304.png)
-
-![image-20230513131344719](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131344719.png)
-
-![image-20230513131726158](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131726158.png)
-
-![image-20230513131738146](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131738146.png)
-
-![image-20230513131752121](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131752121.png)
+* Case 6. $\int \begin{cases} sec^nx \\ csc^nx \end{cases} dx$
+  * Where n is an odd number(奇数)
+  * 如: $\int sec^4xdx=\int (tan^2x+1)d(tanx)=\frac{1}{3}tan^3x+tanx+C$
+  * 又如: $\int tan^3xsecxdx=\int (sec^2x-1)d(secx)$
+    * $=\frac{1}{3}sec^3x-secx+C$
+    * 当 $n=1$ 时, $\begin{cases}I_1=\int secxdx=ln|secx+tanx|+C \\ I_1=\int cscxdx=ln|cscx-cotx|+C \end{cases}$
+  * 例题
+    * 9
+      * 求 $\int sec^3xdx$
+      * 解: 
+        * 令 $I_3=\int sec^3xdx=\int secxd(tanx)$
+        * $=secxtanx-\int tanxd(secx)$
+        * $=secxtanx-\int tan^2xsecxdx$
+        * $=secxtanx-\int (sec^2x-1)secxdx$
+        * $=secxtanx-I_3+ln|secx+tanx|$
+        * $\therefore I_3=\int sec^3xdx=\frac{1}{2}(sectanx+ln|secx+tanx|)+C$
 
 ### 第四节 有理函数不定积分
 
