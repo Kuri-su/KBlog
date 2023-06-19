@@ -1,10 +1,14 @@
-# Further Mathematic lecture (tongji) (C part) cross Jiafeng Tang
+# Further Mathematic lecture (tongji) full notes  (C part) cross Jiafeng Tang
 
 [TOC]
 
 ## 第五章 定积分
 
 ### 第一节 定积分的概念与性质(一)
+
+* 引子: 一元 不规则
+  * 例子1: 曲面梯形 面积 S?
+    1. 
 
 ![image-20230515124536006](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124536006.png)
 

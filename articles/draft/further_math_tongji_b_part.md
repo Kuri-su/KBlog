@@ -1,4 +1,4 @@
-# Further Mathematic lecture (tongji) (B part) cross Jiafeng Tang
+# Further Mathematic lecture (tongji) full notes (B part) cross Jiafeng Tang
 
 [TOC]
 

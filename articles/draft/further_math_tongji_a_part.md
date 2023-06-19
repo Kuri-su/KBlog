@@ -1,4 +1,4 @@
-# Further Mathematic lecture (tongji) (A part) cross Jiafeng Tang
+# Further Mathematic lecture (tongji) full notes (A part) cross Jiafeng Tang
 
 A part 主要是关于 导数 和部分 微分, 
 
