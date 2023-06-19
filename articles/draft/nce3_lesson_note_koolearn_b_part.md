@@ -788,6 +788,7 @@
 **## text1**
 
 * → <u>There was a time when</u> the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'. 
+
   * **there was <u>a time</u> when .... = once **曾经
     * → **There was a time when** I was <u>down and out.</u>
       * down and out : 穷困潦倒,低谷.  (来自拳击里的词汇, 表示被打趴下了, )
@@ -835,8 +836,58 @@
       * **in appreciation of ... ** 以感谢某人
         * → I sent him a gift **in appreciation of** his help.
 
+* **put sb. out of business( 习语搭配)  **使某人破产
+
+  * **= make sb. broke / bankrupt**
+    * bankrupt adj. 破产的, 财务失败的 v. 破产, 倒闭
+    * rupt 词根, 破裂, 断裂
+  * **put sb. out of work (习语搭配) **使某人失业
+    * → The changing economic conditions have **put** many people **out of work.**
+
+* **obtain** /əbˈteɪn/ v. 获得, 得到, 取得
+
+  * **extort sth.** 勒索某物 (钱财)
+    * → Gangsters used to **extort** money from local businessmen.
+  * **blackmail sb.** 敲诈某人
+    * → Someone was trying to **blackmail** <u>him</u> with pictures of him and his mistress.
+      * mistress n. 情妇, 情人, 女主人, 主妇
+
+* **crime** /kraɪm/ n. 罪行, 犯罪
+
+* → <u>As long ago as the fourteenth century</u>, an Englishman, <u>Sir John Hawkwood</u>, made the remarkable discovery **that people <u>would rather</u> pay large sums of money <u>than</u> have their life work destroyed by gangsters.**
+
+  * **as long ago as ...** 早在... 就.... 
+    * **= as early as ...** 
+    * 造句：早在公元前十五世纪，这座庙宇就被当作做礼拜的场所.
+      * → **As long ago as** the 15th century BC, the temple was used as a place of worship.
+  * Sir John Hawkwood 前面的 Sir 表示爵士, John hawkwood 爵士 (受王室册封的)
+    * Sir Winston Churchill 温斯顿-丘吉尔 爵士
+      * Sir Winston 温斯顿爵士
+        * 如果是Sir 的简略称谓, 那么 Sir 后面跟名字
+      * Mr. Churchill  丘吉尔 爵士
+        * 如果是 Mr. 的简略称谓, 那么 Mr. 后面跟姓氏
+    * dab on shoulder (n./v. 轻拍, 点触)
+    * "pat", "tap" 和 "dab" 都是动词，表示在物体表面使轻轻地接触、拍打或轻压。它们的区别在于使用的方式、力度和动作方式。
+      - "Pat" 通常指以柔和、平稳的方式轻轻拍打物体表面。例如："She patted her son on the back to show affection."（她轻拍儿子的背部以表达爱意。）
+      - "Tap" 通常指以轻柔的方式敲击物体表面，通常是为了触发一些反应。例如："She gently tapped the door with her fingertips."（她轻轻地用指尖敲门。）
+      - "Dab" 通常指在物体表面上轻轻涂抹，通常用来表示某种涂抹或清洁的动作。例如："She dabbed her face with a tissue to remove the sweat."（她用面纸轻擦脸上的汗水。）
+
+  * **would <u>rather</u>/<u>sooner</u> .... than ...** 相比某件事, 更愿意做另一件事
+    * **prefer to do rather than do** 倾向于做 ... 而不是做 ..
+    * **perfer doing to doing**  喜欢做 ..  而不喜欢做 ....
+    * **would <u>rather</u>/<u>sooner</u> (that)... ** (虚拟语气) 真希望.... 
+      * I'd rather (that) Susan were here now. 我真希望Susan 要是在这就好了
+  * **have sth. done** 1. 请某人来做某事, 2. 表示某种不愉快的倒楣的经历
+    * → He **had** his watch **stolen**.
+    * → King Charles I **had** his head **cut off**.
+
 **## text2**
 
-
+* Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near  Florence.
+  * 造句：早在1994年，我就随父母到了北京，并在天坛(the Temple of Heaven附近定居了下来。
+    * → As long ago as nineteen years ago, I arrived in Beijing with my parents and settled near the Temple of Heaven.
+  * settle down 不再漂泊, 留下来过安定的日子 (尤其暗指结婚生子)
+    *  → They'd like to see their daughter **settle down**, get married, and have kids.
+    * → (NCE3-36 P166-L22) Assuming that his family had been killed during an air raid, Hans **settled down** in a village fifty miles away where he had remained ever since.
 
 ## L15 Fifty pence worth of trouble

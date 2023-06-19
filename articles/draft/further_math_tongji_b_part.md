@@ -1293,7 +1293,8 @@
 
 ### 第三节 分部积分法
 
-
+* $(uv)'=u'v+uv'$
+  * 
 
 ![image-20230513130251946](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513130251946.png)
 
