@@ -1387,23 +1387,53 @@
 
 ### 第四节 有理函数不定积分
 
-![image-20230513131846857](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131846857.png)
+* 例题: 
+  * 1
+    * $\int \frac{x+2}{(2x+3)^3}dx$
+    * 解: 
+      * $\int \frac{x+2}{(2x+3)^3}dx=\frac{1}{4}\int \frac{(2x+3)+1}{(2x+3)^3}d(2x+3)$
+      * $=\frac{1}{4}\int\frac{1}{(2x+3)^2}d(2x+3)+\frac{1}{4}\int(2x+3)^{-3}d(2x+3)$
+      * $=-\frac{1}{4(2x+3)}-\frac{1}{8}(2x+3)^{-2}+C$
+      * $-\frac{1}{4(2x+3)}-\frac{1}{8(2x+3)^2}+C$
+  * 2
+    * $\int \frac{x+1}{x^2+x+1}dx$
+    * 解: 
+      * $\int \frac{x+1}{x^2+x+1}dx=\frac{1}{2}\int \frac{(2x+1)+1}{x^2+x+1}dx$
+      * $=\frac{1}{2}\int \frac{d(x^2+x+1)}{x^2+x+1}+\frac{1}{2}\int \frac{dx}{x^2+x+1}$
+      * $=\frac{1}{2}\int \frac{d(x^2+x+1)}{x^2+x+1}+\frac{1}{2}\int \frac{dx}{x^2+x+1}$
+      * $=\frac{1}{2}ln (x^2+x+1)+\frac{1}{2}\int \frac{d(x+\frac{1}{2})}{(\frac{\sqrt3}{2})^2+(x+\frac{1}{2})^2}$
+      * $=\frac{1}{2}ln(x^2+x+1)+\frac{1}{2}\cdot\frac{2}{\sqrt 3}arctan\frac{x+\frac{1}{2}}{\frac{\sqrt 3}{2}}+C$
+* $R(x)=\frac{P(x)}{Q(x)}$ - 有理函数
+  * $P(x),Q(x) 为 多项式$
+  * 分类 : $\begin{cases} If & degP \ge deg Q, R(x) - 假分式  \\ If & degP < deg Q, R(x) - 真分式  \end{cases}$
+  * $\int R(x)dx 步骤: $
+    1. If $R(x) 为 假分式 \Rightarrow R(x) = 多项式+ 真分式$
+       * 如: $R(x)=\frac{2x^3-x+4}{x^2-x+2}=2x+2+\frac{-3x}{x^2-x+2}$
+    2. If $R(x) 为真分式 \Rightarrow \begin{cases} 分子不变 \\ 分母因式分解 \end{cases} \Rightarrow 拆成部分和 $
+* Case1. $R(x)=\frac{2x+3}{(x-2)(2x+1)}=\frac{A}{x-2}+\frac{B}{2x+1}$
+  * $A(2x+1)+B(x-2)=2x+3 \Rightarrow \begin{cases} 2A+B=2\\A-2B=3 \end{cases}$
+* Case2. $R(x)=\frac{x^2-3x+1}{(x-1)^2(2x+1)}=\frac{A}{x-1}+\frac{B}{(x-1)^2}+\frac{C}{(2x+1)}$
+  * $A(x-1)(2x+1)+B(2x+1)+C(x-1)^2=x^2-3x+1$
+* Case3. $R(x)=\frac{3x+2}{x^2(x^2+2x+3)}=\frac{A}{x}+\frac{B}{x^2}+\frac{(Cx+D)}{x^2+2x+3}$
+* 例子: 
+  * 1-1
+    * $\int\frac{dx}{x^2-5x+4}$
+    * 解: 
+      * $=\int \frac{1}{(x-4)(x-1)}dx$
+      * $=\frac{1}{3}\int (\frac{1}{x-4}-\frac{1}{x-1})dx=\frac{1}{3}ln|\frac{x-4}{x-1}|+C$
+  * 1-2
+    * $\int \frac{dx}{x^2+2x+5}$
+    * 解: 
+      * $=\int\frac{d(x+1)}{2^2+(x+1)^2}$
+      * $=\frac{1}{2}arctan\frac{x+1}{2}+C$
+  * 2-1
+    * $\int \frac{5x-1}{x^2-x-2}dx$
+    * 解: 
+      * // TODO
 
-![image-20230513131942805](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131942805.png)
 
-![image-20230513131956398](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513131956398.png)
 
-![image-20230513132010001](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132010001.png)
 
-![image-20230513132035446](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132035446.png)
-
-![image-20230513132047586](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132047586.png)
-
-![image-20230513132102924](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132102924.png)
-
-![image-20230513132117093](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132117093.png)
-
-![image-20230513132132582](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132132582.png)
 
 ![image-20230513132150233](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132150233.png)
 
