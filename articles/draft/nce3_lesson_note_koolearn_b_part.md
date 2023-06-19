@@ -961,5 +961,47 @@
   * **1. 请某人来做某事, 2. 表示某种不愉快的倒楣的经历**
   * 造句：当罗纳德里根(Ronald Reagan)在93 岁去世时, 美国人为他举行了一次国葬, 并请人塑了一尊塑像以纪念这位伟大的总统.
     * When Ronald Reagan died at the age of 93, the Americans gave him a state funeral and had a statue built which was dedicated to the memory of the great president.
+* 高级作文句子要领
+  1. 复合句为主, 简单句作为点缀和过渡
+  2. 句式多变, 尤其句首切忌雷同.
+
+* 以本文举例: 
+  1. **无灵主语开头，复合句。**
+     * <u>There was a time</u> when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'.
+  2. **条件状语从句开头，复合句。**
+     * <u>If the money was not paid promptly,</u> the gangsters would quickly put a man out of business by destroying his shop.
+  3. **无灵主语开头，简单句。**
+     * <u>Obtaining 'protection money'</u> is not a modern crime.
+  4. **介词短语作时间状语开头，复合句。**
+     * <u>As long ago as the 14th century,</u> an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
+  5. **副词短语作时间状语开头，复合句**
+     * <u>Six hundred years ago,</u> Sir John Hawkwood arrived in ltaly with a band of soldiers and settled near Florence.
+  6. **主谓结构开头，复合句。**
+     * <u>He soon made a name for himself</u> and came to be known to the ltalians as Giovanni Acuto.
+  7. **让步状语从句开头，复合句。**
+     * <u>Whenever the ltalian citv-states were at war with each other</u>, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.
+  8. **介词短语作时间状语开头，复合句。**
+     * <u>In times of peace,</u> when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them.
+  9. **主谓结构开头，简单句。**
+     * <u>Hawkwood made large sums of money</u> in this way.
+  10. **介词短语作让步状语开头，简单句。**
+      * <u>In spite of this</u>, the ltalians regarded him as a sort of hero.
+  11. **时间状语从句开头，复合句。**
+      * <u>When he died at the age of 80</u>, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue
+* 牢记, 在写作文的时候
+  * **<u>Sentence opening is very important to create sentence variety.</u>**
+  * 句子的开头对于制造句子的多样性来说是非常重要的.
 
 ## L15 Fifty pence worth of trouble
+
+**## word**
+
+
+
+**## text 1**
+
+
+
+**## text 2**
+
+## L16 Maryhad a littlelamb
