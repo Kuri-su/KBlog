@@ -223,20 +223,27 @@
 
 * 定理: 
   1. $\frac{0}{0} 型$
-     * 若函数满足如下条件, 则 $lim_{x\to a}\frac{f(x)}{F(x)}=A$
+     * 若函数满足如下条件, 则 $lim_{x\to a}\frac{f(x)}{F(x)}=lim_{x\to a}\frac{f'(x)}{F'(x)}=A$
        * 1. $f(x), F(x) 在 x=a 的 去心邻域 内 可导 且 F'(x) \ne 0$
          2. $lim_{x\to a}f(x)=0, lim_{x\to a}F(x)=0;$
          3. $lim_{x\to a}\frac{f'(x)}{F'(x)}=A$
 
-* $注意: lim_{x\to a}f(x) 的函数值 与 f(a) 的函数值无关, 例如下面的例子: $
-  * 例子
-    * 1
-      * $f(x)=\frac{x^2-1}{x-1}$
-      * $when\ x=1, f(x) 无函数值$
-      * $lim_{x\to 1}f(x)=lim_{x\to1}(x+1)=2$
-    * 2
-      * $f(x)=\begin{cases} \frac{x^2-1}{x-1}& x\ne1 \\ 10 & x=1 \end{cases} $
-      * $lim_{x\to1}f(x)=lim_{x\to1}\frac{x^2-1}{x-1}=lim_{x\to1}(x+1)$
+  2. $注意: lim_{x\to a}f(x) 的函数值 与 f(a) 的函数值无关, 例如下面的例子: $
+  
+    1. 例子
+  
+      * 1
+  
+        1. $f(x)=\frac{x^2-1}{x-1}$
+           1. $when\ x=1, f(x) 无函数值$
+           2. $lim_{x\to 1}f(x)=lim_{x\to1}(x+1)=2$
+  
+      * 2
+  
+        1. $f(x)=\begin{cases} \frac{x^2-1}{x-1}& x\ne1 \\ 10 & x=1 \end{cases} $
+  
+        2. $lim_{x\to1}f(x)=lim_{x\to1}\frac{x^2-1}{x-1}=lim_{x\to1}(x+1)$
+  
 * 证明: 
   * (令 $f(a)=0, F(a)=0$)
   * $\because lim_{x\to a}f(x), lim_{x\to a}F(x) 与 f(a), F(a) 无关$
