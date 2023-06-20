@@ -996,7 +996,93 @@
 
 **## word**
 
-* 
+* appreciate /əˈpriːʃieɪt/ v. 欣赏, 感激
+  * **appreciate** music 欣赏音乐 
+  * **appreciate** wine 欣赏葡萄酒
+  * I **appreciate** your help. 
+  * <u>I a</u>ppreciat<u>e i</u>t. 
+  * **in appreciation of .....** 以感激, 以感谢
+    * → I sent him a gift **in appreciation of** his help.
+  * 表示感激感谢的词
+    * → I'**m <u>thankful</u>/<u>grateful</u> to** you **for** your help.
+      * greatful adj. 满心欢喜的
+      * grateful adj. 感激的
+      * graceful adj. 优美的, 雅致的
+    * → I'**m** much **obliged to** you **for** your advice.
+      * to sb. 和 for sb. 都是可拆卸的
+      * oblige v. 强迫, 迫使, 感激, 帮忙
+    * → I'**m** deeply **indebted to** you **for** your encouragement.
+      * encouragement n. 鼓励, 激励, 勉励
+    * → **I owe you** (one). 我感激你(常用在熟人之间)(暗示会报答)
+      * owe v. 欠(债务, 道义, 感情 等 )
+      * → **I owe you a lot.** (常用在熟人之间)
+      * → **I owe you a big favor.** (常用在熟人之间)
+        * favor n. 恩惠, 好意
+* **pocket money** n. 零用钱, 零花钱
+  * **beer money** n. 给男人的零花钱
+  * **pick one's pocket** 偷某人的钱
+  * **pickpocket**  n. 扒手
+    * Watch out for pickpocket. 小心有扒手.
+  * **money burns a hole in one's pocket** 存不住钱
+  * 听力题: 
+    * W: Have you saved enough to buy that new printer for your computer yet ?
+    * M: You know **money seems to be burning a hole in my pocket** lately. Maybe next month.
+* thrifty /ˈθrɪfti/ adj. 节俭的, 节约的
+  * a **thrifty** housewife
+  * 同义词
+    * frugal /ˈfruːɡəl/ adj. 节约的, 节俭的 (褒义)
+    * economical /ˌiːkəˈnɑːmɪkl/ adj. 经济的, 节约的 (褒义)
+  * 近义词
+    * miserly /ˈmaɪzərli/ adj. 吝啬的, 小气的
+    * stingy /ˈstɪndʒi/ adj. 吝啬的, 小气的
+    * wasteful adj. 浪费的, 费力的
+    * extravagant /ɪkˈstrævəɡənt/ adj. 奢侈的, 过渡的, 放肆的, 铺张浪费的
+      * → (NCE3-21 P106-L20) ., he was so extravagant.that he was always in debt.
+  * 动词
+    * **save on....**  节约使用 sth.
+      * **save on** <u>water</u> / <u>electricity</u>
+    * **economize on ...**  节约使用 sth.
+      * **economize on** <u>water</u> / <u>electricity</u>
+      * economize v. 节约
+
+* **nephew** /ˈnefjuː/ n. 侄子, 外甥 (同辈的小孩)
+  * **niece** n. 侄女, 
+  * **cousin** n. 兄弟姐妹(堂, 表)
+  * **sibling** n. 兄弟姊妹(亲)
+    * **sibling** revalry 兄弟姊妹间的竞争
+    * → He has two **siblings**, a brother and a sister. 
+  * **aunt** n. 和母亲同辈的女性亲属
+    * ant n. 蚂蚁 (发音一样)
+  * **uncle** n.  和父亲同辈的男性亲属
+  * **parental** /pəˈren.t̬əl/ adj. 父母的
+  * **maternal** /məˈtɜːr.nəl/ adj. 母亲的
+  * **paternal** /pəˈtɜːr.nəl/ adj. 父亲的
+    * **<u>parental</u> / <u>maternal</u> / <u>paternal</u>** affection 家长/母亲的/父亲的 慈爱(父爱, 母爱)
+  * **filial** adj. 子女的
+    * **filial** duty 子女的义务
+    * **filial** piety 对父母亲的虔诚 (孝顺)
+* **bounce** /baʊns/  v./n. 弹起, 弹跳
+  * **bounce=bound v.&n.**
+  * → The ball **bounced** when it hit the ground.
+  * → She came **bouncing** in and told me the good news. 她蹦蹦跳跳的走了进来, 并且说了一个好消息
+  * → That's the way the ball **bounces**. 那就是球弹起来的方式 (回答很傻的问题, 就是这样子的, 没有为什么 , 的回答)
+  * **by leaps and bounds**: very quickly
+    * → Her health is improving **by leaps and bounds**. 他的健康迅速的在好转.
+* stick /stɪk/ n. 棍, 枝条, 手杖 v. 粘住, 贴在, 卡住, 伸出
+  * → The drawer **sticks** badly. 抽屉卡死了
+    * drawer n. 抽屉
+  * → **Stick ** your tongue 伸出你的舌头(医生)
+  * → **Stick**'em(them) up! 举起双手! (警察或者拦路抢劫的罪犯)
+    * → Freeze! **Stick**'em up! Your money or your life?
+      * Freeze 不许动!(俚语)
+      * (回答) Definityly my life! take my money!
+  * 表示粘在什么上, 也可以表示坚持住 (派生义), 
+    * **stick to** ... 
+      * → l'll **stick to** my job until I find a better one.
+    * **cling to** ... 
+      * cling v. 紧紧抓住, 粘着
+    * **adhere to ...**
+      * adhere v. 粘附, 坚持, 遵守
 
 **## text 1**
 
