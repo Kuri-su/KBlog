@@ -118,6 +118,8 @@ $$
   * csc
     * $cscx=\frac{1}{sinx}$
 
+// TODO 添加三角函数的运算公式
+
 **#### 求导**
 
 * 正弦函数 $sin'x=cosx$ 
@@ -129,20 +131,50 @@ $$
       * <iframe src="https://www.geogebra.org/calculator/hkupv8dw?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
       * ![image-20230621135117362](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230621135117362.png)
   
-    * A, B 是单位圆上的两个点, C 是圆外一点, x 是 AB两点 与 圆心 O 形成的夹角, $0<x<\frac{\pi}{2}$
-    * 这样可以得到两个三角形$\triangle AOB$,$RT\triangle AOC$ 以及 一个以 O 为圆心的扇形 $AOB$
+      * A, B 是单位圆上的两个点, C 是圆外一点, x 是 AB两点 与 圆心 O 形成的夹角, $0<x<\frac{\pi}{2}$
+      * 这样可以得到两个三角形$\triangle AOB$,$RT\triangle AOC$ 以及 一个以 O 为圆心的扇形 $AOB$
   
-         * 显然三者面积 满足如下不等式 $S_{\triangle AOB} \lt S_{扇AOB} \lt S_{RT\triangle AOC}$
-              * $S_{\triangle AOB}=\frac{1}{2}AO\cdot BD=\frac{1}{2}\cdot 1 \cdot sinx$
-                * $sinx=\frac{BD}{OB}=\frac{BD}{1}$
-                * $\therefore BD=sinx$
-              * 
+           * 显然三者面积 满足如下不等式 $S_{\triangle AOB} \lt S_{扇AOB} \lt S_{RT\triangle AOC}$
+             * $S_{\triangle AOB}=\frac{1}{2}AO\cdot BD=\frac{1}{2}\cdot 1 \cdot sinx$
+               * $sinx=\frac{BD}{OB}=\frac{BD}{1}$
+               * $\therefore BD=sinx$
+             * $S_{扇AOB}=\pi r^2\cdot \frac{x}{2\pi}=\frac{1}{2}x$
+             * $S_{RT\triangle AOC}=\frac{1}{2}AO\cdot AC=\frac{1}{2}tanx$
+               * $tanx=\frac{CA}{OA}=\frac{CA}{1}$
+               * $\therefore CA=tanx$
   
-    * $\therefore 得到等式 \frac{1}{2}sinx\lt \frac{1}{2}x\lt \frac{1}{2}tanx$
-        * $化简之后得到 1\lt \frac{x}{sinx}\lt \frac{1}{cosx}$, 距离目标已经很近, 证明 $\frac{x}{sinx}$在 x=0 的去心邻域内连续后, 使用夹逼定理即可得到  $lim_{x\to 0}\frac{sinx}{x}=1$
-    * 
+      * $\therefore 得到等式 \frac{1}{2}sinx\lt \frac{1}{2}x\lt \frac{1}{2}tanx$
+          * $化简之后得到 1\lt \frac{x}{sinx}\lt \frac{1}{cosx}$, 距离目标已经很近, 证明 $\frac{x}{sinx}$在 x=0 的去心邻域内连续后, 使用夹逼定理即可得到  $lim_{x\to 0}\frac{sinx}{x}=1$
+  
+    * 接着使用导数的原始定义 求导 sinx
+  
+      * $sin'x=lim_{\Delta x\to 0}\frac{sin(x+\Delta x)-sinx}{\Delta x}$
+      * 利用 sin 的和差公式, 可以把 把 sin(a+b) 进一步化简
+      * $=lim_{\Delta x \to 0}\frac{sinxcos\Delta x+sin\Delta xcosx-sinx}{\Delta x}$
+      * $=lim_{\Delta x \to 0}\frac{sinx(cos\Delta x-1)+sin\Delta x cosx}{\Delta x}$
+      * $=sinx\cdot lim_{\Delta x \to 0}\frac{(cos\Delta x-1)}{\Delta x}+lim_{\Delta x\to 0}\frac{sin\Delta xcosx}{\Delta x}$
+      * 由于 $\Delta x \to 0 的时候 (cos\Delta x) \to 1$, 所以$sinx\cdot lim_{\Delta x \to 0}\frac{(cos\Delta x-1)}{\Delta x}=0$,
+      * 又由于 $lim_{\Delta x\to 0}\frac{sinx}{x}=1$,
+      * $\therefore sin'x=cosx$ 
 * 余弦函数 $cos'x=-sinx$
 * 正切函数 $tan'x=sec^2x$
+
+  * 证明这个需要用到一个 另一个推论 $h(x)=\frac{g(x)}{f(x)}$,$h'(x)=\frac{g'(x)f(x)-g(x)f'(x)}{f(x)^2}$
+    * 证明: 
+      * $h'(x)=lim_{\Delta x \to 0}\frac{h(x+\Delta x)-h(x)}{\Delta x}$
+        * $=lim_{\Delta x\to 0}\frac{\frac{g(x+\Delta x)}{f(x+\Delta x)}-\frac{g(x)}{f(x)}}{\Delta x}$
+        * $=lim_{\Delta \to 0 }\frac{\frac{g(x+\Delta x) f(x)-g(x)f(x+\Delta x)}{f(x+\Delta x)f(x)}}{\Delta x}$
+        * 分母稍微换一下
+        * $=lim_{\Delta \to 0 }\frac{\frac{g(x+\Delta x) f(x)-g(x)f(x+\Delta x)}{\Delta x}}{f(x+\Delta x)f(x)}$
+        * 往分子上加一个 $g(x)f(x) $再减掉一个 $g(x)f(x)$
+        * $=lim_{\Delta \to 0 }\frac{\frac{g(x+\Delta x) f(x)-g(x)f(x)+g(x)f(x)-g(x)f(x+\Delta x)}{\Delta x}}{f(x+\Delta x)f(x)}$ , 然后化简之
+        * $=lim_{\Delta \to 0 }\frac{\frac{f(x)(g(x+\Delta x) -g(x))+g(x)(f(x)-f(x+\Delta x))}{\Delta x}}{f(x+\Delta x)f(x)}$
+        * $=lim_{\Delta \to 0 }\frac{\frac{f(x)(g(x+\Delta x) -g(x))}{\Delta x}+\frac{g(x)(f(x)-f(x+\Delta x))}{\Delta x}}{f(x+\Delta x)f(x)}$ , 使用 然后这里 用求导的定义来化简
+        * $=lim_{\Delta x \to 0}\frac{g'(x)f(x)-g(x)f'(x)}{f(x+\Delta x)f(x)}$, 由于 $\Delta x\to 0$
+        * $\therefore 原式= =lim_{\Delta x \to 0}\frac{g'(x)f(x)-g(x)f'(x)}{f(x)^2}$
+
+    * 然后接着就拿这个结论按部就班去求 剩下的四个三角函数的导数即可
+
 * 余切函数 $cot'x=-csc^2x$
 * 正割函数 $sec'x=secxtanx$
 * 余割函数 $csc'x=-cscxcotx$
