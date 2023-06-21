@@ -120,8 +120,27 @@ $$
 
 **#### 求导**
 
-* 正弦函数 $sin'x=cosx$
-  * 证明
+* 正弦函数 $sin'x=cosx$ 
+  * 证明: 
+  
+    * 证明 $sin'x=cosx 需要先证明 lim_{x\to 0}\frac{sinx}{x}=1$
+  
+      * 证明: $lim_{x\to 0}\frac{sinx}{x}=1$
+      * <iframe src="https://www.geogebra.org/calculator/hkupv8dw?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+      * ![image-20230621135117362](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230621135117362.png)
+  
+    * A, B 是单位圆上的两个点, C 是圆外一点, x 是 AB两点 与 圆心 O 形成的夹角, $0<x<\frac{\pi}{2}$
+    * 这样可以得到两个三角形$\triangle AOB$,$RT\triangle AOC$ 以及 一个以 O 为圆心的扇形 $AOB$
+  
+         * 显然三者面积 满足如下不等式 $S_{\triangle AOB} \lt S_{扇AOB} \lt S_{RT\triangle AOC}$
+              * $S_{\triangle AOB}=\frac{1}{2}AO\cdot BD=\frac{1}{2}\cdot 1 \cdot sinx$
+                * $sinx=\frac{BD}{OB}=\frac{BD}{1}$
+                * $\therefore BD=sinx$
+              * 
+  
+    * $\therefore 得到等式 \frac{1}{2}sinx\lt \frac{1}{2}x\lt \frac{1}{2}tanx$
+        * $化简之后得到 1\lt \frac{x}{sinx}\lt \frac{1}{cosx}$, 距离目标已经很近, 证明 $\frac{x}{sinx}$在 x=0 的去心邻域内连续后, 使用夹逼定理即可得到  $lim_{x\to 0}\frac{sinx}{x}=1$
+    * 
 * 余弦函数 $cos'x=-sinx$
 * 正切函数 $tan'x=sec^2x$
 * 余切函数 $cot'x=-csc^2x$
@@ -135,6 +154,10 @@ $$
 **#### 求导**
 
 **#### 不定积分**
+
+#### 常数 $e$
+
+
 
 ## 第一章 函数与极限
 
