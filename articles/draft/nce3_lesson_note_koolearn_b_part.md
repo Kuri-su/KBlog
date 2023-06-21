@@ -1086,7 +1086,96 @@
 
 **## text 1**
 
-* 
+* **money + worth of + sth.**
+  * → (NCE3-6 P34-L16) They had got away with **thousands of pounds worth of diamonds.**
+* → Children always appreciate **<u>small gifts of money.</u>** Mum or dad, of course, provide <u>a regular supply</u> of **<u>pocket money</u>**, but uncles and aunts are always a source of **<u>extra income</u>**. 
+  * 零花钱的表达
+    * small gifts of money
+    * pocket money
+    * extra income 
+  * regular adj. 规则的, 有规律的
+  * 英文书面语中, 相比于使用形容词, 更喜欢使用名词, 更庄严正式. 口语中则更喜欢使用动词和形容词
+    * → provide <u>a regular supply of</u> ...
+    * 动词短语转化成 名词短语的练习
+      * greatly(adv.) contribute(v.) to ... (动词短语)
+        * make great(adj.) contributions(n.) to ... (名词短语)
+      * specially <u>emphasize</u>/<u>stress</u>  特别强调 (动词短语)
+        * emphasize v. 强调, 着重指出, 重视
+        * stress n. 压力, 强调, v. 强调, 使紧张
+        * <u>lay</u>/<u>put</u> special <u>emphasis</u>/<u>stress</u> on ...(名词短语)
+      * fully understand... 完全理解了 (动词短语)
+        * have a full understanding of ... (名词短语)
+      * carefully consider.... 仔细考虑(动词短语)
+        * give careful consideration to ... (名词短语)
+      * strongly object to ... 强烈反对 (动词短语)
+        * object n. 物体, 事物, 目标 v. 反对, 提出异议, 抗议
+        * have a strong objection to .... (名词短语)
+      * 造句：这份报告特别强调了必须要吃充足的新鲜蔬菜和水果。
+        * → This report lais special emphasis on that must eat enught fresh vesitable and fruit.(自己写的)
+        * → The report specially stresses that it is necessary to eat plenty of fresh fruit and vagetables. (蔬菜水果在英语中通常称为水果和蔬菜) (使用动词短语)
+        * → The report **<u>lays special stress on the necessity of</u>** consuming adequate fresh fruit and vegetables.
+  * **source** 来源
+    * **the source** of the Yangtze River 长江的发源地
+    * **'resource** n. 资源
+      * natural resources 自然资源
+      * mineral resources 矿物资源 
+    * **origin** /ˈɔrɪdʒən/ n. 起源
+      * the **origin** of mankind
+      * the **origin** of the universe
+      * **originate in ...** 起源于
+        * originate v. 开始, 发源
+      * **stem from ...** 起源于
+        * stem n. (1)（植物的）茎；（2）（船的）船首；（3）（酒杯的）杯柄 , v.(1) 阻止，遏制，制止（某事发展）；（2）源于，起源于
+      * **have its roots in ...** 起源于
+        * Printing **<u>originates in</u>/<u>stems from</u>/<u>has its roots in</u>** China.
+        * (NCE3-29 P138-L9) However, a new type of humour, which **stems** largely **from** America, has recently come into fashion.
+    * 造句：学习英语对我来说总是一种乐趣。
+      * → Learning English **is always a source of pleasure** for me.
+  * 对于某人/某物来说: 
+    * **with .../for .../to ... ** 
+      * → (NCE3-15 P70-L6) **For** most of them, 50 pence is a small price to pay for a nice big bar of chocolate.
+    * **go a long way** 可以用很久
+      * → The battery can **go a long way**.
+      * **go a long way towards ...**  在很大程度上有助于....
+        * → The book will **go a long way towards** solving your problems.
+      * **come a long way** 取得了很大的进步
+        * M: I saw some of your paintings at the student art exhibit. They are great.
+        * W: Thanks. I feel as though I've **come a long way.**
+* piece: coin 硬币 (和 coin 可以替换)
+  * → (NCE3-15 P70-L8) Very few of the fifty pence **<u>pieces</u>** and pound **<u>coins</u>** I have given him have found their way there.
+* **exchange A for B** 把 A 换成 B
+  * → Where can I **exchange** U.S. dollars **for** British pounds?
+  * **exchange rate** 汇率
+  * **change A into B** 把 A 变成 B
+    * → The witch **changed** the prince **into** a frog.
+* 糖果
+  * **sweets** 英式
+  * **candy** 美式
+* **rattle** v. 硬物在盒子里 咣当作响
+* **fill up sth.**  把…装满
+  * **Fill** her **up**!  油加满
+  * → I need a full tank.
+  * **fill <u>in</u>/<u>out</u>** the form 填表
+* 对于什么来说算不了什么 
+  * **be a small price to pay for sth.**
+  * 造句：损失点钱对于提高地位来说算不了什么。
+    * Lost some moeny is a small price to pay for level up.(自己写的)
+    * → The loss of money **is a small price to pay for** the rise in status.
+      * status n. 地位
+* 对于 什么来说是个很高昂的代价/ 对什么来说不值得
+  * **be a high price to pay far sth.**
+  * 造句：为了成功而酒性健康是不值得的。
+    *  → The sacrifice of health **is a high price to pay for** success.
+* 形容词词序
+  * **大 形 年 新 颜 国 材 用＋中心名词**
+  * 一张新的很沉的黑色的中国式的圆形的大木餐桌
+    * a heavy big round new black Chinese wooden dining table
+* 英文中,如果名词前面有量词的话, 形容词通常会用于去修饰量词.
+  * a **nice** <u>cup</u> of tea
+  * a **beautiful** <u>stretch</u> of field
+  * a **stagnant** <u>pool</u> of water
+* **Children always appreciate small gifts of money.(简单句)** Mum or dad, of course, provides a regular supply of pocket money, but uncles and aunts are always a source of extra income. **With some children, small sums go a long way.(简单句)** If 50 pence pieces are not exchanged for sweets, they rattle for months inside money boxes. **Only very thrifty children manage to fill up a money box.(简单句)** For most of them, 50 pence is a small price to pay for a nice big bar of chocolate.
+  * 简单句和复合句 结合
 
 **## text 2**
 
