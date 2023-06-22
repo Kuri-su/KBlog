@@ -1179,6 +1179,124 @@
 
 **## text 2**
 
-* 
+* → <u>Very few of the 50 pence pieces and pound coins</u> **<u>I have given him</u>** have found their way there.
+  * <u>Very few of the 50 pence pieces and pound coins</u> 这一长串是 主语
+  * **find one's way** 如果是事物做主语, 得翻译成**<u>到达</u>**,  如果是人做主语, 就是找到了道路, 字面意思(btw 死人也是人 :).
+    * → The river **finds its way** to the sea. 这条河汇入了大海 (这条河到了大海)
+    * → How did my money **find its way** in your pocket? 我的钱怎么到你口袋去了?
+    *  →(NCE3-49 P224-L31) They had mysteriously **found their way** there from the wine cellar !
+    * → (NCE2-96 P434-45) Specially-made lanterns are hung outside each house to help the dead to **find their way.** (字面意思)
+    * **<u>动词 + one's way</u>** (常见常考)
+      * **lose one's way** 迷路
+        * → (NCE2-50 P236-L1) 1love travelling in the country, but I don't like **losing my way.**
+      * **feel one's way** 摸索前进
+        * → The room was dark, so l had to **feel my way** along the wall to the door.
+      * **make one's way** 向某处走去
+        * → (NCE3-36 P166-L19) The hospital had been bombed and Hans had **made his way** back into Western Germany on foot.
+        * → (NCE3-48 P220-L30) Turning back down the main street, we quickened our pace and **made our way** rapidly towards the stream where we hoped the boatman was waiting.
+      * **force/elbow one's way** 用胳膊肘推开众人, 挤过去
+        * → He **<u>forced</u>/<u>elbowed</u> his way** through the crowd.
+      * **trace one's way** 蜿蜒前进
+        * → (NCE3-48 P220-L13) We expected the path to end abruptly, but we found that it **traced its way** through the trees.
+      * **edge one's way** 侧着身体前进
+        * → (NCE3-42 P196-L19) They had to **edge their way** along this, sometimes wading across shallow streams, or swimming across deep pools.
+* **advise sb. to do ** 建议某人做某事
+  * **advise (that) ...** 建议
+  * 建议后的 宾语从句 需要用虚拟语气, (之前 L12 讲过 wish 型的虚拟语气)
+  * **"should do"型的虚拟语气**
+    * (未来还有 **if** 型的虚拟语气)
+    * 规则
+      1. 下列<u>动词</u>后的<u>宾语从句</u>中用 (should) do 
+         * **<u>order, ask, decide, demand, require, advise, recommend, suggest, insist ...</u>** (建议, 要求, 命令 的 动词 ... )
+           * suggest (建议/暗示,表示暗示的时候不能用虚拟语气)
+         * **美式英语中要去掉这个 should 只用 do, 英式英语中 有 should 也行, 没 should 也行(托福考试中 绝对不要加 should,)**
+         * → He **suggested** <u>that we **(should) help** them with English.</u>
+         * → The teacher **ordered** <u>that the homework **(should) be** finished within half an hour.</u>
+         * → (NCE3-22 P110-L8) Even though the noble was expected to read the letter at each performance, he always **insisted** <u>that it **should be** written out in full.</u>
+      2. 下列<u>名词</u>后的<u>同位语从句</u>中用 (should) do 
+         * **<u>suggestion, proposal, request, demand, order, ...</u>**
+         * → He made a **suggestion** <u>that we **(should) have** a fancy dress party.</u>
+         * → The **proposal** <u>that John **(should) be** dismissed is unacceptable.</u>
+      3. 下列<u>形容词</u>后的<u>主语从句</u>中用(should) do
+         * **<u>important, necessary, natural, essentia, advisable, strange, surprising, ...</u>**
+         * should 有竟然的意思, 常见是 应该
+         * → It's **strange** that you **(should) say** such a thing.
+         * → It was **important** that you **(should) tell** me all the information.
+* → **Instead (of saving it)**, he bought himself fifty pence worth of trouble.
+  * **instead of doing .. 本该……，结果却…**
+  * → (NCE3-24 P118-L13) **Instead of becoming** a doctor, however, he became a successful writer of detective stories.
+  * → (NCE3-45 P208-L26) **lnstead of being** five new family members, these children had immediately become a commodity.
+  * 造句：本该乘电梯的，我们却走楼梯下去的。
+    * → **lnstead of** taking the elevator, we walked down the stairs.
+  * 造句：本该学习的，他却浪费时间追女孩子。
+    * → **lnstead of** studying, he wastes his time chasing girls.
+*  → <u>On his way to the sweet shop</u>, he dropped his 50 pence <u>and</u> it bounced along the pavement <u>and</u> then disappeared down a drain.
+  * drain n. 地沟, 下水道, 消耗 v. 排出, 放干, 耗尽
+* → George **took off** his jacket, **rolled up** his sleeves and **pushed** his right arm through the drain cover. 三个动词连用, 表达迫切的心情
+  * drain cover 下水道盖子
+  * → (NCE3-23 P114-L15) Acting on a sudden impuse, I **collected** several dozen, **put** them in a paper bag, and **took** them to Robert.
+    * dozen n. 十二个, 一打
+
+* **<u>what is more</u>/<u>what's more</u>** 此外, 而且还 (好坏均可)
+  * → (NCE3-38 P174-L.4) **What is more**, they will not have to rely solely on the written word.
+  * 同义词
+    * **<u>moreover</u> / <u>furthermore</u>** 
+    * **besides**
+    * **in addition**
+      * addition n. 增加, 附加物
+    * **additionally**
+      * adv. 此外, 另外, 
+  * 近义词, 表示更糟
+    * **to make things worse** 
+    * **to make matters worse**
+      * → The team has lost the last two games and, **to make matters worse**, two of its best plavers are iniured.
+* **gather** v. come together 人群聚集, / v. 收集东西, 收割东西
+  * → A crowd **gathered** outside the hotel.
+  * → (NCE4-9 P53-45) While Alfred's little army slowly began to **gather** at Athelney, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders.
+* a **<u>bar</u>/<u>cake</u>** of soap
+* a **slice** of butter
+* stick v. 卡住
+* 消防队的表述
+  * **the fire brigade**(营队) (英式用法)
+  * **the fire department** (美式用法)
+  * fireman 
+  * firefighter
+* ..and two fire tighters used a special type of grease to free George. 这样写语法上是对的, 但是突出的内容不对, 突出了润滑油, 弱化了乔治
+* → George was not too upset by his experience **because the lady <u>who owns the sweet shop</u> heard about his troubles <u>and</u> rewarded him with a large box of chocolates.**
+  * upset adj. 烦恼的, v. 使不安
+  * chocolate 如果用单数, 表示的是纯巧克力, 如果用复数, 只表示巧克力味的糖, 或者 巧克力风味的
+  * 表示**听说了**的搭配
+    * **hear of / about ...**
+    * **know of / about ...**
+    * **learn of / about ...**
+  * **reward sb. with sth.**  以某物**报答**某人
+    * 造句：观众们对这位表演者报以雷鸣般的掌声
+      * → The audience **rewarded** the performer **with** thunderous applause.
+    * a a reward of £1,000 of £1,000
+    * 辨析
+      * **award sb. sth.** **授予**某个奖项
+        * → She **was awarded** the Nobel Prize for her work in medical research.
+        * the Nobel Prize 诺贝尔奖
+        * the Academy Award 学院奖(奥斯卡奖)
+* **本文体裁**：记叙文 (narrative) 
+  * **文章线索**：
+    * **题目**：新颖有趣，引人注意
+    * **第一段**：作铺垫：孩子喜欢零花钱一来源 (父母/亲属）一少数节俭，多数立刻花掉
+    * **第二段**：叙述事情经过：(when. where, who,why, what, and result)，照应题目.
 
 ## L16 Maryhad a littlelamb
+
+**## words **
+
+* 
+
+**## text1**
+
+* 
+
+**## text2**
+
+* 
+
+## L17 The longest suspension bridge in the world
+

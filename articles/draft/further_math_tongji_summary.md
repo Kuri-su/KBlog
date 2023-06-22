@@ -29,7 +29,7 @@ $$
 
 **#### 求导**
 
-* 通常式
+* 通常式 // TODO 补充详细的证明过程
 
 $$
 (f(x) = a^x)’ = a^x * ln(a)
@@ -76,7 +76,7 @@ $$
 
 **#### 求导**
 
-* 一般式
+* 一般式 // TODO 补充详细的证明过程
 
 $$
 g(x) = log_a(x)， g'(x) = \frac{1}{x \cdot ln(a)}
@@ -181,7 +181,16 @@ $$
 
 **#### 不定积分**
 
+* ∫sin(x) dx = -cos(x) + C
+* ∫cos(x) dx = sin(x) + C
+* ∫tan(x) dx = ln|sec(x)| + C
+* ∫cot(x) dx = ln|sin(x)| + C
+* ∫sec(x) dx = ln|sec(x) + tan(x)| + C
+* ∫csc(x) dx = ln|csc(x) - cot(x)| + C
+
 #### 反三角函数
+
+
 
 **#### 求导**
 
