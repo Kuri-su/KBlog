@@ -1372,11 +1372,144 @@
 
 **## text1**
 
-* 
+* in southern Greece = in the south of Greece
+  * **southern** ... = the south of ...
+  * **northern** ... = the north of ...
+  * **eastern** ... = the east of ...
+  * **western** ... = the west of ...
+    * → She comes from **western** China.
+    * → She comes from <u>the west of China.</u>
+  * 英文中先说南北, 再说东西
+  * **northeastern** ... = the northeast of ..
+  * **northwestern** .. . = the northwest of ..
+  * **southeastern** ... = the southeast of ...
+  * **southwestern** ... = the southwest of ...
+  * 造句：Jane和父母亲住在中国东北一个叫丹东的小城市里。
+    * → Jane and her parents live in the tiny town of Dandong in **northeastern China**.
+    * → Jane and her parents live in the tiny town of Dandong in <u>the northeast of China.</u>
+* **Greece** n. 希腊(国家)
+  * **Greek** n. 希腊人
+  * **Greek** mythology 希腊神话
+    * myth n. 神话 (可数)
+    * mythology n. 神话学 (不可数)
+  * It's all **Greek** to me. 这对我来说太难了.
+* **大 形 年 新 颜 国 材 用＋中心名词**
+  * 不属于这八类就丢到最前面, 怎么排都行
+* ... a little white lamb **which had been a present <u>from</u> her husband.**
+* tie v. 栓, 捆, 系
+* **keep + 宾语 + 宾补 (adj. / 分词 / 介词短语)** 表示处于某种状态
+  * → The coat will **keep you <u>warm</u>.**
+  * → He **kept the fire <u>burning</u>.**
+  * → It's rude to **keep people <u>waiting</u>.**
+  * → **Keep your nose <u>out of my affairs!</u>**
+    * affairs n. 事务, 事宜
+* **fetch/get** 是去拿来, 包含**往返**
+  * → Please **<u>fetch</u> / <u>get</u>** me some coffee.
+  * → Go fetch! 去拿回来, (通常对狗说)
+  * **bring** 是带来
+    * → He **brought** a friend to my home.
+  * **take** 拿走
+    * → Don't forget to **take** an umirella.
+* **lamb** 这个词的 b 是不发音的, 读的时候读成 lam 即可
+* 某人某物丢了
+  * **<u>be missing</u> / <u>be lost</u> / <u>disappear (without trace)</u> 消失的无影无踪**
+  * → ..., the lamb was lost.
+  * → …, the lamb disappeared (without trace).
+* → The rope had been cut, **so <u>it</u> was obvious <u>that the lamb had been stolen</u>**.
+  * rope n. 绳索, v. 用绳索捆绑
+  * → ..,so **it was <u>clear</u> / <u>obvious</u> / <u>apparent</u> / that** the lamb had been stolen.
+    * **clear**  明显的
+    * **obvious** 明显的
+    * **apparent** 明显的
+  * → .... , so **<u>clearly</u> / <u>obviously</u> / <u>apparently</u>** the lamb had been stolen.
+  * 造句：所有我仔细放在包里的东西都乱成了一团，所以显然珠宝是被偷了。
+    * → (NCE3-11 P54-L13) All the things | had packed so carefully were soon in a dreadful mess.
+    * → All the things I had packed so carefully were in a dreadful mess, so **it was <u>clear</u> / <u>obvious</u> / <u>apparent</u> that** the jewels had been stolen.
+    * → All the things I had packed so carefully were in a dreadful mess, so **<u>clearly</u> / <u>obviously</u> / <u>apparently</u>** the jeivels had been stolen.
 
 **## text2**
 
-* 
+* **set out to do** （带着目的）开始做某事 
+  * (NCE3-5 P30-L9) The journalist immediately **set out to obtain** these important facts, but he took a long time to send them.
+* **such** <u>a</u> small village 这么小的一个村庄, such 限定 名词
+  * **so** small <u>a</u> village , so 修饰形容词 或者副词
+  * 修饰 **单数名词**
+    * **such** <u>an</u> interesting book
+    * **so** interesting <u>a</u> book
+  * 修饰 **复数名词**
+    * 出现如下四个形容词 只能用 so 
+      * **<u>many</u> / <u>much</u> / <u>few</u> / <u>little</u>**
+    * **so many** people 
+    * **so much** time 
+    * **so few** students 
+    * **so little** money
+    * **so <u>little</u>** a boy
+    * **such** <u>a</u> **<u>little</u>** boy
+      * 当 little 表示小的时候, 不受上述限制
+* → **After <u>telling several of his friends about the theft</u>,** Dimitri found <u>out</u> **that his neighbour, <u>Aleke</u>, had suddenly acquired a new lamb.**
+  * **tell sb. (about) sth.**   告诉某人某事
+    * **<u>report</u> / <u>relate</u> / <u>recount</u> sth. to sb.** 把某事讲给某人听
+      * relate v. 关联; 叙述, 讲述
+      * recount v. 叙述, 讲述
+    * → After **<u>reporting</u> / <u>relating</u> / <u>recounting</u>** the theft **to** several of his friends,
+    * → (NCE3-56 P252-L5) We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives **were not related to** it.
+  * found out 发现了信息
+    * found 找到了某个物体
+  * 这里的 out 是副词, 介词在 that 从句前要去除
+    * The experts **were** now fully **convinced that** the animal was a puma, but where had it come from?
+    * that 从句前可以加介词的三个例外情况, 也可以看成复合连词
+      * **in that ...**  因为...
+      * **except that ...**  除了... ; 要不是....的话, 就..
+      * **but that ...** 除了... ; 要不是....的话, 就..
+  * **acquire** /əˈkwaɪr/ adj. 获得, 取得, 学到
+* → He told him **he had better return it <u>or</u> he would call the police.**
+  * **had better do sth. or (else) ... ** 你最好做某事, 否则 ... (多表示威胁的语气)
+    * → You**'d better** go out at once **or (else)** I'll throw you out of the window. (这是口语, 书面语一般不使用 **'s/'d** 这种缩写)
+  * 威胁语气
+    * **do sth. before ...** 你最好这么做, 否则的话就如何了. (多表示威胁的语气)
+      * → Get away from here **before** I call the police.
+  * 不然的话 (不表示威胁)
+    * **<u>otherwise</u> / or(else)**
+      * → Put on a heavy coat, <u>otherwise</u> / <u>or (else)</u> you'll catch a cold.
+        * catch a cold 感冒
+  * **had better do sth. ** 表示建议, 你最好这么做, (但不怎么客气, 一般多在同辈, 同龄人, 长辈对晚辈间, 老师对学生, 有一点教训的味道)
+    * → You**'d better** pay him a visit tomorrow.
+    * 更委婉的建议
+      * **You might as well do ...** 您不妨这么做.., 您这么做似乎好一点(尊敬, 且委婉)
+      * **It might be better to do ...** 这么做可能会更好一点噢, (我这个建议不怎么成熟, 供您参考,  不一定对)
+      * **I suggest you do ...** 我建议您这么做...
+* 报警(总共三种表达)
+  * **call the police**  
+  * **go to the police**
+    * → (NCE3-19 P86-L11) At first, she decided to **go to the police**, but fearing that she would never see Rastus again---the letter had made that quite clear---she changed her mind.
+  * **inform the police**
+    * inform v. 通知, 告知
+    * Mrs. Ramsy was not to **inform the police** and had to pay £ 1,000.
+* **deny + sth./doing/that..**
+  * Aleko **denied the accusation/charge.** 
+    * accusation  n. 指控, 指责
+    * charge n./v. 指控, 指责
+  * Aleko **denied that** he had taken it.
+  * 承认 
+    * **admit/acknowledge + sth./doing/that...**
+* **backyard** n. 后院, 
+* **lead** sb. 领着某人 (led 过去式)
+  * 领某人去某地
+    * **show sb.** 带着某人去某地, 让那人呆在那, 然后我就走了(led 不一定有这个含义, show 更强调这个含义)
+      * → (NCE3-24 P118-L14) George **showed** me **to** the guestroom which, he said, was rarely used.
+    * **usher sb.**  非常有礼貌的领某人去某地, 就像领座员那样
+      * usher v. 引领
+      * → The secretary **ushered** me **into** his office.
+* → <u>It</u> was true **that he had just bought a lamb**, <u>he explained</u>, <u>but</u> his lamb was black.
+  * **的确... 但是 ...** 的句型 **It is true that .... , but ....** 先让步, 后转折, 转折后的是重要信息
+    * 造句：诚然中国还是一个发展中国家， 但是她却充满了潜力。
+      * → It was true that China is still a developing country, but  she is  full of potential.
+        * potential adj. 潜在的, 可能的, n. 潜力, 可能性
+    * **It is true that .., but ...**
+    * **Admittedly, ..., but ..**
+      * → **Admittedly**, I could have tried harder, **but** I still don't think.all this criticism is fair.
+    * **Granted, ..., but ...**
+    * Though 后面不能用 but, Though 是连词,  引导让步状语从句, but 也是连词, 连接两个主句, 前面如果是 从句则不能用 but, 可以用 though 后面加 however
 
 ## L17 The longest suspension bridge in the world
 
