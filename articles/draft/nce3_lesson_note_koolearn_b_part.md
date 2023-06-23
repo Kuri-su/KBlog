@@ -1309,7 +1309,46 @@
       * enormous /ɪˈnɔːməs/ adj. 巨大的, 庞大的
   * **accuse** /əˈkjuːz/ v. (愤怒地)指责, 控告, 指控
     * **accuse sb. of sth.** 指责/指控 某人 因为某事
-      * → I **accused** him **of** stealing my sheep.
+      * → I **accused** him **of** stealing my sheep. 我控告他 偷了我的羊 / 我气愤地指责他偷了我的羊
+      * → (NCE3-16 P74-L10) Dimitri immediately went to Aleko's house and angrily **accused** him **of** stealing the lamb.
+    * **criticize sb. for sth.** 正式的因为某事批评某人, 
+      * → He **was criticized for** his delay in dealing with the matter.
+    * **censure sb. for sth. ** 严厉的因为某事批评某人
+      * → Ministers **were censured for** their lack of decisiveness during the crisis.
+    * **scold sb. for sth.** 因为某事批评某人, 在父母与子女之间
+      * → His mother **scolded** him **for** breaking her favorite vase.
+    * **blame sb. for sth.** 归咎于某人, 埋怨某人
+      * **blame sth. op sb.** 
+      * → They **blamed** George **for** the failure.
+      * → They **blamed** the failure **on** George.
+    * **reprimand sb. for sth.** 批评, 某人, 常用于上下级之间
+      * reprimand v. 训斥, 责备
+      * → I **was reprimanded** by my manager **for** being late.
+      * → (NCE3-31.P146-L16) Recognizing who the customer was, the manager was most apologetic and **reprimanded** the assistant severely.
+    * **condemn A <u>for</u>/<u>as</u> B** 谴责 (for: 因为 A 谴责 B, as 把 A 谴责为 B)
+      * **condemn** v. 谴责, 
+      * → The movie **was condemned for** its sexism.
+        * sexism n. 性别歧视
+      * → The terrorist attack **was condemned as** an act of <u>barbarism</u> and <u>cowardice</u>.
+        * barbarism n. 野蛮, 
+        * cowardice n. 胆怯, 懦弱
+          * coward n. 懦夫, 胆小鬼
+* deny /dɪˈnaɪ/ v. 否认
+  * **deny + <u>sth./doing/that ...</u> **
+  * → He **denied** <u>the charge.</u>/<u>knowing about it</u>/<u>that he had stolen the sheep</u>.
+  * 完美反义词, 承认
+    * **admit/acknowledge + sth./doing/that ...**
+      * He **admitted/acknowledged** <u>the charge.</u>/<u>knowing about it</u>/<u>that he had stolen the sheep</u>.
+* ashamed /əˈʃeɪmd/ adj. 惭愧的, 羞耻的
+  * a 开头的形容词多是 表语形容词 , 一般不会放在名词前去修饰一个名词, 通常放到 be动词或者 系动词后当表语.
+  * **be ashamed of ... ** 对... 感到羞耻
+    * → You should **be ashamed of** your behavior. 
+      * behavior 行为
+    * **shame** v. 使蒙羞, 让某人丢脸了n. 羞耻, 耻辱
+      * 同义搭配
+        * disgrace
+        * humiliate
+        * bring shame / disgrace on ..
 
 **## text1**
 
