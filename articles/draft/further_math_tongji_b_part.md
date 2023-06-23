@@ -233,15 +233,15 @@
     1. 例子
   
       * 1
-  
+      
         1. $f(x)=\frac{x^2-1}{x-1}$
            1. $when\ x=1, f(x) 无函数值$
            2. $lim_{x\to 1}f(x)=lim_{x\to1}(x+1)=2$
-  
+      
       * 2
-  
+      
         1. $f(x)=\begin{cases} \frac{x^2-1}{x-1}& x\ne1 \\ 10 & x=1 \end{cases} $
-  
+      
         2. $lim_{x\to1}f(x)=lim_{x\to1}\frac{x^2-1}{x-1}=lim_{x\to1}(x+1)$
   
 * 证明: 
@@ -1225,15 +1225,16 @@
         * $=6\int (t^2-t+1-\frac{1}{t+1})dt$
         * $=6[\frac{1}{3}t^3-\frac{1}{2}t^2+t-ln|t+1|]+C=2t^3-3t^2+6t-6ln|t+1|+C$
         * $=2\sqrt x-3\ ^3\sqrt x+6\ ^6\sqrt x-6ln(^6\sqrt x +1)+C$
-
 * Case 2. 平方和
   1. $\sqrt{a^2-x^2}\overset{x=asint}{=}acost$
      * 例题:
        *  $\int \sqrt{a^2-x^2}dx$
        * 解:
          *  令 $x=asint$
-         * 
-       * ![image-20230513125913912](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513125913912.png)
+         * $\int \sqrt{a^2-x^2}dx=\int a^2cos^2tdt=\frac{a^2}{2}\int (1+cos2t)dt$
+         * $=\frac{a^2}{2}t+\frac{a^2}{4}sin2t+C=\frac{a^2}{2}t+\frac{a^2}{2}sintcost+C$
+         * $=\frac{a^2}{2}arcsin\frac{x}{a}+\frac{a^2}{2}\cdot \frac{x}{a}\cdot \frac{\sqrt{a^2-x^2}}{a}+C$
+         * $\therefore \int \sqrt{a^2-x^2}dx=\frac{a^2}{2}arc\frac{x}{a}+\frac{1}{2}x\sqrt{a^2-x^2}+C$
   2. $\sqrt{x^2+a^2}\overset{x=atant}{=}asect$
      * 例题: 
        1. $\int\frac{1}{\sqrt{x^2+a^2}}$
@@ -1255,7 +1256,6 @@
             * $=ln|\frac{x}{a}+\frac{\sqrt{x^2-a^2}}{a}|+C$
             * $=ln|x+\sqrt{x^2-a^2}|+C$
             * $\therefore \int \frac{dx}{\sqrt{x^2-a^2}}=ln|x+\sqrt{x^2-a^2}|+C$
-
 * 基本公式
   1. $\int K dx =kx+C$
   2. $\int x^adx=\begin{cases} \frac{1}{a+1}x^{a+1}+C & a\ne -1\\ ln |x|+C & a=-1 \end{cases}$
@@ -1436,25 +1436,49 @@
   * 2-1
     * $\int \frac{5x-1}{x^2-x-2}dx$
     * 解: 
-      * // TODO
+      * $\frac{5x-1}{x^2-x-2}=\frac{5x-1}{(x+1)(x-2)}=\frac{A}{x+1}+\frac{B}{x-2}$
+      * $由 A(x-2)+B(x+1)=5x-1 \Rightarrow \begin{cases}A+B=5 \\ -2A+B=-1 \end{cases} \Rightarrow A=2, B=3$
+      * $\int \frac{5x-1}{x^2-x-2}dx=\int (2\cdot \frac{1}{x+1}+3\cdot \frac{1}{x-2})dx$
+      * $=2ln|x+1|+3ln|x-2|+C$
+  * 2-2
+    * $\int \frac{x-1}{x^2+2x+5}dx$
+    * $=\frac{1}{2}\int \frac{(2x+2)-4}{x^2+2x+5}dx$
+    * $=\frac{1}{2}\frac{d(x^2+2x+5)}{x^2+2x+5}-2\int \frac{1}{2^2+(x+1)^2}d(x+1)$
+    * $=\frac{1}{2}ln(x^2+2x+5)-arctan\frac{x+1}{2}+C$
+  * 3
+    * $\int \frac{x+2}{(2x+1)(x^2+x+1)}dx$
+    * 解: 
+      * $\frac{x+2}{(2x+1)(x^2+x+1)}=\frac{A}{2x+1}+\frac{Bx+C}{x^2+x+1}$
+      * 由 $A(x^2+x+1)+(2x+1)(Bx+C)=x+2 \Rightarrow \begin{cases} A+2B=0 \\A+B+2c+1 \\ A+C=2 \end{cases} \Rightarrow A=2,B=-1,C=0$
+      * 原式= $\int \frac{2}{2x+1}dx-\int \frac{x}{x^2+x+1}dx$
+      * $=\int \frac{d(2x+1)}{2x+1}-\frac{1}{2}\int \frac{(2x+1)-1}{x^2+X+1}dx$
+      * $=ln|2x+1|-\frac{1}{2}ln(x^2+x+1)+\frac{1}{2}\int \frac{d(x+\frac{1}{2})}{(\frac{\sqrt3}{2})^2+(x+\frac{1}{2})^2}$
+  * 4
+    * $\int \frac{1}{x(x-1)^2}dx$
+    * 解: 
+      * 令 $\frac{1}{x(x-1)^2}=\frac{A}{x}+\frac{B}{x-1}+\frac{C}{(x-1)^2}$
+      * 由 $A(x-1)^2+Bx(x-1)+Cx=1$
+      * $\Rightarrow \begin{cases} A+B=0 \\ -2A-B+C=0 \\A=1 \end{cases} \Rightarrow A=1, B=-1,C=1$
+      * 原式 = $\int (\frac{1}{x}-\frac{1}{x-1}+\frac{1}{(x-1)^2})dx$
+      * $=ln|\frac{x}{x-1}|-\frac{1}{x-1}+C$
+  * 5-1
+    * $\int \frac{x^2+1}{x^4+1}dx$
+    * 解: 
+      * 原式 = $\int \frac{1+\frac{1}{x^2}}{x^2+\frac{1}{x^2}}dx=\frac{d(x-\frac{1}{x})}{(\sqrt2)^2+(x-\frac{1}{x})^2}$
+      * $=\frac{1}{\sqrt 2}arctan\frac{x-\frac{1}{x}}{\sqrt 2}+C$
+  * 5-2
+    * $\int \frac{x^2-1}{x^4+1}dx$
+    * 解: 
+      * 原式$=\int \frac{1-\frac{1}{x^2}}{x^2+\frac{1}{x^2}}dx=\int \frac{d(x+\frac{1}{x})}{(x+\frac{1}{x})^2-(\sqrt 2)^2}$
+      * $=\frac{1}{2\sqrt 2}ln|\frac{x+\frac{1}{x}-\sqrt 2}{x+\frac{1}{x}+\sqrt 2}|+C$
+  * 6
+    * $\int \frac{dx}{x(x^4+2)}$
+    * 解: 
+      * $\int \frac{dx}{x(x^4+2)}=\frac{1}{4}\frac{d(x^4)}{x^4(x^4+2)}$
+      * $=\frac{1}{8}\int (\frac{1}{x^4}-\frac{1}{x^4+2})d(x^4)$
+      * $=\frac{1}{8}ln\frac{x^4}{x^4+2}+C$
 
 
-
-
-
-![image-20230513132150233](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132150233.png)
-
-![image-20230513132202949](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132202949.png)
-
-![image-20230513132214839](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132214839.png)
-
-![image-20230513132737612](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132737612.png)
-
-![image-20230513132755136](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230513132755136.png)
-
-![image-20230515124436708](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124436708.png)
-
-![image-20230515124448308](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124448308.png)
 
 
 
