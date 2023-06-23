@@ -1344,11 +1344,31 @@
   * **be ashamed of ... ** 对... 感到羞耻
     * → You should **be ashamed of** your behavior. 
       * behavior 行为
-    * **shame** v. 使蒙羞, 让某人丢脸了n. 羞耻, 耻辱
+    * **shame** v. 使蒙羞, 让某人丢脸了
       * 同义搭配
-        * disgrace
-        * humiliate
-        * bring shame / disgrace on ..
+        * **disgrace** n. 耻辱, 丢脸事, v. 使失宠, 使蒙羞
+        * **humiliate** v. 使感到羞愧或丢脸，使蒙受耻辱
+        * **bring <u>shame</u>/<u>disgrace</u> on ..** v. 使感到羞愧或丢脸，使蒙受耻辱
+      * → His behavior **<u>shamed</u> / <u>disgraced</u> / <u>humiliated</u> / <u>brought shame on</u> / <u>brought disgrace on</u>** his family. 
+    * **shame** n. 羞耻; 可惜
+      * → **Shame on you!**  真丢人! 不知羞耻!
+      * → **What a shame! ** 真可惜
+        * → John is sick and can't come to class.
+        * → **What a shame!**
+      * 听力题: 
+        * M: Just as Sarah was opening the present I realized the camera wasn't working.
+        * W: What a shame!
+        * Q: What does the woman mean?
+      * **put <u>sb.</u> / <u>sth.</u> to shame** 使…相形见绌
+        * → (NCE2-73 P342-L3) They have all **been put to shame** by a boy who, while playing truant, travelled 1,600 miles. 
+* **apologize** /əˈpɑːlədʒaɪz/ v. 道歉
+  * **apologize to sb. for sth.** 可以省略 to sb. 或者 for sth.
+    * → I **apologized to** him **for** being late.
+  * **make an apology to sb. for sth.** 因为某事向某人说抱歉
+  * **say sorry to sb. for sth. ** 因为某事向某人说抱歉
+  * **be apologetic about sth.** 对某事有歉意
+    * → He **was apologetic about** his late arrival.
+    * → (NCE3-31 P146-L16) Recognizing who the customer was, the manager was most **apologetic** and reprimanded the assistant severely.
 
 **## text1**
 
