@@ -1288,7 +1288,28 @@
 
 **## words **
 
-* 
+* **theft** /θɛft/ n. 盗窃, 偷窃行为
+  * thief n. 贼
+  * → He is guilty of **theft**.
+    * **be guilty of ...** 犯有某种罪行
+  * **burglary** /ˈbɜːɡləri/ n. 入户行窃 
+    * **burglar** n. 梁上君子, 入户行窃的贼
+      * → (NCE3-47 P216-L16) **Burglar** alarms going off at any time of the day or night serve only to annoy passers-by and actually assist **burglars** to burgle.
+  * **pickpocket** n. 扒手
+  * **shoplifter** n. 商店内行窃者
+  * 偷或抢的表达
+    * **steal sth. from sb.** 从 sb. 那里偷来 sth.
+    * **rob sb. of sth.** 抢劫某人得到某物
+    * **help oneself to sth.** 自己拿某物(也是一种偷或抢的表达)
+      * → (NCE3-6 P34-L13) One of the thieves was struck by a heavy statue, but he was too busy **helping himself to diamonds** to notice any pain.
+        * pain n. 不适, 或者 疼痛的感觉
+  * **embezzle**  v. 贪污, 侵吞
+    * → The official was charged with **embezzling** enormous government funds. 
+      * fund /fʌnd/ n. 资金, 基金
+      * enormous /ɪˈnɔːməs/ adj. 巨大的, 庞大的
+  * **accuse** /əˈkjuːz/ v. (愤怒地)指责, 控告, 指控
+    * **accuse sb. of sth.** 指责/指控 某人 因为某事
+      * → I **accused** him **of** stealing my sheep.
 
 **## text1**
 
