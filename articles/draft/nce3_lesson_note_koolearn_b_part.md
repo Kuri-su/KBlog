@@ -1562,11 +1562,114 @@
 
 **## words**
 
-* 
+* **suspension** /səˈspenʃən/ n. 悬挂; 暂停; (因违规而) 停职,停课
+  * **suspension** bridge 吊桥
+  * the **suspension** of the peace talks  暂停的和平谈判
+  * Annie got a 3-day **suspension** for smoking in school. 停课
+  * **suspend sth. from sth.** 把 什么东西 挂在 什么东西 上
+    * A lamp **was suspended from** the ceiling.
+      * lamp n. 灯
+      * ceiling n. 天花板
+    * → (NCE3-18 P82-L10) Oddly shaped forms that **are suspended from** the ceiling and move in response to a gust of wind are quite familiar to everybody.
+    * → (NCE3-37 P170-L21) A tiny asterisk conducted me to a footnote at the bottom of the page. It said: 'This service has **been suspended.**’
+    * → The policeman **was suspended** while the complaint was investigated.
+      * investigate v. 调查, 研究
+    * → Dave **was suspended from** school for a week.
+    * 同义词
+      * **hang from sth.** 悬挂
+        * → In the corner of the room was a large lamp, **hanging from** the ceiling.
+
+* **situation** /ˌsɪtʃuˈeɪʃn/ n. 地点, 位置; 情况, 处境
+  * 表示地点:  可以用 **situation** 和 **location**
+    * → a beautiful **<u>situation</u> / <u>location</u>** overlooking the valley.
+    * → His apartment is **in** a really good **<u>situation</u> / <u>location</u>.**
+  * 表示情况, 处境
+    * → She found herself **<u>in</u>** an embarrassing **situation**.
+      * 表示出于某个状况, 用介词 **in**
+    * → (NCE3-4 P26-L6) This can give rise to curious **situations**, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+    * → (NCE3-13 P62-L14) She tried to explain the **situation**, saying 'It's only me', but it was too late.
+  * **situate** /ˈsɪtʃueɪt/ v. 使位于, 选址安置 (被动描述位于某处)
+    * 同义词
+      * locate v. 定位, 找到, 设立 (被动描述位于某处)
+      * site v. 定位场所 , 设置, 选址 ; n. 场所, 工地 (被动描述位于某处)
+    * → The monastery **is <u>situated</u> / <u>located</u> / <u>sited</u>** in a valley. 被动描述位于某处
+    * 主动描述位于某地
+      * stand 用于比较小的房子或者 雕像 , 矗立
+      * sit 用于比较小的房子或者 雕像
+      * lie 面积比较大, 平面感比较强, 一大批, 可以说这个村子或者这个地点"躺" 在某地
+      * → Near the railway station **stood** a hotel.
+      * → The house **sits** on top of a hill.
+      * → The town **lies** on the coast.
+
+* **immortal** /ɪˈmɔːrtl/ adj. 永生的; 流芳百世的
+  * → Plato believed that the soul is **immortal**.  柏拉图相信 灵魂是永生的
+  * → the **immortal** Shakespeare 不朽的莎士比亚
+  * → Emily Bronte's **immortal** love story 
+  * 反义词
+    * **mortal** adj. 会死的, 终有一死的; 致命的
+      * → All human beings are **mortal**. 人终有一死
+      * → a **mortal** wound  一个致命伤
+        * wound n. 伤口, 创伤
+      * → (NCE3-57 P256-L11) He became **mortally** ill a few months before we had planned to go and, when he knew that he was dying, he made me promise to go on my own.
+    * **immoral** /ɪˈmɔːrəl/ adj. 不道德的, 邪恶的
+      * → It's **immoral** to steal.
+      * 反义词
+        * **moral** adj. 道德的, 道义的 
+          * → the decline of **moral** standards 下降的道德标准
+            * decline v. 下降
+          * **moral** <u>support</u>/<u>obligation</u> 道义上的支持, 道义上的责任
+          * → I know only that what is **moral** is what you feel good after and what is **immoral** is what you feel bad after.   ---- Ernest Hemingway
+* **span** /spæn/ n. 跨度, 一段时间 
+  * → The arch has **a span of** 60 meters. 物理上的跨度
+  * → I worked with him over **a span of** six years. 时间上的跨度
+  * → The project must be completed within a specific **time span**.
+    * **specific** /spəˈsɪfɪk/ adj. 具体的, 明确的
+  * 复合名词
+    * **wingspan** n. 翼展
+      * wing n. 翅膀
+      * → a bird with a two-foot **wingspan**
+    * lifespan n. 寿命
+      * → Men have a shorter **lifespan** than women.
+* **concrete** /ˈkɑːnkriːt/ n. 混凝土 adj. 混凝土的, 具体的, 实体的, 有形的
+  * → modern buildings made of **concrete**
+  * → (NCE3-17 P78-L10) The towers are built on immense underwater platforms made of **steel and concrete.**
+    * steel n. 钢
+    * steel and concrete 钢筋混凝土
+  * 形容词词义 adj. 混凝土的, 具体的, 实体的, 有形的
+    * a **concrete** <u>floor</u> / <u>wall</u> / <u>building</u>
+    * concrete <u>evidence</u> / <u>proposals</u> / <u>examples</u> 具体的证据; 具体的建议, 具体的示例
+      * → (NCE4-6 P26-L6) Even if one didn't know from **concrete examples** (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce it from general principles.
+    * 反义词
+      * **abstract** adj. 抽象的
+        * → Beauty itself is **abstract**.
+        * → (NCE3-35 P162-411) There are rare instances when justice almost ceases to be an **abstract** concept.
+          * concept /ˈkɒnsept/ n. 概念, 
+* **capacity** /kəˈpæsəti/ n. 容量, 承受量; 能力
+  * 容量, 承受量
+    * **capacity of ...**
+      * → The jug **has a capacity of** half a liter.
+        * jug n. 壶
+        * liter n. 升
+      * → The stadium **has a seating capacity of** 50,000. 体育场有 50000 个座位
+      * → The new truck **has a loading capacity of** 2.5 tons. 新卡车有  2.5 吨的承受量
+  * 能力
+    * **capacity for ...** 某方面能力强
+      * → He **has a great capacity for** work. 他的工作能力特别强
+    * **capacity to do ...** 人的能力强
+      * → her **capacity to** read and write 
+      * → (NCE4-33 P195-L8) We would lay less stress on 'facts and figures' and more on a good memory, on applied psychology, and on the **capacity** of a man **to** get along with his fellowcitizens.
+    * 人的能力的同义词
+      * **ability to do ...** 做某事的能力
+        * → Our **ability to** think and speak makes us different from other animals.
+      * **capability to do ...**
+      * **capability of ...**
+        * → You have the **capability <u>to do</u> / <u>of doing</u>** this job well.
+      * **aptitude for ...** 天赋就有的能力
+        * → At an early age Susan showed an **aptitude for** languages.
 
 **## text1**
 
-* 
+* → Verrazano, <u>an ltalian **about whom little is known**</u>, sailed into New York Harbour in 1524 <u>and</u> named it Angouleme.
 
 **## text2**
 
@@ -1575,3 +1678,6 @@
 **## text3**
 
 * 
+
+## L18 Electric currents in modern art
+
