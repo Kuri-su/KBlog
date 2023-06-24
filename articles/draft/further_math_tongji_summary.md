@@ -190,13 +190,31 @@ $$
 
 #### 反三角函数
 
+反三角函数是三角函数的反函数, 在已知对边比例的情况下求角度
 
+* $sin^{-1} = arcsin=\frac{1}{sin}$
+* $cos^{-1}=arccos=\frac{1}{cos}$
+* $tan^{-1}=arctan=\frac{1}{tan}$
 
 **#### 求导**
 
+* $arcsin'(x) = \frac{1}{\sqrt{1-x^2}}$
+* $arccos'(x) = -\frac{1}{\sqrt{1-x^2}}$
+* $arctan'(x) = \frac{1}{1+x^2}$
+
 **#### 不定积分**
 
-#### 常数 $e$
+- $\int arcsin(x) dx = x \cdot arcsin(x) + \sqrt{1 - x^2} + C$
+- $\int arccos(x) dx = x \cdot arccos(x) - \sqrt{1 - x^2} + C$
+- $\int arctan(x) dx = x \cdot arctan(x) - \frac{1}{2} \ln |1 + x^2| + C$
+
+#### 常数 $e$ (欧拉数)
+
+1. 定义: 
+   * $e=lim_{n\to \infty}(1+\frac{1}{n})^n$
+   * $e=lim_{t\to 0}(1+t)^{\frac{1}{t}}$
+2. 等价定义
+   * $lim_{h\to 0}\frac{e^h-1}{h}=1$
 
 
 
