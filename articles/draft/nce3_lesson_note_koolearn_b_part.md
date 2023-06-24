@@ -1501,7 +1501,7 @@
       * usher v. 引领
       * → The secretary **ushered** me **into** his office.
 * → <u>It</u> was true **that he had just bought a lamb**, <u>he explained</u>, <u>but</u> his lamb was black.
-  * **的确... 但是 ...** 的句型 **It is true that .... , but ....** 先让步, 后转折, 转折后的是重要信息
+  * **的确... 但是 ...** 的句型 **It is true that .... , but ....** 先让步, 后转折, <u>转折后的是重要信息</u>
     * 造句：诚然中国还是一个发展中国家， 但是她却充满了潜力。
       * → It was true that China is still a developing country, but  she is  full of potential.
         * potential adj. 潜在的, 可能的, n. 潜力, 可能性
@@ -1509,7 +1509,69 @@
     * **Admittedly, ..., but ..**
       * → **Admittedly**, I could have tried harder, **but** I still don't think.all this criticism is fair.
     * **Granted, ..., but ...**
+      * → **Granted**, he doesn't look too bad for his age, **but** I don't fancy him.
+      * → (NCE4-47 P274-L13) **Granted**, a snobbery of camping itself, based upon equipment and techniques, already exists; **but** it is of a kind that, if he meets it, he can readily understand and deal with.
     * Though 后面不能用 but, Though 是连词,  引导让步状语从句, but 也是连词, 连接两个主句, 前面如果是 从句则不能用 but, 可以用 though 后面加 however
+    * **<u>It is true that</u> / <u>Admittedly</u>. / <u>Granted</u>...,** 诚然
+      * **but that is not to say that ...**  但是这并不是说
+      * **but it does not follow that ...** 但是这并不能得到这样的结论
+      * **but it does not necessarily mean that ..** 但是这并不意味着 ...
+      * **but there is no guarantee that ... ** 但是这并不能保证 ... 
+    * 造句：确实很多大学生选择继续读研究生 (pursue their graduate studies) ，但这并不意味着他们都想做学者.
+      * → **It is true that** many college students choose to pursue their graduate studies, **but it does not necessarily mean that** they want to be scholars.
+* → **Ashamed of having acted so rashly,** Dimitri apologized to Aleko <u>for having accused him.</u>
+  * 非谓语动词当原因状语用时, being 通常是省略的, 加上也行(<u>也可以看作形容词 做原因状语</u>)
+  * **be ashamed of ...** 为某事感到羞耻
+    * → **<u>Being</u> ashamed of** having acted so rashly, Dimitri apologized to Aleko for having accused him.
+    * → (NCE3-22 P110-L14) The gaoler looked on eagerly, **(being) anxious** to see if his fellow actor had at last learnt his lines.
+    * → (NCE3-30 P142-L21) He used to sleep during the day and work'at night, **(being) quite unaware** of the fact that he had become the ghost of Endley.
+    * → (NCE2-49 P232-L1) **(Being) Tired** of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.
+  * 动名词的时态和语态
+    * 一般时
+      * 主动
+        * doing
+      * 被动
+        * being done
+    * 完成时
+      * 主动
+        * having done 
+      * 被动
+        * having been done
+  * **apologize to sb. for sth.**
+    * Dimitri **made an apology to** Aleko **for** having accused him.
+    * Dimitri **said sorry to** Aleko **for** having accused him.
+  * 造句：对自己如此不小心 (inattentively) 而感到不好意思，我为打碎了Mary最喜欢的花瓶而向她道歉。
+    * → Ashamed of having acted so inattentively, l apologized to Mary for having broken her favorite vase.
+* → **While they were talking** it began to rain <u>and</u> Dimitri stayed in Aleko's house **<u>until the rain stopped.</u>**
+  * begin + to do 多表示客观, 人力无法控制的现象
+    * begin doing 多表示人主动发出的行为 (并非严格划分, 趋势上的区别)
+* → **When he went outside <u>half an hour later</u>,** he was astonished <u>to find  **that the little black lamb was almost white.**</u>
+  * astonished adj. 难以相信的惊讶 v. 使惊讶, 
+    * **be <u>surprised</u> / <u>amazed</u> / <u>astonished</u> / <u>astounded</u>** <u>to tind that</u> / <u>to learn that</u> etc.
+      * → (NCE3-3 P22-114) When the archaeologists reconstructed the fragments, they **were amazed to find that** the goddess turned out to be a very modern-looking woman.
+      * → (NCE3-30 P142-L11) A short time ago, villagers **were astonished to learn that** the ghost of Endley had died.
+  * helf 放小时前面表示一半
+    * **half an hour** 
+    * **an hour and a half**
+* Its wool, **<u>which had been dyed black</u>**, had been washed clean by the rain!
+  * **dye sth. <u>black</u> / <u>blue</u> / <u>blonde</u> etc. ** 染色
+    * blonde n. 淡金色 , 一般指头发的颜色
+    *  → Jane has dyed her hair blonde:
 
 ## L17 The longest suspension bridge in the world
 
+**## words**
+
+* 
+
+**## text1**
+
+* 
+
+**## text2**
+
+* 
+
+**## text3**
+
+* 
