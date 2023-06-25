@@ -1827,7 +1827,8 @@
 
 **## text3**
 
-* 
+* **rise to a height of ...**
+  * → A tall steel tower **rising to a height of nearly 200 feet** will rest on the platform.
 
 ## L18 Electric currents in modern art
 
