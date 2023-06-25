@@ -215,22 +215,86 @@ $$
    * $e=lim_{t\to 0}(1+t)^{\frac{1}{t}}$
 2. 等价定义
    * $lim_{h\to 0}\frac{e^h-1}{h}=1$
+   * 
 
 
 
 ## 第一章 函数与极限
 
-* 基本初等函数, 只有五种
+### 第一节 映射和函数
+
+* 反函数
+  * $y=f(x) \Rightarrow  x= g(y) $ , 这里的 g 就是 f 的反函数, 也就是 $g = f^{-1}$
+  * $f(x) * f^{-1}(x) = x$
+
+* <u>**基本**</u>初等函数, 只有五种
   1. 幂函数 $y=x^\mu (\mu\in \mathbb{R})$
   2. 指数函数 $y=a^x (a>0 \text且 a\neq 1)$
   3. 对数函数 $y=log_ax, (a > 0 \text且 \ a \neq 1, 当 a=e 时, 记为 y= lnx ) $
   4. 三角函数 $y=sin x, y=cosx,y=tanx, y=cotx,y=secx,y=cscx $
-     * $y=sinx$ 正弦, $y=cscx$ 余割, $sinx * cscx = 1$
-     * $y=cosx$ 余弦. $y=secx$ 正割, $cosx * secx = 1$
-     * $y = tanx$ 正切, $y=cotx$ 余切, $tanx * cotx = 1$
+     * $y=sinx$ 正弦, $y=cscx$ 余割, $sinx * cscx = 1$, $cscx=\frac{1}{sinx}$
+     * $y=cosx$ 余弦. $y=secx$ 正割, $cosx * secx = 1$, $secx=\frac{1}{secx}$
+     * $y = tanx$ 正切, $y=cotx$ 余切, $tanx * cotx = 1$ , $cotx=\frac{1}{tanx}$
   5. 反三角函数 上面六个 三角函数的反函数
+* 初等函数
+  * 由 **常数** 和 **基本初等函数** 经过 **四则运算** 和 **复合运算**  而成的式子. (课本上的定义: 由常数和基本初等函数经过 有限次的四则运算 和 有限次的函数复合步骤 所构成并可用一个式子表示的函数, 称为 **初等函数**) 
 
+* 初等性质
+  1. 奇偶性
+  2. 单调性
+  3. 有界性
+  4. 周期性
 
+### 第二节 数列极限
+
+* 性质
+  1. 唯一性 ,  数列有界限必唯一, 
+  2. (有界性) if $lim_{n\to\infty}a_n=A$, 则 $\exists M>0$, 使 $|a_n|\le M$ , 反之则不成立
+  3. (保号性)  if $\lim_{n\to\infty}a_n=A \begin{cases} >0 \\ <0 \end{cases} $   , 则 $\exists N>0, 当 n>N时$, $a_n\begin{cases} >0\\<0 \end{cases}$
+
+### 第三节 函数极限
+
+* 定义$(\epsilon-\delta)$
+
+  * 在 x 在 位于 a点周围 $\delta$ 的去心邻域内,  总能找到一个$\epsilon$ 使 $|f(x)-A|<\epsilon$, 则称 当 $x\to a  时, A 为 f(x)的极限$
+  *  Note
+    1. $x\to a 时, x\ne a;$
+    2. $x\to a, 含 \begin{cases} x\to a^- \\ x\to a^+ \end{cases} \ ;$  
+    3. $\{x| 0< |x-a|< \delta  \}\triangleq \mathring{U}(a,\delta) $ , a 的 去心 $\delta$ 领域
+    4. $lim_{x\to a }f(x) 与 f(a) 无关$
+    5. $若\forall \epsilon > 0 , \exists \delta >0,$ $\exists lim_{x\to a}f(x) \Leftrightarrow \exists f(a-0) \& \exists f(a+0) 且相等$
+
+* 定义 $(\epsilon-x)$ , 当 x 趋近于 $\infty$ 的情况
+
+  1. Case1: If $\forall\epsilon>0, \exists X>0, 当 x> X 时$,
+     * $|f(x)-A|< \epsilon $
+     * 记 $lim_{x\to+\infty}=A$
+  2. Case2: If $\forall \epsilon > 0, \exists X>0, 当 x<-X 的时候, $
+     * $|f(x)-A|<\epsilon $
+     * 记 $lim_{x\to-\epsilon}f(x)=A$
+  3. Case3: If $\forall\epsilon>0,\exists X>0,当 |x|>X 时$
+     * $|f(x)-A|<\epsilon$
+     * 记 $lim_{x\to\infty}f(x)=A$
+
+* 性质
+
+  1. (唯一性) 
+
+     * 函数有极限必唯一
+
+  2.  (局部有界)
+
+     * $ 设 limx→af(x)=A $, $则 当时∃δ>0,M>0,当0<|x−a|<δ时,$  $|f(x)|\le M$
+
+  3.  (保号性)
+
+     * $设 lim_{x\to a }f(x)=A \begin{cases}>0\\<0\end{cases}, 则 \exists \delta >0, 当0<|x-a|<\delta 时,  f(x)\begin{cases}>0\\<0\end{cases} $  
+
+     * 极限为负, 则 函数值也为负
+
+### 第四节 无穷小 和 无穷大
+
+#### 无穷小
 
 
 

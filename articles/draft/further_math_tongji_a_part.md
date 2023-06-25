@@ -52,36 +52,23 @@ A part 主要是关于 导数 和部分 微分,
 
      * 例子
 
-       1. Sgn 函数, 符号函数
-
-       $$
-       y = sgn x =\begin{cases} -1, &  x < 0, \\ 0, &  x = 0, \\ 1, & x > 0. \end{cases}
-       $$
+       1. Sgn 函数, 符号函数 $y = sgn x =\begin{cases} -1, &  x < 0, \\ 0, &  x = 0, \\ 1, & x > 0. \end{cases}$
 
        
-
-       2.  狄利克雷 (Dirichlet) 函数
-          $$
-          f(x) = \begin{cases} 1, & \text{如果 }  x \in \mathbb{Q} \\ 0, & \text{如果 } x \notin \mathbb{Q} \end{cases}
-          $$
-
-       3. 取整函数(左取整函数)
-          $$
-          y= [x] \\
-          e.g. [\surd{2}]=1 , [-0.3]=-1, [3]=3
-          $$
-
+       
+       2.  狄利克雷 (Dirichlet) 函数 $f(x) = \begin{cases} 1, & \text{如果 }  x \in \mathbb{Q} \\ 0, & \text{如果 } x \notin \mathbb{Q} \end{cases}$ 
+       3.  取整函数(左取整函数)$y= [x] \\ e.g. [\surd{2}]=1 , [-0.3]=-1, [3]=3$
           * Note: 
             1.  
                1. $[x] \le x$
                2. $[x+y]  \neq [x] + [y]  \text(通常)$
                3. 若 $k \in \mathbb{Z}$ , $[x+k] = [x]+k$ 
-
+       
      * 函数的奇偶性
-
+     
        * $f(-x)=f(x)$, 偶函数, 图像关于 y 轴对称
        * $f(-x)=-f(x)$, 奇函数, 图像关于 原点对称
-
+     
      * 反函数
        * $y=f(x)(x\in D)$, 严格单调
          * 在这个条件下, 每一个 y 也都只有唯一的一个对应的 x, 这也称为单射, 所以可以得到结论
@@ -101,7 +88,7 @@ A part 主要是关于 导数 和部分 微分,
               * 因为有 $f^{-1}(f(x)) = x 和 f(f^{-1}(x))=x$
               * 所以 $f(x)*f^{-1}(x)=f(x)*\frac{x}{fx}=x$
               * 所以得到结论
-
+     
    * 基本初等函数, 只有五种
      1. 幂函数 $y=x^\mu (\mu\in \mathbb{R})$
      2. 指数函数 $y=a^x (a>0 \text且 a\neq 1)$
@@ -111,12 +98,13 @@ A part 主要是关于 导数 和部分 微分,
         * $y=cosx$ 余弦. $y=secx$ 正割, $cosx * secx = 1$
         * $y = tanx$ 正切, $y=cotx$ 余切, $tanx * cotx = 1$
      5. 反三角函数 上面六个 三角函数的反函数
+     
    * 初等函数
      * 由 **常数** 和 **基本初等函数** 经过 **四则运算** 和 **复合运算**  而成的式子. (课本上的定义: 由常数和基本初等函数经过 有限次的四则运算 和 有限次的函数复合步骤 所构成并可用一个式子表示的函数, 称为 **初等函数**) 
        * BTW 双曲函数 // TODO
      * 例子: 
        * $y=3e^{x^2} => e^u,u=x^2$
-
+   
    2. 初等性质
       1. 奇偶性
          * $y=f(x)(x\in D)$, D关于 原点 对称
@@ -201,7 +189,7 @@ A part 主要是关于 导数 和部分 微分,
 ### 第三节 函数极限
 
 1. 定义$(\epsilon-\delta)$
-   * $(\epsilon-\delta) $若 $\forall \epsilon > 0 , 当 0 < |x-a| < \delta 时, $(0<|x-a|)( 意味着 不取 a 这个点)
+   * $(\epsilon-\delta) $若 $\forall \epsilon > 0 , 当 0 < |x-a| < \delta 时, $($0<|x-a|$)( 意味着 不取 a 这个点)
      * $|f(x)-A|<\epsilon$
      * 称 $f(x)当 x\to a 时, A 为极限$
      * 记 $lim_{x\to a}f(x)=A$, 或 $f(x)\to A(x\to a)$
