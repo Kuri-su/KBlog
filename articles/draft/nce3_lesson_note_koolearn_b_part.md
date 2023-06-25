@@ -1800,7 +1800,30 @@
 * steel and concrete 钢筋混泥土
   * 同义词
     * **ferro-concrete**  钢筋混凝土
-* 
+* **extend to a depth of ...**  深达 ... 
+  * → (NCE3-42 P196-L12) The deepest known cave in the world is the Gouffre Berger near Grenoble. It **extends to a depth** **of** 3,723 feet.
+  * 同义表达
+    * **go down to as much as ...** 深达 ... 
+      * → (NCE4-13 P76-L1) The deepest holes of aall are made for oil, and they **go down to as much as** 25,000 feet.
+  * 近似表达
+    * **stand ... high** 有多高
+      * → (NCE3-3 P22-L15) She **stood** three feet **high** and her hands rested on her hips.
+    * **rise to a height of ...** 高达...
+      * → (NCE3-17 P78-L12) Above the surface of the water, the towers **rise to a height of** nearly 700 feet.
+    * How do l love thee? -- E.B.Browning (thee 是古英语的 you 的宾格)
+      * Let me count the ways. 让我一一细数
+      * I love thee **to the depth and breadth and height my soul can reach.** 我爱你的深度高度宽度 到达 我的灵魂所能到达的 深度高度宽度.
+* alone 作为 "**仅仅就**"的例句
+  * → These books **alone** cost me 2,000 yuan.
+  * → Time **alone** will tell. 日久自明(时间会告诉你答案)
+  * → Persistence and determination **alone** are omnipotent.   --- Calvin Coolidge  毅力和决心, 单单这两样就是万能的
+* **take (sb.) some time (to do sth.)** 花费(某人)了多长时间 (去做某事)(take 的主语可以是人, 也可以是物)
+  * → <u>These</u> alone **took** <u>16 months</u> **<u>to build.</u>**
+    * 生活中读 months 的时候通常 th 不发音, 直接读 mon~~th~~s
+  * → (NCE3-44 P204-L15) Even if you travel in ideal weather, <u>sea journeys</u> **take** <u>a long time.</u>
+  * → (NCE3-28 P134-L13) <u>It</u> **took** <u>**me** over half an hour **to get rid of him.**</u>
+  * take 的主语可以是人, 也可以是物
+    * → (NCE3-5 P30-L9) The journalist immediately set out to obtain these important facts, but <u>he</u> **took** <u>a long time</u> **<u>to send them.</u>**
 
 **## text3**
 
