@@ -1670,9 +1670,136 @@
 **## text1**
 
 * → Verrazano, <u>an ltalian **about whom little is known**</u>, sailed into New York Harbour in 1524 <u>and</u> named it Angouleme.
+  * **know <u>of</u> / <u>about</u> ** 听说, 知悉
+    * **hear <u>of</u> / <u>about</u>** 听说, 知悉
+    * **learn <u>of</u> / <u>about</u>** 听说, 知悉
+    * → I don't **know** him personally, though | **know <u>of</u> / <u>about</u>** him. 我不认识他, 虽然我**听说**过他 
+      * **personally** adv. 亲自, 本人, 私人地, 个人地
+    *  → (NCE3-15 P70-L15) George was not too upset by his experience because the lady who owns the sweet shop **heard about** his troubles and rewarded him with a large box of chocolates.
+  * <u>本文用 about(介词) 放在 关系代词之前, 显得更加庄严, 更正式, 本文中也可以写成</u>
+    * → an Italian <u>whom</u> little is known <u>about</u>.
+    * → (NCE3-17 P78-L12) They support the cables **<u>from</u> which the bridge has <u>been suspended.</u>**  (这也是一样, 介词 放在 关系代词之前.)
+  * **<u>在正式书面语中，若关系代词做介词宾语，需将介词置于关系代词之前，非正式文体无此限制。</u>**
+    * (正式） This is the house **<u>*in*</u> which I <u>lived</u> for 10 years.** (推荐)
+      * →（非正式） This is the house **which I <u>lived *in*</u> for 10 years.**
+    * （正式） I have read the poem **<u>of</u> which she is <u>speaking</u>.**
+      * → （非正式）I have read the poem **which she is <u>speaking</u> <u>of</u>.**
+  * **about <u>whom</u> / <u>which</u> little is known** 鲜为人知
+    * 造句：Mary 和她的丈夫 Dimitri 住在Perachora，一个鲜为人知的希腊小村庄。
+      * → Mary and her husband Dimitri lived in Perachora, a tiny Greek village **about which little is known.**
+    * 造句：张继，一位鲜为人知的中国诗人， 曾经写过一首著名的诗歌，《枫桥夜泊》 ("Mooring by Maple Bridge at Night")。
+      * → Zhang Ji, a Chinese poet about whom little is known, once wrote  a famous poem  "Mooring by Maple Bridge at Night".
+        * poet n. 诗人
+        * poem n. 诗歌
+* 给某人起名字叫什么
+  * **name sb. ...**
+    * → We named our daughter Sarah.
+  * **name ... after ...** 以某人的名字命名
+    * → He **was named after** his father.  
+    * → (NCE3-17 P78-L4) Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on November 21st, 1964, the longest suspension bridge in the world **was named after** him.
+* → He <u>described</u> it <u>as</u> 'a very agreeable situation **located within two small hills <u>in the midst of which flowed a areat river</u>**'
+  * **describe .... as (being) ...**
+    * 形容词可以作为介词宾语, 可以看作省略了 being
+    * → The man **was described as (being)** tall and dark, and aged about 20.
+    * → (NCE3-59 P264-L3) Those who never have to move house become indiscriminate collectors of what can only **be described as** clutter.
+  * agreeable adj. pleasant , 令人愉快的, 令人愉悦的, 令人心旷神怡的
+    * → We spent a most **agreeable** evening by the river.
+  * **in the midst of = in the middle of** 在... 之间
+    * **in the midst of ** the crowd 人群之间
+  * 倒装句: **In the midst of two small hills <u>flowed</u>** a great river . (全部倒装)
+    * 正常语序: A great river **<u>flowed</u> in the midst of two small hills.**
+    * 全部倒装 (Full version in L10) - 把全部谓语置于主语之前。
+      * **表示位置或次序的状语置于向首，只要满足两个条件，要用全部倒装。①主语不是代词。②谓语动词不是及物动词。**
+      * 正常语序: A subway station **<u>stands</u> in front of a huge shopping mall.**
+        * 全部倒装: **In front of a huge shopping mall <u>stands</u>** a subway station.
+    * 造句：这家饭馆的位置非常方便，位于一家大型购物中心的正中央，在购物中心前有一座地铁站。
+      * → The restaurant is in a very convenient situation. It is located right in the center of a huge shopping mall. A subway station stands in front of the shopping mall. (不佳)
+      * → The restaurant is in a very convenient situation located right in the center of a huge shopping mall in front of which stands a subway station. (佳)
+* → **Though Verrazano <u>is</u> by no means <u>considered to be</u> a great explorer**, his name will probably remain immortal, **for <u>on November 21st. 1964</u>, the longest suspension bridge in the world was named after him.**
+  * 逗号 + for 表示 因为的意思
+  * **by no means = not by any means**: not at all
+    * → She is **by no means** pretty.
+    * → She's **not** a bad kid, **by any means.**
+    * 把否定含义的状语放在句首会引起部分倒装 (L5) , 部分倒装是 把 助动词/ be 动词/情态动词 放到主语前面去, 
+      * → **By no means <u>can</u>** theory be separated from practice. 理论绝对不能和实践相结合
+        * theory n. 理论, 学说
+        * separate v. 分离, 分开
+        * practice n. 实践, v. 联系, 践行
+  * **consider ... to be ...** v. 考虑, 认为
+    * to be 可以被省略, 正式的书面语中会比较常见
+    * → We **consider** this **(to be)** very important.
+    * → He **was considered (to be)** a weak leader.
+    * → (NCE3-23 P114-L2) lf you lived in the Mediterranean, for instance, you would **consider** octopus a great delicacy.
+  * **will remain immortal** 将一直流芳, 百世不朽(通常说好事)
+    * remain 是系动词, 
+    * → The name of Lei Feng **will remain immortal.** 
+    * **will always be remembered** 悲剧被人们铭记
+      * → (NCE3-10 P50-L7) The tragic sinking of this great liner **will always be remembered**, for she went down on her first voyage with heavy loss of life.
+      * → The tragic missing of the Malaysian airliner **will always be remembered.**
+  * **sth. be named after sb.** / **sth. be named for sb. (美式)** 某物以某人的名字命名
+    * **sth. be named in honor of sb.** 某物以某人的名字命名以纪念 
+      * → The college **is named <u>after</u> / <u>for</u> / <u>in honor of</u>** George Washington.
 
 **## text2**
 
+* Staten Island 和 Brooklyn 都是纽约的区
+* **join A to B** 把  A 和 B 连接起来 (表示物理连接, 无法表示抽象的连接)
+  * → The island **is joined to ** the mainland by a bridge. 这座岛用桥和 大陆连接到一块儿.
+  * 同义搭配
+    * **link A <u>with</u>/<u>to</u> B** 既可以表示 物理连接, 也可以表示 抽象的连接
+    * **connect A <u>with</u>/<u>to</u> B** 既可以表示 物理连接, 也可以表示 抽象的连接
+    * **associate A with B** 只表示 抽象的连接(联系起来)
+    * **relate A to B** 只表示 抽象的连接 (联系起来)
+      * relate v. 建立关系;讲述, 叙述
+* feet n. 英尺
+* **have a span of ...** 有... 的跨度
+  * → The arch **has a span of** 60 meters. 有六十米的跨度
+  * **介词 of** (之前讲过 of 可以引出 地点)
+    * It has a span **<u>of</u>** <u>4,260 feet.</u> (用 of 引出 数字)
+    * at the age <u>**of** 52</u> 
+    * an increase <u>**of** 3%</u>
+    * a revenue <u>**of** $3.4 billion</u>
+      * revenue n. 收入 (常表示 政府或者公司的年收入, 而通常不表示个人)
+    * a pay raise <u>**of** 4 percent</u>
+      * raise v. 提高
+    * a salary <u>**of** 30.000 dollars a year</u>
+    * → (NCE3-17 P78-L11) The platforms extend to a depth <u>**of** over 100 feet</u> under the sea.
+    * → (NCE3-17 P78-L12) Above the surface of the water, the towers rise to a height <u>**of** nearly 700 feet.</u>
+* 如此 ... 以至于 ... 
+  * so ... that ...
+  * such that ...
+  * 并且上述两种可以将 so 或者 such 提前, 引起部分倒装
+
+* → **<u>So</u>** long **<u>is</u>** the bridge that the shape of the earth had to be taken into account by its designer. (部分倒装, 将 so 提前引起部分倒装)
+* → The length of the bridge is **<u>such</u>** that the shape of the earth had to be taken into account by its designer. 
+  * → **<u>Such is</u>** the length of the bridge that the shape of the earth had to be taken into account by its designer. (such 放在句首引起部分倒装)
+  * → (NCE3-4 P26-L4) **<u>Such is</u>** human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.
+  * → (NCE3-27 P130-L8) The conditions of society are **<u>such</u>** that skills have to be paid for in the same way that goods are paid for at a shop.
+* **take sth. into account ** 把... 考虑在内
+  * **account** n. 描述; 解释
+  * → If you **take** <u>inflation</u> **into account**, we actually spend less now.
+    * inflation n. 通货膨胀, 物价上涨
+  * → We must **take into account** <u>the bov's long illness.</u> 
+    * 如果 中间的 sth. 太长, 也可以把 sth. 放到 into account 的后面
+  * 同义搭配
+    * **take account of ....** 
+      * → These figures do not **take account of** changes in the rate of inflation.
+    * **take ... into consideration**
+      * consideration n. 考虑到 
+      * → I always **take** <u>fuel consumption</u> **into consideration** when buying a car.
+        * fuel n. 燃料
+        * consumption n. 消耗, 消费, 消费支出
+      * → Before we come to a decision, we must **take into consideration** <u>all the relevant facts.</u> 
+      * → The candidates' experience will 
+        * candidates n. 候选人
+* 表示巨大
+  * → (NCE3-10 P50-L11) The Titanic turned just in time, narrowly missing the **immense** wall of ice which rose over 100 feet out of the water beside her.
+* platform  平台, 月台, 讲台
+  * → The train will depart from **platform** 3.
+  * → The speaker mounted the **platform** to denounce the policy.
+* steel and concrete 钢筋混泥土
+  * 同义词
+    * **ferro-concrete**  钢筋混凝土
 * 
 
 **## text3**
