@@ -181,7 +181,7 @@ CSI `n` G | CHA – 光标水平绝对（Cursor Horizontal Absolute）}} | 光�
 
 > 部分平台上 可能 30-37 和 90-97 显示的是同一种颜色,因平台而异
 
-![](/assets/ControlSequences_16_color_table.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/ControlSequences_16_color_table.png)
 ## 8bit (256 色)
 
 可以使用 `\x1b[38;5;51m` 输出前景色为 编号 51 的 `#5f00ff` 的字符串 (大概是紫色)
@@ -196,7 +196,7 @@ echo -e "\x1b[38;5;214m\x1b[48;5;239m ssss\x1b[0m"  # 输出 前景色为 256色
 
 颜色表如下(来自 WIKI , 链接见文末)
 
-![](/assets/ControlSequences_8bit_color_table.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/ControlSequences_8bit_color_table.png)
 
 ### 24 bit (RGB颜色)
 
@@ -209,7 +209,7 @@ echo -e "\x1b[38;5;214m\x1b[48;5;239m ssss\x1b[0m"  # 输出 前景色为 256色
 ## END
 
 那么现在可以在终端里好好玩一玩了
-![](/assets/ControlSequences_index.webp)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/ControlSequences_index.webp)
 
 参考代码 :
 ```go
