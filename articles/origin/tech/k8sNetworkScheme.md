@@ -46,7 +46,7 @@ Route 类方案， 来利用设置三层路由来完成组网，数据包出网�
 
 flannel 几乎是最早的跨节点容器解决方案，由于 flannel 的设计实用而简洁, 所以通常建议在看其他 Kubernetes 网络方案之前, 先了解 flannel 的设计.
 
-![](../../assets/flannel-01-arch-TUN.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-01-arch-TUN.png)
 
 由于篇幅过长, 并且是理解 K8s 网络的基础, 所以移动到 [另一篇文章中专题讨论](https://kuricat.com/articles/flannel-whhdp) , [(点这里)](https://kuricat.com/articles/virtual-network-basic-7yoiq)
 
@@ -54,7 +54,7 @@ flannel 几乎是最早的跨节点容器解决方案，由于 flannel 的设计
 
 Calico 是一个完全基于 L3 的 Kubernetes 网络方案, 提供 2.5 种模式来进行路由处理, 并提供基于 iptables 的 network policy.
 
-![](../../assets/k8sNetworkScheme-01-calico-arch.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/k8sNetworkScheme-01-calico-arch.png)
 
 ![](https://docs.projectcalico.org/images/architecture-calico.svg)
 
@@ -66,11 +66,11 @@ Calico 是一个完全基于 L3 的 Kubernetes 网络方案, 提供 2.5 种模�
 
 针对大规模 和 复杂的网络拓扑下, Calico 将每一台的 x86 服务器 都作为一个  路由器 和一个 AS, 各 AS 维护各自 AS 内的路由转发, 由 Calico 的控制平面来控制 BGP 路由以及设置各个节点的路由表.
 
-![](../../assets/k8sNetworkScheme-02-calico-bgp-arch.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/k8sNetworkScheme-02-calico-bgp-arch.png)
 
 但由于 BGP client 之间需要维持 节点间 尽可能全连接的 TCP 连接, 用于同步路由信息, 所以如果有 100 个节点, 整个集群间就需要维护 100*99 个连接, 并且随着集群规模的上升, 每台机器的基础消耗 (CPU && MEM) 将会逐步上升,为了降低这里的消耗, Calico 还支持一种 `BGP Router Reflector (BIRD)` 的模式 , 直译 `BGP 路由反射器` , 
 
-![](../../assets/k8sNetworkScheme-03-calico-bgp-bird-arch.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/k8sNetworkScheme-03-calico-bgp-bird-arch.png)
 
 会在 BGP 的 AS 区域上层再抽象若干个区域出来,本区域的 BGP 节点可以借由 BIRD 来获取到另一个区域的路由信息, 这样就减轻了集群内的连接消耗. 另外 BIRD 属于控制平面组件, 并不会有数据包通过 BIRD.
 
@@ -78,7 +78,7 @@ Calico 是一个完全基于 L3 的 Kubernetes 网络方案, 提供 2.5 种模�
 
 除了上述功能之外, Calico 还支持设置网络策略, 用于切割内部网络, 这个 网络策略通过 iptables 实现.
 
-![](../../assets/k8sNetworkScheme-01-calico-arch.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/k8sNetworkScheme-01-calico-arch.png)
 
 #### 结
 
@@ -103,7 +103,7 @@ Cilium 提供多种组网方式, 除了提供 基于 VXLAN 的 Overlay 组网方
 
 不过这些都有一个共同点,就是他们都大量的使用了 eBPF 技术.
 
-![](../../assets/k9sNetworkScheme-04-cilium-arch.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/k9sNetworkScheme-04-cilium-arch.png)
 
 #### BPF
 

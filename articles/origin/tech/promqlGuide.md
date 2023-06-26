@@ -74,7 +74,7 @@ $ curl 'http://localhost:9090/api/v1/query?query=rate(go_gc_duration_seconds_sum
 
 将上面的查询放到 Grafana 中, Grafana 在查询时会自动带上时间范围, 所以得到的是一段时间内的数据, 然后  Grafana 会根据这段时间内的数据绘制出如下所示的一副图, 
 
-![](/assets/promQL_guide_exampleImage.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQL_guide_exampleImage.png)
 
 到这里, 就使用 PromQL 完成了一次查询.
 
