@@ -1805,7 +1805,7 @@
   * 同义表达
     * **go down to as much as ...** 深达 ... 
       * → (NCE4-13 P76-L1) The deepest holes of aall are made for oil, and they **go down to as much as** 25,000 feet.
-  * 近似表达
+  * 近似表达, **高达**
     * **stand ... high** 有多高
       * → (NCE3-3 P22-L15) She **stood** three feet **high** and her hands rested on her hips.
     * **rise to a height of ...** 高达...
@@ -1827,8 +1827,119 @@
 
 **## text3**
 
-* **rise to a height of ...**
+* **rise to a height of ...** 高达....
   * → A tall steel tower **rising to a height of nearly 200 feet** will rest on the platform.
+    * rest on 依赖于, 取决于, 搭在什么东西上面
+* wire n. 细的钢丝, 电线
+* a **length** of <u>rope</u> / <u>pipe</u> / <u>wire</u> etc
+  * rope  n. 用于拴绑的绳子, v. 绳索捆绑
+  * length n. 一根, 一节; 长度
+  * 量词: 
+    * 一笔钱 
+      * a **sum** of money
+    * 一块纯巧克力
+      * a **bar** of chocolate
+    * 一块肥皂
+      * a **<u>bar</u>** / **<u>cake</u>** of soap
+    * 一片 黄油
+      * a **slice** of butter
+    * 一个面包
+      * a **loaf** of bread
+    * 一管牙膏
+      * a **tube** of toothpaste
+    * 一个蛋卷冰淇淋
+      * a **cone** of ice-cream
+    * 一串葡萄
+      * a **bunch** of <u>grapes</u> / <u>bananas</u>
+    * 一道闪电
+      * a **<u>flash</u>** / **<u>bolt</u>** of lightning
+        * bolt v. 突然逃跑, 迅速离开场地 (博尔特)
+    * 一声惊雷
+      * a **peal** of thunder
+    * 一阵风
+      * a **gust** of wind
+    * 一块窗玻璃
+      * a **pane** of glass
+        * pane n. 窗户或者门上独立的 玻璃板
+    * 一束鲜花
+      * a **bouquest** of flowers
+        * bouquest /buːˈkeɪ/ n. 由花朵组成的花束
+* → <u>It</u> has been estimated **that if the bridge <u>were</u> packed with cars, it <u>would</u> stil only be carrying a third of its total capacity.**
+  * that 后面是主语从句
+  * **it is estimated that...** 据估计 (可以有时态的变化)
+    * **it is said that ..** 据说
+      * → (NCE2-58 P268-L5) **It is said that** if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die. 表示只在过去这么说, 现在已经不这么说了
+      * → (NCE3-27 P130-L1) **It has been said that** everyone lives by selling something. 用过去完成时表示 , 表示过去大家这么说, 现在也这么说, 
+    * **it is believed that ...** 据信
+    * **it is reported that ...** 据报道
+  * if 型的虚拟语气
+    1. 与现在事实相反的虚拟
+       * **If + S. + <u>did</u> / <u>were</u>, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do** 
+       * → (NCE3-23 P114-L2) If you ***<u>lived</u>*** in the Mediterranean, for instance, you **<u>would</u>** consider octopus a great delicacy.
+       * → (NCE3-49 P224-L1) <u>If</u> she **<u>were</u>** alive today she **<u>would</u>** not be able to air her views on her favourite topic of conversation: domestic servants.
+    2. 与过去事实相反的虚拟
+       * **If+ S. + had done, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + have done**
+       * → (NCE3-45 P208-L13) If they **<u>had</u>** only **<u>had</u>** one more child, the fact **<u>would have passed</u>** unnoticed.
+       * → (NCE2-71 P320-L3) If the Houses of Parliament **<u>had not been</u>** burned down in 1834, the great clock **<u>would never have been erected.</u>**
+    3. 与末来趋势相反 的虚拟
+       * **If+ S. + should do, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
+       * **If + S. + <u>did</u> / <u>were to do</u>, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do** 
+       * → If it **<u>should</u>** rain tomorrow, you **<u>could</u>** stay at home. 万一明天要是下雨的话, 你就可以呆在家了.
+       * → If the sun **<u>were to</u>** rise in the west, I **<u>would</u>** lend you the money. 要是明天太阳从西边升起, 我就把钱给你
+  * **be packed with...** 挤满了...
+    * pack 打包
+    * 同义表达
+      * **be crowded with ...**
+      * **be crammed with ...**
+        * cram v. 塞入, 塞满
+      * **be thronged with ...**
+        * throng n. 人群, 拥挤
+    * → The island **was packed with** tourists. 这个岛上挤满了游客
+    * → The narrow roads **were crowded with** holiday traffic. 这个狭窄的路上挤满了假日的车辆
+    * → The guide **is crammed with** useful information. 这个指南满满的是有用的信息
+    * → The streets **were thronged with** Christmas shoppers.  这个街上挤满了 圣诞节的购物者
+  * **a third <u>of</u> ... / one-third <u>of</u> ...** 三分之一, $\frac{1}{3}$
+    * **two-thirds <u>of</u> ...** 三分之二, 分子大于一的时候, 分母要用复数
+      * → **Two-thirds <u>of</u>** the profits are given to charities.
+        * charity n. 慈善团体, 慈善, 仁慈
+* → <u>Despite its immensity</u>, it is both simple and elegant, **fulfilling its designer's dream to create 'an enormous object <u>drawn as faintlv as possible'.</u>**
+  * **immensity** adj. 巨大的.
+  * **despite** prep. 尽管
+  * **elegant** adj. 优雅的, 雅致的
+  * **fulfill**/**fulfil** v. 履行, 达到, 圆了, 实现了, 达成了; 满足, 使满意, 
+    * **<u>fuifill</u> / <u>realize</u> / <u>achieve</u> one's dream** 实现了某人的梦
+      * **realize** v. 意识到, 认识到; 实现, 完成
+      * **achieve** v. 达成, 实现
+      * → He had finally **achieved his dream of becoming** a pilot.
+      * **one's dream come true** 某人的梦想成真
+        * → → **Her dream to enter** the famous university **came true.**
+      * **dream <u>of doing sth. / to do sth.</u>**  某人梦想做某事
+  * **enormous** adj. 巨大的, 庞大的, 极其重要的.
+  * **faintly** adj. 微弱的, 模糊的, 轻微的
+  * 介词 + 名词的表达
+    * 尽管它很大
+      * **Despite its immensity** (佳)
+        * Although it is immense, ... (不佳)
+      * → **Despite its importance**, the meeting has to be postponed. 尽管它很重要, 但是会议还是被推迟了. 
+        * its 它的
+      * → **Despite its scarcity**, water is still wasted in the country.
+        * scarcity n. 稀缺, 不足
+      * → **Despite his cleverness,** he cannot <u>figure out</u> how to do it. 尽管他很聪明, 但是他还是不知道怎么做.
+        * figure n. 数字, v. 计算;认为
+          * figure out v. 理解, 解决, 找到答案
 
 ## L18 Electric currents in modern art
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+## L19 A very dear cat
