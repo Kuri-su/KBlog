@@ -1932,7 +1932,17 @@
 
 **## words**
 
-* 
+* **current** /ˈkʌrənt/ n. 电流
+  * alternating **current** (AC) 交流电
+    * alternating adj. 交替的, 轮流的, 间隔的
+  * direct **current** (DC) 直流电
+  * → Is the wire **live**? 电线有电么?
+  * → The plug broke, exposing **live** wires. 插头碎了, 暴露出了带电的电线
+    * plug n. 插头
+      * a two-pin **plug**
+      * a three-pin **plug**
+    * **socket** n. 插座
+    * 
 
 **## text 1**
 
