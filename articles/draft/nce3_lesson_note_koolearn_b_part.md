@@ -2018,14 +2018,14 @@
   * **repellent** adj. 令人讨厌的, 令人反感的. n. 防虫剂
     * **repellent** <u>smell</u>/<u>behavior</u>
   * '令人讨厌的' 的类似表达
-    * repel v.
-      * repellent adj.
-    * repulse v. 
-      * repulsive adj.
-    * revolt v.
-      * revolting adj.
-    * disgust v.
-      * disgusting adj.
+    * **repel** v.
+      * **repellent** adj.
+    * **repulse** v. 
+      * **repulsive** adj.
+    * **revolt** v.
+      * **revolting** adj.
+    * **disgust** v.
+      * **disgusting** adj.
     * → (NCE3-23 P114-13) You would not be able to understand why some people find it **repulsive**.
   * 字根
     * "**pel**" = push
@@ -2077,10 +2077,123 @@
 
 **## text 1**
 
-* 
+* **rarely** adv. 很少, 不常
+  * rarely = almost never
+  * hardly = almost not
+  * 同义表达
+    * **seldom** adv. 很少, 不常
+    * **almost never**
+    * **hardly ever** 
+      * → (NCE3-31 P146-L10) Though he owned a large car, he **hardly ever** used it, preferring always to go on foot.
+        * 强调 **seldom** , **rarely** 这种词可以放到句首, 而否定意义的词放到句首会引起部分倒装
+          * → <u>Rarely</u> / <u>Seldom</u> **does** modern sculpture **surprise** us any more.
+* 中文中由于没有使役动词, 所以经常要 加 "使" 这种词夹在中间, 如果是英文的话, 由于使役动词的存在, 后面可以直接加 sb. . 例如 **surprise** us(使我们惊讶) , 而无需 make us feel surprise, (用 make 表示使)
+  * **astonish** 使惊讶
+  * **disturb** 使不安
+  * **remind** 使记起
+  * **confuse** 使迷惑
+  * **convince** 使相信
+  * → His reaction <u>made me feel deeply</u> disappointed. (不佳) 
+    * → His reaction **deeply disappointed** me. (修改后)
+  * → What he said made me totally confused. (不佳)
+    * → What he said  totally confused me. (修改后)
+* any more 不再, 再没有
+* → The idea <u>**that modern art can only be seen in museums**</u> is mistaken.
+  * 主句太短, 从句太长. 但本文中, 这种是故意的.
+    * 类似情况的例子
+      * → (NCE3-1 P14-L1) When **reports** came into London Zoo **that a wild puma had been spotted forty-five miles south of London**, they were not taken seriously.
+  * 通常原句可以改为
+    * → <u>The idea</u> is mistaken **<u>that modern art can only be seen in museums.</u>**
+  * 但本文的情况中, 这个 trick 叫做 **结构强调句** (比较少见的句子), 这个句子叫做 **圆周句/ 掉尾句** 用来吊胃口, 特点就是头重脚轻. 一般的英文句子是头轻脚重, 可以称为孔雀型的句子. 这种 圆周句 是 end focus (句尾重心原则) 的应用. 句末比 句首更重要. (结构强调句切勿当作 作文的主流)
+    * 例句
+      * → (NCE4-24 P138-L8) That all great art has this power of suggesting a world beyond is **undeniable**. 
+        * 通常会写成 → Itis undeniable <u>that all great art has this power of suggesting a world beyond.</u> (形式主语) (没有原文好)
+      * → Although Tchaikovsky himself <u>thought of</u> the Pathetic Symphony <u>as</u> his crowning masterpiece, the premiere on October 28th 1893 in St. Petersburg proved a **<u>disappointment</u>**. (整个句子最重要的是句末这个 disappointment(令人失望的), )
+* → Even people **who take no interest in art** cannot have failed to notice examples of modern sculpture <u>on display in public places.</u>
+  * 感兴趣的表达
+    * **be interested in ... **(形容词做中心词)
+    * **take/have ... interest in ...** (名词做中心词, 前面的搭配更加灵活)
+      * → take/have **an** interest in ..
+      * → take/have **no** interest in ...
+      * → take/have **little** interest in ...
+      * → take/have **a lot of** interest in ...
+    * → (NCE3-19 P86-L1) Kidhappers **are** rarely **interested in** animals, but they recently **took considerable interest in** Mrs. Eleanor Ramsay's cat.
+      * **considerable** adj. 客观的 (正式表达)
+  * **take + n. + in** 的表达很多
+    * **take pride in ...** 对... 骄傲
+      * → You should **take pride in** your work.
+    * **take <u>pleasure</u> / <u>delight</u> in ...** 满足于
+      * → College students seem to **take <u>pleasure</u> / <u>delight</u> in** practical jokes.
+    * **take comfort in ...** 对某事感到很欣慰
+      * I know she goes out a lot at night, but I **take comfort in** the fact that she's alwavs with friends.
+    * 但不是所有的 take + 名词 后都加 in, 下面是反例
+      * **take pity on ...** 同情, 怜悯某人
+        * → I **took pity on** the beggar and gave him some change.
+          * change n. 零钱
+  * cannot have failed to notice .. / must have noticed 不可能没有注意到过 (双重否定)
+    * → (NCE3-9 P46-L1) Cats **never fail to** fascinate human beings.
+  * **"on + 名词" 表示处于某种状态**
+    * **on <u>display</u> / <u>show</u> / <u>exhibition</u>**
+      * exhibition n. 展览, 展览会
+    * → The house is **on sale.**
+      * 在英国 on sale 表示正在出售
+      *  在美国 on sale 表示正在甩卖
+    * → The workers are **on strike.** 在罢工
+    * → I'm here **on vacation.** 我在这度假
+    * → I’m here **on business.** 我在这出差
+    * → The nurse is **on call** 24 hours a day. 在听候召唤
+* → Strange forms **<u>of sculpture</u>** stand in gardens, and outside buildings and shops.
+  * form n. 形状; 表单; 形态
+* **<u>be</u> / <u>get</u> / <u>become</u> used to(介词）** 习惯于
+  * → (NCE3-2 P14-L17)“We'll **get used to** that Bill," said the vicar.
+  * **<u>be</u> / <u>get</u> / <u>become</u> accustomed to(介词）** 习惯于
+    * accustom v. 使习惯, 使适应
+    * → We have **got quite accustomed to** them.
+  * 听力题
+    * M: I**'m** not **accustomed to** using a gas stove.  .
+      * stove n. 炉灶
+    * W: It's simple. Just turn the knob until the burner lights then adjust the flame.
+      * adjust v. 调整
+    * Q: What is the man going to do?
+  * **<u>be</u> / <u>get</u> / <u>become</u> familiar with ..** 熟悉于
+    * → We have **got quite familliar with** them.
+  * **be adapted to(介词）...** 适应于
+    * → I **am adapted to** Beijing's dry climate. 我适应了北京干燥的气候
+* **so-called**  所谓的 (名不副实的)
+  * → Where are your **so-called** friends now?
 
 **## text 2**
 
-* 
+* → The first thing **I saw** <u>when lentered the art gallery</u> was a notice **which said: <u>'Do not touch the exhibits. Some of them are dangerous!</u>'**
+  * **say v. 上面写着 ... **
+    * → The sign **says** 'Keep Out'.
+    * → What did the letter **say**?
+    * → My watch **says** four o'clock.
+    * → (NCE3-37P170-L21) A tiny asterisk conducted me to a footnote at the bottom of the page. It **said**: 'This service has been suspended.'
+    * **go v. 一句话一个故事是怎么说的；一首歌是怎么唱的 (go 也可以表示说)**
+      *  → As the old saying **goes**, 'look before you leap'.  老话说得好, 三思而后行.
+        *  As the old saying goes 老话说, (可以在引用谚语前使用)
+      * → The story **goes** that the prince was turned to a trog. 
+      * → How does the song **go** ?
+  * **Keep away from** the exhibits.
+* shaped adj. 形状的
+  * → A strangely **shaped** carrot
+  * → She has a perfectly **shaped** figure. 她拥有完美的身形
+  * heart-**shaped** 心形
+  * pear-**shaped** 梨形
+  * V-**shaped** V 形
+* **be suspended from ...** 挂在... 上
+  * **hang from ...** 挂在...上
+* **in response to ...** 作为对.. 的反应
+  * → The president stepped down **in response to** public pressure. 
+* 风/ 雷不可数, 但是一阵风/一道闪电可数
+  * a **gust** of wind 一阵风
+  * a **flash** of lightning 一道闪电
+  * a **peal** of thunder 一声惊雷
+  * a **fit** of coughing 一阵咳嗽
+  * a **round** of applause 一阵掌声
+  * **<u>peals</u>/<u>gales</u>** of laughter  阵阵笑声
+* **be familiar with ...**
+  * **be familiar to ...** 
 
 ## L19 A very dear cat
