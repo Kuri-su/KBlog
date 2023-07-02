@@ -1938,11 +1938,142 @@
   * direct **current** (DC) 直流电
   * → Is the wire **live**? 电线有电么?
   * → The plug broke, exposing **live** wires. 插头碎了, 暴露出了带电的电线
-    * plug n. 插头
+    * **plug** n. 插头
       * a two-pin **plug**
       * a three-pin **plug**
     * **socket** n. 插座
-    * 
+  * water **current** 水流
+  * air **current** 气流
+  * swim with the **current** 顺流游泳
+  * swim against the **current** 逆流游泳
+* **mistaken** /mɪˈsteɪkən/ adj. 错误的
+  * **mistaken** ideas 错误的观念
+  * a **mistaken** judgment 错误的判断
+  * **be mistaken about ...** 把 ... 搞错了
+  * → I **was mistaken about** her age.
+  * 同义词
+    * adj. 
+      * wrong adj. 错误的
+      * false adj. 错误的
+      * erroneous adj. 错误的 (正式, 书面语)
+      * fallacious adj. 错误的 (正式, 书面语)
+    * n.
+      * **mistake** n. 错误
+      * **error** n. 错误 (正式)
+        * → a technical **error**
+      * **blunder** n. 错误 (粗心马虎/一招不慎 酿成的大错)
+        * → It was a **blunder** to marry such a lazy-bones.  嫁给懒汉真是一个错误.
+          * lazy-bones 懒骨头(懒汉)
+      * **fault** n. 错误 (强调责任)
+        * → It's your **fault** ! 都是你的错, 都怪你
+      * **fallacy** n. 谬误,谬论, 错误的观念
+        * → It is a common **fallacy** that women are worse drivers than men.
+    * v.
+      * **make a mistake** 搞错了
+      * **commit a fallacy** 犯了个事实性的错误
+        * → The author **commits a fallacy** of false analogy. 
+          * analogy n. 类比
+      * **err** v. 犯错
+        * To **err** is human , to forgive divine.   --- Alexander Pope
+          * 会犯错的是人, 如果能宽恕那将是神性的
+          * 凡人多舛误， 唯神能见宥.
+* **oddly** /ˈɑːdli/ adv. 奇怪地, 古怪地
+  * **odd** /ɑːd/ adj. 奇怪的, 怪异的, 不寻常的
+    * → What an **odd** man he is! 真是一个奇怪的男人
+    * an **odd** number 奇数
+      * an **even** number 偶数
+    * 同义词
+      * **strange** adj. 奇怪的, 
+      * **unusual** adj. 不寻常的, 罕见的
+        * **usual** adj. 通常的, 司空见惯的
+      * **peculiar** adj. 特殊的, 奇特的, 奇怪的
+        * a **peculiar** smell 一股怪味
+        * a most **peculiar** story 一个特别古怪离奇的故事
+          * most 不是最的意思, 如果前面没有 定冠词 the, 那么表示'极其地'/ '特别地' 的意思.
+      * **weird** /wɪrd/ adj. 奇怪的, 怪异的, 古怪的 (有点怪怪的, 让人渗的慌的感觉)
+        * → I heard some **weird** noises coming from outside.
+      * **eccentirc** /ɪkˈsɛntrɪk/  adj. (人行为举止) 与众不同的, 特立独行的, 奇怪的,  (中性词)
+        * → Our neighbor is an **eccentric** old lady who has about 25 cats.
+      * **bizarre** /bɪˈzɑr/ adj. 古怪的(语气比较重, 多用于书面语) 
+      * **outlandish** /aʊtˈlændɪʃ/ adj. 古怪的(语气比较重, 多用于书面语) 
+        * → She came to the party wearing <u>a **bizarre**</u>/ <u>an **outlandish**</u> costume and a blond wig.
+          * costume n. 化妆服, 道具服
+          * blond wig 淡金色假发
+* **sphere** /sfɪ(r)/ n. 球体; 领域 (后者更常用)
+  * **<u>in</u>** the <u>scientific</u>/<u>political</u>/<u>cultural</u>/<u>educational</u> .. <u>**sphere**</u>/<u>**area**</u>/ <u>**field**</u>/ <u>**world**</u> /<u>**realm **</u>/<u>**domain**</u> 在科学界/学术领域 的各种替换表达
+    * realm /rɛlm/ n. 领域, 范围
+  * **atomosphere** n. 大气层
+  * **hemisphoere** n. 半球
+    * **hemi** n. 半个
+    * **semi** (前缀) 半, 部分
+  * the <u>northern</u> / <u>southern</u> / <u>eastern</u> / <u>western</u> **hemisphere**
+* **repel** /rɪˈpɛl/ v. 排斥; 令某人讨厌
+  * → Oil **repels** water. 油排斥水
+  * → His behavior **repels** me. 他的行为举止令我讨厌
+  * → The food **repels** my stomach. 我不爱吃这东西(地道表达)
+    * **stomach** /ˈstʌmək/ n. 胃口, 肚子, 胃部
+  * **be repelled by ...** 讨厌 sth.
+    * 英文中的主动或者被动并不是以中文中的意思为主, 需要参考相关的搭配来决定
+    * → I **was repelled by** his behavior.
+  * **repellent** adj. 令人讨厌的, 令人反感的. n. 防虫剂
+    * **repellent** <u>smell</u>/<u>behavior</u>
+  * '令人讨厌的' 的类似表达
+    * repel v.
+      * repellent adj.
+    * repulse v. 
+      * repulsive adj.
+    * revolt v.
+      * revolting adj.
+    * disgust v.
+      * disgusting adj.
+    * → (NCE3-23 P114-13) You would not be able to understand why some people find it **repulsive**.
+  * 字根
+    * "**pel**" = push
+      * **repel** 排斥
+      * **compel** (外部)迫使 / **impel** (内心的动力)迫使
+        * **be/feel compelled to do**
+        * **be/feel impelled to do**
+      * **expel** 开除
+      * **propel** 推进
+  * 反义词
+    * **attract** /əˈtrækt/ v. 吸引
+* **flicker** /ˈflɪkər/  v. 闪烁 (多表示 火焰/烛火 风中摇曳的闪烁)
+  * → The candle **flickered** in the wind. 蜡烛在风中闪烁
+    * **candle** n. 蜡烛
+  * 同义表达: 
+    * **twinkle** v. 闪烁 (多表示星光闪烁)
+      * **Twinkle, twinkle,** little star, like a diamond in the sky.  ---Jane Taylor
+    * **sparkle**/**glitter** v. 闪烁 (多表示很多明亮的亮点在闪烁, 比方说遍地的黄金, 或者波光粼粼的湖面, )
+      * → The diamond **sparkled** in the sunlight.
+      * → All that **glitters** is not gold. (闪光的不都是金子 )  ---- Wiliam Shakespeare
+        * 全部肯定词 All + 否定词 一般表示 部分否定
+  * 闪耀: 
+    * **flash** v. 突然的强光
+      * → a **flash** of lightning
+      * **a flash in the pan** 昙花一现
+        * pan n. 平底锅
+        * → His first novel proved to be a flash in the pan. He never wrote another.
+          * **prove to be** 被证明是
+* **emit** /ɪˈmɪt/ v. 放射, 发射(抽象的发射, 例如 声音, 热量, 光线,电流 等)
+  * → Fireflies **emit** light but not heat.
+    * fireflies 萤火虫 (复数)
+  * 同义表达
+    * give off
+    * discharge 
+  * 意似词辨析
+    * **launch** v. 发射(火箭)
+      * → launch a <u>rocket</u> / <u>missile</u> / <u>satellite</u>
+        * missile n. 导弹
+        * satellite n. 卫星
+  * 字根
+    * **emit**: '**e**'(out) + '**mit**'(send) 
+    * **submit**: '**<u>sub</u>**'(under) + '<u>**mit**</u>' 屈服
+    * **transmit**: '**<u>trans</u>**'(across) + '**mit**' 传播, 传输
+      * sexually **transmitted** diseases
+      * → The US open will **be transmitted live** via satellite.
+        * US open n. 美国公开赛
+    * **vomit**: '**<u>vo</u>**'(eat) + '**mit**' 呕吐 
+    * **omit** : '**o**'='ob'(away) + '<u>**mit**</u>' 省略, 删除
 
 **## text 1**
 
