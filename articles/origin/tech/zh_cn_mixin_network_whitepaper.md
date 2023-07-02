@@ -81,7 +81,7 @@ Mixin Kernel 使用 Bitcoin 的 UTXO 模型来处理交易, 由于不存在 `转
 
 在推导出 Ghost Address 后, Alice 将使用 CryptoNote 算法签名交易.
 
-> 以下两幅图来自 CryptoNote 白皮书, 交易过程细节的中文翻译可以参考 [Cryptonote 白皮书 中文翻译](https://kuricat.com/gist/zh-cn-cryptonote-whitepaper-qhijf)
+> 以下两幅图来自 CryptoNote 白皮书, 交易过程细节的中文翻译可以参考 [Cryptonote 白皮书 中文翻译](https://kuricat.com/article/tech/zh-cn-cryptonote-whitepaper-qhijf/)
 
 ![image-20210215230558393](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/mixinWhiteBook/image-20210215230558393.png)
 
@@ -109,7 +109,7 @@ Mixin Kernel 使用 Bitcoin 的 UTXO 模型来处理交易, 由于不存在 `转
 
 Kernel 节点组成了一个 松散的网状拓扑结构, 并负责进行交易的验证和存储. 与 别的区块链中的 区块不同, Mixin Kernel 中没有那么强的区块的概念 (比方说 Bitcoin), 所有的交易都会尽快广播然后扩散到所有节点, 被广播的节点数呈指数化增长.
 
-![image-20210216105131931](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/mixinWhiteBook/image-20210216105131931.png?raw=true)
+![image-20210216105131931](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/mixinWhiteBook/image-20210216105131931.png)
 
 > A typical Mixin Kernel transaction finalization sequence goes as follows:
 >
@@ -151,7 +151,7 @@ Kernel 节点组成了一个 松散的网状拓扑结构, 并负责进行交易�
 5. `步骤 4` 将不断的在 Kernel 节点中重复进行, 直到 Node B 得知该交易被 2/3 的 Node 批准或者 拒绝. 由于每个 Snapshot 都引用了 接收到的 Snapshot , 所以可以追溯到 交易发生的第一个节点 A. 新的被传播到的节点, 很容易直到此前的快照的传播路径. 利用这个特性可以在开发中避免大量的冗余工作.
 6. 在这个过程中, 通常 `K/(b^2)` 就可以批准或者拒绝一笔交易, 如果按照通常的集群规模考虑, 那么每笔交易延迟大概率在 一秒之内, 最迟也会在几秒之内完成. 
 
-![image-20210216110010579](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/mixinWhiteBook/image-20210216110010579.png?raw=true)
+![image-20210216110010579](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/mixinWhiteBook/image-20210216110010579.png)
 
 > Due to the asynchronous BFT consensus, double spend is impossible. Because of the UTXO nature, snapshots order is irrelevant and high concurrency can be guaranteed in the DAG.
 
@@ -233,7 +233,7 @@ Light Witeness 的投票权重 是根据它们质押的 XIN 代币来决定的. 
 
 Mixin Domain 是一个分布式账本, 用于 为 Mixin Kernel 提供资产. 这些资产可能是 Bitcoin 等.
 
-![image-20210216171141999](https://github.com/Kuri-su/KBlog/blob/master/assets/gists/mixinWhiteBook/image-20210216171141999.png?raw=true)
+![image-20210216171141999](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/gists/mixinWhiteBook/image-20210216171141999.png)
 
 图示翻译: 
 

@@ -47,7 +47,7 @@ flannel 几乎是最早的跨节点容器解决方案，flannel 提供很多种�
 
 flannel 将 Pod 的 CIDR 网段与 机器绑定, 从而避免不必要的数据包转发.
 
-![](../../assets/flannel-07-arch-CIDR.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-07-arch-CIDR.png)
 
 ### TUN ( backend UDP )
 
@@ -57,7 +57,7 @@ flannel 将 Pod 的 CIDR 网段与 机器绑定, 从而避免不必要的数据�
 
 构建 overlay 网络, 最简单的方式自然是使用 TUN 来将 三层网络(L3) 的包抓上来, 然后由 应用层(L7) 重新封包 再投递. flannel 也是这么想的. 如下面的示意图所示, 
 
-![](../../assets/flannel-01-arch-TUN.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-01-arch-TUN.png)
 
 每个节点上会有一个 flannel 的 agent 叫做 `flanneld` , (下一章节会专门聊这个是如何预先配置到各个节点上的, 这里先专注在 Runtime 上) , 这个 Agent 会设置 router 和 开启 一个 tun 类型的网络设备 叫 `flannel 0` .
 
@@ -105,7 +105,7 @@ L4 protocal format
 ---------------
 ```
 
-![](../../../assets/flannel-01-arch-TUN.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-01-arch-TUN.png)
 
 接着数据包流经 当前节点的  eth0 网卡发送出去,  当前数据包结构如下
 
@@ -147,7 +147,7 @@ L4 protocal format
 ---------------
 ```
 
-![](../../assets/flannel-01-arch-TUN.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-01-arch-TUN.png)
 
 这样就是 flannel 在 TUN 模式下, 数据包传输的全过程, 可以看到使用一个较为简单的结构, 以 overlay 的形式, 解决了 Kubernetes 网络的搭建.
 
@@ -178,7 +178,7 @@ VXLAN 透过和上述 TUN 模式类似的结构实现了一个 Overlay 网络, �
 
 而读者从上面的描述里也看得到, flannel 仅仅只是想透过 VXLAN 性能而已, 并不是希望透过 VXLAN 来提供新的 feature , 所以 flannel 这里只是最简单的使用了 VXLAN, 比如 VNI 默认为 `1`, VTEP 不分组, 所有的 VTEP 都是一个组, 并且 flannel 会手动维护 VTEP 的 FDB(mac to ip) 表 和 ARP (ip to mac)表. 
 
-![](../../../assets/flannel-02-arch-VXLAN.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-02-arch-VXLAN.png)
 
 在前面的流程都类似, 从 `Network Namespace` 出来, 经过 docker 0 / CNI 0 , 然后来到 `Linux Kernel FIB`, 匹配到路由规则, 将数据包丢给 flannel.1 , 在这里 透过 flanneld 以及 flanneld 维护的 FDB 以及 ARP 表, 按照 VXLAN 的方式包装后, 将数据包丢给 Node B, 接着 Node B 里的 VTEP 进行解包, 然后将数据透过 Linux Kernel Router 中的路由给到 docker0 / cni0 bridge , 接着再通过 veth pair 给到 实际的应用程序.
 
@@ -194,7 +194,7 @@ VXLAN 透过和上述 TUN 模式类似的结构实现了一个 Overlay 网络, �
 
 其实本质上, 也就只是想把 数据包 转发到对应的节点上, 然后让那个节点自行将 数据包 投递到对应的容器中, 那么我们能不能让对应的节点作为网关呢? 
 
-![](../../assets/flannel-03-arch-host-gateway.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-03-arch-host-gateway.png)
 
 flannel 就是这么做的, flanneld 会配置 路由规则在 `Linux Kernel FIB` 上, 但是这次它会把 Node B 对应的路由网关设置为 Node B的 IP, 并创建另一个网卡 eth1, 并且在 eth 1 的网段设置上, 故意和原有的 eth0 错开网段, 当 Node A 的 `Linux Kernel FIB` 想直接转发数据包给 Node B 的时候, 发现这是另一个网段的包, 它尚未知道 Node B 的 Mac 地址, 所以 Node A 会将数据包传给 对应的 网关, 数据包就直接给到 Node B, 这个时候 Node B 只需要将数据包投递给对应的容器即可, 可以看到方案的变得简单了很多.
 
@@ -228,11 +228,11 @@ Node A 的路由表大致长这样子
 
 首先, flannel 本身和 CNI 是无关的, flannel 会有 一个 cni-plugins 专门与 cni 交互. 我们透过 K8s 拉取的 flannel 镜像, 首先会有一个 Init Container 将CNI 的 配置信息 copy 到本机的对应的位置. 会运行 flanneld, 然后在 /etc/flannel/subnet.env 中写入当前机器分配到的子网信息, 接着 flanneld 根据所设置的 flannel 模式, 会进行自己的工作. 
 
-![](../../assets/flannel-05-arch-CNI-Timing-deploying.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-05-arch-CNI-Timing-deploying.png)
 
 接着, 在创建容器的时候, CRI 的实现, 例如 containerd , 会调用 CNI 的接口, 要求 CNI 去生成一份 容器的网络信息, 这时 CNI 读取本机的 CNI 配置, 去通过 Shell 命令执行 CNI 中写的 CNI plugins, 这个时候会启动 flannel 的 cni plugins, 这个程序会根据读取 flannel 写在 `/etc/flannel/subnet.env` 的子网信息, 然后读取 CNI 的配置信息, 接着还是调用 CNI 的库, 将这些配置信息传给 CNI 方法, 接着 CNI 的方法会调用配置的工具进行 `bridge`, `veth pair` 等网络设备的创建, 然后调用注册的 IPAM 程序分配 IP 地址 (默认是 `host-local` ), 在一切就绪后, 会将 IP地址等信息通过标准输出给回 CRI 中调用的 CNI 的方法, 然后 CNI 的 function 序列化数据后, 将数据返回给 CRI 插件. 时序图如下: 
 
-![](../../assets/flannel-06-arch-CNI-Timing-running.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/flannel-06-arch-CNI-Timing-running.png)
 
 你可以看到 flannel 并不是强绑定 K8s 的, flannel 只是依赖 etcd . 大多数的 K8s 的网络方案自身也支持 为虚拟机提供服务.  
 

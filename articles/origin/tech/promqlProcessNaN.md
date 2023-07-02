@@ -17,7 +17,7 @@ headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/prom
 
 首先 , 我们不使用函数来进行查询, 仅仅列出原始结果: 
 
-![](/assets/promQLGraphBeforeAggr.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQLGraphBeforeAggr.png)
 
 ```go
 // 对应的 PromQL
@@ -26,7 +26,7 @@ A{quantile="0.5"}
 
 接着, 我们对上述数据 使用 函数 `avg` 取 平均值.
 
-![](/assets/promQLGraphAfterAggr.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQLGraphAfterAggr.png)
 
 ```go
 // 对应的 PromQL
@@ -58,7 +58,7 @@ avg(A{label="label"} > 0)
 
 即可让结果按照预期显示.
 
-![](/assets/promQLGraphFixed.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQLGraphFixed.png)
 
 ## 原因
 
@@ -66,7 +66,7 @@ avg(A{label="label"} > 0)
 
 那么接着就是定位问题,  通过直接查看 Grafana 对 Prometheus 的查询的响应体, 发现响应在正常返回, 但都是 NaN, 那说明问题并不是由 PromQL 表达式错误引起的. 
 
-![](/assets/promQLResultAfterAggr.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/promQLResultAfterAggr.png)
 
 那么既然不是 PromQL 表达式的问题, 那 异常原因 有没有可能与 `PromQL 的处理机制` 以及 这里出现的 `NaN 响应` 有关?
 在笔者印象中, 在 `Prometheus/client_golang` 里只有 Summary 指标 会有 NaN 相关的返回, 所以我们接着到 [prometheus/client_golang](https://github.com/prometheus/client_golang/issues) Issue 列表中 搜索相关的关键词, 还就真的找到两个相关的 Issue  [#860](https://github.com/prometheus/prometheus/issues/860) 和 [#8860](https://github.com/grafana/grafana/issues/8860) , 通过 阅读 Issue , 就找到了[解决方案](https://github.com/prometheus/prometheus/issues/860#issuecomment-359867796).

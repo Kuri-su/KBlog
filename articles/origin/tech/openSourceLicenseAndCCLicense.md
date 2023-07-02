@@ -271,7 +271,7 @@ LGPL 全称 `GNU Lesser General Public License`, 顾名思义, 是一个弱化�
 
 在 2001 年, 拥有和 Copyleft 同样理念的 CC 许可 (Creative Commons) 出现, 提倡 ` 著作物可以更广的流通和修改, 可使他人据以创作及共享, 并以所提供的许可方式保障以上理念 `, 目前常用于 公开的文章 的版权声明.
 
-![](/assets/open_source_license_and_CC_license_cc.png)
+![](https://raw.githubusercontent.com/Kuri-su/KBlog/master/assets/open_source_license_and_CC_license_cc.png)
 
 我们常常会在一些网站上看到 类似于下图这样的图标.
 
