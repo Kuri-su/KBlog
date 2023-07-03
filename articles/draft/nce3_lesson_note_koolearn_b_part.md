@@ -2193,7 +2193,76 @@
   * a **fit** of coughing 一阵咳嗽
   * a **round** of applause 一阵掌声
   * **<u>peals</u>/<u>gales</u>** of laughter  阵阵笑声
-* **be familiar with ...**
-  * **be familiar to ...** 
+* **B be familiar with A**  =  **A be familiar to B** 某人对某人很熟悉了 
+  *  → Many readers **are familiar with** the name Harry Potter.
+  * → The name Harry Potter **is familiar to** many readers.
+* → <u>Lined up against the wall</u>, there were long thin wires **<u>attached to metal spheres.</u>** 靠着墙有排成排的长的细电线, 电线上挂着金属球.
+  * **lined sth. up** 把 ... 排成一排
+    * → The books **are lined up** on the shelf. 
+    * **line up**  排队
+      * → **Line up**, everybody! 请排队
+    * **cut in line** 插队
+  * **attach sth. to sth.** 将某物和某物连接起来
+  * 造句：在桌上排列着一些崭新的 (brand-new) 电脑，而电脑上又连着(connect)打印机 (printer)。
+    * Lined up on the table, there were a number of  brand-new computers connected to printer.
+* **all the time** 一直..., 不停地.....
+  * 同义表达
+    * **on and on ** 一直 
+    * **continuously** 
+    * **constantly**
+    * **without stopping** 
+* **colored** lights  有颜色的灯
+  * **colorful** lights 五颜六色的灯
+    * → (NCE3-28 P134-44) ... **colarful** rugs from Persia
+* → These lights flickered continuously **like traffic lights <u>which have gone mad.</u>**
+  * **continuously** adv. 持续地, 连续地 (中间无中断)
+  * **continually** adv. 老是, 总是 (中间有中断)
+    * **be <u>always</u> / <u>continually</u> doing**  总是做某事
+      * → He is **continually** being late. 他总是迟到
+      * → He is **continually** asking me for money. 他老是找我借钱
+  * **go mad** 变疯了
+    * 同义表达
+      * **go crazy** 
+      * **go wild** 变疯了
+      * **go bananas** (俚语) 
+      * **go nuts** 变疯了
+      * **go insane** 变疯了 
+        * → Oceans apart, day after day.and I slowly **go insane.**
+* **on and off = off and on** 断断续续地
+  * **反义：on and on 持续不停地**
+* **prehistoric 史前的**
+  * 约定俗成 表示夸张的修辞, 表示**老掉牙的**
+* **夸张 hyperbole **(修辞手法)
+  * → Everybody was clapping their hands off. 每个人都在热烈的鼓掌 (鼓掌鼓的手都掉了)
+    * **clap one's hands off** 热烈鼓掌(习语搭配)
+  * → I didn't sleep a wink last night. 我昨晚睡不着 (眼都没眨一下)
+    * **not sleep a wink**  一晚上没睡(习语搭配)
+  * → He has a skeleton of a wife.  他夫人很瘦 (一个 他夫人的骨头架子)
+    * **a skeleton of sb.** 某人很瘦
+* **双关 pun** (修辞手法)
+  * 多义双关
+    * → Lesson 19 A very **dear** cat
+    * → What do lawyers do when they die?
+      * → **Lie still.** (两个词都是双关)
+    * → The professor tapped on his desk and shouted,"Gentlemen, **order**!” (order 也有 动词 点菜 的意思)
+      * → The entire class yelled, "Beer!”
+  * 谐音双关
+    * → More **sun** and **air** for your **son** and **heir**.
+      * heir n. 继承人 (h 不发音)
+      * sun 和 son 发音相同
+      * air 和 heir 发音相同
+    * → We must all **hang together** or we shall all **hang separately**.
 
 ## L19 A very dear cat
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
