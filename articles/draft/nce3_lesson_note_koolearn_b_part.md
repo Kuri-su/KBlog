@@ -2241,7 +2241,7 @@
     * **a skeleton of sb.** 某人很瘦
 * **双关 pun** (修辞手法)
   * 多义双关
-    * → Lesson 19 A very **dear** cat
+    * → Lesson 19 A very **dear** cat (又亲密又贵重)
     * → What do lawyers do when they die?
       * → **Lie still.** (两个词都是双关)
     * → The professor tapped on his desk and shouted,"Gentlemen, **order**!” (order 也有 动词 点菜 的意思)
@@ -2257,7 +2257,78 @@
 
 **## words**
 
-* 
+* **dear** adj. 亲爱的; 昂贵的
+  * **Dear** Mr. Smith,
+  * My **dear** daughter
+  * Come on, **dear**
+  * 昂贵的 - 同义词
+    * **expensive**
+    * **costly**
+    * **pricy**(美)/**pricey**(英)
+    * **cost sb. an arm and a leg**
+      * 听力题: 
+        * M: Did you see the diamond ring Bill gave to Linda?
+        * W: I sure did. It must have **cost him an arm and a leg.**
+        * Q: What does the woman imply about the ring?
+        * Answer: (C) It was very expensive.
+    * **<u>davlight</u> / <u>highway</u> robbery** 大白天/马路 抢钱
+      * → ＄10 for an orange juice? That's just **daylight robbery**! 简直大白天抢钱! 
+* **kidnapper** /ˈkɪdnæpər/ n. 绑架者, 绑匪
+  * **kidnap** v. 绑架
+    * **nap** v. 打盹
+    * → The boy was **kidnapped** by a terrorist.
+    * 同义词
+      * **abduct** v. 绑架, 劫持 (宾语一般是人)
+        * **abductor** n. 绑架者
+        * **duct** v. 引导, 导向, n. 管道, 导管
+      * **hijack** v. 劫持 (一般是交通工具)
+        * **hijacker** v. 劫匪
+    * **ransom** n. 赎金
+    * **hostage** n. 人质
+
+* **anonymous** /əˈnɒnɪməs/ adj. 匿名的
+  * an **anonymous** <u>donor</u>/<u>phone call</u>/<u>letter</u>
+    * <u>donor</u> n. 赞助者
+  * **onym=name** (来自 古希腊语)
+    * **synonym** n. 同义词
+      * syn 词根表示在一起, 
+    * **antonym** n. 反义词
+      * ant(anti) 词根 表示 对立的
+    * **pseudonym**  n. 假名, 化名, 笔名
+      * pseudo 词根 表示假的
+      * **pseudo-science** n. 伪科学
+      * → O. Henry is the **pseudonym** of William Sydney Porter.
+* **withdraw** /wɪθˈdrɔː/ v. (从银行) 取款; 撤回
+  * **withdraw ... from ...** 从某个银行或者账户里取钱
+    * → I'd like to **withdraw** 2,000 yuan **from** my account.
+      * yuan 这个单位单复数同行. 除了 英文中的原生单位以外, 其他绝大部分的单位都是单复数同行
+  * **deposit ... in ... ** 取钱
+    * → I'd like to **deposit** 2,000 yuan **in** my account.
+  * → I’d like to **open an account(/əˈkaʊnt/).** (不读 鳄康特, )
+    * 账户类型(美)
+      * **checking account** 活期账户 
+      * **savings account** 定期账户
+      * **debit card** 借记卡 
+      * **credit card** 信用卡
+      * **PIN/pɪn/(number)** 密码 (不读 聘, 中间的 i 读成类似报数的 1)
+  * → Id like to **close my account** because I'm moving.
+  * → Can l **cash a check** here? 兑换现金
+    * check 支票
+  * → What's the **balance** in my account? 我的银行余额是多少
+  * → What's the **interest rate**? 利率是多少?
+  * → I'd like to **transfer** $2,000 **from** my savings account **to** my checking account. 转账
+  * → Can I **wire** some money to China from here? 电汇
+    * wire n. 电线
+  * → Is it possible for me to **exchange** some British pounds **for** U.S. dollars? 兑换
+  * → What's today's **exchange rate for** U.S. dollars?
+  * 听力题: 
+    * → A: How may I help you? B: I'd like to **open an account,** please. A: Would you like to open a **savings** or **checking account**? B: Perhaps I could open one of each. A: Sure thing. We have a minimum **balance** of $10 in the savings account. B: OK, what's the **interest rate** at the moment? A: lt's a **fixed rate** of 1%.
+    * → B: Alright. Do you provide **debit cards** with the checking account? A: Yes, we do. B: Is there a way to **transfer** funds **from** my savings account **to** my checking account over the phone? A: Yes, you just need your **PIN number**. You can also do this online.
+    * → B: Oh, that's very <u>convenient</u>. I'd also like to pay for my tuition with **direct debit**. How do I do that? A: You just need to fill in this form and we'll take care of it for you. Do you have any other questions? B: No, that s all. Thank you.
+      * convenitent /kənˈviːniənt/ adj. 方便的, 便利的
+      * tuition n. 学费
+      * **direct debit** 直接扣款
+      * fill in this form 填写表单
 
 **## text 1**
 
