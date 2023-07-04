@@ -2556,20 +2556,31 @@
 
 * → Over a year passed **before** the first attempt was made. 过了一年多, 才有人尝试.
 
-  * 当主句的时间比预期的要长的时候, 用 before 翻译成 **'<u>才</u>'**
-    * → (NCE3-2 P18-L6) Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times **before** it stopped. 大钟敲了 13下才停
-  * 当主句的时间比预期的要短的时候, 用 before 翻译成 **'<u>就</u>'**
-    * I hadn't waited long **before** he came.
-  * before  有时候会翻译成 <u>**然后**</u>
-    * → I shaved **before** I went to the party.
-    * → (NCE4-9 P53-L11) Alfred stayed in the camp a week **before** he returned to Athelney.
-  * when 也可以这样翻译
-    * **<u>就</u>**
-      * → (NCE3-20 P9O-L5) He had travelled only seven miles across the Channel **when** his engine failed and he was forced to land on the sea.
-    * **<u>才</u>**
-      * → (NCE2-60 P284-L9) The plane had been planting seed for nearly a month **when** it began to rain.
-    * **<u>然后</u>**
-      * (NCE3-28 P134-L18) Shrugging my shoulders, I began to walk away **when**, a moment later, he ran after me and thrust the pen into my hands.
+  * before
+    * 当主句的时间比预期的要长的时候, 用 before 翻译成 **'<u>才</u>'**
+      * → (NCE3-2 P18-L6) Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times **before** it stopped. 大钟敲了 13下才停
+    * 当主句的时间比预期的要短的时候, 用 before 翻译成 **'<u>就</u>'**
+      * I hadn't waited long **before** he came.
+    * before  有时候会翻译成 <u>**然后**</u>
+      * → I shaved **before** I went to the party.
+      * → (NCE4-9 P53-L11) Alfred stayed in the camp a week **before** he returned to Athelney.
+    * when 也可以这样翻译
+      * **<u>就</u>**
+        * → (NCE3-20 P9O-L5) He had travelled only seven miles across the Channel **when** his engine failed and he was forced to land on the sea.
+      * **<u>才</u>**
+        * → (NCE2-60 P284-L9) The plane had been planting seed for nearly a month **when** it began to rain.
+      * **<u>然后</u>**
+        * (NCE3-28 P134-L18) Shrugging my shoulders, I began to walk away **when**, a moment later, he ran after me and thrust the pen into my hands.
+  * **make ... attempt to do** 尝试做某事, 试图做某事
+    * attempt n./v. 尝试, 企图
+    * **make <u>an</u> / <u>no</u> / <u>little</u> / <u>the first</u> / <u>another</u> attempt to do**
+      * <u>make another attempt to do</u> 再次尝试做某事
+    * → (NCE3-20 P90-L14) Latham **made another attempt** a week later and got within half a mile of Dover, but he was unlucky again. (用的被动, 这样表达可以用事物做主语, 显得更简洁)
+  * 造句：过了一个多月才有人发现了这具尸体。
+    * → Over a month passed before the body was found.
+  * 造句：过了十年 (decade） 多才有人出来揭示(reveal)了这个秘密。
+    * decade 十年
+    * → Over a decade passed **before** the secret was revealed.
 
 **## text2**
 
