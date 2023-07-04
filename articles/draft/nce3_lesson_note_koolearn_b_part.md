@@ -2290,9 +2290,9 @@
   * an **anonymous** <u>donor</u>/<u>phone call</u>/<u>letter</u>
     * <u>donor</u> n. 赞助者
   * **onym=name** (来自 古希腊语)
-    * **synonym** n. 同义词
+    * **synonym** /ˈsɪnənɪm/ n. 同义词
       * syn 词根表示在一起, 
-    * **antonym** n. 反义词
+    * **antonym** /ˈæntənɪm/ n. 反义词
       * ant(anti) 词根 表示 对立的
     * **pseudonym**  n. 假名, 化名, 笔名
       * pseudo 词根 表示假的
@@ -2332,8 +2332,251 @@
 
 **## text 1**
 
+* **双关 pun **
+  * 多义双关
+    * dear : 
+      1. <u>loved</u> / <u>valued</u>
+      2. <u>expensive</u> / <u>costly</u>
+    * → Stephen Hawking was a **star** scientist.
+* **rerely** 时间频度副词
+  * 同义词
+    * rarely
+    * almost never
+    * seldom
+    * hardly ever
+  *  否定意义的副词/形容词提前会引起部分倒装, 动词或助动词 要提前
+    * → **Rarely <u>are</u>** kidnappers interested in animals.
+* 有兴趣的名词表达
+  * **take/have an interest in ...**
+  * **take/have no interest in ...**
+  * **take/have little interest in ...**
+  * **take/have considerable interest in ...**
+    * considerable adj. 相当大的
+* 造句：孩子们很少对历史感兴趣，但是小约翰最近却对古代雕塑产生了浓厚的兴趣。
+  * → Children are rarely interested in history, but little John recently took considerable interest in ancient sculpture.
+* **wealthy** /ˈwɛlθi/  adj. 富有的
+  * Synonyms
+    * **rich**
+    * **affluent**
+    * **well-off**
+    * **well-to-do**
+* **share a <u>house</u> / <u>apartment</u> / <u>flat</u> / <u>room</u> with ...** 与某人合住 (暗示 没有亲属关系, 也不是男女朋友关系, 一般是分摊租金的那种)
+  * apartment (美) / flat (英) 公寓
+  * → I **shared an apartment with** Kim when l first came to Beiing.
+  * synonyms by 合租
+    * **room with ...** 与某人合租 (同宿舍的, 尤其是上学期间)
+      * → I **roomed with** him at college.  
+    * **live with ...** 与某人住一起 (没有场景限制)
+    * **cohabit with ...** 与某人同居 (男女朋友关系)
+  * → A sorrow **shared** by two is half sorrow; a happiness **shared** by two is double happiness. 一份痛苦两个人分担会减半, 一份快乐两个人分担会 加倍.
+  * → We **share** an interest in history. 我们对于历史有着共同的兴趣
+    * **share** adj. 有共同的
+* 造句：Alfred Bloggs 是 Ellesmere 公司工作的一名垃圾工，他和他的同事 George 合佳一个公寓已经很多年了。
+  * → Alfred Bloggs, a dustman for the Ellesmere Corporation, has shared an apartment with his colleague, George, for a great many years.
+* **<u>lead</u>/<u>live</u> a ... life** 过着一种... 的生活
+* (NCE3-23 P114-L23) I happened to be walking in my garden when Inoticed a huge number of snails **taking a stroll** on some of my prize plants. 
+  * 散步
+    * **take a <u>walk</u>/<u>stroll</u>**
+    * **have a <u>walk</u>/<u>stroll</u>**
+    * **go for a <u>walk</u>/<u>stroll</u>**
+      * **stroll** v./n. 漫步, 闲逛
+      * → What do you want to do after breakfast?
+        * → Why don't we **take a walk** down to the river?
+      * → Phoebe: Hey, is Chandler here?
+        * → Joey: No, no he **went for a walk.**
+    * **walk the dog** 遛狗
+    * **stretch one's legs** 
+      * stretch v. 伸展, 伸开
+      * → (NCE3-44 P204-L13) You can **stretch your legs** on the spacious decks,
+* → He could not find his fifty pence anywhere, ..
+  * → She could not find him anywhere.
+
+ **## text 2**
+
+* **receive sth. from sb.**  从某人那收到 某物
+  * **get sth. from sb.** 
+  * **hear from sb.** 有某人的音信 (特指书信联系, 或者电话往来)
+* → The writer stated **that Rastus was in safe hands <u>and</u> would be returned immediately <u>if Mrs. Ramsay paid a *ransom* of £1.000</u>.**
+  * **state** v. 声明
+  * **in safe hands** 处于安全的保护之下, 由可信赖的人负责或照料
+    * → Don't worry about the children. They are **in safe hands.**
+    * → You can be sure your children are **in good hands.** 你的孩子们被很好的人在照料, 很安全, 
+    * → I am afraid that nuclear weapons could **fall into the wrong hands.** 我担心核武器会调到 错误的人的手上
+  * **a *ransom* of £1.000** 1000 英镑的赎金
+    * → (NCE3-20 P90-L1) In 1908 Lord Northcliffe offered **a prize of £ 1,000** to the first man who would fly across the English Channel.
+    * **a reward of** £ 1,000  一笔奖金
+    * **a fund of** £ 1,000 一笔资金
+    * **a debt of** £ 1,000 一笔负债
+    * **an investment of** £ 1,000  一笔投资
+    * **a scholarship of** £ 1,000 一笔奖学金
+* **instruct sb. to do** 指示某人做某事 (比较不客气, 多用于上级对下级, )
+  *  instructed to do (被动) 某人被指示做某事
+    * → (NCE3-5 P30-L2) Last year a journalist **had been instructed** by a well-known magazine **to** write an article on the president's palace in a new African republic.
+* → At tirst, she decided to go to the police, <u>but</u> **fearing <u>that she would never see Rastus again</u>**—<u>the letter had made that quite clear</u>—she changed her mind.
+  * 报警的表达
+    * **go to the police**
+    * **call the police**
+      * → (NCE3-16 P74-L11)He told him he had better return it or he would **call the police.**
+    * **inform the police** 通知警察
+  * 担心害怕的表达
+    * **be afraid of ... ** 
+    * **be afraid that ...**
+      * that 从句不跟在 介词后, 如果后面接 that 从句, 得去掉 介词
+      * 做原因状语时, 可以把 be 换成 being, 然后在原因状语中,  being 可以省略, 所以就变成了 只剩 afraid of / afraid that 从句
+        * → ... but **afraid of** never seeing Rastus again ... 
+        * → ... but **afraid that** she would never see Rastus again ...
+    * **for fear of ...**
+    * **for fear that ...**
+      * → I didn't turn on the light, **for fear of** <u>waking</u> the baby.
+      * → I didn't turn on the light, **for fear that** it would *wake* the baby.
+      * → ... but **for fear of** never <u>seeing</u> Rastus again ...
+      * → ... but **for fear that** she would never *see* Rastus again ...
+  * **make sth. <u>clear</u>/<u>explicit</u>** 把某事说清楚
+    * **explicit** adj. 明确的, 清晰的
+    * → Possible side effects must **be made <u>clear</u> / <u>explicit</u>.**
+      * **side effect** 副作用
+      * **clarify** 使清楚
+        * → Could you **clarify** your remarks? 能否把你的话说清楚
+        * → **clarify** one's position
+* → <u>The next morning</u>, the box had disappeared <u>but</u> Mrs Ramsay was sure **that the kidnapper would keep his word**
+  * the <u>next</u> / <u>following</u> / <u>succeeding</u> morning 随后一天早上
+    * the morning after  随后一天早上
+  * **keep one's <u>word</u> / <u>promise</u>** 信守诺言
+    * **break one's <u>word</u> / <u>promise</u>** 食言
+    * He is **a man of his word.** 他是一个守信用的人
+      * → She is **a woman of her word.** 她是一个守信用的人
+  * **sure enough** 果然
+    * → (NCE3-29 P138-L18) The man took heart and, **sure enough**, on New Year's Eve he was able to hobble along to a party.
+* → He looked very well, **though he was rather thirsty, <u>for he drank half a bottle of milk</u>.**
+  * ,for 引导原因状语从句
+* → The police <u>were astounded</u> **when Mrs. Ramsay told them <u>what she had done</u>.**
+  * 表示惊讶的词
+    * **astound** 使惊呆了
+    * **amaze** 使惊讶 (难以理解的惊讶, 迷惑不解)
+      * **maze** n. 迷宫
+      * → (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they **were amazed** to find that the goddess turned out to be a very modern-looking woman. 
+    * **astonish** 使震惊, 使惊奇 (令人难以相信)
+      * → (NCE3-16 P74-L14) When he went outside half an hour later, he **was astonished** to find that the little black lamb was almost white.
+      * → (NCE3-30 P142-L11) A short time ago, villagers **were astonished** to learn that the ghost of Endley had died.
+* **considering** prep. (原本是非谓语动词) 考虑到 
+  * 如果非谓语动词是一个约定俗成的习语搭配, 这种情况不用考虑逻辑主语和实际主语的统一问题
+    * → **Strictly speaking**, the whale isn't a fish. 严格来说, 鲸鱼并不是鱼
+      * strictly speaking 严格来说
+    * → **Judging from** his face, he must be ill. 从他的脸上来判断,他肯定是病了
+    * → **To make a long story short**, he wanted money, and tried to get it without working.
+      * To make a long story short 一言以蔽之, 
+    * → The team has lost the last two games and, **to make matters worse**, two of its best players are injured.
+      * to make matters worse 更糟的是
+  * 由于 considering 这种用法用的太多, 直接当 介词来用了, 类似的还有
+    * **including** prep. 包括
+    * **excluding** prep. 不包括, 除去
+    * **conserning** prep. = about
+    * **regarding** prep. = about
+    * **respecting** prep. = about
+      * → China's foreign policy **<u>concerning</u>** / **<u>regarding</u>** / **<u>respecting</u>** Japan
+* **in more ways than one**  在不止一种方面，从多个方面来看  (习语搭配, 习语搭配不能自己编)
+  * → Known to millions, far and wide, for his book ‘A Brief History of Time', Stephen Hawking was a **star** scientist **in more ways than one.**
+    * known to millions, far and wide 闻名遐迩 (百万人知道, 远而且宽)
+* **‘empty nest' problem** 空巢问题
+  * **'empty nesters'** 空巢者
+  * **'empty nest' syndrome** 空巢综合症
+
+## L20 Pioneer pilots
+
+**## words**
+
+* **pioneer** /ˌpaɪəˈnɪr/ n. 先驱, 探索者, v. 开拓, 探索
+  * Young **Pioneers**  少先队 (中国) (每一个词开头大写表示会专有名词)
+  * → Henry Ford was a **pioneer** in the auto industry. 亨利福特是汽车工业的先驱
+    * indstry /ˈɪndəstri/ n. 工业
+  * → The Wright brothers **pioneered** in early aviation. 莱特兄弟在早期航空方面作出了开拓性的工作.
+    * aviation n. 航空, 航空业
+  * 同义表达
+    * **break new ground**  v.
+      * → Deng Xiaoping's reform programs **broke new ground** in China.
+    * **lead the way**  v. 
+      * → The company **led the way** in developing environment-friendly products.
+        * environment-friendly 环保
+* **lord** /lɔːrd/ n. 主人，领主，主宰, 对(英国)贵族(noble/aristocrat)的尊称, 勋爵
+  * 本意：lord最初是指中世纪欧洲的领主，也常被用来称呼贵族或有权势的人。在宗教语境中，lord常指上帝或耶稣基督。此外，它也可以表示某国的统治者或王室成员.
+  * → (NCE3-20 P90-L1) **Lord** Northcliffe (通常 lord 放在名字前面)
+  * → (NCE3-21 P106-L18) **Lord** Byron
+  * 爵位 (世袭)
+    * **duke** n. 公爵
+    * **marquis** n. 侯爵
+    * **earl**  n. 伯爵
+    * **viscount** n. 子爵
+    * **baron** n. 男爵
+  * **sir** n. 对爵士( knight )的尊称 (册封的)
+    * → (NCE3-14 P66-L9) **Sir** John Hawkwood
+  * The lord of the rings 指环王
+* **overland** /ˈoʊvərlænd/ adj. 陆上的; adv. 通过陆路
+  * an **overland** journey 陆上旅程
+    * **overland** adv. 通过陆路 = **by land**
+    * → We travelled **<u>overland</u>** / **<u>by land</u>** to Hangzhou. 
+  * **<u>by sea</u>** 通过海路
+  * **<u>by air</u>** 通过空中
+  * **by <u>bus</u> / <u>train</u> / <u>car</u> / <u>ship</u> / <u>boat</u> / <u>plane</u> etc.**
+  * **on foot** (注意不是 by foot)
+  * 除了用状语, 也可以用 动词 来表示去某地, 
+    * **drive (from ...) to ...**
+    * **fly (from ...) to ...**
+    * **sail (from ...) to ...**
+    * 通过某种交通工具
+      * **take a <u>bus</u> / <u>train</u> / <u>car</u> / <u>ship</u> / <u>boat</u> / <u>plane</u> etc.**
+
+**## text1**
+
+* → <u>In 1908</u> Lord Northcliffe <u>offered</u> a prize of £1,000 <u>to</u> the first man **who would fily across the English Channel.**
+
+  * 1908 在口语里读称 nighteen ou eight.
+
+  * **prize** n. 奖品, 奖金
+  * **offer sb. sth.** / **offer sth. to sb.** 
+    * sb. 和 sth. 里面, 短的放前面
+      * → ln 1908 Lord Northcliffe **offered** <u>a prize of £1,000</u> **to** <u>the tirst man who would fy across the English Channel.</u> (offer sth. to sb.)
+      * → (NCE3-44 P204-L24) An aeroplane **offers** <u>you</u> <u>an unusual and breathtaking view of the world.</u> (offer sb. sth.)
+      * → (NCE3-46 P212-L8) Shops cater for the do-it-yourself craze not only by running special advisory services for novices, but by **offering** <u>consumers</u> <u>bits and pieces which they can assemble at home.</u>
+  * **offer to do = volunteer to do** 主动提出要做某事
+    * → (NCE3-14 P66-L12) In times of peace, when business was bad, Hawkwood and his men would march into a Citystate and, after burning down a few farms, would **offer to go away** if protection money was paid to them.
+    * → (NCE3-21 P106-L12) He **offered to train Mendoza** and his young pupil was quick to learn.
+  * 一千英镑的奖金
+    * a £ 1,000 of prize (X)
+    * **a prize of** £ 1,000 (True)
+    * → (NCE3-19 P86-L10) **a ransam of** £ 1,000
+    * **a reward of** £ 1,000 
+    * **a debt of** £ 1,000
+    * **a fund of** £ 1,000
+    * **a scholarship of** £ 1,000 
+    * **an investment of** £ 1,000
+  * **fly across** the English channel 
+    * **动词 ＋ across + 宾语** :表示穿越某个地方
+    * **cross ＋ 宾语 ＋方式状语**: 表示用某种方式穿越
+      * → **cross** the English channel **by plane**
+
+* → Over a year passed **before** the first attempt was made. 过了一年多, 才有人尝试.
+
+  * 当主句的时间比预期的要长的时候, 用 before 翻译成 **'<u>才</u>'**
+    * → (NCE3-2 P18-L6) Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times **before** it stopped. 大钟敲了 13下才停
+  * 当主句的时间比预期的要短的时候, 用 before 翻译成 **'<u>就</u>'**
+    * I hadn't waited long **before** he came.
+  * before  有时候会翻译成 <u>**然后**</u>
+    * → I shaved **before** I went to the party.
+    * → (NCE4-9 P53-L11) Alfred stayed in the camp a week **before** he returned to Athelney.
+  * when 也可以这样翻译
+    * **<u>就</u>**
+      * → (NCE3-20 P9O-L5) He had travelled only seven miles across the Channel **when** his engine failed and he was forced to land on the sea.
+    * **<u>才</u>**
+      * → (NCE2-60 P284-L9) The plane had been planting seed for nearly a month **when** it began to rain.
+    * **<u>然后</u>**
+      * (NCE3-28 P134-L18) Shrugging my shoulders, I began to walk away **when**, a moment later, he ran after me and thrust the pen into my hands.
+
+**## text2**
+
 * 
 
-**## text 2**
+**## text3**
 
 * 
+
+# L20 Daniel Mendoza
