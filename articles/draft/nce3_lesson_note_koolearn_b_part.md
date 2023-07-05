@@ -2584,7 +2584,43 @@
 
 **## text2**
 
-* 
+* On July 19th, 1909
+  * 英文中 可以用 月/日/年 来描述, 具体某一天用 on
+* in the <u>**early**</u> / <u>**late**</u> + <u>morning</u> / <u>afternoon</u> / <u>evening</u>
+  * at **<u>dawn</u>** / **<u>the crack of dawn</u>** / **<u>daybreak</u>** / **<u>sunrise</u>** 天刚亮的时候
+    * dawn n. 黎明 v. 开始, 出现
+    * the crack of dawn 破晓
+      * crack 
+    * deybreak v. 黎明
+  * at **<u>dusk</u> / <u>sunset</u> / <u>sundown</u> / <u>twilight</u>**
+    * dusk n. 黄昏, 暮色
+    * twilight n. 黄昏, 暮光; 拂晓
+      * twi- 字根表示两个,  twilight 表示两道光, 可以表示拂晓或者黄昏
+* coast 海岸
+* take off 起飞, land 着陆
+  * → Flight No.714 **<u>took off</u>** / **<u>landed</u>** at 8:30 a.m.	
+  * take off sth. 脱衣服
+  * put on sth. 穿衣服
+    * → He **<u>took off/put on</u>** his coat
+  * **take .... off ...** 使 .... 脱离 ...
+    * → (NCE3-44 P204-L4) It is almost impossible to **<u>take</u>** your mind **<u>off</u>** the journey.
+    * → She was so pretty-I couldn't **<u>take</u>** my eyes **<u>off</u>** her.
+    * → "Have you seen James without his beard?” “I know-it **<u>takes</u>** years **<u>off</u>** him!” 年轻好几岁
+      * beard n. 胡须
+  * **take time off** 请假
+    * → Do you still live there? 'Oh yes, yes. My husband's there now. He couldn't **take time off** to come to New York with me.'
+    * → I have to **take time off *from* <u>work</u> / <u>school</u>** to go to the dentist.
+    * 请假加上时间
+      * **take a day off** 请一天的假
+      * **take the afternoon off** 请一个下午的假
+* **travel** v. 出行; 旅行 (不强调方式)
+  * → He has to **travel** 20 miles to work every day.
+* **fail** v. (fml. 正式书面语) (零部件) 失灵
+  * → The brakes **failed** and the car crashed into a tree.
+    * brake 刹车
+  * **break down** v. (交通工具, 大型机器) 抛锚, 停止工作
+    * → The <u>car</u> / <u>bus</u> / <u>train</u> / <u>washing machine</u> **broke down.**
+    * 
 
 **## text3**
 
