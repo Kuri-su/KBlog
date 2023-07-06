@@ -2596,8 +2596,8 @@
     * dusk n. 黄昏, 暮色
     * twilight n. 黄昏, 暮光; 拂晓
       * twi- 字根表示两个,  twilight 表示两道光, 可以表示拂晓或者黄昏
-* coast 海岸
-* take off 起飞, land 着陆
+* **coast** 海岸
+* **take off** 起飞, **land** 着陆
   * → Flight No.714 **<u>took off</u>** / **<u>landed</u>** at 8:30 a.m.	
   * take off sth. 脱衣服
   * put on sth. 穿衣服
@@ -2620,7 +2620,55 @@
     * brake 刹车
   * **break down** v. (交通工具, 大型机器) 抛锚, 停止工作
     * → The <u>car</u> / <u>bus</u> / <u>train</u> / <u>washing machine</u> **broke down.**
-    * 
+  * **malfunction** v. (fml. 正式书面语) 出故障
+    * → The satellite entered the orbit and quickly **malfunctioned**. 卫星进入了轨道, 但很快就出故障了
+  * **sth. goes wrong with ...** sth. 出故障了 (口语)
+    * → **Something's gone wrong with** my computer. 我的电脑有些问题
+* **be forced to do ** 被迫做某事 (多是由于客观的外部条件, 迫使...)
+  * → She **was forced to retire** early due to ill health. 
+  * → ... and he had to **make a <u>forced landing</u>.**
+  * 同义表达
+    * **<u>be</u>/ <u>feel</u> obliged to do** 由于责任或者道义上的原因, 觉得必须要做
+      * → (NCE3-1 P14-L4) However, as the evidence began to accumulate, experts from the Zoo **felt obliged to investigate**, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+    * **<u>be</u> / <u>feel</u> compelled to do** 迫于外界的压力, 不得不做某事
+      * → President Nixon **felt compelled to resign.**
+      * com- 众人, -pell- 推
+    * **<u>be</u> / <u>feel</u> impelled to do** 内心的动力, 迫使自己做某事
+      * → I **felt impelled to tell** her the truth.
+      * im- 内部, -pell- 推
+    * **<u>be</u> / <u>feel</u> bound to do** 由于法律/协议/条约, 必须做某事(就像被 bound 一样)
+      * → All the countries **are bound to submit** to the regulations.
+    * **It is necessary for ... to do**  这对......来说是必要的
+      * necessary adj. 必要的, 必须的
+    * **<u>must do</u> / <u>have to do</u>**
+* **pick up sb. / pick sb. up**  本意: 捡起
+  * 意思辨析: 
+    * 把某人接回来
+      * → "I’d really like to **pick up Grandpa** at the railroad station.” "Railroad stations or airports, Grandpa always tells us he'll get here by himself." "He's something!"
+        * He's something 这人挺了不起的
+        * He's nothing 这人一无是处
+    * 把被困的人搭救上来
+  * **pick up sth. / pick sth. up**
+    * 捡起
+      * → The phone rang and I **picked** it **up**.
+    * 幸运的买到了便宜货
+      * → (NCE3-34 P158-L12) He has often described to me how he **picked up** a masterpiece for a mere £50.
+        * **mere** adj. 仅仅的, 只是的
+        * masterpiece n. 杰作
+    * **pick up where we left off** 从中断的地方继续下去
+      * → After lunch shall we **pick up where we left off**?
+      * → Chandler: Wait! I just want you to know that ... I'm so happy you're going to be here.
+        * Janice: Oh, me too ..
+        * Chandler: Because ... that way ... we can **pick up where we left off.**
+        * Janice: Huh?
+        * Chandler: I never stopped loving you.
+* 救的同义表达
+  * **save / rescue** 救东西和救人
+    * → (NCE3-7 P38-L3) When you **rescued** your trousers, did you find the note was whiter than white?
+    * → (NCE3-12 P58-L15) When a passing tanker **rescued** them five days later, both men were genuinely sorry that they had to leave.
+  * **salvage** 救东西
+    * → He tried desperately to **salvage** belongings from the burning house.
+    * → (NCE3-32 P150-L1) The **salvage** operation had been a complete failure.
 
 **## text3**
 
