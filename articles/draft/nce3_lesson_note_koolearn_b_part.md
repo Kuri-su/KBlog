@@ -2672,6 +2672,93 @@
 
 **## text3**
 
+* Louis 路易
+  * 这是一个法文名字, 很多最后的 s 和 x 是不发音的
+    * lllinois 伊利诺伊州, 
+    * Calais 加莱
+    * Charles 查理 (法国名字的话)
+      * Charles 查理斯 (英国名字)
+    * Chamonix 夏蒙尼 (法文)
+  * Louis Bleriot
+    * French engineer and pioneer aviator(pilot).
+      * **aviator** 是比较都老的用法, 也表示飞行员, 通常被用来描述具有冒险精神和热爱飞行的人。
+    * After designing and building various types of experimental aircraft, he concentrated on developing the monoplane.
+      * monoplane 单翼飞机
+        * mono adj. 单一的, 单声道的, 来自希腊语"monos"，意为"单一的"或"独自的"
+    * On July 25, 1909, he flew from Calais, France, to Dover, England, in one of his monoplanes, becoming the first aviator to cross the English Channel in a heavier-than-air machine.
+    * During World War 1 Bleriot's factory produced about 10,000 airplanes for the armed forces of France and the other Allied powers.
+* model n. (车辆, 机器的) 型号 
+  * **the latest model**
+    * → My car is **the latest model**
+  * **the most popular model**
+* 在一周之前如果用 a week age 是表示从现在算起, 而对于任何时间点, 需要用 a week before 来表示一周之前
+* 表示飞行的名词
+  * **flight 空中的飞行**  (可数)
+    * **aviation** 航空 (不可数)
+      * <u>aviator</u> 飞行员
+  * **voyage** 海上的航行 (可数)
+    * **navigation ** 航海 (不可数)
+* 造句：早在20世纪30年代，红军就完成了伟大的长征，在这期间他们走过了25,000里。
+  * → As long ago as the 1930's, the Red Army had completed the successful Long March during which they covered 25,000 li.
+* **stick it out** 坚持下去
+  * → Latham, however, **stuck it out.**
+  * → *Rachel*: Oh God, I hate my job, I hate it, Ihate my job, l hate i. *Monica*: I know honey, I'm sorry. *Rachel*: Oh, Iwanna quit, but then | think I should **stick it out**.
+* **It <u>seems</u> / <u>looks</u> <u>as if</u> / <u>as though</u> ...** 看似, 好像 .... 
+  * 造句：看似他们之间将有一次激烈的争吵 (a heated argument).
+    * → **<u>It seemed</u> / <u>looked as if</u> / <u>as though</u>** there would be a heated argument between them.
+      * heat n. 热, 热度, 温度
+        * heated adj. 激烈的, 激动的, 
+      * argument n. 争论, 论点, 争吵
+* **promise to do** 
+  * 如果主语是人, 可以翻译成承诺做某事
+  * 如果主语是事物, 可以翻译成有可能会 怎么样
+    * → It **promised to be** an exciting race across the Channel. 这可能是一个有趣的竞赛, 关于竞速穿越英吉利海峡
+    * → It **promises to be** warm today. 今天可能是温暖的一天
+    * → Groundbreaking research by two French geophysicists **promises to** shed some light on the mystery.
+      * **groudbreaking** adj. 开创性的
+      * geo- 大地 (字根)
+      * geophysicists 地球物理学家
+      * shed v. 脱落, 流出
+* get up 起床
+* 动身出发
+  * **set <u>out</u> / *off***
+    * → (NCE3-10 P50-L9) Four days after **setting out,** while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.
+  * **start <u>out</u> / <u>off</u>**
+* last v. 持续, 延续 adj. 持久的; 最后的 adv. 最后地, 最终地
+  * His great flight <u>lasted</u> thirty-seven minutes. 
+* 第一个迎接他的人
+  * → **the first person to greet him** was a local policeman.
+  * → (NCE3-28 P134-L14) **The next man to approach me** was selling expensive pens and watches.
+* **attempt** v. 尝试, 视图
+* **within ... of ... ** 离 ... 不到 ... (习语搭配)
+  * → Latham made another attempt a week later and got **within** half a mile **of** Dover
+  * → I live **within** a mile **of** the city center. 我住在离市中心不到 1 英里的地方
+  * → The company is **within** a week **of** bankruptcy. 这个公司距离破产还不到一周的时间
+    * bankruptcy n. 破产
+      * bankrupt adj. 破产的
+* **for the second time** 第二次发生
+  * **at the second time** 在第二次发生时 ...
+  * **for the first time **第一次发生
+    * → (NCE2-43 P194-41)In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole **for the first time.**
+    * → "Is something still wrong. Robbie? “I'll be Ok.” “Going away to college **for the first time** always makes one a little nervous." " guess so. I'll be OK. I just need time to think."
+  * **at the first time** 在第一次发生时 .... 
+
+# L21 Daniel Mendoza
+
+第二单元的文章会比第一单元更长, 且更难
+
+**## words**
+
 * 
 
-# L20 Daniel Mendoza
+**## text1**
+
+* 
+
+**## text2**
+
+* 
+
+**## text3**
+
+* 
