@@ -2952,8 +2952,58 @@
 
 **## text2**
 
-* 
+* **colorful**: interesting, exciting, vivid , 五彩缤纷的, 引人注目的
+  * vivid adj. 生动的, 引人注目的
+* **figures** n. 数字, n. 一个模糊的人影 n. 重要, 著名人物
+  * **figure**: character, personality
+    * personality n. 个性, 性格; 名人, 
+      * → I just wanna be a person, not a personality.
+        * wanna : want to
+    * character n. 性格, 特征, 品质
+* → The use of gloves was <u>not</u> introduced <u>until</u> 1860, **when the Marquis of Queensberry drew up the first set of rules.**
+  * gloves n. 手套
+  * **introduce** v. 介绍; 引入, 开始推行, 开始采用
+    * → New safety measures will **be introduced** next month.
+    * 动词和名词的句式转换
+      * 欢迎使用我的笔记本电脑
+        * → You can **use** my laptop freely.
+        * → The **use** of my laptop is welcome.
+  * the **Marquis** of Queensberry  Queensberry 侯爵
+  * **draw up 起草**
+    * → I've **drawn up** a list of candidates that I'd like to interview.
+  * **... not ... until ..., when ....** 某个东西一直没有..., 直到那一年, 那一年发生了什么事之后才如何
+    * 造句：直到毛主席1949年宣布 (proclaim) 中华人民共和国成立（toundation)），中国人民才获得了 (achieve）解放 (iberation).
+      * claim v./n. 声称, 声明
+        * proclaim v. 重大宣布
+      * → The liberation of the Chinese people was **not** achieved **until** 1949, **when** Chairman Mao proclaimed the foundation of the People's Republic of China.
+* → **Though he was technically a prize-fighter.** Mendoza did much to <u>change</u> crude prize-fighting <u>into</u> a sport, **<u>for he brought science to the game.</u>**
+  * though 虽然
+  * the game 是 match 的替换, 也表示两边对垒的比赛
+  * **technically** 严格的说 
+  * **do <u>much</u> / <u>a lot</u> / <u>a great deal</u> to ..** 在某方面有重大贡献
+    * **do little to** ... 在某方面没什么用
+    * **do nothing to** ... 在某方面什么用也没有
+  * **change ... into ...** 把 A 变成 B
+    * **exchange ... for ...** 把 A 换成 B
+  * 通常把 重要信息放在主句中, 这里把 重要信息 放到了 Though 从句之后的主句中, 
+  * 造句：尽管严格地说只是一本书，但圣经在把这个粗鄙的世界变成一个文明世界方面却做出了很大贡献，因为它给人类带来了信仰 (faith).
+    * → Though it is technically a book, the Bible does much to change the crude world into a civilized one, for it brings faith to humanity.
+* **somebody's day** 在 某人的鼎盛时期
+  * → Every dog has **his day**. (谚语) 人人皆有得意之时
+  * → Don't be disappointed: **your day** will come.
+* **enjoy tremendous popularity** 享有盛誉 (享有巨大的名望 )
+  * → Jay Chou **enjoys tremendous popularity** among the young.
+* the rich , the poor 形容词前面加定冠词 the , 表示一类人
+  * 但如果将两类人并称, 则直接说 rich and poor 表示穷人和富人
+    * young and old 年轻人和老年人
+  * **the** rich and powerful 有钱有势的人
+* **alike** : in the same way, 一样地
+  * → The climate here is always hot, summer and winter **alike**. 这里的气候总是这么热, 夏天冬天都一样
+    * climate n. 气候
 
 **## text3**
 
 * 
+
+## L22 By heart
+
