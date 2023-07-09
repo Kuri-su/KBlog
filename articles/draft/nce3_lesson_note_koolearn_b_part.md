@@ -2749,11 +2749,206 @@
 
 **## words**
 
-* 
+* **bare** /beə(r)/ adj. 赤裸的
+  * 形容人: 
+    * bare 通常可以和别的词组合
+      * **bare-headed**  没有戴帽子的
+        * head+ ed 表示形容词, adj.
+          * 前往某处的, 朝着某个方向的, 有头的, 准备好的
+        * 
+      * **bare-chested** 袒胸露怀的
+        * chested adj. 胸部的, 
+      * **bare-legged** 光着腿的, 没穿裤子的
+      * **bare-assed** 光着屁股的(一丝不挂)
+  *  形容事物
+    * **bare** floor 没有铺地毯的地板
+    * **bare** mountains 荒山, 没有植被覆盖
+    * **with one's bare hands** 没有拿武器, 赤手空拳的
+      * → Wu Song killed the tiger **with his bare hands.**
+  * 同义词
+    * **naked**  adj. 裸体的, 赤裸裸的, 无遮盖的
+      * 通常不指事物, 只指人
+      * → He was **naked** to the waist. 他赤裸上半身
+        * waist n. 腰部
+      * the **naked** eye 裸眼
+    * **nude** /nuːd/ adj. 全裸的, 
+      * → She once posed **nude** for a magazine.
+* **technically** /ˈtɛknɪkli/ adv. 技术上; 严格地说(按照字面的意思来解释)
+  * a **technically** brilliant pianist 水平上 出色的钢琴家
+    * **brilliant** adj. 出色的, 卓越的
+  * → It is **technically** possible to produce a human being by cloning. 通过克隆技术创造一个新的人在技术上是可能的.
+    * technically possible 技术上是可能的
+  * **technically (speaking)** 严格的说
+    * **strictly speaking** 严格的说
+      * strictly adv. 严格地
+    * → **Technically (speaking)**, the whale isn't a fish
+    * → **Strictly speaking**, the spider isn't an insect.
+      * the spider 和 spiders 都可以表示蜘蛛这个类别
+* **popularity** /ˌpɒpjʊˈlærɪti/ n. 流行, 普及; 名望
+  * → the increasing **popularity** of organic food 有机食品逐渐的盛行
+  * → The president's **popularity** has declined considerably.  总统的名望已经大幅度下降
+    * **considerably** adv. 相当地, 非常地, 大幅度地
+    * **decline** v. 下降, 减少, 衰退; 谢绝, 拒绝
+  * **be popular <u>with</u> / <u>among</u> ... ** 在某个人群中很流行
+    * → "She was in love with Donald McGrath, the quarterback on our football team." “Football players **are** always **popular with** the ladies.
+      * football 橄榄球(美)
+      * soccer 足球 (美)
+  * 同义词
+    * 名词
+      * 褒义
+        * **fame** n. 名声 (褒义)
+          * famous adj. 著名的, 闻名的
+          * → All he thinks about is **fame and gain.** 他想的全是名和利.
+        * **renown** n. 声誉, 名望(褒义)
+        * **celebrity** n. 名人, 名流(褒义)
+      * 中性
+        * **name** n. 名声 (中性词)
+        * **reputation** n. 名声 (中性词)
+          * → The restaurant has a very <u>good</u>/<u>bad</u> **<u>name</u>**/**<u>reputation</u>**.
+    * 形容词
+      * 著名的, 
+        * **famous** adj. 著名的
+        * **well-known** adj. 众所周知的
+        * **renowned** adj. 有声望的, 闻名的 
+        * **noted** adj. 著名的, 有名的
+        * **notable** adj. 显著的, 引人注目的
+          * → (NCE3-14 P66-L16) 'the most valiant soldier and most **notable** leader, Signor Giovanni Haukodue'
+        * **legendary** adj. 传奇的, 
+          * → (NCE3-31 P146-L9) He was known to us all as Dickie and his eccentricity had become **legendary** long before he died.
+      * 大名鼎鼎的
+        * **celebrated** adj. 著名的, 庆祝的
+        * **eminent** adj. 卓越的, 杰出的
+          * → (NCE3-21 P106-L12) the most **eminent** boxer in England
+      * 臭名昭著的
+        * **infamous** adj. 臭名昭著的, 声名狼藉的
+          * in- 表否定的字头
+        * **notorious** adj. 臭名远扬的, 声名狼藉的
+
+* **adore** /əˈdɔː(r)/ v. 非常喜欢, 爱慕; 崇拜
+  * → She **adores** her only son.
+  * → I absolutely **adore** chocolate. 
+    * (纯巧克力是不可数名词)
+  * 同义词
+    * **like** v. 喜欢; 与...相似 n. 喜好, prep. 像 ... 一样 , 连词: 补充或解释
+    * **love** v. 喜爱, 热爱
+    * **care for** v. 喜欢
+      * care about v. 关心, 关注, 在乎
+    * **fancy** v. 喜欢, 钟爱, 迷恋 n. 爱好, adj. 时髦的, 迷人的, 漂亮的
+      * → (NCE3-23 P114-L19) I did not **fancy** the idea and I reluctantly followed Robert out of the room.
+    * **be the apple of one's eye** 某人的掌上明珠 (习语搭配)
+      * → His youngest daughter **is the apple of his eye.**
+      * → Oh look who it is, my husband, **the apple of my eye.**
+    * **fall in love with sb.** 爱上了某人 (习语搭配)
+    * **lose one's heart to sb.** 爱上了某人 (习语搭配)
+    * **be <u>mad</u>/<u>crazy</u> about sb.** 疯狂的爱上了某人
+      * be mad/crazy at sb. 对某人发脾气 
+    * **The way to a man's heart is through his stomach.** 要留住一个男人的心, 要先抓住他的胃 (谚语)
+    * **carry a torch for sb.** 单相思
+    * **have a crush on sb.** 单相思
+      * → "Monica **had such a crush on him**. Yeah, she used to kiss his poster every night before she went to bed." “Oh! I used to do that too!"
+* **bet** /bet/ v. 打赌 (赌博性质)
+  * **bet ... on ...** 在某人或某物身上压了多少钱
+    * → He **bet** all his money **on** the black horse.
+      * dark horse 黑马(出其不意的好选手)
+      * black horse 黑色的马
+  * **I bet = I am certain ** 我打赌 = 我敢肯定
+    * **certain** adj. 确定无疑的
+    * 听力题
+      * M: I've just been over to my friend Tom's new apartment. It's much bigger than my place. 
+      * W: But more expensive **I bet.**
+      * Q: What does the woman mean?
+      * A: Tom's apartment probably costs more than the man's.
+  * **You bet = certainly** 你打赌 = 肯定地, 毋庸置疑地
+    * certainly adv. 肯定地, 毋庸置疑地
+    * → '*From 走遍美国*':  "Pete Waters, RFD Number 1, Chesterton. You know him""Do I know Pete Waters? **You bet** I do! He was my roommate in college."
+      * RFD (Rural Free Delivery)：农村免费投递。它指的是美国在1896年推出的一项服务，旨在为农村地区提供免费的邮政投递服务.
+      * Chesterton 地名
+    * 听力题
+      * W: Are you still planning to go to the concert?
+      * M: **You bet** l am.
+      * Q: What does the man say about the concert?
+      * A: (D) He's eager to go. 
+        * eager adj. 渴望, 热切, 急切
+* **academy** /əˈkædəmi/ n. 专科学院, 学院 (军校, 电影学院, etc.)
+  * → West Point is a famous military **academy**.
+    * military adj. 军队的, 军事的
+  * **Academy** Award (Oscar) 奥斯卡奖 (学院奖)
+  * **academic** adj. 学院的, 学术的
+    * **academic** year 学年
+    * **academic** research 学术研究
 
 **## text1**
 
-* 
+* 表示比赛的单词
+  * **match** 通常指 双方正面对垒, 正面交锋的比赛, 
+    * a <u>boxing</u> / <u>basketball</u> / <u>football</u> / <u>volleyball</u> **match**
+      * volleyball n. 排球
+  * **race** 速度比赛
+    * a <u>car</u> / <u>boat</u> / <u>horse</u> / <u>swimming</u> race
+  * **contest** 泛指各种各样的比赛, 也可以专指 裁判打分, 最后得分高的比赛
+    * a <u>speech</u> / <u>beauty</u> / <u>dance</u> contest
+      * speech n. 演讲
+      * beauty n. 选美 
+* **<u>in</u> those days** 在当初, 想当年, (强调和现在不一样了)
+  * → (NCE2-80 P370-L9) Though **<u>in</u> those days**, traveling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.
+  * → (NCE4-9 P53-L1) **In those days** wandering minstrels were welcome everywhere.
+  * **these days/nowadays/today** 现如今, 在当今
+    * → (NCE3-4 P26-L1) **These days**, people who do manual work often receive far more money than people who work in offices.
+* **with bare fists** 赤裸的拳头, 强调没戴手套
+  * **with naked fists** 赤裸的拳头, 强调没戴手套
+    * fists n. 拳头
+  * **with one's bare hands** 赤手空拳, 强调没带武器
+* 表示因为的词
+  * conj.
+    * **because** ...
+    * **since** ...
+      * → He has been feeling tired **since** he started working two jobs.
+    * **as** ...
+      * → He couldn't finish the project on time **as** he encountered some technical difficulties.
+    * , **for** ...
+    * **in that** ... (fmt.) 不能放在句首
+      * → He couldn't come to the event **in that** he was out of town.
+    * **now(that)** ... 同时强调时间和原因 , 既可以翻译成因为, 也能翻译成 现在
+      * → Now that he has retired, he can spend more time with his family and pursue his hobbies.
+      * → (NCE3-8 P42-L7) **Now that** a tunnel has been built through the mountains, the Pass is less dangerous, ......
+  * prep. (后面加 名词/代词)
+    * **because of ...** 
+    * **by reason of ...**
+      * → The event was canceled **by reason of** the inclement weather.
+    * **due to ...**
+      * → The project was delayed **due to** technical difficulties.
+    * **owing to ...**
+      * → The match was canceled **owing to** heavy rain.
+    * **thanks to ... ** 
+      * → **Thanks to** the invention of the internet, communication has become much faster and easier.
+    * **o<u>n a</u>ccou<u>nt o</u>f ...** 读的时候, account 中的 t 会被省略, 然后 n 和 of 连读
+      * → On account of the heavy rain, the outdoor event was canceled.
+      * 听力题: 
+        * M: Do you think professor Smith will cancel class **on account of** the special conference? (conference n. 会议)
+        * W: Not likely.
+        * Q: What does the woman mean?
+        * Answer: (B) She doubts class will be canceled.
+          * doubt v. 怀疑
+* 把 A 称为 B 的表达
+  * **know A as B**   把 A 称为是 B
+    * → (NCE3-14 P66-L10) He soon made a name for himself and came to **be known** to the ltalians **as** Giovanni Acuto.
+  * **refer to A as B** 把 A 称为是 B
+    * → (NCE3-4 P26-L2) People who work in offices **are** frequently **referred to as** white-collar workers’ for the simple reason that they usually wear a collar and tie to go to work.
+  * **call A B** 把 A 称为是 B
+    * → (NCE3-4 P26-L15) From now on, he will wear a suit all day and others will **<u>call him 'Mr. Bloggs', not 'Alf'.</u>** 
+  * **address A as B** 把 A 称为是 B
+    * → They **address** John **as** the team leader because of his experience and leadership skills.
+* → <u>However</u>, boxing was very crude, **for there were no rules <u>and</u> a prize-fighter could be <u>seriously injured</u> or <u>even killed</u> during a match.**
+  * However 然而
+  * **crude** adj. 粗野的, 原始的, 简单的
+  * seriously adv. 认真地, 严重地, 重要地
+  * even 甚至
+  * 上文中的 be 被后面的两个并列句共用
+  * 遭受重伤的其他表达
+    * suffer v. 遭受 痛苦, 忍受, 经历
+      * → ... a prizefighter could <u>**suffer** a serious injury</u> or even **be** killed during a match. (改写)
+        * serious adj. 严重的, 认真的
+        * injury n. 伤害, 损害, 受伤
 
 **## text2**
 
