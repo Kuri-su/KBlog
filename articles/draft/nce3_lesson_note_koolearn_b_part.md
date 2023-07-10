@@ -3003,6 +3003,124 @@
 
 **## text3**
 
+* 表示成名的表达
+
+  * **rise to fame**  首次出名
+
+    * → She first **rose to fame** as a singer at the age of 16.  (动词短语)
+
+    * → (NCE3-45 P208-L18) The **rise to fame** was swift. (名词短语)
+      * swift adj. 快速的, 敏捷的, 迅猛的 
+
+  * **make a name for oneself** 成名 (不能翻译成 给自己做了个名字)
+
+    * → (NCE3-14 P66-L10) He soon **made a name for himself** and came to be known to the ltalians as Giovanni Acuto.
+
+  * **become famous overnight** 一夜成名 (突出迅速)
+
+    * → With the success of their first record, they **became famous overnight.**
+      * record n. 唱片
+
+* 吸引了某人的注意力的表达
+
+  * **<u>attract</u> / <u>draw</u> / <u>catch</u> / <u>capture</u> / <u>arrest</u>** + <u>one's attention</u> / <u>the attention of sb.</u>
+    * attract v. 吸引
+    * draw v. 画; 拉, 拖动; 吸引 n. 平局
+    * capture v. 捕获, 抓住; 拍摄 n. 捕获
+    * arrest v. 逮捕, 阻止, 吸引 n. 逮捕, 拘留, 停止
+
+* **offer to do** 主动提出做某事
+
+  * → (NCE3-14 P66-L12) In times of peace, when business was bad, Hawkwood and his men would march into a citystate and, after burning down a few farms, would **offer to go away** if protection money was paid to them.
+
+* **pupil** : **apprentice** 
+
+  * <u>pupil</u> n. 学童(学文化) ; 门徒(学技术)
+  * <u>apprentice</u> n. 学徒; 新手, 初学者
+
+* learn v. 获取知识 ; 学会了知识
+
+* so .... that ... 如此以至于
+
+* **turn (sb.) against (sb.)**  反目成仇 (主语和 against 后面的人反目成仇)
+
+  * turn (sb.) against (sb.) 使某人与某人反目成仇
+  * → The wicked woman is trying to **turn** the boy **against** his father.
+    * **wicked** adj. 邪恶的, 恶毒的
+  * **jealous** adj. 嫉妒的, 妒忌的 (贬义)
+    * → ... soon became **so** successful **that** Humphries became <u>jealous</u> of him.
+    * → ... soon became **so** successful **as to** arouse Humphries' jealousy.
+      * so ... as to 如此以至于
+      * arouse v. 唤起, 激起, 引起
+      * jealousy n. 嫉妒, 妒忌
+    * → Humphries soon became  jealous of Mendoza’s success.
+  * disinterested adj. 不偏不倚的
+    * uninterested adj. 不感兴趣的
+
+* 争吵
+
+  * argue  v. 争论
+    * argument n. 争论, 争吵
+  * quarrel v. 争吵, 吵架
+
+* **bitterly** adv. 痛苦地, 苦涩地
+
+* **It <u>is</u> / <u>was</u>** <u>clear</u> / <u>obvious</u> / <u>apparent</u> **that ...** 显然
+
+  * → (NCE3-16 P74-L5) The rope had been cut, so **it** **was** <u>obvious</u> **that** the lamb had been stolen.
+
+* **hold** v. 握住;保持;<u>举行</u>; 拥有; 承载 n. 握住; 控制; 停滞, 保持稳定的状态
+
+* **形式上的 定语从句** (相比并列句会简洁)
+
+  * → A match was held at Stilton, <u>**where** both men fought for an hour.</u> (where 这个词一边引导定语从句, 一边在定语从句里面充当地点状语)
+  * → (并列句形式) A match was held at Stilton, **<u>and</u> both men fought for an hour <u>there</u>.** 
+
+* 某人被打败的表达
+
+  * ..., but **he was defeated.**
+  * ..., but **he was beaten.**
+    * **beat** v. 打败,拍打, 搅拌 adj.  被打败的, 疲惫不堪的, 打碎的 n. 节奏, 心跳, 敲打声
+  * ..., but **he failed.**
+  * ..., but **he lost.**
+    * lost: lose
+  * 注意替换的例子
+    * → The public bet a great deal of money on Mendoza, but **<u>he was defeated</u>** . Mendoza met Humphries in the ring on a later occasion and **<u>he lost</u>** for a second time. It was not until his third match in 1790 that **<u>he finally beat Humphries</u>** and became Champion of England.
+  * We finally **won** that team. (X)
+    * won 后面不能接对方的队伍或者队员, won 应该翻译成 赢得了.
+    * We finally **beat** that team. (T)
+    * We finally **defeated** that team. (T)
+    * We finally **won** the game. (T)
+    * We finally **won** the prize.  (T)
+
+* in the ring
+
+  * ring: boxing ring 拳击台
+
+* **<u>on</u>/<u>upon</u>** the **occasion** of this daughter's wedding. 在这种场合上
+
+* for a second time 又一次
+
+  * for the second time 第二次
+  * for **<u>a second</u>** time = for <u>**another**</u> time
+    * **for a third time** 又一次
+  * → (NCE3-30 P142-L12) Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, **<u>a third</u>** brother who was supposed to have died as a young man.
+    * a third brother 这里是又一个兄弟 的意思
+
+* → **<u>It was</u> not until his third match in 1790 <u>that</u>** he finally beat Humphries and became Champion of England .
+
+  * 冠军: 
+    * **champion** 
+    * **champagne** 香槟
+  * **it was not until ... that ... and ...**  强调句, 某个事件在那年, 在那年发生了 这个事和那个事
+    * 造句：直到1949年中华人民共和国成立中国人民才最终获得了解放并且成了国家的主人 (master).
+      * own 表示拥有财产, 拥有权利用 master
+      * → **It was not until** the foundation of the People's Republic of China in 1949 **that** the Chinese people were finally liberated **and** became masters of the country.
+    * → (NCE4-30 P177-L4) Sir James Clark Ross had obtained a sounding of over 2,400 fathoms in 1839, but **<u>it was not until</u>** 1869, **<u>when</u>** H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises, **<u>that</u>** a series of deep soundings was obtained in the Atlantic **<u>and</u>** the first samples were collected by dredging the bottom.
+      * **it was not until .., when ..., that .. and ...** 用 until 加年代, 然后用 when 加那年发生的事情, 接着 that 说那年之后发生了什么 and 什么
+        * 造句：直到1949年毛主席宣布中华人民共和国成立，中国人民才最终获得了解放并且成了国家的主人。
+          * → **It was not until** 1949, **when** Chairman Mao proclaimed the foundation of the People's Republic of China, **that** the Chinese people were finally liberated **and** became masters of the country.
+
 * 
 
 ## L22 By heart
