@@ -3121,7 +3121,83 @@
         * 造句：直到1949年毛主席宣布中华人民共和国成立，中国人民才最终获得了解放并且成了国家的主人。
           * → **It was not until** 1949, **when** Chairman Mao proclaimed the foundation of the People's Republic of China, **that** the Chinese people were finally liberated **and** became masters of the country.
 
-* 
+* **meanwhile** adv.  与此同时
+
+  * **at the same time**
+  * **(in the) meantime** 
+    * meantime adv./n.
+
+* **higtly successful** 非常成功
+
+  * → (NCE3-22 P110-L6) a **highly successful** play 一个非常成功的戏剧
+
+* academy n. 学院
+
+* **earn enormous sums of money** 赚了非常多的钱
+
+  * enormous adj. 极大的, 巨大的
+
+* despite prep. 尽管
+
+* extravagant adj. 奢华的, 铺张浪费的
+
+* → ...,he was so extravagant that **he always <u>owed people money</u>.**
+
+  * **owe** v. 欠债, 拖欠
+    * → I **owe** you . 谢谢你(熟人之间)
+    * → How much do I **owe** you? 我应该给你多少钱? 
+      * → "How much do I **owe** you?” "Wvell, thatil be 18 dollars and 70 cents. <u>No charge</u> for the cleanup. <u>It's on the house.</u>
+        * No charge 免费 , 不收费
+          * charge v. 收费,控告, 充电, 冲向, 负责,  n. 责任, 控诉, 指控
+        * It's on the house 免费提供, 不收费
+
+* **send sb. to prison / put sb. in prison** 把某人送进监狱
+
+  * **prison**  n. 监狱
+  * **<u>jail</u>(美)/<u>gaol(英)</u> sb.** 把某人送进监狱
+    * jail n. 监狱 v. 使入狱
+  * **lock up sb.** 把某人送进监狱
+  * **imprison sb.** 使某人入狱
+  * **incarcerate sb.** 
+    * incarcerate v. 监禁, 关押
+  * 被动: 
+    * **be sent to prison**
+    * **be <u>jiailed</u> / <u>gaoled</u>**
+    * **be put in prison** 
+    * **be locked up**
+    * **be imprisoned** 
+    * **be incarcerated**
+
+* in + 名词 表示 处于某种状态
+
+* **poverty** n. 贫穷, 贫困
+
+  * poor adj
+
+* 本文体裁: **传记(biography)**
+
+  * A biography is defined as a written account of the series of events that make up a person's life.
+  * 要素
+    1. **Date and place of birth and death** (and Family information)
+    2. **Lifetime accomplishments**
+    3. **Major events of life**
+    4. **<u>Effects</u> / <u>impact</u> on society, historical significance**
 
 ## L22 By heart
+
+**## words**
+
+* 
+
+**## text1**
+
+* 
+
+**## text2**
+
+* 
+
+**## text3**
+
+* 
 
