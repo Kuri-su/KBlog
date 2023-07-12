@@ -3187,11 +3187,115 @@
 
 **## words**
 
-* 
+* **lines** /laɪnz/ n. (演员的) 台词
+  * **part** n. 台词; 剧中的某个角色
+  * **role** n. 角色
+    * → He **plays the <u>role</u> / <u>part</u> of** Hamlet.
+    * **leading role** 主角
+    * **supporting role** 配角
+    * **<u>hero</u>/<u>leading</u> man** 男主角
+    * **<u>heroine</u>/ <u>leading</u> lady** 女主角
+    * **cast** n. 全体演员
+      * an all-star **cast**
+
+* **cast** /kæst/ v. 选派 ... 扮演角色
+  * 某人扮演某个角色, 如果用 cast 或者 role 的话, 一般用被动
+    * **be cast <u>as</u> / <u>in the role of ...</u>** 
+      * → He **was cast <u>as</u> / <u>in the role of</u>** Othello.
+
+  * 如果如下几个词, 则用主动
+    * **<u>play</u> / <u>perform</u> / <u>act</u> (the <u>role</u> / <u>part</u> of) ...** 
+      * → He **<u>play</u> / <u>perform</u> / <u>act</u> (the <u>role</u> / <u>part</u> of) ...**  Othello
+      * → He **<u>play</u>/<u>perform</u>/<u>act</u> the <u>role</u>/<u>part</u> of ...**  Othello 
+
+  * 表达 主演
+    * **play the lead in ...**
+      * → Bruce Willis **played the lead in** 'The Sixth Sense'.
+
+    * **star** n. 明星, v. 主演
+      * 人 + star in + 电影的名字
+        * → Harrison Ford **starred in** 'Air Force One'.
+
+      * 电影的名字 + star + 人 , 表示由某人来主演
+        * → ‘Air Force One' **starred** Harrison Ford.
+
+* **reveal** /rɪˈviːl/ v. 使显露; 揭示
+  * → Her laugh **revealed** her even teeth.
+    * **even** adj. 形容词 adv. 甚至, 即使
+
+  * **reveal sth. to sb.** 把某事透露给某人
+    * → The doctor did not **reveal** the truth **to** the patient.
+
+  * 反义词
+    * **conceal sth. from sb.** 向某人隐瞒了某事
+      * → The doctor **concealed** the truth **from** the patient.
+
+  * **expose** v. 使暴露(暴露出来可能有危险)
+    * → The soldiers were warned not to **expose** themselves. 士兵们被警告不要暴露他们自己
+
+* **squint** /skwɪnt/ v. 眯眼看 (近视, 或者 光线太昏暗) n. 眯眼看; 斜视
+  * **squint at ...** 迷起眼睛看....
+  * **squint one's eyes** 迷起某人的眼睛
+  * **peer at ...** 吃力的看, 费力的看 (一般主动想去看 sb./sth. , 一般是不及物后面的介词都用 at, 如果是看到, 一般都是及物的)
+  * **<u>peep</u> / <u>peek</u> at ...** 偷窥
+  * **leer at ...** 色迷迷的看
+    * → He was always **leering at** female members of staff.
+      * be always doing sth.  令人烦的老是做某事
+
+  * **glance at ... ** 匆匆的看, 扫一眼
+  * **glimpse ...** 无意中一眼瞥见
+  * **gaze at ... ** 充满了兴趣的看, 欣赏
+  * **stare at ...** 瞪大眼睛凝视
+  * **gape at ... ** 张着嘴看傻了
+  * **glare at ...** 怒目而视
+
+
+* **sire** /saɪə(r)/ n. 陛下 (王室成员的尊称)
+  * **Your Majesty** 陛下(面对王室成员时, 尊称陛下)
+    * majesty n. 威严, 庄重, 陛下 (尤指君主)
+  * **<u>His</u> / <u>Her</u> Majesty** 跟别人聊天, 或者写文章写到了 陛下
+  * **My Lord** 贵族; 大主教; 法官大人阁下 的尊称
+  * **Your Excellency** 高级别政府官员, 对方派驻本地的大使
+    * excellency 阁下（尤指高级官员或外交官的尊称）
+  * **<u>His</u>/<u>Her</u> Excellency**
+* **proceed** /prə'sid/ v. 继续
+  * **proceed with ...** 继续做同一件事
+  * **proceed to do ...** 继续做下一件事
+  * **go on with ...** 继续做同一件事
+  * **go on to do ...** 继续做下一件事
+  * **go on doing ...** 持续性的做某事,类似于 keep doing
+  * **continue to do ...** 继续做同一件事
+  * **continue doing ...**  继续做同一件事
+  * **carry on with ...** 继续做同一件事
+  * **carry on doing ...** 继续做同一件事
 
 **## text1**
 
-* 
+* **<u>learn</u> / <u>know</u> sth. by heart** 熟读某事, 把某些东西背下来, 把某事记住 (习语搭配)
+  * **<u>bear</u>/<u>keep</u> sth. in mind** 把某事记住
+  * **make a mental note** 把某事记住
+    * mental adj. 脑力的, 心理的, 思想的
+
+  * **<u>remember</u> / <u>recall</u> / <u>recoolect</u> sth.** 回忆起, 记起某事
+  * **remind sb. of sth.** 使某人回忆起某事
+  * **bring back memories** 使人回忆起往事
+    * → Richard, these are <u>terrific</u> pictures. This one really **brings back memories.**
+      * **terrific** adj. 非常好的, 极好的, 了不起的
+
+  * **in retrospect** 回首往事
+    * → **In retrospect**, I think my marriage was doomed from the beginning. 
+      * be doomed 注定要失败, 注定要遭厄运
+        * doom n. 厄运, 劫数, 默认
+          * doomful adj. 厄运的
+
+  * **... to remember** 难忘的 某事
+    * a day **to remember**
+    * a night **to remember**
+    * → Gandalf, my old friend .. . this will be **a night to remember.** 
+
+  * **ring a bell** 有印象, 好像在哪听过
+    * bell n. 铃铛
+
 
 **## text2**
 
@@ -3200,4 +3304,6 @@
 **## text3**
 
 * 
+
+## L23 One man's meat is another man's poison
 
