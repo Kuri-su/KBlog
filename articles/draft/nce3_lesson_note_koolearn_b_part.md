@@ -3272,6 +3272,7 @@
 **## text1**
 
 * **<u>learn</u> / <u>know</u> sth. by heart** 熟读某事, 把某些东西背下来, 把某事记住 (习语搭配)
+  * 与记忆有关的搭配
   * **<u>bear</u>/<u>keep</u> sth. in mind** 把某事记住
   * **make a mental note** 把某事记住
     * mental adj. 脑力的, 心理的, 思想的
@@ -3295,11 +3296,90 @@
 
   * **ring a bell** 有印象, 好像在哪听过
     * bell n. 铃铛
+    * 听力题
+      * That name just doesn't **ring a bell** with me.
+      * Answer: (B) I don't recognize that name.
+
+  * **have a short memory** 说某人记性差
+    * 听力题
+      * M: Why did you come to the meeting late? Ileft a message with your roommate about the time change.
+      * W: She **has a very short memory** and it really **gets on my nerve** sometimes.
+        * gets on my nerve 让某人生气
+
+      * Q: What does the woman imply?
+      * Answer: (C) Her roommate is <u>unreliable</u> about <u>delivering</u> messages.
+        * unreliable adj. 不可靠的, 靠不住的
+        * delivery v. 交付, 传递
+
+* **run** v. (戏剧，电影等) 连演，连映
+  * → The movie has been **running** for 2 months.
+  * → The movie has ended its **run** .
+  * **on end** adv. 连续地, 不间断地
+  * **in a row** adv. 连续地, 一连串地, 成一排地
+  * **successively** adv. 接连地, 相继地
+    * **successive** adj. 连续的
+
+  * 听力题: 
+    * W: Did Linda ever finish that introductory chapter?  
+      * ever 在疑问句中加强语气,  表示到底
+      * **introductory** adj. 作为引言或开端的，初级的
+
+    * M: I'm not sure. She's spent hours **on end** rewriting it.
+    * Q: What does the man imply about Linda?
+    * Answer: (C) She worked on the chapter for quite a while.
+      * quite a while 相当长的一段时间
+        * while prep./conj. 在...期间, 当...的时候
+
+  * 听力题2
+    * M: lt's raining again .
+    * W: This <u>makes it</u> four days **in a row.** Do you think it'll <u>ever</u> stop?
+      * make it 构成了
+
+    * Q: What does the woman mean?
+    * Answer: (A) She wishes the rain would stop soon. 
+
+* → <u>In many ways,</u> this is unfortunate for the poor actors **who are required to go on repeating the same lines <u>night after night</u>.**
+  * **in many ways** 在许多方面
+    * **in many respects** 
+      * respect n. 方面, 方向, 尊重 v. 尊重
+    * **in many aspects**
+      * aspect n. 方面, 部分, 方位
+    * **in more ways than one** 在不止一个方面
+      * → (NCE3-19 P86-L17) Considering the amount she paid, he was dear **in more wavs than one.**
+  * **be required sb. to do** 被要求做某事 (口气较为强烈, 命令式)
+    * **request sb. to do ** 亲求某人做某事 (口气比较客气)
+      * → You**'re required** not **to** smoke here.
+      * → You**'re requested** not **to** smoke here.
+  * **go on doing** 不停的做某事
+    * **keep (on) doing** 
+    * **go on to do** 接着做下一件事
+  * **night after night** 夜复一夜的
+    * **night by night** 夜复一夜的
+    * **one night after another** 夜复一夜的
+* one 也可以代指 人们
+* would 可以表示推测的语气
+* **known/learn sth. by heart** 把某事记住
+  * **learn sth.** 单独用也有背下来的意思
+
+* **falter** v. 蹒跚, 犹豫, 支支吾吾; 减弱, 变得无力(指力量,信心)
+* **cause** n. 理由, 借口, 原因, 目标
+  * → (CE3-2 P18-L1) Our vicar is always raising money for one **cause** or another, ...
+
+* → Yet this is not always <u>the case</u>. 然而这并不总是实情.
+  * **yet** 然而
+  * **the case**: a true situation 实情
+  * **→ This is not always the case.** 这并不总是实情.
+  * **→ This is indeed the case.** 这的确是实情
+  * **→ This is not the case at all.** 这根本就不是实情
+  * **→ This might not be the case.** 这可能不是实情
+  * **→ This is not necessarily the case.**  这不一定是实情喔
 
 
 **## text2**
 
-* 
+* → A famous actor in a highly successful play <u>was</u> once <u>cast in the role of</u> an aristocrat **who had been imprisoned in the Bastille for 20 years.**
+  * 
+
 
 **## text3**
 
