@@ -3377,13 +3377,153 @@
 
 **## text2**
 
-* → A famous actor in a highly successful play <u>was</u> once <u>cast in the role of</u> an aristocrat **who had been imprisoned in the Bastille for 20 years.**
-  * 
+* → A famous actor in a highly successful play <u>was</u> once <u>cast in the role of</u> an aristocrat **who had been imprisoned in the Bastille <u>for 20 years.</u>**
+  * **highly successful** 非常成功
+    * → (NCE3-21 P106-L18) a **highly successful** Academy
+
+  * <u>**was**</u> once <u>**cast in the role of**</u> an aristocrat
+    * 也可以替换成 
+      * ... **was** once **cast as** an aristocrat
+
+    * 这里 once 表示曾经
+    * ... once **<u>performed</u>** / **<u>plaved</u>** / **<u>acted</u>** **(the <u>role</u> / <u>part</u> of)** an aristocrat
+
+  * **been imprisoned** 被关起来
+    * imprison /ɪmˈprɪzən/ v. 拘禁, 关押
+    * 同义表达 
+      * had been <u>jailed</u> / <u>gaoled</u>
+      * had been incarcerated
+      * had been locked up
+      * had been sent to prison (语法词法上正确, 但是不太适合放在本文中, 因为本文中有 for 20 years)
+      * had been put in prison (语法词法上正确, 但是不太适合放在本文中)
+
+* → <u>In the last act</u>, a gaoler would always come on to the stage **with a letter <u>which he would hand to the prisoner.</u>**
+  * **act** 幕 (戏剧的第几幕)
+    * **scene** 场 (戏剧的每一幕的第几场)
+    * → It happens in Hamlet, **Act** 3, **Scene** 1.
+
+  * gaoler(英)/jailer(美) n. 狱卒
+  * **come on** 登台, 上台; 过来; 得了吧; 胡说! ; 
+    * → There was great applause when the Russian ballerina **came on.**
+    * **appear** v. 登台, 上台; 出现
+      * → (NCE3-21 P106-L12) Just then, the gaoler **appeared** with the precious letter in his bands.
+
+  * 结构简化: 
+    * → ... with a letter **<u>and</u> he would hand <u>it</u> to the prisoner.** (并列句)
+    * → ... **with a letter <u>which he would hand to the prisoner.</u> **(定语从句稍显简洁)
+    * → .. with a letter **to hand to the prisoner.** (独立主格)
+
+* → **Even though the noble was expected to read the letter at each performance**, he always <u>insisted</u> **that it <u>should be</u> written out in tull.**
+  * **be expected to do** 应该 (习语搭配)
+    * 同义
+      * **be supposed to do ** 应该 (习语搭配)
+        * suppose v. 认为, 猜测, 假设
+
+      * **should do ** 应该 
+
+    * 听力题
+      * W: Do you know if George is coming to the meeting? 
+      * M: <u>Oh, no,</u> I **was supposed to** tell you that he is <u>sick</u> and can't come.
+        * oh, no 不表示否定, 只是抱怨真糟糕
+        * sick adj. 生病的, 不舒服的
+
+      * Q: What does the man mean?
+      * Answer: (D) He forgot to deliver a message.
+
+  * **表示 “建议，要求，命令〞动词后的宾语 从句中用 (should ) do 型的虚拟语气**(should 美式必须去掉, 英式有没有都行, )
+    * **order, ask, decide, demand, require, advise, recommend, suggest, <u>insist</u>  ...**
+      * 这些词很多都是多义词, 只有在表示建议/要求/命令的时候才用虚拟
+        * insist 有坚持认为的意思
+
+    * → He **suggested** that we **(should) help** them with English.
+    * → The teacher **ordered** that the homework **(should) be** finished within half an hour.
+
+  * **instst on ...** + 名词短语 (that从句 会杀死前面的介词, that 从句不用在介词后, 除了 in that/but that/except that)
+    * → ..., he always **insisted on** <u>its being written out</u> in full. 
 
 
 **## text3**
 
-* 
+* → <u>One night</u>, the gaoler decided to <u>play a joke on</u> his <u>colleague</u> to find out **if, <u>after so many performances</u>, he had managed to <u>learn</u> the contents of the letter <u>by heart</u>.** 
+  * **colleague** n. 同事
+    * college 大学
+
+  * **play a joke <u>on</u> sb.** 跟某人开玩笑, 跟某人寻开心
+    * → (NCE3-40 P182-L11) He added that a student had dressed up as a policeman and was **playing all sorts of silly jokes on** people.
+    * 同义组合
+      * **play a trick on sb.** 跟某人开玩笑, 跟某人寻开心
+        * He **played a trick on** his wife, but she beat him up.
+          * beat sb. up  把某人打了一顿
+
+      * **kid(sb.)/joke**
+        * → Are you **kidding (me)?**
+          * **kid** n. 小孩 v. 开玩笑, 戏弄
+
+        * → Are you **joking**?
+        * → Are you joking me? (X) joke 不能加 sb.
+
+    * 形似辨析
+      * **have a joke with sb.** 和某人讲了个笑话 (两个人一起乐)
+        * → I've just **had a joke with** the manager.
+
+      * **make fun of sb.** 拿某人寻开心 (往往不是特别礼貌)
+        * → The other children were always **making fun of** him because he was fat.
+
+      * **make a fool of sb.** 让某人出丑, 愚弄某人
+        *  → I suddenly realized that I **was being made a fool of.**
+
+      * **play the fool (with sb.)** 装傻, 扮演傻瓜逗某人乐
+        * → Stop **playing the fool (with me)**.You'll fall !
+
+* → The curtain went up <u>on the final act of the play</u> <u>and</u> revealed the aristocrat **sitting alone behind bars in his dark cell.**
+  * **the curtain <u>goes up</u> /<u>rises</u>** 幕布升起
+    * **the curtain <u>comes down</u> / <u>falls</u>** 幕布落下
+      * **curtain** n. 窗帘, 幕布
+    * **<u>draw</u> / <u>pull</u> the curtains** 拉开窗帘(复数)
+
+      * **draw** v. 拉, 抽
+      * → **draw** a sword
+      * → **draw** water from a well. 从井里打水
+      * → He **drew** the chair closer to the table to sit down.
+
+    * **<u>open</u>/<u>close</u> the curtains** 打开窗帘/ 合上窗帘
+  * <u>**on** the **final** act</u> 在最后一幕刚刚开始的时候
+    * on 在这里表示时间不表示位置, 刚刚 .....的时候
+    * <u>**in** the **last** act</u>  
+      * in 在这里表示过程之中
+
+  * **<u>all</u> (<u>alone</u> / <u>on one's own</u> / <u>by oneself</u>) ** 表示独自一人, 不表示孤独
+    * 前面加 all 用来加强语气
+    * → She was sitting **alone** on a park bench.
+      * bench n. 长椅, 工作台
+
+    * → I don't like walking home **on my own** at night.
+    * → Do you share the apartment or do you live **by yourself**? 读的时候, 由于这是一个选择疑问句, 所以前面升调, 后面降调
+    * → Wendy was frightened, **<u>all</u> alone** in that big old house.
+    * **oneself**  表示亲自做某事 (注意和 by oneself 辨析)
+      * → (NCE3-11 P54-L18) Then l added with a smile,' It's a strange mixture I make **myself**'. 这是我自己做的一种奇妙的混合物
+        * mixture n. 混合物, 混合 
+
+      * → Lesson 46 Do it **yourself** (DIY)
+      * → (NCE3-46 P212-L19) I would not hear of the suggestion and said that I would fix it **myself**.
+
+    * **<u>lonely</u>/<u>lonesome</u>** adj. 寂寞的,孤独的 (内心)
+      * **lonely** hearts ad 征婚广告
+      * → Are you **lonesome** tonight? Do you miss me tonight? Are you sorry we drifted apart ?  (from 猫王)
+
+* cell n. 细胞; 单身牢房; 电池; 单元; 原子核; 移动电话
+* **present sth. to sb.** 呈递某物给某人 (一般是双手呈递)
+  * persent v. 庄重的呈递某物
+  * **present sb. with sth.** 呈递某物给某人
+    * → (NCE3-31 P146-L17) When Dickie was given the watch, he **presented** the assistant **with** the cloth bag.
+    * → He entered the cell and **presented** the aristocrat **with** the letter.
+
+  * 辨析
+    * hand sth. to sb. 随手把某物递给某人
+
+* → But the copy **<u>he gave him</u>** had not been written out in full **<u>as usual.</u>**
+  * the copy 一封, 一份, 一张纸 (两次)
+
 
 ## L23 One man's meat is another man's poison
 
