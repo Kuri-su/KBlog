@@ -3522,8 +3522,198 @@
     * hand sth. to sb. 随手把某物递给某人
 
 * → But the copy **<u>he gave him</u>** had not been written out in full **<u>as usual.</u>**
-  * the copy 一封, 一份, 一张纸 (两次)
+  * copy 一封, 一份, 一张纸 (量词)
+  * **as usual** 像往常一样
+    * → Sam was in a bad mood **as usual.**
+      * mood n. 心情, 情绪
+
+    * **as always**  像往常一样
+    * **as ever** 像往常一样
+    * **like always **像往常一样
+
+* **simply** adv. 简单地; 仅仅
+* **blank** adj. 空白的, 
+* **sheet** n. 纸张(长方块固定规格的纸, 例如信纸, A4)
+* → The gaoler looked on eagerly, **anxious to see <u>if his fellow actor had at last learnt his lines.</u>** 
+  * **look on** 旁观 (不及物, 不能加宾语)
+    * **stand by** 旁观 (不及物, 不能加宾语)
+    * → Only one man tried to help us, the rest just **<u>looked on</u> / <u>stood by</u>** in silence.
+    * 派生词: 
+      * **onlooker** n. 旁观者, 看热闹的人
+      * **bystander**  n. 旁观者, 看热闹的人
+
+    * look on 加了宾语就变成另一个意思
+      * **look on ...as ...** 把 ... 看作 ...
+        * → We **look on** her **as** a daughter. 我们把它看成女儿
+
+    * stand by  加了宾语就变成另一个意思
+      * **stand by sb.** 支持某人
+        * → He **stood by** her through the difficult times. 他支持这个女人度过了艰难的时间
+
+  * 形容词做原因状语都可以看作省略了 being
+    * .. anxious to see if his fellow actor had at last learnt his lines. 
+      *  = ... **being** anxious to see if his fellow actor had at last learnt his lines
+
+    * → (NCE3-16 P74-L13) **Ashamed** of having acted so rashly, Dimitri apologized to Aleko for having accused him.
+      * = **Being ashamed** of having acted so rashly, Dimitri apologized to Aleko for having accused him.
+
+  * **anxious** adj. 焦虑的, 担忧的, 急切的
+    * 同义替换: 
+      * **be <u>anxious</u> / <u>eager</u> / <u>impatient</u> / <u>itching</u> / <u>desperate</u> / <u>dying</u> to do**
+      * **can't wait to do ... **
+
+  * **fellow** n. 伙伴, 同伴, 同事, adj. 同样的, 同类的, 同伴的
+    * → NCE3-4 P26-L12) Alf did this for over two years and his **fellow dustmen** kept his secret. 垃圾工同事
+    * **fellow students** 同学
+    * **my fellow Chinese** 中国同胞
+    * → And so, my **fellow Americans,** ask not what your country can do for you; ask what you can do for your country.  -- Kennedy
+
+  * 背下来的替换
+    * **<u>learn</u> / <u>know</u> sth. by heart** 
+    * **learn sth.**
+    * (NCE3-22 P110-L4) <u>know</u> their parts <u>by heart</u>
+    * (NCE3-22 P110-L11) <u>learn</u> the contents of the letter <u>by heart</u>
+    * (NCE3-22 P110-L15) <u>learn</u> his lines
+
+* 读给某人听
+  * **read sth. to sb.**
+  * **read sb. sth.**
+    * Read me the letter 把信读给我听
+
+* → Then, **he squinted his eyes and <u>said</u> (重点)**: the light is dim. Read the letter to me.' 不佳
+  * <u>**汉语：parataxis -- 平行语，连动句， 没有轻重之别。**</u>
+  * <u>**英语：hypotaxis -- 层次语，突出中心动词，次要动词状语化。**</u>
+  * → Then, **squinting his eyes, he said**: 'The light is dim. Read the letter to 'me.' 把 咪起眼睛 这个动作给状语化, 突出中心动词 said
+
+* → The gaoler found that he could not remember a word of the letter either, so he **<u>replied(重点)</u>**: the light is dim, sire. l must get my glasses.' (不佳)
+  * → **Finding** that he could not remember a word of the letter either, the gaoler **replied**: 'The light is indeed dim, sire, I must get my glasses.' 把开头的 Find 改成状语
+
+* → He <u>looked</u> at his watch and **<u>saw</u>**(重点) that it was one o'clock, but the bell **<u>struck</u>**(重点) thirteen times and then it **stopped**. (不佳)
+  * → (NCE3-2 P18-L6) <u>Looking at his watch</u>, he **<u>saw</u>** that it was one o'clock, but the bell **<u>struck</u>** thirteen times <u>before it stopped.</u>  把另外两个动词状语化, 突出 see 和 struck 两个重要的状语
+
+* **with** 随着
+  * **with** the coming of spring 随着春天的到来
+  * **with** the approach of Christmas
+    * approach 接近
+
+  * **with** the outbreak of war
+    * outbreak 爆发
+
+  * **with** the progress of science 随着科学的进步
+    * progress n. 进步, 进展, 前进 v. 进步, 进展, 前进
+    * gress v. 前进, 离开, 走
+
+  * **with** the evidence began to accumulate (X, 连词不能加从句)
+  * → (NCE3-1 P14-L4) However, **as** the evidence began to accumulate, experts from the zoo felt obliged to investigate,
+    * 加从句的随着得 用 as
+
+* → <u>Much to. the aristocrat's amusement</u>, the gaoler returned <u>a few minutes later</u> **with <u>a pair of glasses</u> and <u>the usual copy of the letter which he proceeded to read to the prisoner.</u>**
+  * **to one's ... 使某人 ... 的是**
+    * **to one's** amusement 使某人感到好笑的是..
+    * **to one's** surprise 使某人惊愕的是...
+    * **to one's** dismay 使某人又惊讶又沮丧的是 ... 
+    * **to one's** delight 使某人高兴的是 ... 
+    * **to one's** sorrow 使某人伤心的是 ... 
+    * **to one's** excitement 使某人兴奋的是... 
+    * **much to one's ... / to one's great ...** 使某人大为 ... 的是
+      * **much** to the aristocrat's amusement  使贵族大为感到好笑的是
+      * to the aristocrat's **great** amusement 使贵族大为感到好笑的是
+
+* → ... **and** he proceeded to read **it** to the prisoner.
+  * 等价 the letter **which** he proceeded to read to the prisoner.
+  * → He violently beat the boy **<u>and the boy</u> later died from his injuries.** (不佳, 啰嗦, 连着两次 the boy)
+    * → He violently beat the boy **<u>who</u>** later died from his injuries.
+
+  * → Ha said he had lost his watch, **but it was not true.**  (不佳)
+    * → Ha said he had lost his watch, **which was not true.**
 
 
 ## L23 One man's meat is another man's poison
+
+One man's meat is another man's poison 一个人的食物对是另一个人的不好吃的食物, poison 也有难吃的东西的意思, I don't want eat this poison.
+
+**## words**
+
+* **poison** /ˈpɔɪzən/ n. 毒药; 难吃的东西 v. 毒害, 毒死 
+  * rat **poison** 老鼠药
+    * rat n. 老鼠
+  * → **one man's meat is another man's poison**
+    * meat 在古英语中表示 食物 的意思, 古英语中表示饮食是 meat and drink
+    * flesh n. 人肉, 肉体
+  * →  I don't want eat this poison.
+  * → (NCE3-24 P118-L6) The reader's hair stands on end when he reads in the final pages of the novel that the heroine, a dear old lady who had always been so kind to everybody, had, in her youth, **poisoned** every one of her five husbands.
+  * → The ring brought to Gollum unnatural long life. For 500 years it **poisoned his mind.**
+  * 表示有毒的形容词 同义词
+    * **poisonous ** adj. 有毒的
+    * **toxic** adj. 有毒的
+    * **noxious** adj. 有毒的
+      * → Carbon monoxide is a colorless, odorless and **noxious** gas.
+        * monoxide 一氧化物
+          * mono- 词根, 意为单一的
+        * carbon monoxide 一氧化碳
+        * odorless adj. 无气味的,
+          * odor n. 气味
+* **repulsive** /rɪˈpʌlsɪv/ adj. 令人厌恶的
+  * **repulsive** <u>smell</u>/ <u>behavior</u>
+  * **repulse** v. 使某人某物厌恶
+    * → The tourists **were repulsed by** the filthy conditions.
+      * filthy adj. 非常脏的, 肮脏的
+      * conditions adj. 污秽的，肮脏的
+  * 类似的词
+    * **repel** v. 击退, 驱逐; 排斥, 使厌恶
+      * **repellent** adj. 排斥的, 令人讨厌的 
+    * **revolt** n. 反抗, 叛乱 v. 使厌恶, 使反感
+      * **revolting** adj. 令人恶心的, 令人厌恶的
+    * **disgust** v. 厌恶, n. 讨厌
+      * **disgusting** adj. 令人厌恶的, 恶心的
+* **turn** v. 感到恶心, 翻胃
+  * → the food makes my stomach **turn**. 这个食物让我觉得恶心
+  * → the food **turns** my stomach. 这个食物让我觉得恶心
+  * → The food **<u>disgusts</u> / <u>nauseates</u> / <u>sickens</u> ** me. 
+    * **nauseate** v. 使恶心, 使作呕
+    * **sicken** v. 使恶心, 使作呕
+      * sick adj. 生病的, 不舒服的
+  * → The food **<u>repels</u> / <u>revolts</u> my stomach.**
+  * → The food makes me **<u>feel sick</u> / <u>lose my appetite.</u>**
+    * **appetite** n. 食欲, 胃口
+  * → The food makes me **<u>throw up</u> / <u>vomit</u>**
+    * **vomit** v. 呕吐, 呕吐物 (医院里用的比较多)
+    * 越博文的人越强记, 知识会自己织成网
+* **fry** /frai/ v. 煎, 炸, 炒
+  * → I have another fish to **fry**. 我还有别的事 (习语搭配)(不是我还有别的鱼要去煎的意思)
+  * **frying pan** 炒锅
+  * → **out of the frying pan into the fire**  才出龙潭, 又入虎穴
+  * **<u>fires</u> / <u>French fries</u>** 炸薯条
+  * 快餐店英文
+    * 您要吃点什么?
+      * → May I take your order?
+      * → What'll it be for you?
+    * 点菜
+      * → **I need a double cheese burger, a fries, and a small coke. **我要一个双层芝士汉堡, 一份薯条, 一个小份可乐
+      * → **I need a No.1 combo** 我点一个一号套餐
+        * combo n. 组合, 合奏
+    * For here or to go ? 店里吃还是外带
+      * Here.
+      * To go
+        * No.1 combo to go , please
+    * That's five dollars and fifty cents
+    * **Here you are. / Here you go.** 给你
+    * **This is your change and receipt.** 这是你的找零和票
+    * **Can I have some ketchup?** 能不能来点番茄酱
+    * It's on the service counter over there. 在那自助调料柜
+      * counter n. 柜台, 计数器, 对立面, v. 反击, 对抗
+    * Thank you!
+    * You're welcome. Have a nice day!
+* **associate** /əˈsoʊʃieɪt/ v. 联系; 联想
+  * 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+## L24 Askeleton in the cupboard
 
