@@ -3855,6 +3855,117 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
   * **receive adequate treatment** 得到了适当的治疗
   * **receive a warm welcome** 受到了热烈的欢迎
   * → (NCE3-31 P146-L20) This exhibition **received a great deal of attention** in the press, for though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie.
+* 否定比较级, 来表示最高级的含义
+  * → (NCE4-28 P166-L8) There is **no quicker** method of disposing of patients **than** by giving them what they are asking for.
+  * 其他用来表示 最高级的方法
+    * "没有任何东西能与其相比"  的说法
+      * → (NCE3-41 P192-49) **Nothing can be compared**, he maintains, **with** the first cockcrow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures.
+      * → (NCE3-44 P204-L19) But **nothing can match** them for speed and comfort.
+        * match 相匹敌
+* "世界各地"  的表达
+  * **in various parts of the world** 
+    * various adj. 各种各样的, 不同的
+  * **all over the world** 
+  * **throughout the world**
+    * throughout prep./adv. 贯穿整个, 遍及全部
+      * thorough adj. 彻底的
+  * **the world over**
+* → There are countless people **who, <u>ever since their early years</u>, have learned to associate snails with food.** 
+  * countless  adj. 数不胜数的
+  * **ever since** 可以当 连词, 副词, 介词用
+    * 介词 **ever since** their early years
+    * 副词 (NCE3-2 P18-L3) The big clock which used to strike the hours day and night was damaged many years ago and has been silent **ever since.**
+    * 连词 You know how she feels about you. It's been the same way **ever since** we were kids.
+  * 联系起来
+    * ... have learned to **connect** snails **with** / **to** food.
+    * ... have learned to **link** snails **with / to** food.
+    * ... have learned to **relate** snails **with / to** food.
+    * ... have **made a connection between** snails **and** food.
+    * ... have **established a link between** snails **and** food.
+    * ... have e**stablished a relationship between** snails **and** food.
+* **... of one's own** 某人自己的 .... 
+  * → (NCE3-9 P46-12) ..., but they lead mysterious lives **of their own** as well.
+  * ..., he has no **<u>private</u>** / **<u>personal</u>** garden.
+    * **personal** adj. 个人的, 私人的
+* for years 多年来
+* **collect: gather** 收集
+  * **gather** v. 聚集, 集合; 收集, 搜集; 推测, 总结
+  * → **Gather** rose-buds while you may. (谚语) 人不风流枉少年
+    * rose-buds 青春美少女
+  * 花开堪折直须折, 莫待无果空折枝.
+* → The idea never <u>appealed to me</u> very much, <u>but</u> one day, <u>afier a heayy shower</u>, I <u>happened to be</u> walking in my garden **when I noticed a huge number of snails taking a stroll <u>on some of my prize plants.</u>**
+  * **taking a <u>stroll</u>/<u>walk</u>** 散步
+    * stroll 慢悠悠的踱步, 也比较适合形容蜗牛, walk 会让人想到 腿
+  * **prize** adj. 心爱的,宝贵的, 重要的, 有价值的 n. 奖品, 奖金 v. 珍视, 重视; 授予奖品
+    * → (NCE3-16 P74-L2) One of Mary's **prize** possessions was a little white lamb which her husband had given her.
+  * **appeal to sb.**   吸引某人
+    * → (NCE3-41 P192-L1) The quiet life of the country has never **appealed to** me. 农村的平静生活从来没有吸引过我
+    * appeal n. 吸引力, 魅力 v. 吸引, 上诉; 呼吁; 诉求
+      * → (NCE3-29 P138-L7) In spite of national differences, certain funny situations have a universal **appeal(n.)**.
+        * universal adj. 普遍的, 世界范围的, 全体的, 全球的, 通用的
+  * **happened to do** 碰巧 
+    * → (NCE3-3 P22-112) lts missing head **happened to be** among remains of the fifth century B.C.
+  * **主句 (<u>进行时</u> / <u>be about to do</u>) + when….** "when" 应译为 “**这时**" 或“**突然**"
+    * 主句表达正在做, 或者正要做 时, when 需要当副词来翻译成 "这时" 或者 "突然"
+    * → I <u>was having</u> dinner **when** <u>the phone rang.(重点)</u>
+    * →  I <u>was about to leave</u> **when** the phone rang.
+    * 这种特殊句型中, 句子的核心在从句中.
+      * → (NCE3-29 P138-L21) He <u>was still mumbling</u> something about hospitals at the end of the party **when** he slipped on a piece of ice and broke his left leg.
+      * → (NCE3-32 P150-L20) The Karen <u>had been sailing</u> in a convoy to Russia **when** she was torpedoed by an enemy submarine.
+      * → (NCE3-34 P158-L14) The morning passed rapidly and Frank <u>was about to leave</u> **when** he noticed a large packing case lying on the floor.
+* → **Acting on a sudden impulse**, I <u>collected</u> several dozen, <u>put</u> them in a paper bag, <u>and took</u> them to Robert.
+  * **Acting on a sudden impulse** 由于一时的冲动
+  * 多个动词连续使用, 同等重要, 突出连续
+    * → (NCE3-15 P70-L11) George **<u>took off</u>** his jacket, **<u>rolled up</u>** his sleeves and **<u>pushed</u>** his right arm through the drain cover.
+* **<u>delighted</u>**: very **<u>pleased</u>**
+  * **<u>pleased</u>** : **happy and stisfied**
+    * stisfied adj. 满意的, 满足的
+      * satisfy v. 满足, 使满意, 符合要求
+  * **be <u>delighted</u> / <u>pleased</u>** <u>with ....</u> / <u>to do ...</u>
+    * → (NCE3-28 P134-L20) l **felt especially pleased with** my wonderful bargain-until I got back to the ship
+      * **especially** adv. 尤其, 特别地
+        * especially 强调相对, 比较, secially 强调特定, 定制
+    * → (NCE4-5 P29-L6) When I was a teenager, I felt that I was just young and uncertain-that I was a new boy in a huge school, and I would have **been very pleased to** be regarded as something so interesting as a problem.
+
+* → I left the bag in the hall **and** Robert and I went into the living room **where we talked for a couple of hours.**
+  * hall 门厅
+  * left , leave
+  * couple n. 几个; 一对; 及对
+  * → **Having left the bag in the hall,  I accompanied Robert into the living room.**
+    * accompanied adj. 陪伴的, 相伴的, 有伴的
+      * accompany v. 陪伴, 伴随, 陪同
+  * → Robert and I went into the living room **and we talked for a couple of hours there.** (并列句略显重复)
+
+* → I had forgotten all about the snails **when Robert suddenly said <u>that I must stay to dinner.</u>**
+  * 如果改成 Robert 建议我们的话, 得用虚拟语气
+    * → ... when Robert suddenly **proposed that I <u>(should) stay</u> to dinner.**
+  * **stay <u>to</u>/<u>for</u> + 三餐名**  留在某人家里吃饭
+  * Won't you **stay <u>to</u> / <u>for</u>** dinner? 否定疑问句表示 提问者倾向于希望得到肯定回答.
+* 主菜
+  * **main <u>dish</u> / <u>course</u>**
+* → ... and | **unwillingly** followed Robert out of the room.
+  * → ... and l followed Robert out of the room **with reluctance.**
+* → <u>To our dismay,</u> we saw **that there were snails everywhere**: they had escaped from the paper bag **and** had taken complete possession of the halll
+  * **to one's dismay** 使某人惊讶的是
+    * dismay n. 又沮丧又失望又惊愕 v. 使沮丧+失望+惊愕
+      * → (NCE3-7 P38-L12) lmagine their **dismay** when they found a beautifullycooked wallet and notes turned to ash!
+  * **take possession of** 占据, 占领
+    * **possession** n. 拥有, 所有物, 财产, 占有
+    * **be in possession of... ** 拥有, 持有...
+* Once bitten, twice shy. 一朝被蛇咬, 十年怕井绳
+  * bite v. 咬
+  * shy v. 害羞, 怯懦; 害怕
 
 ## L24 Askeleton in the cupboard
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
