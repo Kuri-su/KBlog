@@ -3705,15 +3705,156 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
     * Thank you!
     * You're welcome. Have a nice day!
 * **associate** /əˈsoʊʃieɪt/ v. 联系; 联想
-  * 
+  * **associate A with B** 由 A 联想到 B
+    * → We often **associate** wealth **with** happiness, yet this is not always the case.
+    * 同义表达
+      * 物理连系
+        * **connect A <u>with</u> / <u>to</u> B** 
+        * **link A <u>with</u> / <u>to</u> B**
+      * 抽象连系
+        * **connect A <u>with</u> / <u>to</u> B** 
+        * **link A <u>with</u> / <u>to</u> B** 
+        * **relate A <u>with</u> / <u>to</u> B**
+      * 高分写法 (多用名词)
+        * **make a connection** between A and B 
+          * → Young children quickly **make a connection** **between** the pictures in books **and** the real obiects they see.
+        * **establish a link** between A and B
+          * establish v. 建立, 设立, 确立
+          * → Young children quickly **establish a link** **between** the pictures in books **and** the real obiects they see.
+        * **establish a relationship** between A and B
+          * → Young children quickly **establish a relationship** **between** the pictures in books **and** the real obiects they see.
+
+* **despise** /dɪˈspaɪz/ v. 鄙视, 
+  * → Do not **despise** your enemy.
+    * enemy n. 敌人
+  * 同义表达
+    * **scorn ...** 
+      * v. 鄙视, 蔑视 n. 蔑视, 轻蔑
+    * **hold ... in contempt** 鄙视
+      * Contempt  n. 蔑视, 轻视, 鄙视
+    * **look down <u>on</u> / <u>upon</u>**
+      * → For in a university, science majors **look down on** humanities majors, foreign language majors **on** Chinese majors, Chinese maiors **on** philasophy majors, philosophy majiors **on** sociology majors, and sociology majors **on** education majors. Since education maiors have no one to **look down on**, they can only **despise** the professors in their own department.            —'Fortress besieged' by Zhongshu Qian
+        * besiege v. 包围, 围攻
+  * 反意表达 -- 尊敬
+    * **respect ...** n. 尊敬, 敬意 v. 尊重, 敬重
+    * **esteem ...** n. 尊重 , 尊敬 v. 尊重, 尊敬
+    * **honor ...** n. 荣誉, 尊敬, 光荣 v. 给予荣誉, 尊重, 遵守
+    * **revere ...** v. 尊敬, 崇敬
+    * **look up to ...** v. 尊敬, 仰慕
+    * **hold ... in high esteem**
+      * → Because of their achievements they **were held in high esteem.** 
+        * achievements n. 成就, 成绩
 
 **## text 1**
 
-* 
+* **One man's meat is another man's poison. ** 萝卜白菜各有所爱(习语搭配)
+  * **There's no accounting for taste.**	萝卜白菜各有所爱(习语搭配)(字面意思: 人的口味某办法解释)
+    * account n. 账户, 报告, 解释, v. 解释, 说明, 认为
+  * → Q: Why did she marry someone like that?
+    * → A: One man's meat is another man's poison. / There's no accounting for taste.
+* → People become quite illogical ***when they try to decide* <u>what can be eaten</u> and <u>what cannot be eaten</u>.**
+  *  when they try to decide  当说起某个话题的时候
+    * **when it comes to deciding**  当说起某个话题的时候 (相同的句式替换)
+* → **If you <u>lived</u> in the Mediterranean**, for instance, you <u>would</u> consider octopus a great delicacy.
+  * 与现在事实相反的 "if" 型的虚拟语气 (L17)
+    * **if + S. + <u>did</u> / <u>were</u> , S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
+      * → **If** <u>you</u> <u>lived</u> in Beijing, <u>you</u> **would** consider Douzhir a great delicacy.
+  * **the** Mediterranean   地中海(欧洲)沿岸地区
+    * southern Europe 南欧 (Italy, Spain, Greece ... ), 混血的人种更多, 黑发, 北欧 金发碧眼更多
+      * southern 南方的
+    * the  地区前都加 the
+      * the Near East (东欧)
+      * the Middle East  
+      * the Far East (远东)
+  * 表达 "比方说"
+    * **for instance**  
+    * **for example**
+    * **e.g.** (拉丁文 exempli gratia)
+    * (字数不够, 例子来凑, 例子可以史实, 也可以虚构, 也可以假设)
+  * **consider** v. 思考, 考虑
+  * **delicacy** n. 美味佳肴, 精致, 精美之物
+  * 造句: 如果你住在北京，你就会把豆汁儿 (Douzhir) 当作一道美味佳肴。
+    * → If you lived in Beijing, you would consider Douzhir a great delicacy.
+  * 造句: 如果你住在中国东北地区 (the Northeast of China），你就会非常喜欢滑冰。
+    * → If you lived in the Northeast of China, you would consider skating a great pleasure.
+  * → If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy. <u>You would not be able to understand why some people find it repulsive.</u>
+    * 这句依旧是 you would 开头, 因为依旧是在虚拟语气中, If xxxx 和前面是同样地, 所以省略了
+    * → ... find it **<u>repellent</u> / <u>disgusting</u> / <u>revolting</u> / <u>repulsive</u> . ** 
+* → <u>On the other hand</u>, your stomach would turn **at the idea of <u>frying potatoes in animal fat</u>—<u>the normallv accepted practice in many northern countries</u>.**
+  * Your  stomach would 表明依旧是虚拟语气
+  * **practice** n. 实践, 实行, 联系, **习惯** v. 实践, 实行, 联系
+    * daily practice 每日练习, 每日践行
+    * **practice**: <u>custom</u> n. 习俗, 习惯 /  <u>tradition</u> n. 传统
+    * a bad **practice** 不正之风, 不好的习惯性的做法
+  * **on the one hand ... on the other (hand).** 一方面 ... , 然而另一方面, 两个有转折对比的关系
+    * → **On the one hand** I'd like a job which pays more, but **on the other (hand)** I enjoy the work Im doing at the moment.
+    * → (NCE3-11 P54-L4) The hardened professional smuggler, **on the other hand**, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase.
+    * 近似表达
+      * **for one thing ... for another ... ** 一个原因是 ...., 另一个原因是 .... (陈述原因)
+        * → "Why won't you come to New York with me?" 
+        * → "**For one thing**, I don't like flying, and **for another**, I can't afford it."
+      * **not that ... but that ....** 不是因为... 而是因为 ... 
+        * → **Not that** I love Caesar less, **but that** I love Rome more.   不是我不爱凯撒, 而是我更爱罗马 ----------Shakespeare 'Julius Caesar'
+        * → **Not that** I love you less, **but that** I love liberty more.
+          * liberty n. 自由
+        * → **Not that** I love my teacher less, **but that** I love truth more.
+      * **at the ... of ... 一... 就... **
+        * → She screamed **at the sight of ** the ghost.
+          * sight n. 视觉, 视力
+          * scream n. 尖叫声, 喊叫声, v. 尖叫, 喊叫
+        * → She trembled **at the thought of** the murder.
+          * tremble v. 颤抖, 发抖
+        * → She fainted **at the news of** her father's death.
+          * **faint** adj. 昏晕的, 虚弱的 v. 昏倒, 晕厥
+        * → She wept **at the mention of** the accident.
+          * **wept** v. 哭泣, 流泪
+          * **accident** n. 事故, 意外
+          * **mention** v. 提及
+            * motion n. 运动, 动作 v. 示意, 提出议案
+            * notion n. 概念, 观念, 想法
+            * emotion n. 情感
+        * → (NCE3-41 P192-L4) Most of my friends live in the city, yet they always go into raptures **at the** mere **mention of** the country.
+          * **mere** adj. 仅仅的, 只不过的
+          * **at the mere mention of ** 仅仅一提到 ....
+
+* → The sad truth is **that most of us have been brought up <u>to eat certain foods and</u> we stick to them all our lives.**
+  * **sad** 令人遗憾的, 不幸的: <u>unfortunate</u> / <u>regrettable</u> adj. 令人遗憾的, 值得后悔的
+    * → He made a **sad** mistake. 他犯了一个令人遗憾的错误
+    * → a **happy** discovery 一个幸运的发现
+    * → the **happy** few 幸运的少数
+  * **<u>bring up</u>  / <u>raise</u> sb.** v. 抚养, 养育
+    * → He **was <u>brought up</u> / <u>raised</u>** by his step-mother.
+      * step-mother 继母, 后妈
+    * **be brought up to do ** 从小就 ....  (多用于完成时, 对现在有影响)
+      * → (NCE3-54 P244-L1) We have **been brought up to** fear insects.
+        * insects n. 昆虫
+      * → l **have been brought up to** believe that it is proper to make contributions to charity. 
+        * proper adj. 适当的, 正确的, 合适的 
+        * charity n. 慈善, 慈善事业
+      * → (六级真题) And perhaps all those successful college graduates would have been successful whether they had gone to college or not. This is heresy to those of us who **have been brought up to** believe that if a little schooling is good, more has to be much better.
+        * graduates n. 毕业生, v. 毕业
+        * heresy n. 异端邪说
+  * food 表示 食物数量时不可数, 表示食物种类时可数
+    * certain **food<u>s</u>** = certain **kind<u>s</u> of food**
+  * **stick to sth.** 坚持, 维持
+    * **keep to sth.** 
+    * **throughtout** our lives
+      * throughtout prep. 遍及, 自始至终, adv. 遍布地, 到处
 
 **## text 2**
 
-* 
+* creature n. 生物
+
+* **receive + n. 受到 ... ; 得到 .... ; 遭到 .....**
+  * → (NCE3-8 P42-L16) These young people, who love the peace of the mountains, always **receive a warm welcome** at St. Bernard’s monastery.
+  * **receive praise** 受到了表扬
+  * **receive abuse** 遭到了谩骂
+    * abuse 辱骂; 虐待; 滥用
+  * **receive support** 得到了支持
+  * **receive good education** 受到了良好的教育
+  * **receive adequate treatment** 得到了适当的治疗
+  * **receive a warm welcome** 受到了热烈的欢迎
+  * → (NCE3-31 P146-L20) This exhibition **received a great deal of attention** in the press, for though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie.
 
 ## L24 Askeleton in the cupboard
 
