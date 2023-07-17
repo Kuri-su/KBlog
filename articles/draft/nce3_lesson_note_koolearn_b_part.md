@@ -3956,16 +3956,157 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
   * bite v. 咬
   * shy v. 害羞, 怯懦; 害怕
 
-## L24 Askeleton in the cupboard
+## L24 A skeleton in the cupboard
 
 **## words**
 
-* 
+* **seemingly** /ˈsiːmɪŋli/ adv. 看似, 表面上
+  * → Running a mile under 4 minutes was a **seemingly** impossible task.  四分钟内跑完一英里 看似是一个不可能的任务
+  * 同义表达
+    * **on the surface**
+      * surface n. 表面
+      * → Mike was very pleasant **on the surface**, but he had a nasty temper.
+        * temper n. 脾气, 性情, 心情 v. 调节, 控制, 改善
+        * nasty adj. 令人讨厌的, 令人不悦的  n. 恶劣的行为/态度
+    * 动词短语
+      * **<u>seem</u> / <u>appear</u> to do **
+        * appear v. 显露, 出现, 似乎是
+        * seem v. 似乎, 好像, 看起来
+        * → Running a mile under 4 minutes **<u>seemed</u>** / **<u>appeared</u>** **to be** an impossible task.
+        * → Mike **<u>seemed</u> / <u>appeared</u> to be** very pleasant, but he had a nasty temper.
+      * **It <u>seem</u> / <u>appear</u> that ...**
+        * **It <u>seemed</u> / <u>appeared</u> that** running a mile under 4 minutes was an impossible task. 
+        * **It <u>seemed</u> / <u>appeared</u> tha**t Mike was very pleasant, but he had a nasty temper.
+    * 形容词
+      * **<u>seeming</u> / <u>superficial</u>**
+        * → In spite of his **<u>seeming</u> / <u>superficial</u>** friendship, he gave me no help.
+* **respectable** adj. 体面的, 正派的, 特别符合社会标准的
+  * a **respectable** citizen
+  * a **respectable** family 
+  * → He is a bit too **respectable** for my taste.
+    * **taste** n. 品味, 口味
+  * 同根的形容词
+    * **respected** adj. 受敬仰的, 有名望的
+      * a highly **respected** surgeon
+        * surgeon n. 外科医生
+    * **respectful** adj. 尊敬的, 尊重的
+      * → You should **be** more **respectful** **of** other people's points of view. 你应该对他人的观点更尊重才是
+        * points of view 观点
+    * **respective** adj. 各自的, 每一个的
+      * After the party we all went back to our **respective** homes. 
+    * 其他同根的词
+      * **respecting**  prep. 关于, 就...而言
+        * **concerning** prep. 关于, 就...而言
+        * **regarding** prep. 关于, 就...而言
+        * 一些情况下 respecting/ concerning / regarding 可以用来替换 about
+  * → 造句：在这篇有关科学家的文章中，作者特别尊重那些不但是体面正派的公民，而且在各自的领域中都深受敬仰的专家.
+    * → In the article **respecting** scientists, the writer is particularly **respectful** of those who are not only **respectable** citizens, but **respected** experts in their **respective** fields.
+* **conceal** [kənˈsiːl] v. 隐瞒, 隐藏 , (开头第一个音节读音类似 '肯' 而不是 '康')
+  * **conceal ... from ...** 向 ... 隐藏 ...
+  * **hide ... from ...** 向 ... 隐藏 ...
+  * 反意表达
+    * **reveal ... to ...** 向 ... 揭示...
+    * **disclose ... to ...** 向 ... 揭示 ...
+    * **expose .... to ...** 暴露 ... 在 ....
+* **fiction** [ˈfɪk.ʃən] n. 小说(表题材, 不可数)
+  * **novel(可数) -> fiction(不可数)** 
+  * **poem -> poetry** 
+  * **myth -> mythology** 
+  * **scene -> scenery** 
+  * **jewel ->  jewellery (jewelry)**
+    * The women has a lot jewel<u>s</u>
+    * The women has a lot jewelery
+  * **machine -> machinery**
+  * **leaf -> foliage**
+  * **table / chair ... -> furniture**
+  * **pen / pencil ... -> stationery**
+  * **trunk / suitcase ... -> luggage /baggage**
+* **petrify** [ˈpɛtrɪfaɪ] v. 使 ... 惊呆 (把某人变成石头)
+  * Medusa 美杜莎
+  * horrify 使 ... 惊恐
+  * terrify 使 ... 胆寒恐惧
+  * frighten 吓唬某人, 使害怕 (某人害怕什么东西需要用被动)
+  * scare 吓唬某人, 使害怕
+  * **be <u>frightened</u> / <u>scared</u> / <u>afraid</u> of ...**
+    * → Many girls **are <u>frightened</u> / <u>scared</u> / <u>afraid</u> of** cockroaches.
+* **dangle** [ˈdæŋɡl] v. 悬挂 (并可能摆动), 悬而未决(派生)
+  * → A hanger **dangled** on the rope
+    * rope 绳子
+    * hanger 衣架
+  * **suspend** v. 悬挂(不强调摆动), 中止,挂起(派生)
+  * **hang** v. 悬挂(不强调摆动)
+  * **sway** v. 悬挂并来回摆动
+  * **swing ** v. 悬挂并来回摆动, n. 秋千
+* **unsympathetic** adj. 不同情的, 无动于衷
+  * **sympathetic** adj. 同情的, 怜悯的
+  * **pathetic** adj. 可怜的, 悲惨的
+  * **apathetic** adj. 冷漠的, 毫无兴趣的
+  * **sympathize** v. 同情
+    * **sympathize with ...** v. 同情某人
+  * **sympathy** n. 同情, 怜悯
+    * **show sympathy** 表现出了同情, 对某人表示同情
+    * **win sympathy** 博得了别人的同情, 
+    * **out of sympathy** 出于同情
+      * out of  .... 出于
+      * → **Out of sympathy**, I gave the beggar some change.
 
 **## text 1**
 
-* 
+* **a skeleton in the <u>cupboard</u> / <u>closet</u>** 家丑 (习语搭配)
+  * cupboard / closet 壁橱
+  * **a family skeleton** 家丑 (习语搭配)
+  * **wash one's dirty linen**  自曝家丑 (习语搭配)
+    * linen 内衣(古英语)
+  * **air one's dirty laundry** 自曝家丑 (习语搭配)
+    * laundry n. 需要洗的衣服
+    * The divorce has meant **<u>washing their dirty linen</u> / <u>airing their dirty laundry</u>** in court.
+* → We often read <u>in novels</u> **how a seemingly respectable person or family has some terrible secret <u>which has been concealed from strangers for years</u>.**
+  * 及物动词先加状语, 再加上比较长的宾语 (为了句式平衡, 改变了语序)
+  * **some** pron. 某一个; 一些, adj. 一些, 一部分, adv. 一定程度上
+    * → **Some** person at the door is asking to see you
+  * ... which has been **concealed** from strangers for years.
+    * ... which has been **hidden** from strangers for years.
+  * 造句：我们常常在报纸上会读到一个表面上很体面的名人 (personality) 是如何因为偷税漏稅 (tax evasion) 而被起诉的 (be charged with ...），而这种行为他们对公众 (the public) 隐瞒了很多年。
+    * → We often read in newspapers how a seemingly respectable personality was charged with tax evasion which had been concealed from the public for years.
+* situation n. 既可以表示地点, 位置, 也可以表示抽象的情况, 状况
+* possess v. 具有, 拥有, 掌握
+* **saying** : <u>proverb</u> / <u>adage</u> 谚语; 格言(可数)
+  * → The English language possesses a vivid saying to describe this sort of situation
+    * The English language possesses a vivid saying 英语中有个生动的谚语, 
+      * **<u>可以利用这个句型引用谚语</u>**
+    * → **The Chinese language possesses a vivid saying** 'God favors the diligent'.   中文有句生动的老话叫做 天道酬勤
+    * 其他同样可以引出谚语的表达
+      * → **As an old Chinese saying goes**, 'God favors the diligent'. 正如中文老话说的 天道酬勤
+        * go 可以表示一句话是怎么说的
+* **dramatic** adj. 戏剧性的, 引人注目的
+* become known 被公开了
+* **reputation** n. 名誉
+* **ruin** n. 毁灭, 破坏, 崩溃, v. 毁灭, 破坏, 崩溃
+  * one's reputation ruined 某人名誉扫地
+* 造句：这个道貌岸然的官员 (official） 贪污 (embezzle）了巨额公款 (enormous government funds)。现在这个秘密已经公开了，他也名声扫地。
+  * → The seemingly respectable official embezzled enormous government funds. Now the secret **becomes known** and his **reputation is ruined.**
+* → The reader's hair stands on end when he reads <u>in the final pages of the novel</u> **that the heroine, a dear old lady <u>who had always been so kind to everybody,</u> had, <u>in her youth,</u> poisoned every one of her five husbands.**
+  * The reader's hair stands on end  读者的头发从发根处站起来了
+    * 单数名词前加 the 可以表示 类指,  指一类人
+  * **youth** n. 青年人, 年轻时期, 青春
+  * **make one's hair stand on end** 吓得某人毛骨悚然 (使某人头发从发根站起来了)
+    * → Wait until I tell you about the murder ---- it'll **make your hair stand on end.**
+    * 同义表达
+      * **make one's blood run cold** 吓得某人浑身冰冷
+      * **<u>frighten</u> / <u>scare</u> the life out of sb.** 吓得某人魂都出来了
+      * **<u>frighten</u> / <u>scare</u> the hell out of sb.**  我靠, 你吓死我了(比较粗俗)
+  * **in one's youth** 在某人青春(~20)的时候
+    * **in one's childhood** 在某人幼年时
+    * **in one's early years** 在某人小时候
+    * **in one's adolescence** 在某人青春期
+    * **in one's middle age** 在某人的中年
+    * **in one's old age** 在某人老年时期
+  * 造句：当我在电视剧(TV drama） 的最后一集 (the final episode) 看到主人公，那个对每个人都很友善的体面的 (respectable) 律师，原来竟是个 (turn out to be) 残忍的谋杀犯时 (a savage murderer)，被吓得毛骨悚然.
+    * → My hair stood on end when I watched in the final episode of the TV drama that the hero, a respectable lawyer who had been so kind to everybody, turned out to be a savage murderer. 
 
 **## text 2**
 
-* 
+* **occur** v. 发生, 出现
+* for 逻辑主语 to do 
+  * → It is all very well **for** such things to occur in fiction.
+* → It is all very well for such things to occur in fiction, **but in real life it is barely credible.** 
