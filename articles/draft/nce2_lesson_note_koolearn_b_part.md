@@ -1125,5 +1125,14 @@ sweep swept swept.
 
 **## text**
 
+* April 20  → 读的时候 April th 20
+* at a cost of 以 .... 为花费
+* Right from the start 从最开始
+* disappointing adj. 令人失望的
+* **分析长难句的步骤**
+  1. 准备: 数谓语动词
+     * 一个句子中只能有一个谓语动词, 所以, 有几个谓语动词就有几件事
+     * 
+
 
 
