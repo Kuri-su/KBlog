@@ -4114,9 +4114,89 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
   * 造句：你在家里穿睡衣 (pajamas) 是无可厚非的，但是在公共场合就不太体面了。
     * → **lt is all very well for** you **to** wear pajamas in your own home, **but** in public **it is barely** respectable.
 * → <u>To varying degreesn</u>, we all have secrets **which we do not want even our closest friends to learn**, <u>but</u> few of us have skeletons in the cupboard.
-  * 
+  * **to varying degrees** 在不同程度上(要求背诵)
+    * varying adj. 不同的, 变化的
+      * vary v. 变化, 改变
+    * degrees n. 程度, 等级, 学位
+    * → Racism still exists **to varying degrees.** 种族主义在不同程度上存在
+      * racism n. 种族注意, 种族歧视
+    * → The water of rivers, lakes and reservoirs was universally polluted **to varying degrees.** 
+      * pollute v. 污染(环境, 空气, 水源)
+  * **closest friend** 亲密的朋友
+    * intimate friend 亲密无间的朋友
+    * bosom friend 知心朋友
+    * fair-weather friend 好天气朋友(酒肉朋友)
+    * pen <u>pal</u> / <u>friend</u>
+    * internal <u>pal</u> / <u>friend</u>
+* **不在同一层次上的双重定语从句** (修辞技巧)
+  * 第一个定语从句修饰前面的名词或短语 ，第二个定语从句修饰 "名词或短语+第一个定语从句”两个定语从句之间没有并列连词连接。第一个定语从句的关系词(一般是关系代词作宾语)可省略。
+    * → The only person **<u>I know</u> who has a skeleton in the cupboard** is George Cariton, and he is very proud of the fact.
+    * → You're the only person **<u>*I've ever met*</u> who could do it.**
+    * → He's the best man **<u>*I can find*</u> who can mend it within an hour.**
+* **be proud of** 对某事很骄傲
+  * **take pride in ...** 对某事很骄傲
+  * **pride oneself on ... ** 对某事很骄傲
+    * → (NCE3-26 P126-L1) Much as we may **pride ourselves on** our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us.
+* medicine n. 医学
+  * 学医的学生 的表达
+    * study medicine in his youth
+    * a medical student
+* **instead of doing .., however, ...** 本该 ... 结果却 ... 
+  * → **Instead of becoming** a doctor, **however**, Lu Xun became China's foremost modern writer of satirical essays.
+* **trancferred anithet 移就(移觉) 修辞方法**
+  * a **sad** letter
+  * a **lonely** night
+  * 平林漠漠烟如织, 寒山一带**伤心碧** - bai li
+  * 自春来, **惨绿愁红**, 芳心是事可可
+  * →  I once spent an **uncomfortable** weekend which I shall never forget at his house. 
+* **show** = **lead** 领某人去某地
+  * show 表示带过去之后, 带领的人就走了, lead 则没有这种强调
+  * → (NCE3-16 P74-L11) Aleko denied taking it and **led** Dimitri into his back yard .
+* **unpack** my <u>things</u> / <u>belongings</u> 
+  * my things 随声财物
+  * 这里 things 等价于 belongings 个人的所有物品或财产
+  * **unpack** my suitcase
+* **形容词 作 主语补足语, 修饰主语**
+  * She came home **<u>sick</u>**
+  * Only the good die **<u>young</u>**
+  * → (NCE3-44 P204-L9) lnevitably you arrive at your destination **<u>almost exhausted.</u>** 
+* → The sudden movement of the door made it sway slightly <u>and</u> it gave me the impression **that it was about to leap out at me.**
+  * leap out 蹦出来
+    * at me 到我身上来
+    * to me 朝我过来
+  * **leap** 用力向远蹦 (立定跳远的感觉)
+    * **jump** 往哪蹦都行
+    * **bounce** 弹跳,
+      * 与 **bound** v. 跳跃 同义
+    * → That's one small **step** for a man, one giant **leap** for mankind.
+    * **by leaps and bounds**: very quickly
+      * → "Your little nephew is growing by leaps and bounds."
+      * → "Yes. He must be at least three feet tall already."
+  * **give sb. the impression that ...** 给某人 ... 的印象
+    * impression n. 感觉, 印象
+    * **<u>have</u> / <u>get</u> the impression that ...** 给某人 ... 的印象
+    * **be under the impression that ...** 给某人 ... 的印象
+      * → (NCE3-32 P150-L10) Though the crew **were** at first **under the impression that** the lost ship had been found, the contents of the chest proved them wrong.
+    * → ... and I **<u>had</u> / <u>got</u> the impression that** it was about to leap out ..
+    * → ... and I **was under the impression that** it was about to leap out .
+  * **be about to do** 正要做某事
+    * **be on the point of doing ...** 正要做某事
+      * → lt **was on the point of leaping** out at me.
+* **dash** 猛冲 (强调从静止突然开始发力), 短跑
+  * rush 冲
+* 分号; 可以代替连词
+* 斜体表示强调
+* → But George **didn't sympathize with** me.
+  * → But George **<u>had</u> / <u>showed</u> no sympathy for** me.
+* 表现特别不可能的时候, 可以用 虚拟语气
+  * → Don't act as if you **were** the only pebble on the beach. 不要太拿自己当回事儿.
+* St. Sebastian 圣徒 塞巴斯蒂安
+  * 西方对捐献的尸体会用圣徒的名字来称呼, 
+* once upon a time 很久很久以前
 
-
+* **medical** staff  医护人员
+* **medical** ethics 医德
+  * ethics 职业道德
 
 
 
