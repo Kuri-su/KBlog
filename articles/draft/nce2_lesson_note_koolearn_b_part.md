@@ -1126,13 +1126,46 @@ sweep swept swept.
 **## text**
 
 * April 20  → 读的时候 April th 20
+
 * at a cost of 以 .... 为花费
+
 * Right from the start 从最开始
+
 * disappointing adj. 令人失望的
+
 * **分析长难句的步骤**
+
   1. 准备: 数谓语动词
      * 一个句子中只能有一个谓语动词, 所以, 有几个谓语动词就有几件事
-     * 
+  2. 断开: 标点/ 连接词 / 分析主谓 (主谓主谓 or 主主谓谓)
+     * 谓语动词 有 情态, 语态, 时态, 否定
+     * → <u>The pictures</u> <u>it(主) sent(谓)</u> <u>us(主) were(谓)</u> very disappointing because its main mirror was faulty!
+     * n. + 从句 (无连接词) 100% 是定语从句
+
+* shuttle v./n. 往返接驳
+
+* necessary adj. 必要的
+
+* → A robot-arm from the Endeavour <u>will grab</u> the telescope and <u>hold</u> it while the astronauts <u>make</u> the necessary repais.
+
+  1. 上文 hold 前没有 will, 而 will grab 的原因是 应为 hold 处于并列句的后半段, 并列句的特点是相同的可以省略, 所以 hold 前的主句和 will 都被省略了
+
+  2. 时间状语从句, 用 将来进行时
+
+* have ever seen 见过的所有
+
+* ⭐️ 将来完成时 **will/shall have done** (将来的之前)
+
+  * 通常会与一些将来的词组共用
+    1. by + 将来的时间 (在那个时候)
+       * → He will have arrived by this time tomorrow
+       * → He will phone us later today. He will have received his exam results by then.
+       * by 的情况
+         1. by + 时间: 表示 "截止到 ... 时间", 与各种完成时连用
+         2. by the time + 句子: 引导时间状语从句
+         3. by the time you read this. 虽然看上去讲的是现在, 单实际上是在表示将来
+       * 时间状语从句中, 一般现在时表示将来, 
+    2. by the time+ 
 
 
 
