@@ -2743,7 +2743,7 @@
     * → "Is something still wrong. Robbie? “I'll be Ok.” “Going away to college **for the first time** always makes one a little nervous." " guess so. I'll be OK. I just need time to think."
   * **at the first time** 在第一次发生时 .... 
 
-# L21 Daniel Mendoza
+## L21 Daniel Mendoza
 
 第二单元的文章会比第一单元更长, 且更难
 
@@ -4110,3 +4110,33 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
 * for 逻辑主语 to do 
   * → It is all very well **for** such things to occur in fiction.
 * → It is all very well for such things to occur in fiction, **but in real life it is barely credible.** 
+  * 句型: **It is all very well for ... to ... , but ... it is barely ....**
+  * 造句：你在家里穿睡衣 (pajamas) 是无可厚非的，但是在公共场合就不太体面了。
+    * → **lt is all very well for** you **to** wear pajamas in your own home, **but** in public **it is barely** respectable.
+* → <u>To varying degreesn</u>, we all have secrets **which we do not want even our closest friends to learn**, <u>but</u> few of us have skeletons in the cupboard.
+  * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
