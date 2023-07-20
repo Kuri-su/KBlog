@@ -1482,3 +1482,38 @@ sweep swept swept.
 * remote adj. 偏僻的, 遥远的 n. 遥控器
   * a remote place
 * Pacific 太平洋
+* damage v. 毁坏 (可修复)
+* wreck n. 残骸
+* rediscover v. 重新发现
+  * repeat v. 重复
+  * retell v. 复述
+  * rebuild v. 重建
+  * restore v. 恢复, 修复, 把... 放回
+* aerial adj. 航空的
+* survey n. 调查
+* rescue v. 营救 n. 营救, 救援
+  * rescue operations 营救行动
+* package v. 把... 打包 n. 包裹
+  * package sth.
+    * a small package of cigars
+  * pack v. 包裹, 打包
+    * a packing case. 一个打包的箱子 (包装箱)
+* imagine v. 想象
+  * imagine + n./动名词
+* colony n. 殖民地; 群体
+  *  a colony of bee
+* preserve v. 保护
+  * prepare v. 做准备
+  * preview v. 预演, 预告
+  * precaution n. 预防措施
+  * pre 强调事前
+* beeswax n. 蜂蜡
+
+**## key structure**
+
+* have 使役动词
+  * have sth. done
+
+**## text**
+
+* 
