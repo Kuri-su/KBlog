@@ -137,12 +137,86 @@
 
   * **bring/put sth. $\Leftrightarrow$  forward to ... ** 把事情提前
     * → The meeting has **been <u>brought</u> / <u>put</u> forward to** Thursday.
-    * 
 
 
 **## text 1**
 
-* 
+* → One of the most famous sailing ships of the 19th century, **<u>the</u> Cutty Sark**, can still be seen at <u>Greenwich</u>.
+
+  * **Greenwich** 格林尼治
+    * **GMT: Greenwich Mean Time**
+
+  * 轮船的名字前 , 习惯性加上定冠词 <u>the</u>
+    * The loss of **<u>the</u> Titanic** 
+    * **<u>the</u> Cutty Sark**
+    * **<u>the</u> Vasa**
+    * 然而做同位语时, 名词前的 定冠词 the 可省略
+      * → (NCE3-10 P50-L1) The great ship, **Titanic**, sailed for New York from Southampton on April 10th, 1912.
+      * → (NCE3-32 P150-L1) The small ship, **Elkor**, which had been searching the Barents Sea for weeks, was on its way home.
+
+  * 在某个城市 用 in 还是 at 不固定, 如果是形容 人在城市里 用 in, 如果是旅游过去通常用 at, 这里取决于 参考系的大小
+
+* 指〝车、船、祖国”时常用“she”
+
+  * → (NCE3-10 P50-L2) **She** was carrying 1,316 passengers and crew of 891.
+  * → What's wrong with my car? She won't start.
+  * → China has done what **she** promised to do.
+
+* **serve as** 发挥... 的作用, 当作什么东西来用
+
+  * → This room can **serve as** a study.
+  * → Her death should **serve as** a warning to other young people.
+  * → (NCE4-7 P41-L1) Not all sounds made by animals **serve as** language, ...
+  * 同义搭配
+    * **act as ...** 充当, 担任, 发挥... 的作用, 当作什么东西来用
+    * **function as ...** 作为 ... 的功能, 发挥... 的作用, 当作什么东西来用
+      * → A five-year sentence should **act as** a deterrent to others.
+        * sentence n. 句子, 判决 v. 判决, 
+        * deterrent n. 威慑力, 抑制力
+
+      * → Some English adverbs **function as** adjectives.
+
+* **reminder** (souvenir, memo ...) 中文多是当动词来翻译这个词
+
+  * 使人回忆起 A 的 B, 这个 B 就是 reminder
+  * **souvenir** n. 纪念品, 纪念物
+  * **memo** n. 备忘录
+  * → Alison's story is a **reminder** of how vulnerable women can be in what is still essentially a man's world. 
+
+* **<u>serve</u>/<u>act</u> as a reminder** = be a reminder
+
+  * → The drop in stock prices **<u>serves</u> / <u>acts</u> as a reminder** that investing is a form of gambling.
+    * gamb n. 赌博
+      * gamble v. 赌博
+
+  * → The accident **<u>served</u> / <u>acted</u> as a** timely **reminder** of just how dangerous speeding can be.
+    * timely adj. 及时的, 恰好的, 适时的
+
+* → **Before they were replaced by steamships**, sailing vessels <u>like the Cutty Sark</u> were used to carry <u>tea from China</u> and <u>wool from Australia.</u>
+
+  * 确切的名词通常放在主句, 从句和 状语中通常用 代词
+  * **be replaced by ...** 被... 取代, 被...代替
+    * → (NCE3-45 P208-L21) The old farmhouse the family lived in was to **be replaced by** a new $500,000 home.
+
+  * **steamship** 汽轮
+  * **sailing ships** 帆船
+    * **sailing vessels** (同义词)
+      * vessel n. 容器, 船舶, 血管
+
+    * sail n. 帆 ;帆船运动, 航行(尤指以帆船为交通工具) v. 航行, 驾驶船只在水上航行
+    * **ships with sails** 帆船
+
+  * **be used to do** 被用来做某事
+    * **be used to doing sth.** 习惯于做某事
+      * 这里的 used 是 形容词, 后面加介词 to , 介词接 动词的进行时
+        * used adj. 习惯于做某事; 被使用过
+
+    * **used to do** 过去常常, 过去曾经
+
+  * 如果定语从句的先行词前, 有形容词最高级来修饰, 那么定语从句的关系代词, 一般不要用 which, 而直接用 that, (语言习惯)
+    * → (NCE3-10 P50-L4) At that time, however, she was not only <u>the largest</u> ship **<u>that</u> had ever been built**, but was regarded as unsinkable, for she had 16 watertight compartments.
+    * 
+
 
 **## text 2**
 
