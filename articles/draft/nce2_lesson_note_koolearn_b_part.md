@@ -1165,7 +1165,320 @@ sweep swept swept.
          2. by the time + 句子: 引导时间状语从句
          3. by the time you read this. 虽然看上去讲的是现在, 单实际上是在表示将来
        * 时间状语从句中, 一般现在时表示将来, 
-    2. by the time+ 
+    2. by the time+ 一般现在时 的 句子 (表示 将来)
+       * → The conference will have lasted a full week by the time it ends.
+       * → By the time he arrives in Beijing, we will have stayed here for two days.
+  * **将来进行时**
+    * 持续 进行, 正在进行, 确定要发生
+  * **将来完成时**
+    * 将来的之前
+* **将来完成进行时**
+  * 将来完成时  will/shall have done
+    * → Soon the astronauts will have repaired the telescope.
 
+  * **将来完成进行时** will/shall have been doing (强调过程)
+    * → By Friday midday, they will have been working on it for seven days.
+    * → By next Sunday, they will have finish all the preparation.
+    * → They will have been preparing for a month.
 
+*  **grab** grabbed grabbed grabbing
 
+## L62 After the fire
+
+**## words**
+
+* **control** n. 控制,  (变得受控)
+  * get sth. under control 使 .... 处于控制下... 
+  * be under control 一直处于控制 (静态)
+  * lose control 变得失控 (动态)
+  * be out of control 一直不受控 (静态)
+  * **control** v. 控制
+    * control one's emotion 控制某人的情绪
+    * control the budget 控制预算
+* **desolate** adj. 荒凉的
+* **threaten** v. 威胁
+  * <u>threaten A with B</u> 用 B 来威胁 A
+    * → threaten the village with destruction
+  * threaten 威胁要做某事
+    * → The U.S.A. threatened to break off diplomatic relations.
+* **authority** n. 当局 (常用复数)
+  * the forest authorities 林业局
+  * the French authorities 法国当局
+* grass(草) - seed (种子)
+* bu<u>s-s</u>top 车站 (只读一个 s)
+* **spray** v. 喷洒
+* **quantity** n. 量
+  * a huge / large / small quantity of sth.
+  * do sth. in huge / large / small quantities.
+* **root** n. 根
+  * take root 生根
+    * → Money is a root of all evils.
+* **century** n. 世纪
+  * country n. 国家
+* **patch** n. 小片; 不定, 片段
+  * a patch of ... 一片
+  * patches of .... 许多片
+* **blacken** v. 变黑, 发暗
+  * the blackened soil 被变黑的土
+
+**## key structure**
+
+* 过去完成时
+* 过去完成进行时
+
+**## text**
+
+* **过去完成时**
+  * 形式: had done
+  * 用法: 过去的之前, 强调 事情完成的结果
+  * → Fireman had put out the fire.
+* **过去完成进行时**
+  * 形式: had been doing
+  * 用法: 过去的之前, 强调事情进行的过程
+  * → Firemen had been fighting the fire for three weeks.
+* <u>过去进行时</u> 和 <u>过去完成进行时</u> 都表示过去的之前, 但强调的重点不同, 前者强调结果 , 后者强调 进行的过程
+* country side 农村
+* great vs. big
+  * big 只表示大,  big man
+  * great 表示 大 或有重要性 , great man (伟人)
+* rise rose rose 上升
+* coming on 持续的来, 逐渐接近, 继续
+* not only ... but ... as well 不仅 .... 而且 ....
+* ,for + 句子表因为
+* → Winter was <u>coming</u> on and the hill <u>threatened</u> the surrounding villages with destruction , for heavy rain <u>would</u> not only <u>wash</u> away the soil but <u>would cause</u> serious floods as well.
+  * 拆解后
+    1. winter was coming on 
+    2. and the hill threatened the surrounding
+    3. , for heavy rain would not only wash away the soil but would cause serious floods as well.
+* → When the fire had at last been put out , the forest authorites ordered several tons of a special type of grass-seed which would grow quickly
+  * 拆解后
+    1. When the fire had at last been put out .
+    2. the forest authorities ordered several tons of a special type of grass-seed 
+    3. which would grow quickly
+* In place of ... 代替
+* soil 土地, 泥土 vs. ground 地面
+* 复习表示过去的时态
+  * 一般过去时  
+    * did 发生过去的时
+  * 过去进行时
+    * was/were doing 过去进行的事 (进行)
+  * 过去将来时
+    * would do 过去的将来 (之后)
+  * 过去完成时
+    * had done 过去的之前 发生的事 (之前 + 结果)
+  * 过去完成进行时
+    * had been doing 过去的之前持续的过程 (之前的过程)
+* fight fought fought
+
+## L63 She was not amused
+
+**## words**
+
+* **circle** n. 圈子; 圆
+  * draw a circle 画一个圆
+  * have a large circle of friends 一大圈的朋友
+* **admire** v. 赞美, 钦佩
+  * admire sb. for sth.
+  * → We admire him for his knowledge
+* **reception** n. 接待
+* **close** adj. 亲密的, 近的 /s/
+  * /z/ v. 关闭
+  * → Our home is close to the school
+  * get close to ...
+    * →  the/your/Jeremy's closest friends
+* **sort** n. 种类 v. 整理
+  * → this sort of thing/things/people
+  * → this kind of ...
+  * sort of / kind of .... 稍微有点
+    * → I'm sort of/ kind of tired.
+
+**## key stracture**
+
+* 复习课
+* 直接引语 变 间接引语
+
+**## text**
+
+* sense of humour 幽默感
+* speech 演讲
+* n. + that 从句 
+  * 定语从句 or 同位语从句
+    * → This is the sort of thing that Jeremy loves
+  * 通过 that 后的句子是否缺成分 来判断是否是定语从句
+* as + 句子, "按照 ... 的方式" , 引导 方式状语从句
+  * → When in Rome , do as Romans do.
+  * → Do it as I told you last week.
+* To his surprise 令他惊讶的
+* **laugh at** 嘲笑某人
+* **扩展, 直接引语 变 间接引语 L15, L39**
+  * → He says, 'I am a fool' 直接引语
+    * (英语中, '说' 后面不用冒号, 用逗号)
+  * → He says(that) he is a fool. 间接引语
+  * 方法1 , 设身处地, 祈使句 变 宾语从句
+    * → 'Stay to lunch.' he insisted.
+      * → He insisted that I should stay to lunch
+    * → 'Come with me.' he suggested
+      * → He suggested that I should go with him
+  * 方法2, 不变成宾语从句
+    * → 'Open the door for me please.' She said to me.
+      * → She asked me to open the door for her.
+    * → 'Don't make so much noise.' She said to the children
+      * → She told them not to make so much noise.
+
+## L64 The Channel Tunnel
+
+**words**
+
+* port n. 港口
+  * airport n. 空港, 飞机场
+* ventilate v. 通风
+  * well-ventilated adj. 通风良好的
+  * ventilation n. 通风
+* sea level 海平面
+* invasion n. 入侵, 侵略
+  * → This is the invasion of my privacy
+  * invade v. 入侵, 侵略, 侵袭
+    * → Hitler invaded Poland on Sep. 1, 1939
+      * 这里 1 都得时候要读 the first
+* afficially adv. 正式地
+* connect v. 连接
+  * connect ... to/with ...
+    * → The bridge connected this small town to the big city.
+  * connection n. 连接, 联系
+* European adj. 欧洲的, 欧洲人的, n. 欧洲人
+  * European continent 欧洲大陆
+  * European Union 欧盟
+  * Europe n. 欧洲
+  * euro n. 欧元
+
+**## key structure**
+
+* if 条件句 (L16, L40)
+  * L16 真实条件句
+  * L40 虚拟条件句
+
+1. if 真实条件句 (假设过去)
+2. if 虚拟条件句 (假设过去)
+3. 宾语从句的虚拟
+
+**## text**
+
+* if 条件状语从句(真实条件句)
+
+|          | If 从句               | 主句           |
+| -------- | --------------------- | -------------- |
+| 假设过去 | 过去的各种时态        | 过去将来时     |
+| 假设现在 | 现在的各种时态        | 一般将来时     |
+| 假设将来 | 一般现在时 (代替将来) | 一般将来时 L16 |
+
+* put forward 提前, 提出
+
+* put forward a plan/proposal
+
+* → He suggested that a double railway-tunnel should be built.
+
+  * suggest 表示 "建议" , 其后宾语从句要虚拟
+  * 从句中 谓语动词 = (should) + 动词原型 (should 可省略)
+
+* 表示 ""建议/命令/要求"" 的动词后, 宾语从句要虚拟
+
+  * suggest, adrise, propose, recommend/order, ask, demand, insist, request....
+
+* → The workers demanded they should be given the wages they should get.
+
+  * draw 有拉(pull)的意思
+
+* If 虚拟条件句, 假设现在
+
+  * | If 从句    | 主句        |
+    | ---------- | ----------- |
+    | 一般过去时 | could+ do   |
+    | did(were)  | would + do  |
+    |            | should + do |
+    |            | might + do  |
+
+  * 从句往过去推, 主句4+1
+
+* If 虚拟条件句, 假设过去
+
+  * | If 从句    | 主句               |
+    | ---------- | ------------------ |
+    | 过去完成时 | could + have done  |
+    | have done  | would + have done  |
+    |            | should + have done |
+    |            | might + have done  |
+
+* 真实
+
+  * → I didn't tell her the result. She didn't know it.
+
+* 虚拟
+
+  * → It I had told her the result, she would have known it.
+
+* If 虚拟条件句(假设将来)
+
+  * | If  从句   | 主句        |
+    | ---------- | ----------- |
+    | 将来同现在 | could + do  |
+    | did(were)  | would + do  |
+    | were to do | should + do |
+    | should do  | might + do  |
+
+  * → If I had/were to have/should have time tomorrow, I would discuss the new plan with you.
+
+## L65 Jumbo versus the police
+
+**## words**
+
+* versus prep. 对阵
+  * A vs. B
+* Christmas n. 圣诞节
+  * Christmas Eve 圣诞夜
+* ought (modal verb. 语气动词) 应该
+  * ought to do sth. = should do sth.
+* weigh v. 称重; 衡量
+  * weight n. 重量
+  * → Jumbo must weigh a few tons.
+* fortunate adj. 幸运的
+  * fortunately adv. 幸运地
+  * unfortunate adj. 不幸运的
+  * unfortunately adv. 不幸运地
+  * fortune n. 运气, 命运
+
+**## Key structure**
+
+* 复习 must / have to
+* 情态动词的虚拟
+  * should/ought to + have done
+* 复习非谓语动词
+
+**## text**
+
+* Father Christmas 圣诞老人
+* guard of honour 仪仗队
+* set off 出发
+* main street 主路
+  * side street 辅路
+* dress 这个词用被动的形式表 主动的穿
+* go along 沿着... 走...
+* though 尽管
+* must = have to
+  * must 无过去式
+* afterwards 事后
+* 动词短语 let
+  * let sb. off 放过, 让某人脱离
+  * let sb. down 让某人失望
+  * let sb. in 让某人进来
+  * let sb. out 让某人出去
+* ride rode ridden riding
+
+## L66 Sweet as honey!
+
+**## words**
+
+* bomber n. 轰炸机
+  * bomb n. 炸弹 v. 轰炸
+* remote adj. 偏僻的, 遥远的 n. 遥控器
+  * a remote place
+* Pacific 太平洋
