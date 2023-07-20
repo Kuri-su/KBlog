@@ -215,9 +215,108 @@
 
   * 如果定语从句的先行词前, 有形容词最高级来修饰, 那么定语从句的关系代词, 一般不要用 which, 而直接用 that, (语言习惯)
     * → (NCE3-10 P50-L4) At that time, however, she was not only <u>the largest</u> ship **<u>that</u> had ever been built**, but was regarded as unsinkable, for she had 16 watertight compartments.
-    * 
+
+  * **one of + 复数名词 + who / which / that + 谓语动词 (单复数均可)** 建议单数
+    * → The Cutty Sark was <u>one</u> of the fastest sailing ships **that <u>has</u> ever been built.**
+    * → (NCE3-9 P46-L5) <u>One</u> of the things **that <u>fascinates</u> us most about cats** is the popular belief that they have nine lives.
+    * 中国国内考试中, 单数复数都对, 新概念体系中倾向于用单数
+    * → (NCE2-28 P134-L1) Jasper White is <u>one</u> of those rare people **who <u>believes</u> in ancient myths.**
+    * 改错题
+      * John is the only one of the students in the class (A) <u>that</u> never (B) <u>admit making</u> a mistake even when (C)<u>it</u> is (D) <u>pointed out</u> to him.
+      * B 错了, admit 应该用单数, 也就是三单形式 admits
+
+* → The only other ship **to match her** was the Thermopylae.
+
+  * **match** v. 与 .... 相匹敌, 是 .... 的对手 n. 双方对垒的比赛
+    * → No one can **match** the unknown archer.
+      * archer n. 弓箭手
+
+    * → The two teams **are well matched.** 两个队伍 势均力敌.
+
+  * **match ... <u>in</u>/<u>for</u>**  在某个方面与某人某物相匹敌 (重要的用法)
+    * → You can't **match** him **in** knowledge of wild plants.
+    * → (NCE3-44 P204-L19) But nothing can **match** them **for** speed and comfort.
+
+* → Both these ships set out from Shanghai <u>on June 18th, 1872</u> **on an exciting race to England.** 
+
+  * **set <u>out</u>/<u>off</u>**  启程, 动身出发
+    * → (NCE3-10 P50-L9) Four days after **setting out,** while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
+    * → (NCE3-20 P90-L12) After making a short test flight at 4.15 a.m., Bleriot **set off** half an hour later.
+    * **set out to do** 带着目的开始某个任务, 带着目的开始做某事
+      * → (NCE3-5 P30-L9) The journalist immediately **set out to** obtain these important facts, but he took a long time to send them.
+      * → (NCE3-16P74-L8) Dimitri at once **set out to** find the thief.
+
+  * **start <u>out</u>/<u>off</u>** 启程, 动身出发 
+  * 日期是 月日年的顺序
+  * 英文中表示在 ... 途中, ... 路上, 只能用 on, 如果和动词连用, 则翻译成开始 ... 旅程, 去做某事...
+    * → (NCE3-1 P14-L12) Several people complained of'cat-like noises' at night and a businessman **on** a fishing trip saw the puma up a tree.
+    * → (NCE3-36 P166-411) While **on** a walking tour with his wife, he stopped to talk to a workman.
+    * → Both these ships **set out** from Shanghai **<u>on</u>** June 18th, 1872 on an exciting race to England. 
+      * 开始了驶往英格兰之旅
+
+    * 如果和动词连用, 则翻译成开始 ... 旅程, 去做某事...
+      * → We **started out <u>on</u>** a 20-mile walk.
+      * → She had **come <u>on</u>** a visit to England.
+      * → After a day or so we will **go <u>on</u>** an excursion.
+
+* → This race, **which went on for exactly four months,** was the last of its kind.
+
+  * **go on** 持续, 继续
+    * → Peace negotiations are still **going on.**
+    * → His speech **went on for** so long that people began to fall asleep.
+
+* → It marked <u>the end of the great tradition of ships with sails</u> and <u>the beginning of a new era.</u>
+
+  * **the <u>beginning</u> / <u>dawn</u> / <u>dawning</u> of a new era**
+  * tradition n. 特定文化或社会中 代代相传的 惯例/习俗/信仰, 传统
+  * → The race was a **landmark** in the history of shipping.
+    * **landmark** n. 路标; 里程碑
+    * **shipping** n. 指 商品/货物 的运输 和交付过程, 也可以指 船舶运输业
+
+* → 造句：中华人民共和国的成立标志着新民主主义革命 (the new-democratic revolution）的结束和社会主义革命和建设的新时代的开始。
+
+  * → The <u>foundation</u> of the People's Republic of China marked the end of the new-<u>democratic</u> <u>revolution</u> and the beginning of a new era of the <u>socialist</u> revolution and <u>construction</u>.
+    * foundation n. 建筑或者建筑结构的基础/基金会/基金 的创立 
+    * democratic adj. 民主的, 民主制度的
+    * revolution n. 革命, 旋转
+    * socialist adj. 社会主义的
+      * capitalist adj. 资本主义的
+
+    * constrcution n. 建筑, 建造, 构建
 
 
 **## text 2**
 
-* 
+* → The first of the two ships <u>to reach Java</u> **after the race had begun** was the Thermopylae, <u>but</u> on the Indian Ocean, the Cutty Sark took the lead.
+  * = → The first of the two ships **that reached Java** after the race had begun was ....
+    * 为什么不用that reached Java, 而用 to reach Java
+      * **the first, the second, the next, the last, the best, the only ... 后常跟不定式作定语**
+        * → (NCE3-20 P9O-L14) When he landed near Dover, <u>the first</u> person **<u>to</u>** greet him was a local policeman.
+        * → (NCE3-53 P240-L6) The Swedes were <u>the first</u> **<u>to</u>** recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public.
+        * → You are <u>the second</u> <u>**to**</u> ask me that question.
+        * → (NCE4-45 P263-L4) <u>The last</u> creature **<u>to</u>** compete with man was the mosquito.
+        * → (NCE3-43 P200-L11) The pie committee decided that <u>the best</u> way **<u>to</u>** transport the dish would be by canal, so they insured it for the trip.
+        * → (NCE3-25 P122-L7) <u>The only</u> other ship **<u>to</u>** match her was the Thermopylae.
+  * = → The first of the two ships to reach Java **after the beginning of the race** was the Thermopylae,
+  * 江河湖海的前面, 也是习惯上加一个 the
+  * **the lead** 比赛中领先的位置
+    * **take (over) the lead (from ...)** 夺取了领先的位置
+      * → ., but on the Indian Ocean, the Cutty Sark **took (over) the lead (from** the Thermopylae).
+    * **lose the lead (to ...)** 把领先的位置输给了某人
+      * → ., but on the Indian Ocean, the Thermopylae **lost the lead (to** the Cutty Sark).
+      * 用定冠词 或者属格都可以
+      * → (NCE3-25 P122-L17) Because of this, the Cutty Sark **lost her lead.**
+
+* → <u>It</u> seemed certain **that she would be the first ship home**, <u>but</u> during the race she had a lot of bad luck.
+  * certain = sure
+  * **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> certain that ..., but ...** 看似某事已经确定无疑了, 但却出了变故
+  * **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> as if / as though .., but ...** 看似好像要发生某事, 但是和人们预料的不一样
+    * → **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> <u>as if /as though</u>** she would be the first ship home, **but** during the race she had a lot of bad luck.
+    * 造句：看似肯定会有一场激动人心的穿越海峡的竞速比赛了，但是莱瑟姆未能起得足够早。
+      * → **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> certain that** there would be an exciting race across the Channel, **but** Latham failed to get up early enough.
+      * → **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> <u>as if</u>/<u>as though</u>** there would be an exciting race across the Channel, **but** Latham failed to get up early enough.
+* **strike (struck struck)**
+  * → NCE3-2 P18-L3) The big clock which used to **strike the hours** day and night was damaged many years ago and has been silent ever since.
+
+## L26 Wanted: a large biscuit tin
+
