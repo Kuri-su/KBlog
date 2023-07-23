@@ -290,7 +290,7 @@
 * → The first of the two ships <u>to reach Java</u> **after the race had begun** was the Thermopylae, <u>but</u> on the Indian Ocean, the Cutty Sark took the lead.
   * = → The first of the two ships **that reached Java** after the race had begun was ....
     * 为什么不用that reached Java, 而用 to reach Java
-      * **the first, the second, the next, the last, the best, the only ... 后常跟不定式作定语**
+      * **the first, the second, the next, the last, the best, the only ... 后常跟不定式作定语** 
         * → (NCE3-20 P9O-L14) When he landed near Dover, <u>the first</u> person **<u>to</u>** greet him was a local policeman.
         * → (NCE3-53 P240-L6) The Swedes were <u>the first</u> **<u>to</u>** recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public.
         * → You are <u>the second</u> <u>**to**</u> ask me that question.
@@ -317,6 +317,9 @@
       * → **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> <u>as if</u>/<u>as though</u>** there would be an exciting race across the Channel, **but** Latham failed to get up early enough.
 * **strike (struck struck)**
   * → NCE3-2 P18-L3) The big clock which used to **strike the hours** day and night was damaged many years ago and has been silent ever since.
+    * 
 
 ## L26 Wanted: a large biscuit tin
+
+
 
