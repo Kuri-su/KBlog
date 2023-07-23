@@ -315,9 +315,60 @@
     * 造句：看似肯定会有一场激动人心的穿越海峡的竞速比赛了，但是莱瑟姆未能起得足够早。
       * → **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> certain that** there would be an exciting race across the Channel, **but** Latham failed to get up early enough.
       * → **It <u>looked</u> / <u>seemed</u> / <u>appeared</u> <u>as if</u>/<u>as though</u>** there would be an exciting race across the Channel, **but** Latham failed to get up early enough.
-* **strike (struck struck)**
-  * → NCE3-2 P18-L3) The big clock which used to **strike the hours** day and night was damaged many years ago and has been silent ever since.
-    * 
+* **strike (struck struck)** n./v. 罢工; 打击, 撞击; 带点, 报时
+  * → (NCE3-2 P18-L3) The big clock which used to **strike the hours** day and night was damaged many years ago and has been silent ever since.
+  * → (NCE3-6 P34-L13) One of the thieves **was struck by** a heavy statue, but he was too busy helping himself to diamonds to notice any pain. (be struck by , 被某个东西重重地砸了一下)
+  * → The family **was struck by** yet another tragedy. 
+    * tragedy n. 悲剧, 悲惨
+  * 出乎意料的遭遇了某个不好的事的表达
+    * **be caught in ...**
+      * → We **were caught in** <u>a heavy storm</u> / <u>a traffic jam</u>.
+        * traffic jam 交通堵塞
+* 表示程度重的 形容词
+  * **<u>heavy</u> / <u>severe</u> / <u>violent</u> / <u>devastating</u> / <u>disastrous</u> storm**
+    * **severe** adj. 指程度、性质或严重性很高
+    * **violent** adj. 指具有剧烈、强烈或激烈的性质或行为
+    * **devastating** adj. 毁灭性的、破坏性的或致命的
+    * **disastrous** adj. 形容一个事件、情况或结果非常糟糕或灾难性的
+* 使用 定语从句 比 并列句更加简洁的 **'在此期间的发生了某事'** 写法
+  * 例1: 
+    * → In August, she was struck by <u>a very heavy storm</u> **and during <u>the storm</u>** her rudder was torn away.
+    * → In August, she was struck by a very heavy storm **<u>during which</u>** her rudder was torn away.
+  * 例2: 
+    * → (NCE3-20 P90-L9) A week before, he had completed a successful overland flight **during which** he covered twentysix miles.
+    * → As long ago as the 1930's, the Red AArmy had completed the successful Long March **during which** they covered 25,000 li.
+* **tear sth. <u>away</u>/<u>off</u>/<u>up</u> ...** 撕掉某物
+  * **tear** n. 眼泪; 撕裂, 裂口 v. 撕裂, 裂口
+  * tear , tore, torn
+  * → The flag **was torn away** from the pole by the strong wind.
+    * pole n. 杆子
+  * → High winds nearly **tore** the roof **off**.
+    * High wind 大风 
+    * roof 房顶, ceiling 天花板
+  * → The storm had **torn** the old tree **up** by the roots.
+
+* 左右剧烈摇摆的 表达
+  * **roll <u>heavily</u> / <u>violently</u> <u>from side to side</u> /<u>to and fro</u>** 
+  * → The ship was **rolling heavily to and fro.**
+  * → The plane **rolled violently from side to side** in the storm.
+* from ... to 的 零冠词表达
+  * **from side to side**  来来回回
+  * **from place to place** 到处
+    * → (NCE3-27 P130-L16) His few material possessions make it possible for him to move from place to place with ease.
+  * **from cover to cover ** 从头到尾
+    * read sth. **from cover to cover**
+  * sell sth. **from door to door** 挨家挨户
+  * vary **from person to person** 因人而异
+  * improve **from day to day** 日渐改善
+* **on board** 在船上, 到船上
+  *  → (NCE3-28 P134-L2) Before she had anchored, the men from the boats had climbed **on board** and the decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful hand-made silverware.
+* **spare** adj. 多余的, 备用的 
+  * a **spare** <u>key</u> / <u>battery</u> /<u>tire</u> ...
+    * tire n. 车轮, 橡胶制品
+* A temporary rudder was made on board from spare planks and it was fitted **<u>with great difficulty</u>** (=**<u>very difficultly</u>**).
+  * (NCE3-11 P54-L13) The Officer went through the case **<u>with great care</u>** (=**<u>very carefully</u>**).
+
+**## text3**
 
 ## L26 Wanted: a large biscuit tin
 
