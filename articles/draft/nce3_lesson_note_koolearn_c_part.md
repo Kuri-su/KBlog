@@ -439,10 +439,96 @@
 
   * no doubt 毫无疑问
     * doubt /daʊt/ n. / v. 画意, 疑问, 不确定状态
-  * 上文 that 从句, 可以看作宾语从句
-    * that 
+  * 上文 that 从句, 可以看作宾语从句, 也可以看作 同位语从句
+  * **there is no doubt that** 句型 (背诵), 毫无疑问
+    * → **There's no doubt that** one day a cure will be found.
+      * cure /kjʊr/ n. 治疗, 疗法, 解决方案
+    * 同义表达
+      * **undoubtedly** adv. 无疑地, 毋庸置疑地, 确实地
+        * → She was **undoubtedly** the best candidate.
+        * → **Undoubtedly**, public interest in folk music has declined.
+      * **needless to say, ...** 毫无疑问
+        * → (NCE3-36 P166-L16) **Needless to say,** the man's name was Hans Bussman and he really was Franz's long-lost brother.
+      * **it goes without saying that... ** 毫无疑问
+        * → **It goes without saying that** home is the warmest place in the world.
+
+* **与过去事实相反的"If”型的虚拟 **
+
+  * **If+S.+ had done, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + have done**
+    * → (NCE3-45 P208-L13) If they **<u>had</u>** only **<u>had</u>** one more child, the fact **<u>would have passed</u>** unnoticed.
+    * → (NCE2-71 P320-L3) 1f the Houses of Parliament **<u>had not been</u>** burned down in 1834, the great.clock **<u>would never have been erected.</u>**
+
+* . she would have **won the Thermopylae** easily. (x)
+
+  * won 表示赢得了, 不能用对方球队做 宾语, 
+  * 如果一定要用对手做宾语, 最好用击败做动词,  
+    * → ... she would have **<u>beaten</u> / <u>defeated</u> the Thermopylae** easily.  (T)
+
+* 造句：毫无疑问，如果泰坦尼克号没有撞到冰山，她将抵达目的地而毫发无伤 (intact)。
+
+  * → **There is no doubt that** if the Titanic **had not been hit** by the iceberg, she **would have reached** her destination intact.
 
 ## L26 Wanted: a large biscuit tin
 
+**## words**
 
+* ⭐️ **influence** n. 影响, v. 影响, 改变
+  * (必备词汇)
+  * **the influence of ..... <u>on</u>/<u>upon</u>** 前者对于后者的影响
+    * → **the influence of** parents **<u>on</u> / <u>upon</u>** their children
+    * **the influence on** 对于后者的影响
+  * 同义表达
+    * **the *effect* of ... <u>on</u>/<u>upon</u>** 前者对于后者的影响
+      * → **the effect of** fertilizers **<u>on</u> / <u>upon</u>** the crops
+    * **the *impact* of ... <u>on</u> / <u>upon</u>** 前者对于后者的影响
+      * → **the impact of** the oil spill **<u>on</u> / <u>upon</u>** marine life
+        * **marine** adj. 海的, 海生的, 海军的 n. 海军; 海洋生物
+* **pride** /praɪd/ v. 骄傲 n. 骄傲
+  * 动词的骄傲一定放在 固定搭配里面
+  * **be proud of ...** 对 ... 骄傲
+  * **take pride in ...** 对 ... 骄傲
+  * **pride oneself on ...** 对 ... 某事骄傲
+* **taste** n. 鉴赏力, 品味; 口味 (不可数) v. 品味, 尝试, 体验, 
+  * → *Phoebe*: Oh that's good, I guess she'll have a choice between my guy and your weirdo. *Chandler*: Why would our guy be a weirdo? *Phoebe*: Because that's just your **taste**.
+    * weirdo  n. 怪人, 古怪的人, 离奇的人
+  * **a <u>man</u> / <u>woman</u> of taste** 有品味的男人
+  * **have ... taste in ...** 在某一方面有品味
+    * → She **has** good **taste in** music
+    * → He **has** terrible **taste in** clothing
+  * **tasteless** adj. 没有品味的, 低俗的, 庸俗的
+* **exert** v. 施加
+  * **exert ... on ...** 施加了某种力量在某物上
+    * → My wife **exerts** a lot of pressure **on** me to make more money. 施加压力
+      * **pressure** n. 压力, 压迫, v. 给予压力, 压迫
+    * → (NCE3-26 P126-L3) ..., for advertising **<u>exerts</u>** a subtle influence <u>**on**</u> us. 施加 微妙的影响
+    * → (NCE3-34 P158-L1) Antique shops **<u>exert</u>** a peculiar fascination **<u>on</u>** a great many people. 施加一种独特的魅力
+  * **impose sth. on sb.** 把某事强加给某人
+    * → Some parents **impose** their own moral values **on** their children.
+      * moral n. 道德
+  * **inflict sth. on sb.** 把痛苦的事情强加到某人身上
+    * → Please don't **inflict** your love **on** me.
+      * Inflict v. 施加, 造成, 强加
+* **devise** v. 设计, 想出
+  * → The cartoon character Mickey Mouse **was devised** by Walt Disney in 1928.
+  * 同义词
+    * **conceive**  v. 构想, 设想; 怀孕
+    * **come up with** 想出, 构思出 (口语)
+      * 听力题
+        * M: What had they decided to call the stadium? 
+        * W: No one has **come up with** a good name.
+        * Q: What does the woman say about the stadium?
+        * Answer: (B) A good name hasn't been found for it.
 
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L27 Nothing to sell and nothing to buy
