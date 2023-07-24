@@ -521,7 +521,9 @@
 
 **## text 1**
 
-* 
+* **wanted** : 诚聘, 求购
+  * **help wanted section** 招聘启示专栏
+  * 
 
 **## text 2**
 
