@@ -370,6 +370,78 @@
 
 **## text3**
 
+* → This greatly reduced the speed of the ship, **for there was a danger that <u>if she travelled too quickly</u>, this rudider would be torn away as well.**
+
+  * greatly adv. 极大地
+
+  * reduce v. 使减少, 使降低
+
+  * **'表示某种不好的事可能会发生'** 的表达
+    * **there <u>is</u> / <u>was</u> a danger that ...**  
+      * → (NCE3-43 P200-L28) **There was a danger that** the wave would rebound off the other side of the bank and send the dish plunging into the water again.
+      * → **There is a danger that** the political disorder of the past will return.
+      * → **There is a danger that** museums will attempt to entertain rather than educate.
+      * 造句：如果 Ramsay 夫人报警，她可能就再也看不到 Rastus了。
+        * → **There was a danger that** if Mrs. Ramsay went to the police, she would never see Rastus again.
+
+* → Because of this, <u>the Cutty Sark</u> **lost <u>her</u> / <u>the</u> lead to** <u>the Thermopylae.</u> (丢失了领先的地位)
+
+  * → Because of this, <u>the Thermopylae</u> **took (over) the lead from** <u>the Cutty Sark.</u>
+
+* → **After crossing the equator**, the captain called in at a port <u>to have a new rudder fitted</u>, <u>but</u> by now the Thermopylae was over 500 miles ahead.
+
+  * **equator** n. 赤道
+    * **pole** n. 极; 旗杆 
+      * **the <u>North</u>/<u>South</u> Pole** 南极/北极
+    * **latitude** n. 纬度
+    * **longitude** n. 经度
+    * **axis** n. 轴; 地轴 
+  * 顺路到了某地
+    * **call in at somewhere** 
+    * **call in on sb.** 顺路拜访某人
+      * → Will you **call in at** the supermarket for some eggs and milk?
+      * → Could you **call in on** Mum on your way home?
+  * **by now** 此时 (这里让读者更加有身临其境的感觉)
+    * **by then** 到那时
+    * → (NCE3-57 P256-L1) I had expected to be near my objective **by now**, but everything still seemed alien to me. (这里 用 buy now让读者更加有身临其境的感觉)
+    * 有时候作者在描述过去的故事情节的时候, 突然间会换成现在时, 让读者更加有身临其境的感觉.
+
+* ahead adv. 在前面
+
+* → .., but by now the Thermopylae was over 500 miles **ahead**.(**of <u>the Cutty Sark</u> / <u>her</u>**). 宾语和介词一块儿生, 一块儿死
+
+* → **Though the new rudder was fitted at tremendous speed**, <u>it</u> was impossible for the Cutty Sark <u>to win.</u>
+
+  * Though 尽管, 引导让步状语从句, 不能加连词的'但是', 可以加 连词/副词的'但是/然而', 例如 however, 
+  * speed 相关
+    1. **speed 做不可数名词时，与at, with 搭配均可**
+       * e.g. <u>**at**</u> / <u>**with**</u> great speed
+    2. **speed 做可数名词时，只能与 at 搭配**
+       * e.g. **at** a speed of 60 mph
+  * **tremendous** adj. 巨大的, 惊人的 
+    * → (NCE3-21 P106-L9) In his day, Mendoza enjoyed **tremendous** popularity.
+    * at **(a) fantastic** speed
+    * → (NCE3-6 P34-L14) The raid was all over in three minutes, for the men scrambled back into the car and it moved off **at a fantastic speed.**
+
+* 在之前多久, 在之后多久 , 通常 在 after 或者 before 之前直接加上时间即可
+
+  * → (NCE3-10 P50-L9) **<u>Four days</u> after setting out**, while the Titanic ...
+  * → (NCE3-19 P86-L9) **<u>Three days</u> after Rastus' disappearance**, Mrs Ramsay received an anonymous letter.
+  * → (NCE3-29 P138-L13) A man who had broken his right leg was taken to hospital **<u>a few weeks</u> before Christmas.**
+
+* **consider** v. 考虑, 思考, 认为
+
+  * **considering** prep. & conj. 考虑到.... 
+    * → (NCE3-19 P86-L17) **Considering** the amount she paid, he was dear in more ways than one!
+    * → Even this was remarkable, **considering (that)** she had had so many delays.
+
+* → There is no doubt **that if she <u>had not</u> lost her rudder she <u>would have won</u> the race easily.**
+
+  * no doubt 毫无疑问
+    * doubt /daʊt/ n. / v. 画意, 疑问, 不确定状态
+  * 上文 that 从句, 可以看作宾语从句
+    * that 
+
 ## L26 Wanted: a large biscuit tin
 
 
