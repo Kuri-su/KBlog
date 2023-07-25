@@ -521,8 +521,63 @@
 
 **## text 1**
 
-* **wanted** : 诚聘, 求购
+* **wanted** : 诚聘, 求购; 通缉
   * **help wanted section** 招聘启示专栏
+  * 听力题
+    * W: Since when do you read the Sunday Times?
+    * M: Since I d/iscovered its big **helpwanted section.**
+    * Q: What can be assumed about the man?
+    * Answer: (D) He's interested in finding aiob.
+  * → The <u>fugitive</u> **is wanted by** the police.
+    * fugitive n. 逃犯 adj. 逃亡的, 短暂的
+* **avoid** v. 避免, 躲避
+  * **avoid doing**
+  * 造句：没有人可以避免受到社会的影响。
+    * → No one can **avoid being influenced** by society.
+  * 造句：没有人可以避免受到金钱的引诱。
+    * → No one can **avoid being tempted** by money.
+  * 造句：没有人可以避免犯错误。
+    * → No one can **avoid making** mistakes. 
+  * (双重否定表肯定, 并且会加强语气)
+    * → Everyone is influenced by advertisements.
+      * → **No one can avoid being influenced by advertisements.** (意思相同, 但是语气更加强烈)
+    * → Everyone admits that ...
+      * → **No one can deny that ...**
+    * → Everyone is attracted by ...
+      * → **No one can resist ...**
+* → **Much as we may pride ourselves on our good taste**, we are no longer free to choose the things we want, **<u>for advertising exerts a subtle influence on us.</u>**
+  * **pride oneself on ...** 对... 感到自豪
+    * **take pride in ...** 对 ... 感到自豪
+    * **be proud of ...** 对... 感到自豪
+  * 开头是 特殊的 让步状语从句, 省略了 Although 连词, 并且强调 much, 加强了 pride 的语气
+    * 原句应该是 → **Although** we may **much** pride ourselves on our good taste, ...
+    * **强调句**
+      * **强调 adj./adv.**
+        * 把要强调的词提前, 省略让步状语从句 连词,  然后把要强调的词后面加 as
+          * → **Much <u>as</u>** we may pride ourselves on our good taste,
+        * → **Although** I **much** admire Newton as a scientist, I don't like him as a man.
+          * → **Much <u>as</u>** I admire Newton as a scientist, I don't like him as a man.
+        * → **Although** we may be **proud** of our good taste, ...
+          * → **Proud <u>as</u>** we may be of our good taste, ...
+        * → **Although** she is **beautiful**, I still don't like her.
+          * → **Beautiful <u>as</u>** she is, I still don't like hier.
+      * **强调谓语动词**
+        * 把谓语动词提前, 省略让步状语从句 连词, 然后把要强调的词后面加 as, 并且在原来 谓语动词的位置留下 助动词
+        * → **Although** he **tries**, he never seems able to do the work beautifully.
+          * → **Try <u>as</u>** he **does**, he never seems to do the work beautifully.
+      * **强调名词**
+        * 把名词提前, 省略让步状语从句 连词, 然后把要强调的词后面加 as, 冠词要去掉, 用零冠词
+        * → **Although** he is **<u>a</u> child**, he can make aliving.
+          * → **Child <u>as</u>** he is, he can make a living.
+  * 自由的做某事
+    * **be free to do ...**
+      * → You **are free to** choose the things you want.
+    * **freely**
+      * → You can choose the things you want **freely**.
+    * **be at liberty to do**
+      * → You are at liberty to choose the things you want.
+  * **subtle** adj. 微妙的, 细微的, 精细的
+* → **In their efforts to persuade us to buy this or that product**, advertisers have made a close study of human nature <u>and</u> have classified all our little weaknesses.
   * 
 
 **## text 2**
