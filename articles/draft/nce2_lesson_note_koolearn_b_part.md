@@ -1516,4 +1516,106 @@ sweep swept swept.
 
 **## text**
 
-* 
+* <u>as sweet as</u> honey 原级比较
+  * as busy as bees
+  * as sticky as glue
+    * glue 粘合剂
+*  → In 1963 a Lancaster bomber crashed on wall is Island, a remote place in the South Pacific, a long way west of Samoa.两个同位语
+* undisturbed adj. 不受打扰的
+* disturb v. 打扰
+  * Do not disturb 请勿打扰
+* remain v. 保持 n. 剩余
+  * remained undisturbed adj. 保持不被打扰的状态
+* crashed 
+  * the crash n. 坠毁
+* **accidentally** adv. 意外地
+* **rediscover** v. 重新发现
+* **condition** n. 状况 (situation)
+* **reasonable** adv. 合理地
+  * in reasonable / good / perfect condition 
+  * in bad / terrible condition 
+* rare adj. 稀少的
+* be worth doing 值得做某事 (主动 表 被动)
+  * → These books are worth reading.
+  * → The idea is worth considering.
+  * → Whatever is worth doing is worth doing well.
+* By+ 时间, 通常与 完成时连用, 但有例外
+* **authorities** n. 政府, 当局
+  * → The French authorities had the plane packaged and (the French authorities had the plane) moved in parts back to France
+* have 使役
+  * have sth. done 使某时被做
+* 比较: do/have sth. done
+  * → I wash my car. 我洗我的车
+  * → I have my car washed 我使我的车被洗 (不一定是我洗的)
+  * do sth. 主语亲自做
+  * have sth. done  使某事碑座, 不一定是主语做的
+  * → I have my hair cut.
+  * → I have my clothes washed.
+* delight n./v. 高兴
+  * turn A into B,  把 A 变成 B
+* 扩展
+  * → She ashed somebody to value her house.
+  * → She had her house valued
+  * → He will ask somebody to paint the house for him
+  * → He will have the house pointed
+  * → I must ask someone to photo copy this letter
+  * → I must have this letter photocopied
+  * → Sally will have to ask someone to repair her car
+  * → Sally will have to have her car repaired.
+
+## L67 Volcanoes
+
+**## words**
+
+* volcano n. 火山
+  * active volcanoes 活火山
+  * inactive/dormant volcanoes 休眠火山
+  * extinct volcanoes 死火山
+* erupt v. (火山) 喷发
+  * violently adv. 猛烈地, 剧烈地
+  * violent adj. 猛烈的, 剧烈的
+  * violence n. 暴力
+* manage v. 设法
+* brilliant adj. 精彩的
+* liquid adj. 液态的
+  * solid adj. 固态的
+  * gas adj. 气态的
+* escape v. 逃脱
+  * → The prisoner attempted to escape but failed
+    * attempt v. 尝试
+  * → Their conversation did not escape my notice.
+  * → We all want to escape from the reality sometime.
+* alive adj. 活着的
+
+**## key structure**
+
+* 复习 can/be able to 
+* managed to do
+
+**## text**
+
+* Polish n. 波兰人 adj. 波兰的
+  * Poland n. 波兰(国家)
+* spend time (in) doing sth.
+  *  → He spent his life time studying sth.
+  * → In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.
+* **can/be able to**
+  * 相同点: 
+    * 都表示 能力, "能够"
+    * (be able to 时态 比 can/could 更灵活)
+      * 情态动词只有两种时态
+  * 不同点: 
+    * 表示过去已经成功做到的, 用 was/were able to 不用 could
+    * can/could 还可以表示猜测允许
+* managed to do = was/were able to do
+* a number of ... → a large number of ...
+* could not do = was not able to do  = did not manage to do 
+* threatened v. 可能来临
+* just in time 及时的
+* managed to 可以表示过去真的有去做
+  * could do 表示过去有能力做, 不表答是否有做
+* measure v. 测量
+  * temperature n. 温度
+* rick sb's life 冒着某人的生命危险
+* any man live 任何活人
+  * 
