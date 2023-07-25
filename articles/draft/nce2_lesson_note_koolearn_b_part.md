@@ -1847,4 +1847,24 @@ sweep swept swept.
 * 形容词与介词搭配的词组
   * 后面接 for 的形容词 (针对于 sb., 目的是为了)
     * sorry for 对... 感到遗憾
-    * 
+    * responsible for  对... 负责
+    * volid for 有效期为
+    * eager for 渴望的
+    * enough for 足够
+    * famous for 以...闻名
+    * fit for 合适, 适合
+    * grateful for/to 感激
+    * thankful for/to 感谢
+    * qualified for/in 能胜任
+    * ready for/to 准备好
+  * 后面可接 with 的 adj. (伴随)
+    * popular with 为...所喜爱
+    * patient with 有耐心
+    * consistent with 与... 一致
+    * content with 对... 满足
+    * busy with/to 忙于
+    * familiar with/to 与... 熟悉
+    * angry with sb. 因某人而生气
+      * angry at sth. 因某事而生气
+  * 后面可接 of 的形容词 (属性)
+    * aware of 
