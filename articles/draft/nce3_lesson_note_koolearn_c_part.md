@@ -522,6 +522,7 @@
 **## text 1**
 
 * **wanted** : 诚聘, 求购; 通缉
+
   * **help wanted section** 招聘启示专栏
   * 听力题
     * W: Since when do you read the Sunday Times?
@@ -530,7 +531,9 @@
     * Answer: (D) He's interested in finding aiob.
   * → The <u>fugitive</u> **is wanted by** the police.
     * fugitive n. 逃犯 adj. 逃亡的, 短暂的
+
 * **avoid** v. 避免, 躲避
+
   * **avoid doing**
   * 造句：没有人可以避免受到社会的影响。
     * → No one can **avoid being influenced** by society.
@@ -545,7 +548,9 @@
       * → **No one can deny that ...**
     * → Everyone is attracted by ...
       * → **No one can resist ...**
+
 * → **Much as we may pride ourselves on our good taste**, we are no longer free to choose the things we want, **<u>for advertising exerts a subtle influence on us.</u>**
+
   * **pride oneself on ...** 对... 感到自豪
     * **take pride in ...** 对 ... 感到自豪
     * **be proud of ...** 对... 感到自豪
@@ -577,12 +582,130 @@
     * **be at liberty to do**
       * → You are at liberty to choose the things you want.
   * **subtle** adj. 微妙的, 细微的, 精细的
+
 * → **In their efforts to persuade us to buy this or that product**, advertisers have made a close study of human nature <u>and</u> have classified all our little weaknesses.
-  * 
+
+  * in 可以表示 '在...的过程当中'
+    * **in sth./ in doing sth.** 在... 的过程当中
+      * **In trying** to persuade us to buy ...
+      * → (NCE3-27 P130-L13) **In seeking** independence, they do not sacrifice their human dignity.
+  * 说服某人去做某事的表达 (3 kinds)
+    * **persuade sb. <u>to do</u> / <u>into doing</u>**
+    * **talk sb. into doing**
+      * → We **talked** Father **into** buying the car.
+    * **get sb. to do** 说服某人去做
+      * → (NCE3-39 P178-L1) The rough road across the plain soon became so bad that we tried to **get** Bruce **to** drive back to the village we had come from.
+  * 说服某人不去做某事 的表达(4 kinds)
+    * **persuade sb. <u>not to do</u> / <u>out of doing</u>**
+    * **talk sb. out of doing**
+    * **get sb. not to do**
+    * **dissuade sb. from doing**
+    * 造句：我劝他不要自杀 (commit suicide)
+      * commit v. 做事 (一般是 做错事和傻事)
+      * → I **persuaded** him **<u>not to commit</u> / <u>out of committing</u>** suicide.
+      * → I **talked** him **out of committing** suicide.
+      * → I **got** him **not to commit** suicide.
+      * → I **dissuaded** him **from commiting** suicide.
+        * suicide n. 自杀
+  * effort n. 努力, 尽力, 力量
+    * effect n. 效果, 影响
+  * persuade v. 说服, 劝说
+  * '各种各样' 的 表达 (习语搭配)
+    * **this or that** product 各种各样的商品
+    * **one** product **or another** 
+    * **some** product **or other**
+
+* **study ...** 研究
+
+  * **make a study of ...** 研究 (名词当中心词)
+    * → CE3-9P46-L9) Recently the New York Animal Medical Center **made a study of** 132 cats over a period of five months.
+  * **make a <u>close</u> study of ...** 做仔细的研究...
+
+* **discover**
+
+  * **make an <u>interesting</u> discovery of ...**
+    * →(NCE3-3 P22-41) Some time ago, **an interesting discovery was made** by archaeologists on the Aegean island of Kea.
+
+* **describe** 描述
+
+  * **make a <u>vivid</u> description of ... **
+
+* **investigate ** 调查
+
+  * **make a <u>thorough</u> investigation of ...** 对某物做彻底的调查
+
+* **summarize** n. 总结
+
+  * **make a <u>comprehensive</u> summary of ... ** 对某物做 全面的总结
+
+* **analyze** 
+
+  * **make a <u>detailed</u> analysis of ...**  对某物做了 详细的分析
+
+* weakness 
+
+  1. n. 懦弱, 软弱 (不可数)
+
+     * So let us begin anew --- remembering on both sides that civility is not **a sign of <u>weakness</u>**, and sincerity is always subject to proof. Let us never <u>negotiate out of fear</u>, but let us never <u>fear to negotiate</u>.  ---  John F. Kennedy
+       * 倒付
+
+  2. n. 弱点, 缺点 (可数)
+
+     * 反义词
+
+       * **strength** n. 长处优点
+
+         * **strengths and weaknesses**
+
+         * → For we know that our patchwork heritage is **a strength**, not **a weakness**. We are a nation of Christians and Muslims, Jews and Hindus, and nonbelievers.
 
 **## text 2**
 
-* 
+* → Advertisers discovered <u>years ago</u> **that all of us love to get something <u>for nothing</u>.**
+  * **<u>for nothing</u> / <u>for free</u> / <u>free of charge</u>** adv. 免费...
+    * → Guests can park **<u>for nothing</u> / <u>for free</u> / <u>free of charge</u>**.
+  * **no charge for ...** ... 免费
+    * → There is **<u>no charge for</u>** parking.
+  * **be on the house** 店主请客 (免费)
+    * → "How much do I owe you?" “Well, thatill be eighteen dollars and seventy cents. **<u>No charge for</u>** the cleanup. It**<u>'s on the house</u>**.
+* → An advertisement **which begins with the magic word <u>FREE</u>** can rarely go wrong.
+  * **begin with ...** 以 .. 开头
+    * → "Let's go into the kitchen, and maybe you can help me set the table.”
+    * → "Sound's good to me. What are we having?” 
+    * → "I prepared lamb chops, mashed potatoes, and a tossed green salad to begin with.” 
+      * lamb chop 羊排
+        * chop n. 肉 或者食物的切片, v. 猛砍, 切割
+      * toss v. 投掷, 扔; 搅拌
+      * mash v. 用力捣碎, 捣烂 ; 将不同的东西混合
+    * → “Grandpa, you are a terrific guy!”
+      * terrific adj. 极好的, 很棒的
+        * traffic n. 交通
+  * **end with ...** 以 ... 结束
+    * → The rally **ended with** the singing of national anthem.
+      * **rally** v. 聚集, 集合 n. 集会, 大会
+      * **notional anthem** 国歌
+        * anthem n. 赞美歌, 颂歌, 
+  * **go wrong** 出错, 出问题, 不顺利
+    * go 系动词, 表变得
+    * → Something's **gone wrong** with my computer
+    * → (NCE3-33 P154-L1) We have all experienced days when everything **goes wrong.**
+* **These days** 现如今, 当今
+* '在世界各地'的表达
+  * **<u>round</u> / <u>around</u> the world** 
+  * **throughout the world**
+  * **all over the world**
+  * **the world over**
+    * → Michael Jackson was popular **~**.
+* **enable sb. to do ...**
+  * **= make it possible for sb. to do ...**
+    * it 是形式主语
+    * → Radio and television have **made it possible for** advertisers **to** capture the attention of millions of people in this way .
+    * → Radio and television have **enabled** advertisers **to** capture the attention of millions of people in this way. 
+  * Radio and television 作泛指 广播和电视, 而不是说 那台收音机 和 电视机
+* '吸引某人的注意力' 的表达
+  * **<u>capture</u> / <u>attract</u> / <u>draw</u> / <u>catch</u> / <u>arrest</u> / <u>command</u> / <u>get (one's) attention</u> / <u>the attention of ...</u>**
+    * → (NCE3-21 P106-L11) This **attracted the attention** of Richard Humphries who was then the most eminent boxer in England.
+    * → (NCE3-31 P146-L1) True eccentrics never deliberately set out to **draw attention** to themselves.
 
 **## text 3**
 
