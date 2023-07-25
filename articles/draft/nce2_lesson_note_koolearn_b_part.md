@@ -1618,4 +1618,233 @@ sweep swept swept.
   * temperature n. 温度
 * rick sb's life 冒着某人的生命危险
 * any man live 任何活人
-  * 
+* can/be able to , managed to do 三个词组
+  * 在表示 过去做的意思时有不同
+  * 在表示 过去没做的意思时一样, 
+* **扩展**, 区分 say /tell 
+  * say
+    * say something/anything/nothing
+    * say so (指示这么说)/ no more
+    * say goodbye/ a good word (说好话)
+    * say  通常接说话的内容
+  * tell  可以接 双宾语, 所以可以有 tell sb. sth., 也可以接名词, tell n.
+    * tell us a story , tell you a secret
+    * tell the truth/lies
+    * tell the difference/ the time
+  * →  If you say so, I suppose it's true
+  * →  I don't think you would tell me a lie
+  * →  He is only five, but he can already tell the time
+  * →  If you could say a good word for him, he might get the job.
+
+## L68 Persistent
+
+**## words**
+
+* **persistent** adj. 坚持的, 固执的, 持续不断的, 重复出现的
+  * persistent effort 坚持的努力
+  * persistent conflicts 持续不断的冲突
+  * a persistent smell 持续的味道
+  * **persistence** n. 坚持不写, 固执, 持续存在
+  *  persist v. 坚持, 固执, 持续存在
+    * persist in ...
+    * →  The minority of drivers persist in drinking
+* **insist** v. 坚持做, 坚持认为, 坚决要求
+  * insist on ...
+    * →  He always insists on coming with you
+  * persist 坚持做 ; insist 立场上坚持, 精神上
+* avoid v. 离开, 避免
+  * avoid + n. doing sth.
+    * →  Try to avoid accidents while you are driving.
+
+**## key struction**
+
+* 非谓语动词 doing	
+  1. 相当于 名词用 --- 动名词 (小名)
+  2. 修饰 名词或句子, 表示 主动/正在进行 --- (小名) 现在分词
+
+**## text**
+
+* doing 
+  1. doing 动名词 (用法1) - 
+     * 作主语
+       * →  Fishing is my favourite sport.
+     * 介词后, 作宾语 (介词后 跟 名词/ 代词等)
+       * → I often fish for hours without catching anything.
+     * 有些动词后, 作宾语
+       * → I like playing basketball
+  2. 修饰名词 或 句子, 表示 主动 / 正在进行 -- 现在分词(用法二)
+     * → Passing planes can be heard night and day.
+     * → Looking round, I realized that I was the only passenger.
+* pretending v. 假装
+  * → It was no use pretending that I had not seen him, so I waved to him
+* no matter how = however 无论怎样
+  * 引出 让步状语从句
+  * no matter who = whoever
+  * no matter what = whatever
+  * → No matter where you are = wherever you are
+  * → No matter what you do = whatever you do 
+  * → I will be right here waiting for you.
+* → I had to think of a way of preventing him from following me around all morning.
+* → Fancy meeting you here! 想不到在这见到你
+* → You're not busy doing anything are you ?
+  * be busy (in) doing sth.
+* →  would you mind coming?
+* →  would you mind my coming? doing 动名词的逻辑主语
+* 他们坚持周日之前完成报告
+  * →  They insist on finishing the report before Sunday.
+* 他们坚持周日之前完成报告
+  * → They insist on her finishing the report before Sunday.
+* 来晚了使我很紧张
+  * → Coming late made me nervous
+* 他来晚了使老师很生气
+  * → His coming late made the teacher angry.
+* 名词修饰名词 (动名词)
+  * the waiting room
+  * a sleeping bag
+  * a packing case
+* 扩展: 反意疑问句
+  * 1.构成 2.特点 3.写法
+  * → You're not busy doing anything are you? 否定句+疑问
+  * → He plays basketball well, doesn't he?
+  * → He finished his work, didn't he?
+  * → You can't understand me, can you?
+  * → He hasn't left the office, has he?
+  * 回答
+    * → You don't love me , do you?
+      * No, I don't. 是的, 我不爱
+      * Yes, I do.  不是的, 我爱
+
+## L69 But not murder
+
+**## word**
+
+* murder n. 谋杀
+* acquire v. 取得, 获得 (正式 ) =get
+* confidence n. 信心
+  * confident adj. 有信心的
+* examiner n. 主考人
+  * examine v. 考试
+* tap v. 轻敲 n. 水龙头
+* react v. 反应
+* brake pedal 刹车踏板
+* paddle n. 桨
+* mournful adj. 悲哀的
+* instruct v. 命令
+  * instruct sb. to do sth.
+  * instruction n. 指导, 说明
+  * follow the instruction
+* suppose v. 假设
+  * → Let us suppose that ...
+  * be supposed to do 按照计划, 应该做某事
+  * → You are supposed to tell me what to do.
+
+**## key structure**
+
+* 复习被动语态
+* 非谓语动词的变体: having been done
+
+**## text**
+
+* a driving licence 驾照
+* test n./v. 测试
+* heavy traffic 拥挤的交通
+* 状语从句的省略
+  * → After I had been instructed to drive out of town, I began to acquire confidence.(时间状语从句)
+  * 主语省略后, 谓语要编程非谓语
+  * → After having been instructed to drive out of town, I began to acquire confidence.
+* having been done 非谓语动词
+  * 表示被动, 发生在先, (发生在谓语动词之前)
+  * 已经被告诉了很多次, 他还是犯同样的错误
+    * → Having been told many times, he still repeated the same mistake.
+  * 被广告影响之后, 人们就会冲去买新商品
+    * → After having been influenced by the Ads , people will rush to buy new goods.
+* must have been 表推测
+* could be heard 能够被听见
+* in a voice 用 ... 的声音
+  * in a mournful voice 用一种悲哀的声音
+* 扩展; be done vs. done
+  * 表示被动: 
+    * be done 和 done 意思一样, 都表示被动
+  * be done 能做谓语, 被动语态
+  * done 不作谓语, 非谓语表被动
+  * was thrown / thrown 
+    * → The bottle was thrown into the sea.
+    * → The bottle thrown into the sea is found.
+  * 非谓语动词, 表示被动
+    1. → Beaten by a girl, the boy cried.
+    2. → Having been beaten by a girl, the boy cried.
+    3. → Being beaten by a girl, the boy cried
+    4. 总结
+       1. done 只表示被动
+       2. having been done 表被动, 并表示先后关系
+       3. being done 表正在被动
+  * 非谓语动词 vs. 谓语动词, 时间关系? 
+    * →  Having been beaten by a girl, the boy crioed.
+    * → Having been beaten by a girl, the boy is cring.
+    * 非谓语动词不能表示绝对的时间, 只能表示先后顺序, 因为非谓语没有三态一否, 谓语动词才有时态
+
+## L70 Red for danger
+
+**## words**
+
+* bullfight n. 斗牛
+* drunk n. 醉汉, v. 喝
+  * drink v.
+* wander v. 溜达
+  * wonder v. 感到奇怪, 想知道
+* ring n. 圆的东西, 圆形竞技场, 年轮 v. 电话铃响
+* unaware adj. 不知道的, 未察觉的
+  * be unaware of ...
+    * → The drunk was unaware of the danger.
+  * aware adj. 察觉到的, 意识到的
+    * be aware of ...
+* matador n. 斗牛士
+* remark n. 评论; 言语
+* apparently adv. 明显地
+* sensitive adj. 敏感的
+  * sensitive skin 敏感皮肤
+  * a sensitive question/issue 一个敏感的问题
+  * be sensitive to...
+    * → Young people are sometimes too sensitive to criticism.
+* criticism n. 匹配
+* charge v. 冲上去
+  * → Suddenly a dog barked and charged at the stranger.
+  * → How much do you charge for the service?
+  * → The police charged him with murder
+  * → The battery is charging.
+* clumsily adv. 笨拙地
+* bow v. 鞠躬, n. 蝴蝶结
+* safety n. 安全地带
+* sympathetically adv. 同情地
+
+**## key structure**
+
+* 形容词 与 介词搭配的词组
+
+**## text**
+
+* be unaware of 
+  * → The drunk was unaware of the danger.
+  * 主语后必须有动词, 上文为 主+ 动+ 补(主系表)
+* be busy + with + sb. 正忙于应付某人
+* sensitive to sth. 对... 敏感
+* 变得 (系动词)
+  * get
+  * become
+  * turn
+  * go
+  * graw
+* cheer 欢呼(干杯)
+* break into 爆发出
+* even 甚至, 正当...之时
+* v.+on 表示继续做某事 (L14)
+* once more 再来一次
+* for + 原因
+* → Even the bull seened to feel sorry for him
+  * for it looked on sympathetically
+  * until the drunk was out of the way.
+  * before once more turning its attention the matador.
+* 形容词与介词搭配的词组
+  * 后面接 for 的形容词 (针对于 sb., 目的是为了)
+    * sorry for 对... 感到遗憾
+    * 
