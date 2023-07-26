@@ -1867,4 +1867,150 @@ sweep swept swept.
     * angry with sb. 因某人而生气
       * angry at sth. 因某事而生气
   * 后面可接 of 的形容词 (属性)
-    * aware of 
+    * aware of 知道, 意识到
+      * unaware of 没意识到
+    * sure of 肯定
+    * capable of 能够
+    * fond of 爱好
+    * afraid of 害怕
+    * jealous of 嫉妒
+    * short of 缺乏
+  * 后面可接 to 的形容词 (向...., 针对于 ... )
+    * sensitide to 对 ... 敏感的
+    * close to 接近于
+    * contrary to 与 ... 相反
+    * equal to 与 .... 相等
+    * faithful to 忠于 ... 
+    * similar to 与 ... 相似
+    * harmful to 对 ... 有害的
+    * useful to  对 ... 有用
+  * 后面可接 at 的形容词 (表示某个点)
+    * bad / good at 不善于/善于
+    * quick/slow at 在... 方面 快速 / 缓慢
+    * expert/skillful + at/in 熟练于
+  * 后面可接 from 的形容词 (来自)
+    * away/for for 距离 ... 远的, 远离
+    * different from 与... 不同的
+    * safe from 无危险
+  * 后面可接 in 的形容词 (在 .... 方面) (体)
+    * weak in 在 ... 薄弱的
+    * honest in 在 ... 诚实的
+    * fortunate in 在 ... 幸运的
+  * 后面可接 on 的形容词 (在 ... 上面) (面)
+    * dependent on 依赖于
+    * keep on 热心于
+    * intent on 专心于
+  * 后面可接 about 的形容词 (关于)
+    * curious about 对 .... 好奇的
+    * enthusiastic about 对 ... 热心
+    * doubtful about/of 对... 有疑问
+    * reluctant about/ of 对... 很勉强
+  * for / with / of / to / at / from / in / on / about / ...
+
+## L71 A famous clock
+
+**## word**
+
+* parliament n. 议会, 国会
+  * the Houses of Parliament 国会大厦
+* official n. 行政官员 adj. 公职的, 官方的, 正式的
+  * officer n. 军官, 高级官员
+* observatory n. 天文台
+  * observe v. 观察, 研究
+  * Greenwich Observatory 格林威治 天文台
+* check v. 检查, 校对 n. 检查, 支票
+  * → May I check/see you passport ?
+  * double check
+  * bank check 银行支票
+* microphone n. 麦克风
+  * micro- 微型的
+  * MicroSoft
+  * microwave oven 微波炉
+  * microscope 显微镜
+* erect v. 建起
+
+**## key structure**
+
+* 复习课
+
+**## 课文**
+
+* → <u>When</u> you visit London, one of the forst things <u>you will see</u> <u>is</u> Big ben, the famous clock <u>which</u> <u>can be heard all over the world on the B.B.C.</u>
+  * 分析长难句 要 先找从句, 但要先看主句
+* If 条件句: L16, L40, L64
+  * 真实条件句 & 虚拟条件句
+  * **if 虚拟条件句 (假设过去)**
+    * 从句往前推, 主句 4+1
+    * 从句
+      * had done
+      * had been done
+      * had not been done
+    * 主句
+      * would have done
+      * would have been done (被动)
+      * would never have been done (被动否定)
+    * → If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected 
+    * responsible 负责
+    * be responsible for 负责某事
+    * → It is not only of immense size, but (主语省略) is extremely accurate as well
+    * → Officials from Greenwich Observatory have <u>the clock checked</u>(使被检查(使役)) twice a day.
+    * rarely adv. 很少
+
+* **长难句分析**
+  * 在找到了从句的开始后, 从句会在第二个谓语动词前结束
+    * 如何判断谓语动词
+      1. 除了 doing/done/to do (非谓语), 其他都是谓语
+      2. 谓语动词包含三态一否
+* 扩展 - hang 单词
+  * hang 
+    * v. 悬挂 hung , hung
+    * v. 绞死 hanged, hanged
+  * → The hero was hanged.
+  * → We must all hang together, or assuredly we shall all hang separately ---  Benjamin Franklin
+
+## L72 A car called Bluebird
+
+**## words**
+
+* racing n. 竞赛(速度)
+* per prep. 每
+  * per day 每日
+  * per minute 每分钟
+* Utah n. 犹他
+* horse power n. 马力
+* burst v. 爆裂
+  * burst burst burst
+  * <u>burst into</u>(爆发出) tears/laughter
+  * <u>burst out</u> crying/laughing
+* average adj. 平均的
+  * average speed / cost / price
+  * on average 平均来说
+
+**## Key structure**
+
+*  复习课
+
+**## 课文**
+
+* tyre n. 轮胎
+* reached a speed of ... 达到某个速度
+* had great difficulty in 有巨大的困难
+* the first run 第一圈
+* disappoint v. 使失望
+* 600 miles an hour = 600 miles per hour
+* 扩展, 内容回顾
+  * 第一单元, 简单句, 三态一否, 时态(8种重要时态), 语态, 情态, 否定
+  * 第二单元, 并列句, 主从复合句 (定语从句, 状语从句, 名词性从句)
+  * 第三单元, 复习和从句简化, 非谓语动词
+  * 每单元 24课
+  * L16+24 If 条件句
+  * 如何复习
+    * 用 Lesson + 24 来复习一系列的知识点
+    * 逻辑迭代 + 重点循环 + 不同的生活场景
+
+## L73 The record-holder
+
+**## words**
+
+* record-holder n. 记录保持者
+* 
