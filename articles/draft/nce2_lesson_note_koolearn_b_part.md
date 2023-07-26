@@ -2428,13 +2428,142 @@ sweep swept swept.
 * machinery n. 机器(总称) 一类 (不可数)
   * a great deal of machinery
   * a piece of machinery = a machine
-* 
+* display n. 展览, 显示器
+  * on display = on show
+
+* steam n. 蒸汽
+  * steam boats 蒸汽船
+  * a steam hammer 蒸汽锤
+
+* iron n. 铁
+* various adj. 各种各样的
+* palace n. 宫殿
 
 **## key structure**
 
+* 复习 形容词/副词 比较
+
 **## text**
+
+* as ... as 和 ... 相比一样
+* on doing 一... 就...
+* 扩展: 介词 On 的搭配
+  * on display / on show
+  * → He has gone to Frankfurt <u>on business</u>
+  * → I asked to see the officer <u>on duty</u>. 当班中
+  * → <u>On the whole</u> , it has been a very successful year. 整体上
+  * → <u>On the average</u>, I make six telephone calls a day.
+  * → I didn't catch the bus, I came here <u>on foot.</u>
+  * → Look at that smoke, the building must <u>on fire.</u>
+  * → I don't think it was an accident, He did it <u>on purpose.</u> 故意
+  * → You mustn't <u>on any account</u> sign the contract before you read it. 在任何情况下
+  * → I know I had agreeed to let you go to the cinema, but <u>on second thoughs</u>, you should stay at home and finish your homework. 转念一想 /又想了下
 
 ## L81 Escape
 
-## L82
+**## words**
 
+* bush n. 灌木丛
+  * Bush n. 布什(人名)
+* uniform n. 制服
+* shoulder n. 肩膀 v. 肩负起
+* march v. 行进
+  * March n. 三月
+* blaze v. 闪耀, 发光, 燃烧 n. 火焰, 光辉
+* grey adj. 灰白的
+  * grey hair
+* sharp adj. 锋利的, 尖的; 猛烈的;精明的; 反应快的
+* blow n. /v. 打击
+* prisoner n. 囚犯
+  * a prisoner of was = POW 战俘
+  * prison n. 监狱
+* repidly adv. 迅速地
+  * → The man acted rapidly 
+  * 同义词
+    * quickly
+    * fast
+    * promptly 
+    * fleetly
+* boldly adv. 大胆地
+  * → The prisoner marched boldly.
+  * bold adj. 大胆的; 冒险的; 突出的; 粗体的;
+  * a very bold action 一个非常大胆的行动
+  * → I draw a picture in a few bold lines.
+
+**## key structure**
+
+* 复习介词
+
+**## text**
+
+* rifle n. 来福枪
+* drag v. 拽
+* Up and down 来回,前后
+  * here and there 到处
+* feel sorry for ... 对某人感到抱歉
+* 扩展: 复习介词
+  * in/into
+    * in 一直在里面
+    * into 进到里面
+  * to/towards
+    * to 只表示朝向
+    * towards 不仅表示朝向, 还表示一步一步的接近
+  * at 
+    * 表示某个点, 时间点/地点 都可
+  * with 
+    * 伴随着有
+  * for 
+    1. 为了 sb. / sth.
+    2. 针对 sb. / sth.
+    3. 原因, 因为 sth.
+* 复习和联系的方式可以多样化
+  * 跟读课文
+    * 初级: 对方先读, 我方跟读
+    * 中级: shadow reading, 慢半拍一起读
+  * 背诵课文/ 复述课文
+  * 完形填空
+  * 英汉互译
+
+## L82 Monster or fish
+
+**## words**
+
+* sailor n. 海员
+  * sail v. 航行, 航海
+  * go sailing 去航行
+* sight n. 视野, 视线 v. 见到
+* shining adj. 闪闪发光的
+  * shin v. 闪光, 发亮
+* monster n. 怪物
+* creature n. 生物, 动物
+* peculiar adj. 奇怪的
+* oarfish n. 桨鱼
+
+**## key structure**
+
+* 复习被动语态
+
+**## text**
+
+* at times 有时
+* occasionally 偶尔
+* however 然而, 但是
+* made every effort 尽所有的努力
+* as 因为
+* 扩展: 非谓语动词 to do/ to have done
+  * to do 不定式(不受限定的动词形式)
+  * to have done 不定式的完成时
+  * → Fishermen and sailors sometimes claim <u>to have seen</u> (在此之前去过了) monsters in the sea. 
+  * → Fishermen and sailors sometimes claim <u>to seen</u> (准备去还没去) monsters in the sea. 
+  * → It is my pleasure to have helped you.
+  * → It is my pleasure to help you.
+
+## L83 After the elections
+
+**## words**
+
+* election n. 选举
+  * election campaign 选举活动
+  * election debate 选举辩论
+  * elect v. 选举, 推选
+* former adj. 从前的
