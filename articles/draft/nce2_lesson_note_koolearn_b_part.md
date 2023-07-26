@@ -2319,11 +2319,66 @@ sweep swept swept.
 
 **## words**
 
+* parent n. 父母亲之一
+  * parents 父母双方
+* flight attendant 空服员
+  * flight n. 飞行, 航班
+  *  attendant n. 服务员, 陪同者
+* frightened adj. 害怕, 担惊
+  * frighten v. 使害怕, 吓唬
+  * fright n. 害怕
+* curious adj. 急于了解, 好奇的, 奇怪的
+  * be curious about 对... 好奇
+  * be curious to do sth. 好奇的去做某时
+  * curiosity n. 好奇心
+* bomb n. 炸弹 
+  * bomber n. 轰炸机
+  * plant a bomb 安放一个炸弹
+  * plant v. 种, 安放
+
 **## key structure**
+
+* used to do sth. / be used to doing sth.
+* 倒装句 (部分倒装)
+* 复习一般过去式/ 过去进行时 / 过去经常发生
 
 **## text**
 
-
+* used to do sth. 习惯做某事
+* a great deal 大量
+* would do sth. 过去常常做某事
+* take charge of 管理/照顾某人
+* be used to + doing sth. 习惯做某事
+  * → My friend is used to swimming in winters.
+  * → He is used to sleeping during the daytime.
+  * be/get <u>used</u> to ... (get 是表示变得习惯于)
+  * be/get accustomed to ... 习惯于...
+    * accustomed 习惯
+  * used 和 use 的意思不一样
+    * used 
+      1. 过去常常做
+      2. 熟悉
+      3. 旧的, 用过的, 二手的
+* **倒装句**
+  * → Only on one occasion have I ever felt frightened (倒装句) (部分倒装)
+    * (正常语序) I have ever felt frightened only one occasion.
+  * 倒装句就是把一个句子的正常顺序倒装
+    * 成分倒装分类
+      1. 主谓倒装 (通常)
+      2. 主宾倒装
+      3. 主表倒装
+    * 倒装程度分类
+      1. 完全倒装 - 谓语动词全部放到主语前
+      2. 部分倒装 - 谓语动词部分放到主语前
+    * 为什么要倒装 (what)
+      * 为了强调前者
+        * 比方说强调 Only on one occasion, 把介词短语放到句首后, 要交换主谓位置, 提示倒装
+    * 部分倒装 (How)
+      * 部分倒装怎么变 - 用从 陈述句 变 一般疑问句的方法即可
+        * → I like English.
+          * → Do I like English ?
+        * → He likes English
+          * → Does he like English.
 
 ## L80
 
