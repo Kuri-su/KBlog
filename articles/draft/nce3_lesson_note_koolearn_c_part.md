@@ -554,7 +554,7 @@
   * **pride oneself on ...** 对... 感到自豪
     * **take pride in ...** 对 ... 感到自豪
     * **be proud of ...** 对... 感到自豪
-  * 开头是 特殊的 让步状语从句, 省略了 Although 连词, 并且强调 much, 加强了 pride 的语气
+  * 开头是 特殊的 让步状语从句, 省略了 Although 连词, 并且强调 much, 加强了 pride 的语气 ⭐️
     * 原句应该是 → **Although** we may **much** pride ourselves on our good taste, ...
     * **强调句**
       * **强调 adj./adv.**
@@ -709,6 +709,132 @@
 
 **## text 3**
 
-* 
+* programme n. 节目, 项目, 计划
+* **bake** v. 用烤箱来烤制面点 (饼干, 面包)
+
+  * **baker** n. 面包师
+
+  * **baker's/bakery** n. 面包房
+
+  * **roast** v. 用烤箱来烤肉 adj. 烤制的
+    * **roast** turkey 烤火鸡
+    * Peking **roast** duck 北京烤鸭
+
+  * **grill/broil** v. 用明火 在烤架/铁板 上烤
+    * **<u>grilled</u>/<u>broiled</u>** chicken 烤鸡
+
+  * **barbecue (BBQ)** v. 户外烧烤
+
+* for 表示等价交换的用法
+  * → She paid me $30 **for** my bike.
+  * → She bought my bike **for** $30.
+  * → (NCE3-26 P126-L7) Advertisers discovered years ago that all of us love to get something **for** nothing.
+    * for nothing 免费
+
+  * → (NCE3-26 P126-L21) The manufacturers had to pay more money than they had anticipated, for they bought the biscuit from the student **for** $24,000.
+
+* **the response to ... <u>is</u>/<u>was</u> <u>tremendous</u>/<u>lukewarn</u>**
+  * lukewarn adj. 微温的, 稍温的, 
+  * tremendous adj. 巨大的
+  * 造句：学校提供了一笔1000美元的奖金给第一个能解决这个问题的学生。大家对这次比赛的反应很热烈/很平淡。
+    * → (NCE3-20 P9O-L1) In 1908 Lord Northcliffe offered a prize of £1,000 to the first man who would fly across the English Channel.
+    * → The university offered a prize of $1,000 to the first student who would find a solution to the problem. The response to the competition was <u>tremendous</u> / <u>lukewarm</u>.
+
+* **before (<u>very</u>/<u>too</u>) long** 不久之后
+  * **before much longer** 过了不一会儿
+  * 其他的 '过了不一会儿'的表达
+    * **shortly afterwards**
+      * → (NCE2-35 P162-L10) **Shortly afterwards**, the police stopped the car and both men were arrested.
+
+    * **a little later**
+      * → (NCE2-26 P126-L15) **A little later**, a man came along with a biscuit which occupied the whole boot of his car.
+
+    * **after a <u>little</u>/<u>short</u> <u>time</u>/<u>while</u>**
+      * → (NCE2-32 P150-L7) **After a little time**, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.
+
+* **all <u>sorts</u>/<u>kinds</u>/<u>types</u> of sth.** 各种各样的
+  * → (NCE3-40 P182-L11) He added that a student had dressed up as a policeman and was playing **all sorts of silly jokes** on people.
+  * 造句：她每天必须要处理各种各样的投诉。
+    * → She has to deal with **all kinds of complaints** every day.
+* **weigh ... ** v. (系动词) 有多重
+  * → The boy **weighs** 50 kilos.
+  * **be ... (in weight)**
+    * → The boy **is** 50 kilos **(in weight).**
+
+  * '有多高' 的表达
+    * **<u>be</u>/<u>stand</u> ... <u>high</u> / <u>tall</u>**
+      * stand 在这里也是系动词
+      * high 一般形容东西/物件
+      * tall 一般用来形容人
+      * → She **stood** three feet **high** and her hands rested on her hips.
+      * → He **<u>stands</u>/<u>is</u>** 1.8m <u>**tall**</u>
+        * 1m 以上都得用 miles, 即便是 1.1
+
+  * **rise to a height of ...** 高达...
+    * → (NCE3-17 P78-L12) Above the surface of the water, the towers **rise to a height of** nearly 700 feet.
+
+  * **be ... <u>deep</u> / <u>in depth</u>** 有多深
+    * → The hole **is** 2 feet **<u>deep</u>/ <u>in depth</u>.**
+
+  * **extend to a depth of ...** 深达
+    * → (NCE3-17 P78-L11)The platforms **extend to a depth of** over 100 feet under the sea.
+
+  * **be ... long / in length** 有多长
+    * → The bed **is** 2 meters **<u>long</u> / <u>in length</u>.**
+
+  * **be ... <u>wide</u> / <u>across</u> / <u>in width</u>**有多宽
+    * → The river **<u>is</u>** 20 meters **<u>wide</u>** / **<u>across</u>** / **<u>in width</u>**.
+
+* occupy v. 占据, 占用 (时间/空间)
+* **along with ...** 和...在一起
+  * → Mr. Taylor, **along with** two assistants, <u>**is**</u> trying to stop the thieves.
+  * 同义表达
+    * **together with...** 和...在一起
+    * **coupled with ...** 和...在一起
+    * **accompanied by ...** 和...在一起
+
+  * 近意表达
+    * **followed by ...** 某人后面还跟着某人... 
+    * **besides ...** 除了后者之外还有前者
+    * **as well as ..** 后者也如何
+    * **no less than ...** 后者也如何
+    * **including ...** 包括后者
+
+* → The largest **was** 713 pounds **(in weight).**
+  * → The largest **weighed** 713 pounds.
+
+* seem certain 看似, 无疑了
+* → But <u>just **before the competition closed**</u>, a lorry arrived at the factory with a truly colossal biscuit **which weighed 2400 pounds.**
+  * lorry n. 卡车
+  * colossal 巨大的
+
+* → It had been baked by a college student <u>who</u> had used over 1,000 pounds of flour, 800 pounds of sugar, 200 pounds of fat, and 400 pounds of various other ingredients. 
+  * 形式上的 定语从句, 本质上是并列句
+  * flour n. 面粉, 读音同 flower
+  * ingredient n. 食品配料
+
+* crane n. 起重机
+* 中文中的主动无主句,在英文中得用被动语态来表达, 反之依然
+  * 造句：箱子太沉了，用了一辆卡车才把它运到目的地。
+    * → The box was so heavy that a lorry had to be used to carry it to the destination.
+
+  * 造句：两年多来这条街上新开了很多商店。
+    * → In the past two years many shops have been set up in the street.
+
+  * 英译汉: A new government was organized after the war.
+    * 战后成立广新政府。
+
+* anticipate v. 预期
 
 ## L27 Nothing to sell and nothing to buy
+
+**## words**
+
+* 
+
+**## text 1**
+
+**## text 2**
+
+## L28 Five pounds too dear
+
