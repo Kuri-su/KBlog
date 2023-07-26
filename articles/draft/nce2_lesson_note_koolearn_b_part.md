@@ -2072,4 +2072,262 @@ sweep swept swept.
 
 **## words**
 
-* 
+* limelight n. 舞台灯光
+* precaution n. 预防措施
+* fan n. 狂热者
+* shady adj. 遮荫的
+  * shadow n. 影子
+* sheriff n. 司法长官
+* notice n. 告示 v. 注意到
+* sneer n. 冷笑
+
+**## key structure**
+
+* 复习 现在进行时 / 一般现在时
+
+**## 课文**
+
+* 非限定性的定语从句
+  * → Among them will be Debbie's mother, who swam the Channel herself when she was a girl.
+  * → This is the wall which they built last week. (限定)
+  * → This is the Great wall, which is would-famous.(非限定)
+* 非限定 定语从句, 可以修饰整句话, 连接语 必须用 which/as, 需要用逗号隔开
+* → But as they soon discovered, disguises can sometimes be too perfact.
+* basket n. 篮子
+* 扩展
+  * 动词 get 的 词组
+    * → Now you <u>get out of</u> here, all of you!
+    * → The door is locked, I can't <u>get out.</u>
+    * → I've lost my key, I can't <u>get into</u> the house.
+    * → How is he <u>getting on</u> his new job?
+    * → <u>Get on</u> with you work.
+    * → He's so difficult, I can't <u>got on with</u> him
+    * → Tom was punished, but Jim <u>got off</u> lightly.
+    * → I can't <u>get</u> **the cap of this pen** <u>off</u>
+    * → He has now <u>got over</u> his illness.
+    * → I want to <u>get</u> this interview <u>over</u> <u>**as quickly as possible.**</u>
+
+## L75 SOS
+
+**## words**
+
+* thick adj. 厚的
+  * thin adj. 薄的
+* stamp v. 跺脚
+  * stamp out 踩出来
+* signal n. 信号
+  * send a signal
+* survivor n. 幸存者
+  * survive v. 幸存, 幸免于难
+* SOS
+  * save our souls
+
+**## key structure**
+
+* 复习 一般过去时
+
+**## text**
+
+* light passenger plane 轻型客机
+* on the course 在轨道内
+  * off the course 脱离航线/ 轨道
+  * fly flew flewn
+* turn a to/into B , 把 A 变成 B
+  * → When it grow dark, she turned a suitcase into a bed and put the children inside it, <u>covering them with all the clothes she could find.</u>
+* as near as she could 尽可能的近
+* call out 喊出来, 叫出来
+  * point out 指出来
+  * write out 写出来
+* 扩展
+  * 表示 "变得"
+    * → He grew angry when I told him about it .
+    * → The leaves are turning yellow.
+    * → This apple has gone bad.
+    * → Coal got scarce last winter.
+    * → Everything you said came true.
+    * → She fell ill while she was on holiday.
+    * → become
+  * by 的用法
+    1. 通过某种方式方法(工具/事)
+       * → I've just arrived by train.
+    2. 被谁做
+       * → It was bought by my grandfather.
+    3. 在旁边
+       * → They told stories and sang songs by the campfire.
+    4. 加时间, 表 截止到 ... 时候
+       * → Worker will have completed the new roads.
+    5. 表示差额
+       * → It cleared the mountain by 400 feet
+
+## L76 April Fools' Day
+
+**## words**
+
+* bulletin n. 简报
+  * news bulletin 新闻简报
+* announcer n. 播音员
+  * announce v. 宣布
+* leading adj. 主要的
+  * lead n. 领头的
+* grower n. 种植者
+* splendid adj. 极好的
+* gather v. 收庄稼
+* thresh v. 打(庄稼)
+* process v. 加工 n. 过程, 进行
+  * n.
+    * → The crop is processed
+  * v.
+    * → in the process (of doing)
+* present adj. 目前的 n. 现在/礼物 v. 赠送礼物
+  * adj. the present champion
+* champion n. 冠军
+* fool n. 傻瓜
+  * → I am such a fool
+  * foolish adj. 愚蠢的
+* studio n. 工作室
+  * → We're now going back to the studio.
+
+**## key structure**
+
+* 复习: 
+  * 现在完成时
+    * have/has done
+  * 现在完成进行时
+    * have/has been doing
+
+**## text**
+
+* sb. said 等于 said sb.
+  * → 'To end our special news bulletin', said the voice of the television announcer, 'we're going over to the macaroni field of calabria'
+* 英文中某人说, 用逗号和单引号
+* 进行时态 有表示主动的意味
+* 拓展, 易混淆词
+  * 区别: usual adj. / usually adv.
+    * usual practice 通常的管理
+    * as usual 与往常一样
+    * than usual 与往常相比
+    * do sth. usually
+  * 区别:  between 两者之间/ among 三者以上之间
+    * between you and me 
+    * among all the student
+    * latter 后者
+
+## L77 A successful operation
+
+**## words**
+
+* temple n. 庙
+* mark n. 斑点; 痕迹; 表示; 符号; 分数 v. 使有斑点; 留下痕迹; 做标记; 打分数
+* plate n. (照相)底片; 盘子
+* last v. 持续
+* skin n. 皮肤
+* section n. 一部分, 部门
+* figure n. 人的体型, 人像; 数字; 图像
+* normally adv. 通常的
+* Egyptian adj. 埃及的, 埃及人的, n. 埃及, 埃及语
+  * Egypt n. 埃及
+* disease n. 疾病
+  * a rare disease 少见的病
+  * a family disease 家族病
+  * prevent and cure a disease 预防和治疗疾病
+* prove v. 显示出, 证明, 证实, 
+  * → The operation proved to be very difficult
+  * → His idea proves fantastic
+  * → The boy proved his courage in the game.
+* survive v. 幸免于
+  * survivor n. 幸存者 
+  * → The mummy successfully survived the operation.
+  * survive from...
+  * → Luckily , the little boy survived from the earthquake.
+
+**## key structure**
+
+* 复习 : 一般过去时/ 现在完成时/现在完成进行时
+  * did 
+  * have/has done
+  * have/has been doing
+
+**## text**
+
+* → The mummy of an Egyptian woman who died of 800 B.C. has just had an operation.
+* → The mummy is that of Shepenmut who was once a singer in the Temple of Thobes
+* → As there were strange mark on the X-rag plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.
+* → The only way to do this was to operate.
+* for 接时间 表持续
+* last 也表持续
+* 扩展: 区别 ago/since/for
+  * → They won the match three days ago.
+  * → Since 1992, we have lived in the city.
+  * → They have been practicing for a year.
+  * ago 表示 时间点, 通常放在时间之后
+  * for 后 跟时间段, 表持续
+  * since 表截止到目前, 通常放在时间之前
+
+## L78 The last one?
+
+**## words**
+
+* entitle v. 以 ... 为名
+* produce v. 生产, 难处
+* urge v. 力劝, 怂恿
+* satisfaction n. 满意, 满足
+* delighted adj. 欣喜的
+* calm v. 使镇定 calm down adj. 镇定的, 沉着的 
+  * keep calm
+* nerve n. 神经 
+  * calm my nerve
+  * nervous adj. 神经紧张的, 神经系统的
+* suffer v. 受苦, 受害
+  * suffer from ...
+  * → He suffered terribly from the headache.
+* temper n. 脾气
+  * a bad temper
+  * lose one's temper 发火
+
+**## key structure**
+
+* 复习冠词
+
+**## text**
+
+* light v. 照亮, 点燃
+  * 两种等价的
+  * light lit lit 
+  * light lighted lighted
+* cigarettes 香烟
+  * cigars 雪茄
+* made no effort 不努力掩饰
+* extremely adj. 极其的
+* → It was more than I could bear. 
+* → I took one guiltly, lit it and smoked with satis faction. 
+  * 三个动词用并列句连接, 省略相同的成分.
+* → Disguises can sometimes be too perfect, which they soon discovered.
+  * 等价于 → Disguises can sometimes be too perfect, as they soon discovered
+    * which 作非限定性定语从句的连接词只能放句尾, 
+    * as 作非限定性定语从句的连接词可以放句尾或句首.
+  * Anyway, as Brian pointed out, it is easiest thing in the world to give up smoking.
+* 扩展: 动词 keep 搭配的词组
+  * → My friends kept on offering me cigarettes
+  * → Please keep off the grass.
+  * → He kept away from the party
+  * → Under my essay, the teacher wrote, Good work, keep it up.
+  * → He ran so fast, I could not keep up with him.
+  * → A big notice on the door said, 'keep out!'
+  * → The cat was kept in during the fireworks.
+
+## L79 By air
+
+**## words**
+
+**## key structure**
+
+**## text**
+
+
+
+## L80
+
+## L81
+
+## L82
+
