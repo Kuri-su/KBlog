@@ -1618,4 +1618,458 @@ sweep swept swept.
   * temperature n. 温度
 * rick sb's life 冒着某人的生命危险
 * any man live 任何活人
-  * 
+* can/be able to , managed to do 三个词组
+  * 在表示 过去做的意思时有不同
+  * 在表示 过去没做的意思时一样, 
+* **扩展**, 区分 say /tell 
+  * say
+    * say something/anything/nothing
+    * say so (指示这么说)/ no more
+    * say goodbye/ a good word (说好话)
+    * say  通常接说话的内容
+  * tell  可以接 双宾语, 所以可以有 tell sb. sth., 也可以接名词, tell n.
+    * tell us a story , tell you a secret
+    * tell the truth/lies
+    * tell the difference/ the time
+  * →  If you say so, I suppose it's true
+  * →  I don't think you would tell me a lie
+  * →  He is only five, but he can already tell the time
+  * →  If you could say a good word for him, he might get the job.
+
+## L68 Persistent
+
+**## words**
+
+* **persistent** adj. 坚持的, 固执的, 持续不断的, 重复出现的
+  * persistent effort 坚持的努力
+  * persistent conflicts 持续不断的冲突
+  * a persistent smell 持续的味道
+  * **persistence** n. 坚持不写, 固执, 持续存在
+  *  persist v. 坚持, 固执, 持续存在
+    * persist in ...
+    * →  The minority of drivers persist in drinking
+* **insist** v. 坚持做, 坚持认为, 坚决要求
+  * insist on ...
+    * →  He always insists on coming with you
+  * persist 坚持做 ; insist 立场上坚持, 精神上
+* avoid v. 离开, 避免
+  * avoid + n. doing sth.
+    * →  Try to avoid accidents while you are driving.
+
+**## key struction**
+
+* 非谓语动词 doing	
+  1. 相当于 名词用 --- 动名词 (小名)
+  2. 修饰 名词或句子, 表示 主动/正在进行 --- (小名) 现在分词
+
+**## text**
+
+* doing 
+  1. doing 动名词 (用法1) - 
+     * 作主语
+       * →  Fishing is my favourite sport.
+     * 介词后, 作宾语 (介词后 跟 名词/ 代词等)
+       * → I often fish for hours without catching anything.
+     * 有些动词后, 作宾语
+       * → I like playing basketball
+  2. 修饰名词 或 句子, 表示 主动 / 正在进行 -- 现在分词(用法二)
+     * → Passing planes can be heard night and day.
+     * → Looking round, I realized that I was the only passenger.
+* pretending v. 假装
+  * → It was no use pretending that I had not seen him, so I waved to him
+* no matter how = however 无论怎样
+  * 引出 让步状语从句
+  * no matter who = whoever
+  * no matter what = whatever
+  * → No matter where you are = wherever you are
+  * → No matter what you do = whatever you do 
+  * → I will be right here waiting for you.
+* → I had to think of a way of preventing him from following me around all morning.
+* → Fancy meeting you here! 想不到在这见到你
+* → You're not busy doing anything are you ?
+  * be busy (in) doing sth.
+* →  would you mind coming?
+* →  would you mind my coming? doing 动名词的逻辑主语
+* 他们坚持周日之前完成报告
+  * →  They insist on finishing the report before Sunday.
+* 他们坚持周日之前完成报告
+  * → They insist on her finishing the report before Sunday.
+* 来晚了使我很紧张
+  * → Coming late made me nervous
+* 他来晚了使老师很生气
+  * → His coming late made the teacher angry.
+* 名词修饰名词 (动名词)
+  * the waiting room
+  * a sleeping bag
+  * a packing case
+* 扩展: 反意疑问句
+  * 1.构成 2.特点 3.写法
+  * → You're not busy doing anything are you? 否定句+疑问
+  * → He plays basketball well, doesn't he?
+  * → He finished his work, didn't he?
+  * → You can't understand me, can you?
+  * → He hasn't left the office, has he?
+  * 回答
+    * → You don't love me , do you?
+      * No, I don't. 是的, 我不爱
+      * Yes, I do.  不是的, 我爱
+
+## L69 But not murder
+
+**## word**
+
+* murder n. 谋杀
+* acquire v. 取得, 获得 (正式 ) =get
+* confidence n. 信心
+  * confident adj. 有信心的
+* examiner n. 主考人
+  * examine v. 考试
+* tap v. 轻敲 n. 水龙头
+* react v. 反应
+* brake pedal 刹车踏板
+* paddle n. 桨
+* mournful adj. 悲哀的
+* instruct v. 命令
+  * instruct sb. to do sth.
+  * instruction n. 指导, 说明
+  * follow the instruction
+* suppose v. 假设
+  * → Let us suppose that ...
+  * be supposed to do 按照计划, 应该做某事
+  * → You are supposed to tell me what to do.
+
+**## key structure**
+
+* 复习被动语态
+* 非谓语动词的变体: having been done
+
+**## text**
+
+* a driving licence 驾照
+* test n./v. 测试
+* heavy traffic 拥挤的交通
+* 状语从句的省略
+  * → After I had been instructed to drive out of town, I began to acquire confidence.(时间状语从句)
+  * 主语省略后, 谓语要编程非谓语
+  * → After having been instructed to drive out of town, I began to acquire confidence.
+* having been done 非谓语动词
+  * 表示被动, 发生在先, (发生在谓语动词之前)
+  * 已经被告诉了很多次, 他还是犯同样的错误
+    * → Having been told many times, he still repeated the same mistake.
+  * 被广告影响之后, 人们就会冲去买新商品
+    * → After having been influenced by the Ads , people will rush to buy new goods.
+* must have been 表推测
+* could be heard 能够被听见
+* in a voice 用 ... 的声音
+  * in a mournful voice 用一种悲哀的声音
+* 扩展; be done vs. done
+  * 表示被动: 
+    * be done 和 done 意思一样, 都表示被动
+  * be done 能做谓语, 被动语态
+  * done 不作谓语, 非谓语表被动
+  * was thrown / thrown 
+    * → The bottle was thrown into the sea.
+    * → The bottle thrown into the sea is found.
+  * 非谓语动词, 表示被动
+    1. → Beaten by a girl, the boy cried.
+    2. → Having been beaten by a girl, the boy cried.
+    3. → Being beaten by a girl, the boy cried
+    4. 总结
+       1. done 只表示被动
+       2. having been done 表被动, 并表示先后关系
+       3. being done 表正在被动
+  * 非谓语动词 vs. 谓语动词, 时间关系? 
+    * →  Having been beaten by a girl, the boy crioed.
+    * → Having been beaten by a girl, the boy is cring.
+    * 非谓语动词不能表示绝对的时间, 只能表示先后顺序, 因为非谓语没有三态一否, 谓语动词才有时态
+
+## L70 Red for danger
+
+**## words**
+
+* bullfight n. 斗牛
+* drunk n. 醉汉, v. 喝
+  * drink v.
+* wander v. 溜达
+  * wonder v. 感到奇怪, 想知道
+* ring n. 圆的东西, 圆形竞技场, 年轮 v. 电话铃响
+* unaware adj. 不知道的, 未察觉的
+  * be unaware of ...
+    * → The drunk was unaware of the danger.
+  * aware adj. 察觉到的, 意识到的
+    * be aware of ...
+* matador n. 斗牛士
+* remark n. 评论; 言语
+* apparently adv. 明显地
+* sensitive adj. 敏感的
+  * sensitive skin 敏感皮肤
+  * a sensitive question/issue 一个敏感的问题
+  * be sensitive to...
+    * → Young people are sometimes too sensitive to criticism.
+* criticism n. 匹配
+* charge v. 冲上去
+  * → Suddenly a dog barked and charged at the stranger.
+  * → How much do you charge for the service?
+  * → The police charged him with murder
+  * → The battery is charging.
+* clumsily adv. 笨拙地
+* bow v. 鞠躬, n. 蝴蝶结
+* safety n. 安全地带
+* sympathetically adv. 同情地
+
+**## key structure**
+
+* 形容词 与 介词搭配的词组
+
+**## text**
+
+* be unaware of 
+  * → The drunk was unaware of the danger.
+  * 主语后必须有动词, 上文为 主+ 动+ 补(主系表)
+* be busy + with + sb. 正忙于应付某人
+* sensitive to sth. 对... 敏感
+* 变得 (系动词)
+  * get
+  * become
+  * turn
+  * go
+  * graw
+* cheer 欢呼(干杯)
+* break into 爆发出
+* even 甚至, 正当...之时
+* v.+on 表示继续做某事 (L14)
+* once more 再来一次
+* for + 原因
+* → Even the bull seened to feel sorry for him
+  * for it looked on sympathetically
+  * until the drunk was out of the way.
+  * before once more turning its attention the matador.
+* 形容词与介词搭配的词组
+  * 后面接 for 的形容词 (针对于 sb., 目的是为了)
+    * sorry for 对... 感到遗憾
+    * responsible for  对... 负责
+    * volid for 有效期为
+    * eager for 渴望的
+    * enough for 足够
+    * famous for 以...闻名
+    * fit for 合适, 适合
+    * grateful for/to 感激
+    * thankful for/to 感谢
+    * qualified for/in 能胜任
+    * ready for/to 准备好
+  * 后面可接 with 的 adj. (伴随)
+    * popular with 为...所喜爱
+    * patient with 有耐心
+    * consistent with 与... 一致
+    * content with 对... 满足
+    * busy with/to 忙于
+    * familiar with/to 与... 熟悉
+    * angry with sb. 因某人而生气
+      * angry at sth. 因某事而生气
+  * 后面可接 of 的形容词 (属性)
+    * aware of 知道, 意识到
+      * unaware of 没意识到
+    * sure of 肯定
+    * capable of 能够
+    * fond of 爱好
+    * afraid of 害怕
+    * jealous of 嫉妒
+    * short of 缺乏
+  * 后面可接 to 的形容词 (向...., 针对于 ... )
+    * sensitide to 对 ... 敏感的
+    * close to 接近于
+    * contrary to 与 ... 相反
+    * equal to 与 .... 相等
+    * faithful to 忠于 ... 
+    * similar to 与 ... 相似
+    * harmful to 对 ... 有害的
+    * useful to  对 ... 有用
+  * 后面可接 at 的形容词 (表示某个点)
+    * bad / good at 不善于/善于
+    * quick/slow at 在... 方面 快速 / 缓慢
+    * expert/skillful + at/in 熟练于
+  * 后面可接 from 的形容词 (来自)
+    * away/for for 距离 ... 远的, 远离
+    * different from 与... 不同的
+    * safe from 无危险
+  * 后面可接 in 的形容词 (在 .... 方面) (体)
+    * weak in 在 ... 薄弱的
+    * honest in 在 ... 诚实的
+    * fortunate in 在 ... 幸运的
+  * 后面可接 on 的形容词 (在 ... 上面) (面)
+    * dependent on 依赖于
+    * keep on 热心于
+    * intent on 专心于
+  * 后面可接 about 的形容词 (关于)
+    * curious about 对 .... 好奇的
+    * enthusiastic about 对 ... 热心
+    * doubtful about/of 对... 有疑问
+    * reluctant about/ of 对... 很勉强
+  * for / with / of / to / at / from / in / on / about / ...
+
+## L71 A famous clock
+
+**## word**
+
+* parliament n. 议会, 国会
+  * the Houses of Parliament 国会大厦
+* official n. 行政官员 adj. 公职的, 官方的, 正式的
+  * officer n. 军官, 高级官员
+* observatory n. 天文台
+  * observe v. 观察, 研究
+  * Greenwich Observatory 格林威治 天文台
+* check v. 检查, 校对 n. 检查, 支票
+  * → May I check/see you passport ?
+  * double check
+  * bank check 银行支票
+* microphone n. 麦克风
+  * micro- 微型的
+  * MicroSoft
+  * microwave oven 微波炉
+  * microscope 显微镜
+* erect v. 建起
+
+**## key structure**
+
+* 复习课
+
+**## 课文**
+
+* → <u>When</u> you visit London, one of the forst things <u>you will see</u> <u>is</u> Big ben, the famous clock <u>which</u> <u>can be heard all over the world on the B.B.C.</u>
+  * 分析长难句 要 先找从句, 但要先看主句
+* If 条件句: L16, L40, L64
+  * 真实条件句 & 虚拟条件句
+  * **if 虚拟条件句 (假设过去)**
+    * 从句往前推, 主句 4+1
+    * 从句
+      * had done
+      * had been done
+      * had not been done
+    * 主句
+      * would have done
+      * would have been done (被动)
+      * would never have been done (被动否定)
+    * → If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected 
+    * responsible 负责
+    * be responsible for 负责某事
+    * → It is not only of immense size, but (主语省略) is extremely accurate as well
+    * → Officials from Greenwich Observatory have <u>the clock checked</u>(使被检查(使役)) twice a day.
+    * rarely adv. 很少
+
+* **长难句分析**
+  * 在找到了从句的开始后, 从句会在第二个谓语动词前结束
+    * 如何判断谓语动词
+      1. 除了 doing/done/to do (非谓语), 其他都是谓语
+      2. 谓语动词包含三态一否
+* 扩展 - hang 单词
+  * hang 
+    * v. 悬挂 hung , hung
+    * v. 绞死 hanged, hanged
+  * → The hero was hanged.
+  * → We must all hang together, or assuredly we shall all hang separately ---  Benjamin Franklin
+
+## L72 A car called Bluebird
+
+**## words**
+
+* racing n. 竞赛(速度)
+* per prep. 每
+  * per day 每日
+  * per minute 每分钟
+* Utah n. 犹他
+* horse power n. 马力
+* burst v. 爆裂
+  * burst burst burst
+  * <u>burst into</u>(爆发出) tears/laughter
+  * <u>burst out</u> crying/laughing
+* average adj. 平均的
+  * average speed / cost / price
+  * on average 平均来说
+
+**## Key structure**
+
+*  复习课
+
+**## 课文**
+
+* tyre n. 轮胎
+* reached a speed of ... 达到某个速度
+* had great difficulty in 有巨大的困难
+* the first run 第一圈
+* disappoint v. 使失望
+* 600 miles an hour = 600 miles per hour
+* 扩展, 内容回顾
+  * 第一单元, 简单句, 三态一否, 时态(8种重要时态), 语态, 情态, 否定
+  * 第二单元, 并列句, 主从复合句 (定语从句, 状语从句, 名词性从句)
+  * 第三单元, 复习和从句简化, 非谓语动词
+  * 每单元 24课
+  * L16+24 If 条件句
+  * 如何复习
+    * 用 Lesson + 24 来复习一系列的知识点
+    * 逻辑迭代 + 重点循环 + 不同的生活场景
+
+## L73 The record-holder
+
+**## words**
+
+* record-holder n. 记录保持者
+  * set up a new world record
+  * hold/keep a record
+* truant n. 逃学的孩子
+  * play truant (from school) 扮演逃学的孩子
+* unimaginative adj. 缺乏想象力
+  * imagine v. 想象
+  * imagination n. 想象, 想象力
+  * imaginative adj. 富有想象力
+* shame n. 惭愧, 羞耻
+  * What a shame! 
+  * put sb. to shame 使某人感到羞耻
+* meantime n. 期间
+  * in the meantime 在那个期间, 与此同时
+    * 同义: meanwhile adv. 期间,同时
+* evade v. 逃避, 逃离
+  * evade school 逃学
+
+**## key structure**
+
+* 复习简单句/ 并列句 / 复合句
+
+**## text**
+
+* .... fishing (动名词作主语)... is usually as far as they get
+  * fishing , or seeing the file ... is usually as far as they get.
+  * A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, in usually as far as they get.
+* → They have all been put to shame by a boy who, while playing truant, travelled 1600 miles.
+  * who travelled 1600 miles while (he was) playing truant.
+* → He hitch hiked to Dover and , towards evening, went into a boat to find somewhere to sleep.
+* → When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.
+* → <u>The next car</u>(主) <u>the boy</u>(主) <u>stopped</u>(谓) <u>did not take</u>(谓) him into the center of Paris,
+* 扩展: 如何连接句子
+  * 提升水平可以练习连接句子, 连接句子的关键在于 连接词
+    1. 并列句
+       * → The climbers reached the top of the mountain.
+       * → They spent the night there 
+       * (not only ... but ... as well)
+       * →→ The climbers not only reached that the top of the mountain but spent the night there as well
+    2. 主从句
+       * → He gave me a fright.
+       * → I knocked the teapot over
+       * → (such ... that ... )
+       * →→ He gave me such a fright that I knocked the teapot over
+    3. 主从句
+       * → A fire broke out in the cinema
+       * → Several hundred people tried to leave the building
+       * → A number of them were injured
+       * → (when ... and ...)
+       * →→ When a fire broken out in the cinema, several hundred people tried to leave the building and a number of them were injured.
+    4. 主从句
+       * → James Sullivan will give a lecture at the local library
+       * → His book on the Antarctic was published recently  
+       * → (whose)
+       * →→ Jame sullivan, whose book on the Antarctic published recently, will give a lecture at the local library.
+
+## L74 Out of the limelights
+
+**## words**
+
+* 
