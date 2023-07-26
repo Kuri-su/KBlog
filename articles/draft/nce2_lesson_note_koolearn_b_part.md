@@ -2013,4 +2013,63 @@ sweep swept swept.
 **## words**
 
 * record-holder n. 记录保持者
+  * set up a new world record
+  * hold/keep a record
+* truant n. 逃学的孩子
+  * play truant (from school) 扮演逃学的孩子
+* unimaginative adj. 缺乏想象力
+  * imagine v. 想象
+  * imagination n. 想象, 想象力
+  * imaginative adj. 富有想象力
+* shame n. 惭愧, 羞耻
+  * What a shame! 
+  * put sb. to shame 使某人感到羞耻
+* meantime n. 期间
+  * in the meantime 在那个期间, 与此同时
+    * 同义: meanwhile adv. 期间,同时
+* evade v. 逃避, 逃离
+  * evade school 逃学
+
+**## key structure**
+
+* 复习简单句/ 并列句 / 复合句
+
+**## text**
+
+* .... fishing (动名词作主语)... is usually as far as they get
+  * fishing , or seeing the file ... is usually as far as they get.
+  * A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, in usually as far as they get.
+* → They have all been put to shame by a boy who, while playing truant, travelled 1600 miles.
+  * who travelled 1600 miles while (he was) playing truant.
+* → He hitch hiked to Dover and , towards evening, went into a boat to find somewhere to sleep.
+* → When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.
+* → <u>The next car</u>(主) <u>the boy</u>(主) <u>stopped</u>(谓) <u>did not take</u>(谓) him into the center of Paris,
+* 扩展: 如何连接句子
+  * 提升水平可以练习连接句子, 连接句子的关键在于 连接词
+    1. 并列句
+       * → The climbers reached the top of the mountain.
+       * → They spent the night there 
+       * (not only ... but ... as well)
+       * →→ The climbers not only reached that the top of the mountain but spent the night there as well
+    2. 主从句
+       * → He gave me a fright.
+       * → I knocked the teapot over
+       * → (such ... that ... )
+       * →→ He gave me such a fright that I knocked the teapot over
+    3. 主从句
+       * → A fire broke out in the cinema
+       * → Several hundred people tried to leave the building
+       * → A number of them were injured
+       * → (when ... and ...)
+       * →→ When a fire broken out in the cinema, several hundred people tried to leave the building and a number of them were injured.
+    4. 主从句
+       * → James Sullivan will give a lecture at the local library
+       * → His book on the Antarctic was published recently  
+       * → (whose)
+       * →→ Jame sullivan, whose book on the Antarctic published recently, will give a lecture at the local library.
+
+## L74 Out of the limelights
+
+**## words**
+
 * 
