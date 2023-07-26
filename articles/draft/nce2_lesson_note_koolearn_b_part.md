@@ -2307,13 +2307,13 @@ sweep swept swept.
     * as 作非限定性定语从句的连接词可以放句尾或句首.
   * Anyway, as Brian pointed out, it is easiest thing in the world to give up smoking.
 * 扩展: 动词 keep 搭配的词组
-  * → My friends kept on offering me cigarettes
-  * → Please keep off the grass.
-  * → He kept away from the party
-  * → Under my essay, the teacher wrote, Good work, keep it up.
-  * → He ran so fast, I could not keep up with him.
-  * → A big notice on the door said, 'keep out!'
-  * → The cat was kept in during the fireworks.
+  * → My friends <u>kept on</u> offering me cigarettes
+  * → Please <u>keep off</u> the grass.
+  * → He <u>kept away</u> from the party
+  * → Under my essay, the teacher wrote, Good work, <u>keep</u> it <u>up</u>.
+  * → He ran so fast, I could not <u>keep up</u> with him.
+  * → A big notice on the door said, '<u>keep out</u>!'
+  * → The cat was <u>kept in</u> during the fireworks.
 
 ## L79 By air
 
@@ -2370,19 +2370,71 @@ sweep swept swept.
     * 倒装程度分类
       1. 完全倒装 - 谓语动词全部放到主语前
       2. 部分倒装 - 谓语动词部分放到主语前
-    * 为什么要倒装 (what)
-      * 为了强调前者
-        * 比方说强调 Only on one occasion, 把介词短语放到句首后, 要交换主谓位置, 提示倒装
-    * 部分倒装 (How)
-      * 部分倒装怎么变 - 用从 陈述句 变 一般疑问句的方法即可
-        * → I like English.
-          * → Do I like English ?
-        * → He likes English
-          * → Does he like English.
+  * 为什么要倒装 (what)
+    * 为了强调前者
+      * 比方说强调 Only on one occasion, 把介词短语放到句首后, 要交换主谓位置, 提示倒装
+  * 部分倒装 (How)
+    * 部分倒装怎么变 - 用从 陈述句 变 一般疑问句的方法即可
+      * → I like English.
+        * → Do I like English ?
+      * → He likes English
+        * → Does he like English.
+  * 何时用部分倒装 (When)
+    1. 否定词 位于句首
+       * not /never / hardly
+    2. only + 词/词组/句子 位于句首, 用部分倒装
+       * → You will never know the truth.
+         * → Never will you know the truth.
+         * 否定词和系动词 也提前
+       * → He cares little for my words
+         * → Little does he care for my words.
+       * → I had no sooner go the invitation than I refused
+         * → No sooner had I got the invitation than I refused.
+       * → We can learn English well only in this way.
+         * → Only in this way can we learn English well.
+       * → He achieved his goal only by working hard
+         * → Only by working hard did he achieve his goal
+* take off 出发
+* → A flight attendant told us to keep calm and to get off.
+  * → A flight attendont told us to keep calm and (a flight attendant told us) to get off
+  * 并列句相同的成分省略, 可以用动词来定位省略了什么内容
+* as soon as 一... 就...
+  * while 在... 的时候
+* on board 在板上(飞机加班, 船的甲板) (在飞机上, 在船上) (在董事会上)
+* VIP: very important person
+* 被说: 被告知
+* thoroughly adv. 彻底地
+* 扩展 : take 搭配的词组 
+  * → After <u>taking off起飞</u> , we were flying over the city
+  * → He <u>took off</u> 脱掉his cost
+  * → He is always <u>taking</u> his teacher <u>off</u>模仿某人并嘲笑他.
+  * → That wardrobe <u>takes up</u> 占 a lot of space 
+  * → He has <u>taken up</u> 开始学French
+  * → When his wife died , he <u>took to</u>开始做, 并称为了习惯 drinking.
+  * → Young Tom <u>takes after</u> his father 长得像
+  * → He was so persuasive that I was <u>taken in</u>. 被骗了
+  * → The reporter <u>took down</u> every thing I said. 记下来
+  * → That business was doing very badly. until Jones <u>took over</u> 接管
 
-## L80
+## L80 The crystal Palace
 
-## L81
+**## words**
+
+* extraordinary adj. 不平常的, 非凡的
+* exhibition n. 展览
+* profit n. 利润
+  * cost n. 成本
+* collage n. 学院
+* machinery n. 机器(总称) 一类 (不可数)
+  * a great deal of machinery
+  * a piece of machinery = a machine
+* 
+
+**## key structure**
+
+**## text**
+
+## L81 Escape
 
 ## L82
 
