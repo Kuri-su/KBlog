@@ -830,7 +830,8 @@
 
 **## words**
 
-* 
+* **philosopher** [fəˈlɑːsəfər] n. 哲学家
+  * 
 
 **## text 1**
 
