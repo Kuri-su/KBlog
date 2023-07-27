@@ -2567,3 +2567,336 @@ sweep swept swept.
   * election debate 选举辩论
   * elect v. 选举, 推选
 * former adj. 从前的
+  * the former Prime Minister 前首相
+  * the former president 前总统
+  * the former ... 前者 (文章)
+  * the latter ... 后者 (文章)
+* fanatical adj. 狂热的
+  * fan n. 粉丝
+* progressive  adj. 进步的
+  * Radical Progressive Party 激进党派
+  * a progressive policy 一个激进的策略
+  * progress n./v. 进步, 前进, 发展
+* suspicious adj. 怀疑的
+  * suspicious behavior 可疑行为
+  * be suspicious of ... 怀疑
+  * suspect v. 怀疑, n. 嫌疑犯
+
+**## text**
+
+* retire adj. 退休的
+* political adj. 政治的
+* → My friend has always been a fanatical opponent of A
+  * has been 从过去到现在一直都是
+* the policeman on duty 当班的警察
+* if 有两种用法
+  1. 表条件
+  2. 表是否
+* 扩展 : 区别 temper / mood
+  * temper 脾气, 性情, 情绪
+  * mood 情绪, (only 情绪)
+  * → This time, the policeman lost his temper
+  * → Keep your temper!
+  * → You should apologize to him , he's in a bery bad temper mood.
+  * → Don't disturb him, He's in a bery bad mood.
+    * in bad temper (He's angry)
+    * in bad mood (He is not cheerful, but not necessarily angry.)
+  * 在某种情绪中, 想要做某事, 只能用 mood
+  * → I'm in the mood for a drive into the country.
+
+## L84 on strike
+
+**## words**
+
+* state n. 州, v. 正式提出
+* agreement n. 协议
+* volunteer v. 自愿, 志愿
+* Press n. 新闻界, 出版社
+* pressure n. 压力, 麻烦
+  * relieve the pressure
+  * the pressure of life/work/study
+  * press v. 按, 压
+* strike n. 罢工 v. 敲打
+  * go on strike 进行罢工
+  * be on strike 罢工
+* busman n. 公共汽车司机
+* relieve v. 减轻
+* extent n. 程度
+* gratitude n. 感激
+* object v. 不赞成, 反对
+
+**## key structure**
+
+* 复习 一般将来时
+
+**## 课文**
+
+* due adj. 按期的
+* to some extant 从某种程度上
+* in + 时间 with 将来时, 则 表示之后
+
+* 扩展: 形式宾语 it / 真正的宾语 to do
+  * → Even so , people are going to find it difficult to get to work.
+  * 形式宾语 it
+  * 真正的宾语 to do
+  * 用形式宾语有两个条件
+    1. 真正的宾语太长
+    2. 主谓宾补结构中
+  * → He thought it easy to pass the exam.
+  * → We find it very important to learn English well.
+  * → I feel it right that he should be punished
+  * → They know it impossible that they will win the match.
+
+## L85 Never too old to learn
+
+**## words**
+
+* headmaster n. 校长
+* gift n. 礼物, 赠品, 天赋
+* honour n. 敬意
+  * 相同 honor
+*  gardening n. 园艺
+* inform v. 告诉, 通知
+  * inform sb. sth.
+  * information n. 消息, 通知
+* contribute v. 捐助, 援助;贡献
+  * contribute towards the gift
+    * → They contribute food and clothing to the refugees
+* album n. 相册, 签名册, 专辑
+  * a photo album 相册
+  * a stamp album 集邮册
+* patience n. 耐心
+  * patient adj. 耐心的  n. 患者, 病人
+  * impatient adj. 不耐心的, 不耐烦的
+* encouragement n. 鼓励
+  * kindly encouragement 善意的鼓励
+  * encourage v. 鼓励
+    * encourage sb. to do sth.
+* farewell n. 告别
+  * a farewell dinner
+  * a farewell parth
+* honor n. 敬意
+  * in honor of sb. = in one's honor 为庆祝, 为纪念
+* devote v. 致力于 ... , 献身于...
+  * devote oneself to ....
+    * to 表示目的时, 可用to do
+    * to 表示 向, 朝着方向, to 是个介词, 后跟名词 / 代词/ doing
+  * → He will devote himself to gradening.
+  * → I devote myself to helping the poor
+  * contribute 偏物质
+  * devote 偏精神
+
+**## key structure**
+
+* 复习 一般将来时/将来进行时/将来完成进行时
+
+**## 课文**
+
+* pupils n. 小学生, 中学生; 瞳孔
+  * → All those <u>who have contributed towards the gift will sign their names in a large album</u> which will be sent to the headmaster's home.
+* shall 智能用于第一人称后 (单数 / 复数)
+* 强调句 L58
+* 将来完成进行时强调 将来的之前的过程
+* for + 句子表因为
+* 扩展: too ... to ...
+  * too + adj. /adv. + to do sth. (太...以至于不能....)
+
+## L86 Out of control
+
+**## words** 
+
+* speedboat n. 快艇
+* water ski (由快艇牵引水橇) 滑水
+* dismay v./n. 沮丧
+* tremendous adj. 巨大的
+* swing v. 转向
+  * swing swung swung
+  * → Swing the speedboat round
+* desperately adv. 绝望地
+  * desperate adj. 绝望的
+  * despair n. 绝望 
+    * in despair
+* companion n. 同伙
+* petrol n. 汽油
+* gently adv. 轻轻地
+
+**## key structure**
+
+* 复习 过去完成时/ 过去完成进行时
+* had done/had being doing
+
+**## text**
+
+* hardly 几乎不, 几乎没有
+
+* do sth. with dismay 伴随着失望做某事
+
+* roared n. 吼 v. 咆哮
+
+* v. + on 表示继续做某事
+
+* 扩展: 时态总复习
+
+  * 时态 = 时间+ 状态
+
+  * 通过位于动词的变化来体现
+
+  * 一共 16 种, 2册 13种, 8种 重点
+
+  * 时态对写句子很重要
+
+  * |          | 过去                                         | 现在                                  | 将来                                       | 过去将来                          |
+    | -------- | -------------------------------------------- | ------------------------------------- | ------------------------------------------ | --------------------------------- |
+    | 一般     | L2 did 被动 was/were done                    | L3 do/does 被动 be done               | L12 will do/be going to  被动 will be done | L7,L9 would to 被动 would be done |
+    | 进行     | L7 was/were doing 被动 was/were being done   | L2 be doing 被动 am/is/are being done | L13 will be doing                          |                                   |
+    | 完成     | L9,L14 have/has done 被动 have/has been done | L4,L5 had done 被动 had been done     | L37 will have done                         |                                   |
+    | 完成进行 | L62,L86 have/has been doing                  | L52,L53,L76,L77 had been doing        | L61,L85 will/shall have been doing         |                                   |
+
+## L87 A perfect alibi
+
+**## words**
+
+* inspector n. 探长
+  * inspect v. 探查
+* suggect v. 提示, 暗示
+* alibi n. 不在场证明, 托辞, 接口
+  * a perfect alibi
+  * → he had an airtight alibi for that night.
+* commit v. 犯(罪, 错) ; 保证, 承诺
+  * commit a crime(犯罪)/ a murder (谋杀)
+  * → The murder was commited 
+  * commitment n. 承诺
+* employer n. 雇主
+  * employee n. 雇员
+  * employment n. 雇佣关系, 就业
+  * unemployment n. 失业
+  * unemployment rate 失业率
+* confirm v. 确认, 证实
+  * → My employer will confirm that I was there on time.
+  * → Could you please help me to confirm the appointment?
+  * → I will call the restaurant to confirm the reservation .
+* truth n. 真相
+  * true adj. 真实的
+
+**## key structure**
+
+* 复习课
+* 平行结构
+
+**## text**
+
+* at the time = at the moment when ....
+* catch an train 赶车
+* at ten to eight 7:50
+* 口语中, 不一定需要疑问词开头, 语序相对灵活随意
+  * → I suggest <u>that you did not catch the 8 o'clock train</u>, but <u>that you caught the 8:25</u> which would still get you to work on time.
+* 拓展: 平行结构 (并列结构) (并列句的省略)
+  * invent 投资
+  * → The English, the Germans, the Dutch and the French were investing in Britain's former colony
+  * 等价于
+    * The English
+    * ,The Germans
+    * ,The Dutch
+    * and the French
+    * -
+    * were investing in Britain's former colony
+  * 平行的成分, 词性相同, 形式一致
+  * 平行的连接: 并列连词/逗号
+  * 词/词组/句子 都可以平行结构
+  * → We resolve to <u>(1)get up earlier each morning</u> ,<u>(2)eat less</u>, <u>(3) find more time to play with children,</u> <u>(4)do a thousand and one jobs about the house,</u> <u>(5)be nice to people we don't like,</u> <u>(6)drive carefully and</u> <u>(7)take the dog for a walk every day.</u>
+
+## L88 Trapped in a mine
+
+**## words**
+
+* surface n. 地面, 表面
+* explosive n. 炸药
+* vibration n. 震动
+* collapse n./v. 坍塌
+* layger n. 层
+* beneath prep. 在... 之下
+* lower v. 放长, 降低
+* smoothly adv. 顺利地
+  * smooth adj. 光滑, 顺利, 平稳
+* trap v. 陷入, 使陷入困境 n. 困境陷阱
+  * trap trapped trapped trapping
+  * be trapped in a mine(矿井)
+  * n. 
+    * → It is a trap, Don't trust then
+* drill v. 钻孔
+  * drill a hole
+* progress v. 进展, 进行 n. 进展, 进步, 前进
+  * → ... rescue operations are progressing smoothly.
+  * make progress 有了进展
+  * economic progress 经济方面的进展
+
+**## key structure**
+
+* if 条件状语从句(真实/虚拟)
+
+**## text**
+
+* lose their lives 失去生命
+
+* 扩展: if 条件句
+
+  * if 后是从句, 另一句是主句
+
+  * 真实条件句, 假设可以成真
+
+  * 虚拟条件句, 假设的事不太可能成真
+
+    1. 与真实情况对比, 发现事情不是真的
+    2. 与假设的情况对比, 事不太可能成真
+
+  * 虚拟语气, 改变时态
+
+  * If 条件状语从句 (真实条件) L16
+
+    * |          | If 从句               | 主句       |
+      | -------- | --------------------- | ---------- |
+      | 假设过去 | 过去的各种时态        | 过去将来时 |
+      | 假设现在 | 现在的各种时态        | 一般将来时 |
+      | 假设将来 | 一般现在时 (代替将来) | 一般将来时 |
+
+  * If 条件状语从句 (虚拟条件句) L40, L64
+
+    * |          | If 从句                          | 主句                                 |
+      | -------- | -------------------------------- | ------------------------------------ |
+      | 假设过去 | had done                         | would/could/should/might + have done |
+      | 假设现在 | Did/were                         | would/could/should/might + do        |
+      | 假设将来 | Did/were, were to do , should do | would/could/should/might + do        |
+
+      口诀: 从句往前推, 主句 4+1 , 将来同现在
+
+## L89 A slip of the tongue
+
+**## words**
+
+* dull adj. 枯燥, 无味
+  * boring
+* slip n. 滑倒, 小错误
+* tongue n. 舌头
+* comedy n. 喜剧
+* tragedy n. 悲剧
+* present n. 礼物, 现在 v. 演出, 赠送 adj. 出席的, 到场的
+* queue v. 排队, n. 队伍, 长队
+  * → We had to queue for hours...
+  * → wait in the queue
+  * → jump the queue 插队
+* advertiser n. 报幕员; 登广告的人, 广告商
+  * advertise v. 做广告
+  * advertisement n. 广告 (Ad.)
+  * advertisement company 广告公司
+  * commercial advertisement 商业广告
+
+**## key structure**
+
+* 复习情态动词 或 词组
+  * must / have to / should /need
+* 复习三大从句
+* 分裂结构
+
+**## text**
+
+* 
