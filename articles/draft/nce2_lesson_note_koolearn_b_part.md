@@ -2899,4 +2899,129 @@ sweep swept swept.
 
 **## text**
 
-* 
+* do anything 做任何事
+* the news got round 消息传开
+* → When <u>the news</u> got round that <u>a comedy show would be presented at our local cinema by the P. and V. Bird Seed Company</u>, we all rushed to see it
+  * 由于 that 后的从句太长, 所以把从句和主句分开, 的结构叫分裂结构
+  * 从句本应紧跟 修饰的词 后
+* must have done 推测过去 L17
+* sb. have ever seen 曾见过的
+* → Those <u>who failed to get in</u> need not have felt disappointed, as many of the artistes <u>who should have appeared</u> did not come.
+* need + have done (虚拟用法)
+* → <u>The only funny things</u> 主 <u>we</u>主 <u>heard</u>谓 that evening <u>came</u>谓 from the advertiser at the beginning of the progamme.
+* 扩展: 情态动词; 分裂结构
+  * 情态动词
+    1. 情态动词不表示动作, 只表示情绪, 态度, 可能性
+    2. 情态动词后通畅会加上动词原型 (L17,L19,L41,L65,L89)
+       * must/have to L17
+       * will/would 将来时用情态动词 + 原型 表将来
+       * may /might L19
+       * can / could
+       * should / ought to L65
+       * need L41
+  * 情态动词作用
+    * 表示情态
+    * 表示推测
+      * 可能性高: must
+      * 可能性中: 其他情态动词
+      * 可能性低: can/could
+    * 表示虚拟 L41,L65
+      * (五个情态动词 和 一个词组 表虚拟) 都可以翻译成 '本来'
+        * need have done
+        * should have done = ought to have done
+        * would have done
+        * could have done
+        * might have done
+  * 分裂结构, 因为一些原因
+    * 原本 连贯的句子, 调整了顺序, 让其不再连贯
+    * 英文中的分裂结构有两大类
+      1. 后移 (从句后移)
+      2. 插入 (插入语)
+    * 通畅前后会有成对的逗号
+
+## L90 What's for supper?
+
+**## words**
+
+* chip n. 炸薯条, 薯片, 芯片
+* overfish v. 过渡捕捞
+  * overact 过渡反应
+* giant n. 巨大 adj. 巨大的
+* diver n. 潜水员
+  * dive v. 潜水
+* whale n. 鲸鱼
+* variety n. 品种, 多样
+  * favourite eating varieties
+  * a varity of ...
+* wit n. 理智, 头脑
+* cod n.鳕鱼
+* skate n. 鳐鱼
+* factor n. 因素
+* crew n. 全体工作人员
+
+**## key structure**
+
+* 复习 have 的用法
+* 复习 it 形式主语 / to do 作真正主语
+* 复习 非限定定语从句
+* 标号: 冒号, 分号
+
+**## text**
+
+* dish n. 菜, 餐具
+* → So it comes as a surprise <u>to learn that giant fish are terrifying the divers on North Sea oil rigs.</u>
+* be frighten out of their wits. 吓得要死
+* 非限定定语从句
+  * 非限定定语从句, 用于在上下文的被修饰的内容非常明确的情况下, 用逗号加定语从句, 对上下文进行补充说明 (否则需要用分裂结构)
+* had sth. done 使某事被做
+* had special cages made
+* .... not ... but 不是 ... 而是 ... 
+* 冒号引出进一步的解释说明
+* 扩展: 主语的变化 (5种)
+  1. 名词/ 代词
+  2. doing
+     * doing (sth.)
+       * → Fishing is my favourite sport.
+       * → <u>Playing basketball on the ground every morning(主语)</u> is my favourite sport
+  3. to do
+     * → It was his job to repair bicycles.
+     * → So it comes as a surprise <u>to learn that giant are terrifying the divers on North Sea oill rig(主语)</u>
+  4. 并列多个
+     * → <u>A young man and a young women</u> were sitting behind me.
+     * → <u>A quiet day's fishing</u>, or <u>eight hours in a cinema seeing the same film over and over again</u>, **is** usually as for as they get.
+     * 并列多个有时候算单数
+       * fish and chips 一道菜
+       * bread and butter
+       * bacon and eggs
+       * a knife and fork
+  5. 从句
+     * → <u>It</u> was obvious <u>that he was very embarrassed.</u>
+     * → It is said <u>that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die.</u>
+
+## L91 Three men in a backet
+
+**## words**
+
+* royal adj. 皇室
+  * royal family 皇室
+  * a Royal Air Force Station
+* spy v. 侦查 spy on the station n. 间谍, 密探
+
+* track n. 轨迹, 踪迹
+  * → Keep track of the strange object 保持追踪奇怪的对象
+  * → lose track of ... 追丢了
+  * back on track 回到轨道
+
+**## key structure**
+
+* 复习 can/be able to / manage to do
+
+**## text**
+
+* can/be able to 
+  * 相同点: 
+    * 都表示能力, "能够"
+    * (be able to 时态 比 can/could 更灵活)
+  * 不同点: 
+    * 表示过去已经能够成功做到的, 用 was/were able to, 不用 could
+    * 
