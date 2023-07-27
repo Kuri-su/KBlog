@@ -830,12 +830,99 @@
 
 **## words**
 
-* **philosopher** [fəˈlɑːsəfər] n. 哲学家
-  * 
+* **philosopher** [fəˈlɑːsəfə(r)] n. 哲学家
+  * **philosophy** n. 哲学 (爱智慧)
+  * **phil** = love
+    * **phil**ology n. 语言学 (爱语言)
+    * **phil**ologist n. 语言学家
+  * **soph** = wisdom n. 智慧
+    * **soph**omore n. 大二的学生
+    * **soph**isticated adj. 错综复杂的, 难以理解的; 高级的, 精致的
+* **spiritual** adj. 精神的
+  * **spiritual** civilization 精神文明
+  * 反义词
+    * **material** adj. 物质的 
+      * **material** civilization 物质文明
+  * 近义词
+    * **mental** adj. 心智的, 智力的
+      * **mental** labor 脑力劳动
+      * 反义词
+        * **<u>manual</u> / <u>physical</u>** adj. 体力的
+          * manual labor 体力劳动
+          * physical labor 体力劳动
+    * **intellectual** adj. 智力的, 知识的 n. 知识分子
+      * **intellectual** development 智力上的发展
+      * 近义词
+        * **intelligent** adj. 聪明的, 智商高的
+          * **intelligent** beings 智慧生物 
+          * intelligence n. 智力, 智慧
+* **grudge** /ɡrʌdʒ/ v. 吝惜, 不愿意给
+  * **grudge + n./doing**
+    * → He **grudges** paying taxes. 他吝惜纳税 (+doing)
+    * → He **grudges** the money he pays in tax. (+ n.)
+  * adj. 形式
+    * **grudging** adj. 不情愿的
+    * **reluctant** adj. 不情愿的, 勉强的
+    * **unwilling** adj. 不乐意的
+      * willing adj. 乐意的
+  * n. 形式
+    * **grudge** **n. 恶意, 怨恨**
+      * **<u>have</u>/<u>bear</u>/<u>hold</u> a grudge 怀恨在心, 记仇**
+        * 听力题: 
+          * W: I wish I hadn't hurt Mary's feelings like that. You know I've never meant to.
+          * M: The great thing about Mary is that she doesn't **hold a grudge**. By tomorrow she'll have forgotten all about it.
+          * Q: What does the man say about Mary?
+          * Answer: (B) She's quick to forgive people.
+* **deliberately** [dɪˈlɪbərətli] adv. 故意地
+  * 同义词
+    * **intentionally** adv. 故意地
+    * **on purepose** adv. 故意地
+  * 反义词
+    * accidentally adv. 偶然地
+    * by accident adv. 偶然地
+    * by chance adv. 偶然地
+* **afflict** [əˈflɪkt] v. 使苦恼, 折磨
+  * **be afflicted <u>with</u> / <u>by</u> ..** 某人因为某事而痛苦
+    * → He **was afflicted <u>with</u> / <u>by</u> ...** his injured leg.
+    * → He **was afflicted <u>with</u> / <u>by</u> ...** the death of his wife.
+  * 形似词
+    * **inflict** v. 强加, 施加, 使遭受
+      * **inflict sth. on sb.** 把痛苦的事情强加给某人
+      * → Please don't **inflict** your love **on** me.
+    * **conflict** v. 冲突, 不合, 分歧
+      * **in conflict** 双方有冲突, 有矛盾
+        * → The <u>employers</u> and workers are still **in conflict.**
+          * employer n. 雇主, 雇主公司
+  * 同义词
+    * **sb. suffer (from) sth.**  某人遭受某事感到痛苦
+    * **sth. distress sb.** 某事令某人痛苦
+    * **sth. <u>torture</u> / <u>torment</u> / <u>rack</u> sb.** 令某人极端痛苦
+      * → God Almighty, where are you when the world **is racked by** war?
+* **contempt** [kənˈtɛmpt] n. 蔑视, 鄙视
+  * **hold ... in contempt**  蔑视某人
+  * **contemptuous** adj. 轻蔑的, 鄙视的
+  * **despise** n. 鄙视
+  * **scorn** n. 鄙视
+  * **look down <u>on</u>/<u>upon</u> ...**  n. 蔑视, 鄙视
+* **envious** [ˈɛnvɪəs] adj. 羡慕的
+  * **be envious of ...** 羡慕某人或某物
+  * **envy** v. 羡慕 n. 羡慕; 羡慕的对象
+    * → You lucky dog, I **envy** you.(v.)
+    * → You are my **envy**
+    * → His talent **is the envy of** his colleagues.
+  * 近义词
+    * **jealous** adj. 妒忌的
+      * **be jealous of ...** 对... 很妒忌
+      * (没有同根的动词)
+      * **jealousy** n. 妒忌
 
 **## text 1**
 
+* 
+
 **## text 2**
+
+
 
 ## L28 Five pounds too dear
 
