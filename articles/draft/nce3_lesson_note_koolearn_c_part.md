@@ -826,7 +826,7 @@
 
 * anticipate v. 预期
 
-## L27 Nothing to sell and nothing to buy
+## L27 Nothing to sell and nothing to buy ⭐️
 
 **## words**
 
@@ -922,8 +922,112 @@
   * to sell 和 to buy 可以看成后置定语
 * → <u>It</u> has been said **<u>that evervone lives by selling something.</u>**
   * has been said 用过去完成时, 表示 过去大家这么说, 到现在我们也都承认
-  * It is said that .... 据说 (固定搭配)
-  * 
+  * 据说的表达, 以及 近似表达和句型
+    * It is said that .... 据说 (固定搭配)
+      * They say that ... 据说
+      * People say that ... 据说
+    * lt is reported that ... 据报道...
+    * It is believed that ... 据信..
+    * It is estimated that ... 据估计...
+    * 如果强调过去是什么样子, 现在依旧是什么样子, 可以用 现在完成时
+      * → (NCE3-17 P78-L14) **It has been estimated that** if the bridge were packed with cars, it would still only be carrying a third of its total capacity.
+    * 其他同样从 'It 做主语, 动词用被动接主语从句' 脱胎的句型
+      * **It must be admitted that ...** 必须要承认的是 ...
+      * **It must be pointed out that ...** 必须要指出的是 ...
+      * **It must be stressed that ...** 必须要强调的是...
+        * stress n. 强调, 重点, v. 强调; 压力 
+      * **It can be foreseen that ...** 可以预见到的是...
+  * **live by doing** 靠某种职业为生 (固定搭配)
+    * → He **lives by** writing.
+    * → He **lives by** sewing.
+      * sew v. 缝纫, 缝合
+    * → (NCE3-38 P174-L14) The nomads who made these markings **lived by hunting aand fishing** during the last Ice Age which began about 35,000 B.C. and ended about 10,000 B.C.
+    * **live on sth.** 靠某种食物 或 生活来源为生
+      * → He **lives o**n meat and milk.
+      * → He **lives on** salary.
+      * → He **lives on** his parents.
+    * **feed on sth.** 动物以 .... 为主食 (肉食素食都行)
+      * → Cows **feed on** hay.
+      * hay n. 干草, 草堆
+    * **prey on sth.** 肉食性动物以别的动物为食
+      * prey n. 猎物, 被捕食的动物
+      * → Owls **prey on** mice.
+        * owls 猫头鹰
+        * mice 老鼠(复数)
+* → **In the light of this statement**, <u>teachers live by seling knowledge</u>, <u>philosophers by selling wisdom</u> and <u>priests by selling spiritual comfort .</u> 
+  * **in (the) light of sth. ...** 根据...；鉴于... (美式英语经常 去掉 the )
+    * → (四级阅读) Reading is thought to be a kind of conversation between the reader and the text. The reader puts questions, as it were, to the text and gets answers. **In the light of** these he puts further questions, and so on.
+    * → (考研阅读) He explores such problem consciously, articulately, and frankly, first by asking factual questions, then by asking moral questions, finally by suggesting action which seems appropriate **in the light of** the factual and moral information which he has obtained.
+    * → (六级片段) l am afraid that you have to alter your ____ views **in light of** the tragic news that has just arrived. (A) indifferent (B)distressing (C) optimistic (D) pessimistic 
+      * 如果 填空的选项中出现了一对反义词, 那么往往 答案就是反义词中的一个
+    * **according to sth./sb. ...** 根据.... ; 鉴于... 
+    * **in accordance with sth. ...**
+    * **considering sth. ...** 考虑到 ... 
+    * **taking into account sth. ...** 考虑到 ... 
+* → In the light of this statement, teachers **live by** selling knowledge, philosophers **(live) by** seling wisdom and priests **(live) by** selling spiritual comfort.
+  * **<u>并列句</u>中重复的谓语动词可省略**
+    * → Mary was happy, <u>but</u> / <u>and</u> / <u>while</u>(表示'而') / <u>whereas</u> Jane **(was)** miserable.
+    * → Mary was happy <u>when</u> Jane **was** miserable. (这是 从句, 而不是并列句)
+  * **parallelism 排比 **(修饰方法)
+    * 英文排比和中文排比不同, 中文排比为了工整, 通常不会去掉字, 英文中排比通常是并列句, 会省去重复的动词
+    * → Some books **are** to be tasted, others (are) to be swallowed, and some few (are) to be chewed and digested.   --- Francis Bacon (论读书)
+    * → Reading **makes** a full man, conference (makes) a ready man, and writing (makes) an exact man. --- Francis Bacon (论读书)
+    * → (考研英语) It is said that <u>in England death is pressing</u>, <u>in Canada inevitable</u> and <u>in California optional</u>. Small wonder. Americans' life expectancy has nearly doubled over the past century. <u>Failing hips can be replaced</u>, <u>clinical depression controlled</u>, <u>cataracts removed in a 30-minutes surgical procedure</u>.
+      * small wonder 毫不奇怪
+      * → It is said that in England <u>**death is**</u> pressing, in Canada ~~(death is)~~ inevitable and in California ~~(death is)~~ optional. Small wonder. Americans’ life expectancy has nearly doubled over the past century . Failing hips <u>**can be**</u> replaced, clinical depression ~~(can be)~~ controlled, cataracts ~~(can be)~~ removed in a 30-minutes surgical procedure.
+* → **Though <u>it</u> may be possible to measure the value of material goods <u>in terms of money</u>,** <u>it</u> is extremely difficult **to estimate the true value of the services <u>which people perform for us.</u>**
+  * 上面的 it 都是形式主语
+  * → Though it may be possible to measure the value of material goods in terms of money
+    * → **Possible <u>as</u>** it may be to measure the value of material goods in terms of money, . (强调句在让步状语从句中的体现)
+      * → **Beautiful <u>as</u>** she is , I still don't like her.
+  * **in terms of ...** 以某种方式; 从某个角度 
+    * → **In terms of** money we're rich, but not **in terms of** happiness.
+    * → Which sport has the most expenses ___ training equipment, players' personal equipment and uniforms? (A) in place of (B) in terms of (C) by means of (D)by way of
+      * 单选如果出现同义词, 往往两个都错
+  * **perform : do; carry out**
+* → There are times **when we would willingly give everything <u>we possess</u> to save our lives**, <u>yet</u> we might grudge paying a surgeon a high fee **for offering us precisely this service.**
+  * **<u>三个</u>**用 There are 句型的表达, 比同义副词 庄重正式的多
+    * **There are times when .... 有时候 = sometimes**
+      * 不用分析成分, 直接写
+      * → **There are times when** even the tiger sleeps.
+      * → **There are times when** silence has the loudest voice.
+      * **there was a time when ... 曾几何时, 曾经 = once**
+        * → (NCE3-14 P66-L1) **There was a time when** the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'.
+      * **there are rare instances when ... 偶然情况下 = occasionally**
+        * → (NCE3-35 P162-L7) **There are rare instances when** justice almost ceases to be an abstract concept.
+  * yet 然而
+  * grudge + doing 不愿意做某事
+    * → ... we might grudge paying a surgeon a high fee for offering us precisely this service.
+      * = → … we might **grudge the high fee <u>we would pav a surgeon</u>** for offering us precisely this service.
+  * willingly adv. 乐意地, 心甘情愿地
+  * possess v. 拥有, 具有
+  * for 表示等价交换
+    * → paying a surgeon a high fee **for** offering us precisely this service
+    * → She gave me $30 **for** my bike. (钱放前面还是 物放前面都可以)
+    * → She bought my bike **for** $30.
+    * **for nothing** 免费
+      * → (NCE3-26 P126-L7) Advertisers discovered years ago that all of us love to get something **for nothing.**
+  * precisely adv. 准确地, 精确地
+  * 造句：有时候我们愿意给为我们服务的侍者小费 (pay tips) 并称赞 (pay compliments) 他们，但是在母亲为我们提供一样的服务的时候我们却吝惜感谢 (give thanks to...）之辞。
+    * → There are times when we would willingly pay tips and compliments to the waiters who serve us, yet we might grudge giving thanks to our mothers for offering us precisely this service.
+* → The conditions of society are <u>such</u> **that skills have to be paid for in the same way <u>that goods are paid for at a shop</u>.**
+  * 把 such 放到句首, 引起部分倒装
+    * →  **Such <u>are</u>** the conditions of society **that** skills have to be paid for in the same way that goods are paid for at a shop.
+    * → (NCE3-4 P26-L4) **Such <u>is</u>** human nature **that** a great many people are often wiling to sacrifice higher pay for the privilege of becoming white -collar workers.
+  * the same way 后面可以接三种词
+    * **in which ** ..  最正式, 最书面
+    * **that** 作关系副词
+    * **/**  
+  * 造向：学校里的情况就是这样，优等生 (A students) 受到尊敬 (respect)，正如社会上成功者 (achievers) 受人景仰 (esteem） 一样。
+    * → The conditions of schools are such that A sstudents are respected in the same way that achievers are esteemed in society.
+* <u>Everyone has something to sell.</u>
+  * 和段首句相呼应 <u>It has been said that evervone lives by selling something</u>
+  * 第一段段落结构 (总分总)
+    * topic sentence **主题句**
+    * supporting sentences 扩展句（论证和论据)
+    * concluding sentence **总结句**
+  * → **It has been said that everyone lives by selling something.** <u>In the light of this statement. teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort</u>. Though it may be possible to measure the value of material good in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us. <u>There are times when we would willingly give evervthing we possess to save our lives, yet we might grudge paving a surgeon a high fee for offering us precisely this service</u>. The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop. **Everyone has something to sell.** 
+
 
 **## text 2**
 
