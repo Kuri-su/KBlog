@@ -3162,4 +3162,286 @@ sweep swept swept.
 
 * Los Angeles 洛杉矶
 * underwater adj. 水下的
-* 
+* tricycle n. 三轮车
+* yard n. 码 (0.9+ 米)
+* gasp v. 喘气
+* instruct v. 指导 , 传授
+  * instruct sb. to do sth.
+  * instruction n. 指导, 指示, 用法说明
+  * gvie/follow the instruction 
+* reluctant adj. 勉强的, 不愿意的
+  * be reluctant to do
+  * → Students are <u>reluctant</u> to study English.
+* weight n. 重物, 重量
+  * pick up weights
+  * put on/lose + weight 增重/ 减重
+  * weigh v. 称重量; 权衡, 考虑
+* compete v. 比赛, 对抗
+  * compete against each other 
+  * compete with ..
+
+**## key structure**
+
+* 复习课
+
+**## text**
+
+* become expect at ... 在某方面成为专家
+* holding their breath 屏住呼吸
+* A of B = B 的 A
+* appear to 看起来...
+* be reluctant to do 不情愿的做某事
+* be accustomed to doing 习惯于做某事
+  * to do 目的
+  * to doing
+    * 这种情况下 to 是介词 (btw to 在什么情况下做介词?)
+* so ... that ... 太 ... 所以 ....
+* line n. 线 v. 排成一条线
+* 英文中 名词 经常 作动词
+* pedal n. 踏板 v. 踩踏
+* prefer to 更愿意做某事
+* tell v. 说, 区分, 分辨
+  * → Whether they will ever become future. Olympic champions, only time will tell.
+    * → Only time will tell whether they will ever become future Olympic champions (更优)
+* 拓展: 五步阅读法
+  1. 第一遍 初读 (不要查单词, 用猜词, 是必要能力) (计时做题, 18min (考研))
+     * 测试自己的水平 / 时间感 / 猜词能力
+  2. 第二遍 查读 (对完答案后, 再次阅读, 并划出生词, 并查出生词词意) (用生词本) (避免生被单词, 建议把单词放到 上下文中背)
+     * 单词的积累
+  3. 第三遍 精读(分析句子结构/ 成分/ 语法/时态)
+     * 语法的巩固
+  4. 第四遍 复读 (上下文意思 结合, 结合整篇文章)
+     * 阅读的提高
+  5. 第五遍 选读(选出好的词 / 词组/ 句子, 摘抄)
+     * 写作的提高
+
+## L95 A fantasy
+
+**## words**
+
+* fantasy n. 幻想故事
+* drily adv. 冷淡地, 枯燥无味地
+* heaven n. 天, 天堂
+* basement n. 地下室
+* frightful adj. 可怕的, 令人吃惊的
+  * in a frightful state
+  * a frightful accident/disaster
+  * frightful news
+  * fright n. 惊恐, 惊吓, 害怕
+    * get a fright
+* definitely adv. 肯定地, 明确地
+  * → He is definitely going to the morning
+  * → I cannot tell you definitely when we will finish it.
+* post v. 委任; 设岗; 邮寄 n. 职位, 岗位; 邮政, 邮件, 邮局
+  * 动词的意思由名词的意思变化而来
+
+**## key structure**
+
+* 复习课
+
+**## text**
+
+* get a shock 受到了一个不太愉快的惊吓
+* pale 脸色苍白
+* Good heavens! 天哪!
+* at time 当时
+* aim v. 瞄准 n. 目标
+* fellow 家伙
+* fire a shot 开火(开枪)
+* 扩展: 状语从句
+  * 三大从句
+    * 名词性从句
+      * 宾语从句 L26
+      * 表语从句 L29
+      * 主语从句 L43, L51
+      * 同位语从句 L46
+    * 定语从句
+    * 状语从句
+  * 状语从句
+    * 含义: 状语用于 更细节的描述
+      * 状语从句: 一个句子作状语, 表达描述性的意思, 对主句进行补充
+    * 位置: 主句的 前/中/后
+      * → When he comes back, I will let you know.
+      * → I will let you know , when he comes back.
+      * → I , when he comes back, will let you know.
+      * 如果放句子中间, 通常放主谓中间, 作插入语
+    * 写法
+      * 主句 + 从句连词 + 完整的陈述句 (不缺失任何的成分的陈述句)
+        * 后面的部分就叫状语从句
+        * 从属连词 不作 句子成分
+    * 分类: 由从属连词决定
+      * ⭐️时间状语从句
+        * <u>when, while,as,</u> (当... 时候) ,before, after , since , until, as soon as ...(一...就...)
+      * 地点状语从句
+        * where
+      * ⭐️原因状语从句
+        * because, since, as
+      * ⭐️结果状语从句
+        * so that ... (所以), so/ such ... that .. (太... 所以)(so + adj./adv. , such +n.)
+      * 目的状语从句
+        * so that ... (+ 情态动词), in order that
+      * ⭐️条件状语从句
+        * if , unless (if not 除非)
+      * ⭐️让步状语从句
+        * although, though, even though, even if
+      * 比较状语从句
+        * than , as
+      * 方式状语从句
+        * as  (按照 ... 的方式)
+
+## L96 The dead return
+
+**## words**
+
+* festival n. 节日
+  * traditional festival 传统节日
+  * Spring Festival
+  * Dragon Boat Festival 龙舟节
+  * celebrate a festival 庆祝节日
+* lantern n. 灯笼
+* spectade n. 景象, 壮观, 场面
+
+**## key structure**
+
+* 分析长难句
+
+**## text**
+
+* the + adj. 表示一类人
+  * the living 活人
+  * the dead
+  * the rich
+  * the poor
+  * the deaf 聋人
+  * the blind 失明的人
+  * the old
+  * the new
+* cheerful adj. 高兴的
+* 前后两个句子, 中间用 for 表因为
+* lay v. 放置
+  * lay laid laid
+* specially-made 特制的
+  * adv. + done = adj.
+    * well-dressed
+    * Well-ventilated
+    * newly-arrived
+* 分析长难句的关键 L38
+  * 谓语动词 ⭐️
+    * 一句话中只有一个谓语动词, 几个谓语动词就是几件事
+    * 谓语动词不一定只有一个词, 可能是一个整体, 多个词 (被动/情态动词/时态/否定)
+  * 连词 ⭐️ 
+    * → In the early morning, the food that <u>had been laid</u>  out of the dead **<u>is thrown</u>** into a river or into the sea as it **<u>is considered</u>** unlucky for anyone living to eat it .
+* 扩展: lay L43
+  * lay laid laid 
+  * lay v. 放置, 下蛋
+
+## NCE2 总复习, 句法图谱
+
+* 句法
+  * 按照结构划分
+    * 简单句
+      * 核心
+        * 构成
+          * 主谓 L1
+          * 主谓宾 L1
+          * 主谓双宾 L3
+          * 主谓宾补 L4
+          * 主系表 L1
+        * 变化
+          * 有两种变化, 位于动词的变化, 主宾表语的变化
+            * 谓语动词的变化⭐️
+              * 有四种变化, 时态/情态/语态(被动)/否定
+                * 时态 (时间和状态) (公式和用法)
+                  * 一般时态
+                    * 过去 L3
+                    * 现在 L2
+                    * 将来 L12
+                  * 进行时态
+                    * 过去 L7
+                    * 现在 L2
+                    * 将来 L13
+                  * 完成时态 (表之前)
+                    * 过去 L7/L9/L14
+                    * 现在 L4/L5/L29
+                    * 将来 L37
+                  * 完成进行时态
+                    * 过去 L62
+                    * 现在 L52/L53
+                    * 将来 L61/L85
+                * 情态
+                  * must/have to L17
+                  * may/might/can/could L19
+                  * need L41
+                  * should/ought to L65/L89
+                * 语态 (被动语态)
+                  * 被动语态 与 时态相结合 L10/L34
+                  * 被动语态 与 情态相结合 L21/L45
+                  * 双宾语动词的被动 L58
+              * 主宾表语的变化 (非谓语动词)
+                * doing 和 to do 可以代 主/宾/表 语
+                * doing 
+                  * doing 作动词 L20
+                  * doing 作介词后的宾语 L20
+                  * doing 作动词后的宾语 L44/68
+                * to do 
+                  * to do 做主语 L31
+                  * to do 作动词后的宾语 L44
+      * 简单句的扩展 (修饰/限定/补充说明)
+        * 分为 <u>词性角度的扩展</u> 和 <u>成分角度的扩展</u>
+        * 词性角度的扩展
+          * 限定词
+          * 名词所有格 L10
+          * 冠词 L6/30
+          * 形容词/副词
+          * adj./adv. 的作用 L8
+            * adj. 修饰名词, adv. 修饰其他
+          * adj./adv. 的三种比较级别
+            * 原级比较 L32 / L80
+            * 比较级 L8/L32 / L56
+            * 最高级 L8/ L32/ L56/L80
+          * 介词短语
+          * 表示时间的介词 L9
+          * 表示地点的介词 L33
+          * 其他介词 L22 /L46 / L70
+        * 成分角度的扩展
+          * 同位语/插入语 L4/L43
+          * 非谓语动词 (⭐️) L55
+            * 非谓语动词作定语 L21
+            * 非谓语动词作状语 L49
+    * 并列句 L25
+      * 描述多件事, 多件事一样重要, 多句之间可以共享资源 (并列句的省略)
+    * 复合句
+      * 多件事不一样重要, 主句+ 从句
+        * 名词性从句(4中的写法基本相同)
+          * 宾语从句
+            * 动词后的宾语从句 L26
+            * 介词 后的宾语从句 L46
+          * 表语从句 L29
+          * 主语从句 L43/51/58
+          * 同位语从句 L46
+        * 定语从句 (限定名词) 
+          * 限定性定语从句 L28
+          * 非限定性定语从句 L36
+        * 状语从句 (修饰主句) 九种
+          * 时间L35, 地点, 原因, 结果L30/L35, 目的L59, 条件L16, 让步L38, 比较L36/80, 方式 L63
+  * 按照用途划分
+    * 常用用途句式
+      * 陈述句 L1
+      * 疑问句
+        * 一般疑问句 (YesNo Question)
+        * 特殊疑问句 (WH Question)
+        * 选择疑问句
+        * 反意疑问句 L68
+      * 祈使句 L66 (省略了主语)
+      * 感叹句 L2
+    * 特殊用途句式
+      * 倒装
+        * 全部倒装 L36
+        * 部分倒装 L79
+      * 强调句 L58
+      * 虚拟
+        * If 条件状语从句的虚拟 L40/64/88
+        * 宾语从句的虚拟 L64
+        * 情态动词的虚拟 L41/65/89
+
+FIN.
