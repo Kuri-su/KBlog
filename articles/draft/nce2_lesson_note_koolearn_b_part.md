@@ -3024,4 +3024,142 @@ sweep swept swept.
     * (be able to 时态 比 can/could 更灵活)
   * 不同点: 
     * 表示过去已经能够成功做到的, 用 was/were able to, 不用 could
-    * 
+    * cloud 只表示能做, 不表示 做没做
+    * can 还可以表示猜测, 允许
+  * 区别
+    * could do
+    * was/were able to do
+    * managed to do 想方设法的做, 并做到了
+* at once 立刻
+* 扩展: make 搭配的词组
+  * → A balloon seemed to be <u>making for</u> a Royal Air Force station. 朝向
+  * → He could <u>make out</u> three men in a basket. 看得出来
+  * → Please <u>make out</u> a fresh copy. 做出来
+  * → I could not <u>make out</u> what he said. 理解
+  * → He <u>made up</u> a story about two men and a horse.
+  * → She spends hours <u>making up</u> in front of the mirror.
+  * → I must <u>make up</u> for the time I lost this morning. 补偿
+  * make for
+  * make out
+  * make up
+
+## L92 Asking for trouble
+
+**## words**
+
+* fast adv. 熟睡
+  * be fast asleep
+* sarcastic adj. 讽刺的, 讥笑的
+  * a sarcatic voice
+  * sarcastic humour 讽刺式的幽默
+  * sarcasm n. 讽刺, 挖苦, 嘲笑
+
+**## key structure**
+
+* 复习 doing 的用法
+* 否定前移
+
+**## text**
+
+* → It must have been <u>about two(两点钟)</u> in the morning when I returned home.
+* 介词 + doing
+* → I think the windows don't need cleaning at this time of the night.
+  * → I don't think the windows need clearning at this time of the night.
+    * 英文中, I think 后, 从句如果有 否定, 会否定前移
+* 否定前移
+  * → I don't think you are wrong 我认为你不是错的
+  * → Last year he didn't believe that the plan would fail. 去年他相信这个计划将不会失败
+* regret 后悔, 遗憾
+  * regret + doing 后悔做过了某事
+  * regret + to do 后悔现在要做某事 或 将要做
+* enjoy + doing
+* so do I 我也是
+  * Excuse me 原谅我
+* excuse + doing
+* 祈使句的主句默认是 你(you)
+* 扩展: so + 助动词 + I
+  * A: I enjoy cleaning windows at night
+  * B: So do I
+  * A: I can swim
+  * B: So can I
+  * so do i 我也是
+    * so + 助动词 + sb. 某人也是
+  * A: I felt excited after the party
+  * B: So did I / your  friends.
+  * so + 助动词 + sb. 某人也是
+    * so do I 
+  * Neither + 助动词 + sb. 某人也不是
+  * A: I will not miss the meeting
+  * B: Neither will I / the candidates.
+
+## L93 A noble gift
+
+**## words**
+
+* noble adj. 高尚的, 壮丽的, 贵族的
+  * a noble soul 一个高贵的人(灵魂)
+  * a noble sight 一个壮丽的景色
+  * a noble family 一个贵族家庭
+* liberty n. 自由
+  * the Statue of Liberty 自由女神像
+  * the liberty of speech 言论自由
+* present v. 赠送; 提出;表示;引见
+  * → The winner was presented a gold medal.
+  * → The committee will present a report next month.
+  * → He presented his apologies.
+  * → May I present Mr. Smith to you?
+* sculptor n. 雕刻家
+  * sculpture n. 雕刻品
+* framework n. 框架, 构架, 体制, 结构
+  * → the framework of the tower 
+  * → the framework of the <u>society 社会</u>
+* transport v. 运送
+  * → The goods were transported by plane.
+  * transportation n. 运输, 运送; 运输工具
+
+**## key structure**
+
+* 复习表示被动
+
+**## text**
+
+* 被动语态和情态/时态 结合, 被动语态想强调动作是被谁做的, 可以用介词 by
+* be made of 可以看得出原材料
+* be made from 看不出原材料
+* 被动的两种方式
+  * be done 被动语态, 位于动词
+  * done 过去分词, 非谓语动词
+* 扩展, 位于动词的 四种变化
+  * 主语 + 谓语 v.
+    * 位于有四种变化
+      * 时态 L86 复习
+      * 情态 L89 复习
+      * 语态 L93 复习
+      * 否定
+* 复习被动语态
+  * be + done
+  * be 
+    * 表示被动的时间
+    * 主语的单复数
+  * done 表示被动的动作
+  * 时态 + 被动语态
+    * 不同时态 对应 的 被动语态
+      * 一般过去时 was/were + done
+      * 一般现在时 am/is/are + done
+      * 一般将来时 wil be + done
+      * 过去将来时 would be + done
+      * 过去进行时 was/were being + done
+      * 现在进行时 am/is/are being + done
+      * 过去完成时 had been + done
+      * 现在完成时 have/ has been + done
+  * 情态 + 被动语态
+    * → Before it <u>could be transported</u> to the United States, a site <u>had to be found</u> for it and a pedestal <u>had to be built</u>.
+  * 谓语动词 无论前后加多少成分和变化, 它们都是一个整体
+
+## L94 Future champions
+
+**## words**
+
+* Los Angeles 洛杉矶
+* underwater adj. 水下的
+* 

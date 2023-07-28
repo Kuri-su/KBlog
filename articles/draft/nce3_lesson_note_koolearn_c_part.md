@@ -918,11 +918,16 @@
 
 **## text 1**
 
-* 
+* nothing to sell and nothing to buy
+  * to sell 和 to buy 可以看成后置定语
+* → <u>It</u> has been said **<u>that evervone lives by selling something.</u>**
+  * has been said 用过去完成时, 表示 过去大家这么说, 到现在我们也都承认
+  * It is said that .... 据说 (固定搭配)
+  * 
 
 **## text 2**
 
-
+* 
 
 ## L28 Five pounds too dear
 
