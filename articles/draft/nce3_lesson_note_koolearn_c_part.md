@@ -1266,13 +1266,85 @@
   * 同义词
 
     * **pester** vt. 纠缠, 反复的打扰
+
+      * → (NCE3-29 P138-L13) From the moment he arrived there, he kept on **pestering** his doctor to tell him when he would be able to go home.
+
     * **harry** vt. 不停的骚扰, 纠缠
     * **harass** vt. 骚扰, 纠缠
+
+      * **sexual harassment**
+
+        * harassment n. 骚扰, 困扰
+
+* **inscribe** /ɪnˈskraɪb/ v. 刻字; 题写
+
+  * **"in" + "scribe"(to write)**
+
+    * scribe 写字(字根)
+    * scr 摩擦(字根)
+
+  * → He **inscribed** his name **in** the stone.
+  * → He **inscribed** his name **in** the book.
+  * **describe** v. 描写
+
+    * de 字根有向下的意思
+
+  * **prescribe** v. 开处方
+
+    * pre 时间往前
+
+  * **proscribe**  v. 禁止
+
+    * pro 地点往前
+
+  * **subscribe** 订阅/订购
+
+    * sub 下方
+    * subscribe to ... 同意, 赞同
+
+  * **transcribe** 抄写
+
+    * tran 从一边到另一边
+
+* **outrageous** /aʊtˈreɪdʒəs/ adj. 出人意料的, 过分的
+
+  * → The price is **outrageous**.
+  * → The price is **preposterous**.
+
+    * preposterous adj. 荒谬 可笑到离谱的; 违反常理的; 荒唐的
+
+  * → The price is **absurd**.
+
+    * absurd adj. 荒谬 可笑到离谱的; 违反常理的; 荒唐的
+
+  * 其他表示太贵的词 或者 搭配
+
+    * → That's **<u>highway robbery</u>/ <u>daylight robbery</u>**
+    * → The car **costs a fortune**
+
+      * fortune n. 幸运; 财富; 命运
+
+    * → The car **costs me an arm and a leg.**
+
+      * 听力题: 
+
+        * M: Did you see the diamond ring Bill gave to Linda?
+        * W: I sure did. It must have **cost him an arm and a leg**.
+        * Q: What does the woman imply about the ring?
+        * A: It was very expensive.
 
 
 **## text 1**
 
-* 
+* **dear** : expensive; costly; pricey; steep
+  * pricey adj. 价格高的, 昂贵的
+  * steep adj. 陡峭的, 险峻的;
+    * a steep price 过高的价格
+    * a steep cost 高昂的费用
+
+* 标题往往会省略成分, 比方说 be 动词
+  * → ltalian ex-mayor murdered
+
 
 **## text 2**
 
