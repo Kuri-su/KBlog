@@ -1031,7 +1031,255 @@
 
 **## text 2**
 
-* 
+* tramp n. 流浪汉 v. 跋涉, 步行, 或者踏着沉重的脚步行走
+* **seem to be ...**  看似 .... , 似乎, 好像是, 看上去是 ... 
+  * **appear to be...** 看似.... , 似乎, 好像是, 看上去是 ... 
+  * **It seems that ...** 看似.... , 似乎, 好像是, 看上去是 ... 
+  * **It appears that .... ** 看似...., 似乎....
+* **exception to sth.** 是 ... 的例外情况
+  * exception n. 例外, 特例, 异常情况
+  * → There are some **exceptions to** every grammatical rule.  每个语法规则都有一些例外情况
+* **arouse** v. 激荡起某种感情
+* pity n./v. 同情, 怜悯
+* 出卖 ... 以换取 ....  .... for ....
+  * → Beggars sell their human dignity **for** the pity of passers-by.
+    * **dignity** n. 尊重, 庄重, 尊严
+  * → The moment they reach out their hands they are beggars spiritually.
+    * spiritually adv. 在精神上 
+    * reach out  伸手
+* → **In seeking independence,** they do not sacrifice their human dignity.
+  * independence n. 独立
+  * **in doing = in the process of doing**  在 ... 的过程当中
+    * → **In** trying to solve one problem, I created another.
+    * 近义搭配
+      * **on/upon doing** 刚一 .... 就.... , 一... 立刻 .... 
+        * upon 在 ... 之上 / 随着 / 一旦 ...
+        * "on"和"upon"在许多情况下可以互换，但他们的区别主要体现在语言的正式程度，时间和顺序的表达，以及特定的词组搭配上。
+      * → **On** being observed, it immediately ran away.
+      * → **Upon** arriving at the university, I went straight to the dormitory.
+        * straight adj. 直的, 笔直的, 直接的, adv. 直接地
+        * dormitory n. 宿舍
+  * **seek** v. 寻找/追求
+    * **seek** <u>refuge</u>/<u>asylum</u>
+      * refuge  n. 庇护所 ; 避难者; 庇护; 避难
+      * asylum n.  庇护; 避难
+    * **seek** compensation
+      * compensation v. 补偿, 赔偿
+    * **seek** comfort
+      * comfort n./v. 舒适/ 安慰
+    * **seek** reelection
+      * reelection n. 连任, 再选
+    * → Virgo woman **seeks** Scorpio man.
+* **feel sorry for ...** 同情, 怜悯
+  * → (NCE2-70 P316-L10) Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.
+  * **<u>have</u>/<u>feel</u> sympathy for ....** 同情, 怜悯
+    * sympathy n. 名词
+  * **sympathize with ...** 同情, 怜悯
+    * sympathize v. 同情, 感同身受
+  * **take pity on** 同情, 怜悯
+* → He has deliberately chosen to lead the life **he leads** <u>and</u> is fully aware of the conseguences.
+  * lead ... life  过... 的生活
+    * live a ... life
+  * **be aware of ...**  知道, 明白, 清楚
+    * aware adj. 意识到 某事或者某物的存在
+    * **be conscious of ...** adj. 意识到..../ 注意到...
+      * conscious adj. 有意识的, 清醒的
+    * 反意搭配
+      * **be unaware of ...** 不知道, 不明白, 不清楚
+      * **be unconscious of ...** 没意识到, 没注意到, 不知道, 不明白, 不清楚
+      * **be ignorant of ....** 不知道, 不明白, 不清楚,<u>( 贬义)</u> 无知的, 本来应该知道但是却不知道
+        * ignorant adj. 无知的, 愚昧的
+  * to lead the life **he leads** , 这里故意重复来强调这是他选择的生活
+    * → We only **help** those who really need **help**.
+    * → God **helps** those who **help** themselves. 天助自助者
+* → He may never be sure **where the next meal is coming from**, <u>but</u> he is free from the thousands of anxieties **<u>which afflict other people.</u>**
+  * sure **where the next meal is coming from** 这个后面的 where 是用来做形容词补足语的存在, 不是真正的从句
+  * **afflict** v. 折磨, 使痛苦
+    * 同义表达
+      * 令某人痛苦 **distress**
+      * 令某人极端痛苦 which **<u>torture</u>** / **<u>rack</u>** / **<u>torment</u>** other people.
+        * rack n. 架子, 支架, 挂架 v. 使痛苦, 使困扰, 折磨, 使筋疲力尽
+      *  某事使某人因某事痛苦 which other people **suffer (from).** 
+  * **anxietie** n. 焦虑, 忧虑
+  * **be free from ... ** (习语搭配) 没有, 特别强调没有一些不愉快的, 不想要的东西, 
+    * → He has **been free from** care since he retired. 他自从退休之后就没有什么挂念了.
+      * retire v. 退休; 退役; 撤退;就寝
+    * → The composition **is free from** errors. 这篇作文没有错误
+      * **composition** n. 组成; 作文, 作品; 音乐作曲; 合成物, 混合物
+    * → Organic produce is free from harmful chemicals.
+      * **produce** 的动词 和 名词 读法不一样
+        * produce n. 农产品, 农作物 v. 生产; 引起; 节目, 演出
+      * **harmful** adj. 有害的
+      * **chemicals** n. 化学物质, 化学品
+    * **free ... from ....** 使sb./sth. 没有 他不想要的东西, 摆脱掉了...
+      * → ... but he **frees himself from** the thousands of anxieties ...
+      * → He dedicated his life to **freeing the world from** famine and disease.
+        * dedicate .... to .... 投身于 ...
+        * famine 饥荒
+        * disease 疾病
+* material n. 物质, adj. 物质的
+* possessions n. 财产, 所有物
+* 使某人能够做某事
+  * **make it possible for sb. to do = enable sb. to do**
+  * → (NCE3-26 P126-L10) They devise hundreds of competitions which will **enable** us **to** win huge sums of money. Radio and television have **made it possible for** advertisers **to** capture the attention of millions of people in this way.
+* **from place to place** 四处, 到处, 各处 (习语搭配)
+  * 同义表达
+    * **here and there** 四处, 到处, 各处 (习语搭配)
+    * **hither and thither** 四处, 到处, 各处 (习语搭配)
+      * hither adv. 同 here (古英语)
+      * thither adv. 同 there (古英语)
+  * from ... to ... 中的两个成分都要用 零冠词
+    * 两个成分相同的情况
+      * → (NCE3-25 P122-L14) The Cutty Sark rolled **from side to side** and it became impossible to steer her .
+        * **from side to side** 来来回回
+      * → read sth. **from cover to cover** 读完了
+        * **from cover to cover** 从封皮到封底 
+      * → sell sth. **from door to door** 挨家挨户的推销
+        * **from door to door** 挨家挨户
+      * → vary **from person to person** 因人而异
+        * **from person to person** 因人而异
+        * vary v. 改变,变化 
+      * → improve **from day to day** 日益改善
+        * **from day to day** 一天天地
+        * improve v. 改善, 
+    * 两个成分不同的情况
+      * → **from dawn to dusk** 从早到晚
+      * → **from head to foot** 从头到脚
+      * → **from top to bottom** 从上到下
+      * →  **from start to finish** 从开始到结束
+      * → **from cradle to grave** 从摇篮到坟墓 (从生到死)
+        * cradle n. 摇篮, 托床
+        * grave n. 坟墓, 墓穴
+* → A rolling stone gathers no moss. (谚语) 滚石不会长青苔 (漂泊的人不聚财)
+  * settle down v. 安定下来, 平静下来
+    * settle v. 安顿; 解决; 安排; 支付; 沉降
+* → **By having to sleep in the open**, he gets far closer to the world of nature **<u>than most of us ever do.</u>**
+  * **in the open (air)**: outdoors 在露天, 在户外
+    * 
+  * far adv. 更远地 adj. 远的
+  * than 引导比较状语从句, 用作连词
+    * → He is taller than **l am.**
+      * → He is taller than **I**.
+        * → He is taller than me. 这种情况下, than 看上去就更像一个介词了
+* → He may hunt, beg, or steal occasionally **to keep himself alive**<u>;</u> he may even, <u>in times of real need</u>, do a little work; <u>but</u> he will never sacrifice his freedom.
+  * 分号 连接两个相互关联的句子：分号可以用来连接两个相关的独立句子。这种情况下，分号实际上替代了连接词（如"and"，"but"，"or"等）
+  * **occasionally** adv. 偶尔, 有时候
+    * 同义表达
+      * **once in a while** 偶尔
+      * **from time to time** 偶尔
+  * in times of ... 在某个时候, 在某个时期
+    * **in times of** <u>happiness</u> / <u>grief</u> / <u>rage</u> / <u>crisis</u> / <u>boredom</u> / <u>war</u> / <u>peace</u> ...
+      * grief n. 悲伤, 悲痛
+      * rage n. 愤怒, 狂怒
+    * → (NCE3-14 P66-L12) **In times of peace**, when business was bad, Hawkwood and his men would march into a Citystate and, after burning down a few farms, would offer to go away if protection money was paid to them.
+* → We often speak of tramps **with contempt** <u>and</u> put them in the same class as beggars, <u>but</u> how many of us can honestly say **that we have not felt a little envious of <u>their simple way of life</u> and <u>their freedom from care</u>?**
+  * **... with contempt** 
+    * contempt n. 鄙视, 轻视
+    * → We often speak **contemptuously** of tramps ..
+      * **contemptuously** adv. 轻蔑地, 蔑视地, 鄙夷地
+  * **put ... in the same class as ... ** 归为同一类
+    * 同义搭配
+      * **classify ... as ...** 
+        * → .. and **classify** them **as** beggars.
+  * **rhetorical question 修辞疑问句** (答在问中, 通常出现在文章的末尾, 段落的末尾, 引起读者的深思, 避免说教)
+    * → O, wind, if winter comes, can spring be far behind?  -- 'Ode to the West Wind’ - P.B. Shelley 冬天来了, 夏天还会远么?
+    * → Who among us has not dreamed of that? 谁没梦想过呢?
+    * → What is the use of our studying grammar if we can't put the grammatical rules into practice? 
+    * → (NCE4-22 P127-L15) Could any spectacle, for instance, be more grimly whimsical than that of gunners using science to shatter men's bodies while, close at hand, surgeons use it to restore them?
 
 ## L28 Five pounds too dear
 
+**## words**
+
+* **wares** /wɛrz/ n. 货物, 商品 (本身就是复数)
+  * **ware** n. 某种产品 (不可数) 通常不会单独出现
+    * software
+    * hardware
+      * 还有五金器具 的意思
+
+    * silverware 银器; 餐具
+    * ironware 铁器
+    * chinaware 瓷器
+    * earthenware 陶器
+      * earthen adj. 用土制成的, 土制的
+
+  * **goods** n. 商品,货物
+  * **merchandise** n./v. 商品 (不可数)
+
+
+* **tempt** v. 吸引, 引诱 (有贬义词的味道, 引诱某人做错事/ 傻事)
+  * **tempt sb. to do sth.** 引诱某人做某事
+    * **tempt sb. into doing sth.** 引诱某人做某事 (更加正式)
+    * → The serpent **tempted** Eve **to** pick the forbidden fruit.
+    * → The serpent **tempted** Eve **into** picking the forbidden fruit.
+  * 同义搭配, 都有贬义的味道
+    * **<u>lure</u> / <u>seduce</u> / <u>entice</u> sb. into doing sth.**
+* **bargain** /ˈbɑːrɡən/ v. 讨价还价 (不及物) n. 便宜货
+
+  * **bargain with sb. <u>over</u> / <u>about</u> sth.** 和某人讨价还价
+
+    * → He **bargained with** the vendor **<u>over</u>** / **<u>about</u>** the price of the eggplants.
+
+      * vendor n. 小贩, 卖主, 供应商
+      * eggplant n. 茄子
+
+        * plant n. 植物, 
+
+  * **haggle with sb. <u>over</u>/<u>about</u> sth.** 和某人讨价还价
+
+    * → "Oh, this one's nice! I like this onel Sir? Uh, kind sir? Can I see this one?” 
+
+      * → "Wait a minute, no, this is, this is the reason you brought me. Okay? I know how to **haggle**. So let me handle this from here on out.”
+
+  * **bargain / buy** n. 价廉物美的便宜货
+
+    * → Oh my! Here's **a real buy. It's a bargain.** This house just <u>came on the market</u>.
+
+      * 如果是基督教的人直呼上帝会会有不尊重, 所以会说 Oh my
+      * a real buy = a real bargain
+      * came on the market 上市, 投放市场
+
+* **disembark** /ˌdɪsɪmˈbɑːrk/ v. 下船, 下飞机 (不能指下车)
+
+  * **disembark from ...** 
+
+    * → The passengers **disembarked from** the <u>ferry</u> / <u>plane</u>.
+
+      * ferry n./v. 渡轮
+
+  * 反义词
+    * **embark** v. 上船, 上飞机
+      * **embark on ...** 
+        * → We **embarked on** the ship for Shanghai.
+    * **board** vt./vi. 上船, 上飞机, 上车, 上火车 
+      * → The couple **boarded** the train <u>for</u> New York.
+        * for 赴 
+      * → Flight No. 714 is now **boarding** at Gate 8.
+
+* **assail** /əˈseɪl/  v. 纠缠
+
+  * **be assailed <u>by</u>/<u>with</u> sth./sb. ** 
+
+    * → He was **assailed <u>by</u> / <u>with</u>** a street vendor.
+    * → He was **assailed <u>by</u> / <u>with</u>** worries. 他被问题所纠缠
+
+  * 同义词
+
+    * **pester** vt. 纠缠, 反复的打扰
+    * **harry** vt. 不停的骚扰, 纠缠
+    * **harass** vt. 骚扰, 纠缠
+
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L29 Funny or not
