@@ -1345,10 +1345,188 @@
 * 标题往往会省略成分, 比方说 be 动词
   * → ltalian ex-mayor murdered
 
+* → Small boats **<u>loaded with wares</u>** sped to the great liner **as she was entering the harbour.**
+  * the great liner 巨轮
+    * → (NCE3-10 P50-L7) The tragic sinking of this **great liner** will always be remembered, for she went down on her first voyage with heavy loss of life.
+
+  * Small boats loaded with wares  = Small boats **(which were)** loaded with wares ...
+  * be loaded with ...  充满, 装满
+    * → (NCE3-12 P58-11) They quickly **loaded** a small rubber dinghy **with** food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.
+
+    * loaded adj./v. 装满, 充满
+
+    * 同义表达
+      * **be covered with ...**
+      * **be filled with ...** 装满, 充满; 脸上满是某种情绪
+        * → (NCE3-52 P236-L4) ... it **is filled with** what looks like a thick, greyish substance. 装满
+        * → (NCE3-48 P220-L23) All at once, I noticed that my wife seemed to **be filled with** alarm.
+          * alarm n. 警报; 惊恐
+
+    * 近义表达
+      * **be <u>packed</u> / <u>crammed</u> with** 挤满了
+        * cram v. 塞满;填赛
+        * → (NCE3-17 P78-L14) It has been estimated that if the bridge **were packed with** cars, it would stil only be carrying a third of its total capacity.
+        * → The streets **were <u>packed</u> / <u>crammed</u> with** Christmas shoppers.
+
+      * **be stuffed with ....** 往中间填充东西
+        * a pillow **stuffed with** feathers 羽毛枕头
+          * pillow 枕头
+          * feather n. 羽毛
+
+        * duck **stuffed with** 'eight treasures' 八宝鸭
+        * (NCE3-59 P264-L21) **stuffed** birds 鸟类标本
+        * I'm **stuffed**. = I'm full.
+
+  * speed v. 超速; 快速移动 n. 速度
+    * → He was fined for **speeding**. 超速
+    * → We **sped** down the ski slopes. 快速移动
+
+  * **enter** the harbor 进港
+    * **depart from** the harbor 离港
+    * **<u>pull</u>/<u>draw</u> in ** the station 进站
+    * **<u>pull</u>/<u>draw</u> out of** the station 出站
+
+* → **Before she had anchored**, the men <u>from the boats</u> had climbed on board <u>and</u> the decks were soon covered with <u>colourful rugs from Persia</u>, <u>silks from India</u>, <u>copper coffee pots</u>, and <u>beautiful handmade silverware.</u>
+  * anchor n. 锚 v. 抛锚, 停泊
+  * on board 到船上
+    * = **aboard** adv. & prep.
+
+  * colorful adj. 五颜六色的; 多姿多彩的
+  * 地毯
+    * **rug** 块状铺地上的地毯,  (床脚铺的, 沙发脚的地毯)
+    * **carpet** 满铺地毯, 
+    * **mat** 地上的垫 (例如浴室, 玄关地上放一块长方形的小垫)
+      * **doormat** 门口的脚垫
+      * **bathmat** 浴室门口的垫
+
+    * **blanket** 这个是盖在身上的毯子, 不是地毯
+
+  * **copper** n. 铜 (不可数)
+    * **bronze** n. 青铜
+    * **brass** n. 黄铜
+    * → the **Bronze** Age
+    * a **brass** band 铜管乐队
+
+  * copper pot 咖啡壶
+    * pot 壶 / 锅
+    * **potbelly** 大肚皮(中年男人):)
+      * belly 肚子
+
+    * **coffee pot**
+    * **teapot**
+    * **flowerpot** 花盆
+    * **kettle** 开水壶
+    * → **the pot calling the kettle black** (习语搭配) 五十步笑百步(锅笑水壶黑)
+    * **pan** 平底锅
+      * frying pan 炒锅
+        * →  **out of the frying pan into the fire** (习语搭配)才出龙潭又入虎穴 (出了炒锅进火里)
+
+* → It was difficult not to be tempted.  避免诱惑是困难的
+  * 同义词替换
+    * avoid 避免做某事
+    * → It was difficult **to avoid being tempted.**
+    * → (NCE3-26 P126-L1) No one can **avoid being influenced** by advertisements.
+    * → It was difficult **to resist temptation.** 抵制诱惑是困难的
+
+* → Many of the tourists **<u>on board</u>** had begun bargaining with the tradesmen, <u>but</u> | decided not to buy anything **until l had disembarked.**
+  * 然后.... 可以用 before 表示然后
+  * → I shaved **before** I went to the party.
+  * → ... ,but I decided to disembark 
+    * **before** I bought anything.
+    * **before** buying anything.
+
 
 **## text 2**
 
-* 
+* → I had <u>no sooner</u> got off the ship <u>than</u> I was assailed by a man **who wanted to sell me a diamond ring.**
+  * **no sooner ... than ...** 刚刚 ...  就 ....
+    * 同义搭配
+      * **<u>hardly</u> / <u>barely</u> / <u>scarcely</u> ... <u>when</u> / <u>before</u> ... ** 刚刚 ... 就 ...
+
+  * 否定含义的词放到句首引起部分倒装
+    * no sooner / hardly 这类词有否定含义
+    * → **No sooner <u>had</u>** I got off the ship **than** l was assailed ....
+    * → I **<u>had</u> hardly** got off the ship **when** I was assailed ...
+      * → **Hardly <u>had</u>** I got off the ship **when** I was assailed ...
+
+  * **get off** the <u>bus</u> / <u>ship</u> / <u>plane</u> 下车 / 下船/ 下飞机
+    * → Ihad no sooner **disembarked from** the ship than ....
+    * **get on** the <u>bus</u> /<u>ship</u> / <u>plane</u> 上车/上船/上飞机
+    * get off 和get on 只能用在可以站起来的载具上, 例如公交车, 飞机, 如果站不起来的交通工具需要用 get info
+    * **get into** the <u>car</u>/ <u>taxi</u>  上轿车, 上出租车
+    * **get out of** the <u>car</u> / <u>taxi</u> 下轿车, 下出租车
+
+  * **assail** v. 纠缠
+    * 同义替换
+      * ... than I **was <u>harried</u> / <u>harassed</u> / <u>pestered</u> by** a man who ....
+
+* → I had no intention of buying one, <u>but</u> | could not conceal the fact **that I was impressed by the size of the diamonds.**
+  * intention n. 意图; 目的; 打算
+  * conceal v. 隐藏; 隐瞒; 掩盖
+  * impress v. 给予印象
+  * **have no intention of doing sth.** 无意做某事
+    * **not intend to do sth.** 无意做某事
+      * → I did**n't intend to** buy'one, ..
+
+    * **intent to do sth. ** 有意做某事
+
+* → ... , but the man **must have noticed** that I was ....
+  * 同义表达
+    * → ...,but I **could not deny** that I was ... 我不能否认
+    * → ..., but I **had to <u>admit</u>/<u>acknowledge</u>** that I was ....
+
+* → 造句：我当时并没有打算在这家公司工作，但我不能掩饰这样一个事实：他们提供的丰厚的薪水 (handsome salary) 给我留下了深刻的印象。
+  * → I had no intention of working for the company, but I could not conceal the fact that I was impressed by  the handsome salary they offered.
+
+* marble n. 玻璃弹珠
+* **go to great lengths to do**  不遗余力的, 竭尽全力的
+  * → They have **gone to great lengths to** make us feel welcome.
+  * 同义替换
+    * **<u>do</u> / <u>try</u> one's best to do**
+      * → (NCE3-29 P138-L15) Though the doctor **did his best**, the patient's recovery was slow.
+
+    * **<u>do</u> /<u>try</u> one's utmost to do** 
+      * utmost adj. 最大的, 极度的
+        * → (NCE4-6 P35-L6) You play to win, and the game has little meaning unless you **do your utmost to** win.
+
+    * **do <u>everything</u> / <u>all</u> one can to do**
+    * **give one's all to do** 
+    * **spare no effort to do**
+      * spare 省下来不用
+      * effort 努力
+      * → China will **spare no effort to** realize peaceful reunification.
+
+    * **go all out to do** 
+      * 听力题: 
+        * W: Look at the delicious sandwiches. John's really gone all out this time.
+        * M: **Just wait until you see** the dessert.
+          * Just wait until you do sth. 后面的更好
+          * dessert n. 甜点
+
+        * Q: What does the man imply？
+        * Answer: (C) The dessert also looks impressive.
+
+* real = genuine 真的
+* impression n. 印象; 印记
+  * → made a deep impression in the glass.
+  * → (NCE3-24 P118-L19) ... and it **gave me the impression that** it was about to leap out at me.
+  * **<u>have</u>/<u>get</u> the impression that ...**  某人觉得是 ...
+  * **be under the impression that ...** 某人还以为是 .... (感觉是错的)
+    * → (NCE3-32 P150-L10) Though the crew **were** at first **under the impression that** the lost ship had been found, the contents of the chest proved them wrong.
+
+* → He hit me **<u>on</u>** the nose.
+  * → He hit me <u>**in**</u> the face.
+  * in the glass
+  * → (NCE3-44 P204-L8) If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light **<u>in</u>** the ceiling, ...
+
+* → I **took** over half an hour **to** get rid of him.
+  * → (NCE3-5 P30-L9) The journalist immediately set out to obtain these important facts, but **<u>he took a long time to send them.</u>**
+  * → I **spent** over half an hour **(in) getting** rid of him.
+  * **rid** v. 摆脱, 清除
+    * **get rid of sb.** 赶走某人; 干掉某人(弄死); 打发走某人
+    * **dispose of sb.** 打发走某人
+      * → (NCE4-28 P166-L8) There is no quicker method of **disposing of** patients than by giving them what they are asking for, ...
+
 
 **## text 3**
 
