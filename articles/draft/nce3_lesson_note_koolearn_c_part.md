@@ -1530,6 +1530,32 @@
 
 **## text 3**
 
-* 
+* approach v. 接近, 走过来
+* **<u>the first</u>, <u>the second</u>, <u>the next</u>, <u>the last</u>, <u>the best</u>, <u>the only</u>… 后常跟不定式作定语** 
+  * → **The next** man <u>**to approach**</u> me was selling expensive pens and watches. 
+  * → (NCE3-20 P90-L14) When he landed near Dover, **the first** person **<u>to greet him</u>** was a local policeman.
+  * → (NCE3-25 P122-L7) **The only** other ship **<u>to match her</u>** was the Thermopylae.
+  * → (NCE3-25 P122-L11) **The first** of the two ships **<u>to reach Java after</u>** the race had begun was the Thermopylae, but on the Indian Ocean, the Cutty Sark took the lead.
+  * → (NCE4-45 P263-L4) The **last** creature **<u>to compete with man</u>** was the mosquito.
+
+* **examine** v. 仔细查看; 检查, 审查
+* **closely** = carefully
+  * → (NCE3-26 P126-L5) ... advertisers have made a **close** study of human nature...
+
+* **neatly** adv. 整洁的
+* **at the base of ...**  底部的地方
+  * **on the basis of ....** 底部的地方
+    * basis n. 基础, 根据, 依据 
+    * basis 和 base 词性相同 n. , basic 是 adj., 
+    * basis 通常指概念, 没有实体的东西, base 通常指有实体的东西
+    * → Decisions were often made **on the basis of** false information.
+
+* **gold** 做定语表示一定有金的在里面, 不是指 金色的, 或者金子般的
+  * **gold** <u>ring</u> / <u>medal</u> 金戒指, 金牌
+  * **golden** 做定语, 指金子般的, 或者金黄色的
+    * **golden** <u>sunshine</u> / <u>hair</u>
+
+  * 
+
 
 ## L29 Funny or not
