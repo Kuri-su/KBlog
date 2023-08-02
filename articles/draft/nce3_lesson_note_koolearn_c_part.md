@@ -1674,16 +1674,103 @@
     * **comet**  n. 彗星 (辨析 cosmic)
     * **cosmos** n. 宇宙
     * **cosmetics** n. 化妆品
-  * global 
-  * international
-  * world-wide
+  * global adj. 全球的, 全面的, 全局的
+  * international adj. 全球的, 跨国的, 国际的
+  * world-wide adj. 全世界的, 遍及全球的 
     * → English has now become an **international** language. Therefore, if you have a good command of this language, you hold the key to success.
+  * **universally** adv. 普遍地, 全球范围内地
+    * → lt is **universally** known that ... 众所周知...
+* **comedian** /kəˈmiːdiən/ n. 喜剧演员, 丑角
+  * **comedian** n. 喜剧演员 (不分男女)
+  * **comedienne**  n. 喜剧女演员
+    * -enne 后缀 表示女性(阴性)
+  * **comedy** n. 喜剧
+  * **tragedian** n. 悲剧演员 (不分男女)
+  * **tragedienne** v. 悲剧女演员
+  * **tragedy** n. 悲剧
+  * **leading <u>role</u> / <u>part</u>** 主角
+  * **protagonist** n. 主角, 主人公, 领导者
+  * **leading man** n. 男主角
+  * **hero** n. 男主角
+  * **leading lady** n. 女主角
+  * **heroine** n. 女主角
+  * **supporing role** n. 配角
+  * **extra** n. 群众演员, 群众演员, 配角 adj. 额外的, 附加的
+* **distasteful** /dɪsˈteɪstfl/ adj. 讨厌的, 令人不愉快的
+  * **be distasteful to sb.** 令某人不快
+    * → It **is distasteful to** me to say this, but .... 虽然我很不愿意这么说, 但.... 
+      * → I hate to say this , but ....
+    * **disgusting** adj. 令人作呕的, 令人不愉快的
+      * **disgust** n./v. 令人作呕, 令人讨厌
+    * **revolting** adj. 令人作呕的，令人恶心的，令人厌恶的
+      * **revolt** n. 令人讨厌的事物或行为 v. 叛乱, 起义; 令人讨厌
+    * **repellent** adj. 令人厌恶的; 驱除的, 防止的 n. 驱虫剂, 防蚊剂
+      * **repel** v. 驱逐, 抵制, 令人讨厌
+    * **repulsive** adj.  令人反感的，令人厌恶的，令人讨厌的
+      * **repulse** v. 击退, 排斥, 拒绝, 抵制, 令人讨厌
+* **pester** /ˈpɛstər/ v. 纠缠, 一再要求
+  * **pest** n. 害虫, 害兽, 讨厌的人
+  * **pester sb. for sth.** 缠着某人非要某个东西
+    * → He **pestered** me **for** money. 他纠缠着我要钱
+  * **pester sb. with sth.** 用某个东西纠缠某人
+    * → He **pestered** me **with** complaints. 他总是用抱怨来骚扰我
+  * **harry** vt. 纠缠
+  * **harass** vt.  纠缠
+  * **assail** vt.  纠缠
+* **recovery** /rekəˈvəri/ n. 恢复原状 ; 康复
+  * **recovery from ...** 从某个不好的状态中恢复
+    * → **recovery from** illness 病后康复
+    * → **recovery from** defeat 从失败中恢复
+  * **recover** vt. 恢复
+    * 同义词(可替换)
+      * **restore** v. 恢复
+      * **regain** v. 恢复
+    * **recover / restore / regain** (vt.)
+      * one's health 健康
+      * one's sight 视力
+      * one's consciousness  意识
+      * one's balance 平衡
+      * one’'s composure 镇定
+* **console** /ˈkɒn.səʊl/ vt. 安慰, 慰问 n. 控制台, 悬崖平台
+  * **console sb. for sth.** 因为某事安慰某人
+    * → I **consoled** him **for** the loss of money. 我就因为丢钱的事情安慰他
+  * **console sb. with sth.**  用某物安慰某人
+    * → I **consoled** him **with** money. 我用钱来安慰他
+  * **confort** v. 令某人心里舒坦
+    * **confort** a dying man  安慰一个垂死的人
+  * **soothe** v. 哄某人 (大发脾气的人, 大哭大闹的人...), 安抚, 安慰, 缓解, 减轻
+    * **soothe** a crying baby
+  * **calm sb down.**  使某人平静下来
+  * **condole with sb.** 吊唁某人, 吊慰某人 (sb. 是亲属, 不是过世的人)
+    * **condole** vi. 为某人的悲痛或损失表示同情或慰问 
+    * → The widow's friends **condoled with** her at the funeral.
+      * widow n. 寡妇
+      * funeral n. 葬礼
+* **compensate** /ˈkɒm.pən.seɪt/ v. 弥补, 补偿 ⭐️
+  * **compensate (sb.) for sth.** 为了某事而补偿某人
+    * → Nothing can **compensate (him) for** his loss. 没什么可以弥补他的损失
+  * **more than compensate for ...** 足以弥补...
+    * → His rise in status **more than compensates for** the loss of money. 他在地位上的提高, 足以弥补他在金钱上的损失
+  * 同义替换
+    * **make up for ...** 弥补
+    * **redeem** vt. 弥补, 补偿
+    * **offset** vt. 弥补, 补偿
 
 **## text 1**
 
+* → **Whether we find a joke funny or not** largely depends on <u>**where we have been brought up**</u>.
+  * 名词性从句有两个 关系词可以表示 是否, 一个是 whether, 一个是 if, 用 if 的地方都能换成 whether, 用 whether 的地方不一定能换成 if
+  * **表示“是否”时不能用 if 的几种情况：**
+    1. **主语从句位于句首时**
+       * **<u>If</u> she likes the present** is not clear to me. **X**
+
 **## text 2**
 
+* 
+
 **## text 3**
+
+* 
 
 ## L30 The death of a ghost
 
