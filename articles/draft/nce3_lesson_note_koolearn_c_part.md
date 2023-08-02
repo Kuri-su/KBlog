@@ -1542,7 +1542,15 @@
 * **closely** = carefully
   * → (NCE3-26 P126-L5) ... advertisers have made a **close** study of human nature...
 
-* **neatly** adv. 整洁的
+* **neatly** adv. 整洁地, 工整地
+  * neat adj. 整洁的, 工整的
+    * → His handwriting is <u>neat</u>. 他的字迹工整
+    * → He has a teacher's handwriting. 他的字迹工整(他有个老师的字迹)
+
+  * illegible adj. 难以辨认的, 字迹模糊的
+    * → His handwriting is <u>illegible</u>. 他的字迹潦草
+    * → He has a doctor's handwriting . 他的字迹潦草
+
 * **at the base of ...**  底部的地方
   * **on the basis of ....** 底部的地方
     * basis n. 基础, 根据, 依据 
@@ -1550,12 +1558,132 @@
     * basis 通常指概念, 没有实体的东西, base 通常指有实体的东西
     * → Decisions were often made **on the basis of** false information.
 
-* **gold** 做定语表示一定有金的在里面, 不是指 金色的, 或者金子般的
+* **gold** 做定语表示一定有金的成分的在里面, 不是指 金色的, 或者金子般的
   * **gold** <u>ring</u> / <u>medal</u> 金戒指, 金牌
   * **golden** 做定语, 指金子般的, 或者金黄色的
     * **golden** <u>sunshine</u> / <u>hair</u>
+    * → Speech is silver, but silence is **golden**. 雄辩是银, 沉默是金
 
-  * 
+* inscribe v. 刻字
+  * engrave v. 雕刻, 刻画, 刻印
+    * grave n. 坟墓, 墓地 adj. 严重的, 重大的
+    * → (NCE3-38 P174-4 13) Historians have long been puzzled by dots, lines and symbols which have been **engraved** on walls, bones, and the ivory tusks of mammoths.
+
+* → The man said **that the pen was worth £50, <u>but</u> <u>as a special favour</u>, he would let me have it for £30.**
+  * 上文 that 后面全是宾语从句
+  * worth 有时可以看作介词, 后面跟宾语
+  * favour/favor n. 喜爱, 偏爱; 恩惠, 好意, 优惠 v. 支持, 帮助
+
+* → I shook my head <u>and</u> held up five fingers **indicating <u>that I was willing to pav £5</u>.**
+  * shake v. 摇动, 颤动
+    * I **shake my head** 摇头 (不同意)
+    * I **disagreed** 不同意
+    * I **said no to sb.** 不同意
+
+  * **hold up** 伸出, 举起
+    * extend 伸出
+
+  * indicate v. 表示, 表明
+    * → (NCE3-38 P174-L11) Recent scientific evidence seems to **indicate** that this assumption is incorrect.
+
+* → **Gesticulating wildly**, the man acted **<u>as if he found my offer outrageous</u>**, but he <u>eventually</u> reduced the price to £10.
+  * find (有时可以翻译成 )认为 
+  * gesticulate v. 做手势, 做姿势, 打手势
+  * wildly adv. 疯狂地, 狂野地, 不受控制地
+  * **outrageous** adj. 过分的, 离谱的, 荒谬的, 令人愤慨的
+    * 同义词
+      * **absurd** adj. 荒谬的, 荒唐的
+      * **preposterous** adj. 荒谬的, 愚蠢的
+
+  * **eventually** adv. 最终, 终于, 最后
+    * 同义词
+      * at last 
+      * finally 
+      * **in the end** (多用在句首或者句末, 通常不用在句中)
+
+* → **Shrugging my shoulders**, I began to walk away **when, <u>a moment later</u>, he ran after me <u>and</u> thrust the pen into my hands.**
+  * when 引导时间状语从句, 可以翻译成 **然后**
+    * → I will be on vacation till the end of the month when I return to shanghai.
+
+  * run after 追某人
+    * = **chase** v. 追逐, 追捕, 追赶 n. 追逐, 追求
+    * → (NCE3-6 P34-L15) Just as it was leaving, Mr. Taylor rushed out and **ran after** it throwing ashtrays and vases, ...
+
+  * thrust v. 用力推, 用力刺; 挺进;硬塞给 n. 推力, 挺进, 刺 (thrust,thrust,thrust)
+  * **shrug one's shoulders** 耸肩(1. 不感兴趣 2. 怀疑 3. 不知道)
+    * shrug v./n. 耸肩, 漠不关心
+    * with a shrug 耸肩
+
+* **throwing up his arms in despair** 绝望的挥舞着胳膊
+* **readily = willingly** adv. 乐意地, 容易地, 轻松地
+  * → (NCE3-27 P130-L6) There are times when we would **willingly** give everything we possess to save our lives, ....
+* pleased adj. 高兴的, 满意的
+  * fell pleased with ... 既开心, 又满意
+
+* especially adv. 特别地, 尤其是
+* → **No matter how hard I tried**, <u>it</u> was impossible **<u>to fill this beautitul pen with ink</u>** <u>and</u> to this day it has never written a single word!
+  * **No matter how = however** 
+    * → (NCE3-35 P162-L.5) Judges, **however** wise or eminent, are human and can make mistakes.
+
+  * → (NCE3-7 P38-L12) lmagine their dismay when they found a **beautifully-cooked** wallet and notes turned to ash.
+  * **so far = to this day** 迄今为止
+  * single 强调只有一个
+    * → (NCE2-3 P20-L7) I spent the whole day in my room, but I did not write **a single** card!
+    * → (NCE3-21 P106-L19) He earned enormous sums of money and was paid as much as £ 100 for **a single** appearance.
+    * → (NCE4-3 P17-L6) They had **a single** aim, **a solitary** goal-the top!
+      * **single = solitary** 
+        * solitary adj. 孤独的, 独自的, 单独的
+
+    * 造句：无论我多么好地喂养(feed)这只鸡，它就是不肯产卵 (breed)，直到今天它连一个蛋也没下过。
+      * → No matter how well I fed her, it was impossible to persuade the beautiful hen to breed and to this day she has never laid a single egg!
+        * hen n. 母鸡
+        * rooster n. 公鸡
+          * cock n. 公鸡
+          * "Cock" 也指的是公鸡，但它的语气更加强烈和直接。这个词更常用于非正式和口语的场合，也有时候用于形容具有傲慢或自负的男性。在一些文化背景中，"cock" 还有性暗示或侮辱的意味，因此在正式场合中使用时需要小心。总体而言，"rooster" 更加普遍和中性，而 "cock" 则更加具有情感色彩和口语化。在大多数情况下，"rooster" 是一个更安全和合适的选择，特别是在正式场合中。
 
 
 ## L29 Funny or not
+
+**## words**
+
+* **largely** /ˈlɑːrdʒli/ adv. 在很大程度上, 主要地; 广泛地, 大量地
+  * **largely**: to a great extent; chiefly
+    * extent n. 程度, 范围, 延伸
+    * chiefly adv. 主要地, 首要地
+  * → His success was **largely** <u>due</u> to his hard work. (主要地)
+    * **due** adj. 应该的, 到期的, 预定的 adv. 由于
+  * → The theory was **largely** adopted. (广泛地)
+    * theory n. 理论, 学说, 推测, 观点
+    * adopt v. 收养, 采用, 接受
+      * adapt v. 适应
+      * adept adj. 熟练的
+  * **mostly**: in most cases (时间状语)
+    * → We're **mostly** out on weekends. 
+* **comic** /ˈkɒmɪk/ adj. 喜剧的; 可笑的, 滑稽的
+  * 其他表示 '滑稽的, 可笑的' 的 词
+    * **funny** adj. 有趣的
+    * **amusing** adj. 有趣的
+    * **diverting** adj. 有趣的, 愉快的, 引人入胜的
+  * comic adj. → comedy n. 喜剧
+  * tragic adj. 悲惨的, 悲剧的 → tragedy n. 悲剧
+  * farcical adj. 荒诞的 → farce n. 闹剧, 荒诞剧
+  * dramatic adj. 戏剧的; 戏剧性的, 夸张的 → drama n. 戏剧 (所有的喜剧类型)
+* **universal** adj.  普遍的, 普及的, 全球的, 包罗万象的, 放之四海皆准的
+  * **cosmic** adj. 宇宙的
+    * **comic** adj. 滑稽的, 喜剧的 (辨析 cosmic)
+    * **comet**  n. 彗星 (辨析 cosmic)
+    * **cosmos** n. 宇宙
+    * **cosmetics** n. 化妆品
+  * global 
+  * international
+  * world-wide
+    * → English has now become an **international** language. Therefore, if you have a good command of this language, you hold the key to success.
+
+**## text 1**
+
+**## text 2**
+
+**## text 3**
+
+## L30 The death of a ghost
+
