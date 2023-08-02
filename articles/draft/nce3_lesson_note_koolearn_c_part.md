@@ -1,4 +1,4 @@
-# NCE 3 Lesson Note koolearn part C
+# NCE 3 Lesson Note koolearn part C (yanlong lee)
 
 [TOC]
 
