@@ -1761,8 +1761,127 @@
 * → **Whether we find a joke funny or not** largely depends on <u>**where we have been brought up**</u>.
   * 名词性从句有两个 关系词可以表示 是否, 一个是 whether, 一个是 if, 用 if 的地方都能换成 whether, 用 whether 的地方不一定能换成 if
   * **表示“是否”时不能用 if 的几种情况：**
-    1. **主语从句位于句首时**
-       * **<u>If</u> she likes the present** is not clear to me. **X**
+    1. **主语**从句位于句首时
+       * → **<u>If</u> she likes the present** is not clear to me. **X**
+       * 改法: 
+         1. → It is not clear to me **<u>if</u>/<u>whether</u> she likes the present.**  将主语从句后置
+         2. → **<u>Whether</u> she likes the present** is not clear to me.  主语从句改用 whether
+    2. 引导**表语**从句时
+       * → The question is **<u>if</u>** we have enough money **X**
+         * 改法:
+           1. → The question is **<u>whether</u>** we have enough money. 
+    3. 引导**同位语**从句时
+       * → You have yet to answer my question **<u>if</u>** I can count on your help. **X**
+         * have yet to 还没有, 尚未
+         * 修改
+           * → You have yet to answer my question ***whether*** I can count on your help. 
+    4. **作介词宾语时** (动词宾语可以)
+       * → He was worrying <u>about</u> **<u>if</u>** he had hurt her feelings. **X**
+       * 修改
+         * → He was worrying <u>about</u> **<u>whether</u>** he had hurt her feelings. 
+    5. 动词宾语 后, 引导**动词不定式**时
+       * → I don't know **<u>if</u>** <u>to</u> see my doctor today. **X**
+       * 修改
+         * → I don't know **<u>whether</u>** <u>to</u> see my doctor today. 
+    6. **直接 跟 or not 时**
+       * → Please tell me **if** <u>or not</u> you agree. **X**
+       * 改正
+         * → Please tell me **whether** <u>or not</u> you agree. 
+         * → Please tell me **if** you agree <u>or not.</u> 
+  * **largely**: <u>chiefly</u> / <u>to a great extent</u> 很大程度上, 主要地
+    * extent n. 范围, 程度, 长度, 广度
+    * 取决于, 依赖于 的同义表达
+      * 动词系列
+        * **depend on ... ** 
+        * **rest on ...**
+        * **rely on...**
+        * **ride on ...**
+        * **hinge on ...**
+        * **lean on ...**
+        * 例句: 
+          * → Whether you find a joke funny or not largely <u>**rests**</u> / <u>**relies**</u> / <u>**rides**</u> / <u>**hinges**</u> / **<u>leans</u> on** where we have been brought up.
+      * 形容词系列
+        * **be dependent on ...**
+        * **be based on ...**
+        * **be built on ...**
+        * **be founded on ...**
+        * 例句: 
+          * → Whether you find a joke funny or not **is** largely **<u>dependent</u> / <u>based</u> / <u>built</u> / <u>founded</u> on** where we have been brought up.
+      * +by 系列
+        * **be decided by ...**
+        * **be dictated by ...**
+        * **be determined by ...**
+        * 例句: 
+          * → Whether you find a joke funny or not **is** largely **<u>decided</u> / <u>dictated</u> / <u>determined</u> by** where we have been brought up.
+  * **bring up sb.** 把某人抚养成人, 把某人拉扯大
+    * → He **was brought up** by his step-mother.
+      * step-mother 继母
+    * **raise sb.** 养人/养猪/ 饲养/ 养育
+    * **<u>foster</u>/<u>adopt</u> sb.**
+      * adopt v. 采用, 采纳
+      * foster 培养, 促进, 养育
+      * adopted son 养子
+      * adoptive parents. / foster-parents 养父母
+    * **be brought up to do** (固定搭配) 从小就....., 从小到大一直都这样
+      * → (NCE3-23 P114-L7) The sad truth is that most of us have **been brought up to** eat certain foods and we stick to them all our lives.
+      * → (NCE3-54 P244-L1) We have **been brought up to** fear insects.
+        * insect n. 昆虫
+* sense 感觉
+  * the sense of pride 自豪感
+  * the sense of honor 荣誉感
+  * the sense of accomplishment 成就感
+  * the sense of responsibility 责任感
+  * the sense of superiority 优越感
+    * superiority n. 优越性, 优势, 
+  * the sense of inferiority 自卑感
+    * inferiority n. 劣势, 劣等感, 低下
+  * the sense of humour 幽默感
+* **mysteriously** adv. 神秘地, 莫名其妙地
+* **be bound up with ...** 与 .... 紧密相连
+  * **= be closely connected with ... **
+  * → Everyone's future **is bound up with** the destiny of the Chinese nation.
+  * bind 派生的搭配
+    * **be bound to do ...** 必然会 .... (未来的趋势被绑住了)
+      * → On our road ahead, we **are bound to** meet with difficulties. 必然会
+    * **<u>be</u>/<u>feel</u> bound to do ...** 必须去做某事(因为良心/道义/责任 etc.)
+      * → I **felt bound to** tell him the truth. 
+      * 同义搭配: 
+        * **<u>be</u>/<u>feel</u> obliged to do ...**
+          * → (NCE3-1 P14-L4) However, as the evidence began to accumulate, experts from the Zoo **felt obliged to** investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+    * **bind sb. to do** 约束某人去做 (尤其指 因为契约)
+      * → The Kyoto Protocol **binds** each country **to** reduce the emission of greenhouse gases.
+        * **emission** n. 排放物, 散发物, 辐射物
+          *  **emit** n. 发出, 排放, 散发
+        * **greenhouse** n. 温室
+  *  national adj. 民族的; 国家的
+* → A Frenchman, <u>for instance,</u> might find **it** <u>hard</u> **to laugh at a Russian joke.**
+  * for instance 举个例子
+  * find 觉得
+  * it 是形式宾语
+    * → (NCE3-29 P138-L8) No matter where you live, you would find **it** <u>*difficult*</u> **not to laugh at, say, Charlie Chaplin's early films.** 
+  * 某国人 (用的时候注意主谓一致)
+    * a Frenchman 一个法国人
+    * the French 泛指 法国人
+    * an Englishman 一个英国人
+    * the <u>English</u> / <u>British</u> 泛指英国人, 或者大不列颠的
+* → <u>In the same way</u>, a Russian might fail to see anything <u>amusing</u> **in a joke <u>which would make an Englishman laugh to tears.</u>**
+  * **In the same way,** 同样地(一般放句首)
+    * **likewise** 同样地
+    * **similarly** 同样地, 类似地
+    * **by the same token** 同样地, 类似地
+  * 形容词修饰不定代词 要后置
+  * **amuse** v. 逗乐, 使快乐, 娱乐
+  * **laugh to tears** 笑出眼泪
+    * 同样用夸张手法的搭配
+      * **be bored to <u>tears</u> / <u>death</u>** 无聊的流出眼泪/无聊的快死了
+    * **laugh one's head off**  好笑的(笑得头都掉了)(习语搭配)
+      * → •. which would make an Englishman **laugh his head off.**
+      * **clap one's hands off** 热烈鼓掌 (手都拍掉) (习语搭配)
+      * **cry one's eyes out** 痛哭 (哭得眼睛都出来了) (习语搭配)
+  * **contrast 对比**(修辞手法)
+    * 对照鲜明, 语义强烈, 可以给读者留下印象
+    * → A mother takes twenty years to make a man of her boy, and another woman makes a fool of him in twenty minutes.
+    * → Men alwavs want to be a woman's first love; women have a more subtle instinct: what they like is to be a man's last romance.
 
 **## text 2**
 
