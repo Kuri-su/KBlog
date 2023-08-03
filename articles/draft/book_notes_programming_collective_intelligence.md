@@ -2,7 +2,7 @@
 
 [TOC] 
 
- ## Chapter two : 提供推荐 Making Recommendations
+ ## Chapter 2nd : 提供推荐 Making Recommendations
 
 ### Collaborative filtering 协同 过滤 (待实践)
 
@@ -26,7 +26,7 @@
   * 对于稀疏数据集, 基于物品的过滤方法通常要优于基于用户的过滤方法
   * 对于稠密的数据集, 两者的效果几乎一样
 
-## Chapter three : 发现群组 Discovering Groups
+## Chapter 3rd : 发现群组 Discovering Groups (待实践)
 
  
 
