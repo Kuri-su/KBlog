@@ -1885,7 +1885,24 @@
 
 **## text 2**
 
-* 
+* **universal**: international, global, world-wide
+  * **appeal** n. 吸引力, 呼吁, 上诉 v. 呼吁, 吸引
+    * **appeal**: attraction, charm, fascination
+    * **appeal to sb. ** 吸引某人
+      * → (NCE3-23 P114-L13) The idea never **appealed to** me very much, ..
+      * 同义替换
+        * **<u>attract</u> / <u>charm</u> / <u>fascinate</u> sb.**
+          * → (NCE3-9 P46-L1) Cats never fail to **fascinate** human beings.
+      * **appealing** adj. 有吸引力的, 有魅力的
+        * **attractive** adj. 有吸引力的, 有魅力的
+        * **charming** adj. 有吸引力的, 有魅力的
+        * **fascinating** adj. 有吸引力的, 有魅力的
+  * universal appeal 普遍吸引力
+    * an international attraction 国际吸引力
+    * a global charm 全球魅力, 国际吸引力
+    * a world-wide fascination 世界范围内的兴趣 或者 迷恋
+* → **No matter where you live**, you would find **it** <u>difficult</u> **not to laugh at, <u>say</u>, Charlie Chaplin's early films.**
+  * 
 
 **## text 3**
 
