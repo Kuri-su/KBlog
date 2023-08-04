@@ -1968,7 +1968,22 @@
 
 **## text 3**
 
-* 
+* → A man **who had broken his right leg** was taken to hospital **<u>a few weeks before Christmas.</u>**
+  * → A man **whose right leg had been broken** ...
+  * 送某人去医院看病, 强调去医院看病用 零冠词
+    * take sb. to hospital
+    * send sb. to hospital
+    * go to hospital 去看病
+    * go to the hospital 去医院(不一定是去看病, 只是表达去那而已)
+  * 住院
+    * be in hospital
+    * be hospitalized 
+      * hospitalized v. 使住院
+  * 出院
+    * leave hospital 出院(表康复)
+    * leave the hospital 离开医院(只表示离开这个地方, 不表示康复后离开医院)
+* → **From the moment <u>he arrived there</u>**, he kept on pestering his doctor to tell him **when he would be able to go home.**
+  * 
 
 ## L30 The death of a ghost
 
