@@ -1983,7 +1983,115 @@
     * leave hospital 出院(表康复)
     * leave the hospital 离开医院(只表示离开这个地方, 不表示康复后离开医院)
 * → **From the moment <u>he arrived there</u>**, he kept on pestering his doctor to tell him **when he would be able to go home.**
-  * 
+  * from 在这里表示自从
+    * 自从他到那开始 From the moment he arrived there
+  * From the moment **<u>when</u> / <u>at which</u> / <u>that</u> / <u>\</u> ** he arrived there
+  * **since** 做时间状语要求后面必须是完成时, 而 **from** 则不要求后面的时态
+    * → **Since** the moment he arrived there, he **had** kept on pestering ...
+  * 纠缠某人做某事, 令人讨厌的老是做某事的表达
+    * **keep (on) doing ** (L2)
+      * → Why do you **keep (on)** making the same mistakes?
+      * → How can l explain if you **keep (on)** interrupting me?
+      * → (NCE3-29 P138-L20) In the process, he enjoyed himself thoroughly and **kept telling** everybody how much he hated hospitals.
+
+* **dread + n./doing** 害怕某物, 害怕做某事
+  * → She dreads getting old. 她害怕变老
+  * **dread to do** 一做某事就害怕
+    * → I dread to think what will happen if I fail. 我一想到如果我失败了会发生什么事情, 我就害怕
+    * → She dreads to get old. (false)
+* **<u>do</u>/<u>try</u> one's best to do** 尽全力做某事
+  * **<u>do</u>/<u>try</u> one's utmost to do** 尽全力做某事
+  * **do <u>everything</u>/<u>all</u> one can to do** 尽全力做某事
+  * **give one's all to do** 尽全力做某事
+  * **spare no effort to do** 尽全力做某事
+  * **go all out to do** (口语) 尽全力做某事
+  * **go to great lengths to do** (书面语) 尽全力做某事
+    * → (NCE3-28 P134-L11) The man **went to great lengths to** prove that the diamonds were real.
+* plaster n. 熟石膏 v. 往上贴膏状材料修复
+  * → ..., the man's right leg was still in plaster.
+* **on** Christmas Day 在圣诞节当天
+  * **on** Easter Day 在复活节当天
+  * **at** Christmas 在圣诞节长假期间
+  * **at** Easter 在复活节长假期间
+  * → (NCE3-8 P42-L15) The only regular visitors to the monastery in winter aare parties of skiers who go there **at** Christmas and Easter.
+* → He spent a miserable day in bed **thinking of all the fun <u>he was missing</u>.**
+  * miserable adj. 非常不开心的, 痛苦的, 悲惨的
+* → **The following day**, <u>however</u>, the doctor consoled him by telling him **that his chances <u>of being able to leave hospital in time for new year celebrations</u> were good.**
+  * celebrations n. 庆典
+  * his chances of .... were good 他...的可能性很大
+    * → (NCE3-59 P264-L14) As she is not rich, **the chances that** she will ever be able to afford such purchases **are remote**; but she is never sufficiently strongminded to be able to stop the practice. 
+      * the chances that ... are remote 可能性渺茫, 可能性遥远, 可能性小
+    * **one's chances of doing ...** / **the chances that ...** 后面跟
+      * **are <u>good</u> / <u>high</u>.**
+        * 注意这里不能用 big
+      * **are <u>small</u> / <u>slight</u> / <u>remote</u> .**
+        * slight 表示 轻微的, 微小的, 少许的
+      * 造句：他赢得这次比赛的可能性很小。
+        * → **His chances of** winning the game **are remote.**
+        * → **The chances that** he will win the game **are remote.**
+* **take heart = be encouraged** 受到鼓舞 (习语搭配)
+  * encouraged v. 鼓励, 支持, 激励
+  * **lose heart** 灰心
+    * **lose one's heart to ....** 爱上某人 (注意辨析)
+* **sure enough** 果然
+  * **as expected** 正如被预料到的那样
+    * expect v. 期望, 预期, 盼望
+* **Eve** 通常表示重大日期的前夜, 
+  * New Year's Eve 表示新年前夜
+* **along** adv. 沿着, 顺着; 往前走; 一起, 共同
+* **unpleasant** adj. 不愉快的, 讨厌的, 令人不快的
+* → ... than **what** was good for him.
+  * → ... than was good for him. 看作 省略了宾语从句的关系词
+  * → (NCE3-38 P174-L21) It seems that man was miaking a real effort to understand the seasons 20,000 years earlier **than has been supposed .**
+  * → The project requires more labor than ___ because it is extremely difficult.
+    * **A. has been put in** B. have been put in C. being put in D. to be put in
+    * labor n. 劳动力(不可数) v. 辛勤工作, 努力做某事
+  * → We often advise him not to drink more wine ___ is good for his health.
+    * A. as **B. than** C. that D. but
+  * → The experiment requires more money than ___.
+    * A. have been put in B. being put in **C. has been put in** D. to be put in
+      * 不可数的名词, 在处理语法的时候用单数
+  * → The indoor swimming pool seems to be a great deal more luxurious than ___.
+    * **A. is necessary** B. being necessary C. to be necessary D. it is necessary
+      * than what is necessary
+* → **In the process**, he enjoyed himself thoroughly <u>and</u> kept telling everybody **<u>how much he hated hospitals.</u>**
+  * enjoy oneself = had a good times
+    * ..., he **had a <u>good</u> / <u>great</u> time** ...
+  * thoroughly adv. 彻底的
+  * kept telling everybody **<u>how much he hated hospitals.</u>**
+    * = ... kept telling everybody **to what extent** he hated hospitals.
+      * -- To what extent do you love her?
+      * -- I'll die for her.
+* → He <u>was still mumbling</u> something <u>about hospitals</u> at the end of the party **when he slipped on a piece of ice <u>and</u> broke his left leg.**
+  * memble v. 喃喃自语
+  * (L23) **主句（进行时 / be about to do) + when ...** ,  when”应译为“**这时**” 或“**突然**"
+    * 也就是主句中出现了正在做某事或者正要做某事, when 应该翻译成 这时/突然 (当副词翻译) 
+    * 这种情况下, 重要信息在从句中.
+    * → (NCE3-23 P114-L13) The idea never appealed to me very much, but one day, after a heavy shower, Ihappened <u>to be walking</u> in my garden <u>when</u> l noticed a huge number of snails taking a stroll on some of my prize plants.
+    * → (NCE3-32 P150-L20) The Karen had <u>been sailing</u> in a convoy to Russia **when** she was torpedoed by an enemy submarine.
+  * slip v. 滑动, 滑倒 n. 小片, 小便条; 不注意犯下的小错
+    * slip on a piece of ice 在一块冰上滑了下
+    * trip over a stone 石头上绊了一跟头
+    * a slip(n.) of the pen 笔误
+    * a slip(n.) of the tongue 口误
 
 ## L30 The death of a ghost
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L31 A lovable eccentric
 
