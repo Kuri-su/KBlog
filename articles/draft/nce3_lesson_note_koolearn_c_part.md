@@ -1902,7 +1902,69 @@
     * a global charm 全球魅力, 国际吸引力
     * a world-wide fascination 世界范围内的兴趣 或者 迷恋
 * → **No matter where you live**, you would find **it** <u>difficult</u> **not to laugh at, <u>say</u>, Charlie Chaplin's early films.**
-  * 
+  * **No matter where  = Wherever**   (L8)
+    * No matter + 疑问词 只能 引导让步状语从句
+    * 疑问词 + ever 可以引导全部的 名词性从句
+    * → **Whoever wants to sign up for the course** is welcome. (true)
+      * → **No matter who wants to sign up for the course** is welcome. (false)
+      * → **No matter who wants to sign up for the course, he** is welcome. (true)
+    * → **Whatever project he works on** is always successful.
+      * → **No matter what project he works on, it** is always successful.
+  * **,<u>say</u>, 比方说**
+    * **(let's) say** 
+      * → Why don't we have a break until, **(let's) say,** 10:45? 我们何不休息一会儿, 比方说到 10:45?
+  * however 然而 (考试阅读中, 出现 however, 后面通常都是重点信息)
+* 源于, 起源的表达
+  * **stem from ...** 起源于 ...
+    * **stem** /stɛm/ n. 茎, 树干 v. 阻止, 遏制
+  * **originate in ...** 起源于 ...
+  * **have its roots in ...** 起源于 ...
+  * 例句: 
+    * Printing **originates in** China. 印刷术起源于 中国
+    * Printing **stems from** China.
+    * Printing **has its roots in** China.
+* **come into** **fashion** 进入到流行的状态
+  * → Miniskirts have **come into fashion.**
+  * **be in fashion** 正在流行
+    * 这里也可以看出 into 和 in 的区别, into 表示动态的进入, in 表示静态的在里面
+  * **be out of fashion** 不流行了
+  * **fashionable** 时尚的
+    * fashionable <u>clothes</u>/ <u>ideas</u>/ <u>hairstyles</u> ...
+  * **come into** 的相关表达
+    * **come into use** 开始使用
+      * → Computers first **came into use** in the early 1950s.
+    * **come into effect** 开始生效
+      * → The new seat-belt regulations **came into effect** last week.
+    * **come into blossom** 开花
+      * → The trees are late **coming into blossom** this year.
+    * **come into being** 开始存在, 开始有了
+      * → (NCE3-38 P174-410) Upto now, historians have assumed that calendars **came into being** with the advent of agriculture,
+* base ... on... 基于 
+  * → Comedians **build** their jokes **on** tragic situations ...
+  * → Comedians **found** their jokes **on** tragic situations ...
+* **distasteful** adj. 令人不悦的, 讨厌的, 使人感到不舒服的
+  * 原句中的各种替换
+    * → Many people find this sort of joke **<u>unpleasant</u> / <u>disgusting</u> / <u>repellent</u> / <u>revolting</u> / <u>repulsive</u>.**
+    * → This sort of joke **<u>repels</u> / <u>revolts</u> / <u>repulses</u> / <u>disagusts</u> / <u>sickens</u>** many people.
+    * → Many people **<u>dislike</u> / <u>hate</u> / <u>despise</u> / <u>abhor</u> / <u>detest</u> / <u>loathe</u> / <u>abominate</u>** this sort of joke.
+* the **following** example 下面要举的例子, 随后的例子
+  * the **ensuing** example 随后的例子
+  * the **under-mentioned** example 未提到的例子, (也可以表示随后的例子)
+  * the example **below** 下面的例子
+  * 表示上一个例子
+    * the **previous** example
+    * the **preceding** example
+    * the **above-mentioned** example 已提到的例子 (也可以表示之前的例子)
+    * the example **above**
+* **enable sb. to do** 使某人能够做某事
+  * → (NCE3-26 P126-L10) They devise hundreds of competitions which will **enable** us **to** win huge sums of money.
+  * **allow/permit sb. to do** 允许某人做某事; 使某人能够做某事
+  * **make it possible for sb. to do**
+    * → (NCE3-26 P126-L10) Radio and television have **made it possible for** advertisers **to** capture the attention of millions of people in this way.
+    * → ... will **<u>allow</u>** / **<u>permit</u>** you **to** judge for vourself.
+    * → ... will **make it possible for** you **to** judge for yourself.
+* **do sth. for oneself** 亲自做某事
+  * → (NCE3-46 P212-L1) So great is our passion for doing things **for ourselves**, that we are becoming increasingly less dependent on specialized labor.
 
 **## text 3**
 
