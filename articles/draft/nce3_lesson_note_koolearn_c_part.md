@@ -2079,11 +2079,185 @@
 
 **## words**
 
-* 
+* **labourer/laborer** /ˈleɪbərər/ n. 劳动者, 劳动力, 工人 (可数名词)
+  * **<u>labour</u>/<u>labor</u>** n. 劳动者, 劳动力 (不可数, 泛指劳动力, 经常做定语(修饰词) )
+    * → <u>skilled</u>/<u>unskilled</u> **labor**
+    * child **labor**
+    * **labor** market
+    * **labor** force 
+      * force 有军队的意思
+    * **labor** shortage
+      * 劳动力短缺
+    * **labor** relations
+      * 劳资关系
+    * → My father is a **labor**. (False, 因为 labor 不可数)
+    * → My father is a **laborer**. (True)
+    * **laborer** 
+      * farm **laborer** 农场工人
+    * 同义替换 **laborer**
+      *  **hand** n. 工人 (可数)
+        * farm**hand** 农村工人
+      * **worker** 工人
+        * blue-collar **worker**
+        * White-collar **worker**
+  * 定语/状语 都是 修饰词的意思
+* **overnight** adv. 在夜里, 在夜间; 突然, 很快 adj. 夜间的; **突然的, 很快的**
+  * → You can stay **overnight** if you want to. 你可以在这过夜, 如果你想要的话.
+  * an **overnight** journey 一个夜间的旅行
+  * → He became famous **overnight**. 他很快出名了
+  * an **overnight** success
+* **conscientious** /ˌkɑːnʃiˈɛnʃəs/ adj. 认真负责的
+  * a **conscientious** <u>worker</u>/<u>attitude</u>
+    * attitude n. 态度, 看法
+  * **conscience** n. (人的)良心
+    * have a <u>clear</u>/<u>guilty</u> **conscience**
+    * → A clear **conscience** is a soft pillow. (谚语) 干净的良心是个柔软的枕头
+  * **conscious** adj. 有意识的, 清醒的, 知道的
+  * **consciousness**  n. 意识, 知觉, 觉悟
+    * → enhance people's **consciousness** of public morality 提高人民群众的功德意识
+      * enhance v. 提高, 增强, 加强
+      * morality n. 道德, 道德观念
+        * public morality 公德
+* **suspect**  v. 怀疑
+  * → He **suspeced** an ambush.
+  * → I **suspected** his honesty.
+  * **suspect sb. of sth.** 怀疑某人做某事
+    * → I **suspected** him **of** lying.
+  * **suspect** n. 嫌疑犯
+    * **suspicion** n. 怀疑, 猜测
+    * **suspicious** adj. 可疑的, 引起怀疑的
+      * → I**'m suspicious of** his motives 我怀疑他的动机
+        * **motives** n. 动机
 
 **## text 1**
 
-* 
+* '纷纷大家都传言' 的表达
+  * **rumor has it that ...** 传言说...
+  * **it's rumored that ...** 据传闻...
+    * → **<u>Rumor has it that</u> / <u>It's rumored that</u>** she only married him for his money.
+  * **word has it that ...** 据说
+    * → **Word has it that** John is going to keep a dog as a pet.
+  * **legend has it that ...** 据传说
+    * → **Legend has it that** Qu Yuan, a great poet of the Warring States period, threw himself into the Mi Luo River when he heard his homeland had been invaded.
+* 闹鬼
+  * **haunt** 鬼魂出没于某地; 某个情绪经常挥之不去
+    * → A headless man **haunts** the castle.
+    * → The castle **is haunted**
+    * → He **is haunted by** the experience of failure. 失败的这次经历总是难以忘怀, 总是挥之不去.
+    * → I**'m haunted by** homesickness. 思乡的情绪排遣不去
+      * homesickness 思乡病, 乡愁
+        * sickness n. 疾病, 病症
+* 某物被拥有某人 / 某人拥有某物
+  * → The farm **was owned by** two brothers, ...
+  * → The farm **was possessed by** two brothers, ...
+    * **possess** v. 拥有, 具有
+  * → The farm **was in the possession of** two brothers, ...
+    * **possession** n. 拥有物, 财产
+  * → The farm **belonged to** two brothers, ...
+    * **belong** v. 属于, 归属
+* Joe and Bob Cox
+  * Cox 是姓, 
+* 雇用, 租用
+  * **employ sb.** 
+  * **hire sb.**
+  * **engage sb.**
+  * **take on sb.**
+  * **辨析: 任命**
+    * **appoint sb.** 
+      * → He has **been appointed (as)** chief executive officer of the company.
+  * 解雇
+    * **fire sb.** 解雇某人
+    * **dismiss sb.**
+    * **sack sb. / give sb. the sack** 炒鱿鱼
+    * **lay off sb.** 短期解雇
+    * **suspend sb.** 暂停职务
+      * → The two police officers have been **suspended** until an enquiry is carried out.
+* 愿意做某事
+  * **be <u>willing</u> to do** 
+  * **be <u>ready</u>/<u>prepared</u> to do**
+*  **<u>(for) long</u>** 工作很久 (可以放在肯定句/疑问句里)
+  * → Have you known him **(for) long**?
+  * → I haven't known him **(for) long**.
+  * **(for) a long time** 只能用在肯定句里
+    * → I have known him **(for) a long time.**
+* **every time (when)** 
+  * = **whenever** 
+  * = **no matter when**
+* **give up one's job** 辞职
+  * **leave one's job**
+  * **quit one's job**
+  * **resign** v. 辞职
+  * **retire** v. 退休
+* **story**
+  * **It's the same old story** 还是那个老问题 (习语搭配, 贬义词)
+    * → **It's the same old story**: too much work and not enough time.
+  * **It's a long story** 说来话长(习语搭配)
+  * **to <u>cut</u> / <u>make</u> a long story short** 长话短说
+  * **It's <u>another</u> / <u>a different</u> story** 这是另一码事(习语搭配)
+* → Farm labourers said **that they always woke up to find <u>that work had been done overnight.</u>**  
+  * to find that ....
+    * 结果却发现 ...
+  * 动词不定式作状语可以表示四种意思
+    1. 目的
+    2. 原因
+    3. 结果
+    4. 条件
+  * **动词不定式 作 结果状语** ⭐️ 
+    * **动词不定式作结果状语时（尤其在表示随后发生的动作时） 多表示意料之外的不愉快的结果。此时常在动词不定式前加上only以进一步加强意料之外的语气.**
+    * → He got home **to learn that his father was ill.** 他到家, 结果发现他爸爸病了
+    * → Jim turned round **to see that Mary was weeping.** Jim 转过身来, 却发现 Mary 在哭泣.
+      * weep v. 哭泣
+    * → He got to the station **<u>only</u> to be told the train had gone.** 
+* hay n. 干草
+* cowshed n. 牛棚, 牛舍
+* → A farm worker, **who stayed up all night**, claimed to have seen a figure **<u>cutting corn in the moonlight.</u>** 
+  * **<u>stay up</u> / <u>sit up</u>** 熬夜 (主动的不想睡)
+    * → He **sat up** all night, preparing for the exam.
+    * **burn the midnight oil** 熬夜
+    * **a night owl** 夜猫子 (一个晚上的猫头鹰)
+    * **wait up (for sb.)** 熬夜 (但强调等某人回家而没睡觉)
+      * → I should go—Marie will be **waiting up** for me.
+    * 想睡睡不着的熬夜
+      * **toss and turn** 辗转反侧
+        * 听力题
+          * → Last night I **tossed and turned** in bed, too exhausted to sleep.
+          * → (D) I was overtired and couldn't sleep.
+    * **not sleep a wink** 一宿没合眼
+      * → I **didn't sleep a wink** last night with all that noise.
+    * **not get a wink of sleep** 一宿没睡
+      * → I **didn't get a wink of sleep** last night with all that noise.
+    * 其他睡眠相关的表达
+      * → (NCE3-44 P204-L7) During the day, **sleep comes in snatches.** 忽睡忽醒
+        * snatch n. 一小段时间; 抢夺 v. 抢夺
+      * → (NCE3-44 P204-47) .... **lulls you to sleep.** 使某人沉沉睡去
+        * **lull** n. 暂时的宁静, 间歇 (通常形容大海的平静 或 人的放松) v. 使平静或安抚, 使某人放松或入睡
+        * → The dream-like music **lulls me to sleep.** 梦幻般的音乐使我沉沉入睡
+          * dream-like music , cat-like animal
+      * **claim to have done** 声称曾经做 
+        * claim v./n. 声称
+          * clam 蛤蜊
+          * climb v. 攀爬
+        * 动词不定式的完成时什么时候使用
+          * 通常在固定搭配需要接to , 但 又要强调 do 发生的更早
+        * → (NCE3-1 P14-L5) ... for the descriptions given by people who **claimed to have seen** the puma were extraordinarily similar. 声称曾经看到美洲狮
+        * → (NCE2-82 P378-L1) Fishermen and sailors sometimes **claim to have seen** monsters in the sea. 声称曾经在海上看到过 怪物
+        * **claim to do** 声称 
+          * → So far, no organization has **claimed to be** responsible for the accident.
+* in the moonlight 在月光中
+  * **<u>in the sunlight</u> / <u>in the sunshine</u> / <u>in the sun</u>** 在阳光中
+  * **in the moonlight / by moonlight** 在月光中
+* → <u>In time</u>, it became an accepted fact **that the Cox brothers employed a conscientious ghost <u>that did most of their work for them</u>.**
+* **in time** 逐渐的就..., 慢慢的就... ; 及时地
+  * → You'll get used to it **in time** .
+    * get used to 习惯了
+  * **in due time** 逐渐的就...
+  * **with time** 逐渐的就... , 慢慢的就....
+  * **with the <u>passing</u>/<u>passage</u> of time**  逐渐的就... , 慢慢的就....
+* **an accepted fact** 被公认的事实
+  * 造句：现在医务界(medical field)弥漫 (prevail) 着一种不正之风 (a bad practice) ，这已经成了一个公认的事实。医生给病人开出 (prescribe)过分昂贵的药，而病人不得不给医生掏红包以换取更好的治疗和更安全的手术。
+    * → It has become an accepted fact that a bad practice is prevailing in the medical field. Doctors prescribe much more expensive medicine than necessary and patients, for their part, have to give doctors hongbao', money in a red envelope, for better treatment and safer surgery.
+      * for one's part 对某人来说
+      * 不正之风 a bad practice
 
 **## text 2**
 
