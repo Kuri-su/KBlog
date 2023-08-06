@@ -2261,7 +2261,46 @@
 
 **## text 2**
 
-* 
+* → No one suspected **that there might be someone else on the farm <u>who had never been seen</u>.**
+  * 造句：谁也没想到在村子里竟然藏着一个从来也没有被认出来 (recognize) 过的谋杀犯。
+    * → No one suspected that there might be a murderer hiding in the village who had never been recognized.
+* the case 实情
+  * → (NCE3-22 P110-L5) Yet this is not always the case. 然而这不总是实情.
+  * → **This is not always the case.** 这不总是实情
+  * → **This is indeed the case.** 这就是实情
+  * → **This is not the case at all.** 这根本不是实情
+  * → **This might not be the case.** 这可能不是实情
+  * → **This is not necessarily the case. ** 这不一定是实情
+* → <u>A short time ago</u>, villagers were astonished **to learn <u>that the ghost of Endley had died</u>.**
+  * astonishe v. 使惊讶, 使震惊
+  * to learn 动词不定式 做 原因状语
+  * * **learn <u>of</u> / <u>about</u>** 
+    * **know <u>of</u> / <u>about</u>**
+    * **hear <u>of</u> / <u>about</u>** 
+    * learn ~~about~~ that 
+      * that 前的介词得死
+* → Everyone went to the funeral, for the ghost' was none other than Eric Cox, **a third brother <u>who was supposed to have died as a young man</u>.** 
+  * **funeral** n. 葬礼
+  * **<u>everyone</u> / <u>every one</u>**
+    * 区别: every one 后面可以加介词 of , everyone 后面不能加介词 of
+      * → ... poisoned **every one of** her five husbands.
+  * **none other than** 不是别人, 正是 ....
+    * 造句：邻居们惊悉谋杀犯不是别人，正是受害者的妻子，而这个女人在年轻时一连毒死了自己的五个丈夫。
+      * → Neighbors here were astonished to learn that the murderer was none other than the victim's wife who had, in her youth, poisoned every one of her five husbands.
+  * the third 第三
+    * a third = another 表示另一个
+      * → (NCE3-21 P106-L16) Mendoza met Humphries in the ring on a later occasion and he lost for **a second** time. 强调又一次, 而不是第二次
+  * as a young man
+    * when (he was) a young man
+      * 从句主语和 主句主语一致时可省略, 所以可以从六个字变成四个字
+    * in his youth (更加精练, 三个字)
+    * when young (更加更加精练, 两个字)
+    * young (更精练, 一个字, 做补足语)
+      * → Only the good die young.
+* reveal v. 揭示
+* keep a secret 保持秘密
+  * reveal a secret 揭密
+  * a secret becomes known 揭密
 
 **## text 3**
 
