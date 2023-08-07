@@ -2364,6 +2364,51 @@
   * big-mouthed 口风不紧
 * → **<u>When their father died</u>**, they thought **it** <u>their duty</u> **to keep Eric in hiding.**
   * 形式宾语 (可以让句子漂亮且简洁)
+    * 宾语是宾语从句/动词不定式/doing 并且有宾语补足语(adj.) , 这种情况下可以考虑用形式宾语. 
+      * 这样可以做到在简单句的句型下, 说明白复合句(宾语从句) 表达的事情
+    * 造句：他觉得有责任把这个孤儿抚养成人。
+      * → He thought **it** <u>his duty</u> **to biring up the orphan.**
+* **recluse/hermit** v. 隐居, 深居简出, 像隐士一样生活
+  * **<u>live</u>/<u>lead</u> a ... life** 过着一种 ... 的生活
+    * → (NCE3-9 P46-L1) They can be friendly and affectionate towards humans, but they **lead mysterious lives** of their own as well.
+    * → Eric **had <u>lived</u> / <u>led</u> the life of a <u>recluse</u> /<u>hermit</u>.**
+* → He used to sleep during the day and work at night, quite unaware of the fact **that he had become the ghost of Endley.**
+  * used to do 常做某事
+  * **unaware** 没有意识到, 没有察觉到某事物
+    * be unaware of ... 没有意识到某事, 不知道某事
+    * be unconscious of ... 没有意识到某事, 不知道某事
+      * → ... quite unconscious of the fact that ...
+    * 不知道的同义表达
+      * **not know ...** 不知道
+      * **not realize ...** 不知道
+        * → ... never <u>knowing</u> / <u>realizing</u> that ...
+      * **have no idea ...** 不知道
+        * → …. not having the slightest idea that ...
+      * 辨析
+        * **misunderstanding** n. 误会, 误解
+* → **<u>When he died</u>**, <u>however</u>, his brothers found **it** impossible **to keep the secret any longer.**
+  * his brothers found **it** impossible **to keep the secret any longer.**
+    * 继续用到了 形式宾语的写法
+  * any longer 用在否定句中, 表示再也不, 不再继续
+  * 造句：我觉得无法抵制诱惑。
+    * → I found **it** <u>impossible</u> **to resist temptation.**
 
 ## L31 A lovable eccentric
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text3**
+
+* 
+
+## L32  A lost ship 
