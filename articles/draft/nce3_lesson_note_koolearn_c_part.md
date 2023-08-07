@@ -2304,7 +2304,66 @@
 
 **## text 3**
 
-* 
+* old 的比较级 和 最高级有两种
+  * old older oldest (指人指事物都可以)
+  * old elder eldest (只表示人, 比较级不能和 than 一起用)
+    * → .... , very much <u>older</u> than his two brothers.
+* **be obliged to do** 不得不做某事
+* **join the army**
+  * **join** 是及物动词 vt.
+  * **join** + 宾语 表示长期担任宾语的成员
+    * **join the party**  入党
+  * **join in** + 宾语 表示参与某个活动, 短期的
+    * **join in the party** 参加这次聚会
+  * **enlist** 是不及物动词 vi. , 后面跟宾语必须要插介词
+    * **enlist in the army** 入伍
+    * enlist 加入军队, 加入组织, 招募
+  * **be in the service** 正在服役
+    * → Have you ever **<u>been</u> in the service**? 你当过兵么?
+    * → So why did you **enlish** ? 那你为什么入伍呢?
+    * → I **was drafted into the army** last year. 我是被征兵入伍的, 在去年
+  * **recruit** 募兵(非强制)
+  * **conscript(英)/draft(美)** 征兵(强制)
+* the Second World War 第二次世界大战
+  * a Second World War 另一次世界大战
+  * World War II
+  * the First Chapter
+  * Chapter One
+* army life
+  * = life **<u>in</u>** the army
+* → **When he learnt <u>that he would be sent abroad</u>**, he returned to the farm <u>and</u> his father hid him <u>until the end of the war</u>.
+  * 表示听说
+    * **learn <u>of</u> / <u>about</u>**
+    * **hear <u>of</u> / <u>about</u>**
+    * **know <u>of</u> / <u>about</u>**
+* Fearing the authorities, ...
+  * **authority** n. 当局
+  * **Afraid of** the authorities, ...
+  * Fearing **the penalty from** the authorities, ...
+    * penalty n. 惩罚 (尤指  重罚)
+  * 表示政府的表达
+    * **the authorities**  n. 当局管理部门; 权威
+      * **the** local **authorities** 地方政府
+      * **the** <u>French</u> / <u>Chinese</u> **authorities**
+      * → (NCE3-37 P170-L6) lt is all too easy to blame **the railway authorities** when something does go wrong. 铁路当局, 铁路管理部门
+    * **government** n. 政府
+    * **administration** n. 某一届政府
+      * the <u>Clinton</u> / <u>Bush</u> **administration**
+    * **regime** n. 政府, 政权 (暗指 非法政权)
+      * a fascist **regime** 法西斯政权
+* **remain** 表示 处于某种状态
+* **in hiding**
+  * → The frightened family lived **in hiding** for three years.
+* **be <u>killed</u>/<u>wounded</u> in action** 在战斗中牺牲了 (KIA), 在战斗中负伤了
+  * **be reported missing in action** 在战斗之中失踪了
+  * **battle**  
+    * in battle
+    * in the battle
+    * 但是 action 永远不可数
+* they were **tight-mouthed**. 他们守口如瓶 (他们有个紧嘴巴)
+  * big-mouthed 口风不紧
+* → **<u>When their father died</u>**, they thought **it** <u>their duty</u> **to keep Eric in hiding.**
+  * 形式宾语 (可以让句子漂亮且简洁)
 
 ## L31 A lovable eccentric
 
