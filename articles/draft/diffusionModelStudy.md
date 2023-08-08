@@ -15,3 +15,4 @@ https://www.cnblogs.com/zackstang/p/17324257.html
 1. https://github.com/AUTOMATIC1111/stable-diffusion-webui
 2. https://github.com/CompVis/stable-diffusion
 3. https://github.com/Stability-AI/stablediffusion
+4. https://github.com/comfyanonymous/ComfyUI
