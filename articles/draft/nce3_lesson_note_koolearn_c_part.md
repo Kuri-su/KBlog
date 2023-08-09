@@ -2397,15 +2397,184 @@
 
 **## words**
 
-* 
+* **eccentric** /ɪkˈsen.trɪk/ n. 古怪的人 adj. 异常的, 古怪的 (修饰 人) 
+  * 形容特例独行的人, 不表示贬义
+  * **eccentricity** /ˌek.sənˈtrɪs.ə.t̬i/ n. 古怪, 怪癖 (可数) 
+    * → One of his **eccentricities** is sleeping under the bed.
+  * 在音节变多之后, 开头的 e 从 ɪ 变成 e 的音
+    * exhibit  → exhibition
+  * 强烈的贬义, 形容怪人怪胎
+    * **freak** n. 怪人, 畸形的人, 狂热的爱好者
+    * **oddball** n. 怪人, 古怪的人
+      * **odd** adj. 奇怪的, 古怪的, 不寻常的, 奇数的
+    * **weirdo** n. 怪人, 古怪的人
+      * weird adj. 奇怪的, 怪异的, 不寻常的
+      * 老友记 对话语料
+        * → Phoebe: Oh that's good, I guess she'll have a choice between my guy and your **weirdo**.
+        * Chandler: Why would our guy be a **weirdo**?
+        * Phoebe: Because that's just your taste.
+    * **sicko** n. 变态的人, 病态的人, 恶心的人
+    * **pervert** n. 变态者, 威胁狂, 性变态者
+      * → Rachel: Oh my God! That's Monica!!
+      * → Joey: Oh no-no-no! No-no-no-no-no! 
+      * → Rachel: You get away from mel! You sick, sick, sick, **<u>sicko</u>**!!
+      * → Ross: What's going on?
+      * → Rachel: Joey has got a secret <u>peephole</u>!
+        * peephole n. 窥视孔,
+          * peep v. 窥视
+      * → Chandler: Oh no! No! No! No!
+      * → Rachel: Yes! He has a naked picture of Monica! He takes naked pictures of us! And then he eats chicken and looks at them!
+      * → Phoebe: All right, waitl Just wait. Everybody just calm down. Okay? Let's give our friend Joey a chance to explain why he's such a big **<u>pervert</u>**!
+      * → Joey: No! l am not a pervert! Okay?
+* **disregard** /ˌdɪs.rɪˈɡɑːrd/ v. 漠视, 不顾, 不理睬 (明明看见了, 假装没看着, 主观的不理睬)
+  * **ignore** v. 漠视, 不理睬
+  * → You shouldn't **<u>disregard</u>** / **<u>ignore</u>** safety problems. 你不应该漠视安全问题
+    * → When I saw Jane, I stopped and smiled, but she me and walked on
+      * [A] refused **[B] ignored** [C] denied [D] missed
+  * 辨析: 表示忽视的词 (不是主观想要不理睬)
+    * **neglect** v. 忽视, 疏忽, 忽略
+    * **overlook** v. 忽视, 
+  * 模拟题
+    * → The joys of travel, having long ___ the disabled, are opening up to virtually anyone who has the means.
+      * [A] omitted [B] missed [C] **neglected** [D] discarded
+        * omit v. 省略, 删除
+        * miss v. 错过
+        * discard v. 抛弃, 扔掉
+  * **pay no attention to ...** 不注意, 不理他
+  * **take no notice of ...** 没注意
+  * **turn a deaf ear to ...** 把一个聋耳朵转向它
+  * **turn a blind eye to ...** 把一个瞎眼睛转向它
+* **convention** /kənˈven.ʃən/ n. 习俗, 风俗 , 习惯
+  * social **conventions** 社会习俗
+  * accepted **conventions** 普遍被接受的习俗和惯例
+  * international **conventions** 国际惯例
+  * 同义词
+    * custom n. 习俗, 风俗, 传统
+    * tradition n. 传统, 惯例
+    * institution n. 机构; 习俗
+    * practice n. 习惯, 做法; 实践
+      * → (NCE3-23 P114-L5) On the other hand, your stomach would turn at the idea of frying potatoes in animal fat-the normally accepted **practice** in many northern countries.
+  * **conventional** adj. 习俗的, 惯例的, 传统风俗的
+    * **conventional** values / lifestyle / measures
+    * 同义词
+      * **traditional** 
+      * **customary**
+* **intensely** /ɪnˈtɛns.li/ adv. 强烈地
+  * **intense** adj. 强烈的(感觉上, 感情上)
+    * **intense** <u>heat</u>/<u>cold</u>/<u>pain</u>
+      * heat n. 热量, 热 v. 加热 
+      * pain n. 疼痛, 身体的不适
+    * **intense** <u>love</u>/<u>hatred</u>/<u>suffering</u>
+      * hatred n. 憎恨
+      * suffering n. 痛苦, 苦难的状态或经历
+  * **intensive** adj. 密集的, 集中的
+    * a **intensive** English course 密集的英语课
+    * two weeks of **intensive** negotiations 两周的密集的谈判
+    * **intensive** reading 精读
+    * **extensive** reading 泛读
+      * extensive adj. 广泛的, 
+    * labor-**intensive** industry 劳动密集型产业
+      * industry n. 产业
+    * captial-**intensive** industry 资金密集型产业
+    * technology-**intensive** industry 技术密集型产业
+    * knowledge-**intensive** industry 知识密集型产业
 
 **## text 1**
 
-* 
+* **deliberately** adv. 有意地, 故意地, 有预谋地
+  * **on purpose**
+    * purpose n. 目的, 意图, 目标
+  * **intentionally**
+* **set out to do**: begin a job, task, etc with a particular aim or goal 带着目的去做某事
+  * → (NCE3-5. P30-L9) The journalist immediately **set out to obtain** these important facts, but he took a long time to send them.
+  * → (NCE3-16 P74-L8) Dmitri at once **set out to find** the thief.
+  * → 'We **never set out to hurt** you, Victor. And I'm sorry we did.' 'Are you done?' 'Yeah.'
+  * **set <u>out</u>/<u>off</u>**  动身出发(不强调方式)
+    * **start <u>out</u>/<u>off</u>** 动身出发(不强调方式)
+    * → (NCE3-10 P50-L9) Four days after **setting out**, while the Titanic was sailing across the icy waters of the North Atlantic, ...
+    * → (NCE3-20 P90-L13) After making a short test flight at 4.15 a.m., Bleriot **set off** half an hour later .
+* **draw (one's) attention** 吸引了某人的注意
+  * **draw the attention of sb.**
+  * **<u>attract</u>/<u>capture</u>/<u>catch</u>/<u>arrest</u>/<u>command</u>/<u>get</u> (one's) attention**
+    * get the attension of sb.
+    * (NCE3-21 P106-L11) This **attracted the attention of** Richard Humphries who was then the most eminent boxer in England.
+  * → (NCE3-31 P146-L20) This exhibition **received a great deal of attention** in the press, ...
+* → They disregard social conventions <u>without being conscious</u> **that they are doing anything <u>extraordinary</u>.** 
+  * **disregard** v. 不理会, 不顾, 忽视, 漠视
+  * **social** adj. 社会的, 社交的, 社团的
+  * **extraordinary** adj. 非凡的, 特别的, 超常的
+  * **without being conscious (of the fact) that ...** 在没有意识到的情况下 ...
+    * **without being conscious of ....**
+    * **without being aware (of the fact) that ...**
+    * **without being aware of ...**
+      * → (NCE3-59 P264-L1) People tend to amass possessions, sometimes **without being aware of** doing so.
+    * **(being) unconscious (of the fact) that ...** 非谓语用法
+    * **(being) unconscious of ...**
+    * **(being) unaware (of the fact) that ...**
+      * → (NCE3-30 P142-L21) He used to sleep during the day and work at night, **quite unaware of the fact that** he had become the ghost of Endley.
+    * **(being) unaware of ...**
+    * → They disregard social conventions, **quite <u>unconscious</u> / <u>unaware</u> of the fact that** they are doing anything extraordinary.
+    * 造句：他们无视安全问题，意识不到自己的所作所为有什么危险之处。
+      * → They disregard safety problems without being conscious that they were doing anything dangerous.
+* → This invariably wins <u>them</u> <u>the love and respect of others</u>, **for they add color to the dull routine of everyday life.** 
+  * **invariably**: always 
+  * **win sb. sth.** 给某人赢得了某物
+    * **win sth. for sb.** 给某人赢得了某物
+    * → My sincerity **won me her heart**.
+    * → My sincerity **won her heart for me.**
+  * **add color to sth.** 给 sth. 增加了颜色 (使某物更加富有变化, 更加精彩)
+    * → Intelligent use of metaphors can **add color to** your writing. 聪明的使用暗喻的修辞, 可以为你的写作增光添彩
+      * intelligent adj. 聪明的, 智力高的
+      * metaphor n. 隐喻, 比喻, 
+    * **add <u>luster(美)</u>/<u>lustre(英)</u> to sth.**  为 sth. 增加了光泽
+      * **luster** n. 光泽, 色泽
+    * **add flavor/spice to sth.** 为 sth. 增添了一丝味道(使其不单调)
+      * flavor n. 风味, 口味
+      * spice n. 调味品
+    * **add variety to sth.** 为 sth. 增加了多样性
+  * everyday adj. 每天的
+  * every day adv. (时间副词) 每天地
+  * **dull** adj. 钝的(刀), 迟钝的(人), 颜色暗淡的; 无聊的, 枯燥的
+    * boring
+    * monotonous adj. 单调的, 枯燥的
+  * routine 例行公事
+  * 平淡的日常生活 the dull routine of everyday life
+  * 造句：网上冲浪总是能赢得年轻人的痴迷 (fascination)，因为它给平淡的日常生活增添了一丝亮色。
+    * → Surfing the Net invariably wins itself the fascination of the young, for it adds color to the dull routine of everyday life.
 
 **## text 2**
 
-* 
+* **up to ...** 直到...; 多达...(最高可以到多少)
+  * **up until ...** 直到...
+  * **up till ...** 直到...
+  * **until ....** 直到...
+  * **less than ....** 多达...., 高达.... (最高可以到多少)
+  * → In Europe, taxes account for **up to** four-fifths of the retail price.
+* **notable** adj. 著名的; 值得注意的, 显著的; 
+  * → (NCE3-14 P66-L16)... 'the most valiant soldier and most **notable** leader, Signor Giovanni Haukodue'.
+* **figure** 模糊的人影; 人的体型; 数字; 著名人物
+  * → (NCE3-21 P106-L6) One of the most colorful **figures(著名人物)** in boxing history was Daniel Mendoza who was born in 1764.
+* → He was a shrewd and wealthy businessman, <u>but</u> most people in the town hardly knew anything **about this side of his life.**
+  * **"this side of his life" = "his shrewdness and wealthiness"** 这种表达干净又简洁, 不用重复前面的形容词
+    * → Harry is very thrifty, but in the presence of his friends he never shows **<u>this side of his life</u> (= <u>his thriftiness</u>).**
+      * in the presence of .... 某人在场时
+* → He <u>was known</u> to us all <u>as</u> Dickie and his eccentricity had become legendary **long <u>before he died</u>.**
+  * **be known (to sb.) as** 被(某些人)称为是 ...
+    * → The disease **is** commonly **known as** Mad Cow Disease.  这种病被广泛的称为是疯牛病
+    * → (NCE3-14 P66-L10) He soon made a name for himself and came to **be known to** the ltalians **as** Giovanni Acuto.
+    * 造句：美国人把 Earvin Johnson 称为魔术师约翰逊 (Magic Johnson)。
+      * → Earvin Johnson **is known to** the Americans **as** 'Magic Johnson'
+    * 造句：中国人把李白称为诗仙 (poet immortal)。
+      * → Li Bai **is known to** the Chinese **as** poet immortal.
+  * **eccentricity** n. 怪癖
+  * **legendary** adj. 传奇的; 著名的
+    * = **famous/well-known/notable**
+    * → Robin Hood is a **legendary** hero.
+    * → the **legendary** Hollywood director Steven Spielberg.
+    * → The Chinese **are iegendary for** their hospitality.
+      * hospitality n. 款待, 热情好客
+  * 造句：在上梁山前很久，武松的力量和勇敢就已经很有名了。
+    * → Wu Song's strength and courage had become legendary long before he joined the Liangshan rebels.
 
 **## text3**
 
