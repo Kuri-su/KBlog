@@ -2578,6 +2578,86 @@
 
 **## text3**
 
-* 
+* 讨厌, 厌恶的表达
+  * Dickie **<u>hate</u>**d / **<u>abhor</u>**red / **<u>detest</u>**ed / **<u>loathe</u>**d / **<u>abominate</u>**d snobs intensely.
+    * intensely adv. 强烈地
+  * Dickie found snobs **<u>repellent</u>** / **<u>repulsive</u>** / **<u>revolting</u>** / **<u>disqusting</u>**.
+    * find 觉得
+    * snob 势利小人
+  * Snobs **<u>repel</u>**led / **<u>repulse</u>**d / **<u>revolt</u>**ed / **<u>disqust</u>**ed Dickie intensely.
+* → **Though he owned a large car**, he hardly ever used it, **<u>preferring always to go on foot.</u>** 
+  * **hardly ever** 
+    * = **almmost never / seldom / rarely**
+  * **perfer**  v. 更喜欢, 宁愿
+    * **perfer to do** 更愿意做某事...
+    * **prefer to do rather than do** 更愿意做某事而不愿意....
+      * → ., preferring always to go on foot **rather than go in his car.**
+  * 造句：尽管他有几个保镖 (bodyguard) ，但他很少让他们陪着他 (accompany him），总是更喜欢独自一个人 (on his own）去散步 (take a stroll)。
+    * → Though he owned several bodyguards, he hardly ever asked them to accompany him, preferring always to take a stroll on his own.
+      * 独自一个人 on his own
+* 雨下得很大
+  * → It's raining <u>hard</u>/<u>heavily</u>.
+  * → It's pouring.
+    * **pouring** adj. 下大雨的, 倾盆而下的
+  * → It's raining cats and dogs. (口语) 天降猫狗.
+    * 雨下得大, 地面排水不够快 ,把死掉的猫或者狗 给漂出来了
+* **particularly** adv.. 特别地, 尤其是
+* 动名词的时态和语态
+  * 一般时 (万用, 完成时也可以用一般时代替)
+    * 主动 doing
+    * 被动 being done
+  * 完成时 (强调 动名词 比 谓语动词发生的更早)
+    * 主动 having done
+    * 被动 having been done
+      * → he walked into an expensive shop after **having been caught** in a particularly heavy shower.
+* ... after he **had been caught** in a particularly heavy shower.(after 当连词)
+  * **be caught in...** 突然遭遇了倒楣的事....
+    * → He **was caught in** a <u>storm</u>/<u>traffic jam</u>.
+    * **be struck by ..** (同义替换) 突然遭遇了倒楣的事, (并且遭受了损失)
+      * → (NCE3-25 P122-L13) In August, shie **was struck by** a very heavy storm during which her rudder was torn away.
+* → He wanted to buy a £300 watch for his wife, <u>but</u> he was in <u>such</u> a bedraggled condition **<u>that an assistant refused to serve him.</u>** 
+  * bedraggle v. 弄得又湿又脏
+    * bedraggled adj. 弄脏的, 弄湿的, 凌乱不堪的
+  * 上文中用名词表达更加庄重,更加书面. 
+    * 用形容词表达的例子
+      * → ... but he was so **bedraggled** that ...
+    * → His family was **so impoverished that** he could hardly afford his tuition.
+      * tuition 学费
+      * → His family was **in such an impoverished condition that** he could hardly afford his tuition.
+  * assistant n. 售货员;助手
+  * '价值多少钱的某物' 的表达
+    * a £300 watch
+    * **金钱 + worth of + 物品**
+      * a $300 worth of watch
+  * **serve sb. with sth.**  服务某人; 把东西拿给顾客
+    * **serve sth. to sb.** 服务某人; 把东西拿给顾客
+      * → … refused to **serve him with the watch.**
+      * → ….refused to **serve the watch to him.**
+* → Dickie left the shop without a word and returned **carrying a large cloth bag.** 
+  * → Dumb dogs are dangerous. 哑巴狗最危险
+    * dumb adj. 哑的, 无声的; 愚蠢的
+* **extremely** adv. 极其地, 非常地
+  * weigh a ton 重达一顿(夸张表达, 多用于表达特别重)
+    * → The chair **weighs a ton.**
+    * → The chair **is extremely heavy.**
+* **dump** 把某物 噔的一下,  丢到某个地方 (拟声词, 及物动词)
+  * → ….,he **dumped** it on the counter.
+  * → He **slammed** the door. 咣的一声关上门 (用力摔门)
+  * → We all **clapped** our hiands. 我们都在鼓掌
+  * → The soldier **clicked** his heels. 士兵呱唧他的脚跟 (士兵立正) (更形象)
+  * → Don't **clatter** the dishes-you'll wake the baby up. (别咣当咣当盘子, 免得把孩子吵醒)
+    * clatter n. 咣当声, 碰撞声
+  * → l'll **smack** your bottom if you don't behave yourself. 
+    * behave oneself 老老实实, 规规矩矩的
+    * **smack** v./n. 砰的一声，啪的一声；拍击声；给予的打击；戳；吧唧声；吧啦吧啦说话；吃咬
+      * smack your bottom 打你屁股
+      * **smash** v. 打碎
+* → Dickie **paid no attention to** him. Dickie 不理他
+  * → Dickie **ignored** him.
+  * → Dickie **took no notice of** him.
+  * → Dickie **turned a deaf ear to** him.
+  * → Dickie **turned a blind eye to** him.
+* **request** 和 **require** 的区别
+  * 
 
 ## L32  A lost ship 
