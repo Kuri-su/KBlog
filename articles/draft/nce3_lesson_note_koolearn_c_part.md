@@ -2731,7 +2731,18 @@
 
 **## words**
 
-* 
+* **salvage** /ˈsælvɪdʒ/ v. 营救, 拯救, 打捞 (主要表示救东西)
+  * → He tried desperately to **salvage** belongings **from** the burning house.
+  * **save/rescue** 救人/物品 都行
+    * rescue 可以看作 save 的升级版
+    * → (NCE3-7 P38-L3) When you **rescued** your trousers, did you find the note was whiter than white?
+    * → (NCE3-12 P58-L15) When a passing tanker **rescued** them five days later, both men were genuinely sorry that they had to leave.
+  * **pick sb. up** 接人; 把被困的人用 飞机/轮船 搭救上来
+    * → (NCE3-20 P9O-L7) The'Antoinette’ floated on the water until Latham **was picked up** by a ship.
+* **scour** /skaʊər/ v. 彻底搜索
+  * 近义词辨析 (搜索)
+    * **search (a place) for ...** (在某地)搜索某物
+      * → The detective is **searching for** clues.
 
 **## text 1**
 
