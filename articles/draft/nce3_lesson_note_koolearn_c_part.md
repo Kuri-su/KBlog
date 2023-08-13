@@ -2743,6 +2743,69 @@
   * 近义词辨析 (搜索)
     * **search (a place) for ...** (在某地)搜索某物
       * → The detective is **searching for** clues.
+        * **clue** n. 线索, 暗示, 提示
+      * → (NCE3-32 P150-L1) The small ship, Elkor, which had been **searching** the Barents Sea for weeks, was on its way home.
+    * **hunt for ...** (不加宾语) 表示到处搜寻寻找, 后面接搜寻的目标
+      * → I'm **hunting for** a job now.
+      * → (NCE3-1 P14-L7) The **hunt for** the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her.
+    * **fumble for ...**  (不加宾语) 翻找, 后面接搜寻的目标
+      * → She **fumbled for** her keys in her purse.
+        * purse n. 女士手提包
+      * → (NCE3-44 P204-L8) If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling, or **fumbling** to find your ticket for inspection.
+    * **scour a place for ...** 在某地彻底搜索某物, 后面接搜寻的目标
+      * → (NCE3-32 P150-L8) The sea bed **was scoured** with powerful nets .
+      * 同义词
+        * **comb a place for ...** 在某地彻底搜索某物, 后面接搜索的目标
+          * comb n. 梳子 v. 梳理, 彻底搜查
+          * → The police are **combing** the woods **for** the fugitive.
+* **chest** /tʃɛst/ n. 大箱子(宝箱);胸部
+  * cardboard box 纸板箱, 硬纸板箱
+  * packing case 木条箱(货运时, 外面的木头板包装)
+  * suitcase 行李箱
+  * boot(英) / truck(美) 汽车后备箱
+  * money box 存钱罐
+* **belongings** /bɪˈlɔŋɪŋz/ n. 财产, 动产, 所有物 (习惯上用复数)
+  * 同义词
+    * **things** n. 动产 
+  * → (NCE3-24 P118-L15) He told me to unpack my **things** and then come down to dinner.
+  * **<u>property</u> / <u>real estate</u>** n. 不动产 (不可数)
+    * the **property** market
+    * **real estate** agent 房地产经纪人
+  * **possessions / property** n. 财产, 个人资产
+    * → (NCE3-59 P264-L1) People tend to amass **possessions**, sometimes without being aware of doing so.
+  * **assets** n. (公司, 机构) 资产
+    * <u>liquid</u>(流动资产) / <u>fixed</u>(固定资产) / <u>tangible</u>(有形资产) / <u>intangible</u>(无形资产) **assets** 
+* **find** n. 被找到的人或物 (褒义, 通常表示找到的东西 比较有价值)
+  * → My new secretary is a real **find**. 我的新秘书真是找对人了
+  * → I made a great **find** in a second-hand bookstore.
+  * **buy/bargain** n. 价廉物美的便宜货 buy v. 买, bargain v. 讨价还价
+    * → Oh my! Here's a real **buy**. It's a **bargain**. This house just came on the market.
+  * must v. 情态动词 n. 必须要去做的事, 必须要去看的东西
+    * 听力题
+      * W1: What we need is a roommate who is neat and considerate.
+        * **considerate** adj. 为他人着想的, 体贴的
+      * W2: Let's write that in the ad: neatness and consideration a **must**.
+        * ad 广告, 读成类似 add 
+      * What do the speakers hope to do?
+      * Answer: (B) Find a person to share their apartment.
+* **naval** /ˈneɪ.vəl/ adj. 海军的
+  * **navy** n. 海军
+  * **land force** n. 陆军
+  * **air force** n. 空军 
+  * **nav/nau = ship** 字根
+    * **nav**igation  n. 导航; 航行, 航海
+    * **nau**sea n. 恶心,呕吐
+      * **nau**seate v. 使恶心，使作呕
+    * **nau**tical adj. 船舶的, 航海的
+      * **nau**tical chart 航海图 
+      * **nau**tical mile 海里(长度单位)
+    * aero**nau**tics n. 航空学
+      * aero = air
+    * astro**nau**tics n. 航天学
+      * astro = star
+      * **astronaut** n. 宇航员
+    * Beijing University of Aero**nau**tics and Astro**nau**tics
+
 
 **## text 1**
 
