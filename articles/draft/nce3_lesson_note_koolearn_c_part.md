@@ -2809,7 +2809,34 @@
 
 **## text 1**
 
-* 
+* **operation**: <u>work</u> / <u>activity</u> / <u>action</u> ; 外科手术
+  * <u>rescue</u> / <u>relief</u> / <u>cleanup</u> **operation** 
+  * → (NCE3-41 P192-L20) For them this is a major **operation** which involves considerable planning.
+* → The small ship, <u>Elkor</u>, **which had been searching the Barents Sea <u>for weeks</u>**, was on its way home.
+  * 轮船名字做同位语的时候, 轮船名字前的 the 可以省略, 也可以不省略
+    * → The loss of **the Titanic**
+    * → (NCE3-10 P50-L1) The great ship, **Titanic**, sailed for New York from Southampton on April 10th, 1912.
+    * The Cutty Sark
+    * (NCE3-25 P122-L1) One of the most famous sailing ships of the nineteenth century, **the Cutty Sark**, can still be seen at Greenwich.
+  * 句子实际顺序如下: 
+    * → The small ship, Elkor, **<u>after</u> <u>she</u> had been searching the Barents Sea for weeks**, was on its way home.
+    * 用上文的定语从句使得句子更加简洁, 形式上的定语从句, 定语从句大约有一半都只是形式上的定语从句
+      * → I have to be very careful not to offend the boss, **who could fire me at any time.** 定语从句 做 状语功能
+        * offend v. 冒犯, 触怒, 得罪
+        * → Ihave to be very careful not to offend the boss, **<u>because</u> <u>he</u> could fire me at any time.** (稍显臃肿)
+      * → The action, **which has aroused universal disapproval**, is nevertheless the only solution.  定语从句 做 让步状语从句
+        * → The action, **<u>although</u> it has aroused universal disapproval**, is nevertheless the only solution. (稍显臃肿)
+    * 并不是所有的定语从句都发挥定语从句的功能,
+    * 写作的时候, 如果前面的词做后面句子的成分, 可以考虑用定语从句来写, 因为简洁.
+  * **<u>on</u> one's way (to ...)** 途中, 但是用 on 
+    * → (NCE3-15 P70-L10) **On his way to the sweet shop**, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.
+  * 造句：在Ellesmere 公司工作的垃圾工 Alfred Bloggs， 在连续工作了8小时之后 ，正在回家的途中。
+    * → (NCE3-4 P26-L7) .. Alfred Bloggs who worked as a dustman **for** the Ellesmere Corporation.
+    * → (NCE3-22 P110-L1) Some plays are so successful that they run for years **on end**.
+    * → Alfred Bloggs, a dustman for the Ellesmere Corporation, who had been working for 8 hours on end, was on his way home.
+
+* → A radio message <u>from the mainland</u> had been received by the ship's captain **instructing him to give up the search.**
+  * 
 
 **## text 2**
 
