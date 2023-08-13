@@ -2658,6 +2658,92 @@
   * → Dickie **turned a deaf ear to** him.
   * → Dickie **turned a blind eye to** him.
 * **request** 和 **require** 的区别
-  * 
+  * request 客气的请求
+  * require 强制性的请求
+* → **Recognizing <u>who the customer was</u>**, the manager was most apologetic <u>and</u> reprimanded the assistant severely.
+  * 非谓语动词做原因状语用
+  * **recognizing** v. 认出, 识别
+  * most 如果是最高级的话, most 前面必须要有 the, 如果没有的话, 只是做 '程度副词',  
+  * **reprimand** v. 训斥 (领导批评下属)
+* → When <u>Dickie was given the watch</u>, he presented the assistant with the cloth bag.
+  * 上面画线位置为什么用 被动语态
+  * 如果不使用被动语态, 整体结构会比较臃肿, 主语会频繁的更换
+    * → When the assistant gave Dickie the watch, Dickie presented the assistant with the cloth bag.
+  * **这是被动语态的重要目的和用法之一 , 避免频繁的变换主语, 避免句子啰嗦.**
+    * → She gave a lecture on modern American poetry and **was attentively listened to.** 用被专心的听
+    * → The old professor wheeled himself to the platform and **was warmly applauded by the students.**
+      * wheeled himself 使自己移动 (使用轮椅)
+  * present v. 双手呈上;礼物;目前的;出席;呈现;介绍;现在;现象
+    * **present sb. with sth.**
+    * **present sth. to sb.** 
+      * → (NCE3-22 P110-L13) He entered the cell and **presented** the letter **to** the aristocrat.
+* in 表示以...形式
+  * → He paid me **in** <u>cash</u> / <u>dollars</u>. 他以现金/美元 的形式支付了
+  * → Write it **in** <u>ink</u> / <u>pencil</u> / <u>English</u>.
+* **insisted** v. 坚持, 坚持要求, 坚持认为
+  * **insist on ...**
+  * **insist that ...**
+    * 要求, 建议, 命令, 这样的动词后面引导的宾语从句, 需要用 (should) 引导的虚拟语气. 
+      * → He insisted that the assistant **(should) count** the money before he left, ...
+      * → (NCE3-22 P110-L8) Even though the noble was expected to read the letter at each performance, he always **insisted that it (should) be written out in full.** 
+* **动名词的逻辑主语**
+  * 一般来说，**动名词的逻辑主语在正式文体中用属格（所有格），在非正式文体中用普通格**。 在《新概念英语》和考试中，均以正式文体为准。
+    * → Do you mind **<u>my</u> smoking** here?
+    * → Do you mind **<u>me</u> smoking** here?
+    * → **<u>Your</u> faling** into the river was the climax of the whole trip.（正式）
+      * climax n. 高潮
+        * orgasm n. 性高潮
+      * whole adj. 整体的, 全部的, 完整的
+    * → **<u>You</u> falling** into the river was the climax of the whole trip. （非正式）
+  * **出现下列情况时，即使在正式文体中， 动名词的逻辑主语也习惯使用普通格。**
+    1. 逻辑主语为名词指物。
+       * → The children are looking forward to **<u>Spring</u> coming.**
+    2. 逻辑主语为多个名词。
+       * → Do you remember **<u>Mary and her mother</u> coming** to see us last June?
+    3. 逻辑主语为以's'结尾的名词。
+       * → It's a disaster **<u>the bosses</u> shutting** all those factories.
+    4. 逻辑主语与动名词分离。
+       * → I remember **<u>mother</u>** <u>once</u> **telling** us a story about the fox.
+    5. 逻辑主语为不定代词，如： someone, everything, something; 或指示代词，如：this, that
+       * → They complained about **<u>evervthing</u> going** wrong.
+       * → He disapproved of **<u>that</u> being** said about Mary.
+* → This exhibition received a great deal of attention <u>in the press</u>, **for <u>though the pictures were supposed to be the work of famous artists</u>, they had in fact been painted by Dickie.**
+  * exhibition n. 展览, 展览会
+  * receive 受到, 得到, 遭到
+    * → (NCE 3-23 P114-L9) No creature has **received** more **praise** and **abuse** than the common garden snail.
+    * → (NCE3-8 P42-L16) These young people, who love the peace of the mountains, always **receive a warm welcome** at St. Bernard's monastery.
+  * **the press** 新闻界, 报界, 舆论界
+    * **the freedom of the press** 新闻自由
+    * → (NCE3-45 P208-L1) In democratic countries any efforts to restrict the freedom of the press are rightly condemned.
+      * **effort** n. 努力
+* → <u>It</u> took him four years <u>to stage this elaborate joke</u> simply to prove **that critics do not always know <u>what they are talking about.</u>**
+  * stage v. 策划
+  * simply adv. 简单地, 仅仅, 只是
+  * elaborate
+    * 作为动词，指对某个观点、理论、计划等进行详细的解释或阐述。
+    * 作为形容词，指精心制作的，复杂的，详尽的。
+  * talk sense 说得对
+    * sense n. 感觉, 感知, 意义, 意识
+    * → ... critics do not always **talk sense.** 评论家们并不通常说得对
+    * → .... critics sometimes **talk nonsense.** 评论家们有时候是胡说八道
 
 ## L32  A lost ship 
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L33 A day to remenber 
+
