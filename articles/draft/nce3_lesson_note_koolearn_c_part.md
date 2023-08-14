@@ -2836,11 +2836,54 @@
     * → Alfred Bloggs, a dustman for the Ellesmere Corporation, who had been working for 8 hours on end, was on his way home.
 
 * → A radio message <u>from the mainland</u> had been received by the ship's captain **instructing him to give up the search.**
-  * 
+  * the mainland 指的是欧洲大陆
+    * 后面的 land 依旧是 梅花音 , 不是 倒e
+    * 做定语修饰地方
+      * **mainland** Europe 欧洲大陆
+      * **mainland** China 中国大陆
+  * **instruct** v. 指示, 教导, 命令
+    * **instruct sb. to do ...** 详细的告诉某人应该怎么做,  (不容商量)
+      * → (NCE3-5 P30-L7) The editor at once sent the journalist a fax **instructing** him **to** find out the exact number of steps and the height of the wall.
+      * → (NCE3-19 P86-L11) Mrs. Ramsay **was instructed to** place the money in a cardboard box and to leave it outside her door.
+  * 电报的表达
+    * **radio message**
+    * **radiogram**
+    * **telegram**
+  * 放弃搜寻的表达
+    * **abandon** the search
+    * **<u>stop</u>/<u>cease</u>** the search
+    * **abort** the search 中止搜寻
+  * 这个句子把重要信息放在句首和句尾, 
+  * 造句：老太太收到绑匯的一封信，命令她支付1,000英镑的赎金。
+    * → A letter from the kidnappers had been received by the old lady instructing her to pay a ransom of £ 1,000.
+  * 造句：考古学家作出了一个有趣的发现，一尊古代的女神像原来竟是 (turn out to be）一位看上去很摩登的女郎(日 very modern-looking woman).
+    * → An interesting discovery was made by archeologists that an ancient statue of a goddess turned out to be a very modern-looking woman.
+* → The captain knew <u>that another attempt would be made later</u>, **for the sunken ship <u>he was trying to find</u> had been carrying a precious cargo of gold bullion.**
+  * 尝试做某事
+    * **make an attempt to do ...**
+      * → The captain knew that **his attempt** would not be **the only attempt. **(不佳)
+        * → The captain knew that **his attempt** would not be **the only one.** (稍有提升) (his 是形容词性的物主代词)
+        * → The captain knew that **his** would not be **the only attempt.** (简洁) (his 是名词性的物主代词)
+      * 巧妙的使用名词性物主代词 , 可以是句子简洁, 提升水平
+    * **Our age** is **a tragic age**.  by Shakespeare
+      * **Our age** is **a tragic one**.
+      * **Ours** is **a tragic age.** 我们的时代是悲剧的时代
+      * 表达效果相同的情况下, 用字越少, 水平越高
+        * **Brevity is beauty 简洁即是美** (在英文写作中)
+  * **cargo** 表示用船或者飞机运输的货物 (不能表示 火车 或者 货车运的货物)(可数, 按船或者飞机 来数)(可以当定语用)
+    * **freight** 所有的运输工具上的货物都能用这个词 (不可数) (可以当定语用)
+      * → The ship carries both **freight** and passengers. 
+    * **cargo** <u>ship</u> / <u>airplane</u>
+    * **freight** train 运货的火车
+  * **bullion** 金银条 (不可数)
+    * 强调 金条可以用 gold bullion
+    * a bar  of gold bullion 一根金条
+    * a gold bullion bar 一根金条
 
 **## text 2**
 
-* 
+* → The sea bed was scoured with powerful nets <u>and</u> there was tremendous excitement on board **when a chest was raised from the bottom.**
+  * 
 
 **## text 3**
 
