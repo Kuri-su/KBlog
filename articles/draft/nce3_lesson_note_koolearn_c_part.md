@@ -2883,7 +2883,51 @@
 **## text 2**
 
 * → The sea bed was scoured with powerful nets <u>and</u> there was tremendous excitement on board **when a chest was raised from the bottom.**
-  * 
+  * **sea bed** 海床, 海底
+    * **sea floor** 
+    * **sea bottom** 
+      * bottom 底部
+  * **scour** v. 刷洗; 搜寻, 
+  * **tremendous** adj. very great ,极大的
+    * → (NCE3-21 P106-L9) In his day, Mendoza enjoyed **tremendous** popularity. 
+    * → (NCE3-25 P122-L18) Though the new rudder was fitted at **tremendous** speed, it was impossible for the Cutty Sark to win.
+    * → (CE3-26 P126-L13) The response to this competition was **tremendous**.
+  * **on board / aboard**  在船上
+    * welcome aboard 欢迎加入我们这个组织 (欢迎上船)
+      * → His experience will be valuable to both of us. **Welcome aboard** , Malcolm! 
+  * → there was tremendous excitement on board 船上的人们兴奋极了 (有着极大的兴奋在船上)
+    * .. people on aboard were very excited ... 船上的人特别兴奋 (正确, 但没有文中的好, 略显罗嗦, 毕竟船上兴奋的肯定是人)
+    * 造句：消息传来时，演播室 (studio)里的人们非常激动。
+      * → **there was tremendous excitement in studio when the news came.**
+    * 造句：有越来越多的人对英语有兴趣。
+      * → There are more and more people who are interested in English. (语法正确, 但是不佳, 罗嗦)
+      * → **There is growing interest in English.**(佳, 简短)
+    * 造句：人们普遍同意妇女应该享有和男人完全的平等。
+      * → People generally agree that women should enjoy full equality with men. (不佳)
+      * **→There is general agreement that women should enjoy full equality with men.**
+    * **可以考虑避免把 people 写出来**
+* → **Though the crew were at first under the impression <u>that the lost ship had been found</u>**, the contents of the chest proved <u>them</u> <u>wrong</u>.
+  * **crew** n. 船员, 机组人员, 工作人员 (一船工作人员)
+    * crow n. 乌鸦
+    * crowd n. 人群, v. 人群聚集
+  * **be under the impression that .... ** 还以为
+    * impression n. 印象
+    * → Sorry, I **was under the impression that** you were the manager. 
+    * **give sb. the impression that ...** 使某人觉得
+      * → (NCE3-24 P118-L18) The sudden movement of the door made it sway slightly and it **gave me the impression that** it was about to leap out at me.
+    * **<u>be</u> / <u>live</u> under the <u>illusion</u> / <u>delusion</u> that ...** 有某种错觉
+      * illusion n. 错觉, 幻觉
+      * delusion n. 错觉, 幻觉, 妄想
+      * → (NCE3-41 P192-L7) Evan he still **lives under the illusion that** country life is somehow superior to town life.
+      * → (NCE3-46 P212-L15) The worst thing about the do-it-yourself game is that sometimes even men **live under the delusion that** they can do anything, even when they have repeatedly been proved wrong.
+  * prove 证明
+    * **prove + 宾语 + 宾补**
+      * → The facts **proved their worries unnecessary.**
+* → **What they had in fact found** was a ship ***which had been sunk many years before*.** (哑铃形状的句子)
+  * 主语用了主语从句, 然后宾语后面用了定语从句
+  * 造句：哥伦布其实发现的不是印度，而是一个全新的大陆，在那里士著居民 (aborigine）己经居住了 (inhabit)两万多年了。
+    * → <u>What Columbus had in fact found</u> was not India **but** a new continent <u>*which had been inhabited by aborigines for over twenty thousand years*</u>.
+      * .... **but** ... 不是 A 而是 B
 
 **## text 3**
 
