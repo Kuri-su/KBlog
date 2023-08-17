@@ -2931,7 +2931,118 @@
 
 **## text 3**
 
-* 
+* → There were books, clothing and photographs, **together with letters <u>which the seaman had once received from his wife</u>.** 
+  * **together with** 还有, 以及 ⭐️
+    * **together with** ... = **along with** ...
+      * → Peter was murdered, **<u>together</u> / <u>along</u>** with three guards.
+      * → These new facts, **<u>together</u> / <u>along</u> with** the other evidence, prove the prisoner's innocence.
+  * **clothing** 不可数 
+    * **clothes**  读音和 close 一样, 本身就是复数
+      *  → Fine **clothes** make a man.
+    * **clothing** 不可数
+      * → Food, **clothing**, shelter and transportation are daily necessities. 衣食住行是生活的必需品(Food 只有一个音节, 所以放最前面, transportation 有 四个音节, 所以放最后)
+
+* **his men** 手下的士兵
+  * → The general ordered **his men** to fire.
+  * → (NCE3-14 P66-L 12) In times of peace, when business was bad, Hawkwood and **his men** would march into a city-state and, ...
+  * **subordinate** n. 某人的下级,(公司机构里地位比某人低的人) adj. 低级别的 v. 使某人处于次要/从属地位
+    * → He left the routine check to one of his **subordinates**.
+  * **superiro** n. 某人的上级 (公司机构里地位比某人高的人)
+    * → I'll pass your complaint on to my **superiors**.
+      * complaint n. 投诉 v. 抱怨
+  * **counterpart** n. 对应的人或物, 同级, 地位相当的人
+    * → The sales director phoned **her counterpart** in the other firm.
+  * **the grassroots** adj. 基层的, 草根的
+
+* wreck n. 已经被毁掉的交通工具; 精神和肉体上完全伤残的人
+  * **shipwreck** 沉船
+  * → Poor man! — mentally a **wreck**. 可怜的人, 精神上残疾了 (脑残)
+* → Nothing <u>of value</u> was found, <u>but</u> the numerous items **which were brought to the surface** proved to be **of great interest**.
+  * **of+名词：描述人或事物的特征** (作用相当于形容词, 但有时候形容词优点难找, 所以就直接用 of 接名词来修饰)
+    * 作用: 
+      1. **做后置定语**
+         * nothing **of value** = nothing **valuable**
+         * a matter **of significance ** = a **significant** matter
+         * a ship **of 46,000 tons** (没有同根的形容词, 所以就用 of 就好了)
+         * a man **of wide social relations** 一个社会交际广的人 
+           * wide adj. 宽的, 广泛的
+      2. **在系动词后做表语**
+         * → (NCE3-32 P150-L15) ... proved to be **of great interest.** = proved to be **very interesting.**
+         * It is **of no use** =it is **useless**.
+         * → Her dress is **of dark crimson.** (没有同根的形容词, 所以就用 of 就好了) 
+         * He is **of a peculiar disposition.** (没有同根的形容词, 所以就用 of 就好了)
+    * 联系
+      * a man **of middle height**
+      * The man is **of middle height.**
+      * a girl **of remarkable imagination**
+      * The girl is **of remarkable imagination.**
+  * **numerous** = **countless** 无数的, 数不尽的
+    * → (NCE3-23 P144-L10) There are **countless** people who, ever since their early years, have learned to associate snails with food.
+  * **surface** n. 表面, 外观, 水面
+
+* → **From a heavy gun <u>that was raised</u>**, the captain realized **that the ship <u>must have been</u> a cruiser.**
+  * gun n. 枪/炮 (既能表示枪, 也能表示炮)
+  * **from** prep. 考虑到, 从...来看/判断
+    * → **From** <u>her looks</u> I'd say she was Swedish.
+    * → **From** <u>what I heard</u> the company's in deep trouble.
+    * → (NCE3-32 P150-L19) **From** <u>this</u> the captain was able to piece together all the information that had come to light.
+  * 造句：从这些雕像的碎片来看，考古学家们明白了这座庙宇当初肯定是一个祭祀的场所。
+    * → From the fragments of statues, the archaeologists realized that the temple must have been a place of worship.
+      * fragment n. 碎片, v. 使分裂成碎片
+      * statues n. 雕像, 
+      * archaeologists n. 考古学家
+      * temple n. 庙宇, 寺庙
+      * worship v. 崇拜, 祭祀, 敬礼
+* → In another chest, **which contained the belongings of a ship's officer**, there was an unfinished letter **<u>which had been written on March 14th, 1943.</u>**
+  * ... which was dated March 14, 1943. 被标注的日期
+  * → a newspaper **dated** October 1st, 2005
+  * a girl **aged** 20
+  * a man **named** John
+  * a novel **entitled** Three Kingdoms
+* → The captain learnt <u>from the letter</u> **that the name of the lost ship was the Karen.** 
+* → The most valuable find of all was the ship's log book, **parts of which it was still possible <u>to read</u>.**  
+  * **"名词＋介词 ＋ 关系代词”引导(一定是) 非限定性定语从句**
+    * 造句：他有两个儿子，其中的一个死于战火。
+      * → He has two sons, **one of whom** died in the war.
+    * 造向：演讲者提了 (pose） 四个问题， 它们的答案被证明非常具有启发性 (illuminating)。
+      * → The speaker posed four questions, **the answers to which** proved very illuminating.
+  * → .., **parts of which <u>it</u> was still possible <u>to read.</u>**
+    * It  是形式主语, to read 才是真正主语
+    * → …, **<u>parts of which</u> were still possible <u>to read</u>.**
+      * 形容词后的动词, 可以用主动表达被动含义, 所以不能用 still possible to be read.
+        * → (CE3-54 P244-112) Most of our fears are unreasonable, but **<u>they</u> are impossible <u>to erase</u>.**
+          * **erase** v. 擦去, 抹掉
+      * possible 和 impossible 的主语<u>一般</u>不能是人, 只能是物或者形式主语
+        * → Most of our fears are unreasonable, but **<u>it</u> is impossible <u>to erase them.</u>**
+        * → (NCE3-6 P34-L16) .., but **<u>it</u> was impossible <u>to stop the thieves</u>.** (True)
+          * .., but **<u>the thieves</u> were impossible to stop.** X
+        * 特殊情况, 主语的人做介词宾语而不是 动词宾语的时候, possible /impossible 的主语可以是人
+          * → **<u>He</u> is impossible <u>to deal with.</u>** (True)
+            * He 做的其实是 to deal with __ 的宾语
+              * 类似 It is impossible to deal with him.
+    * 类似的同义表达 (possible 容易错)
+      * → …, parts of which **could still be read.**
+      * → …, parts of which **were still legible.**
+* → <u>From this</u> the captain was able to piece together **all the information <u>that had come to light</u>.**
+  * piece sth. $\leftrightarrow$ together 拼起来
+    * → The police are still trying to **piece together the facts.**
+    * → The archaeologists **pieced the fragments together.**
+    * **reconstruct** v. 重建, 重新构建
+      * → (NCE3-3 P22-L14) When the archaeologists **reconstructed** the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman.
+  * **<u>come to light</u>** 被发现
+    * **<u>be brought to light</u>** 被发现(被带到光里来)
+    * → New evidence in this case has recently **come to light.** / **been brought to light.**
+    * 类似的短语
+      * **<u>cast</u> / <u>shed</u> / <u>throw</u> light on** ... 揭示了.....
+        * cast 抛掷
+        * shed 发射
+        * → These discoveries may **cast some light on** the origins of the universe.
+        * → (NCE3-38 P174-L8) Even seemingly insignificant remains can **shed interesting light on** the history of early man.
+  * 
+
+
+
+
 
 ## L33 A day to remenber 
 
