@@ -2727,7 +2727,7 @@
     * → ... critics do not always **talk sense.** 评论家们并不通常说得对
     * → .... critics sometimes **talk nonsense.** 评论家们有时候是胡说八道
 
-## L32  A lost ship 
+## L32  A lost ship ⭐️
 
 **## words**
 
@@ -3038,11 +3038,41 @@
         * shed 发射
         * → These discoveries may **cast some light on** the origins of the universe.
         * → (NCE3-38 P174-L8) Even seemingly insignificant remains can **shed interesting light on** the history of early man.
-  * 
-
-
-
-
+* → The Karen <u>had been sailing</u> in a convoy to Russia **<u>when</u> she was torpedoed by an enemy submarine.**
+  * 主句中如果是进行时, 从句 when 要翻译成 '这时', 
+    * **主句（<u>进行时</u> / <u>be about to do</u>) + when** .... when”应译为 “**这时**”或“**突然**” (基本上只有这一个句型的重要信息在从句中, )
+      * be about to do 翻译为正要做
+    * → I <u>was having</u> dinner **when** the phone rang.
+    * → I <u>was about to leave</u> **when** the phone rang.
+    * → He <u>was going</u> to the sweet shop **when** he dropped his fifty pence.
+    * → (NCE3-29 P138-121) He <u>was</u> still <u>mumbling</u> something about hospitals at the end of the party **when** he slipped on a piece of ice and broke his left leg.
+    * → (NCE3-23 P114-L13) The idea never appealed to me very much, but one day, after a heavy shower, Ihappened to <u>be walking</u> in my garden **when** I noticed a huge number of snails taking a stroll on some of my prize plants.
+    * → (NCE3-34 P158-L14) The morning passed rapidly and Frank <u>was about to leave</u> **when** he noticed a large packing case lying on the floor.
+* → This was later confirmed by a naval official <u>at the Ministry of Defence</u> **after the Elkor had returned home.**
+* → All the items **<u>that were found</u>** were sent to the War Museum.
 
 ## L33 A day to remenber 
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+**## text 4**
+
+* 
+
+
+
+## L34 A happy discovery
