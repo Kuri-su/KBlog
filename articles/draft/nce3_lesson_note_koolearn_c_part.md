@@ -3055,7 +3055,92 @@
 
 **## words**
 
-* 
+* **unfereseen** /ʌnfɔrˈsiːn/  adj. 意料之外的
+
+  * **完美同义词**
+    * **unexpected**
+  * 预期, 预料到, 
+    * **foresee**
+      * fore 前面
+      * see 看
+      * foresee 从前面看 (预料到) 
+    * expect
+      * (s)pect 看(字根)
+  *  预言, 预测
+    * **foretell** 预言; 预兆, 预示
+      * fore tell 提前讲
+        * → Timely snow **foretells** a bumper harvest. 瑞雪兆丰年
+          * <u>timely</u> adj. 及时的, 适时的
+          * <u>harvest</u> n./v. 收获, 收割
+          * <u>bumper</u> adj. 巨大的, 丰盈的
+    * **predict**
+      * pre dict 提前说
+  * 预报
+    * **forecast** 
+      * weather **forecast** 天气预报
+
+* **series** /ˈsɪriːz/ n. 系列(单复数同行)
+
+  * **species** n. 物种 ( 单复数同行)
+    * one species
+    * two species
+  * **a series of** books 一套丛书
+  * **a series of** stamps 一套邮票
+  * → **A series of** rainy days spoiled my vacation. 一连串的雨天 破坏了我的假期
+    * **spoil** v. 破坏
+    * **vacation** n. 假期, 休假
+    * **a chain of ...** 一连串的
+    * **a train of ...** 一连串的
+    * **a trail of ...** 一连串的
+      * trail n. 小径, 踪迹, 尾巴
+    * **a string of ...** 一连串的
+    * **a stream of ...** 一连串的
+* **catastrophe** /kəˈtæstrəfi/ n. 大灾难
+  * **mishap** n. 小事故, 
+  * 意外事故
+    * **accident**
+    * **comtingency** (同义的高级书面语) 
+
+  * **disaster** n. 大灾难
+  * 特大灾难
+    * **calamity**
+    * **catastrophe**
+
+* **crockery** /ˈkrɑːkəri/  n. 陶器, 陶制品 (不可数)
+  * 同义词
+    * **pottery** n. 陶器, 陶制品 (不可数)
+    * **earthenware** n. 陶器, 陶制品 (不可数)
+  * 瓷器
+    * china n. 瓷器
+    * chinaware n. 瓷器
+      * ware n. 某种商品
+
+    * porcelain n. 瓷器
+
+* **suburb** /ˈsʌbɜːrb/ n. 郊区
+  * **suburban** adj. 市郊的, 郊区的; 目光短浅的, 鼠目寸光的
+    * sub + urban
+    * sub 下面; 外围
+
+  * **rural** adj. 农村的
+  * **urban** adj. 城市的
+  * **metropolitan** n. 大都会, 大城市
+  * **cosmopolitan** n. 国际性大都会, 
+
+* **panic** /ˈpænɪk/ n./v. 惊慌(突然间)
+  * **get into a panic** 陷入惊慌
+  * **in a panic** 惊慌失措的 (当状语来用)
+    * → He fled **in a panic**
+
+  * → Don't **panic** in case of life (着火别惊慌)
+  * **panic panicked ~ panicking**
+    * 不加字母 k, 会变成 paniced, 最后 ce 不发 k 的音
+    * 其他例子
+      * **picnic picnicked ~ picnicking** 野餐
+
+* **stray** /streɪ/ adj. 迷路的, 偏离的 v. 迷路, 偏离
+  * 
+
 
 **## text 1**
 
