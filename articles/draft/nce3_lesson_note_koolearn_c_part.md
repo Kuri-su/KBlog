@@ -3443,12 +3443,172 @@
 
 **## text 3**
 
-* 
+* → Things can go wrong on a big scale, **as a number of people recently discovered in Parramatta, a suburb of Sydney.**
+  * scale n. 规模, 
+    * on a **small** scale
+    * on a **limited** scale 有限规模的
+    * on a **<u>big</u> / <u>large</u> / <u>great</u> / <u>grand</u> / <u>vast</u>** scale 大规模的
+    * on a **<u>colossal</u> / <u>huge</u> / <u>enormous</u> / <u>immense</u> / <u>gigantic</u>** scale 特大规模的
+    * on a **<u>notional</u> / <u>nationwide</u>** scale 全国规模的
+    * on a **<u>global</u> / <u>international</u> / <u>worldwide</u>** scale 世界规模的
+
+  * **as 引导的非限定性定语从句与 which 引导的非限定性定语从句的区别。**
+    1. **as作为关系代词指代整个主句，而 which作为关系代词指代整个主句或先行词均可。**
+    2. **as引导的非限定性定语从句位于主句前、中、后均可，而which引导的非限定性定语从句不能位于主句之前。**  (位置)
+       * → **<u>As a poet points out</u>**, life is but a dream. (句首)
+         * poet n. 诗人, 作家
+       * → Children, **<u>as is always the case</u>**, love their mother. (句中)
+       * → She became angry, **<u>as many could see.</u>** (句尾)
+    3. **as 引导的非限定性定语从句含有“众所周知” 的意思，常译为“正如.…… 而which引导的非限定性定语从句则末必有这个意思。** (含义)
+       * → The sun heats the earth, **<u>which makes it possible for plants to grow.</u>**
+         * **heat** n. 热 v. 加热
+    4. **在'as + is/was + done”'结构中可省略"is/was”，而在"which + is/was + done”可省略'which + is/was'， 而不能只省略be动词** (省略不同)
+       * → **<u>As (is) reported</u>**, a foreign delegation will visit the City. 
+       * → a puma **(which was) at large** 
+  * 改错 ((TOFEL 真题)) (美式语法)
+    * → As Napoleon once pointed **<u>it</u>** out, attack is the best method of defense. 
+      * → As Napoleon once pointed out, attack is the best method of defense.  (True)
+
+* **rush hour** 高峰时段 (交通)
+  * the <u>morning</u> / <u>evening</u> **rush hour**  早高峰, 晚高峰
+  * Don't travel at **rush hour.**
+  * When the traffic. was very heavy, ...
+
+* **collide** v. 碰撞, 相撞
+* argue v. 争吵, 争论
+* → The woman **<u>immediately behind the two cars</u>** happened to be a learner.
+  * immediately adv. (地点上)紧靠近的
+    * **immediately <u>behind</u> / <u>above</u> / <u>below</u> / <u>in front of</u>** sth. 
+
+  * **happen to be** 碰巧
+    * **chanced to be** 碰巧
+      * → **It <u>happened</u> / <u>chanced</u> that** the woman immediately behind the two cars **was** a learner.
+
+    * <u>as it happened</u> / <u>as luck would have it</u> 碰巧
+      * **<u>As it happened</u> / <u>As luck would have it</u>**, the woman immediately behind the two cars was a learner.
+
+  * **learner** n. 新手
+
+* → She suddenly got into a panic and stopped her car.
+  * → She **got into a sudden panic** and stopped her car.
+  * → She stopped her car **in a sudden panic.**
+
+* **brake <u>hard</u> / <u>sharply</u>** 紧急刹车
+  * **slam on the brakes** 紧急刹车
+    * brakes 汽车的刹车
+
+  * 停车
+    * **stop**
+    * **draw up**
+    * **pull up**
+      * → (NCE3-33 P154-L17) Seeing a cake flying through the air, a lorry driver who was **drawing up** alongside the car, **pulled up** all of a sudden.
+
+    * **come to a <u>stop</u>/<u>halt</u>** 
+      * → (NCE3-6 P34-L10) It **came to a stop** outside the ieweler's.
+      * → (NCE3-39 P178-L21) Bruce charged at it, but in the middle, the car **came to a grinding halt.**
+
 
 **## text 4**
 
-* 
+* → **Seeing a cake <u>flying through the air</u>**, a lorry driver **who was drawing up alongside the car**, pulled up all of a sudden.
+  * lorry n. 卡车 (英式)
+  * **draw up** 停车
+    * → A taxi **drew up** at the gate.
+    * **drew sth $\Leftrightarrow$ up**  起草, 
+      * → (NCE3-21 P106-L7)..,when the Marquis of Queensberry **drew up** <u>the first set of rules.</u>
 
+  * **alongside** adv. 靠边 prep. 在... 边上
+    * → A car drew up **alongside**. 一辆车靠边停了下来 (adv.)
+    * → A police car pulled up **alongside** us. 一辆警察靠在我们旁边停了下来   (prep.)
+
+* **be loaded with** sth.  满载着 sth.
+* slide v. 滑动
+  * ... **slid off** the back ...
+
+* slip v. 滑动
+  * ... **slipped off** the back ...
+
+* **"上义词"替换** (写作技巧)
+  * → The **<u>lorry</u>** was loaded with empty beer bottles and hundreds of them slid off the back of the **<u>vehicle</u>** and on to the road.
+    * **vehicle** n. 车辆, 交通工具
+
+  * → **<u>Giant pandas</u>** are considered a national treasure and the Chinese government are doing their best to protect this **<u>endangered species.</u>**
+    * endangered species 濒危物种
+
+  * → Moreover, in the past two years other nearby cities may have begun to build similar **<u>golf courses</u>** or **<u>resort hotels</u>**. Indeed, the fact that Ocean View has already built **<u>these facilities</u>** might actually portend failure for Hopewell, ...
+    * facilities n. 设施
+
+* **<u>yet</u> / <u>still</u> (<u>another</u> / <u>one more</u>...)** 再一个, 又一个
+  * **yet one more** question  再一个问题
+  * **still another** example 再一个例子
+    * → (NCE3-5 P30-L11) He sent **yet another** fax informing the journalist that if he did not reply soon he would be fired.
+
+* **pile up** 越聚越多
+  * pile n./v. 堆, 堆积
+  * → The work just keeps on **piling up** and makes me want to scream.
+    * scream 尖叫
+
+* → <u>It</u> took the police nearly an hour **<u>to get the traffic on the move again.</u>**
+  * 花时间做某事
+    * → The police **took** nearly an hour **to get** the traffic on the move again.
+    * → The police **spent** nearly an hour **(in) getting** the traffic on the move again.
+
+  * **on the + noun. 处于某种状态** 
+    * → The dog is **on the alert**.
+    * → He is always **on the go**.
+      * on the go 忙碌 (尤指跑业务)
+
+    * → The patient is **on the recovery.**
+    * → Crimes are **on the rise.**
+    * → (NCE3-33 P154-L8) While you are **on the phone**, ..
+    * 有些不加 the
+      * → (NCE3-18 P82-L2) Even people who take no interest in art cannot have failed to notice examples of modern sculpture **on display** in public places.
+      * → The house is **on sale.** 
+        * (美) 房子正在甩卖, 房子正在降价
+
+      * → The workers are **on strike.**
+      * → I'm here **on vacation.**
+      * → I'm here **on business.**
+      * → The nurse is **on call** 24 hours a day.
+
+* **sweep up** 扫干净
+* → Only two stray dogs benefited from all this confusion, **for they greedily devoured <u>what was left of the cake</u>.**
+  * **benefit from ...** 得益于...., 受益于...
+    * **benefit** .... 有益于.... (有些词 加不加介词, 含义是不同的, 有可能是反的)
+      * → This food will **benefit** your brain. 这食物将有益于你的大脑
+      * → Your brain will **benefit from** this food. 你的大脑将受益于这些食物
+
+  * **what is left of sth. = what remains of sth.** 某些东西剩下的部分
+    * → …, for they greedily devoured **what remained** of the cake.
+    * → (NCE4-28 P166-L13) It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket **what remained of a bottle of medicine** formerly prescribed for an indisposition of Mrs. Carlyle's.
 
 
 ## L34 A happy discovery
+
+**## words**
+
+* **forbidding** /fərˈbɪdɪŋ/ adj. 令人望而生畏的;冷冰冰的
+  * a **forbidding** place
+  * a **forbiding** appearance 
+    * appearance n. 外貌, 外表
+  * 同义词
+    * **unfriendly** adj. 不友好的
+    * **unwelcoming** adj. 不欢迎的
+    * **inhospitable** adj. 不好客的
+      * hospitable adj. 好客的
+        * → The Chinese are very **hospitable**.
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L35 Justice was done
+
