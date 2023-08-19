@@ -3139,16 +3139,307 @@
       * **picnic picnicked ~ picnicking** 野餐
 
 * **stray** /streɪ/ adj. 迷路的, 偏离的 v. 迷路, 偏离
-  * 
+  * a **stray** <u>dog</u> / <u>boy</u> / <u>bullet</u> 流浪狗, 迷路的男孩, 流弹 
+    * bullet n. 子弹
+
+  * **stray sheep** 迷途的羔羊 (宗教)
+    * good shepher 上帝
+
+  * → Some of the cattle have **strayed**
+    * cattle 牛 (单复数同行)
+
+  * → Don't **stray** from the point. 别跑题
+
+* **confusion** /kənˈfjuːʒən/ n. 混乱; 迷惑
+  * 同根词
+    * **confuse** v. 使乱七八糟, 使混乱; 使迷惑
+      * **confused** adj. 迷惑的; 混乱不堪的
+      * **confusing** adj. 令人困惑的; 令人迷惑的
+
+  * 同义词
+    * **disorder** n. 混乱, 无序, 失调
+      * **in disorder**  处于混乱中
+
+    * **mess** n. 混乱(可数)
+      * **in a mess** 
+        * → (NCE3-11 P54-L13) All the things | had packed so carefully were soon **in a dreadful mess.** 
+          * **dreadful** adj. 可怕的, 糟糕的, 令人畏惧的.
+
+    * **chaos** n. 特别混乱, 混乱规模大
+      * **in (a state of) chaos**
+        * → (NCE3-60P268-L2) Without it, nothing could ever be brought to a conclusion; everything would be **in a state of chaos.** 
+
+* **greedily** /ˈɡriːdəli/ adv. 贪婪地 (尤指贪财)
+  * **dreedy** adj. 贪婪的(尤指贪财)
+  * **gluttonous** adj. 贪吃的
+  * **the seven deadly sins: ** 七宗致命的罪
+    * sin : 宗教或者道德上的罪
+    * deadly adj. 致命的, 致死的
+    * 七宗罪 (名词)
+      * **greed** n.贪婪 (尤指贪财)
+      * **gluttony**  n. 贪食
+      * **lust** n. 欲望
+      * **envy** n. 妒忌
+      * **wrath** n. 怒气, 发怒, 愤怒
+      * **sloth** n. 懒惰
+      * **pride** n. 骄傲, 傲慢
 
 
 **## text 1**
 
-* 
+* 后置定语 - **to remember** 难忘的 (固定用法)
+  * A day to remember 难忘的一天
+  * A night to remember 难忘的一夜
+    * → Gandalf, my old friend ... this will be **a night <u>to remember</u>.**
+
+* **go wrong** 出错, 出问题, 不顺利
+  * → We have all experienced days when everything **goes wrong.**
+  * → Our marriage began to **go wrong** after we had our first child.
+  * → Something's **gone wrong** with my computer.
+  * → (NCE3-26 P126-L8) An advertisement which begins with the magic word FREE can rarely **go wrong.**
+  * → (NCE3-37 P170-L6) It is all too easy to blame the railway authorities when something does **go wrong.**
+  * 造句：我们都经历过生活幸福如意的日子。
+    * → **We have all experienced days when** life seems to be a bowl of cherries.
+
+  * 造句：我们都经历过痛苦和绝望的时候。
+    * → **We have all experienced moments** of misery and despair.
+
+* **suddenly** (注意用鼻腔爆破来读)
+  * 同义词
+    * **al<u>l o</u><u>f a</u> sudden**
+      * → (NCE3-33 P154-L16) Seeing a cake tying through the air, a lorry driver who was drawing up alongside the car, pulled up **all of a sudden.**
+
+    * **al<u>l a</u>t once** 
+      * → (NCE3-48 P220-L23) **All at once**, I noticed that my wife seemed to be filled with alarm.
+
+* **get out of <u>control</u> / <u>hand</u>**  (习语搭配)
+  * get 和 out 的 t 都浊化了, 然后注意连读
+  * 听力题: 
+    * W: You know the noise in my dorm has really **gotten out of control**. My roommate and I can rarely get to sleep before midnight.
+      * dorm n. 宿舍(缩写)
+
+    * M: Why don't you take the problem up with the dorm supervisor?
+      * **take the problem up** 提交某个问题 
+
+    * Q: What does the man suggest the woman do?
+    * Answer: (A) Discuss the situation with the person in charge of the dormitory.
+      * discuss v. 讨论
+      * dormitory n. 宿舍
+        * dorm n. 宿舍(缩写)
+
+      * in charge of 负责,掌管, 管理
+
+  * 选择题
+    * We started burning some leaves in our <u>yard</u>, but the fire got ___ and we had to call the fire department to put it out.
+      * **<u>(A) out of hand</u>** (B) out of order(损坏) (C) out of the question(不可能) (D) out of the way (闪开, 躲开)
+      * yard 院子
+
+  * **get sth. under control** 控制 sth.
+    * 听力题
+      * M: Look at all the pollution going into the air from those factories. Do you think they'll ever **get that under control?**
+        * **foctory** n. 工厂
+
+      * W: With the new laws and social awareness, we'll turn things around.
+        * **awareness** n. 意识, 认识
+
+      * Q: What does the woman predict will happen?
+        * **predict** v. 预测, 语言
+
+      * Answer: (D) The situation will improve if changes are made.
+        * **improve** v. 改善, 提高
+
+* → **What invariably happens** is **that a great number of things choose to go wrong <u>at precisely the same moment</u>.**
+  * **invariably** adv. 总是, 始终如一地 
+    * **= always**
+
+  * **what invariably happens is that ..** 往往总是....  (背诵)
+    * 造句：往往总是干得最多的人收入最少。
+      * → **What invariably happens is that** <u>those who</u> work most get paid least. (L9)
+
+    * 造句：往往总是老师们一走班里就陷入一片混乱状态。
+      * → **What invariably happens is that** once teachers leave the class will be <u>in a state of chaos.</u>
+
+  * **choose to do** 选择, 决定
+    * → More and more people are **choosing to** live alone .
+    * → Catherine **chose to** ignore the doctor's warning.
+
+  * It never rains but it pours. (谚语) 不雨则已, 一雨倾盆 (祸不单行)
+    * but 翻译成 '除了'
+    * pour v. 倾倒, 倾斜; 瓢泼大雨
+    * → As the old saying goes, happiness comes alone while misfortune loves company. 正如老话说的, 福无双至, 祸不单行
+      * while 而
+      * misfortune 不幸
+      * company 陪伴,
+
+    * → (Murphy's law) If anything can go wrong, it will. 
+
+* **set up** 导致
+  * → The heavy fog **set up** a traffic jam.
+    * fog n. 雾
+
+  * 同义词和搭配
+    * **cause** n. 原因 v. 导致
+    * **effect** n. 效果 v. 导致, 实施, 产生
+    * **lead to** v. 导致
+    * **result in** v. 导致
+    * **bring about** v. 导致
+    * **give rise to** v. 导致
+    * **produce** v. 生产; 使产生后果
+    * **create** v. 导致
+    * **trigger** v. 触发
+    * **spark** n. 星火 v. 触发
+      * → Even the smallest diplomatic incident can **<u>trigger</u>** / **<u>spark</u>** a maior international conflict.
+
+* '一系列' 的同义表达
+  * **a chain of** reactions.
+  * **a series of** reactions 
+  * **a train of** reactions 
+  * **a trail of** reactions 
+  * **a string of** reactions
+    * reaction n. 反应
+
+  * ...
+  * a **chain reaction** 连锁反应
+  * a **domino effect** 多米诺效应 (连锁反应)
+  * a **ripple effect** 涟漪效应, 波及效应
+    * ripple n. 涟漪, 波纹
+
+* **suppose** v. 假定, 认为, 猜想
+* **keep an eye on <u>sth.</u> /<u>sb.</u>** 照看, 照料(尤其表示同时还在做别的事)
+  * → Would you please **keep an eye on** my suitcase while I'm away?
+  * 可用于替换的同义词
+    * **<u>look after</u>**
+    * **<u>take care of</u>**
+    * **<u>watch</u>** 照顾, 照看
+
+  * **babysit** vi. 照顾小孩(有偿)
+    * → He used to **babysit for** Mary when she worked nights.
+      * worked night 上夜班
+
+    * **babysitter** n. 有偿帮忙照顾小孩的人 
+
 
 **## text 2**
 
-* 
+* The doorbell **rang** .
+  * **ring** the doorbell
+  * **go off** 通常用于闹钟响了, 发出巨大的声音, 炮,枪响了都用这个
+    * 而不使用 ring, ring 通常只用于 不是很大声的铃声, 
+    * → The alarm clock **went off.**
+
+  * **strike** 钟 打点报时
+    * → The clock is **striking** the hours.
+    * → The cock began to **strike** twelve.
+
+* mark v. 用笔做一个标记, 标志着
+  * → (NCE3-25 P122-L9) lt **marked** the end of the great tradition of ships with sails and the beginning of a new era.
+  * → The foundation of the People's Republic of China **marked** the beginning of a new historical period in China.
+  * **mark the prelude to**.... 预示着...
+    * prelude n. 前奏, 序曲, 序言
+    * → The dark clouds **marked the prelude to** a heavy storm.
+    * → The Lugouqiao Incident **marked the prelude to** China's War of Resistance Against Japanese Aggression.
+      * incident n. 事件, 事故
+
+* → **While you are on the phone**, the baby pulls the tablecloth off the table, **smashing half your best crockery <u>and</u> cutting himself in the process.**
+  * **be on the phone** 打电话
+    * **answer the phone** 接电话
+      * → While you are **answering the phone**, ...
+
+    * **answer the door** 应门(有人敲门去开门)
+    * **I'll get it.** 我去开门/应门
+    * 电话常用语
+      * → May I speak to Mr. John Smith?
+      * 我就是 (不能用 I'm)
+        * This is John Smith speaking.
+        * This is he.
+        * Speaking.
+
+      *  您是? (不能用 who are you?)
+        * Who is it?
+        * Who is there?
+        * Who is calling?
+
+      * 等下,
+        * One moment , please
+        * <u>Hold on</u> / <u>Hang on</u> , please
+
+      * 约翰, 有人打电话给你
+        * John, there's a phone call for you.
+        * John, you are wanted on the phone.
+        * John, Tom'<u>s on</u> the line. Pick up the phone on your desk.
+
+      * Sorry, Mr. Smith is in a meeting right now. <u>Would you like to leave a message</u> / <u>May l take a message</u>?
+        * Mr. 后面要么加全名, 要么加姓氏
+
+      * 打给总机
+        * Can you connect me with John Smith in the advertising department? 麻烦给我接通 John Smith
+        * I'd like to <u>place</u> / <u>make</u> a collect call to Australia.
+          * collect call 对方付费的呼叫
+
+      * The connection is very bad. I can barely hear you. 信号不好
+        * barely = hardly
+
+      * There's something wrong with the phone. Let's hang up. I'll call you right back.
+
+  * tablecloth 桌布
+  * smash v. 砸的粉碎
+  * 动词不定式做结果状语通常是表示出乎意料的结果, 往往是一个不太好的结果. 这时需要翻译成'结果....'
+    * → He studied very hard **(only) to fail the exam.**
+    * → The firefighters raced up the building, **(only) to be the first victims.**
+    * → (NCE3-30 P142-L4) Farm labourers said that they always woke up **to find** that work had been done overnight.
+
+  * **in the process: at the same time**
+    * → I stood up to say hello and spilt my drink **in the process.**
+      * spill v. 泼, 溅, 洒
+        * split v. 分割
+
+  * **hang up** 挂电话
+    * **put the phone down** 
+    * **slam the phone down** 用力的挂电话
+    * **get cut off** 断线了
+      * 听力题
+        * M: Did you **get cut off**?
+        * W: No, they asked me to **hang up** and try again later.
+        * Q: What has the woman been doing?
+        * Answer: (C) Talking on the telephone.
+
+  * **hurriedly** adv. 匆忙地
+    * **in a hurry / rush**
+      * → **There's no <u>hurry</u> / <u>rush</u>.** 别着急
+      * → **What's the <u>hurry</u> / <u>rush</u>?** 着什么急丫(慢慢来, 不着急)
+    * **in haste**
+      * haste n. 匆忙, 急忙, 仓促
+    * **Take your time**. 慢慢来, 不着急
+      * ‘Excuse me, ma'am. Ticket, please.' 
+      * 'Would you kindly hold these keys, please? I have a ticket, I know. I was in the smoking section ’
+      * 'It's OK, lady. **Take your time**'
+  * **attend to** 照顾, 处理, 关注
+  * **et cetera (etc.)** Latin 等等....
+    * **and so on**
+    * **and so forth**
+    * **and the like**
+    * **and what not**
+
+* **burnt** adj. 烧焦的, 烧坏的
+* **meanwhile** adv. 与此同时
+  * **at the same time**
+  * **in the process** 与此同时
+  * **(in the) meantime** adv./n.
+
+* → **As if this <u>were</u> not enough to reduce you to tears**, your husband arrives, **unexpectedly bringing three guests to dinner.**
+  * as if 好像... 一样, 用虚拟语气
+    * 虚拟语气里 be 动词都用 were
+      * → (NCE3-24 P118-121)'Oh, that,'he said with a smile **as if** he **were** talking about an old friend.
+      * → Don't act **as if** you **were** the only pebble on the beach.
+
+  * reduce 使减少
+    * **reduce sb. to sth.** 使某人陷入 (一般是不好的状态)
+      * **reduce sb. to** tears
+      * **reduce sb. to** despair
+      * **reduce sb. to** silence
+
+  * **unexpectedly / unforeseenly** adv. 出乎意料地
+
 
 **## text 3**
 
