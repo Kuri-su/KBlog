@@ -3595,12 +3595,78 @@
     * **unfriendly** adj. 不友好的
     * **unwelcoming** adj. 不欢迎的
     * **inhospitable** adj. 不好客的
-      * hospitable adj. 好客的
+      * **hospitable** adj. 好客的
         * → The Chinese are very **hospitable**.
+        * → The Chinese are noted for their **hospitality**. 
+          * **hospitality** n. 好客
+  * **forbidden** adj. 被禁止的
+    * the **Forbidden** City 紫禁城
+    * the **forbidden** fruit 禁果
+* **muster** /ˈmʌstər/ v. 鼓起, 激起, 振作起
+  * **muster (up) sth. = summon (up) sth.**
+    * **summon** v. 召唤; 召集
+  * **<u>muster</u> / <u>summon</u> (up)** courage 鼓起勇气
+    * courage n. 勇气, 胆识
+  * **<u>muster</u> / <u>summon</u> (up)** enthusiasm 激起热情
+    * enthusiasm n.热情, 热忱
+  * **<u>muster</u> / <u>summon</u> (up)** strength 振作起力量
+    * strength n. 力量, 体力, 
+* **junk** /dʒʌŋk/ n. 废品, 破烂货 (但还不是 垃圾, 还有一点点价值, 不可数)
+  * a piece of **junk**
+  * → The cupboard is full of **junk**
+  * **junk** <u>food</u> / <u>mail</u> 垃圾食品, 垃圾邮件
+  * **clutter** n. 废品, 破烂货
+    * → (NCE3-59 P264-L3) Those who never have to move house become indiscriminate collectors of what can only be described as **clutter**.
+  * 垃圾的同义表达, (都是不可数)
+    * **rubbish** 
+    * **garbage**
+    * **trash** 
+    * **litter** n. 公共场所堆积如山的垃圾 vt. 杂乱的堆满某地
+      * **clutter** v. 杂乱的堆满某地
+        * → Magazines **<u>littered</u>** / **<u>cluttered</u>** the floor. 某物堆满了某地
+        * **be <u>littered</u> / <u>cluttered</u> with ...** 某地堆满了某物
+          * → (NCE3-46 P212-L23) The garden **was** soon **littered with** chunks of metal which had once made up a lawn mower.
+    * **refuse** v. 拒绝, n. 垃圾
+* **dealer** /ˈdilər/ n. 商人 (专门出售某种商品, 并且具有专业知识)
+  * an antique **dealer**  古董商
+    * antique n. 古董, 古玩
+  * a furniture **dealer** 家具商
+  * 同义词
+    * **businessman / merchant** 商人, 做大生意的商人
+    * **vendor** n. 小商贩
+    * **retailer** n. 零售商
+      * retail v. 零售
+    * **wholesaler** n. 批发商
+      * wholesale v. 批发
+    * **supplier** n. 供应商
+    * **sales representative** n. 销售代表
+    * **assistant** / **clerk(美)** n. 售货员
+    * **real estate agent** n. 房地产销售员
+      * **real estate**  n. 不动产, 房地产
+    * **grocer** n. 杂货商
+    * **stationer** n. 文具商
+      * **stationery** n. 文件
+* **cherish** /ˈʧɛrɪʃ/ v. 珍爱, 珍视; 长期怀有某种感情
+  * v. 珍爱, 珍视
+    * → I'lI **cherish** our friendship for ever.
+    * **treasure** v. 视之如珍宝一般
+    * **value** v. 视之如珍宝一般
+    * Mary's **cherished** possessions
+      * 动词的过去分词当形容词用
+    * → (NCE3-16 P74-L2) Mary's **prize** possessions
+    * **treasured** adj. 视之如珍宝一般的
+    * **valued** adj. 视之如珍宝一般的
+  * v. 长期怀有某种感情
+    * → He **cherished the hope <u>of</u>** winning an Olympic medal. 他一直希望可以赢得一枚奥运奖牌
+    * → He **cherished the memory <u>of</u>** his late wife. 他一直怀念他故去的妻子
+    * → He **cherished the illusion <u>that</u>** the girl was in love with him. 他一直误以为那个女孩爱他
 
 **## text 1**
 
-* 
+* **happy**: lucky; fortunate
+  * a **happy** coincidence 一个幸运的巧合
+  * the **happy** few (固定搭配) 幸运的少数 - 富二代, 官二代
+  * (happy 未必是高兴, sad 未必是伤心)
 
 **## text 2**
 
