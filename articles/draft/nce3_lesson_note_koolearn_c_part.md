@@ -3667,6 +3667,79 @@
   * a **happy** coincidence 一个幸运的巧合
   * the **happy** few (固定搭配) 幸运的少数 - 富二代, 官二代
   * (happy 未必是高兴, sad 未必是伤心)
+  * → (NCE3-23 P114-L7) The **sad** truth is that most of us have been brought up to eat certain foods and we stick to them all our lives.  (sad 不幸的)
+  * → He made a **sad** mistake. 他犯了一个遗憾的错误
+* **exert ... on ....** 将 sth. 施加到 sb./sth. 上
+  * exert v. 施加, 运用, 发挥
+  * → (NCE3-26 P126-L1) Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising **exerts** a subtle influence **on** us.
+* **peculiar** adj. 特殊的, 奇特的
+* **fascination** n. 魅力, 吸引力
+  * → (NCE3-9 P46-L 1) Cats never fail to **fascinate** human beings. 
+    * **fascinate** vt. 吸引,迷住
+  * **charm** n. 吸引力
+  * **attraction** n. 吸引力, 吸引物; 景点, 名胜
+  * **appeal** n. 吸引力
+    * → (CE3-29 P138-L7) In spite of national differences, certain funny situations have a universal **appeal**.
+  * **sth. exert a peculiar fascination on sb.**  某人特别喜欢某物 (某些东西 对某人施加了特别的吸引力)
+    * 造句：很多中国年轻人非常喜欢韩国的 (Korean)电视剧 (TV dramas)
+      * → Korean TV dramas **exert a peculiar fascination on** a great many Chinese young people.
+* → The more expensive kind of antique shop **where rare obiects are beautifully displayed in glass cases <u>to keep them free from dust</u>** is usually a forbidding place.
+  * **expensive** adj. 高档的, 豪华的
+    * → (NCE3-6 P34-L1) The **expensive** shops in a famous arcade near Piccadilly were just opening.
+  * kind, sort, type, 放前面, 后面如果跟的是可数名词, 那么也把可数名词当不可数名词来用, 这种用法在书面语中是最正式的, 后面用复数也行, 但没有 当不可数来用更加正式
+    * a new kind. of **machine** 
+    * 但如果把可数名词放在前面, 那么就可以当复数用
+      * **machines** of a new kind
+      * shops of more expensive kind
+  * **(be) from from ...** 没有.. (特指没有某种不想要的东西)
+    * → (NCE3-27 P130-L15) He may never be sure where the next meal is coming from, but he is **free from** the thousands of anxieties which afflict other people.
+    * → The composition **is free from** errors. 这篇作文没有错误
+    * → Organic produce **is free from** harmful chemicals. 
+    * **free ... from ...** 使 sth./sb. 没有 sth. (特指没有某种不想要的东西)
+      * → He dedicated his life to **freeing** the world **from** famine and disease.
+        * decicate ... to ... 把时间精力奉献给...
+
+* **pretentious** adj. 自命不凡的; 装腔作势的; 装逼
+  * 造句：谁也不用壮着胆子去接近一个不那么装腔作势的女孩子。
+    * → No one has to **muster up courage** to approach a less **pretentious** girl. 
+* → There is always hope **that <u>in its labyrinth of musty, dark. disordered rooms</u> a real rarity will be found amongst the piles of assorted junk <u>that litter the floors.</u>**
+  * **there be + 无灵主语**
+    * → **there is no denying that ...** 不可否认的是...
+    * → **there is no doubt that ...** 毫无疑问的是...
+    * → **there is every likelihood that ...** 很有可能的是 ...
+    * → **there is little likelihood that ...** 不太可能的是...
+    * → **there is no shortage of ...** 有得是....
+      * → (NCE3-9 P46-L11) Of course, New York is the ideal place for such an interesting study, because **there is no shortage of** tall buildings.
+    * → **there is an element of truth in ...** 某个东西有点道理...
+      * → (NCE3-12 P58-L7) Perhaps **there is an element of truth in** both these pictures, but few of us have had the opportunity to find out.
+    * → **there is a good deal of truth in ...** 某个东西很有道理...
+      * → (NCE3-9 P46-L7) Apparently, **there is a good deal of truth in** this idea.
+  * **hope 在 there be 句型中的使用**
+    * → **There is little hope of** ...希望渺茫的...
+      * → **There is little hope of** any improvement in his condition. 他的情况要好转是希望渺茫的
+    * → **There's still a faint hope that ...** 有一线希望的...
+      * → **There's still a faint hope that** the two sides will reach an agreement.
+    * → **There was no hope of ...** 毫无希望的
+      * → It was rush hour, and **there was no hope of** getting a seat. 现在是交通高峰, 想找到座位是希望渺茫的
+    * → **Is there any hope of** ... 是否有希望....
+      * → **Is there any hope of** getting financial support for the project?
+      * → **Is there any hope that** she will change her mind?
+  * labyrinth of musty, dark. disordered rooms 迷宫般的, 发霉的 , 杂乱的, 黑暗的  房间
+  * **of 表示比喻**, 前面是喻体, 后面是本体
+    * <u>a boy</u> **of** <u>a girl</u> 假小子
+    * <u>an angel</u> **of** <u>a wife</u>  天使般的妻子
+    * <u>a palace</u> **of** <u>a house</u> 宫殿般的房子
+    * <u>a garden</u> **of** <u>Switzerland</u> 花园般的瑞士
+    * → Jane is <u>a submissive lamb</u> **of** <u>a girl</u> Jane 是一个温顺的像一头小绵羊一样的女孩
+  * **amongst**: among
+    * 书面语版本有些会加 st, 但意思是一样的
+    * **whilst**: while
+    * **midst**: middle
+  * **assorted** adj. 各式各样的, 混合的, 什锦的
+    * **assorted** vegetables
+    * a box of **assorted** chocolates 一盒什锦巧克力糖果
+    * tools in **assorted** sizes 各式各样混杂的工具
+    * swimsuits in **assorted** colors 各种颜色混杂的泳衣
 
 **## text 2**
 
