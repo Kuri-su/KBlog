@@ -3743,7 +3743,70 @@
 
 **## text 2**
 
-* 
+* **rarity** n. 罕见的事物, 稀有性, rare object
+* **by chance** 偶然地, 意外地
+  * **by accident**
+  * **accidentally** 
+  * 成心地, 故意地
+    * **intentionally** 
+    * **deliberately** 
+    * **on purpose**
+  * → No one succeeds **by chance.**
+* **truly** adv. 真实地, 真正地
+* → A truly dedicated bargain hunter must have <u>patience</u>, <u>and</u> **above all**, <u>the ability to recognize the worth of something</u> **when he sees it.**
+  * **above all (else)** 最重要的是... , 尤其是... 
+    * → Max is clever, hardworking, and **above all (else)** honest.
+  * dedicated adj. 专注的, 一门心思的, 专心致志的
+  * ability n. 才能, 能力
+  * recognize v. 承认, 认可; 辨认
+  * 造句：一个真正全身心投入的猎头必须要有耐心，并日最重要的是，要有识才的薏眼。
+    * 有一双... 的眼睛, have an eye for ....
+      * He **has an eye for** beauty. 他有鉴赏力
+    * → A truly dedicated head-hunter must have patience, and above all, an eye for talents.
+      * talent n. 天赋, 才能, 人才
+* at least  至少
+  * least(little less least)
+* → When at Rome, do **as** the Romans do. 入乡随俗 (as 作连词, 而不是介词, as 作介词表示 作为...., 是 ... 身份)
+  * → When at Rome, do **like** the Romans. 
+  * → ...Alfred Bloggs who worked **as** a dustman for the Ellesmere Corporation.  (as 作介词表示 作为...., 是 ... 身份)
+    * → She spoke **as** a lawyer. 她作为律师在讲话
+    * → She spoke **like** a lawyer. 她像律师一样在讲话
+  * → He must be **as** knowledgeable **as** the dealer **(is)**. (肯定句)
+  * → He isn't **<u>as</u>** / **<u>so</u>** knowledgeable **as** the dealer **(is)**.
+* → **Like a scientist <u>bent on making a discovery</u>**, he must cherish the hope **that one day he will be amply rewarded.**
+  * like 在这里作介词
+  * **be bent on (doing) sth.** 一门心思要做某事
+    * → The boy **is bent on** mischief.
+      * mischief n. 恶作剧
+    * → He **is bent on** winning at all costs.
+      * at all costs 不惜一切代价
+    * '下定决心做某事 '的同义表达
+      * **be determined to do** 
+        * determined adj. 坚定的, 坚决的, adv. 坚定地, 坚决地, n. 坚定, 坚决
+      * **be resolved to do**
+        * resolved adj. 断然的, 下定决心的, v. 决定, 解决
+      * **set one's mind on (doing) sth.** 下定决心做某事
+      * 上述表达在本文做后置定语如何使用, 
+        * → Like a scientist **determined to make a discovery,** (把 be 去掉)
+        * → Like a scientist **resolved to make a discovery,** (把 be 去掉)
+        * → Like a scientist **setting his mind on making a discovery,** (把动词变成动名词做后置定语)
+  * cherish the hope 怀有某种希望
+    * **nourish** 滋养
+      * → Lisa has long **nourished** the hope of becoming a ballerina.
+        * ballerina 芭蕾舞演员
+    * 享有
+      * → (NCE3-3 P22-L4) The city at one time must have been prosperous, for it **enjoyed** a high level of civilization.
+    * 某种事物享有某种好的特征. (只能事物做主语)
+      * → China **boasts** a lot of beautiful scenery.
+    * 某人有好的东西
+      * → They **have** three lovely children.
+      * → They **are blessed with** three lovely children.
+        * blessed adj. 幸运的, 受祝福的, 
+      * → The girl **is endowed with** both beauty and brains.
+        * endowed 强调天生就有,
+  * **amply** adv. 充沛地, 充分地, 丰富地
+    * **be amply rewarded** 丰厚的回报
+    * → There is alwavs hope that all my patience will **be amply rewarded.** 总是希望我的耐心总是能获得丰厚的回报
 
 **## text 3**
 
