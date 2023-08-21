@@ -3810,7 +3810,97 @@
 
 **## text 3**
 
-* 
+* → He has often described <u>to me</u> **how he picked up a masterpiece for a mere £50.**
+  * 及物动词后如何有个很长的宾语和一个比较短的状语, 习惯上先说状语, 再说宾语
+    * → (NCE3-1 P14-111) Wherever it went, it **left <u>behind it</u> a trail of dead deer and small animals like rabbits.**
+    * → (NCE4-18 P104-L4) On the occasions when they have **pushed <u>to shore</u> an unconscious human being** ...
+
+  * **describe ... to sb.** 向某人描绘某事
+    * → Let me **describe <u>to you</u> how it happened.**
+    * **describe ... as ..** 把前者描述为后者
+      * → (NCE3-17 P78-L2) He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river '.
+      * → (NCE3-59 P264-L3) Those who never have to move house become indiscriminate collectors of what can only **be described as** clutter.
+
+  * **pick sth. $\Leftrightarrow$ up ** 淘到
+    * → We managed to **pick up** a few bargains at the auction.
+      * manage v. 设法
+      * auction n./v. 拍卖, 竞拍
+
+  * **a mere ...** 仅仅
+    * = only (替换了之后, 笔格 up up)
+    * → He's **a mere** child. 
+    * → It took her **a mere** 20 minutes to win.
+    * → (NCE3-39 P178-L4) Glancing at his map, he informed us that the next village was **a mere** twenty miles away.
+
+* a famous arcade **<u>near</u> / <u>close to</u> / <u>around</u> / <u>off</u> / <u>in the neighborhood of</u> / <u>in the vicinity of</u>** Piccadilly 附近的同义表达
+  * 其他 '附近' 的同义表达
+    * **only a short bus ride away**
+      * → (NCE3-41 P192-L23) The latest exhibitions, films, or plays are **only a short bus ride away.**
+
+    * **within walking distance**
+    * **within driving distance** (乘车能到的距离)
+    * **within commuting distance** (乘车往返很方便)
+    * **only a stone's throw away** 一箭之遥
+
+* As  he had never been there before,... 改写为 非谓语动词引导的
+  * Having never been there before, .. (非谓语动词 修饰全句)
+  * As this was his first visit there, ..
+  * This being his first visit there, ... (独立主格)
+
+* → The dealer told him **<u>that</u> it had just come in**, <u>but</u> **<u>that</u> he could not be bothered to open it.** 
+  * 两个 that 引导的宾语从句并列, 即便第一个可以省掉 that, 第二个也不能省.
+    * → Galileo's observations show **(that) Copernicus, another great astronomer, was right** and **<u>that</u> the earth moves around the sun, not the other way around.**
+    * → (NCE3-60 P268-L26) He agreed **(that) a train did come into the station at the time on the paper** and **<u>that</u> it did stop, but only to take on mail, not passengers.**
+
+  * **can't be bothered (to do sth.)** 嫌麻烦 (而不愿...)
+    * → The grass needs cutting but I **can't be bothered to** do it today.
+    * → He could produce excellent work but usually he **can't be bothered.**
+      * work 可以表示 工作
+
+* **reluctantly** adv. 勉强地
+  * → (NCE3-5 P30-L5) When the journalist again failed to reply, the editor **reluctantly** published the article as it had originally been written.
+  * **unwillingly** adv. 勉强地
+  * do sth. **with reluctance**  勉强地
+
+* **<u>prise</u> / <u>pry</u> sth. open** 撬开 某物
+* **disappointing** 令人失望的
+* → **<u>Apart from</u> an interesting-looking carved dagger**, the box was full of crockery, **<u>much of it</u> broken.**
+  * much of it broken 独立主格结构
+  * **apart from ... (英) / aside from ...(美)** 除了...之外; 不止有... , 除了...之外 还有...
+    * 除了...之外
+      * <u>**but / but for(句首)**</u> 除了...之外
+      * **excluding ...** 除了...之外
+      * **other than ...**
+      * **with the exception of** ...
+      * → **Apart / Aside from** the ending, it'sa really good film.
+      * → I hardly know anyone in town **apart/aside from** William and you.
+
+    * 不止有... , 除了...之外 还有...
+      * **besides** 
+      * **as well as ...** 除了...之外 还有...
+      * **in addition to ..** 除了...之外 还有...
+      * → **<u>Apart</u> / <u>Aside</u> from** the injuries to his face and hands, he broke both legs.
+      * → **<u>Apart</u> / <u>Aside</u> from** these two books, he has written some plays and film scripts.
+
 
 ## L35 Justice was done
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+
+
+## 36 A chance in a million
