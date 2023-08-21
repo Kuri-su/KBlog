@@ -3901,6 +3901,18 @@
   * 用独立主格改写
     * → **<u>Its composition and line</u> reminding him of an ltalian painting he knew well**, he decided to buy it.
 
+* → **Glancing at it briefly**, the dealer told him **<u>that it was worth £50.</u>**
+  * **briefly** 匆匆地, 短暂地
+  * **glancing** v. 一撇 
+  * 这里能用非谓语是因为 逻辑主语 和 实际主语统一了, 所以能用非谓语, 否则得用 独立主格.
+    * → (NCE3-39 P178-L4) **Glancing at his map**, he informed us that the next village was a mere twenty miles away.
+
+* **conceal** vt. 隐藏；隐瞒
+  * → (NCE3-28 P134-L9) I had no intention of buying one, but I **could not conceal the fact** that I was impressed by the size of the diamonds.
+  * → Frank almost **revealed his excitement.** Frank 几乎揭示了他的兴奋
+  * 考研 英译汉真题
+    * → <u>His function is analogous to that of a judge, who must accept the obligation of **revealing** in as obvious a manner as possible **the course of reasoning** which led him to his decision.</u>
+
 
 ## L35 Justice was done
 
