@@ -3882,6 +3882,25 @@
       * → **<u>Apart</u> / <u>Aside</u> from** the injuries to his face and hands, he broke both legs.
       * → **<u>Apart</u> / <u>Aside</u> from** these two books, he has written some plays and film scripts.
 
+  * 独立主格用句子来写有两个弊端, 一个是啰嗦, 一个主次不明
+    * → .... the box was full of crockery, **and much of it was broken**.(并列句)
+    * → …. the box was full of crockery, **much of which was broken**.(定语从句, 比并列句 稍微简洁, 但是依旧不如独立主格)
+
+  * 造句：这个箱子(chest) 里除了一些金条 (gold bullion）之外，装满了宝石 (precious stone)，其中大多数都是钻石。
+    * Apart from some gold bullion, the chest was full of precious stones, most of them diamonds.
+
+* → **As its composition and line <u>reminded</u> him <u>of</u> an ltalian painting <u>he knew well</u>**, he decided to buy it.
+  * **remind sb. of sth.** 使某人回忆起...
+    * → That sang always **reminds** me **of** our first date.
+    * **remind sb. about sth.** 提醒某人做某事
+      * → Can you **remind** us **about** your plans for the building?
+
+    * **remind sb. to do sth.** 提醒某人去做某事
+      * → **Remind** me **to** buy some milk tonight.
+
+  * 用独立主格改写
+    * → **<u>Its composition and line</u> reminding him of an ltalian painting he knew well**, he decided to buy it.
+
 
 ## L35 Justice was done
 
@@ -3903,4 +3922,4 @@
 
 
 
-## 36 A chance in a million
+## L36 A chance in a million
