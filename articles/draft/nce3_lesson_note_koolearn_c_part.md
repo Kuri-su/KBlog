@@ -3918,7 +3918,46 @@
 
 **## words**
 
-* 
+* **justice** n. 正义, 公正; 司法，审判 (不可数)
+  * → Children have a strong **sense of justice.**
+  * → **justice has been <u>done</u> / <u>served</u>** 正义得到了伸张
+    * → (NCE3-35 P162-L1) We might say that **justice has been done** when a man's innocence or guilt has been proved beyond doubt.
+
+  * **<u>do justice to ...</u>** / **<u>do ... justice</u>** 反应了真实水平
+    * → He didn't **do himself justice** in the exams. 他没有发挥真实水平
+    * → The photograph does not **do justice to** the rich colors of the gardens.
+
+  * **bring sb. to justice** 将某人绳之以法
+    * → The killers will **be brought to justice.**
+
+  * **Justice has long arms.** 天网恢恢, 疏而不漏.
+
+* **innocence** /ˈɪnəsəns/ n. 清白, 无辜
+  * **guilt** n. 有罪
+  * → lt now remains for the jury to decide on the defendant's **guilt** or **innocence**.
+    * jury n. 陪审团
+    * defendant n. 被告
+
+  * **be innocent of ....** 没有犯某种罪的
+    * → He **is innocent of** murder.
+
+  * **be guilty of ....** 犯了某种罪行
+    * → He **is guilty of** murder.
+
+* **undertake** /ˌʌndərˈteɪk/ v. 承担, 着手做
+  * undertake v. to accept that you are responsible for a piece of work, and start to do it 承担.…并着手做
+  * **undertake <u>a task</u> / <u>a proiect</u> / <u>research</u> / <u>a study</u> ....** 
+    * → University professors both teach and **undertake** research.
+    * → The company has announced that it will **undertake** a full investigation into the accident.
+
+  * **undertaking** n.（重要而艰巨的）任务 ,工作
+    * → The construction of the tunnel is a large and complex **undertaking**.
+    * → (NCE3-42 P196-L8) Such **undertakings** require the precise planning and foresight of military operations.
+
+* **arduous** /ˈɑːrduəs/ adj. 艰苦的, 费力的
+  * **arduous <u>task</u> / <u>work</u>**
+  * 
+
 
 **## text 1**
 
