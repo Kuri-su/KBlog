@@ -3956,7 +3956,61 @@
 
 * **arduous** /ˈɑːrduəs/ adj. 艰苦的, 费力的
   * **arduous <u>task</u> / <u>work</u>**
-  * 
+    * → the **arduous task** of loading all the boxes into the van .
+
+  * **arduous <u>journey</u> / <u>vovage</u>**
+    * → an **arduous journey** through the mountains
+
+  * 同义词
+    * **tough** adj. 艰苦的, 艰巨的; 坚韧的, 坚强的
+      * a **tough** <u>game</u> / <u>assignment</u> / <u>journey</u>
+
+    * **laborious** adj. 艰苦费力的,
+      * → Keeping the garden tidy all year round can be a **laborious** task.
+
+    * **strenuous** adj. 艰苦的, 费力的
+      * a **strenuous** <u>climb</u> / <u>walk</u>
+      * → His doctor advised him not to take any **strenuous** exercise.
+
+* **interference** /ˌɪntərˈfɪrəns/ n. 干涉, 管闲事(贬义)
+  * **interference (in ...)** 
+    * → I resent his **interference in** my work.
+      * resent vt. 对... 感到愤怒
+
+    * → They expressed resentment at outside **interference in** their domestic affairs.
+
+  * **interfere (in ...)** v. 干涉, 管闲事 (贬义)
+    * → Don't **interfere in** matters that do not concern you!
+    * → I wish my mother would stop **interfering** aand let me make my own decisions.
+
+  * 近似词 辨析
+    * **intervene (in ...)** v. 干预, (褒义)
+      * → She might have been killed if the neighbours hadn't **intervened**.
+      * → The Central Bank **intervened in** the currency markets today to try to stabilize the exchange rate.
+        * stabilize v. 使稳定
+
+    * **intervention** n. 干预 (褒义)
+      * <u>military</u> / <u>government</u> **intervention** 
+
+* **accord** /əˈkɔːrd/ n. 一致(不可数); 协议, 条约(可数)
+  * **of one's own accord** 主动地做某事, 自愿做某事
+    * → He joined the army **of his own accord.** 他自愿参军
+    * → The door seemed to move **of its own aaccord.** 这门看似自己打开了
+
+  * **with on accord** 一致地, 异口同声地
+    * → **With one accord** they all stood up and cheered.
+
+  * **be in accord with sth.** 与...相一致
+    * → These results **are in accord with** earlier research. 与...相一致
+
+  * → A peace **accord** was signed by both leaders. 双方领袖签订了一个和平条约
+
+* **convert** /kənˈvɜːrt/ v.改变(形式或用途);改变信仰
+  * **convert (sth.) to / into sth.** 把前者改变为后者
+    * → The stocks can **be** easily **converted to** cash.
+    * → They **converted** the spare bedroom **into** an office.
+
+  * → The pub is a **converted** warehouse.
 
 
 **## text 1**
