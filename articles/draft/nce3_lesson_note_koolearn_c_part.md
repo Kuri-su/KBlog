@@ -4011,6 +4011,9 @@
     * → They **converted** the spare bedroom **into** an office.
 
   * → The pub is a **converted** warehouse.
+  * → a sofa that **converts into** a bed
+  * **convert (sb.) to sth.** 改变宗教
+    * → European missionaries **converted** thousands **to** Christianity.
 
 
 **## text 1**
