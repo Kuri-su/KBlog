@@ -4014,11 +4014,93 @@
   * → a sofa that **converts into** a bed
   * **convert (sb.) to sth.** 改变宗教
     * → European missionaries **converted** thousands **to** Christianity.
+      * **missionary** n. 传教士
+      * **Christianity** n. 基督教
+
+    * → She **converted to** Catholicism.
+
+  * **convertible**  adj. 可改变的, 可变换的 n. 可改变性, 可变化性; 敞篷车
+    * a **convertible** sofa
 
 
 **## text 1**
 
-* 
+* **be associated with ...** 与...联系起来(只表示抽象联系)
+  * → (NCE3-23 P114-L10) There are countless people who, ever since their early years, have learned to **associate** snails **with** food.
+  * 同义搭配
+    * **be related <u>with</u> / <u>to</u> ** 与...联系起来(只表示抽象联系)
+    * **be connected <u>with</u> / <u>to</u> ... ** 与...联系起来(抽象/物理)
+    * **be linked <u>with</u> / <u>to</u> ...** 与...联系起来(抽象/物理)
+
+* **court of law** 法庭
+  * court n. 法庭; 朝廷; 宫廷; 球场
+
+* 造句：成功这个词常常与勤奋联系到一起.
+  * → The word success is usually associated with diligence.
+    * **diligence** n. 勤奋, 勤勉
+
+* 造句：软弱这个词常常与女人联系到一起，然而这却不总是实情。
+  * → Frailty, thy name is woman.
+    * thy = your 英文古文的用法
+    * frailty n. 虚弱; 意志薄弱; 弱点
+
+  * → Yet this is not always the case.
+  * → The word frailty is usually associated with woman, **yet** this is not always the case.
+    * yet 既能当副词, 又能当连词
+
+* → We might say <u>that justice has been done</u> **when a man's innocence or guilt has been proved beyond doubt.**
+  * **beyond (any) doubt** 毋庸置疑
+    * → The research showed **beyond (any) doubt** that smoking contributes to heart disease. 
+      * doubt n. 怀疑; 疑问 v. 怀疑
+
+    * → **beyond + n. 无法.....; 不容 .... **
+      * → The situation is **beyond my control.**
+      * → The rumor is **beyond belief.**
+      * → The results are **beyond <u>dispute</u> / <u>controversy</u>.** 
+      * → Her beauty is **beyond <u>words</u> / <u>description</u>.**
+      * → His conduct is **beyond <u>reproach</u> / <u>criticism</u>.** 
+      * → The pain is **beyond human endurance.** 
+      * → Working with you is **beyond my wildest dreams.** 和你一起工作 **做梦都不敢想**
+
+* **当“part of” 之前没有形容词修饰时 ，通常不加不定冠词“a”** (语言习惯)
+  * → **Part of** the building was destroyed in the fire.
+  * → Falling over is **part of** learning how to ski.
+    * ski v. 滑雪
+
+  * → (NCE3-41 P192-411)This idyllic pastoral scene is only **part of** the picture.
+  * → Memory loss is **a <u>normal</u> part of** the aging process.
+  * → (NCE4-43 P251-L11) ... so vast is the number of planets, that intelligent life is bound to be **a <u>natural</u> part of** the universe.
+
+* **machinery** n. organization or structure 组织，机构，体系; 机器
+  * **machinery of ... **
+  * **machinery for ...**
+    * → the **machinery <u>of</u>** government 政府机构, 政府体系
+    * → The company has no effective **machinery <u>for</u>** resolving disputes. 没有有效的机构来解决争端
+
+  * → You should not drive or operate **machinery** after taking the medicine.
+  * 表示类别的词 和 单独表示
+    * **machine → machinery** 
+    * **jewel → <u>jewelry</u> / <u>jewellery</u>** 
+    * **scene → scenery**
+    * **weapon → weaponry** 
+    * **poem →  poetry**
+
+* → Those **who seek it** undertake an arduous journey and <u>can</u> never be sure **<u>that they will find it.</u>**
+  * 指示代词 Those
+  * → (NCE3-27 P130-L13) In **seeking** independence, they do not sacrifice their human dignity.
+  * → (NCE3-44 P204-L29) You will not have to spend the next few davs recovering from a long and **arduous journey.**
+  * 造句：追求完美 (perfection） 的人要走过一段艰苦的旅程，并且永远没有把握他们能达到 (achieve)完美。
+    * → Those who seek perfection undertake an arduous journey and can never be sure that they will achieve it.
+
+* → Judges, **however wise or eminent** **(they are)**, are human <u>and</u> can make mistakes.
+  * → Metals expand when **(they are)** heated.
+  * → (NCE3-36 P166-L11) While **(he was)** on a walking tour with his wife, he stopped to talk to a workman.
+  * 造句：年轻人，无论多么年轻，多么没有经验 (inexperienced)，也应该受到尊重。
+    * → Young people, however young or inexperienced, should be treated with respect.
+
+  * 造句：罪犯，无论有多么残忍 (cruel) 或邪恶(vicious)，也是人，而且应该人道主义地（humanely)对待他们。
+    * → Criminals, however cruel or vicious, are human and should be treated humanely.
+
 
 **## text 2**
 
