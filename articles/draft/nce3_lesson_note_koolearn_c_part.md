@@ -4184,10 +4184,72 @@
 **## text 3**
 
 * → **When a thief was caught <u>on the premises of a large jewellery store</u> one morning**, the shop assistants must have found it impossible **to resist the temptation to say 'it serves him right'.** 
-  * **premises** n. [plural] the buildings and land that a shop, restaurant, company etc uses 房屋建筑物，经营场所(习惯上用复数)
+  * **premises** n. [plural] the buildings and land that a shop, restaurant, company etc uses 房屋建筑物, 经营场所(习惯上用复数)
+    * premise n. 假设
+    * promise v. 承诺
+    * **on the premises** 在经营场所内部
+      * → There is always a manager **on the premises.**
 
-  * **on the premises ...** 
-    * 
+    * **off the premises** 在经营场所外部
+      * → The manager escorted him **off the premises.**
+        * escort n./v. 陪同, 护送 
+
+  * 忍不住做某事的表达
+    * **find it impossible to resist the temptation to do ...** 忍不住做某事
+      * 造句：当我看到那只迷人的玩具熊 (fascinating teddy bear) 的时候，我忍不住买了下来。
+        * → When I saw that fascinating teddy bear, I **found it impossible to resist the temptation to** buy it.
+
+    * **can't help doing ...** 忍不住做... (做某事是无法避免的)(固定搭配)
+      * → The shop assistants **couldn't help saying** 'it serves him right'.
+
+    * **con't help but do ...** 忍不住做 (固定搭配)
+      * → The shop assistants **couldn't help but say** 'it serves him right'.
+
+* → The shop was an old converted house **with many large, disused fireplaces and tall, narrow chimneys.**  
+  * **disused** adj. 废弃不用的
+    * → Many **disused** railway lines have become public footpaths.
+    * **unused** adj. 未使用过的
+      * an **unused** envelope
+
+  * **fireplace** n. 壁炉
+  * **narrow** adj. 狭窄的, n. 狭窄部分 v. 使变窄, 变窄
+  * **chimney** n. 烟囱
+
+* **towards(英)** / **toward(美)** prep. near (a point iin time) 临近 （某一时间）
+  * → **Toward** the end of the afternoon it began to rain.
+  * → (NCE3-36 P166-L18) After having been wounded **towards** the end of the war, he had been sent to hospital and was separated from his unit.
+
+* **muffle** v. to make a sound less loud and clear, especially by covering something 使沉闷
+  * → The falling snow **muffled** the sound of our footsteps.
+  * **muffled** adj. muffled sounds cannot be heard ciearly, for example because they come from behind a door or wall 沉闷的 (声音)
+    * → I could hear **muffled** voices in the next room.
+
+* **副词和介词短语都可以作介词的宾语** 
+  * → a girl heard a muffled cry coming **from behind** one of the walls.
+  * → There is a fine view **from <u>here</u>.**
+  * → I heard them calling me **from <u>below</u>.**
+  * → (NCE3-10 P50-L12) Suddenly, there was a slight trembling sound **from <u>below</u>**, and the captain went down to see what had happened.
+  * → They have just returned **from <u>abroad</u>.**
+  * → I took my watch **from <u>under the pillow</u>.**
+  * → He picked up the gun **from <u>behind the counter.</u>**
+  * → I live **near <u>here</u>**
+  * → We didn't meet **until <u>after the show</u>.**
+  * → The weather has been fine **except <u>in the north.</u>**
+
+* → **As the cry was repeated several times**, she ran to tell the manager **<u>who prompty rang up the fire brigade</u>**. 
+  * 用定语从句的形式, 写了并列句的意思
+    * → As the cry was repeated several times, she ran to tell **the manager** <u>and</u> **the manager** promptly rang up the fire brigade.
+      * As the cry was repeated several times, she ran to tell **the manager <u>who</u>** promptly rang up the fire brigade.
+
+    * → John went to see **his bank manager** <u>and</u> **the manager** sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies!
+      * → John went to see his bank manager **<u>who</u>** sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! (NCE3-7P38- L13)
+
+    * → Much to the aristocrat's amusement, the gaoler returned a few minutes later with a pair of glasses and **the usual copy of the letter** <u>and</u> he proceeded to read **it** to the prisoner.
+      * → Much to the aristocrat's amusement, the gaoler returned a few minutes later with a pair of glasses and **the usual copy of the letter <u>which</u>** he proceeded to read to the prisoner.(NCE3-22 P110-L19)
+
+  * **promptly** adv. 1. immediately
+    * → (NCE3-14 P66-L3) Ifthe money was not paid **promptly**, the gangsters would quickly put a man out of business by destroying his shop.
+    * → (NCE3-22 P110-L16) And he **promptly** handed the sheet of paper to the gaoler.
 
 
 ## L36 A chance in a million
