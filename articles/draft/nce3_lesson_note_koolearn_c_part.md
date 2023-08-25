@@ -4104,12 +4104,90 @@
 
 **## text 2**
 
-* 
+* → **there are rare instances when ... = occasionally** 个别情况下
+  * → **There are rare instances when** love turns to hatred.
+  * **there are instances when ... = there are times when ... = sometimes** 有时候, 个别情况下
+    * → (NCE3-27 P130-L6) **There are times when** we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.
+
+  * **there was a time when ... = once** 当年, 曾经...
+  * **cease <u>to do</u> / <u>doing</u>: ** stop doing
+    * → That department has **ceased to exist.**
+    * → The factory has **ceased making** bicycles.
+    * **stop doing** 停止, 不再....
+      * → Please **stop smoking**. Smoke really bothers me.
+        * bother v. 烦扰
+
+    * **stop to do** 停下来眼前的事, 去做某事
+      * → I'm exhausted. Let's **stop to smoke**.
+        * exhausted adj. 耗尽的, 用完的; 精疲力尽的
+
+      * → **Stop to** smell the flowers. (谚语) 驻足片刻闻花香 (停下手头的工作, 去闻一闻鲜花的芬芳.)
+
+* **concept** n. 概念
+* **abstract** adj. 抽象的
+  * → Beauty itself is **abstract**.
+  * **<u>concrete</u>/<u>solid</u>** adj. 具体的, 
+    * a **<u>concrete</u>/<u>solid</u>** example
+
+* 造句：在有些情况下爱国主义 (patriotism) 不再是一个空洞的 (empty)口号 (slogan)。
+  * → **There are instances when** patriotism ceases to be an empty slogan.
+
+* → Reward or punishment <u>are</u> meted out **quite independent of human interference.**
+  * or 如果引导两个词做主语, 后面的 助动词 一般是就近原则
+    * → A man **or** a woman **<u>is</u>** waiting in the room.
+    * 但如果是强调 两者都会被施于 的话, 就用 are
+
+  * **mete sth. $\Leftrightarrow $ out (to sb.)** 给予, 加以, 施于
+    * give or administer (punishment, rewards, etc.) 给予, 加以 (奖, 惩等)
+    * → He felt he had a right to **mete out** physical punishment **to** the children.
+    * → Judges are **meting out** increasingly harsh sentences for car theft.
+
+  * **be independent of ...** 独立于..
+    * → We need a central bank that **is independent of** the government.
+    * **quite independent of ...** 在完全没有.…的情况下 （独自） (可以当作非谓语动词 在句中做状语)
+    * 造句：计算机可以在完全没有人干预的情况下发现潜在的问题并将其解决。
+      * → Computers can find out potential problems and solve them **quite independent of** human interference.
+
+    * 造句：这个小男孩在完全没有父母帮助的情况下独立完成了这个拼图游戏(jigsaw puzzle).
+      * → The little boy finished the jigsaw puzzle **quite independent of** his parents' assistance ....
+
+* → He is **living** proof of the wonders of modern medicine.
+* → **When we use a phrase <u>like 'it serves him right'</u>,** we are, <u>in part</u>, admitting **that a certain set of circumstances has enabled justice to act <u>of its own accord</u>.**
+  * '罪有应得' 的表达
+    * It serves you right. (习语搭配)
+    * You deserve it.
+    * You got what you deserve.
+    * You're asking for it.
+    * As you've made your bed, now you have to lie on it. (自作自受,)
+
+  * **in part = partly = to some degree** 在某种程度上
+    * → The accident was due **in part** to the bad weather.
+    * → Public distrust of scientists stems **in part** from the blurring of boundaries between science and technology, between discovery and manufacture.
+    * → Blacks have significantly shorter life spans, **in part** due to racism in the health establishment.
+      * black n. 黑人
+
+    * **for one's part** 对 某人来说
+      * → **For my part**, I prefer to live in the city.
+      * → Napoleon's army was weakened and the British, **for their part,** were eager to attack.
+
+    * **<u>on the part of ...</u>/ <u>on one's part</u>** 某个行为是由某人 做的
+      * → It was a mistake **on my part.**
+      * → It was a mistake **on the part of** the authorities.
+      * 阅读真题: 
+        * → It was not a matter of choice for the traveler or merely a charitable impulse **on the part of** the settlers. It reflected the harshness of daily life: if you didn't take in the stranger and take care of him, there was no one else who would. And someday, remember, you might be in the same situation.
+
+* **enable sb. to do** 使某人能做某事
+* **of one's own accord** 是某人能按照自己的意愿
+  * → He joined the army **of his own accord.**
+
 
 **## text 3**
 
-* 
+* → **When a thief was caught <u>on the premises of a large jewellery store</u> one morning**, the shop assistants must have found it impossible **to resist the temptation to say 'it serves him right'.** 
+  * **premises** n. [plural] the buildings and land that a shop, restaurant, company etc uses 房屋建筑物，经营场所(习惯上用复数)
 
+  * **on the premises ...** 
+    * 
 
 
 ## L36 A chance in a million
