@@ -4418,10 +4418,110 @@
 
 **## text1**
 
-* 
+* **A chance in a million** 微乎其微 (以夸张作为固定的习语搭配)
+
+  * 以夸张作为固定的习语搭配的用法
+    * costs an arm and a leg
+      * → I'd love to buy a Rolls-Royce, but it **costs an arm and a leg.**
+    * clapping their hands off
+      * → Everybody **was clapping their hands off.**
+    * → I **didn't sleep a wink** last night. 
+    * → He has **a skeleton of a wife.**
+      * of 可以引出比喻, 前面是喻体, 后面是本体
+
+* → We are less credulous **than we used to be.** 我们比以前更加不容易上当了.
+
+  * used to do 过去常常做, 现在不做了
+    * be used to sth. 习惯于做某事
+    * be used to doing sth. 习惯于做某事
+    * be used to do sth. 被用来做某事
+  * → We **spend** more time traveling than we **used to**. 
+    * 后面的 do 被省略, 但是 be 不能省
+  * **less + <u>adj.</u> / <u>adv.</u> + than ...** 不像... 一样
+  * **not <u>so</u> / <u>as</u> + <u>adj.</u> / <u>adv.</u> + as ..**  不像... 一样
+    * → We are **not <u>so</u> / <u>as</u>** credulous **as** we used to be.
+  * 造句: 他不像以前那么内向 (introverted)了。
+    * → He is **less** introverted **than** he used to be.
+    * → He is **not so / as** introverted **as** he used to be.
+  * 造句: 他英语说的不如以前好了。
+    * → He speaks English **less** well **than** he used to.
+    * → He does**n't** speak English **<u>so</u> / <u>as</u>** well **as** he used to.
+
+* → <u>In the 19th century</u>, a novelist <u>would</u> bring his story to a conclusion **by presenting his readers with a series of coincidences — <u>most of them wildly mprobable.</u>** 
+
+  * would
+
+    * would 和 used to do 类似，都可以表示过去习惯性的动作，如：One day in a week he <u>would</u> spend a whole day in silence. 
+    * 但注意：would 不能用在故事开头，往往在故事开头用 used to do, 而后面换为 would do，如：We <u>used to</u> work in the same office and we <u>would</u> often have coffee together.
+
+  * **bring sth. to a conclusion** 使 sth. 结束
+
+    * **conclusion** n. 结束; 结论
+      * conclusion 的意思会随着搭配改变,  
+    * → The two countries decided to **bring** the war **to a conclusion.**
+    * 得出结论的同义表达
+      * **<u>come to</u> / <u>arrive at</u> / <u>reach</u> / <u>draw</u> a conclusion** 
+    * **bring sth. to <u>a close</u> / <u>an end</u>**
+      * → The rally **was brought to <u>a close</u> / <u>an end</u>** by the singing of the national anthem.
+        * rally n. 集会, 
+    * **end / close / conclude ...** 使...结束
+      * → …,a novelist would **<u>end</u> / <u>close</u> / <u>conclude</u>** his story by ... 
+    * **bring ... to ...** 把前者带到 后者 的状态
+      * → It was the war that first **brought** him **to power**.
+      * → So far the US has been unable to **bring** him **to justice**.
+        * so far 迄今为止
+
+  * **present sb. with sth.** 把某事呈递给某人
+
+    * **present sth. to sb.**  (sb. 和  sth. 哪个短, 那个放前面)
+      * → (NCE3-22 P110-L13) He entered the cell and **presented** the letter **to** the aristocrat.
+
+  * **an series of** 一连串的
+
+    * → (NCE3-33 P154-L7) **an unforeseen series of** catastrophes
+    * 同义表达: 
+      * **a train of ...** 
+      * **a chain of ...** 
+      * **a trail of ...**
+      * **a string of**
+      * **a stream of ...**
+
+  * **coincidences** n. 巧合
+    * **by coincidences** 碰巧的是
+      * → My mother is called Anna, and **by coincidence** my wife's mother is called Anna too.
+    * **coincide with sth.** 两个事情碰巧同时发生
+      * → My arrival **coincided with** his departure.
+      * → If our schedules **coincide**, we'll go to Shanghai together.
+      * His tastes an habits ___ with those of his wife.
+        * (A) combine (B) compete **(C) coincide** (D) compromise
+      * It is fortunate for the old couple that their son's career goals and their wishes for ___ him
+        * **(A) coincide** (B) comply (C conform (D) collaborate
+
+  * → — most of them **being** wildly improbable. 独立主格结构
+    * → — most of them were wildly improbable. (X)
+    * → — **<u>and</u> / <u>but</u>** most of them were wildly improbable. (True)
+    * → — most of **which** were wildly improbable. (True, 但是还是不如原文中简洁)
+    * → (NCE3-34 P158-L17) Apart from an interesting-looking carved dagger, the box was full of crockery, **much of it broken.** 
+    * 造句：考古学家发现了十五尊雕像，每一尊代表着一位女神。
+      * → The archaeologists found fifteen statues, each of them representing a goddess.
+
+* → A long-lost brother, **who was presumed dead,** was really alive all the time <u>and</u> wickedly plotting to bring about the hero's downfall.
+
+  * **be presumed <u>dead</u> / <u>innocent</u> ... ** 被认为已经死了
+    * → Their nephew was missing, **presumed dead.**
+    * → In English law, an accused man **is presumed innocent** until he is proved guilty.
+
+  * 
+
+  
 
 **## text 2**
 
 * 
 
 ## L37 The Westhaven Express
+
+
+
+## L38 The first calender
+
