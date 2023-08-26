@@ -11,3 +11,30 @@
 
 
 
+### 破坏
+
+* spoil
+* // TODO
+
+### decision
+
+* // TODO
+
+### 公司
+
+* // todo
+
+### 估计
+
+### 大叫
+
+* exclaim
+* shout
+* scream
+
+### -right / -light / -ight 形似系列
+
+### stock / sock 形似系列
+
+
+
