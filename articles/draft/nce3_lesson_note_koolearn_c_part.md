@@ -3914,7 +3914,7 @@
     * → <u>His function is analogous to that of a judge, who must accept the obligation of **revealing** in as obvious a manner as possible **the course of reasoning** which led him to his decision.</u>
 
 
-## L35 Justice was done
+## L35 Justice was done ⭐️
 
 **## words**
 
@@ -4250,6 +4250,178 @@
   * **promptly** adv. 1. immediately
     * → (NCE3-14 P66-L3) Ifthe money was not paid **promptly**, the gangsters would quickly put a man out of business by destroying his shop.
     * → (NCE3-22 P110-L16) And he **promptly** handed the sheet of paper to the gaoler.
+    * **promptly** adv. 2. punctually
+      * → They arrived **promptly** at two o'clock.
+
+  * **<u>ring</u> / <u>call</u> / <u>phone</u> sb. $\Leftrightarrow$ up ** 给某人打电话
+    * → She uses the office phone to **ring up** her friends in Sweden.
+    * → John **called** him **up** to make sure of the date of the graduation ceremony.
+    * → I'll **phone** the manager **up** tomorrow.
+
+  * **the fire <u>brigade</u> / <u>department</u>**
+    * **<u>fireman</u> / <u>firefighter</u> / <u>fire fighter</u>**
+
+* → The cry had certainly come from one of the chimneys, <u>but</u> **as there were so many of them**, the fire fighters could not be certain **<u>which one it was.</u>**
+* → They located the right Chimney **by <u>tapping at the walls</u> and <u>listening for the man's cries</u>.** 
+  * **locate** v. discover the exact position or place of <u>sb.</u> / <u>sth.</u>
+    * **exact** adj. 精确的, vt. 强求, 要求
+      * → We couldn't **locate** the source of the radio signal.
+      * → Police are still trying to **locate** the suspect.
+
+  * **tap** v. to hit your fingers lightly on something, for example to get sb.'s attention 轻拍
+    * **tap <u>at</u>/<u>on</u>** ...
+      * → Someone **tapped <u>at</u> / <u>on</u>** the door.
+      * → (NCE4-7 P41-L5)A sound made by **tapping <u>on</u>** the hull of a ship will be reflected from the sea bottom, ...
+
+  * **listen (out) for sth.** wait alertly in order to hear (a sound)留神等着听（某声音）
+    * → Please **listen (out) for** the phone while I'm in the bath.
+    * → Can you **listen (out) for** the doorbell?
+
+  * (不佳的写法) They **knocked at** the walls <u>and</u> **listened to** the man's cries, <u>and</u> then **found** the right chimney. (用词低级通俗, 同时意思太宽泛, 重点不突出, 因为三个句子并列了) 
+    * → They <u>located</u> the right chimney **by <u>tapping at</u> the walls and <u>listening for</u> the man's cries.** (用词也比上面更加精确, 更加文言)
+
+  * (不佳的写法) → <u>Someone called the fire brigade</u> and two fire fighters **used** a special type of grease <u>and</u> then **freed** George. (用词不突出, 措辞白开水)
+    * → (NCE3-15 P70-L14) <u>The fire brigade was called</u> and two fire fighters **freed** George **using a special type of grease.** (重点突出, 文言准确)
+
+* → **After chipping through a wall <u>which was eighteen inches thick</u>**, they found **that a man had been trapped in the chimney.** 
+  * **inch** n. 英寸
+    * **foot** n. foot
+
+  * **chip** v. 凿
+    * → It took a long time to **chip** a hole in the wall.
+    * → Archaeologists were carefully **chipping** away at the rock.
+
+  * **trap** v. to prevent sb. from leaving a place, especially a dangerous place
+    * → Twenty miners **were trapped** underground.
+    * → There's no way out! We**'re trapped**!
+
+  * **<u>be</u>/<u>get</u> stuck** 被卡住 (stick  卡住)
+    * → (NCE3-15 P7O-L13) A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George **was firmly stuck.**
+    * → (NCE3-35 P162-L20) The sorrylooking, blackened figure that emerged, admitted at once that he had tried to break into the shop during the night but had **got stuck** in the chimney.
+
+  * **be cornered** 被逼到绝境
+    * cornered vt. 把...逼入绝境
+      * → (NCE3-1 P14-L8) 1t immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it **is cornered.**
+
+  * **be kept in ...** 被关在...里
+    * → (NCE3-8 P42-L12) As there are so many people about, the dogs have to **be kept in** a special enclosure.
+
+  * **be imprisoned** 被关到监狱里
+    * → (NCE3-22 P110-16) A famous actor in a highly successful play was once cast in the role of an aristocrat who had **been imprisoned** in the Bastille for twenty years.
+
+* → **As it was extremely narrow**, the man was unable to move, <u>but</u> the fire fighters were eventually able to free him <u>by cutting a huce hole in the wall.</u>
+  * **extremely** adv. 极其地, 极端地
+  * **narrow** adj. 狭窄的, 有限的
+  * → (NCE3-31 P146-L14) **As it was extremely heavy**, he dumped it on the counter.
+  * → (NCE3-15 P70-L14) The fire-brigade was called and two fire fighters **freed** George using a special type of grease.
+
+* → The sorry-looking, blackened figure **that emerged**, admitted at once **that he had tried to break into the shop during the night <u>but</u> had got stuck in the Chimney.**
+  * **sorry** adj. feeling <u>ashamed</u> or unhappy about something bad you have done. 羞愧; 抱歉
+    * → She **was** genuinely **sorry for** what she had done.
+      * **genuinely** adv. 由衷地, 真诚地
+
+    * 构词法
+      * → the **sorry-looking,** blackened figure 看上去羞愧的
+      * → (NCE3-3 P22-L15) a very **modern-looking** woman 看上去摩登的
+      * → (NCE3-34 P158-L17) an **interesting-looking** carved dagger 看上去有意思的
+      * → (NCE3-48 P220-L21) an **ugly-looking** black goat
+
+  * **blacken** v. to become black, or make something black 
+    * → The thunder became louder and the sky **blackened**.
+
+  * **figure** n. someone with a particular type of appearance or character, especially when they are far away or difficult to see
+    * → (NCE3-2 P18-L8) In the torchlight, he caught sight of a **figure** whom he immediately recognized as Bill Wilkins, our locar grocer.
+    * → (NCE3-30 P142-16) A farm worker, who stayed up all night, claimed to have seen a **figure** cutting corn in the moonlight.
+
+  * **break into sth.** to enter a building or car by using force, in order to steal sth.
+    * in order to prep. 为了
+    * → Someone **broke into** my car and stole the radio.
+    * → Her house **was broken into** last week.
+    * **break in**: to enter a building by using force, in order to steal sth.
+      * → If anyone tries to break in, the alarm will go off.
+
+    * **force an entry** : 强行闯入
+      * → (NCE3-58 P260-L11) It was as clear as daylight then that burglars had **forced an entry** during her absence.
+
+* **hand sb. over to ...**: give a prisoner to another group of people, especialy the police or the people in authority in another country
+  * → The terrorists were taken to the airport, where they **were handed over to** the French authorities.
 
 
 ## L36 A chance in a million
+
+**## words**
+
+* **credulous** /ˈkrejələs/ adj. 轻信的 (轻贬义)
+  * → Anna is so **credulous** that she'll believe anything you tell her.
+  * **naive** adj. 天真的 (贬义)
+  * 词根 **'cred'= believe** 
+    * **credit** n. 信用; 赊账 
+      * **credit card**
+    * **credulous** adj. 轻信的
+      * **incredulous** adj. 不轻信的, 不容易上当的 (褒义)
+    * **credible** adj. 可信的
+      * **incredible** adj. 让人难以相信的
+    * **credentials** n. 证书；证件
+* **obscure** /əbˈskjʊr/ adj. 不起眼的, 不出名的; 难以理解的
+  * **obscure**: 1. unknown; little-known
+    * an **obscure** little village 不起眼的小村庄
+    * an **obscure** maidservant 不起眼的女佣人
+    * **remain obscure** 一直默默无闻
+      * → The environment is obviously important, but its role has **remained obscure.**
+    * 著名的, 知名的, 大名鼎鼎的 adj.
+      * **well-known;** 
+      * **famous;** 
+      * **noted;** 
+      * **notable;** 
+      * **eminent;**  杰出的, 大名鼎鼎的
+      * **celebrated;**  杰出的, 大名鼎鼎的
+      * **renowned;**  杰出的, 大名鼎鼎的
+  * **obscure**: 2. hard to understand (晦涩难明)
+    * Very few people could understand his lecture because it was very ___.
+      * (A) faint **(B) obscure** (C) gloomy (D) indefinite
+* **presume** /prɪˈzuːm/ v.假定,推测,认为
+  * → From the way they talked, I **presumed (that)** they were a couple.
+  * **be presumed <u>dead</u> / <u>innocent</u> ... **
+    * → (NCE3-36 P166-L5) A long-lost brother, who **was presumed dead**, was really alive all the time and wickedly plotting to bring about the hero's down-fall.
+    * → You **are presumed innocent** until you are proved guilty.
+  * **believe think suppose assume** 推测, 估计, 认为...
+    * → (NCE3-36 P166-L11)... a German taxi driver, Franz Bussman, found a brother who **was thought to have been killed** twenty years before.
+    * → (NCE3-30 P142-L12) Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who **was supposed to have died** as a young man.
+  * **be under the impression that ... 还以为 ...**
+    * → (NCE3-32 P150-L10) Though the crew **were** at first **under the impression that** the lost ship had been found, the contents of the chest proved them wrong.
+  * **take it for granted that ... 想当然地认为 ...**
+    * → You can't **take it for granted that** the children will behave themselves.
+* **plot** /plɑːt/ v. 秘密谋划，暗中策划 n. 阴谋诡计; 故事; 情节
+  * **plot to do = scheme to do** 
+    * → The criminal was **<u>plotting</u> / <u>scheming</u> to** rob the bank.
+  * **conspire to do**  合谋; 多个事情凑一块导致了某事 (多指不愉快的事)
+    * → The criminals **were conspiring to** rob the bank. 
+    * → Bad weather and car trouble **conspired to** ruin our vacation.
+* **resemblance** /rɪ'zɛmbləns/ n. 相似
+  * **resemble** v. 和... 很像
+    * → She closely **resembles** her mother in every way.
+  * **bear a resemblance to ...** 表现出了....的相似
+    * bear v. 表现出
+    * → The lady **bears a resemblance to** my mother.
+    * → The lady **bears a close resemblance to** my mother.
+    * → The lady **bears no resemblance to** my mother.
+  * → Your school may have done away with winners and losers, but life has not. In some schools they have abolished failing grades; they'll give you as many times as you want to get the right answer. This **doesn't bear the slightest resemblance to** anything in real life.
+* **acquaint** /əˈkweɪnt/ v. 使熟悉 或 了解
+  * **<u>be</u> / <u>get</u> / <u>become</u> acquainted with ...**
+    * → I**'m not acquainted with** him.
+    * → He **became acquainted with** the work.
+  * **<u>be</u> / <u>get</u> / <u>become</u> familiar with ...** 对于某人某物很熟悉
+    * → He **was familiar with** the work.
+    * → The work **was familiar to** him.
+  * **acauaintance** n. 熟人
+    * → He is my only **acquaintance** in the little town.
+
+**## text1**
+
+* 
+
+**## text 2**
+
+* 
+
+## L37 The Westhaven Express
