@@ -4957,7 +4957,14 @@
     * → (NCE2-62 P284-L7) When the fire had at last been put out, **the forest authorities** ordered several tons of a special type of grass-seed which would grow quickly.
   * **go wrong** 出错，出问题，不顺利
     * → (NCE3-33 P154-L1) We have all experienced days when everything **goes wrong.**
-  * 
+  * 造向：当问题和困难确实出现 (arise）的时候，我们很容易放弃自己的梦想。
+    * → It's all too easy to give up our dreams when problems and difficulties do arise.
+* → The truth is **that <u>when mistakes occur</u>, they are more likely to be ours than theirs.**
+  * occur = happen
+  * more...  than.... 有时可译为 “与其说 (后者）不如说（前者）”特别是 more 和 than 后跟同样词性或结构时。
+    * → It is **more** <u>a poem</u> **than** <u>a picture.</u>
+    * → He is **more** <u>diligent</u> **than** <u>clever</u>.
+    * → The present crisis in capitalist countries is **more** <u>a political</u> **than** <u>an economic crisis.</u>
 
 **## text 2**
 
