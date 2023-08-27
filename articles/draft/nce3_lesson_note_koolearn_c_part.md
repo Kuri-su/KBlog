@@ -4505,23 +4505,433 @@
     * 造句：考古学家发现了十五尊雕像，每一尊代表着一位女神。
       * → The archaeologists found fifteen statues, each of them representing a goddess.
 
-* → A long-lost brother, **who was presumed dead,** was really alive all the time <u>and</u> wickedly plotting to bring about the hero's downfall.
+* → A long-lost brother, **who was presumed dead,** was really alive all the time <u>and</u> wickedly <u>plotting</u> to bring about the hero's downfall.
 
   * **be presumed <u>dead</u> / <u>innocent</u> ... ** 被认为已经死了
     * → Their nephew was missing, **presumed dead.**
     * → In English law, an accused man **is presumed innocent** until he is proved guilty.
 
-  * 
+  * a 开头的形容词一般不能做前置定语修饰名词, 要么做表语, 一般做补语,  (alive)
+    * → (NCE3-27 P130-L18) He may hunt, beg, or steal occasionally to keep himself **alive**, ...
+    * **living** ,  all **living** things ,  **living** proof (活生生的证明)
+      * → (NCE3-35 P162-L8) At such times, justice acts like a **living** force.
 
-  
+    * **live** adj. 活着的; 现场的; 有电的
+      * experiments on **live** animals
+      * be transmitted **live**
+      * Is the wire **live**?
+
+  * ... and wickedly **scheming** to ... **(True)**
+  * …. and wickedly **conspiring** to... **X** (上文就一个人, 不能用合谋)
+  * a **plot** to assassinate the President 一个暗杀总统的阴谋
+    * **scheme** v 策划, 图谋, n. 阴谋, 诡计, 计划, 方案
+    * **intrigue** vi. 搞阴谋诡计 vt. 激起 ..  的好奇心 n. 密谋策划, 阴谋
+    * **conspiracy** n. 合谋, 
+    * **schemes and intrigues** 阴谋诡计 (同义词连用, eg. 千刀万剐, )
+      * → All the imperialist **schemes and intrigues** are doomed to failure.
+        * **be doomed to ...** 注定会...
+          * **doom** vt. 注定, n. 厄运, 劫数
+
+        * **imperialist** n. 帝国主义者
+
+  * **downfall** n. 1. fall from a position of prosperity or power
+    * → Greed led to his **downfall**.
+      * greed n. 贪婪, 贪心
+
+    * downfall n. 2. thing that causes this 垮台的原因
+      * → His vanity was his **downfall**.
+      * **undoing** n. 垮台,取消, 毁灭 的原因, vt. (undo 的 ing 形式) 解开, 取消
+        * → The team's weak defense was their **undoing**.
+        * → (NCE3-50 P228-L29) That proved to be my **undoing**, for l soon got back to my old bad habit of dozing off in front of the screen.
+
+  * 等等... 的表达
+    * **and soon** 
+    * **and so fotth** 
+    * **and the like** 
+    * **and what not** 
+    * **etc. (et cetera)**
+
+* → Modern readers would **find** <u>such naive solutions</u> **totally unacceptable.** (主谓宾补)
+
+  * such adj. 这样的, 如此的
+  * solution n. 解决, 解答; 结局, 结尾
+  * **unacceptable** adj. 无法接受的
+    * **improbable** adj. 不大可能的
+    * **incredible** adj. 难以置信的
+    * **unbelievable** adj. 难以相信的
+    * **inconceivable** adj. 难以想象的
+    * **unconvincing** adj. 没说服力的
+    * **preposterous** adj. 荒诞离奇的
+
+  * 造句：中国学生会觉得这么简单的考试是完全无法相信的。
+    * → Chinese students would find such easy examinations <u>totally</u> incredible.
+      * **totally** adv. 完全地
+
+  * → (NCE3-32 P150-L10) Though the crew were at first under the impression that the lost ship had been found, the contents of the chest **<u>proved</u>** them **wrorg**.
+    * 造句：事实证明他们的担心是多余的。 
+      * → The facts **proved** <u>their worries</u> **unnecessary**. 
+
+    * 造句：事实证明他的指责毫无根据。
+      * → The facts **proved** <u>his accusations</u> **totally groundless.**
+
+  * → (NCE3-23 P114-L2) If you lived in the Mediterranean, for instance, you <u>would</u> **consider** <u>octopus</u> **a great delicacy.**
+    * 造句：如果你住在北京，你就会把豆汁儿 (Douzhir) 当作一道美味佳肴。
+      * → If you lived in Beijing, you would **consider** <u>Douzhir</u> **a great delicacy.**
+
+    * 造句：如果你住在中国东北地区 (the Northeast of China)，你就会非常喜欢滑冰。
+      * → If you lived in the Northeast of China, you would **consider** <u>skating</u> **a great pleasure.**
+
+* → <u>Yet</u>, <u>in real life</u>, circumstances do sometimes conspire to bring about coincidences **which anyone <u>but a 19th century novelist</u> would find incredible.**
+
+  * **circumstances** n. 条件, 情况
+    * → **Under no circumstances** <u>should</u> you approach that man.
+      * 任何情况下, 你都不要接近那个人
+
+    * → **Due to Circumstances beyond our control, ...** 由于出现无法无法控制的情况
+
+  * coincidences n. 巧合
+  * incredible adj. 不能相信的, 不可信的; 难以置信的
+  * **in real life**
+    * **in the real world**
+
+  * **conspire to do sth.** 
+    * 如果两个人 做主语, 表示合谋做某事...
+    * 如果事情做主语的话, 表示很多事凑到一块的, 促成了某个结果的发生
+    * → Faling demand and high interest rates have **conspired to** produce a big drop in profits.
+
+  * **but** 作介词表示 '除了'
+    * → Nobody **but** Robert would do such a thing.
+    * → Who **but** a fool would do such a thing?
+    *  → His house is **the last but one** in the street.
+      * 这条街的倒数第二间就是他的房子(他的房子在这条街倒数第二的位置) 
+
+    * → Take **the next turning but one** on your left. 
+      * 左手边的 第二个路口 (除了这个的下一个 the next turning but one)
+
+    * **but 后可跟不定式 (to) do** 
+      * 如果but 之前有实意动词, 那么后面的 to 一般省略, 如果没有出现实意动词 , 那么 to 一般不省略
+        * → We have nothing to **do** but **wait** here. 
+        * → We have no choice but **to wait** here.
+
+
+  * 造向：在现实生活中，有时确实很多情况会凑到一起导致一连串的大灾难，而这些事情除了受害者之外可能谁也不会相信。
+    * → In real life, circumstances do sometimes conspire to bring about a series of catastrophes which anvone but the victims would find incredible.
+
+**## text 2**
+
+* → <u>When I was a boy</u>, my grandfather told me **how a German taxi driver, <u>Franz Bussman</u>, found a brother who was thought to have been killed <u>twenty years betore.</u>**
+  * When a boy, ... **X**
+    * In my childhood, ...
+    * In my early years, ...
+    * in my teens, ...
+    * In my adolescence, ...
+    * In my youth, ...
+
+  * → (NCE3-30 P142-L12) Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who **was supposed to have died** as a young man.
+  * previously adv. 事前, 从前
+
+* **Stop to** smell the flowers. 
+  * stop doing 停止正在做的事
+  * stop to do 停止正在做的事, 去做 do 的事
+  * → I'm exhausted. Let's **stop to smoke.**
+  * → Please **stop smoking**. Smoke really bothers me.
+  * **cease <u>to do</u>/<u>doing</u>** = stop doing
+
+* → **After they had gone on**, Mrs. Bussman commented on <u>the workman's close resemblance to her husband</u> <u>and</u> even suggested **that he might be his brother.**
+  * **resemblance** n. 相似, 形似
+    * **bear a close resemblance to ...**
+    * **closely resemble ...**
+    * Mrs. Bussman <u>commented</u> / <u>remarked</u> that **the workman <u>bore a close resemblance to her husband</u> / <u>closely resembled her husband</u>.** 
+
+  * 表示建议的单词后面得用虚拟语气
+  * suggested adj. 暗示的
+  * **comment on ..**
+    * → I don't want to **comment on** other people's views.
+    * **No comment** 无可奉告
+    * **comment that ....** 评论道...
+      * 同义词 
+        * **remark on ...**
+          * remark n./v. 评论
+
+        * **remark that ...**
+
+* → Franz poured scorn on the idea, **pointing out <u>that his brother had been killed in action during the war</u>.**
+  * **pour** n./v. 倾泻, 倾倒
+    * **pour scorn on ...** 对.... 嗤之以鼻
+      * **pour contempt on ...** 对.... 嗤之以鼻
+      * **pour ridicule on ...** 对.... 嗤之以鼻
+
+    * **pour cold water on ...** 给 .... 泼冷水
+
+  * KIA(kill in action)
+  * Franz didn't take the idea seriously. 
+    * take the idea seriously 重视某个想法...
+
+  * pointing out that .... 指出, 提示...
+    * →  ..,**reminding her that** his brother had been killed ...  提示...
+    * → I must **point out that** you are making a dangerous mistake.
+    * → (NCE3-40 P182-L19) At this, the police **pointed out** ironically **that** this would hardly be necessary as the men were already under arrest.
+
+  * → (NCE3-30 P142-L18) His father told everybody that Eric **had been killed in action.**
+
+* → **Though Mrs. Bussman was fully acquainted with this story**, she thought **that there was a chance in a million <u>that she might be right.</u>**
+  * **be acquainted with ....**  熟悉某物
+    * **be familiar with ...**
+      * → Though Mrs. Bussman **was <u>fully</u> familiar with** this story, ...
+
+  * 极小的可能性
+    * → …, she thought there was **the <u>slightest</u> / <u>remotest</u> chance that** she might be right.
+
+  * 造句：尽管这位侦探非常了解这位老 太太对周围每一个人总是这么好，但他认为仍有一丝可能这位老太太就是谋杀犯。
+    * Though the detective was fully acquainted with the fact that the old lady was always so kind to everybody, he thought that there was a chance in a million that she might be the murderer. 
+
+* **needless to say**  不必说
+  * **as you can imagine** 正如您能想象到的那样
+  * → (NCE3-46 P212-L30) **Needless to say** our house is now surrounded by a jungle.
+
+* → **When the brothers were reunited**, Hans explained **how <u>it</u> was <u>that he was still alive</u>.**
+  * **be reunited (with) ...** 团聚, 重逢...
+    * → The lost children **were reunited with** their parents.
+
+  * **how it was**: how it happened
+    * 造句：当Eric 回到农场后，他解释了他是怎么从团里逃出来的。
+      * → When Eric returned to the farm, he explained how it was that he deserted his regiment.
+
+* After he had been wounded, ... 在他受伤后...
+* **<u>towards(英)</u>** / **<u>toward(美)</u>** midnight 临近午夜
+  * → (NCE3-35 P162-L13) **<u>Towards</u>** midday, a girl heard a muffled cry coming from behind one of the walls.
+
+* **send sb. to hospital** 把某人送医
+  * **take sb. to hospital**  把某人送医
+    * → (NCE3-29 P138-413) A man who had broken his right leg **<u>was taken to hospital</u>** a few weeks before Christmas.
+
+  * **be in hospital** 住院
+    * → (NCE3-29 P138-419) To compensate for his unpleasant experiences **in hospital**, the man drank a little more than was good for him.
+
+  * **be hospitalized** 住院
+  * **<u>be out of</u> / <u>leave</u> hospital**
+    * → (NCE3-29 P138-L17) The following day, however, the doctor consoled him by telling him that his chances of being able to **<u>leave hospital</u>** in time for New Year celebrations were good.
+
+* **separate ... from ...** 把 sth. 和 sth. 隔离开
+  * → Theory should never **be separated from** practice.
+  * **cut ... off from ...** 把 sth. 和 sth. 隔离开
+    * → She realized that he was trying to **cut** her **off from** her friends.
+
+  * **isolate ... from ...** 把 sth. 和 sth. 隔离开
+    * → He **was isolated from** all the other prisoners.
+    * isolate vt. 使孤立, 
+
+  * **segregate ... from ...** 把 sth. 和 sth. 隔离开 (通常是 因为人种, 性别)
+    * → Blacks **were segregated from** whites in every area of life.
+
+* **make one's way** 前往某地 
+  * → I **made my way** <u>to the house.</u>
+  * → I **made my way** <u>into the backyard.</u>
+  * → I **made my way** <u>along the river</u>
+  * → I **made my way** <u>up the stairs.</u>
+  * → (NCE3-48 P220-L30) Turning back down the main street, we quickened our pace and **made our way** rapidly <u>towards the stream</u> where we hoped the boatman was waiting.
+  * **feel one's way** 摸索着前进
+    * → The room was dark, so 1 had to **feel my way** along the wall to the door.
+
+  * **edge one's way** 侧身前进
+    * → (NCE3-42 P196-L19) They had to **edge their way** along this, sometimes wading across shallow streams, or swimming across deep pools.
+
+  * **<u>force</u> / <u>elbow</u> one's way** 硬挤过去
+    * → He **<u>forced</u> / <u>elbowed</u> his way** through the crowd.
+
+  * **find one's way** (人做主语)找到道路 / (物做主语)到达某地
+    * → (NCE3-15 P70-L8) Very few of the fifty pence pieces and pound coins I have given him have **found their way** there.
+
+  * **<u>wind</u> / <u>trace</u> one's way** 蜿蜒前进
+    * → The river **winds its way** through the valley.
+    * → (NCE3-48 P220-L13) We expected the path to end abruptly, but we found that it **traced its way** through the trees.
+
+* → Hans returned to his family home, <u>but</u> the house had been bombed <u>and</u> no one <u>in the neighbourhood</u> knew **what had become of the inhabitants.**
+  * **become of sb./sth.** 某人怎么样了, 某物下落如何... 
+    * → What has **become of** Jane?
+    * → Whatever **became of** the parcel you sent?
+
+  * 人的下落
+    * → No one in the neighborhood knew his family's **whereabouts**.
+      * whereabouts 习惯用复数
+
+    * → Despite numerous searches and enquiries, her **whereabouts** are stil unknown.
+      * numerous 无数的
+
+  * **inhabitants** n. 居民
+    * **inhabit** vt. 住在某个地方
+      * → In the future people may **inhabit** other planets.
+
+    * **cohabit with ..** 与某人同居 (男女朋友间)
+      * **cohabitant** 同居者
+
+    * **habitat** n. 栖息地
+
+
+* → **Assuming that his family had been killed during an air raid**, Hans settled down in a village 50 miles away **where he had remained ever since.**
+  * **settle down** 安居 , 定居 (尤指结婚生子)
+    * → (NCE2-38 P174-12) He had often dreamed of retiring in England and had planned to **settle down** in the country.
+  * **assuming （that)…** 以为; 假定,假如
+    * → **Assuming (that)** the man was making a homosexual advance, he stormed out of the house angrily. (以为)
+    * → **Assuming (that)** the house is for sale, would you buy it? (假如)
+    * → (NCE3-44 P204-L13) You can stretch your legs on the spacious decks, play games, swim, meet interesting people and enjoy good food-always **assuming**, of course, **that** the sea is calm. (假如)
+    * **even assuming (that)**….= even if ...
+      * → **Even assuming (that)** smokers do see the health warnings, I doubt they'll take any notice.
+  * → ..., Hans settled down <u>in a village 50 miles away</u> <u>**and**</u> **he had remained <u>there</u> ever since.**
+    * 
+
+## L37 The Westhaven Express
+
+**## words**
+
+* **express** /ɪkˈspres/ n.快车；快递;ad.快速的
+  * **<u>express</u> / <u>express train</u>** 快车
+    * → the 8.00 am **express** to Edinburgh
+    * → the Beijing to Shanghai **express**
+  * send goods by **express** 用快递寄送商品
+  * an **express** <u>train</u> / <u>coach</u> / <u>bus</u>
+    * coach n. 长途车
+  * **express** delivery services 快递服务
+    * delivery n. 送货, 
+  * **<u>expressway(美)</u> / <u>freeway(美)</u> / <u>motorway(英)</u>** 高速公路 
+    * → (NCE3-44 P204-L10) On **motorways** you can, at least, travel fairly safely at high speeds, ....
+* **condition** /kənˈdɪʃn/ v. 训练，影响，使习惯或适应...... n. 状况, 状态
+  * **condition** v. to train or influence a person or animal mentally so that they do or expect a particular thing without thinking about it 训练，影响，使习惯或适应....
+  * → People **are conditioned by** the society in which they live.
+  * **condition sb. to do sth.** 训练影响某人
+    * → Pavlov **conditioned** dogs **to** salivate at the sound of a bell.
+    * → Many women **are conditioned** from birth **to** be accepting rather than questioning.
+  * **conditioning** n. [U] 潜移默化的影响
+    * → **Conditioning** starts as soon as boys are given guns to play with and girls are given dolls.
+    * → **Social conditioning** makes crying more difficult for men.
+* **exceptionally** /ɪkˈs ɛpʃənəlɪ/  adv.例外地,反常地;极其
+  * → **Exceptionally**, students may be accepted without formal qualifications. 
+  * an **exceptionaly** talented player
+    * talented  有天分的
+  * → The weather was **exceptionally** cold. 
+  * **exceptional** adj .例外的，反常的；杰出的，非凡的 (褒义)
+    * → This is an **exceptional** case; I've never seen anything like it before.
+    * → The child had shown **exceptional** courage.
+    * → Her scores are quite **exceptional**.
+    * **extraordinary** adj. 特别的, 非凡的
+      * her **extraordinary** beauty
+      * → Nelson Mandela is a truly **extraordinary** man.
+    * **remarkable** adj. 非凡的, 
+      * a **remarkable** feat 
+        * feat n. 功劳, 成绩
+      * a **remarkable** achievement
+        * achievement n. 成就, 成绩
+  * **exception** n. 例外的情况 
+    * → (NCE3-27 P130-L11) Tramps seem to be the only **exception to** this general rule.
+    * → We all laughed, **with the exception of** Maggie.
+    * → Each plant, **without exception,** contains ssome kind of salt.
+* **dislocate** /ˈdɪsloʊkeɪt/ v.打乱, 扰乱; 使脱臼
+  * → Flights have been **dislocated** by the fog.
+    * flight n. 航班
+    * fog n. 雾
+  * → (NCE3-37 P170-L5) Only an exceptionally heavy snowfall might temporarily **dislocate** railway services.
+  * **dislocate** one's ankle / wrist . .
+    * ankle n. 脚踝
+    * wrist n. 手腕
+  * a **dislocated** finger 一个脱臼的手指
+  * **dislocation** n. 混乱; 脱臼
+    * → These policies could cause severe economic and social **dislocation**. 
+    * a **dislocation** of the shoulder
+* **blame** /bleɪm/ v. 责备
+  * **blame** v. to. say or think that sb. or sth. is responsible for sth. bad 责备
+  * → A bad workman **blames** his tools. 拙匠怪工具
+  * blame sb. / sth. for sth. 因为某事责怪某人某物
+    * → They **blamed** George **for** the failure.
+
+  * blame sth. on sb./ sth. 把某事责怪到某人或某物头上
+    * → They **blamed** the failure **on** George.
+  * **<u>sb.</u> / <u>sth.</u> is to blame (for sth.)** 都怨某人, (因为某事)
+    * → George **is to blame for** the failure.
+  * 批评 的 同义表达
+    * **<u>reprimand</u> / <u>rebuke</u> sb. for sth. ** 上下级之间的批评
+      * → I **was <u>reprimanded</u> / <u>rebuked</u>** by my manager **for** being late.
+      * → (NCE3-31 P146-L16) Recognizing who the customer was, the manager was most apologetic and **reprimanded** the assistant severely.
+    * **accuse sb. of sth.** 气愤的指责
+      * → (NCE3-16 P74-L10) Dimitri immediately went to Aleko's house and angrily **accused** him **of** stealing the lamb.
+    * **criticize sb. for sth.** 因为某事责备某人
+      * → He **was criticized for** his delay in dealing with the matter.
+    * **censure sb. for sth.**  严厉的批评
+      * → Ministers **were censured for** their lack of decisiveness during the crisis.
+        * decisiveness n. 果断
+    * **scold sb. for sth.**  大人对小孩的批评
+      * → His mother **scolded** him **for** breaking her favorite vase.
+    * **reproach sb. for sth.** 由于未能做某事, 而责怪某人
+      * → He **reproached** me **for** not answering his letter.
+    * **A condemn  <u>for</u> / <u>as</u> B** 
+      * 如果用 for 就是因为 B 而谴责 A, 如果用 as 就是 将 A 谴责为是 B
+      * → The movie **was condemned for** its sexism.
+      * → The terrorist attack **was condemned as** an act of barbarism and cowardice.
+* **consult** /kənˈsʌlt/ v. 向...….请教；查阅
+  * **consult** <u>an expert</u> / <u>a doctor</u> / <u>a lawver</u> ... 向... 请教
+    * → If symptoms persist, **consult** a doctor without delay.
+  * **<u>consult</u> / <u>refer to</u>** a <u>timetable</u> / <u>map</u> / <u>dictionary</u> ... 查阅
+    * → (NCE3-37 P170-L9) After **consulting** my railway timetable, I noted with satisfaction that there was an express train to Westhaven.
+    * → (NCE3-39 P178-L19) Bruce **consulted** the map once more and told us that the village was now only fifteen miles away.
+    * **<u>consult</u> / <u>refer to</u>** a dictionary **for** the word 在字典里查单词
+    * **look up** the word **in** a dictionary  在字典里查单词
+* **direct** /dəˈrekt/ adv. 中途不停地;不经中间环节地 
+  * **direct** adv. 1. without stopping or changing direction **= directly**
+    * → The train goes there **<u>direct</u> / <u>directly</u>.**
+  * **direct** adv. 2. with no one in between **= directly**
+  * direct 只要当 adv. 就能换成 directly
+    * → He decided to contact the manager **<u>direct</u> / <u>directly</u>.**
+  * direct 不能限定或者修饰别的词, 只能单独用
+    * → He's **directly ($\ne$ direct)** responsible to the boss.
+    * → The new property tax law won't **directly ($\ne$ direct)** affect us.
+* **triumph**  /ˈtraɪʌmf/ n. 胜利，成功（的喜悦) ; v. 获得成功，取胜
+  * → one of the **triumphs** of modern science
+  * → The winning team returned home **in triumph.**
+  * → There was **a note of triumph** in her voice.
+    * a note of triumph 得意洋洋的语气
+  * Arch of **Triumph** 凯旋门
+  * **triumph over** 战胜
+    * → In the end, good shall **triumph over** evil.
+  * **triumphant** adj. 胜利的
+    * a **triumphant** cheer
+  * **triumphantly** adv. 耀武扬威地; 得意洋洋地
+    * → (NCE3-54 P244-415) Who has not stood in awe at the sight of a spider pouncing on a fly, or a column of ants **triumphantly** bearing home an enormous dead beetle ?
+* **asterisk** /ˈæstərɪsk/ n. 星号(*)
+  * **"astr" /"aster” = star**
+  * **astr**onomy n. 天文学
+  * **astr**onomical adj. 天文学的; 天文数字的
+  * **astr**ology n. 占星术
+  * **astr**onautics n. 航天学
+  * **astr**onaut n. 宇航员
+  * dis**aster** n. 大灾难 (灾星, 不好的星星)
+    * dis 不好的, 
+  * **aster**isk n. 星号
+  * **aster**oid n. 小行星
+
+**## text 1**
+
+* <u>great</u> / <u>enormous</u> / <u>tremendous</u> **faith** 巨大的信心
+  * **faith** n. 信心, 信任
+  * <u>absolute</u> / <u>implicit</u> **faith** 绝对的信心, 
+  * <u>complete</u> / <u>total</u> **faith **完全的信心
+  * unshakeable **faith** 丝毫不会动摇的信心
+  * blind **faith** 盲目的信心
+  * **develop faith in ...** 对...逐渐产生了信心
+    * **have faith in ...** 对...有信心
+    * **<u>put</u>/<u>place</u> faith in ...** 对... 倾注了信心
+    * **<u>shake</u> / <u>undermine</u> faith in ...** 削弱/动摇了对 ...信心....
+    * **destroy faith in ...** 摧毁了对 ... 的信心
+    * **lose faith in ...** 失去了对...的信心
+    * **restore faith in ....** 恢复了对... 的信心
+* **timetable / schedule** 时间表
+  * <u>train</u> / <u>railway(英)</u> / <u>railroad(美)</u> **~**
+  * <u>college</u> / <u>school</u> **~**
+  * <u>exam</u> / <u>examination</u> **~**
+* → Ships may be delayed by storms; flights may be cancelled because of bad weather; **but** trains must be on time.
+  * 
 
 **## text 2**
 
 * 
-
-## L37 The Westhaven Express
-
-
 
 ## L38 The first calender
 
