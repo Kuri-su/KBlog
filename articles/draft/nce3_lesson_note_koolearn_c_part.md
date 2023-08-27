@@ -4927,6 +4927,36 @@
   * <u>college</u> / <u>school</u> **~**
   * <u>exam</u> / <u>examination</u> **~**
 * → Ships may be delayed by storms; flights may be cancelled because of bad weather; **but** trains must be on time.
+  * 分号隔开的句子表示句子之间是并列关系,
+    * → (NCE3-27 P130-L18) He may hunt, beg, or steal occasionally to keep himself alive; he may even, in times of real need, do a little work; but he will never sacrifice his freedom.
+* **snowfall** v. 降雪 n. [U&C] 降雪；降雪量
+  * <u>heavy</u> / <u>light</u> **snowfall**
+  * <u>annual</u> / <u>average</u> **snowfall** 年均/平均 降雪量
+* **temporary** adj. 临时的, 暂时的
+  * → (NCE3-25 P122-L14) A **temporary** rudder was made on board from spare planks and it was fitted with great difficulty.
+* → <u>It</u> is all too easy <u>to blame the railway authorities</u> **when something does go wrong.**
+  * **too ... to ...**
+    * → He was **too** excited **to** say a word. 太... 以至于...
+    * 如果 too 后面的形容词是 指定的4类的形容词, 则需要翻译成 **做某事非常....**
+      * glad / pleased ... 高兴的
+      * ready / willing ... 乐意的
+      * easy / apt ... 容易的
+      * eager / anxious .. 迫切的
+        * → I'm <u>too</u> **pleased** <u>to</u> help you. 我太高兴帮助您了
+        * → She is <u>too</u> **willing** <u>to</u> marry him. 她非常愿意嫁给他
+        * → He's <u>too</u> **eager** <u>to</u> pass the exam. 他非常迫切的想通过考试
+    * **(only / all / but)(adj.)** too ... to ... 用来加强语气, 不翻译出来
+      * → It is **<u>all</u>** <u>too</u> **easy** <u>to</u> blame the railway authorities when something does go wrong.
+      * → I'm **<u>only</u>** <u>too</u> **pleased** <u>to</u> help you.
+      * → They're **<u>but</u>** <u>too</u> **glad** <u>to</u> do so.
+      * → (NCE4-28 P122-L14) ..., and the doctor in charge of the department is **<u>only</u>** <u>too</u> **ready** <u>to</u> provide them with these requirements.
+  * **the authorities** 当局
+    * the local authorities 地方政府
+    * the Chinese authorities中国政府
+    * → (NCE3-30 P142-L18) Fearing **the authorities**, Eric remained in hiding after the war as well.
+    * → (NCE2-62 P284-L7) When the fire had at last been put out, **the forest authorities** ordered several tons of a special type of grass-seed which would grow quickly.
+  * **go wrong** 出错，出问题，不顺利
+    * → (NCE3-33 P154-L1) We have all experienced days when everything **goes wrong.**
   * 
 
 **## text 2**
