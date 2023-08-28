@@ -4968,7 +4968,139 @@
 
 **## text 2**
 
-* 
+* → **After consulting my railway timetable**, I noted <u>with satisfaction</u> **that there was an express train to Westhaven.**
+  * with satisfaction = satisfiedly (用名词做中心词, 更正式)
+    * with + n. 的搭配
+      * with satisfaction = satisfiedly 
+      * with ease = easily 
+      * with delight = delightedly 
+      * with pride = proudly 
+      * with a smile = smilingly
+      * with attention = attentively 
+      * with confidence = confidently 
+      * with reluctance = reluctantly
+  * **a mere... 仅仅...**
+    * **a mere** 后跟单数名词时 = **only <u>a</u>/ <u>an</u>**
+    * 在其他情况下 **a mere** = **only**
+    * → It went direct from my local station and the jiourney lasted **<u>a mere</u>** (=**<u>only an</u>**)hour and 17 minutes.
+    * → He's **<u>a mere</u>** (=**<u>only a</u>**) child.
+    * → He's not **<u>a mere</u>** (=**<u>only a</u>**) boxer: he's world champion.
+    * → (NCE3-34 P158-L12) He has often described to me how he picked up a masterpiece for **<u>a mere</u>** (**<u>=only</u>**) £50.
+    * → (NCE3-39 P178-L4) Glancing at his map, he informed us that the next village was **<u>a mere</u>** (**<u>=only</u>**) twenty miles away.
+* → **When I boarded the train**, I could not help noticing **that a great many local people got on as well.**
+  * **board** a <u>bus</u> / <u>train</u> / <u>ship</u> / <u>plane</u> 上公交车, 上火车, 上轮船, 上飞机
+    * → The couple **boarded** the train for New York.
+    * board 也可以作不及物动词, 如果明确知道上的是什么交通工具的话
+      * → Flight No.714 for Paris is now **boarding** at Gate 8.
+    * 替换: **get on** a <u>bus</u> / <u>train</u> / <u>ship</u> / <u>plane</u> 上公交车, 上火车, 上轮船, 上飞机
+      * get off a <u>bus</u> / <u>train</u> / <u>ship</u> / <u>plane</u> 下公交车, 下火车, 下轮船, 下飞机
+        * → (NCE3-28 P134-L9) I had no sooner **got off** the ship than I was assailed by a man who wanted to sell me a diamond ring.
+      * get down 掉下
+      * → When I **boarded** the train, I could not help noticing that a great many local people **got on** as well.
+      * **get into** a <u>car</u> / <u>taxi</u>  表示上空间很小的交通工具(站不起来)
+      * **get out of** a <u>car</u> / <u>taxi</u> 表示下空间很小的交通工具(站不起来)
+      * **embark on** a <u>ship</u>/<u>plane</u> 专指上船上飞机
+      * **disembark on** a <u>ship</u>/<u>plane</u> 专指下船下飞机
+  * **can't help (doing) sth ...** 禁不住 , 忍不住 做某事
+    * → I **couldn't help** <u>thinking</u> about the past. 我忍不住想起了过去
+    * → 'Stop biting your nails.', 'I **can't help** <u>it</u>'
+    * help 在这里表示避免
+    * **can't help but do ....** 禁不住, 忍不住 做某事
+      * → Her evidence was so convincing that I **could not help but** <u>agree</u> with her.
+    * **sth. can't be helped ** sth. 是无法避免的
+      * → I really don't want to go this weekend, but <u>it</u> **can't be helped.**
+    * 听力题
+      * M: I don't know how I managed to break that platter. I'll be more than happy to buy you a new one.
+      * W: Forget about it. Some things just **can't be helped.**
+      * What does the woman mean?
+      * Answer: (D) She doesn't want the man to replace the platter.
+        * platter n. 浅盘; 唱片; 唱机转盘
+        * manage 设法, 控制
+    * **not if I can help it** 能不做就不做
+      * → 'Are you going to watch the school play?' ,  '**Not if I can help it.**'
+      * 听力题
+        * M: Will you be living in the dormitory this year? 
+        * W: **Not if I can help it**. I've been thinking of renting an apartment off campus with some friends of mine.
+        * Q: What does the woman imply ?
+        * Answer: (D) She doesrrt want to live in university housing.
+          * off campus 校园附近
+            * campus n. 大学校园
+    * **help oneself to sth.**  自己拿; 偷, 抢
+      * → (NCE3-6 P34-L13) One of the thieves was struck by a heavy statue, but he was too busy **helping himself to** <u>diamonds</u> to notice any pain.
+* → At the time, this did not <u>strike</u> me as odd.  这时, 这些事情并未让我觉得有什么奇怪
+  * → At the time, I didn't think this was odd. 不佳
+  * **strike sb. as … 给某人某种印象, 某人感到, 觉得.**
+    * → The idea **struck** me **as** stupid. 我觉得这个想法很傻
+    * → The request **struck** me **as** comic. 这个请求让我觉得很滑稽
+    * → He **struck** them **as** an honest man. 他们觉得他是个诚实的人
+* → I reflected **that there must be a great many people besides myself <u>who wished to take advantage of this excellent service.</u>**
+  * I reflect 我心想
+    * **reflect** v. 心想, 考虑, 深思; 反射
+      * **relfect on ...**
+        * → I need time to **reflect** (**on** what to do).
+      * **reflect that ...**
+        * → She **reflected that** his argument was probably true.
+          * **argument** n. 争吵; 证据; 论证; 内容提要;
+  * **beside** prep. 在旁边; 与... 相比; 与... 无关; 除了
+  * **take advantage of sth.** 利用某物
+    * → I **took advantage of** the good weather to paint the shed.
+    * → Many schools don't **take full advantage of** the lnternet. 很多学校没充分利用英特网
+    * **take advantage of sb.** 利用某人， 占某人的便宜(贬义)
+      * → Don't lend them the car—they're **taking advantage of** you!
+* → Neither <u>was</u> I surprised **when the train stopped at Widley, a tiny station <u>a few miles along the line</u>.**
+  * **部分倒装**
+    * 只把<u>助动词</u>，<u>be动词(之前没有其他助动词)</u>或<u>情态动词</u>置于主语之前。
+      1. 否定词位于句首（如：not only,ot until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, ... )
+         * → **Neither <u>was</u>** | surprised when the train stopped at Widley, a tiny station a few miles along the line.
+         * → (NCE3-5 P30-L13) Not only had the poor man been arrested, but he had been sent to prison as well.
+         * → (NCE3-41 P192-L26) **Nor *<u>is</u>*** the city without its moments of beauty.
+      2. **“only+ 状语” 位于句首**
+      3. **such, so, well, often, many a time 等表示程度、频率的副词位于句首.**
+* **mighty** adj. very large, powerful, or impressive 强大的, 强有力的
+  * a **mighty** warrior 一个强悍的战士
+  * a **mighty** empire 
+  * With a **mighty** kick, he broke down the door.
+* **hold sb./sth. $\Leftrightarrow$ up**: to delay sb. or sth.
+  * → Our flight **was held up** by fog.
+  * → My application **was held up** by the postal strike.
+    * **strike** v./n. 罢工; 殴打; 打击
+  * → Road-works on the motorway are **holding up** traffic.
+* **dawdle** v. to take a long time to do sth. or go somewhere
+  * → Stop **dawdling** and hurry up: we're late.
+  * → Eleanor will be back any moment, if she doesn't **dawdle**.
+* **sth. after sth.** 一个又一个的, 前后都用 零冠词
+  * <u>day</u> **after** <u>day</u>
+  * <u>week</u> **after** <u>week</u>
+  * <u>year</u> **after** <u>year</u> 
+  * <u>time</u> **after** <u>time</u>
+  * → He fired <u>shot</u> **after** <u>shot</u>.
+  * → Shelley sent him <u>letter</u> **after** <u>letter</u> to explain the delay.
+  * → They sent <u>regiment</u> **after** <u>regiment</u> to attack us.
+  * → In <u>factory</u> **after** <u>factory</u> we were shown machines built by the workers themselves.
+* → <u>It</u> suddenly dawned on me **that this express was not roaring down the line at 90 miles an hour, <u>but</u> barely chugging along at 30.**
+  * 某人想到某事 的表达
+    * 用事物当主语
+      * **sth. dawn on sb.** 某人想到某事 (用事物当主语)
+        * → It **dawned on** me that Joanna had been right all along.
+      * **sth. occur to sb. **某人想到某事 (用事物当主语)
+        * → (NCE2-46 P206-L4) It suddenly **occurred to** one of the workers to open up the box.
+      * **sth. strike sb. **某人想到某事 (用事物当主语)
+        * → It suddenly **struck** me how we could improve the situation.
+      * **sth. cross one's mind** 某人想到某事 (用事物当主语)
+        * → It didn't **cross her mind** that she might be doing something illegal.
+    * 用人当主语
+      * **sb. realize that ....** 
+      * **sb. become aware (of the fact) that ...**
+      * **sb. wake up to the fact that ...**
+  * **roar down .. 呼啸而下**
+    * roar 狮虎的叫声
+    * → (NCE3-6 P34-L9) The silence was suddenly broken when a large car, with its headlights on and its horn blaring, **roared down** the arcade.
+  * **chug**  v. if a car, train etc. chugs somewhere, it moves there slowly, with the engine making a repeated low sound. 
+    * **chug <u>along</u> / <u>down</u> / <u>up</u> etc.**
+      * → An old car **chugged** <u>down</u> the road.
+  * **cover** v. travel (a certain distance) 走过了多远
+    * → By sunset we had **covered** thirty miles.
+    * 
 
 ## L38 The first calender
 
