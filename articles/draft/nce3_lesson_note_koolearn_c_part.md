@@ -5162,20 +5162,3 @@
   * → The ferry service has **been suspended** for the day because of bad weather.
   * → The policeman **was suspended** while the complaint was investigated.
   * → Dave **was suspended from** school for a week.
-
-## L38 The first calender
-
-**## words**
-
-* 
-
-**## text 1**
-
-* 
-
-**## text 2**
-
-* 
-
-## L39 Nothing to worry about 
-
