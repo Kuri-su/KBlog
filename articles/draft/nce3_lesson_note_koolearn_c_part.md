@@ -5100,7 +5100,82 @@
       * → An old car **chugged** <u>down</u> the road.
   * **cover** v. travel (a certain distance) 走过了多远
     * → By sunset we had **covered** thirty miles.
-    * 
+    * → (NCE3-20 P90-L9) A week before, he had completed a successful overland flight during which he **covered** twentysix miles.
+* 听说过 的搭配
+  * **hear <u>of</u> / <u>about</u>** 
+  * **know <u>of</u> / <u>about</u>**  
+  * **learn <u>of</u> / <u>about</u>**
+* → I <u>determined</u> to <u>lodge</u> acomplaint as soon as we arrived. 
+  * **<u>determine</u> / <u>resolve</u> to do sth. ** (fml.) = decide 决定做某事
+    * → After the divorce she **<u>determined</u>** / **<u>resolved</u>** never **to** marry again.
+  * **<u>lodge</u>** / **<u>bring</u>** / **<u>file</u>** a complaint 发起一个投诉
+    * **<u>get</u>** / **<u>receive</u>** a complaint 受到了投诉
+    * **<u>deal with</u>** / **<u>handle</u>** a complaint 处理投诉
+    * **investigate** a complaint 调查投诉
+    * **resolve** a complaint 解决了一个投诉
+    * **reject** a complaint 驳回了投诉
+* **<u>stationmaster</u> / <u>station master</u>**
+  * → an official in charge of a railroad or bus station
+* **deny + <u>sth.</u> / <u>doing</u> / <u>that ...</u>** 否认
+  * **<u>admit</u> / <u>acknowledge</u> + <u>sth.</u> / <u>doing</u> / <u>that..</u>** 承认
+  * → He **denied** <u>the charge.</u> / <u>knowing about it.</u> / <u>that he had stolen the sheep.</u>
+  * → He **<u>admitted</u>** / **<u>acknowledged</u>** <u>the charge</u>. / <u>knowing about it.</u> / <u>that he had stolen the sheep.</u>
+  * **deny <u>the existence of sth.</u> / <u>sth's existence</u>**
+    * → When he **denied** <u>the train's existence</u>, I borrowed his copy of the timetable.
+    * → Atheists **deny** <u>the existence of God</u>. 
+    * → Officials have repeatedly **denied** <u>the existence of a secret report.</u>
+* copy n. 一份, 一张
+  * → (NCE3-22 P110-L13) But the **copy** he gave him had not been written out in full as usual.
+* → There was a note of triumph in my voice **when I told him <u>that it was there in black and white</u>.**
+  * **in black and white**: in writing or in print 白纸黑字（书写的或印刷的） (习语)
+    * → I want the contract **in black and white.**
+      * 类似的习语
+        * a **black-and-white** <u>photograph</u> / <u>television</u> / <u>printer</u> 黑白的
+        * a **color** <u>photograph</u> / <u>television</u> / <u>printer</u> 彩色的
+        * beat sb. **black and blue** 把某人揍得鼻青脸肿
+        * **be in the black** 有盈余
+          * → We've managed to stay **in the black** for over a year now.
+        * **be in the red** 有赤字
+          * → This is the airline's fourth straight year **in the red.**
+  * **note** n. a way of speaking or writing that shows what someone's feelings are 语言文字中带有某种感情 
+    * **there <u>is</u> / <u>was</u> a note of ... in ...**
+      * →  **There was a note of** <u>triumph</u> **in** my voice when I told him that it was there iin black and white .
+      * → **There was a note of** <u>doubt</u> **in** her voice.
+        * doubt n./v. 怀疑
+      * → **There was a note of** <u>self-satisfaction</u> **in** his speech.
+        * self-satistaction 自满
+      * → **There was a note of** <u>sadness</u> **in** her letter.
+* **glance at ..** 匆匆的扫了一眼... (经常用来做非谓语)
+  * → (NCE3-34 P158-L20) **Glancing at** it briefly, the dealer told him that it was worth £50. 
+  * → (NCE3-39 P178-L4) **Glancing at** his map, he informed us that the next village was a mere twenty miles away.
+  * **<u>take</u> / <u>have</u> / <u>shoot</u> / <u>throw</u> / <u>cast</u> a glance (at ...)** galnce 做名词
+    * → The couple at the next table **cast quick glances** in our direction.
+    * → (NCE3-57 P256-L22) So l drove back to the town and began to retrace the route, **taking frequent glances at** the map.
+* **conduct sb. to ...** 引导某人到了某个地方
+  * → l asked the attendant to **conduct** him **to** the door.
+* **footnote** n. a note at the bottom of the page in a book, which gives more information about something 脚注
+* **say** v. 上面写着....
+  * → The sign **says** "Keep Out".
+  * → What did the letter **say**?
+  * → (NCE3-18 P82-L9) The first thing I saw when l entered the art gallery was a notice which **said**:"Do not touch the exhibits. Some of them are dangerous!"
+* suspend v. 悬挂, 挂起; 暂停
+  * → The ferry service has **been suspended** for the day because of bad weather.
+  * → The policeman **was suspended** while the complaint was investigated.
+  * → Dave **was suspended from** school for a week.
 
 ## L38 The first calender
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+## L39 Nothing to worry about 
 
