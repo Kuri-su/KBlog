@@ -4507,7 +4507,7 @@
 
 * → A long-lost brother, **who was presumed dead,** was really alive all the time <u>and</u> wickedly <u>plotting</u> to bring about the hero's downfall.
 
-  * **be presumed <u>dead</u> / <u>innocent</u> ... ** 被认为已经死了
+  * **be presumed <u>dead</u> / <u>innocent</u> ...** 被认为已经死了
     * → Their nephew was missing, **presumed dead.**
     * → In English law, an accused man **is presumed innocent** until he is proved guilty.
 
@@ -4848,7 +4848,7 @@
   * **<u>sb.</u> / <u>sth.</u> is to blame (for sth.)** 都怨某人, (因为某事)
     * → George **is to blame for** the failure.
   * 批评 的 同义表达
-    * **<u>reprimand</u> / <u>rebuke</u> sb. for sth. ** 上下级之间的批评
+    * **<u>reprimand</u> / <u>rebuke</u> sb. for sth.** 上下级之间的批评
       * → I **was <u>reprimanded</u> / <u>rebuked</u>** by my manager **for** being late.
       * → (NCE3-31 P146-L16) Recognizing who the customer was, the manager was most apologetic and **reprimanded** the assistant severely.
     * **accuse sb. of sth.** 气愤的指责
@@ -5082,9 +5082,9 @@
     * 用事物当主语
       * **sth. dawn on sb.** 某人想到某事 (用事物当主语)
         * → It **dawned on** me that Joanna had been right all along.
-      * **sth. occur to sb. **某人想到某事 (用事物当主语)
+      * **sth. occur to sb.**某人想到某事 (用事物当主语)
         * → (NCE2-46 P206-L4) It suddenly **occurred to** one of the workers to open up the box.
-      * **sth. strike sb. **某人想到某事 (用事物当主语)
+      * **sth. strike sb.**某人想到某事 (用事物当主语)
         * → It suddenly **struck** me how we could improve the situation.
       * **sth. cross one's mind** 某人想到某事 (用事物当主语)
         * → It didn't **cross her mind** that she might be doing something illegal.
