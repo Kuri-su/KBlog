@@ -6,7 +6,15 @@
 
 **## words**
 
-* 
+* **calendar** /ˈkælɪndər/ n. 日历
+  * solar **calendar**
+    * **solar** adj. 太阳的
+
+  * lunar **calendar**
+  * Chinese **calendar** 农历属于阴历
+  * perpetual **calendar** 万年历
+    * **perpetual** adj. 永久的
+
 
 **## text 1**
 
