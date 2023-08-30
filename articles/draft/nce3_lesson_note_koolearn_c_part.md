@@ -135,7 +135,7 @@
     * **<u>delay</u> / <u>postpone</u> sth. for ...**
       * → Our meeting **was <u>delayed</u> / <u>postponed</u> for** ten minutes.
 
-  * **bring/put sth. $\Leftrightarrow$  forward to ... ** 把事情提前
+  * **bring/put sth. $\Leftrightarrow$  forward to ...** 把事情提前
     * → The meeting has **been <u>brought</u> / <u>put</u> forward to** Thursday.
 
 
@@ -449,7 +449,7 @@
         * → **Undoubtedly**, public interest in folk music has declined.
       * **needless to say, ...** 毫无疑问
         * → (NCE3-36 P166-L16) **Needless to say,** the man's name was Hans Bussman and he really was Franz's long-lost brother.
-      * **it goes without saying that... ** 毫无疑问
+      * **it goes without saying that...** 毫无疑问
         * → **It goes without saying that** home is the warmest place in the world.
 
 * **与过去事实相反的"If”型的虚拟 **
@@ -628,15 +628,15 @@
 
 * **describe** 描述
 
-  * **make a <u>vivid</u> description of ... **
+  * **make a <u>vivid</u> description of ...**
 
-* **investigate ** 调查
+* **investigate** 调查
 
   * **make a <u>thorough</u> investigation of ...** 对某物做彻底的调查
 
 * **summarize** n. 总结
 
-  * **make a <u>comprehensive</u> summary of ... ** 对某物做 全面的总结
+  * **make a <u>comprehensive</u> summary of ...** 对某物做 全面的总结
 
 * **analyze** 
 
@@ -756,7 +756,7 @@
   * → (NCE3-40 P182-L11) He added that a student had dressed up as a policeman and was playing **all sorts of silly jokes** on people.
   * 造句：她每天必须要处理各种各样的投诉。
     * → She has to deal with **all kinds of complaints** every day.
-* **weigh ... ** v. (系动词) 有多重
+* **weigh ...** v. (系动词) 有多重
   * → The boy **weighs** 50 kilos.
   * **be ... (in weight)**
     * → The boy **is** 50 kilos **(in weight).**
@@ -1026,7 +1026,7 @@
     * topic sentence **主题句**
     * supporting sentences 扩展句（论证和论据)
     * concluding sentence **总结句**
-  * → **It has been said that everyone lives by selling something.** <u>In the light of this statement. teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort</u>. Though it may be possible to measure the value of material good in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us. <u>There are times when we would willingly give evervthing we possess to save our lives, yet we might grudge paving a surgeon a high fee for offering us precisely this service</u>. The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop. **Everyone has something to sell.** 
+  * → **It has been said that everyone lives by selling something.** <u>In the light of this statement. teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort</u>. Though it may be possible to measure the value of material good in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us. <u>There are times when we would willingly give evervthing we possess to save our lives, yet we might grudge paving a surgeon a high fee for offering us precisely this service</u>. The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop.**Everyone has something to sell.** 
 
 
 **## text 2**
@@ -1035,7 +1035,7 @@
 * **seem to be ...**  看似 .... , 似乎, 好像是, 看上去是 ... 
   * **appear to be...** 看似.... , 似乎, 好像是, 看上去是 ... 
   * **It seems that ...** 看似.... , 似乎, 好像是, 看上去是 ... 
-  * **It appears that .... ** 看似...., 似乎....
+  * **It appears that ....** 看似...., 似乎....
 * **exception to sth.** 是 ... 的例外情况
   * exception n. 例外, 特例, 异常情况
   * → There are some **exceptions to** every grammatical rule.  每个语法规则都有一些例外情况
@@ -1101,7 +1101,7 @@
         * rack n. 架子, 支架, 挂架 v. 使痛苦, 使困扰, 折磨, 使筋疲力尽
       *  某事使某人因某事痛苦 which other people **suffer (from).** 
   * **anxietie** n. 焦虑, 忧虑
-  * **be free from ... ** (习语搭配) 没有, 特别强调没有一些不愉快的, 不想要的东西, 
+  * **be free from ...** (习语搭配) 没有, 特别强调没有一些不愉快的, 不想要的东西, 
     * → He has **been free from** care since he retired. 他自从退休之后就没有什么挂念了.
       * retire v. 退休; 退役; 撤退;就寝
     * → The composition **is free from** errors. 这篇作文没有错误
@@ -1177,7 +1177,7 @@
     * contempt n. 鄙视, 轻视
     * → We often speak **contemptuously** of tramps ..
       * **contemptuously** adv. 轻蔑地, 蔑视地, 鄙夷地
-  * **put ... in the same class as ... ** 归为同一类
+  * **put ... in the same class as ...** 归为同一类
     * 同义搭配
       * **classify ... as ...** 
         * → .. and **classify** them **as** beggars.
@@ -1441,7 +1441,7 @@
 * → I had <u>no sooner</u> got off the ship <u>than</u> I was assailed by a man **who wanted to sell me a diamond ring.**
   * **no sooner ... than ...** 刚刚 ...  就 ....
     * 同义搭配
-      * **<u>hardly</u> / <u>barely</u> / <u>scarcely</u> ... <u>when</u> / <u>before</u> ... ** 刚刚 ... 就 ...
+      * **<u>hardly</u> / <u>barely</u> / <u>scarcely</u> ... <u>when</u> / <u>before</u> ...** 刚刚 ... 就 ...
 
   * 否定含义的词放到句首引起部分倒装
     * no sooner / hardly 这类词有否定含义
@@ -1468,7 +1468,7 @@
     * **not intend to do sth.** 无意做某事
       * → I did**n't intend to** buy'one, ..
 
-    * **intent to do sth. ** 有意做某事
+    * **intent to do sth.** 有意做某事
 
 * → ... , but the man **must have noticed** that I was ....
   * 同义表达
@@ -1792,7 +1792,7 @@
     * extent n. 范围, 程度, 长度, 广度
     * 取决于, 依赖于 的同义表达
       * 动词系列
-        * **depend on ... ** 
+        * **depend on ...** 
         * **rest on ...**
         * **rely on...**
         * **ride on ...**
@@ -1838,7 +1838,7 @@
   * the sense of humour 幽默感
 * **mysteriously** adv. 神秘地, 莫名其妙地
 * **be bound up with ...** 与 .... 紧密相连
-  * **= be closely connected with ... **
+  * **= be closely connected with ...**
   * → Everyone's future **is bound up with** the destiny of the Chinese nation.
   * bind 派生的搭配
     * **be bound to do ...** 必然会 .... (未来的趋势被绑住了)
@@ -1888,7 +1888,7 @@
 * **universal**: international, global, world-wide
   * **appeal** n. 吸引力, 呼吁, 上诉 v. 呼吁, 吸引
     * **appeal**: attraction, charm, fascination
-    * **appeal to sb. ** 吸引某人
+    * **appeal to sb.** 吸引某人
       * → (NCE3-23 P114-L13) The idea never **appealed to** me very much, ..
       * 同义替换
         * **<u>attract</u> / <u>charm</u> / <u>fascinate</u> sb.**
@@ -2270,7 +2270,7 @@
   * → **This is indeed the case.** 这就是实情
   * → **This is not the case at all.** 这根本不是实情
   * → **This might not be the case.** 这可能不是实情
-  * → **This is not necessarily the case. ** 这不一定是实情
+  * → **This is not necessarily the case.** 这不一定是实情
 * → <u>A short time ago</u>, villagers were astonished **to learn <u>that the ghost of Endley had died</u>.**
   * astonishe v. 使惊讶, 使震惊
   * to learn 动词不定式 做 原因状语
@@ -2861,7 +2861,7 @@
 * → The captain knew <u>that another attempt would be made later</u>, **for the sunken ship <u>he was trying to find</u> had been carrying a precious cargo of gold bullion.**
   * 尝试做某事
     * **make an attempt to do ...**
-      * → The captain knew that **his attempt** would not be **the only attempt. **(不佳)
+      * → The captain knew that **his attempt** would not be **the only attempt.**(不佳)
         * → The captain knew that **his attempt** would not be **the only one.** (稍有提升) (his 是形容词性的物主代词)
         * → The captain knew that **his** would not be **the only attempt.** (简洁) (his 是名词性的物主代词)
       * 巧妙的使用名词性物主代词 , 可以是句子简洁, 提升水平
@@ -2910,7 +2910,7 @@
   * **crew** n. 船员, 机组人员, 工作人员 (一船工作人员)
     * crow n. 乌鸦
     * crowd n. 人群, v. 人群聚集
-  * **be under the impression that .... ** 还以为
+  * **be under the impression that ....** 还以为
     * impression n. 印象
     * → Sorry, I **was under the impression that** you were the manager. 
     * **give sb. the impression that ...** 使某人觉得
@@ -4029,7 +4029,7 @@
   * → (NCE3-23 P114-L10) There are countless people who, ever since their early years, have learned to **associate** snails **with** food.
   * 同义搭配
     * **be related <u>with</u> / <u>to</u> ** 与...联系起来(只表示抽象联系)
-    * **be connected <u>with</u> / <u>to</u> ... ** 与...联系起来(抽象/物理)
+    * **be connected <u>with</u> / <u>to</u> ...** 与...联系起来(抽象/物理)
     * **be linked <u>with</u> / <u>to</u> ...** 与...联系起来(抽象/物理)
 
 * **court of law** 法庭
@@ -4053,7 +4053,7 @@
     * → The research showed **beyond (any) doubt** that smoking contributes to heart disease. 
       * doubt n. 怀疑; 疑问 v. 怀疑
 
-    * → **beyond + n. 无法.....; 不容 .... **
+    * → **beyond + n. 无法.....; 不容 ....**
       * → The situation is **beyond my control.**
       * → The rumor is **beyond belief.**
       * → The results are **beyond <u>dispute</u> / <u>controversy</u>.** 
@@ -4072,7 +4072,7 @@
   * → (NCE4-43 P251-L11) ... so vast is the number of planets, that intelligent life is bound to be **a <u>natural</u> part of** the universe.
 
 * **machinery** n. organization or structure 组织，机构，体系; 机器
-  * **machinery of ... **
+  * **machinery of ...**
   * **machinery for ...**
     * → the **machinery <u>of</u>** government 政府机构, 政府体系
     * → The company has no effective **machinery <u>for</u>** resolving disputes. 没有有效的机构来解决争端
@@ -4381,7 +4381,7 @@
       * (A) faint **(B) obscure** (C) gloomy (D) indefinite
 * **presume** /prɪˈzuːm/ v.假定,推测,认为
   * → From the way they talked, I **presumed (that)** they were a couple.
-  * **be presumed <u>dead</u> / <u>innocent</u> ... **
+  * **be presumed <u>dead</u> / <u>innocent</u> ...**
     * → (NCE3-36 P166-L5) A long-lost brother, who **was presumed dead**, was really alive all the time and wickedly plotting to bring about the hero's down-fall.
     * → You **are presumed innocent** until you are proved guilty.
   * **believe think suppose assume** 推测, 估计, 认为...
@@ -4507,7 +4507,7 @@
 
 * → A long-lost brother, **who was presumed dead,** was really alive all the time <u>and</u> wickedly <u>plotting</u> to bring about the hero's downfall.
 
-  * **be presumed <u>dead</u> / <u>innocent</u> ... ** 被认为已经死了
+  * **be presumed <u>dead</u> / <u>innocent</u> ...** 被认为已经死了
     * → Their nephew was missing, **presumed dead.**
     * → In English law, an accused man **is presumed innocent** until he is proved guilty.
 
@@ -4848,7 +4848,7 @@
   * **<u>sb.</u> / <u>sth.</u> is to blame (for sth.)** 都怨某人, (因为某事)
     * → George **is to blame for** the failure.
   * 批评 的 同义表达
-    * **<u>reprimand</u> / <u>rebuke</u> sb. for sth. ** 上下级之间的批评
+    * **<u>reprimand</u> / <u>rebuke</u> sb. for sth.** 上下级之间的批评
       * → I **was <u>reprimanded</u> / <u>rebuked</u>** by my manager **for** being late.
       * → (NCE3-31 P146-L16) Recognizing who the customer was, the manager was most apologetic and **reprimanded** the assistant severely.
     * **accuse sb. of sth.** 气愤的指责
@@ -4912,7 +4912,7 @@
 * <u>great</u> / <u>enormous</u> / <u>tremendous</u> **faith** 巨大的信心
   * **faith** n. 信心, 信任
   * <u>absolute</u> / <u>implicit</u> **faith** 绝对的信心, 
-  * <u>complete</u> / <u>total</u> **faith **完全的信心
+  * <u>complete</u> / <u>total</u> **faith**完全的信心
   * unshakeable **faith** 丝毫不会动摇的信心
   * blind **faith** 盲目的信心
   * **develop faith in ...** 对...逐渐产生了信心
@@ -5082,9 +5082,9 @@
     * 用事物当主语
       * **sth. dawn on sb.** 某人想到某事 (用事物当主语)
         * → It **dawned on** me that Joanna had been right all along.
-      * **sth. occur to sb. **某人想到某事 (用事物当主语)
+      * **sth. occur to sb.**某人想到某事 (用事物当主语)
         * → (NCE2-46 P206-L4) It suddenly **occurred to** one of the workers to open up the box.
-      * **sth. strike sb. **某人想到某事 (用事物当主语)
+      * **sth. strike sb.**某人想到某事 (用事物当主语)
         * → It suddenly **struck** me how we could improve the situation.
       * **sth. cross one's mind** 某人想到某事 (用事物当主语)
         * → It didn't **cross her mind** that she might be doing something illegal.
@@ -5106,7 +5106,7 @@
   * **know <u>of</u> / <u>about</u>**  
   * **learn <u>of</u> / <u>about</u>**
 * → I <u>determined</u> to <u>lodge</u> acomplaint as soon as we arrived. 
-  * **<u>determine</u> / <u>resolve</u> to do sth. ** (fml.) = decide 决定做某事
+  * **<u>determine</u> / <u>resolve</u> to do sth.** (fml.) = decide 决定做某事
     * → After the divorce she **<u>determined</u>** / **<u>resolved</u>** never **to** marry again.
   * **<u>lodge</u>** / **<u>bring</u>** / **<u>file</u>** a complaint 发起一个投诉
     * **<u>get</u>** / **<u>receive</u>** a complaint 受到了投诉
