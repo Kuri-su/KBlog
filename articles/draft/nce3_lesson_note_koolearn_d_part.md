@@ -146,7 +146,17 @@
 
 **## text 1**
 
-* 
+* 未来的丈夫(未婚夫)
+  * **Husband-to-be**
+  * **finance**
+  * 未婚妻
+    * **bride-to-be**
+    * **fiancee** 
+
+  * 后代子孙
+    * **posterity** 不可数
+      * → These works of art are preserved for **posterity**.
+
 
 **## text 2**
 

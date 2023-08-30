@@ -1534,4 +1534,4 @@ A part 主要是关于 导数 和部分 微分,
          * $f(x)=e^x, f'(x)=e^x$
          * $f(0)=1, f'(0)=1$
          * $f(x)\approx f(0)+f'(0)x=1+x$
-      3. $ln(1+x)\approx x$
+      3. $ln(1+x)\approx x$ 
