@@ -148,7 +148,7 @@
 
 * 未来的丈夫(未婚夫)
   * **Husband-to-be**
-  * **finance**
+  * **fiance**
   * 未婚妻
     * **bride-to-be**
     * **fiancee** 
@@ -156,6 +156,135 @@
   * 后代子孙
     * **posterity** 不可数
       * → These works of art are preserved for **posterity**.
+
+  * 不远的未来的表达
+    * **in the <u>near</u> / <u>not-too-distant</u> future**
+    * **in the foreseeable future**  在可以预见的未来
+    * **in the long run** 从长期来看
+    * **in the short run** 从短期来看
+      * → Taking this decision will cost us more **in the short run**, but will be beneficial **in the long run**.
+
+* **modern** historians 当代历史学家
+  * 当代的其他表达
+    * **today's** historians 
+    * historians **of today**
+    * **contemporary** historians
+
+* **position**: situation 处境
+  * → She's **in the enviable position** of being able to choose who she works with.
+    * **envy** n. 羡慕
+      * **enviable** adj. 羡慕的
+
+  * → When two of your best friends argue it **puts** you **in a very awkward position.** 
+    * awkward adj. 尴尬的
+
+  * **in a delicate position** 处于微妙的处境
+  * **in a dominating position** 处于统治地位
+  * **in a favorable position** 处于有利地位
+  * **in an adverse position** 处于不利地位
+  * **China's world position** 中国的世界地位
+
+* **come to do sth.**
+  * 1（逐渐）开始
+    * → I've **come to** like her over the months.
+    * → (NCE3-14 P66-L10) He soon made a name for himself and **came to** be known to the ltalians as Giovanni Acuto.
+
+  * 2 偶然做某事
+    * → A body **came to** be found under the bridge.
+
+* 造句：在计算机的帮助下，当代的科学家在开始进行复杂运算的时候处于得天独厚的地位。
+  * → with the assistance of computers, contemporary scientists are in a unique position when they come to make complicated calculations.
+
+* → They will hardly know **which facts to select from the great mass of evidence <u>that steadily accumulates.</u>**
+  * **"疑问词 + to do”可以视为名词性从句的缩略形式**
+    * 名词性从句: 
+      * 主语从句
+      * 宾语从句
+      * 表语从句
+      * 同位语从句
+
+    * 示例
+      1. **相当于宾语从句**
+         * → They will hardly know **which facts to select from ...**
+           * → They will hardly know **which facts they should select from ...** 
+         * → I don't know **what** **to do.**
+           * → I don't know **what I should do.**
+         * → Have you settled **where to go?**
+           * → Have you settled **where you should go?**
+      2. **相当于主语从句**
+         * → **Who to turn to** is what she wants to know.
+           * → **Who she should turn to** is what she wants to know.
+      3. **相当于表语从句**
+         * → The problem she faces is **which way to take.**
+           * → The problem she faces is **which way she should take.**
+      4. **相当于同位语从句**
+         * → The problem **which course to take** worried Lucy for hours.
+           * → The problem **which course she should take** worried Lucy for hours.
+
+  * **mass**: a large quantity or number 大量 (书面语 表达) (接不可数名词和可数名词)
+    * **<u>a mass of ...</u> / <u>masses of ...</u> = <u>a lot of...</u> / <u>lots of ...</u>**
+    * the great **mass of** evidence
+    * → (NCE4-44 P257-L3) Traditional custom, taken the world over, is **a mass of detailed behavior** more astonishing than what any one person can ever evolve in individual actions, no matter how aberrant. 
+    * → (NCE4-16 P92-19) This caused the construction of gigantic buildings where too **large masses of human beings** are crowded together.
+
+  * that steadily accumulates. 不断积累起来的
+    * **ever-doing** adj. 不断.......的
+      * → (NCE4-22 P127-L16) We have to ask ourselves very seriously what will happen if this two-fold use of knowledge with its **ever-increasing** power continues.
+
+    * evidence that steadily accumulates 
+      * = **the ever-accumulating evidence**
+
+    * the world that steadily changes
+      * = **the ever-changing world**
+
+    * the knowledge that steadily grows
+      * = **the ever-growing knowledge**
+
+    * the economy that steadily develops
+      * = **the ever-developing economy**
+
+    * the market that steadily expands
+      * = **the ever-expanding market**
+
+    * the reform that steadily deepens
+      * = **the ever-deepening reform**
+
+    * the resources that steadily dwindle
+      * = **the ever-dwindling resources**
+
+* **what is more / what's more** 而且(表示递进)
+  * → (NCE3-15P7O-L12) He could not find his fifty pence piece anywhere, and what is more, he could not get his arm out.
+  * 同义表达 (没有感情色彩, 更好更坏都行)
+    * **furthermore** 
+      * Futhermore, ....
+    * **moreover** 
+    * **besides** 
+    * **in addition** 
+    * **sadditionally**
+  * 表示 '更好的是'
+    * **better still** (句首)
+      * still better (句中)
+  * 表示 '更糟的是'
+    * **worse still** 
+    * **to make things worse** 
+    * **to make matters worse**
+  * 表示 '更奇怪的是'
+    * **stranger still** 
+      * → (NCE4-4 P23-L9) During these tests she was able to read a newspaper through an opaque screen and, **stranger still**, by moving her elbow over a child's game of Lotto she was aable to describe the figures and colours printed on it; ...
+* **rely on ...**  依赖
+  * 同义表达
+    * **bank on ...** 
+    * **hinge on ...**
+    * **build on ...** 
+    * **depend on ...**
+    * **count on ...**
+    * **rest on ...**
+    * **ride on ...** 
+    * **reliance on ..** (词性的变化一般不影响介词搭配)
+
+* the **written** word = **written** language '书面语' 的意思
+  * a **written** <u>agreement</u> / <u>statement</u> 书面协议, 
+  * the **spoken** word = **spoken** language '口语' 的意思
 
 
 **## text 2**
