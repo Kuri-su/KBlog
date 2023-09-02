@@ -1520,7 +1520,7 @@
 
   * fire / dismiss sb. from .. 用被动, 大多数情况是被解雇
 
-    * → I've just <u>been fired from</u> my job, and | don't know what to do.
+    * → I've just <u>been fired from</u> my job, and I don't know what to do.
 
 
     * → She claims she <u>was</u> unfairly <u>dismissed from</u> her post.
@@ -1725,7 +1725,7 @@
          * → **Not only <u>had</u>** the poor man been arrested, but he had been sent to prison as well.
          * → (NCE3-41 P192-L26) **Nor <u>is</u>** the city without its moments of beauty.
            * beauty n. 美丽
-         * → (NCE3-37 P170-L13) **Neither <u>was</u>** | surprised when the train stopped at Widley, a tiny station a few miles along the line.
+         * → (NCE3-37 P170-L13) **Neither <u>was</u>** I surprised when the train stopped at Widley, a tiny station a few miles along the line.
          * → <u>Never **have**</u> l seen such a good movie.
          * → **Not until** yesterday **<u>did</u>** little John change his mind.
          * → **Under no circumstances <u>should</u>** you lend Paul any money.
@@ -3380,7 +3380,7 @@
 * dreadful /ˈdrɛdfəl/  adj. 可怕的, 糟糕的
   * a **<u>dreadful</u>** / **<u>terrible</u>** accident(事故), disease(疾病), nightmare(噩梦)
   * → We've had some **<u>dreadful</u>** / **<u>terrible</u>** weather lately.
-  * → (NCE3-11 P54-L13) All the things | had packed so carefully were soon in a **dreadful** mess.
+  * → (NCE3-11 P54-L13) All the things I had packed so carefully were soon in a **dreadful** mess.
   * 派生词
     * dread v. & n. 害怕, 恐惧
       * dread (v.) doing sth 害怕去做 ... 

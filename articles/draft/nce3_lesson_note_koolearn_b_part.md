@@ -1423,7 +1423,7 @@
     * **apparent** 明显的
   * → .... , so **<u>clearly</u> / <u>obviously</u> / <u>apparently</u>** the lamb had been stolen.
   * 造句：所有我仔细放在包里的东西都乱成了一团，所以显然珠宝是被偷了。
-    * → (NCE3-11 P54-L13) All the things | had packed so carefully were soon in a dreadful mess.
+    * → (NCE3-11 P54-L13) All the things I had packed so carefully were soon in a dreadful mess.
     * → All the things I had packed so carefully were in a dreadful mess, so **it was <u>clear</u> / <u>obvious</u> / <u>apparent</u> that** the jewels had been stolen.
     * → All the things I had packed so carefully were in a dreadful mess, so **<u>clearly</u> / <u>obviously</u> / <u>apparently</u>** the jeivels had been stolen.
 
@@ -1673,7 +1673,7 @@
   * **know <u>of</u> / <u>about</u> ** 听说, 知悉
     * **hear <u>of</u> / <u>about</u>** 听说, 知悉
     * **learn <u>of</u> / <u>about</u>** 听说, 知悉
-    * → I don't **know** him personally, though | **know <u>of</u> / <u>about</u>** him. 我不认识他, 虽然我**听说**过他 
+    * → I don't **know** him personally, though I **know <u>of</u> / <u>about</u>** him. 我不认识他, 虽然我**听说**过他 
       * **personally** adv. 亲自, 本人, 私人地, 个人地
     *  → (NCE3-15 P70-L15) George was not too upset by his experience because the lady who owns the sweet shop **heard about** his troubles and rewarded him with a large box of chocolates.
   * <u>本文用 about(介词) 放在 关系代词之前, 显得更加庄严, 更正式, 本文中也可以写成</u>
@@ -2702,7 +2702,7 @@
   * → As long ago as the 1930's, the Red Army had completed the successful Long March during which they covered 25,000 li.
 * **stick it out** 坚持下去
   * → Latham, however, **stuck it out.**
-  * → *Rachel*: Oh God, I hate my job, I hate it, Ihate my job, l hate i. *Monica*: I know honey, I'm sorry. *Rachel*: Oh, Iwanna quit, but then | think I should **stick it out**.
+  * → *Rachel*: Oh God, I hate my job, I hate it, Ihate my job, l hate i. *Monica*: I know honey, I'm sorry. *Rachel*: Oh, Iwanna quit, but then I think I should **stick it out**.
 * **It <u>seems</u> / <u>looks</u> <u>as if</u> / <u>as though</u> ...** 看似, 好像 .... 
   * 造句：看似他们之间将有一次激烈的争吵 (a heated argument).
     * → **<u>It seemed</u> / <u>looked as if</u> / <u>as though</u>** there would be a heated argument between them.
@@ -3943,7 +3943,7 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
   * Won't you **stay <u>to</u> / <u>for</u>** dinner? 否定疑问句表示 提问者倾向于希望得到肯定回答.
 * 主菜
   * **main <u>dish</u> / <u>course</u>**
-* → ... and | **unwillingly** followed Robert out of the room.
+* → ... and I **unwillingly** followed Robert out of the room.
   * → ... and l followed Robert out of the room **with reluctance.**
 * → <u>To our dismay,</u> we saw **that there were snails everywhere**: they had escaped from the paper bag **and** had taken complete possession of the halll
   * **to one's dismay** 使某人惊讶的是

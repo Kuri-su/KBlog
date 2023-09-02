@@ -358,7 +358,13 @@
 
 **## text 2**
 
-* 
+* → <u>Up to now</u>, historians have assumed that cailendars came into being <u>with the advent of agriculture</u>, **for then man was faced with a real need <u>to understand something about the seasons</u>.**
+  * **come into being** 开始存在
+    * be 存在, 活着...
+      * → To **be** or not to **be**, that is the question. — William Shakespeare 'Hamlet'
+
+    * 1 think therefore I am. — Rene Descartes
+
 
 ## L39 Nothing to worry about 
 
