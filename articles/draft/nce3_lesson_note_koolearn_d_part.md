@@ -547,11 +547,131 @@
 
 **## words**
 
-* 
+* **boulder** /ˈboʊldər/ n. (风化的) 大圆石头
+  * 其他表示 石头的词
+    * **stone** n. 石头 (可以被抛掷的石块)
+    * **rock** n. 岩石 (大块的岩石)
+    * **pebble** n. 鹅卵石, 河卵石
+    * **fossil** n. 化石
+* **perturb** /pɚ'tɝb/ v. 使不安
+  * **disturb** v. 使不安
+    * perturb 比 disturb 更加正式
+  * → The letter shocked and **<u>disturbed</u>** / **<u>perturbed</u>** me. 
+  * → It is **<u>disturbing</u>** / **<u>perturbing</u>** to think that a dangerous wild animal is still at large in the quiet countryside.
+    * disturbing/perturbing adj. 令人不安的
+  * 字根 '**turb**' = stir v. 搅拌
+    * dis**turb** 
+    * per**turb** 
+      * 字头 per 彻底 
+    * **turb**ine 涡轮机
+    * **turb**id adj. 浑浊的
+      * **turbid** water
+    * **turb**ulent adj. 汹涌的
+      * **turbulent** waves 汹涌的波涛
+      * → the **turbulent** times of the French Revolution
+* **underestimate** /ˌʌndərˈestɪmeɪt/ v. 低估
+  * → Never **underestimate** the power of the press. 
+  * **overestimate** 高估
+    * → He tends to **overestimate** his own abilities.
+      * tend to ... 往往倾向于
+  * **underrate** 对.…评价过低
+    * rate v. 评定等级
+    * → As an actor, he is seriously **underrated**.
+  * **overrate** 对...评价过高
+    * → In my opinion, she is a hugely **overrated** singer.
+  * **understate** v. 对.. .轻描淡写
+    * state vt. 陈述, 规定, 声明
+    * → It would be a mistake to **understate** the seriousness of the problem.
+  * **overstate** 对...过分夸张
+    * → He may have **overstated** his ability in the interview.
+* **swerve** /swɜːrv/ v. 突然转向
+  * 表示转向的词
+    * **swerve**
+      * → (NCE3-39 P178-L9) As we bumped over the dusty track, we **swerved** to avoid large boulders.
+      * → The lorry **swerved** sharply to avoid the child.
+    * **turn**
+      * → (NCE3-10 P50-L10) After the alarm had been given, the great ship **turned** sharply to avoid a direct collision:
+    * **veer**
+      * → Moments before crashing, the jet was seen **veering** sharply to the right.
+    * **change course** 改变航线 (轮船, 飞机)
+      * → The plane **changed course** to avoid the storm.
+  * **unswerving** 坚定的; 不动摇的(不拐弯的)
+    * **unswerving** <u>loyalty</u> / <u>belief</u> / <u>support</u> ...
+* **ominously** /ˈ ɑmənəslɪ/ adv. 不吉利地, 不详地
+  * → I went into the kitchen and found him lying **ominously** still on the floor.
+    * **still** adj. 静止的, 一动不动的
+  * **ominous** adj. 不吉利的, 不妙的
+    * → There was an **ominous silence** at the other end of the phone.
+      * ominous silence 不详的沉默
+  * **omen** n. 兆头(吉兆, 凶兆)
+    * a **<u>good</u> /<u>bad</u> omen**
+      * → He was convinced that seeing the black cat was a **bad omen.**
+  * **auspicious** adj. 吉利的
+    * → It was an **auspicious date** for a wedding. 这对婚礼来说是一个吉利的日子
+    * **inauspicious** adj. 不吉利的
+      * → He made an **inauspicious start** to his career by breaking a leg in his first race.
+    * → There has long been a superstition among the Chinese that seeing a magpie is an **auspicious omen.**
+    * → There has long been a superstition among the Chinese that hearing the crowing of a crow is an **ominous omen.**
+* **petrol** /ˈpetrəl/ n. 汽油(英式)
+  * **<u>gasoline</u> / <u>gas</u>** n. 汽油(美式)
+  * 油箱
+    * **petrol tank** (英) / **gas tank** (美)
+      * tank 盛液体的容器
+  * 加油站
+    * **<u>petrol</u> /<u>service</u> station  (英) / gas station  (美)**
+  * 石油
+    * **petroleum** 石油
+    * **crude oil** 原油
+    * **OPEC** = Organization of Petroleum Exporting Countries 石油输出国组织
+
+* **obstacle** /ˈɑːbstəkl/ n. 障碍物
+  * → The biggest **obstacle** in our way was a tree trunk in the road.
+  * **obstacle to ...** 通往...的一个障碍
+    * **obstacles to** world peace 通往世界和平的障碍
+    * 同义词
+      * **block** 阻塞物
+        * a **block** in the <u>pipe</u> / <u>drain</u> 下水道/水管 里的阻塞物
+        * **block to ...** 障碍
+          * → The government's stubborn attitude was a **block to** further talks.
+      * **hindrance to ...** 阻碍
+        * hindrance n. 起妨碍作用的事物或人
+        * → The higher interest rates have been a **hindrance to** economic recovery.
+        * → To be honest, she was **more of a hindrance than a help.**
+          * more ... than 有一种特殊的翻译, '与其说是后者, 不如说是前者'
+      * **barrier** n. 路障
+        * → The crowd had to stand behind **barriers**.
+        * the **language barrier** 语言障碍
+        * **barrier to ...** 阻碍
+          * → Lack of confidence is a psychological **barrier to** success.
+      * **impediment** n. 障碍 (本意: 小的残疾)
+        * a **speech impediment** 语言障碍
+        * **impediment to ...** 阻碍
+          * → War is one of the greatest **impediments to** human progress.
+* **renew** v. 使更新, 换新; 使延期
+  * → **renew** the water in the goldfish bowl
+    * goldfish bowl 金鱼缸
+  * → The window frames need to **be renewed**. 
+  * → I need to **renew** my passport this year. (使延期)
+  * **renewed** adj. happening again with increased interest or strength [only before noun] 更强烈的....
+  * **renewed** <u>determination</u> / <u>enthusiasm</u> 更强烈的决心/ 更强烈的热情
+  * → (NCE3-39 P178-L15) In response to **renewed** pleadings, Bruce stopped.
+* **pleading** /'plidɪŋ/ n. 恳求; adj. 恳求的
+  * **pleading** n. an act of asking for sth. that you want very much, in an <u>emotional</u> way
+  * → He simply ignored my **pleading**. 
+  * **plead** v. 恳求, 请求; 以....为借口
+    * **plead for ..** 恳求某物
+      * → Civil rights groups **pleaded for** government help.
+      * → He was on his knees, **pleading for** forgiveness.
+    * **plead with sb. to do sth.** 恳求某人做某事
+      * → She **pleaded with** him not **to** leave her alone.
+    * **plead** <u>ignorance</u> / <u>illness</u> / <u>a headache</u> / <u>tiredness</u> / <u>insanity</u>  (以....为借口)
+      * 以不知道为借口, 以得病为借口, 以头疼为借口, 以疲劳为借口, 以精神病为借口
+      * → Ellie **pleaded** <u>tiredness</u> and went to bed very early.
+      * → (NCE3-46 P212-L2) No one can **plead** <u>ignorance</u> of a subject any longer, for there are countless do-it-yourself publications.
 
 **## text 1**
 
-* 
+* → The rough road <u>across the plain</u> soon became <u>so</u> bad **that we tried to get Bruce to drive back to the village <u>we had come from</u>.**
 
 **## text 2**
 
