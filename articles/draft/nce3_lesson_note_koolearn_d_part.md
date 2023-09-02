@@ -363,8 +363,202 @@
     * be 存在, 活着...
       * → To **be** or not to **be**, that is the question. — William Shakespeare 'Hamlet'
 
-    * 1 think therefore I am. — Rene Descartes
+    * I think therefore I am. — Rene Descartes
+    * **come into fashion**  开始流行
+    * **come into use** 开始使用
+    * **come into effect** 开始产生效果
+    * **come into blossom** 开花
+
+  * **the advent of <u>sth.</u> / <u>sb.</u>**  重大人物/ 事件的降生 (来自耶稣降临节...)
+    * → **The advent of** the steam engine heralded the beginning of a new era.
+    * → *<u>With</u>* **the advent of** the new chairman, the company began to prosper.
+      * prosper v. 兴旺, 发达, 繁荣
+
+    * with the **advent** of ... 随着某些重要事件的到来
+      * 替换
+        * with the **<u>coming</u>** / **<u>arrival</u>** of 
+        * with the **birth** of ... 随着....的诞生
+        * with the **genesis** of ... 随着... 的产生
+          * genesis n. <圣经> 创世纪
+
+      * 例句
+        * → with the coming of spring 随着春天的到来
+        * → with the approach of Christmas 随着圣诞节的临近
+        * →  with the outbreak of war 随着战争的爆发
+          * outbreak 爆发
+
+        * → with the progress of science 随着科学的进步
+        * → **with** the evidence began to accumulate **X**
+          * with 这里做介词, 后面只能跟名词或名词短语, 不能跟从句
+          * → (NCE3-1 P14-4) However, **<u>as</u> the evidence began to accumulate**, experts from the zoo felt obliged to investigate, ...
+          * '随着...' 跟句子的话, 用连词 as
+
+* **indicate** v. 表示, 表明
+  * → (NCE3-28 P134-L17) I shook my head and held up five fingers **indicating** that Iwas willing to pay £5.
+
+* → Historians have long been puzzled by <u>dots, lines and symbols</u> **which have been engraved on <u>walls, bones, and the ivory tusks of mammoths</u>.**
+  * **be puzzled by ...** 对... 感到迷惑不解
+    * **be perplexed by ...**
+      * perplexed adj. 困惑的; 糊涂的
+
+    * **be baffled by ...**
+      * baffled v. 迷惑, 使迷惑
+
+  * long adv. 始终, 长期地 (通常用于完成时)
+    * .... have long been .... 
+    * 造句：医生们长久以来对这种罕见的皮肤病感到困惑。
+
+      * → Doctors **have long been puzzled by** the rare skin condition.
+        * 这里用 condition 做婉语 代替病(disease, sickness)
+        * 老, 病, 死, 这些比较避讳的词, 英文中也用婉语代替
+
+    * → (NCE3-38 P174-L18) **It has long been known that** the hunting scenes depicted on walls were not simply a form of artistic expression.
+      * 造句：人们长期以来相信猫有九条命。
+        * → **It has long been believed that** cats have nine lives. (up)
+
+      * → (NCE4-18 P104-L1) **There has long been a superstition** among mariners **that** porpoises will save drowning men by pushing them to the surface, or protect them from sharks by surrounding them in defensive formation.
+        * 造句：中国人长久以来迷信看见喜鹊 (magpie)会有好运气。
+          * → There has long been a superstition among the Chinese that seeing a magpie will bring you good luck. (up)
+          * → There has long been a superstition among the Chinese that seeing a magpie is a good omen. (up up)
+            * omen  n. 兆头 (吉兆, 凶兆)
+            * 书面语的词通常用那种个头大, 而且适用范围比较窄的词
+
+          * → There has long been a superstition among the Chinese that seeing a magpie is a auspicious omen. (up up up) (超过专八)
+            * auspicious adj. 有前途的,有希望的,吉祥的,吉兆的
+
+  * ivory tusks (可数)
+    * ivory n. 象牙 (不可数)
+    * tusks n. 长牙, 獠牙
+    * **ivory tower** 象牙塔
+      * a place or situation where you are separated from the difficulties of ordinary life and so are unable to understand them, used especially to describe a college or university.
+
+* → The nomads **who made these markings** lived by hunting and fishing during the last Ice Age **which began about 35,000 B.C. and ended about 10,000 B.C.**
+  * nomad n. 游牧民族
+  * **live by doing sth.** .... 以做某事为生
+    * → lt has been said that everyone **lives by** selling something.
+
+  * **age** 时代
+    * the <u>Ice</u> / <u>Stone</u> Age
+    * the modern age 
+    * the computer age
+    * 其他替换
+      * times
+        * Roman times
+        * in <u>modern</u> / <u>recent</u> / <u>ancient</u> / <u>prehistoric</u> times
+
+      * **era** 时代时期
+        * **the end of an era**
+        * **the beginning of a new era**
+
+  * **B.C./ BC** 
+    * Before Christ
+
+  * **A.D./AD** 
+    * Anno Domini 
+
+  * 造句：传说中道教的创始人老子，生活在大约公元前6世纪至公元前5世纪春秋时代的晚期，靠掌管国家图书馆为生。
+    * → Laozi, legendary founder of Daoism, lived by taking charge of the royal library during the late Spring and Autumn Period which began about 600 B.C. and ended about 500 B.C.
+
+* → **By correlating markings <u>made in various parts of the world</u>**, historians have been able to read this difficult code.
+  * **in various parts of the world** 世界各地
+    * → (NCE3-23.P114-L9) Cooked in wine, snails are a great luxury **in various parts of the world.**
+      * luxury 和 luxe 的区别
+        * 两者都是名词, 与奢华和豪华有关，但 "luxe" 在英语中更具有时尚和设计感, 也常做 adj. 使用
+
+  * code n. 密码
+
+* → They have found **that it is connected with <u>the passage of days</u> and <u>the phases of the moon</u>.**
+  * **wax and wane** 月亮的圆缺
+    * wax n. 蜡, v. 给...上蜡; 月满, 
+    * wane v. 月缺
+
+  * **the phases of the moon 月相**
+  * 人有悲欢离合,月有阴睛圆缺,此事古难全,但愿人长久,千里共婵娟
+    * 翻译: 
+      * With joy and woe people meet and part
+      * With light and shade the moon waxes and wanes
+      * Since time immemorial it's been unchanged
+      * Would that we could live a long life
+      * And together share the moonlight though thousands of miles apart
+
+* → <u>It</u> has long been known **that the hunting scenes <u>depicted on walls</u> were not simply a form of artistic expression.**
+  * **scene** n. 场景, 现场
+  * **depict** vt. 1. 描绘, 绘画 2. 描写(用文字)
+    * → a picture **depiscting** him as a clown
+      * clown n. 小丑; 乡下人; 粗鲁笨拙的人
+
+    * → The novel **depicts** French society in the 1930s.
+
+  * **expression** n. 表示; 表达; 表露 
+  * **form** n. 形式, 形状; 表格; 方式
+
+* → They had a definite meaning, **for they were as near <u>as early man could get to writing</u>.**
+  * **definite** adj. 明确的, 确切的, 没有歧义的
+    * a **definite** meaning 一个确切的含义
+    * a **definite** answer  一个明确的答案
+    * **definite** article 定冠词 (the)
+    * **indefinite** adj. 不确定的; 无期限的
+      * **indefinite** article 不定冠词 (a, an)
+      * an **indefinite** prison term 无期徒刑
+
+    * **definitive** adj. 最终的, 最好的; 决定性的; 
+      * a **definitive** judgment 终审裁决
+      * a **definitive** diagnosis 最终诊断
+      * a **definitive** guide book 最好的导游书
+
+    * **finite** adj. 有限的
+      * → Human knowledge is **finite**.
+
+    * **infinite** adj. 无限的, 无穷的
+      * → The universe is **infinite**.
+
+    * **infinitive** n. 动词不定式
+
+  * **get to doing sth. = start doing sth.** 开始去做
+    * → He **got to thinking** that it was all his fault.
+
+* → <u>It</u> is possible **that there is a definite relation between these paintings and the markings <u>that sometimes accompany them.</u>**
+  * accompany v. 伴随有...
+    * → Having left the bag in the hall, I **accompanied** Robert into the living room.
+    * → The disease **is accompanied by** sneezing and fever.
+
+* → It seems **that man was making a real effort to understand the seasons 20,000 years earlier <u>than has been supposed.</u>** (姑且看成 表语从句)
+  * suppose vt. 料想; 猜想; 以为
+  * **make an effort to do sth.** 努力做某事
+    * **spare no effort to do sth.** 努力做某事(不遗余力的做某事)
+      * → China will **spare no effort to** realize peaceful reunification.
+
+  * …. than **what** has been supposed.  看作省略了宾语从句引导词 what
+    * → (NCE3-29 P138-L19) To compensate for his unpleasant experiences in hospital, the man drank a little more **than was good for him.**
+      * The project requires mare labor than ___ because it is extremely difficult.
+        * **A. has been put in**  B. have been put in  C. being put in  D. to be put in
+
+      * We often advise him not to drink more wine ___ is good for his health.
+        * A. as B. **than** C. that D. but
+
+      * The experiment requires more money than ___.
+        * A. have been put in B. being put in C. **has been put in** D. to be put in
+
+      * The indoor swimming pool seems to be a great deal more luxurious than ___.
+        * A. **is necessary** B. being necessary C. to be necessary D. it is necessary
 
 
 ## L39 Nothing to worry about 
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L40 Who's who
