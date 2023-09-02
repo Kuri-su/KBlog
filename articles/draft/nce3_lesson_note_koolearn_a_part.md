@@ -25,7 +25,7 @@
 
 **## 单词**
 
-* **spot** [英: spɒt  ] v. 看出, 发现
+* spot [英: spɒt  ] v. 看出, 发现
   * 上面写的这种英式发音 ɒ 在 美式中会变成两种发音
     1. 美: ʌ , 单词: stop, lot, hot
     2. 美: ɔː, 单词: boss, dog
@@ -85,7 +85,7 @@
         * → Shenzhen real estate developers hoard large amounts of land. (深圳的土地开发商囤积了大量的土地)
 
 
-1. * oblige /əˈblaɪdʒɪŋ/ v. 使...感到必须 , 使役动词, 多用于强调责任 或者 义务
+* oblige /əˈblaɪdʒɪŋ/ v. 使...感到必须 , 使役动词, 多用于强调责任 或者 义务
      * 使役动词, 通常人做宾语, 如果人做主语|物做宾语, 则需要使用被动, 表被强迫, 
        * be / feel obliged to do
          * → Many parents feel obliged to pay for at least part of the wedding. 
@@ -131,9 +131,9 @@
      * → Sorry to disturb you, but ....  礼貌表达
        * → **Sorry to disturb you , but I really need your help.** (不太着急的场合)
 
-2. **## text**
+**## text**
 
-3. * at large 习语搭配, 在逃的, 未被捕获的, 未被控制住的
+* at large 习语搭配, 在逃的, 未被捕获的, 未被控制住的
      * 习语搭配掌握的好不好, 是决定英语能力的一个非常重要的指标
      * 习语的特征是不能按照字面特征去理解, 每个单词都认识, 放一起就不认识了.
      * a prisoner / suspect at large , at large 短语通常当后置定语来用
@@ -153,7 +153,7 @@
      * → Pumas are large, cat-like animals (which are) found in America.
        * 定语从句的关系代词做主语, 如果后面紧跟的 be 动词, 一般来说, 我们可以把做主语的关系代词 和 be 动词同时省略. 非谓语动词 做后置定语
 
-4. * be found in... 动植物 生存于某地, 某个物质存在于某地, 产于某地
+* be found in... 动植物 生存于某地, 某个物质存在于某地, 产于某地
      * → Many plant and animal species **are found** only **in** the rainforests.
      * → Vitamin C **is found in** citrus fruit.
    * 仿写: 大熊猫 (giant panda) 时一种大型的, 类似于熊的动物, 产于 中国四川省.

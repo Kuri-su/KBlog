@@ -285,6 +285,10 @@
 * the **written** word = **written** language '书面语' 的意思
   * a **written** <u>agreement</u> / <u>statement</u> 书面协议, 
   * the **spoken** word = **spoken** language '口语' 的意思
+  * **oral/verbal** n. 口头的, 非书面的
+    * an **oral** exam 口语考试
+    * a **verbal** agreement 口头协议
+    * 
 
 
 **## text 2**
