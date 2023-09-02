@@ -292,6 +292,68 @@
 * **as it were** 可以说是, 仿佛是, 好像是 (前后用逗号隔开)
   * → He is, **as it were**, a wallking dictionary.
   * → Reading is thought to be a kind of conversation between the reader and the text. The reader puts questions, **as it were**, to the text and gets answers. In the light of these he puts further questions, and so on .
+    * a kind of  好像是, 似乎是
+      * a sort of hero 英雄般的人物 
+
+    * as it were 在这里用来替换 a kind of
+    * **In the light of(英)** / **In light of (美)** 根据, 鉴于
+
+  * → The Han nationality and the minority nationalities are all, **as it were**, members of the same family.
+  * **so to speak** 可以说是, 好像是, 可谓是
+    * → He is, **so to speak**, a walking dictionary.
+    * → The Han nationality and the minority nationalities are all, **so to speak**, members of the same family.
+
+  * **as it is** 看样子, 照目前情况来看(前后不加逗号, 直接做状语融入句中)
+    * → I thought things would get better, but **as it is** they are getting worse. 我原以为情况会好转的
+
+* **in action** 在行动中; 在战斗中;
+  * → (NCE3-30 P142-418) His father told everybody that Eric had been killed **in action.**
+
+* → But the historian **attempting to reconstruct the distant past** is always faced with a difficult task.
+  * 单数前加 the 表示一类人, 
+  * **reconstruct** v. 恢复原貌
+    * → (NCE3-3 P22-L14) When the archaeologists **reconstructed** the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman.
+    * **piece together** (piece 做动词) 拼到一起使复现原貌
+      * → (NCE3-32 P150-L19) From this the captain was able to **piece together** all the information that had come to light.
+      * → But the historian attempting to **piece together** the distant past ....
+
+  * **be faced with ...** 面临着...
+    * → (NCE3-38 P174-L10) ... for then man **was faced with** a real need to understand something about the seasons.
+    * → (NCE3-45 P208-L12) They were expecting their sixth child and **were faced with** even more pressing economic problems. 
+    * → (NCE3-46 P212-L25) After buying a new chain I **was faced with** the insurmountable task of putting the confusing jigsaw puzzle together again.
+    * **be confronted with ...** 面临着...
+      * → But if the animals **are confronted with** situations they have no control over, they later behave passively when **faced with** experiences they can control.
+
+* → He has to deduce **what he can** from the few scanty clues <u>available</u>.
+  * -iable/-able 结尾的形容词, 可以放在名词前, 也能放在名词后. 如果它修饰的名词有其他修饰语, 那么它一般就后置
+    * → (NCE4-33 P195-410) the most democratic form of 'college’ **imaginable**
+    * → the most civilized society **conceivable**
+    * → the most talented person **available**
+    * → the farthest star **visible**
+
+* **seemingly** 表面上
+  * → (NCE3-24 P118-L1) We often read in novels how a **seemingly** respectable person or family has some terrible secret which has been concealed from strangers for years.
+
+* **<u>shed</u> / <u>throw</u>/ <u>cast</u> light on sth.** 揭示了... (常考)
+  * shed interesting light on 揭示了有趣的....
+  * 真题
+    * → Figuring out how humans acquire language may **shed light on** why some children learn to read and write later than others.
+    * → Groundbreaking research by two French geophysicists promises to **shed some light on** the mystery. 
+      * groundbreaking 开拓性的, 开创性的
+        * break new ground 开辟新天地
+
+  * **come to light** 被发现
+    * → (NCE3-32 P150-L19) From this the captain was able to piece together all the information that had **come to light.**
+
+  * **colorful** 多姿多彩的
+    * → (NCE3-21 P106-L6) One of the most **colorful** figures in boxing history was Daniel Mendoza, who was born in 1764.
+
+  * **pale in comparison with** 相形见绌
+    * **pale** adj. 苍白的, 暗淡的
+    * **comparison** n. 比较, 对照
+      * **compare** v./n. 比较
+
+    * → The devastating floods of two years ago **pale in comparison with** last week's storms.
 
 
 **## text 2**
