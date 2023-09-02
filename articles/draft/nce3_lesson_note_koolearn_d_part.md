@@ -288,7 +288,10 @@
   * **oral/verbal** n. 口头的, 非书面的
     * an **oral** exam 口语考试
     * a **verbal** agreement 口头协议
-    * 
+
+* **as it were** 可以说是, 仿佛是, 好像是 (前后用逗号隔开)
+  * → He is, **as it were**, a wallking dictionary.
+  * → Reading is thought to be a kind of conversation between the reader and the text. The reader puts questions, **as it were**, to the text and gets answers. In the light of these he puts further questions, and so on .
 
 
 **## text 2**
