@@ -818,6 +818,106 @@
 
 **## text 3**
 
-* → What a relief it was **when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps of bushes.**
+* → What a relief it was **when the boulders suddenly disappeared, giving way to a stretch of plain <u>where the only obstacles were clumps of bushes.</u>**
+  * **relief** n. 宽慰，痛苦的缓解或解脱
+    * find a temporary **relief** 找到了暂时的解脱
+    * permanent **relief** 永远的解脱
+    * to my great **relief** 使我大为宽慰的是
+    * give immediate **relief** from pain 立即缓解了疼痛
+  * **give way to sth.** 1. 被（更新更好的事物）代替
+    * → Steam trains **gave way to** electric trains.
+    * → Winter **gave way to** spring.
+    * → The storm **gave way to** bright sunshine.
+    * **give way to sb./sth.** 2.让路，向 ... 屈服
+      * → Drivers must **give way to** cyclists.
+      * → We must not **give way to** their demands.
+  * **stretch** n. an area of land or water, esp. one that is long and narrow (狭长的）一片或一段地或水域 v. 舒舒筋骨
+    * **stretch of ... ** 
+      * a **stretch of** plain
+      * 有量词的名词的形容词 放在量词前
+        * a narrow **stretch** of water
+        * a beautiful **stretch of** field
+  * **clump** n. a group of trees, bushes, or other plants growing very close together 丛
+    * **a clump of** <u>trees</u> / <u>bushes</u> / <u>flowers</u> / <u>grass</u>
+* **worse** n. [U] something worse (不可数)
+  * → I'm afraid **there is worse to come.** 更糟的还在后面
+  * → We thought the situation was bad, but **worse was to follow**.
+  * → "What about the bride's dress - wasn't it appalling ?" "I don't know, **I've seen worse.**"
+* **fissure** n. long deep crack in rock or in the earth（岩石中或土地中的） 深长裂缝 
+  * **in response to ...** 作为对...的反应
+    * → The president stepped down **in response to** public pressure.
+    * → (NCE3-18 P82-L10) Oddly shaped forms that are suspended from the ceiling and move **in response to** a gust of wind are quite familiar to everybody.
+* **renewed** adj. happening again with increased interest or strength [only before noun] 更强烈的
+* **get out** (站不起来的交通工具)
+  * **get out of** a <u>car</u> / <u>taxi</u>
+  * **get in**
+    * **get into** a car / taxi
+* **get on **(站的起来的交通工具)
+  * **get on** a <u>bus</u> / <u>train</u> / <u>ship</u> / <u>plane</u>
+  * **get off**
+    * **get off** a <u>bus</u> / <u>train</u> / <u>ship</u> / <u>plane</u>
+* **extend** v.（时间或空间）延伸
+  * → The Sahara Desert **extends** <u>for</u> miles.
+  * → The show has been **extended** <u>for</u> another six weeks.
+* → Bruce went into a low gear **and** drove at a terrifying speed, **keeping the front wheels <u>astride the crack</u> as he followed its zigzag course.** 
+  * **gear** n. 变速档
+    * automatic **gear**  自动档
+    * manual **gear** 手动档
+      * manual adj. 体力的, 手工的
+    * → Helen **changed <u>gear</u> / <u>gears</u>** as she approached the intersection.
+    * **<u>go</u>/ <u>move</u> / <u>shift</u> into ... gear**
+      * **shift** v. 变换
+      * → I **<u>went</u> / <u>moved</u> / <u>shifted</u> into** fourth **gear** when I got onto the highway.
+  * speed
+    * **speed 做不可数名词时，与at, with搭配均可**
+      * e.g. at / with great speed
+    * **speed 做可数名词时，只能与at搭配**
+      * e.g.at a speed of 60 mph
+  * **astride** prep. with one leg on each side of sth. 跨在.....上
+    * → She sat proudly **astride** her new motorbike. 她得意的跨在她的新摩托车上
+    * → The town lies **astride** a river.
+  * **zigzag** adj. a pattern that looks like a line of z's joined together
+    * → a **zigzag** path along the cliff
+* → **Before we had time to worry about <u>what might happen</u>**, we were back on the plain again .
+* → Bruce <u>consulted</u> the map once more <u>and</u> told us **that the village was now only 15 miles away.**
+  * consult v. 请教; 查阅
+* 在有量词情况下的 形容词应该放在量词前
+  * a **nice** <u>cup</u> of tea
+  * a **beautiful** <u>stretch</u> of field 
+  * a **stagnant** <u>pool</u> of water
+  * → (NCE3-15P70-L6) For most of them, 50 pence is a small price to pay for a **nice big** <u>bar</u> of chocolate.
+* **shallow** adj. 浅的
+* **charge at ...** 朝..… ……猛冲
+  * → Suddenly the bear **charged at** us.
+  * → He **charged at** me with his fists flying.
+* **come to a <u>stop</u> / <u>halt</u> / <u>standstill</u>** 停了下来
+  * → (NCE3-6 P34-L10) It **came to a stop** outside the jeweler's.
+  * **grind**
+    * come to a **grinding** halt 支的一声停下来
+  * **come to <u>an end</u> / <u>a close</u>** 结束
+  * **come to a <u>decision</u> / <u>conclusion</u> / <u>agreement</u>** 作出决定;  作出结论 ;达成协议
+    * come to 表示到达某个状态
+* → A yellow light on the dashboard flashed angrily <u>and</u> Bruce cheerfully announced **that there was no oil in the engine**!
+  * **flash angrily** 刺眼的强光
+    * → (NCE3-18 P82-L15) Sparks were emitted from small black boxes and red lamps **flashed** on and off **angrily**.
 
 ## L40 Who's who
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L41 Illusions of pastoral peace
+
