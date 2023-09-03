@@ -2,7 +2,7 @@
 
 [TOC]
 
-## L38 The first calender
+## L38 The first calender ⭐️
 
 **## words**
 
@@ -672,13 +672,152 @@
 **## text 1**
 
 * → The rough road <u>across the plain</u> soon became <u>so</u> bad **that we tried to get Bruce to drive back to the village <u>we had come from</u>.**
+  * **get sb. to do** 说服某人做某事
+    * → He **got** his sister **to** help him with his homework.
+    * → We couldn't **get** him **to** sign the agreement. 
+    * **persuade sb. <u>to do</u> / <u>into doing</u>** 说服某人做某事
+      * → I finally managed to **persuade** her **to** go out for a drink with me.
+      * → Don't let yourself **be persuaded into** buying things you don't want.
+      * → (NCE3-26 P126-L4) In their efforts to **persuade** us **to** buy this or that product, advertisers have made a close study of human nature and have classified all our little weaknesses.
+    * **talk sb. into doing** 说服某人做某事
+      * → We finally **talked** Father **into** buying the new car.
+    * 劝阻某人做某事
+      * **get sb. not to do** 说服某人不做某事, 劝阻某人做某事
+      * **persuade sb. <u>not to do</u> / <u>out of doing</u>** 说服某人不做某事, 劝阻某人做某事
+      * **talk sb. out of doing** 说服某人不做某事, 劝阻某人做某事
+      * **dissuade sb. from doing** 说服某人不做某事, 劝阻某人做某事
+* → **Even though the road was littered with boulders <u>and</u> pitted with holes**, Bruce was <u>not in the least</u> perturbed.
+  * **be littered with ...** 杂乱的堆满了某物
+    * → (NCE3-46 P212-L23) The garden **was** soon **littered with** chunks of metal which had once made up a lawn mower.
+    * **litter** 杂乱的堆满了某地
+      * → (NCE3-34 P158-L5) There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that **litter** the floors.
+    * **be pitted with ...** 满是坑洞...
+      * → (NCE3-39 P178-L3) The road **was pitted with** holes.
+      * → His face **is pitted with** smallpox.
+      * smallpox n. 天花; 满脸坑洞的
+    * **be <u>dotted</u> / <u>scattered</u> with** 星罗棋布的, 散乱的分布的...
+      * → The sky **is <u>dotted</u> / <u>scattered</u> with** stars.
+      * → The lawn **is <u>dotted</u> / <u>scattered</u> with** pine trees. 草坪是 星罗棋布着松树
+    * **be covered with ...** 盖满了
+      * → (NCE3-28 P134-L2) Before she had anchored, the men from thie boats had  climbed on board and the decks **were** soon **covered with** colourful rugs from Persia, sillks from India, copper coffee pots, and beautiful handmade silverware.
+    * **be loaded with ...** 满载着 ...
+      * → (NCE3-28 P134-L1) Small boats **loaded with** wares sped to the great liner as she was entering the harbour.
+    * **be filled with ...** 装满了;
+      * → (NCE3-52 P236-L4) ... it **is filled with** what looks like a thick, greyish substance.
+      * → (NCE3-48 P220-L23) All at once, I noticed that my wife seemed to **be filled with** alarm. 
+    * **be <u>packed</u> / <u>crammed</u> with ...** 挤满了, 堆满了
+      * → The streets **were <u>packed</u> / <u>crammed</u> with** Christmas shoppers.
+      * → (NCE3-17 P78-L14) It has been estimated that if the bridge **were packed with** cars, it would still only be carrying a third of its total capacity.
+    * **be stuffed with ...** 填充满了
+      * a pillow **stuffed with** feathers 
+        * feather 鸟的羽毛
+        * pillow 枕头
+      * duck **stuffed with** 'eight treasures’ 八宝鸭
+      * → (NCE3-59 P264-L21) **stuffed** birds 鸟类标本
+      * I'm **stuffed**. =I'm full.
+  * **〞一点也不〞 “绝不〞置于句首部分倒装**
+    * by no means 
+    * not at all
+    * on no account
+    * not a bit
+    * on no condition
+    * not by any means 
+    * in no way
+    * not on any account 
+    * not in the least
+    * under no circumstances
+    * 例句
+      * → **By no means <u>*can*</u>** theory be separated from practice.
+      * → **On no account <u>must</u>** you disturb me when I'm working.
+      * → **On no condition <u>should</u>** untrained personnel use the equipment.
+      * → **Under no circumstances <u>will</u>** we agree to splitting up the company.
+    * **<u>not a little</u> = <u>more than a little</u> = very** 非常地, 极其地
+      * → Graham was **<u>not a little</u> / <u>more than a little</u>** frightened by what he had seen.
+  * **perturbed = disturbed = worried**
+* → **Glancing at his map**, he informed us **<u>that the next village was a mere 20 miles away.</u>**
+  * inform v. 告知某人
+    * **inform sb. <u>of</u> / <u>about</u> sth.**
+    * **inform sb. that**  后跟从句
+    * **convince sb. of sth.** 说服某人某事
+    * **convince sb. that ...** 
+  * **glance at ...** 匆匆的看一眼
+  * **a mere ... 仅仅....**
+    * **a mere** 后跟单数名词时=**only <u>a</u>/ <u>an</u>**
+    * 在其他情况下 **a mere = only**
+    * → Glancing at his map, he informed us that the next village was **<u>a mere</u>** (**<u>=only</u>**) 20 miles away .
+    * → (NCE3-37 P170-L10) It went direct from my local station and the journey lasted **<u>a mere</u>** (=**<u>only an</u>**) hour and 17 minutes.
+* → **It was not that** Bruce always underestimated difficulties, **but (that)** he simply had no sense of danger at all.
+  * **It <u>is</u>/<u>was</u> not that ..., but (that) ...** 不是因为…，而是因为....
+    * → (NCE3-57 P256-L15) **It was nat that** I actually remembered anything at all. **But** my father had described over and over again what we should see at every milestone, after leaving the nearest town, so that I was positive I should recognize it as familliar territory.
+    * 考研真题
+      * → **it is not that** the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working; **but that** the latter is a much finer apparatus and of course much more accurate in its measurement than the former.
+    * **not that ..., but that...**  不是因为…，而是因为....
+      * **Not that** I love Caesar less, **but that** I love Rome more. 不是我不爱凯撒, 而是我更爱罗马 -- Shakespeare 'Julius Caesar'
+      * 造句：不是我不爱你，而是我更爱自由。
+        * → **Not that** I love you less, **but that** l love liberty more. 
+      * 造句：吾爱吾师，但吾更爱真理。
+        * → **Not that** I love my teacher less, **but that** I love truth more.
+  * **simply** adv. used to emphasize what you are saying（用以加强语气）简直，实在，根本，就是
+    * → He **simply** had no sense of danger at all.
+    * → His pronunciation is **simply** terrible.
+    * → That is **simply** not true!
+    * → I **simply** refuse to go!
+* → **No matter what the conditions were**, he believed **that a car should be driven as fast <u>as it could possibly go.</u>**
+  * **No matter what ... = whatever** 
+    * **Whatever** the conditions were, ...
+  * **possibly 经常与 <u>can</u> / <u>could</u> 连用以表示尽全力”的意思，后跟动词时常用<u>can</u> / <u>could</u> possibly + 动词，后省路动词时常用 possibly <u>can</u> / <u>could</u>。**
+    * → No matter what the conditions were, he believed that a car should <u>be driven</u> as fast as it **could possibly** <u>go</u>.
+    * → She's <u>done</u> everything she **could possibly** <u>think of</u> to help.
+    * → We shall be contributing as much as we **possibly can** to the campaign. (省略了后面的动词)
+    * → Doctors <u>did</u> everything they **possibly could** to save his life.
+    * 造句：无论在任何情况下，雷锋都认为一个人应该尽可能地为社会做出贡献。
+      * → No matter what the conditions were, Lei Feng believed that a person should <u>contribute</u> as much as he **possibly could** to societv.
+    * 造句：无论在任何情况下，雷锋都认为一个人应该为社会做出他能想到的尽可能多的贡献。
+      * → No matter what the conditions were, Lei Feng believed that a person should <u>make</u> as many contributions as he **could possibly** <u>think of</u> to society.
 
 **## text 2**
 
-* 
+* **bump** v. 碰撞
+  * **bump** <u>over</u> / <u>across</u> / <u>along</u> / <u>down</u> **...** 颠簸前进
+  * → As we **bumped** <u>over</u> the dusty track, we swerved to avoid large boulders.
+  * → A police car **bumped** <u>down</u> the track.
+    * the track 小路(走出来的路)
+      * **track** n. a narrow path or road with a rough uneven surtace, esp. one made by vehicles, people or animals
+* **scoop** n. a tool with a deep bowlshaped end which is used to dig out and move a soft or powdery substance 小铲, 小勺 (名词动用)
+  * **a measuring scoop**
+  * **an ice-cream scoop**
+    * a **scoop** of ice-cream
+  * **scoop (<u>up</u> / <u>out</u>) sth.**  舀出, 舀起; 抱起
+    * → He **scooped** water from the stream and splashed it on his face.
+    * → She bent down and **scooped up** the little dog.
+    * → Carefully scoop out the pulp with a AA small spoon.
+      * pulp n. 果肉
+* **hammer / thunder(雷)** 砸, 重击 (名词动用)
+  * → He **<u>hammered</u> / <u>thundered</u>** at the door.
+  * → (NCE3-1 P14-18) It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is **cornered**.
+    * **cornered** n. 角落 v. 绝境 (名词动用)
+  * → He **elbowed** his way through the crowd.
+    * **elbow** n. 胳膊肘, v. 推挤(不一定真用胳膊肘) (名词动用)
+  * → I am **fogged** by the issue.
+    * **fog** n. 雾 v. 迷糊 (名词动用)
+  * → The lady **housed** the homeless. 
+* → We felt sure **that <u>sooner or later</u> a stone would rip a hole in our petrol tank <u>or</u> damage the engine.**
+  * **sooner or late** 迟早, 早晚有一天
+    * → You should tell her, because she'll find out **sooner or later.**
+  * **<u>rip</u>/<u>tear</u> a hole** 扯出一个洞
+    * rip v. 撕, n. 裂口
+    * tear v. 扯破, 撕破 n. 眼泪, 裂口 
+    * → The nail **<u>ripped</u> / <u>tore</u> a hole** in my jacket.
+* → <u>Because of this</u>, we kept looking back, **wondering <u>if we were leaving a trail of oil and petrol behind us.</u>** 
+  * **leave a trail of ... behind ...** 留下了一串的....
+    * trail n. 足迹
+    * → The bus **left a trail of** black smoke **behind** it. 
+    * → He **left a trail of** muddy footprints **behind** him.
+      * muddy adj. 泥泞的
+    * → (NCE3-1 P14-L11) Wherever it went, it **left** <u>**behind** it **a trail of** dead deer and small animals like rabbits.</u>
 
 **## text 3**
 
-* 
+* → What a relief it was **when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps of bushes.**
 
 ## L40 Who's who
