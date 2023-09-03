@@ -905,7 +905,71 @@
 
 **## words**
 
-* 
+* **hoax** /hoʊks/ n.恶作剧（骗人相信某事）
+  * **hoax** n. a kind of **<u>practical joke</u>** in which someone makes people believe something that is not true 恶作剧 （骗人相信某事）
+  * **play a ioke / trick on sb.** 对某人恶作剧
+  * **make a fool of sb.** 捉弄某人
+  * **cheat sb. out of sth.** 骗某人的钱财
+    * → He **cheated** the old lady **out of** her fortune.
+      * fortune n. 一大笔钱
+  * **<u>trick</u> / <u>deceive</u> sb. into doing** 欺骗某人去做某事
+    * → I **was <u>tricked</u> / <u>deceived</u> into** believing his story.
+* **indulge** /ɪnˈdʌldʒ/ v.沉迷于 ；尽情享受.; 宠爱, 溺爱某人
+  * **indulge in ...**
+    * **indulge in** bad habits
+    * → I **indulged in** <u>a hot bath</u> / <u>an expensive dinner</u> after a day's hard work.
+  * **<u>indulge</u> / <u>spoil</u> / <u>pamper</u> sb.**
+    * → I don't agree with **indulging** children.
+    * a **<u>spoilt</u>** **/ <u>pampered</u>** child
+  * **indulgent / self-indulgent** adj. 放纵的/ 自我放纵的
+    * **indulgence / self-indulgence** n. 放纵/自我放纵
+* **advance** /ədˈvæns/ adj. 提前的（定语）
+  * **advance** party 先遣队
+  * **advance** <u>notice</u> / <u>warning</u> / <u>planning</u> 提前的通知/告警/计划
+  * **advance** payment 预付款
+    * What a job! Good work, Richard! ***I'm so glad you like them so much.*** Like them? They represent your best work. ***Really?*** Absolutely. ***Well ... what do you think? Do I have my book?*** You do. You do. There's a book here. I'll have a contract and an **<u>advance payment</u>** waiting for you, first thing in the morning.
+      * contract n. 合同
+  * **in advance** 提前做某事
+    * → Rent must be paid one month **in advance**.
+      * rent 租金
+  * **in advance of ...** 在...之前, 提前于.....
+    * → Galileo's ideas were **in advance of** the age in which he lived.
+  * **advanced** adj.高级的，先进的
+    * **advanced** technology
+    * an **<u>elementary</u>** / **<u>intermediate</u>** / **<u>advanced</u>** English course 一门初级的/中级的/高级的 英语课程
+      * **elementary** 初级的
+      * **intermediate** 中级的
+      * **advanced** 高级的
+      * **<u>elementary</u> / <u>intermediate</u> / <u>advanced</u>** English learners
+* **remonstrate** /rɪˈmɑːnstreɪt/  v.抗议，规劝，告诫
+  * **remonstrate with sb.** (fml.）向某人抗议
+    * → The coach angrily **remonstrated with** the referee.
+      * coach n. 教练
+      * referee n. 裁判
+    * → (NCE3-40 P182-L16) Shortly afterwards, four more policemen arrived and **remonstrated with** the workmen.
+  * 形近词
+    * **demonstrate** v.展示，表明
+  * 近义词
+    * **protest against ...** 聚众抗议...
+    * **complain (to sb.) <u>of</u> / <u>about</u> sth.** 
+      * → (NCE3-1 P14-L12) Several people **complained of** cat-like noises at night and a businessman on a fishing trip saw the puma up a tree.
+      * → (NCE2-38 P174-L4) Almost immediately he began to **complain about** the weather, for even though it was still summer, it rained continually and it was often bitterly cold.
+    * **nag sb. to do ..** 唠叨数落某人让他去干某事
+      * → (NCE3-46 P212-L29) When my wife **nagged** me **to** do something about it, I told her that either I would have to buy a new mower or let the grass grow.
+    * **pester sb. to do ...** 缠着某人非让某人做某事
+      * → (NCE3-29 P138-L13) From the moment he arrived there, he kept on **pestering** his doctor **to** tell him when he would be able to go home.
+* **ironically** /aɪ'rɑnɪkli/ adv. 讽刺地 (可以表示人的语言文字是讽刺的, 也可以表示其他的事情)
+  * = **sarcastically**(只能表示人的语言文字是讽刺的) 
+  * → (NCE3-40 P182-L19) At this, the police pointed out **ironically** that this would hardly be necessary as the men were already under arrest.
+  * → (NCE3-11 P54-L16) 'Perfume, eh?' he asked **<u>sarcastically</u>**. 'You should have declared that. Perfume is not exempt from import duty.'
+  * **<u>ironic</u> / <u>sarcastic</u>** adj. 讽刺的
+    * → (NCE2-92 P418-L4) I was almost there when a **sarcastic** voice below said, "I don't think the windows need cleaning at this time of the night '
+    * **<u>irony</u> / <u>sarcasm</u>** n. 讥讽, 讽刺
+      * **with heavy <u>irony</u> / <u>sarcasm</u>** 伴随着弄弄的讥讽
+      * → " Good of you to arrive on time,' George said, **with heavy <u>irony</u> / <u>sarcasm</u>.**
+      * **<u>hint</u> / <u>trace</u> / <u>touch</u> of <u>irony</u> / <u>sarcasm</u>** 讽刺的意味
+        * → There was **a hint of <u>irony</u> / <u>sarcasm</u>** in her voice.
+        * 
 
 **## text 1**
 
