@@ -1017,15 +1017,189 @@
   * 如果前面有量词的话, 名词可以当作不可数名词来用
   * **practical jokes of a particular type**
   * → (NCE3-34 P158-L2) **The more expensive kind of antique shop** where rare objects are beautifully displayed in glass cases to keep them free from dust **<u>is</u>** usually a forbidding place.
-  * 
+    * → **Antique shops of the more expensive kind** where rare objects are beautifully displayed in glass cases to keep them free from dust **<u>are</u>** usually forbidding places.
+* → <u>Inviting the fire brigade to put out a non-existent fire</u> is a crude form of deception **which no self-respecting student would ever indulge in.**
+  * **crude** adj. 粗糙的; 未加工的; 粗野的
+    * → (NCE3-21 P106-L4) However, boxing was very **crude**, for there were no rules and a prize-fighter could be seriously injured or even killed during a match.
+  * **form** n. a type of sth.
+    * **form of ....**
+    * a severe **form of** cancer 一种严重的癌症
+    * different **forms of** government 不同种类的政府
+  * **deception** n. 欺骗
+  * **<u>put out</u> = <u>extinguish</u>** 扑灭, 熄灭
+    * **<u>put out</u> / <u>extinguish</u>** the <u>fire</u> / <u>cigarette</u> / <u>light</u>
+    * **smother** v. 灭火(强调把火闷熄); 使窒息
+    * **quench** v. 解渴; 灭火(强调用水把火浇灭)
+    * **blow out** v. 把火吹灭
+* **no self-respecting ... would do sth.** 没有任何有自尊心的 某人 会做某事
+  * 造句：没有有白尊心的医生会置病人于不顾。
+    * → **No self-respecting** doctor **would** refuse to treat a sick person.
+  * 造句：没有有自尊心的政府会向恐怖分子低头。
+    * → **No self-respecting** government **would** yield to tcrrorists.
+  * 造句：考试中作弊是一种很不光彩的行为 (disgraceful behavior)，任何有自尊的学生都不会去做。
+    * → Cheating in examinations is disgraceful behavior which no self-respecting student would ever indulge in.
+* → Students often create **<u>funny</u>** situations which **<u>are amusing to</u> / <u>amuse</u>** everyone except the victims.
 
 **## text 2**
 
-* 
+* → **When a student recently saw two workmen <u>using a pneumatic drill outside his university</u>**, he immediately telephoned the police <u>and</u> informed them **that two students <u>dressed up as workmen</u> were tearing up the road with a pneumatic drill.**
+  * **telephone the police** 报警
+    * → (NCE3-16 P74-L11) He told him he had better return it or he would **call the police.**
+    * → (NCE3-19 P86-L11) At first, she decided to **go to the police**, but ...
+    * → Mrs. Ramsay was not to **inform the police** and had to pay £1,000.
+      * **inform** vt. 通知
+  * **inform sb. of sth.**  通知某人某事
+    * **inform sb. that ...**  通知某人某事
+  * **dress (sb.) up as ..** 把某人装扮成
+    * → (NCE3-13 P62-L4) She intended to **dress up as** a ghost
+    * → (NCE3-40 P182-L11) He added that a student had **dressed up as** a policeman.
+    * → They **dressed** him **up as** a gorilla.
+    * **disguise sb. as ...** 把某人装扮成
+      * → He **disguised** himself **as** a dustman.
+      * **disguised as … ** (非谓语)
+        * → (NCE4-9 P53-L1) Alfred the Great acted as his own spy, visiting Danish camps **<u>disguised as a minstrel.</u>**
+        * → ... informed them that two students **<u>disguised as workmen</u>** were tearing up the road with a pneumatic drill.
+  * **tear up sth.** 挖开, 开凿; 撕碎了
+    * → The plumbers **tore up** the road to lay a new water main.
+      * main n. 干管, 主干水管
+    * → He **tore up** the letter with anger.
+    * **tear** v. 撕, 扯; 
+      * → The child's misery **tore my heart.**
+      * **tear sth. in <u>half</u> / <u>two</u>** 把某物撕成两半
+      * **tear sth. to pieces** 把某物撕成碎片
+      * **tear sth. away** 扯掉, 撕掉, 卷走
+      * → (NCE3-25 P122-L13) In August, she was struck by a very heavy storm during which her rudder **was torn away.**
+        * **torn away** 撕掉了
+* → **As soon as he had hung up**, he went over to the workmen and told them **that <u>if a policeman ordered them to go away</u>, they were not to take him seriously.**
+  * 一...就...
+    * **as soon as ...**
+    * **<u>immediately</u> / <u>directly</u> ...**
+      * **<u>Immediately</u> / <u>Directly</u>** he had hung Up, ...
+    * **the moment....**
+      * **The moment** he had hung up, ....
+    * **no sooner ... than ...**
+      * → He had **no sooner** hung up **than** he went over to ...
+      * → **No sooner <u>had</u>** he hung up **than** he went over to ...
+    * **<u>hardly</u> / <u>barely</u> / <u>scarcely</u> .... <u>when</u> / <u>before</u> .....**
+      * → He had **hardly** hung up **when** he went over to ...
+      * → **Hardly <u>had</u>** he hung up **when** he went over to ...
+    * **<u>On</u> / <u>Upon</u>** hanging up, ...
+  * **hang up**
+    * → (NCE3-33 P154-49) You **hang up** hurriedly and attend to baby, crockery, etc.
+    * **put the phone down** 
+    * **slam the phone down** 气愤的挂电话
+    * **get cut off** 电话断线了
+  * **over** adv. 从... 到...
+    * → He's seen mel He's coming **over**!
+    * 听力题
+      * M: Can you come **over** for dinner tonight?
+      * W: Im up to my ears in work, so lhave to take a rain check.
+      * Q: What does the woman mean?
+      * Answer: (C) She'd enjoy coming to dinner another time.
+    * 听力- 走遍美国
+      * "Hello. This is Richard Stewart. My wife, Marilyn Stewart, is a member of your program. I'd like to come to the ten o'clock advanced class this morning.”
+      * "Oh, fine, fine. Be here a few minutes early. You need to complete some forms before the class.”
+      * “Thanks. I'm on my way **<u>over</u>**. Goodbye. Bye-bye.”
+  * **be to do (fml.）的四种用法**
+    1. **打算**
+       * → I'**m to** see her tomorrow.
+    2. **命令**
+       * → You'**re to** be back by 10 o'clock
+       * → No one **is to** leave the building.
+    3. **能够**
+       * → How **am** I **to** pay such a debt?
+       * → We Chinese people **are** not **to** be bullied.
+    4. **应该**
+       * → Such men **are to** be pitied rather than despised.
+       * → Some books **are to** be tasted, others (are) **to** be swallowed, and some few (are) **to** be chewed and digested.  — Francis Bacon
+
+* → He added **that a student had dressed up as a policeman <u>and</u> was playing all sorts of silly jokes on people.**
+  * **add** v. 补充说
+    * → (NCE3-11 P54-L18) Then l **add**ed with a smile, "It's a strange mixture 1 make myself’
+    * **threaten**ed 威胁说
+      * → (NCE3-40 P182-L14) When he received a very rude reply from one of the workmen, he **threaten**ed to remove them by force.
+    * **point out** 提醒说
+      * → (NCE3-40 P182-L19) At this, the police **point**ed **out** ironically that this would hardly be necessary as the men were already under arrest.
+    * **claim** 声称说
+      * → (NCE3-1 P14-L6) However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who **claim**ed to have seen the puma were extraordinarily similar.
+    * **confirm** 证实说
+      * → (NCE3-1 P14-L9)1t immediately ran away when she saw it, and experts **confirm**ed that a puma will not attack a human being unless it is cornered.
+    * **complain** 抱怨说
+      * → (NCE3-1 P14-L13) Several people **complain**ed of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree.
+    * **put it** 措辞说
+      * → (NCE3-12 P58-L15) ..,as one of them **put it** 'ate like kings'.
+      * → I don't know how to **put it**.
+    * **state** 声明说
+      * → (NCE3-19 P86-L9) The writer **state**d that Rastus was in safe hands ...
+    * **explain** 解释说
+      * → (NCE3-19 P86-L17) She **explain**ed that Rastus was very dear to her.
+    * **mumble** 喃喃自语说
+      * → (NCE3-29 P138-121) He was stil <u>mumbling</u> (**mumble**) something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.
+    * **nag** 唠叨说
+      * → (NCE3-46 P212-129) When my wife **nag**ged me to do something about it, ltold her that either I would have to buy a new mower or let the grass grow.
+  * **play a <u>joke</u> / <u>trick</u> on sb.**
+    * → (NCE3-22 P110-L10) One night, the gaoler decided to **play a joke on** his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart.
+  * **all <u>sorts</u> / <u>kinds</u> / <u>types</u> of sth.** 各种各样的
+    * → She has to deal with **all kinds of** complaints.
+* **advance** adj. 提前的
+* **be <u>thankful</u> / <u>grateful</u> / <u>obliged</u> / <u>indebted</u> to sb. for sth.** 因为某事感激某人
+  * → I**'m thankful to** you **for** your help.
+  * → I**'m** much **grateful to** you **for** your advice.
+  * → I**'m** deeply **obliged to** you **for** your encouragement.
+  * → I'**m** most **indebted to** you **for** this piece of advance information.
+  * → **I appreciate <u>your help</u> / <u>it</u>.** 感谢您的帮助
+  * → **I owe you (one).**  我欠你一次(用在熟人之间)
 
 **## text 3**
 
-* 
+* → The student hid in an archway nearby **where he could watch and hear everything <u>that went on</u>.**
+  * hide hid hid
+  * **archway** 有拱顶的长廊
+    * **arch** 拱形
+    *  **arcade** 有拱顶的商业街
+    * **17-Arch Bridge**  十七拱桥
+    * **Arch of Triumph** 凯旋门
+    * an archway **nearby** (true)
+    * a **nearby** archway (true)
+    * a **near** archway (**X**)
+    * The archway is very **near**. (True)
+      * near 做前置定语 只能表示 时间 和 关系上的近, 不能表示地点上的近
+        * in the **near** future (True)
+        * a **near** relative (True) 近亲
+  * 这里 where 引导的定语从句 相当于并列句, 不过比并列句更简洁
+    * 造句：我的暑假是在乡下度过的， 在那儿我可以更不受打扰地生活。
+      * → (NCE3-8 P42-L14) The monks prefer winter to summer for they **have more privacy.**
+      * → I spent my summer vacation in the country **where** I had more privacy.
+* **sure enough 果然**
+  * → (NCE3-19 P86-L19) **Sure enough**, Rastus arrived punctually at seven o'clock that evening.
+* **on the <u>scene</u> / <u>spot</u> 在现场，到现场**
+  * → (NCE2-74 P346-L9) Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to **a shady spot** under some trees.
+  * **on the spot 当场....，立即...**
+    * → (NCE3-52 P236-L13) He would invent fanciful names **on the spot.**
+* **receive+ n. 受到了..……; 得到了…...; 遭到了.…**
+  * → (NCE3-8 P42-L16) These young people, who love the peace of mountains, always **receive a warm welcome** at St. Bernard's monastery.
+  * → (NCE3-23 P114-L9) No creature has **received** more **praise and abuse** than the common garden snail.
+  * → (NCE3-31 P146-L20) This exhibition **received a great deal of attention** in the press, for though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie.
+  * → (NCE4-28 P166-L4) The majority of the patients attending the medical out-patients departments of our hospitals feel that they have not **received adequate treatment** unless they are able to carry home with them some tangible remedy in the shape of a bottle of medicine, a box of pills, or a small jar of ointment, ...
+  * **receive support** 得到了支持
+  * **receive good education** 受到了良好的教育
+  * **receive a heavy blow** 遭到了重重的一击
+  * **receive a serious injury** 遭受重伤
+* **threaten to do** 1. 威胁说… .；2.有 …的危险
+  * 人做主语的话, 表示第一个意思; 事物做主语的话, 表示第二个意思
+  * → (NCE3-47 P216-L4) We keep trying all four methods, but the sheer volume of rubbish we produce worldwide **threatens to overwhelm us.**
+* → The workmen told him to do **as he pleased** <u>and</u> the policeman telephoned for help.
+  * **please** v. 高兴, 乐意
+    * → Come whenever you **please**. 高兴什么时候来就什么时候来
+    * **told him to do as he pleased**  告诉他想做什么做什么
+* **attempte to** 抢夺某事
+* **struggle** 挣扎
+* **fiercely** adv. 猛烈地
+* **lose one's temper** 忍不住发脾气 , 发火了
+  * **keep one's temper** 忍住不发火
+* → <u>At this</u>, the police pointed out <u>ironically</u> **that this would hardly be necessary <u>as the men were already under arrest.</u>**
+  * **be under arrest** 被捕
+    * under 可以表示 处于某个状态下
 
 ## L41 Illusions of pastoral peace
 
