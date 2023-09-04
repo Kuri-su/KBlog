@@ -468,7 +468,7 @@
 
   * → **There is no doubt that** if the Titanic **had not been hit** by the iceberg, she **would have reached** her destination intact.
 
-## L26 Wanted: a large biscuit tin
+## L26 Wanted: a large biscuit tin ⭐️
 
 **## words**
 
@@ -1642,7 +1642,7 @@
           * "Cock" 也指的是公鸡，但它的语气更加强烈和直接。这个词更常用于非正式和口语的场合，也有时候用于形容具有傲慢或自负的男性。在一些文化背景中，"cock" 还有性暗示或侮辱的意味，因此在正式场合中使用时需要小心。总体而言，"rooster" 更加普遍和中性，而 "cock" 则更加具有情感色彩和口语化。在大多数情况下，"rooster" 是一个更安全和合适的选择，特别是在正式场合中。
 
 
-## L29 Funny or not
+## L29 Funny or not ⭐️
 
 **## words**
 
@@ -2075,7 +2075,7 @@
     * a slip(n.) of the pen 笔误
     * a slip(n.) of the tongue 口误
 
-## L30 The death of a ghost
+## L30 The death of a ghost ⭐️
 
 **## words**
 
@@ -3051,7 +3051,7 @@
 * → This was later confirmed by a naval official <u>at the Ministry of Defence</u> **after the Elkor had returned home.**
 * → All the items **<u>that were found</u>** were sent to the War Museum.
 
-## L33 A day to remenber 
+## L33 A day to remenber  ⭐️
 
 **## words**
 
@@ -4780,7 +4780,7 @@
   * → ..., Hans settled down <u>in a village 50 miles away</u> <u>**and**</u> **he had remained <u>there</u> ever since.**
     * 
 
-## L37 The Westhaven Express
+## L37 The Westhaven Express ⭐️
 
 **## words**
 

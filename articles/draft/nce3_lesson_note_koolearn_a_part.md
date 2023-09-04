@@ -21,7 +21,7 @@
   * 篇章段落结构
   * 看着中文译文. **默写课文**.  用来检验前面的复习是否到位, 单词写错, 语法错了, 句型错了, 习语搭配错了, 句法思维错了, 还是中式思维 等....
 
-## L1 A puma at large
+## L1 A puma at large ⭐️
 
 **## 单词**
 
@@ -445,7 +445,7 @@
     * → It is amusing to think that...
     * → It is irritating to think that... 一想到就让人气愤
 
-## L2 Thirteen equals one
+## L2 Thirteen equals one ⭐️
 
 **## word**
 
@@ -743,7 +743,7 @@
 
 
 
-## L3 An unknown goddess 
+## L3 An unknown goddess  ⭐️
 
 **## word**
 
@@ -1105,7 +1105,7 @@
 * 如何写出引人入胜的叙事类文章?
   * 制造悬念 (有趣发现) -> 层层深入, 迫近主题 (古城->庙宇->殿堂->神像)-> 解释谜底, 故事高潮(身首异处, 摩登女郎)-> 尾声, 意犹未尽(身份未知)
 
-## L4 The double life of Alfred broggs.
+## L4 The double life of Alfred broggs. ⭐️
 
 **## word**
 
@@ -1431,7 +1431,7 @@
       * 改正: 后面跟 is worth celebration (n. 变成名词) / celebrating (变成主动)
         * 或者改成 is worthy of celebration(n. 变成名词)/ to be celebrated. (被动)
 
-##  L5 The facts
+##  L5 The facts ⭐️
 
 **## words**
 
@@ -1772,7 +1772,7 @@
 
 
 
-## L6 Smash and grab
+## L6 Smash and grab ⭐️
 
 **## word**
 
@@ -2025,7 +2025,7 @@
     * → I just bought 50 yuan **worth of** groceries.
       * 汉语拼音构成的单位, yuan, jiao, fen, mu亩, qin顷, li 里, 都是单复数同行 
 
-## L7 Mutilated ladies 
+## L7 Mutilated ladies  ⭐️
 
 **## words**
 
@@ -2977,7 +2977,7 @@
   * 第一段：引文（猫很迷人，路做陈述）一引出主题（最迷人之处在于有九条命一跌落时不死）
   * 第二段：介绍一项研究并举例一借用医生的话展开解释原理 （语言生动风趣）一末尾点题 (flying squirrels → flying cats)
 
-## L10 The loss of the Titanic
+## L10 The loss of the Titanic ⭐️
 
 **## word**
 

@@ -901,7 +901,7 @@
   * **flash angrily** 刺眼的强光
     * → (NCE3-18 P82-L15) Sparks were emitted from small black boxes and red lamps **flashed** on and off **angrily**.
 
-## L40 Who's who
+## L40 Who's who ⭐️
 
 **## words**
 
@@ -969,11 +969,55 @@
       * → " Good of you to arrive on time,' George said, **with heavy <u>irony</u> / <u>sarcasm</u>.**
       * **<u>hint</u> / <u>trace</u> / <u>touch</u> of <u>irony</u> / <u>sarcasm</u>** 讽刺的意味
         * → There was **a hint of <u>irony</u> / <u>sarcasm</u>** in her voice.
-        * 
+  * the **irony** of fate 命运的讽刺
+  * → It's **ironic** that she became a teacher —she used to hate school
+  * → **lronically**, his cold got better on the last day of his holiday. 讽刺的是, 他的感冒在他假期的最后一天痊愈了
 
 **## text 1**
 
-* 
+* **who's who** 谁是谁 （名字、职务等）
+  * → You'll soon get to know **who's who** in the company. 很快你就知道谁是谁了
+  * who's who 名人录
+  * **which is which** 强调能分辨开谁是谁 (比方说双胞胎)
+    * → The twins are so alike that I can't tell **which is which.**
+      * twins 双胞胎
+    * → When Scarlet returned to the farm, the old maidservant began to tell her **who married whom, who had what children** and so on. --- gone with the wind
+* → <u>It</u> has never been explained **why university students seem to enjoy practical jokes more <u>than anyone else</u>**.
+  * nobody can explain why ... (中式英文)
+  * **it has never been explained why ...** 谁也无法解释
+  * 造句：谁也无法解释玛雅 (Maya）文明为什么会突然从地球上消失 (vanish)。
+    * → **It has never been explained why** Maya civilization vanished from the earth.
+  * **I can't <u>understand</u> / <u>explain</u> why ....** (不使用 I 做主语的话)
+    * → (NCE3-41 P192-414) **Why** people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country **is beyond me.**
+    * **why ... is beyond me** 我不能理解(地道)
+    * 造句：我无法理解Jane 为什么愿意 (be prepared to do) 嫁给这样一个懒汊 (lazy-bones)。
+      * → **Why** Jane was prepared to marry such a lazy-bones **is beyond me.**
+    * → (NCE3-41 P192-L29) **It has always been a mystery to me why** city dwellers, who appreciate all these things, obstinately pretend that they would prefer to live in the country.
+      * **it has always been a mystery to me why ....** 我一直无法理解(地道)
+      * 造句：我一直搞不懂 John 为什么偏要假装 (obstinately pretend) 喜欢古典乐 (classical music).
+        * → **It has always been a mystery to me why** John obstinately pretends that he would prefer classical music.
+        * 听力题
+          * M: I was shocked when I heard you'd finished your research project a whole month early.
+          * W: How I managed to do it **is still a mystery to me.**
+          * Q: What does the woman mean?
+          * Answer: (A) She's not sure how she was able to finish so early.
+      * People still have different opinions about whether ... (不佳) 人们有不同的观点关于..
+      * → (NCE4-37 P218-L20) **Whether** the whole universe does so **is a moot point at present.** 是否整个宇宙都是这样, 目前尚无定论
+        * **whether ... is a moot point at present** 人们对于某事尚有争议
+        * 造句：人们对是否建造更多公路会减少交通堵塞 (tratfic congestion) 尚有争议。
+          * → **Whether** building more roads reduces traffic congestion **is a moot point at present.**
+  * 造句：谁也无法解释为什么住在地中海地区的人看似比任何人都更爱吃章鱼 (octopus)。
+    * → It has never been explained why people who live in the Mediterranean seem to enjoy eating octopus more than anyone else.
+* **specialize in ….**专门研究.
+  * **specialized** adj. 专业的....
+  * **specialized** knowledge 专业知识
+  * **specialized** <u>labour</u> / <u>labor</u> 专业劳动力
+    * → (NCE3-46 P212-L1) So great is our passion for doing things for ourselves, that we are becoming increasingly less dependent on **specialized labour.**
+* **a particular type of practical joke** 
+  * 如果前面有量词的话, 名词可以当作不可数名词来用
+  * **practical jokes of a particular type**
+  * → (NCE3-34 P158-L2) **The more expensive kind of antique shop** where rare objects are beautifully displayed in glass cases to keep them free from dust **<u>is</u>** usually a forbidding place.
+  * 
 
 **## text 2**
 

@@ -2,7 +2,7 @@
 
 [TOC]
 
-## L12 Life on a desert island
+## L12 Life on a desert island ⭐️
 
 **words**
 
@@ -383,7 +383,7 @@
           * **regret to tell you ...**
           * **regret inform you ...**
 
-## L13 'It's only me'
+## L13 'It's only me' ⭐️
 
 **### words**
 
@@ -2253,7 +2253,7 @@
       * air 和 heir 发音相同
     * → We must all **hang together** or we shall all **hang separately**.
 
-## L19 A very dear cat
+## L19 A very dear cat ⭐️
 
 **## words**
 
@@ -2743,7 +2743,7 @@
     * → "Is something still wrong. Robbie? “I'll be Ok.” “Going away to college **for the first time** always makes one a little nervous." " guess so. I'll be OK. I just need time to think."
   * **at the first time** 在第一次发生时 .... 
 
-## L21 Daniel Mendoza
+## L21 Daniel Mendoza ⭐️
 
 第二单元的文章会比第一单元更长, 且更难
 
@@ -3183,7 +3183,7 @@
     3. **Major events of life**
     4. **<u>Effects</u> / <u>impact</u> on society, historical significance**
 
-## L22 By heart
+## L22 By heart ⭐️
 
 **## words**
 
@@ -3956,7 +3956,7 @@ One man's meat is another man's poison 一个人的食物对是另一个人的�
   * bite v. 咬
   * shy v. 害羞, 怯懦; 害怕
 
-## L24 A skeleton in the cupboard
+## L24 A skeleton in the cupboard ⭐️
 
 **## words**
 
