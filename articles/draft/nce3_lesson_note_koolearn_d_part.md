@@ -1198,8 +1198,65 @@
 * **lose one's temper** 忍不住发脾气 , 发火了
   * **keep one's temper** 忍住不发火
 * → <u>At this</u>, the police pointed out <u>ironically</u> **that this would hardly be necessary <u>as the men were already under arrest.</u>**
+  * **at this**
+    * **在英语中，this 和that 均可前指，但一般只有this 可以后指。**
+      * 只有 this 才可以指后文出现的内容
+    * → <u>He threatened to call the police</u>. At **<u>this</u>**, the police pointed out ironically that ...
+    * → (NCE3-22 P110-L18) Finding that he could not remember a word of the letter either, the gaoler replied: '<u>The light is indeed dim, sire. I must get my glasses</u>.' With **<u>this</u>**, he hurried off the stage.
+    * → <u>To be, or not to be</u>: **<u>that</u>** is the question.  --- Shakespeare
+    * → <u>Good friends. good books and a sleepy conscience</u>: **<u>this</u>** is the ideal life.  — Mark Twain
+      * ideal n. 理想; 典范 adj. 理想的, 完美的
+    * → Of all men's miseries the bitterest is **<u>this</u>**: <u>to know so much and to have control over nothing</u>.  ---Herodotus
+      * bitterest 最痛苦的
+  * **point out** 指出，提醒说
+    * → (NCE3-36 P166-L13) Franz poured scorn on the idea, **pointing out** that his brother had been killed in action during the war
   * **be under arrest** 被捕
-    * under 可以表示 处于某个状态下
+    * **be under + n.** 处于某状态
+      * → The car **is under repair.** 车正在修
+      * → The castle **is under attack.** 城堡正在受进攻
+      * → The subject **is under discussion.** 这个题目正在讨论之中
+      * → The matter **is under consideration.** 这个事正在考虑之中
+      * → The patient **is under observation.** 病人正在观察之中
+      * → The case **is under investigation.** 案件正在调查之中
+      * → The bridge **is under construction.** 大桥正在建造之中
+      * → The building **is under renovation.** 这个建筑正在翻新之中
+* → <u>Pretending to speak seriously</u>, one of the workmen asked **if he might make a telephone call <u>before being taken to the station</u>.**
+  * 动名词的时态和语态
+    * 一般时 (万用)
+      * 主动: doing
+      * 被动: being done
+    * 完成时 (强调比 谓语动词发生的早)
+      * 主动: having done
+      * 被动: having been done
+* **pay phone/ pay station** 投币式公共电话
+* **<u>give</u> / <u>grant</u> (sb.) permission** 给予某人许可
+* **<u>refuse</u> / <u>deny</u> (sb.) permission** 拒绝了某人的许可
+  * The police granted him permission and a policeman ... (主动)
+  * **Permission was granted ** (被动) (简洁)
+  * 造句：他问老师他是否能打个电话。老师不允许他这么做，于是他只好等到下课。
+    * → He asked the teacher if he might make a telephone call. Permission was denied and he had to wait until the class was over.
+* → Only **when he saw <u>that the man was actually telephoning the police</u>** <u>did</u> he realize **that they had all been the victims of a hoax.**
+  * only+ 时间状语, 表示直到...才..., 不能表示只有...才... 
+  * **复习“only＋ 状语” 位于句首，用部分倒装**
+    * → **Only** <u>then</u> **<u>did</u>** he realize that he was mistaken.
+    * → **Only** <u>by working hard</u> **<u>can</u>** we succeed in doing anything.
+    * → **Only** <u>after a baby seal is pushed into the sea by its mother</u> **<u>will</u>** it learn how to swim.
+      * seal n. 海豹
+    * → **Only** <u>when he saw that the man was actually telephoning the police</u> **<u>did</u>** he realize that they had all been the victims of a hoax.
+  * victim 受害者
 
 ## L41 Illusions of pastoral peace
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+## L42 Modem cavemen
