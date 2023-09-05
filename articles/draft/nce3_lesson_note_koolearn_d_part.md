@@ -1249,7 +1249,45 @@
 
 **## words**
 
-* 
+* **illusion** /ɪˈluːʒn/ n. 错觉
+  * **delusion** n. 错觉, 幻想
+  * **<u>be</u> / <u>live</u> under the <u>illusion</u> / <u>delusion</u> that ...**
+    * → He **<u>is</u> / <u>lives</u> under the <u>illusion</u> / <u>delusion</u>** that he is always right.
+  * **be under the impression that ...** 某人还以为.... (错觉)
+    * → (NCE3-32 P150-L10) Though the crew **were** at first **under the impression that** the lost ship had been found, the contents of the chest proved them wrong.
+* **breed** /briːd/ v. 养育, 培育
+  * **breed bred bred**
+  * a **well-bred** child 一个有教养的孩子
+  * an **ill-bred** chile 一个没教养的孩子
+    * ill adj. 有病的, 不好的 adv. 坏地, 恶劣地 n. 伤害; 邪恶; 困难; 不幸
+  * **born and bred** 在某地出生和长大
+    * → I was **born and bred** in China.
+    * → I was China **born and bred.**
+    * → I was city **born and bred**.
+    * → I was couritry **born and bred.**
+  * **bring up sb.** 养育, 抚养 sb.
+  * **raise sb.** 抚养; 饲养
+* **rapture** /'ræptʃɚ/  n. 极度的高兴，狂喜
+  * **rapture > delight > <u>joy</u> / <u>happiness</u>**
+    * **delight** 极其高兴
+    * joy / happiness  高兴, 愉悦
+  * **<u>be in raptures</u> / <u>go into raptures</u> <u>about</u> / <u>over</u> / <u>at</u> sth.**
+    * → She **<u>was in</u> / <u>went into</u> raptures about** her new house.
+* **extol** /ɪkˈstoʊl/ v. 高度赞扬，盛赞
+  * **extol the <u>virtues</u> / <u>benefits</u> of sth.** 盛赞...的优点; 盛赞...的好处
+    * → He **extolled the virtues of** Internet technology.
+  * 同义替换
+    * **exalt** v. 高度赞扬，盛赞
+    * **eulogize** v. 高度赞扬，盛赞
+  * 表扬
+    * **praise** v. 表扬
+    * **acclaim** v. 表扬(多数用在被动)
+      * a much **acclaimed** novel 一个饱受赞誉的小说
+  * 恭维
+    * **compliment** v. 恭维
+      * **compliment sb. on sth.** 夸奖某人的某个东西特别好
+        * → Everyone at the party **complimented** Mary **on** her new dress.
+      * 
 
 **## text 1**
 
