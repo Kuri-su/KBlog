@@ -1287,7 +1287,86 @@
     * **compliment** v. 恭维
       * **compliment sb. on sth.** 夸奖某人的某个东西特别好
         * → Everyone at the party **complimented** Mary **on** her new dress.
-      * 
+* **superior** /suːˈpɪriər/ adj. 优越的，优秀的，高级的 (本身就有比较级的含义, 没有原级, 并且后面不能用 than, 需要用 to)
+  * → He is a **superior** actor.
+  * **be superior to ...** 
+    * → Your computer **is** far **superior to** mine.
+  * 同样后面不能加 than 的, 没有原级的词 (来自拉丁语)
+    * **inferior** adj. 更低级的, 劣等的
+      * **be inferior to ..** 
+    * **senior** adj. 年纪比较大的, 资历比较深的, 级别高的
+      * **be senior to ..**
+    * **junior** adj. 年纪更小的, 资历比较浅的, 级别低的
+      * **be junior to ...**
+    * **prior** adj. 时间上较早的
+      * **be prior to ...**
+    * **posterior** adj. 时间上较晚的
+      * **be posterior to ...**
+* **cockcrow** n. 鸡啼, 公鸡打鸣
+  * **cockroach / roach** n. 蟑螂
+  * **crow** vi. 公鸡打鸣
+  * **cackle** vi. 母鸡叫
+  * **quack** vi. 鸭子叫
+  * **meow** vi. 猫叫
+  * **bark** vi. 狗叫
+  * **bleat** vi. 羊叫
+  * **bellow** vi. 牛叫
+  * **grunt** vi. 猪叫
+  * **neigh** vi. 马叫
+  * **roar** vi. 狮虎叫
+  * **chirp** vi. 蛐蛐叫
+  * **twitter** vi. 鸟叫, 叽叽喳喳的叫
+  * **warble** vi. 婉转的鸟叫
+* **glint** /ɡlɪnt/ nv. 闪烁 (很多碎碎的亮点)
+  * → The dewdrops **glint** in the sunshine.
+    * dewdrop n. 露珠
+  * 同义词
+    * **sparkle** v. 闪烁 (很多碎碎的亮点)
+    * **glitter**  v. 闪烁 (很多碎碎的亮点)
+      * → All that **glitters** is not gold.
+  * 近义词辨析
+    * **flicker** n. 灯火在要摇曳的闪烁, 蜡烛在风中摇曳, 树影摇窗
+    * **flash** n. 突然发出一道强光, 转瞬就熄灭了
+    * **twinkle** n. 发出微弱的闪烁, 尤指星星在闪烁
+      * → **Twinkle, twinkle**, little star, like a diamond in the sky.
+    * **glow** n. 燃烧过的物体发出暗红色的温暖的光 (木炭/烟头/烧红的铁)
+      * → The heated iron bar **glowed**.
+* **descend** /dɪˈsend/ v. 下降, 降临
+  * → We **descended** the stairs. 我们从楼梯上下来
+  * → The plane started to **descend**.
+  * 完美反义词
+    * **ascend** v. 上升, 升起; 遗传
+      * → We **ascend** the stairs.
+      * → The plane started to **ascend**.
+  * **be descended from ..** 是某人的后代
+  * **descendant** n. 后代, 后裔, 子孙后代
+    * → He **is descended from** Confucius.
+    * → He **is a descendant of** Confucius.
+      * Confucius n. 孔子
+  * **descend <u>on</u> / <u>upon</u> ...** 如果是人做主语表示大批的来到某地; 如果是事物做主句表示某个抽象的东西突然降临
+    * → Millions of tourists **descend on** Beijing every year. 每年数以百万的游客来到北京
+    * → Total silence **descended on** the room. 房间突然陷入一片死寂
+    * → A double blessing has **descended upon** the house.
+      * blessing 可以表示 喜事
+    * → (NCE3-41 P192-L27) Few things could be more impressive than the peace that **descends on** deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country.
+* **obstinately** /ˈ ɑbstənɪtlɪ/ adv. 顽固地，固执地 (在错的事情上)
+  * → The old man is as **obstinate** as a mule. 那个老男人固执的像骡子一样
+    * **mule** n. 骡子
+  * as stupid as a donkey 蠢的像驴一样
+  * as busy as a bee  像小蜜蜂一样繁忙
+  * as cunning as a fox 狡猾的像狐狸一样
+    * cunning adj. 狡猾的；可爱的；巧妙的
+  * as brave as a lion 勇猛的像狮子一样
+    * brave adj. 勇敢的, 大胆的
+  * as proud as a peacock  骄傲的像孔雀
+  * as poor as a church mouse 穷得像教堂里的老鼠
+  * as graceful as a swan 优美的像天鹅
+  * 近义词
+    * **stubborn** adj. 固执地 (在错的事情上)
+    * **headstrong** adj. 固执地 (在错的事情上), 刚愎自用的
+  * 感情色彩上的反义词
+    * **determined** adj. 坚决的
+    * **resolute** adj. 坚决的
 
 **## text 1**
 
