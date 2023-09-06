@@ -1370,7 +1370,8 @@
 
 **## text 1**
 
-* 
+* **appeal to sb.** 吸引某人, 令某人产生兴趣
+  * → (NCE3-23 P114-L13) The idea never **appealed to** me very much, but one day, after a heavy shower, 1 happened to be walking in my garden when noticed a huge number of snails taking a stroll on some of my prize plants.
 
 **## text 2**
 
