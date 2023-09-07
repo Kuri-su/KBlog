@@ -1371,10 +1371,166 @@
 **## text 1**
 
 * **appeal to sb.** 吸引某人, 令某人产生兴趣
-  * → (NCE3-23 P114-L13) The idea never **appealed to** me very much, but one day, after a heavy shower, 1 happened to be walking in my garden when noticed a huge number of snails taking a stroll on some of my prize plants.
+  * → (NCE3-23 P114-L13) The idea never **appealed to** me very much, but one day, after a heavy shower, I happened to be walking in my garden when noticed a huge number of snails taking a stroll on some of my prize plants.
+  * **appeal** n. 吸引力
+    * → (NCE3-29 P138-L7) In spite of national differences, certain funny situations have a universal **appeal**.
+  * **attract** v. 吸引, 引起...的注意
+    * → The quiet life of the country has never **attracted** me.
+  * **intrigue** v. 激起某人的好奇心
+    * → The quiet life of the country has never **intrigued** me.
+  * **be not my cup of tea** 不是我所喜欢的
+    * → The quiet life of the country **is not my cup of tea.**
+* → **City born and city bred**, I have always <u>regarded</u> the country <u>as</u> something **you look at through a train window**, or something **you occasionally visit during the weekend.**
+  * **regard .... as ....** 把前者看作后者
+    * 同义搭配
+      * → …., I have always **thought of** the country **as** something ...
+      * → ...., rhave always **considered** the country something ...
+
+  * **City born and city bred** 城里生, 城里长
+    * 文中这句话等于一个 原因状语从句
+      * → <u>Because</u> / <u>Since</u> I was born and bred in the city, ...
+      * → <u>Because</u> / <u>Since</u> I was city born and bred, ...
+
+  * 造句：因为是土生士长的中国人，我总是认为美国就是在好莱坞电影里看到的样子，或者偶尔在假期里看到的样子。
+    * → China born and China bred, I have always regarded America as something you watch in Hollywood movies, or something you occasionally visit during holidays.
+
+* → Most of my friends live in the city, <u>yet</u> they always go into raptures **at the mere mention of the country.** 
+  * **go into raptures** 欣喜若狂
+    * **go into ecstasies** 欣喜若狂 (美)
+
+  * **at the ... of** ... 一.... 就.... (后面的 of 之后的内容可以省略)
+    * → (NCE3-23 P114-L5) On the other hand, your stomach would turn **at the idea of** frying potatoes in animal fat, ..
+    * → (NCE4-3 P17-L4) It is true that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner which would make a modern climber shudder **at the thought,** ....
+
+  * 造向：我的朋友们多数住在中国 ，然而他们总是仅仅一提到美国就欣喜若狂。
+    * → Most of my friends live in China, yet they always go into raptures at the mere mention of America.
+
+* → **Though they extol the virtues of the peaceful life**, only one of them has ever gone to live in the country <u>and</u> he was back in town within six months.
+  * **extol the <u>virtues</u> / <u>benefits</u> of sth.**  盛赞某事 的好处
+  * → ....only one of them has ever gone to live in the country...
+    * → ... only one of them **has personal experience of living in the country.**
+
+  * 造句：尽管他们盛赞美国生活的种种好 ，但只有一个人曾经去那里住过，并且仅仅(a mere） 不到两年就回中国了。
+    * → Though they extol the virtues of life in America, only one of them has ever gone to live there and he was back in China within a mere two years. 
+
+* → Even he still lives under the illusion **that country life is somehow superior to town life.**
+  * **<u>be</u> / <u>live</u> under the <u>illusion</u> / <u>delusion</u> that . .** 对某事有某种错觉
+    * → Even he **is** still **under the illusion** that... (副词的位置在句中非常灵活)
+    * → (NCE3-46 P212-L15) The worst thing about the do-it-yourself game is that sometimes even men **live under the delusion that** they can do anything, even when they have been repeatedly proved wrong.
+
+  * country life **is** somehow **superior to** town life
+    * 同义表达
+      * → ... town life **is** somehow **inferior to** country life. 城市生活好像比农村生活更差劲似的
+      * → ... country life somehow **beats** town life. 农村生活好像比城市生活强
+      * → ..country life somehow **has an advantage over** town life. 农村生活好像比城市生活有优势
+        * **have an advantage over** 优于, 比...有优势...
+        * somehow 好像
+
+  * 造句：甚至连他都依然有一种错觉 ：好像美国生活比中国生活优越。
+    * → Even he still lives under the illusion that American life is somehow superior to Chinese life.
+
+* 令人烦的老是做某事
+  * **be forever doing sth.** 
+  * **be always doing sth.**
+    * → (NCE3-2 P18-L1) Our vicar **is always raising money** for one cause or another, but he has never managed to get enough money to have the church clock repaired.
+
+  * **be <u>constantly</u> / <u>continually</u> doing sth.**
+  * **keep (on) doing sth.**
+  * **do sth. all the time**
+
+* atmosphere n. 大气层; 空气
+* 造句：他总是不停地谈论友好的人民， 干净的空气，蔚蓝的 (azure)天空和廉价的商品。
+  * → He is forever talking about the friendly people, the clean atmosphere, the azure sky and the cheap commodities.
+
+* **compare A <u>with</u> / <u>to</u> B**
+  * → I hate the way you always **compare** me **with** your ex-boyfriend.
+  * **nothing can be compared with....** 某个东西是无与伦比的
+  * 造句：泰山日出的美景是无以伦比的。
+    * → **Nothing can be compared with** the sight of the rising sun glinting on Mount Tai.
+
+  * **compared <u>to</u> / <u>with</u> ....**
+    * → **Compared to** our small flat, Bil's house seemed like a palace.
+
+  * **<u>in</u> / <u>by</u> contrast <u>to</u> / <u>with</u>**  比较
+    * → **In contrast to** the hot days, the nights are bitterly cold.
+
+  * **<u>in</u> / <u>by</u> comparison <u>to</u> / <u>with</u> ...**
+    * → People who do manual work often receive far more money **in comparison with** people who work in offices.
+
+* **at dawn** 破晓, 黎明
+  * **at the <u>break</u> / <u>crack</u> of dawn** 破晓, 黎明
+    * crack v. 开裂, 破裂
+
+  * **at sunrise** 日出时分
+  * **at daybreak** 黎明, 破晓
+  * **at duck** 黄昏, 日落
+    * dusk 黄昏, 薄暮, 
+
+  * **at sunset** 黄昏, 日落
+  * **from dawn to dusk** 从早到晚 (压首韵)
+
+* **当“part of"之前没有形容词修饰时，通常不加不定冠词"a”**
+  * → This idyllic pastoral scene is only **part of** the picture.
+  * → (NCE3-35 P162-L3) Justice is **part of** the complex machinery of the law.
+  * → Memory loss is **a <u>normal</u> part of** the aging process.
+
+* → My friend fails to mention the long and friendless winter evenings in front of <u>the TV</u> — **<u>virtually the only form of entertainment.</u>**
+  * 造句：这个房地产经纪人 (real estate agent) 根本就没提在崎岖的 (rough) 乡间道路上又闷又挤的 (stuffy and packed)小公共汽车 (minibus),，而这几乎是唯一的交通方式。
+    * → The real estate agent failed to mention the stuffy and packed minibuses on rough country roads- -virtually the only form of transportation.
+
+* → He says nothing <u>about the poor selection of goods in the shops</u>, or <u>about those unfortunate people</u> **<u>who have to travel from the country to the city every day to get to work.</u>**
+  * **everyday** adj. 
+    * **everyday** life
+    * **everyday** necessities
+    * every day 做定语
+
+* → **Why people are prepared to tolerate a four-hour journey each day for the dubious privilege <u>of living in the country</u>** is beyond me.
+  * **for the privilege of ...**
+    * → (NCE3-4 P26-L4) Such is human nature, that a great many people are often willing to sacrifice higher pay **for the privilege of** becoming white-collar workers.
+
+  * **be beyond sb.** 是某人无法理解的
+    * **be a mystery to sb.** 对某人来说是个迷 (是某人无法理解的)
+      * → (NCE3-41 P192-L29) It has always **been a mystery to me** why city dwellers, who appreciate all these things, obstinately pretend that they would prefer to live in the country.
+
+    * **beat sb.** 某人无法理解 (它把我击败, 我实在看不明白了)
+      * → It **is beyond** me why ...
+      * → It **is a mystery to** me why ....
+      * → It **beats** me why ....
+      * → I **cannot understand** why ....
+
+  * → **<u>He says nothing about</u>** .....
+    * → **<u>Why people are prepared to tolerate a four-hour iourney each dav for the dubious privilege of living in the country</u>** ....
+    * → **<u>They could be saved</u>** ...
+    * 前后各是一个头轻脚重的句子, 中间是一个头重脚轻的句子, 这样句子形状就有所变化, 避免单调
+    * 句首是构建句子多样性的关键位置
+
+  * 造句：我无法理解为什么人们愿意 (be prepared to do）放弃更高的薪水而为了可疑的(dubious） 成为白领工人的所谓特权。
+    * → Why people are prepared to sacrifice higher pay for the dubious privilege of becoming white-collar workers **is beyond me.**
+
+  * 造句：我无法理解为什么人们愿意忍受语言和文化的障碍 (barrier)，难以排遣的 (haunting） 寂寞和强烈的 (acute) 思乡之情(homesickness)，为了换取可疑的住在美国的好处。
+    * → Why people are prepared to tolerate language and cultural barriers, haunting loneliness and acute homesickness for the dubious privilege of living in America **is beyond me.**
+
+* → They <u>could</u> be saved so much misery and expense **if they <u>chose</u> to live in the city <u>where they riahtly belong</u>.**
+  * **save sb. <u>sth.</u> / <u>doing sth.</u>** 帮某人剩下某物; 省得某人做某事
+    * → If you lend me some money, it will **save** me **a trip to the bank.**
+    * → If you tell her the news, it will **save** me **calling her.**
+
+  * **rightly** adv. for a good reason 本来应该地
+    * → It was a vicious foul, and the referee **rightly** removed him from the game.
+      * vicious adj. 恶意的
+      * foul n. 犯规
+
+  * where they rightly belong
+    * = ... **which** they rightly belong **to**.
+
+  * → 造句：他们可以省去诸多痛苦、不便和无尽的怀旧之情 (nostalgia)，如果他们选择住在他们本应属于的国度 (land)。
+    * 怀旧之情 n. nostalgia
+    * → They could be saved so much misery, inconvenience and endless nostalgia if they chose to live in the land where they rightly belong.
+
 
 **## text 2**
 
 * 
 
 ## L42 Modem cavemen
+
