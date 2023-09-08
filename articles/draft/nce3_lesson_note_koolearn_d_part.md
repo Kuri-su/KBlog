@@ -1674,7 +1674,84 @@
 
 **## words**
 
-* 
+* **solitude** /ˈsɑːlətuːd/ n. 单独, 独自 (状态)
+  * → I love tranquil **solitude**.   一 P. B. Shelley
+    * tranquil adj. 安静的, 
+  * **in solitude** 独自地, 单独地
+    * → I spent the morning **in solitude.**
+    * → I live **in** that **solitude** which is painful in youth, but delicious in the years of maturity.   -- Albert Einstein
+  * **solitary** adj. 单独的, 独自的, 唯一的
+    * = single
+    * → (NCE4-3 P17-16) They had a **single** aim, a **solitary** goal -- the top!
+    * **all (<u>alone</u> / <u>on one's own</u> / <u>by oneself</u>)** 单独的, 独自的
+* **lure** /lʊr/ v. 引诱，诱惑(略有贬义味道, 通常指引诱做错事或者傻事)
+  * **lure sb. <u>to</u> / <u>into</u> some place** 引诱某人去某地
+    * → He **lured** the victim **into** a deserted house.
+    * → (NCE3-42 P196-L2) Perhaps it is the desire for solitude or the chance of making an unexpected discovery that **lures** people down **to** the depths of the earth.
+  * **lure sb. into doing** 诱惑某人做某事
+    * 同义表达
+      * **tempt sb. <u>to do</u> / <u>into doing</u>**
+      * **entice sb. <u>to do</u> / <u>into doing</u>**
+* **foresight** /ˈfɔːrsaɪt/ n. 远见, 先见之明
+  * sight n. 看
+  * → They **had the foresight to** invest in new technology.
+  * → (NCE3-42 P196-L8)Such undertakings require the precise planning and **foresight** of military operations.
+  * **forethought** n. 远虑，提前的思考
+    * → With a little **forethought** many accidents could be avoided.  如果有一些提前的考虑的话, 很多事故就可以避免了
+  * **forecast** n. 预测，预报
+    * cast v./n. 投掷
+    * weather **forecast**
+  * **foresee** vt. (foresaw, foreseen) 预见...
+    * → (NCE3-51 P232-L19) Bagrit **foresaw** a time when computers would be small enough to hold in the hand,
+    * → (NCE3-51 P232-L23) Of course, Leon Bagrit could not possibly have **foreseen** the development of the Internet,
+    * **unforeseen** adj. 未曾预见到的
+      * → NCE3-33 P154-L7) The telephone rings and this marks the prelude to an **unforeseen** series of catastrophes.
+  * **<u>foretell</u>**/**<u>predict</u>** v. 预言...
+    * → (NCE3-42 P196-L10) Precautions of this sort are necessary, for it is impossible to **foretell** the exact nature of the difficulties which will confront the pot-holer.
+    * → (NCE3-51 P232-L16) Considering how recent these developments are, it is even more remarkable that as long ago as the 1960s, an Englishman, Leon Bagrit, was able to **predict** some of the uses of computers which we know today.
+    * → Timely snow **foretells** a bumper harvest. 瑞雪昭丰年
+  * **mark the prelude to sth.** v. 预示....
+    * **prelude** 序幕 
+    * → (NCE3-33 P154-L7) The telephone rings and this **marks the prelude to** an unforeseen series of catastrophes.
+* **insistent** /ɪnˈsɪstənt/ adj.声音持续不断的；坚持要求的
+  * 1.声音持续不断的
+    * → the **insistent** ringing of the phone
+  * 2.坚持要求的
+    * **be insistent on sth.**
+    * 建议/要求/命令 从句中要用should do 型的虚拟语气
+      * **be insistent that + S. + (should) do**
+    * **insist on sth.**
+      * insist v. 坚持, 强调
+    * **insist that + S. + (should) do**
+      * → (NCE3-22 P110-L8) Even though the noble was expected to read the letter at each performance, he always **insisted that it <u>should</u> be** written out in full.
+  * **persist <u>in ...</u> / <u>with ...</u>** 坚持不懈
+    * **persistent** adj. 坚持不懈的
+  * **consist of ...** 由.....组成
+    * → (NCE3-13 P62-L6) Though the costume **consisted** only **of** a sheet, it was very effective.
+    * **be consistent with ...**  与.....符合 ，前后一致
+  * **resist** v. 抵制, 抵抗
+    * **be resistant to sth.**  抗.....,  反对......
+  * What you say now  is not with what you said last week.
+    * (A) **consistent** (B) persistent (C)resistant (D) insistent
+* **glisten** /ˈɡlɪsn/ v. 闪光, 闪烁
+  * **flash** v.& n. 突然发出的强光, 转瞬熄灭
+    * a **flash** of lightning
+    * → (NCE3-18 P82-L15) Sparks were emitted from small black boxes and red lamps **flashed** on and off angrily.
+  * **flicker** v.& n. 摇曳的光
+    * → The candle **flickered** in the wind.
+    * → (NCE3-18 P82-L14) These lights **flickered** continuously like traffic lights which have gone mad.
+  * **glow** v. &n. 燃烧过的物体发出暗红色的光
+    * → The heated iron bar **glowed**.
+    * → (NCE3-41 P192-L26) There is something comforting about the warm **glow** shed by advertisements on cold wet winter nights.
+  * **twinkle** v.& n. 星星一样发出微弱的闪烁的光
+    * → **Twinkle**, **twinkle**, little star, like a diamond in the sky. --- Jane Tavlor
+  * **<u>sparkle</u> / <u>glitter</u> / <u>glint</u>** v. &n. 碎点发出耀眼的强光
+    * → The diamond **sparkled** in the sunlight.
+    * All that **glitters** is not gold.  ---- Shakespeare
+    * → (NCE3-41 P192-L9) Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn, the sight of the rising sun **glinting** on the trees and pastures.
+  * **glisten** v. 潮湿的物体的反光
+    * → His face **glistened** with sweat.
+    * → Her eyes **glistened** with tears.
 
 **## text 1**
 
