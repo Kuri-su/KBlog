@@ -1672,3 +1672,21 @@
 
 ## L42 Modem cavemen ⭐️
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L43 Fully insured 
+
