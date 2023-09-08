@@ -1245,7 +1245,7 @@
     * → **Only** <u>when he saw that the man was actually telephoning the police</u> **<u>did</u>** he realize that they had all been the victims of a hoax.
   * victim 受害者
 
-## L41 Illusions of pastoral peace
+## L41 Illusions of pastoral peace ⭐️
 
 **## words**
 
@@ -1530,7 +1530,145 @@
 
 **## text 2**
 
-* 
+* → **If you can do without the few pastoral pleasures of the country**, you will find **the city can provide you with the best <u>that life can offer</u>.**
+  * 如果先行词表示最...的, 有最高级的含义, 一般关系代词用 that 来引导 (文法)
+  * **do without sth.** 不用某个东西也可以
+    * → If you need my car, I can **do without** it today.
+    * → She can't **do without** candy. 她没有糖果不行
+    * 同义替换搭配
+      * **go without sth.**
+      * **manage without sth.**
 
-## L42 Modem cavemen
+  * **provide sb. with sth.** 给某人提供某物
+    * **provide sth. for sb.**
+
+* **be <u>available</u>/<u>free</u> <u>for sth.</u>/<u>to do sth.</u>**
+  * 如果用物做主语表示 可以得到的, 可以找到的, 可以买到的
+  * 如果用人做主语的话, 表示有空做某事
+  * → My professor **is** always **available** <u>**for** a conversation</u> / <u>**to** talk</u> with his students.
+  * 表示没时间
+    * **be busy**
+    * **be not available**
+    * **be tied up** 
+      * tie v. 绑, 捆
+
+    * **have a <u>previous</u> / <u>prior</u> engagement**
+      * engagement n. 约定的会议; 参与度
+      * → I appreciate your kind invitation, but I **have a <u>previous</u> / <u>prior</u> engagement.**
+
+* **acquaintances** n. 熟人
+* go/come **up** to the city 
+  * go/come **down** to the country
+  * up 表示从 次重要的地方 去 重要的地方, down 表示从 重要的地方 去 次重要的地方
+  * They walked **up** north. 
+  * They walked **down** south.
+    * 这里表示北上, 和南下
+
+  * → They sailed **up** the river.
+  * → They sailed **down** the river.
+    * 表示向上游走或者向下游走
+
+* **treat** n. 难得的乐事; 款待
+  * **be a <u>real</u> / <u>great</u> treat** 真是一件难得的乐事
+    * → When we were kids, a trip to the beach **was a real treat.**
+    * → Her son's visits **are a great treat** for her.
+
+  * **as a special treat**
+    * → We took the kids to the zoo **as a special treat.**
+
+* **major**: important; significant adj. 重大的, 重要的
+  * 完美反义词
+    * **minor** adj. 微不足道的
+    * **unimportant**  adj. 微不足道的
+    * **trivial**  adj. 微不足道的
+    * **insignificant**   adj. 微不足道的
+
+* **operation**: work; activity; action
+  * → The **salvage operation** had been a complete failure. 打捞行动是一个完全的失败
+    * salvage v. 打捞
+
+  * **rescue operation** 救援行动
+  * **relief operation** 救济工作
+    * relief n. 痛苦的缓解
+
+  * **cleanup operation** 大扫除
+
+* → For them this is a major operation <u>which involves considerable planning</u>. 
+  * = ..and it involves considerable planning.
+    * involve v. 包含, 牵涉
+
+  * 造句：出国留学是一个重大的行动，需要精心的计划。
+    * → Studying abroad is a major operation which involves considerable planning.
+
+* **draw to** <u>a close</u> / <u>an end</u> / <u>a conclusion</u> 临近结束
+  * conclusion n. 终结, 结束
+  * **come to** <u>a close</u> / <u>an end</u> / <u>a conclusion</u>
+
+* **dweller** n. 居民
+  * city dweller 城市居民
+    * dwell vt. 居住, 住
+
+* **... of <u>this</u>/<u>that</u> <u>sort</u>/<u>kind</u>** 前面的可数名词要用复数形式
+  * → I can't approve of **things of this sort.**
+  * **this/that sort/kind of ...** 后面的名词可以当不可数名词用
+    * → I can't approve of **this sort of thing.**
+
+* **be only a short bus ride away** 坐公共汽车很短的一段车程
+  * be only a stone's throw away 
+  * be within walking distance 
+  * be within driving distance 
+  * be within commuting distance
+
+* **variety** n. 品种, 种类
+* **make do with ...** 用 sth. 来凑合, 临时凑合一下
+  * → John did not have a hammer, so he had to **make do with** a rock.
+
+* **second best** 二等品, 二流货
+  * **be second only to ...** 仅次于...
+    * → The euro has a circulation **second only to** that of the dollar.
+
+  * **be second to none** 无出其右 (最好的)
+    * → When it comes to singing, John **is second to none.**
+
+* → Country people run wild **when they go shopping in the city** and stagger home **loaded with <u>as</u> many of the exotic items <u>as they can carry</u>.**
+  * run 在这里是系动词, 表示 变得, go 也行
+    * people run wild 主系表 结构
+    * <u>run</u>/<u>go</u> wild with delight 欣喜若狂
+      * <u>run</u>/<u>go</u> crazy with delight 欣喜若狂
+      * go into <u>raptures</u> / <u>ecstasies(美)</u> 欣喜若狂
+
+  * stagger n./v. 蹒跚,
+  * be load with 背东西
+  * exotic adj. 异国风情的, 新奇有趣的
+
+
+* → Nor is the city without its moments of beauty. 城市里也不是没有良辰美景
+  * 造句: 有志者事尽成
+    * → **Nothing** is **impossible** to a willing mind.
+  * → **No one** has **nothing** to offer to society. 每个人都能对社会做贡献(没有人是没有东西能提供给社会的)
+  * 造句：男人也不是没有脆弱(frailty)的时候。
+    * → **Nor** <u>are</u> men **without** their moments of frailty.
+* → There is something <u>comforting</u> about the warm glow **shed by advertisements <u>on cold wet winter nights</u>.**
+  * **shed** bitter tears 留下了痛苦的泪水
+    * shed n. 棚, 库 vt. 流出, 流下
+    * **shed** blood 流出了鲜血
+    * **shed light on sth.** 揭示了.....
+      * → These discoveries may **shed light on** the origins of the universe.
+  * **on** a Monday night
+    * **on** a sunny afternoon
+* → Few things could be more impressive than the peace **that descends on deserted city streets at weekends <u>when the thousands (that travel to work every day) are tucked away in their homes in the country</u>.**
+  * 比较级表达最高级的含义
+    * **Few** students could be **more** diligent than she (is).
+  * **tuck** v. 塞进, 掖进
+    * **tuck** your trousers **into** your boots 把裤子塞到皮靴里
+    * **be tucked away**: be hidden
+      * → A group of tiny brick houses **is tucked away** behind the factory.
+* → <u>It</u> has always been a mystery to me **why city dwellers, <u>who appreciate all these things</u>, obstinately pretend <u>that they would prefer to live in the country</u>.**
+  * → It has always been beyond me why ... 我无法理解的
+  * → It beats me why ...
+  * → ... they would prefer to live in the country **rather than live in the city.**
+  * They are **hypocritical**.
+    * **hypocritical** adj. 虚伪的, 伪善的
+
+## L42 Modem cavemen ⭐️
 
