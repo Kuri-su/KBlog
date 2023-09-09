@@ -1755,7 +1755,86 @@
 
 **## text 1**
 
-* 
+* → Cave exploration, **or pot-holing, <u>as it has come to be known</u>**, is a relatively new sport.
+  * **come to do** 表示开始...., 逐渐开始 ... , 意外的.....
+    * → (NCE 3-38 P174-L1) Future historians will be in a unique position when they **come to record** the history of our own times.
+    * → (NCE3-14 P66-L10) He soon made a name for himself and **came to be known** to the ltalians as Giovanni Acuto.
+    * → A body **came to be found** under the bridge.
+
+  * relatively adv. 相对地, 
+  * or 引出同位语, 然后跟 as 引出 正如 .... 那样... 
+    * → Football, **or soccer, <u>as it is sometimes called</u>**. is very popular in the world.
+      * **soccer** n. 足球 (美)
+    * as 跟定语从句, 作非限定型定语从句, 修饰整个句子
+      * → (NCE3-33 P154-412) Things can go wrong on a big scale, **<u>as</u>** a number of people recently discovered in Parramatta, a suburb of Sydney.
+      * → (NCE2-91 P414-L12) **<u>As</u>** the Commanding Officer explained later, one half of the station did not know what the other half was doing!
+      * → Cave exploration, or pot-holing, **as ~~(it)~~** has come to be known, is a relatively new sport. (美式语法)
+        * → The problem, **as** I see **<u>*it*</u>**, is no big deal.
+        * → The author was brought up in a small village, **as** **<u>*it*</u>** is recounted in some of his stories.
+  * 造句：H1N1流感，或称猪流感 (swine flu)，正如人们逐渐了解的那样，是一种高度传染性 (highly contagious) 但可防可控可治 (preventable, controllable and curable)的疾病。
+    * → H1N1 flu, or swine fiu, as it has come to be known, is a highly contagious but preventable, controllable and curable disease.
+
+* → Perhaps **<u>it is</u>** <u>the desire for solitude</u> or <u>the chance of making an unexpected discovery</u> **<u>that</u>** lures people down to the depths of the earth.
+  * desire **for** ... 渴望...
+    * 同样表示渴望的 搭配 或 词
+      * appetite **for** ..  (食)欲求 ...
+      * lust **for** ... (性)欲求 ...
+      * longing **for** ... 渴求 ...
+        * long vi. 渴望
+
+      * yearning **for** ... 渴求 ...
+      * craving **for** ... 渴求 ...
+      * <u>hunger</u> / <u>thirst</u> **for** ... 渴求 ...(如饥似渴)
+
+  * depths of ....  .... 的深处
+    * **the depths of** the earth 地球的深处
+    * **the depths of** the ocean 海洋的深处
+    * **the depths of** the space 宇宙的深处
+    * **the depths of** the forest 森林的深处
+    * **the depths of** despair 绝望的深渊
+
+  * it is .... that .... 强调句
+  * 造句：正是对知识的渴望诱使他走进了科学的世界。
+    * → **<u>It is</u>** the desire <u>for</u> knowledge **<u>that</u>** lures him to the scientific world.
+
+* 对 .... 作出解释 ..... (谁也无法理解...)
+  * **give a <u>satisfactory</u> / <u>convincing</u> / <u>logical</u> / <u>...</u> explanation for sth.**
+  * **defy explanation** 
+    * defy .... 使某件事不可能....
+
+  * **owe sb. an explanation** 欠某人一个解释...
+  * **it is impossible to give a satisfactory explanation for ...**
+  * **it has never been explained why ...**
+  * 造句：谁也无法解释为何玛雅文明从地球上突然消失。
+    * → **It has never been explained why** Maya civilization vanished from the earth.
+    * → **It is impossible to give a satisfactory explanation for** the disappearance of Maya civilization.
+
+* **have <u>a</u> / <u>an</u>** <u>peculiar</u> / <u>extraordinary</u>/ <u>untailing</u> **fascination for** .... 有着特殊的魅力
+  * → (NCE4-35 P207-L17) Mars **has an extraordinary fascination for** would-be voyagers.
+  * → Cats **have an unfailing fascination for** most people.
+  * → <u>For him</u>, caves <u>have the same peculiar fascination</u> **which <u>high mountains have for the climber</u>.**
+  * 造句：书对他有一种独特的吸引力，就像化妆品(cosmetics）对他老婆的吸引力一样。
+    * →  For him, books have the same peculiar fascination which cosmetics have for his wife.
+
+  * **exert a ... fascination on sb.**
+    * → (NCE3-34 P158-L1) Antique shops **exert a peculiar fascination on** a great many people.
+    * = **have a ... fascination for sb.**
+
+  * 造句：我很喜欢集邮 (stamp collecting)。
+    * → Stamp collecting **exerts a peculiar fascination on** me.
+    * → Stamp collecting **has a peculiar fascination for** me.
+
+  * 可以用来说某人喜欢某物
+
+* **dim / dimly** 昏暗的/地，朦胧的/地 
+  * → (NCE3-22 P110-L16) Then, squinting his eyes, he said: 'The light is **dim**. Read the letter to me'.
+  * **sth. can only be dimly understood** 某事 只能被模糊的理解 ...
+    * = **it is impossible to give a satisfactory explanation for sth.**
+    * 这是更高级的替换, 替换并不是只能换词
+    * 造句：他的行为很难理解。
+      * → His behavior **can only be dimly  understood.**
+      * → **It is impossible to give a satisfactory explanation for** his behavior.
+
 
 **## text 2**
 
