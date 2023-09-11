@@ -2017,7 +2017,88 @@
 
 **## text 3**
 
-* 
+* **narrow** adj. 狭窄的, n. 狭窄部分 v. 变窄
+* → They had to edge their way along this, **sometimes <u>wading across shallow streams</u>, or <u>swimming across deep pools</u>.**
+  * wade v. 蹚水, 涉水
+  * **edge one's way** 侧着身子走
+    * ... one's way 的搭配
+      * **squeeze one's way** 侧身走, 挤过去
+      * **squeeze <u>through</u> / <u>in</u> / <u>past</u> / <u>by</u> ..**
+        * → (NCE3-42 P196-L26) **Squeezing through** a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall.
+
+      * **make one's way** 向某个方向走去
+        * → (NCE3-36 P166-L19) The hospital had been bombed and Hans had **made his way** back into Western Germany on foot.
+
+      * **find one's way** 人做主语 表示找到了去某地的道路, 物做主语, 表示某物到达了某地
+        * → (NCE3-15P70-L8) Very few of the fifty pence pieces and pound coins Ihave given him have **found their way** there.
+        * → (NCE3-49 P224-L31) They had mysteriously **found their way** there from the wine cellar!
+
+      * **<u>trace</u> / <u>weave</u> / <u>wind</u> one's wav** 蜿蜒的前行
+        * → (NCE3-48 P220-L13) We expected the path to end abruptly, but we found that it **traced its way** through the trees.
+
+      * **<u>force</u> / <u>elbow</u> one's way** 人群中推开众人前行
+      * **feel one's way** 摸索着前进
+      * **tunnel one's way** 开凿着隧道前进
+
+* → They plunged into the lake, <u>and</u> **after loading their gear on an inflatable rubber dinghy**, (they) let the current carry them to the other side.
+  * **plunge into** 纵身跃下	
+    * → (NCE3-10 P50-L15) The order to abandon ship was given and hundreds of people **plunged into** the icy water.
+
+  * gear 一套的装备设备
+  * inflatable adj. 可充气的
+  * rubber dinghy 橡皮救生艇
+  * current n. 水流, 电流, 气流
+  * rubber n. 橡皮
+
+* rubble n. 碎石, 碎砖头
+* → **In this part of the cave**, they could hear an insistent booming sound **which <u>they found</u> was caused by a small waterspout (shooting down into a pool from the roof of the cave).**
+  * 嵌入式定语从句 
+    * 既修饰先行词, 又做嵌入的主谓结构的宾语.
+    * 造句：她有一个养子，这个养子据她讲是个孤儿。
+      * → She has an adopted son **who <u>she says</u> is an orphan.**
+        * 这里的 is an orphan 既是 she says 的宾语, 又修饰 adopted son
+    * 造句：Aleko突然得到了一只新的羊羔， 这只羊羔他声称是买来的。
+      * → Aleko suddenly acquired a new lamb **which <u>he claimed</u> was bought.**
+    * → He's just published an article **which <u>I don't think</u> is interesting at all.**
+    * → I met a man who<u>m I thoucht</u> was a lunatic.
+  * **gap** n. 缺口, v. 裂开
+* → **After switching on powerful arc lights**, they saw great stalagmites**— <u>some of them over forty feet high</u>—rising up like tree-trunks to meet the stalactites <u>suspended from the roof</u>.**
+  * **arc** n. 弧
+  * stalagmites n. 石笋 (从下往上长)
+  * stalactites n. 钟乳石 (从上往下长)
+  * suspend v. 挂在...
+  * 独立主格结构做插入语
+    * — some of them **being** over forty feet high 一 (being) 可以去掉
+    * 造句：在打开灯之后，我看到在一个小黑盒子里面装着闪闪发光的 (sparkling) 钻石，其中有些有玻璃球 (marbles)那么大。
+      * → After switching on the light, I saw sparkling diamonds-some of them as big as marbles-contained in a small black box.
+
+  * switch on $\Leftrightarrow$  sth 打开... 
+    * switch off $\Leftrightarrow$ sth 关闭
+
+* → In the eerie silence of the cavern, the only sound **that could be heard** was made by water **which dripped continuously from the high dome above them.**
+  * **eerie** adj. (因阴森怪诞而) 毛骨悚然的, 可怕的
+  * dome n. 圆屋顶, 穹顶
+  * drip v. 滴下
+  * 造句：在这栋房子可怕的寂静中，唯一能听到的声音就是从一扇打碎的窗子不断吹进 (blow) 的风声。
+    * → In the <u>eerie</u> silence of the house, the only sound that could be heard was made by wind which blew continuously from a broken window.
+
 
 ## L43 Fully insured 
 
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L44 Speed and comfort 
