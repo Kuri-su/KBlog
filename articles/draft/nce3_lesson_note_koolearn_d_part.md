@@ -1838,7 +1838,182 @@
 
 **## text 2**
 
-* 
+* 同样意思的三句话, 同时注意主谓一致
+  * → **Horses <u>are</u>** useful animals.
+  * → **The horse <u>is</u>** a useful animal.
+  * → **A horse <u>is</u>** a useful animal.
+    * 马 是一种有用的动物
+
+* **….is not a task for sb. ...** 不是某人所能胜任的
+  * 造句：出国留学不是懒汉 (lazy-bones) 所能胜任的。
+    * → Studying abroad i**s not a task for** the lazy-bones.
+
+  * 造句：做个好老公不是花花公子能胜任的。
+    * → Being a good husband **is not a task for** the playboy.
+
+* **require the precise planning and foresight of ...** 需要精确的规划 和 ... 的远见
+  * 造句：炒股 (speculation in stocks) 需要一个职业投资人的精密计划和远见。
+    * speculation n. 投机
+    * → Speculation in stocks <u>requires the precise planning and foresight of</u> a professional investor.
+
+  * → (NCE3-41 P192-L21) For them this is <u>a major operation which involves considerable planning.</u>
+  * 造句：出国留学是一个重大行动，需要大量精心的计划。
+    * → Studying abroad is a major operation which involves considerable planning.
+
+* → <u>It</u> can take as long as eight days to rig up rope ladders <u>and</u> to establish supply bases **before a descent can be made into a very deep cave.**
+  * rig up 草草搭起
+  * take v. 需要
+    * → The wound will **take** a long time to heal.
+      * wound n. 创伤, 伤口
+      * heal v. 痊愈
+
+    * → It **takes** two people to make a quarrel. 
+      * quarrel n./vi. 争吵
+
+    * → You're an idiot! 你是一个大傻X
+      * → **<u>It takes one to know one !</u>** 你也是 (需要一个大傻X 才能知道另一个)
+
+    * → Anyone can be passionate, but it **takes** real lovers to be silly.  — Rose Franken
+      * passionate adj. 多情的, 激情的, 热切的
+      * silly adj. 蠢的, 傻的
+
+    * **it takes ... to do sth.** 做某事需要....
+      * 造句：做一名长跑运动员需要耐力 (stamina).
+        * → **It takes** stamina **to** be a long-distance runner.
+
+      * 造句：反抗 (stand up to …）老板需要很大的勇气。
+        * → **It takes** a lot of courage **to** stand up to the boss.
+
+      * 造句：照顾一名残疾儿童需要很大的耐心。
+        * → **It takes** a lot of patience **to** take care of a disabled child.
+
+  * **rig up**: to make sth. quickly out of whatever you can find 草草做成，草草搭起
+    * → They **rigged up** a shelter using a sheet and some branches.
+      * sheet n. 床单, 指平整很薄的一张或一片
+
+  * **make a descent = descend** 
+    * = .... before pot-holers can **descend** into a very deep cave.
+
+* → Precautions of this sort are necessary, **for <u>it</u> is impossible to foretell the exact nature of the difficulties <u>which will confront the pot-holer</u>**.
+  * for 后面跟原因状语从句, 有时候会有类似 并列句的功能
+  * **precaution** n. 预防措施 (习惯用复数)
+    * <u>fire</u> / <u>safety</u> / <u>security</u> / <u>sanitary</u> **precautions** 
+    * **take precautions** 采取预防措施
+      * → The government **took precautions** to pprevent the spread of the disease.
+
+    * **take measures** 采取措施
+      * **take** <u>effective</u> / <u>drastic</u> **measures** 采取有效的措施/ 采取极端的措施
+
+    * **Precautions** <u>of this sort</u> **<u>are</u>** necessary, ...
+      * <u>This sort of</u> **precaution** **<u>is</u>** necessary, .
+      * this sort of + 单数
+      * 复数 + of this sort 
+      * 但对于 Precaution 这个词, 最好复合它本身的使用习惯用 复数
+
+  * foretell v. 语言
+  * nature n. 本性, 性质
+  * confront v. 摆在某人面前
+    * **<u>confront</u> / <u>face</u> sb.**  (问题做主语)
+    * **be <u>confronted</u> / <u>faced</u> with ...** (人做主语)
+
+  * exact adj. 精确的 vt. 强求
+
+* **known** adj. 已知的
+  * 经常构成复合形容词的搭配
+    * **little-known**  adj. 鲜为人知的
+    * **unknown** adj. 不为人知的
+    * **well-known** adj. 著名的(被很好的知道的)
+
+* **extend to a depth of ...** 深达...
+  * → (NCE3-17 P78-L11) The platforms **extend to a depth of** over 100 feet under the sea.
+  * **rise to a height of ...** 高达..
+    * → (NCE3-17 P78-L12) Above the surface of the water, the towers **rise to a height of** nearly 700 feet.
+
+  * **<u>be</u> / <u>stand</u> ... <u>high</u> / <u>tall</u>** 有多高
+  * **be ... <u>deep</u> / <u>in depth</u>** 有多深
+  * **be ... <u>long</u> / <u>in length</u>** 有多长
+  * **be ... <u>wide</u> / <u>across</u> / <u>in width</u>** 有多宽
+
+* → This immense chasm has been formed by an underground stream **which has tunneled a course <u>through a flaw in the rocks</u>.**
+  * immense adj. 巨大的, 硕大的
+  * **chasm** n. 峡谷, 深渊
+  * course n. 航线, 航道
+  * **tunnel** n. 隧道 v. 挖隧道
+  * flaw n. 裂缝; 缺点, 下次
+
+* **The entrance to the cave** 山洞的入口
+  * ... 的入口用 to
+
+* **plateau** n. 高原
+  * the Qinghai-Tibet **Plateau** 青藏高原
+  * **plain** n. 平原
+    * the North China **Plain**
+
+  * **basin** n. 盆地; 水盆
+    * the Tarim **Basin** 塔里木盆地
+
+  * 草原
+    * **savannah** n. 热带或亚热带的大草原
+    * **prairie** n. 北美的大草原(托福)
+    * **grassland** n. 草原(泛)
+      * the Inner Mongolian **Grassland** 内蒙古大草原
+        * Mongolian 蒙古的
+
+* → The cave <u>might never have been discovered</u> **<u>had not</u> the entrance <u>been spotted</u> by the distinguished French pot-holer, <u>Berger</u>**.
+  * **distinguished** adj. 杰出的
+  * → The cave might never have been discovered **if the entrance had not been spotted** by the distinguished French pot-holer, Berger.
+    * 这是与过去事实相反的虚拟
+    * 虚拟语句
+      * 与现在相反的虚拟
+        * **If +S. + <u>did</u> / <u>were</u>, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
+
+      * 与过去事实相反
+        * **If + S.+ had done, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + have done**
+
+      * 与未来相反
+        * **If +S. + should do, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
+        * **If + S. + <u>did</u> / <u>were to do</u>, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
+
+      * 虚拟语气倒装
+        * 出现如下三个字就可以倒装, 把 下面三个字提前,然后省略 if (只用在书面语)
+          * **were / had /should**
+            * → **If I <u>were</u> you**, I would go abroad at once.
+              * → **<u>Were</u> I you**, I would go abroad at once.
+
+            * → **If you <u>had</u> come here a little earlier just now**, you might have met her.
+              * → **<u>Had</u> you come here a little earlier just now**, you might have met her.
+
+            * → **If it <u>should</u> rain tomorrow**, you could stay at home.
+              * → **<u>Should</u> it rain tomorrow,** you could stay at home.
+
+            * → **If the sun <u>were</u> to rise in the west**, I would lend you the money.
+              * → **<u>Were</u> the sun to rise in the west**, I would lend you the money.
+
+          * → The millions of calculations involved, had they been done by hand, __ all practical value by the time they finished.
+            * (A) could lose **(B)would have lost** (C) might lose (D) ought to have lost
+              * involved adj. 卷入的, 有关的; 复杂的 v. 涉及
+
+* since 自从; 因为
+  * since 表因为的时候一定是连词, 引导原因状语从句
+  * 表示自从的时候, 既是连词, 也是介词, 
+
+* **a <u>sort</u> / <u>kind</u> of ...** 好像是
+  * → (NCE3-12 P58-L2) We sometimes imagine a desert island to be **<u>a sort of</u> paradise** where the sun alwavs shines. 我们常把一个阳光照耀的荒芜的小岛想象成天堂, 
+  * → (NCE3-14 P66-L14) In spite of this, the ltalians regarded him as **<u>a sort of</u> hero.** 英雄般的人物
+  * 同义表达
+    * **as it were** 好像是 (插入语)
+      * → (NCE3-38 P174-L6) They will be able, **as it were**, to see and hear us in action.
+      * → Since its discovery, it has become, **as it were,** the pot-holer's Everest.
+
+    * **so to speak** 可以说 ('好像是' 的替换)(插入语)
+      * → Since its discovery, it has become, **so to speak**, the pot-holer's Everest.
+
+* **remain to be done** 有待.....
+  * → Several problems **remain to be settled.** 有若干问题等待解决
+    * settle v. 解决, 安排 n. 有靠背的长椅
+
+  * → It **remains to be seen** how many senior citizens will actually benefit from this new plan.
+
 
 **## text 3**
 
