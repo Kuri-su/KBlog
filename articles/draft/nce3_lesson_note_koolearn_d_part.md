@@ -2087,7 +2087,104 @@
 
 **## words**
 
-* 
+* **insure** v. 投保, 为.. 上保险
+  * **insure ... against ...** 上了...保险
+    * → I have **insured** my house **against** <u>fire</u> /<u>burglary</u>. 给 房子上了 火灾险 和 盗窃险
+    * → I have **insured** myself against illness. 我给我自己上了疾病险
+  * **insure ... for ...** 上了多少钱的保险
+    * → They've **insured** the painting **for** a million pounds.
+  * **<u>insure</u> (US) / <u>ensure</u> (UK) = make <u>sure</u> / <u>certain</u>** 确保, 保证
+    * **<u>insure</u>** / **<u>ensure</u>** passenger safety
+    * → One more goal will **<u>insure</u> / <u>ensure</u>** victory.
+    * → The role of the police is to **<u>insure</u> / <u>ensure</u> (that)** the law is obeyed.
+      * role n. 角色; 作用
+* **recover**  v.重新获得，找回，赚回，补偿; 康复，恢复正常
+  * → Four paintings stolen from the gallery have **been recovered.**
+    * gallery n. 画廊
+  * → We **recovered** lost time by setting out early. 我们通过早点出发, 弥补了失去的时间
+  * → (NCE3-43 P200-L8) But the claim made by a local authority to **recover** the cost of salvaging a sunken pie dish must surely be unique. (补偿)
+  * → After a few days of fever, she began to **recover**. (康复)
+  * **recover from ...** 从... 中 恢复过来
+    * → He's in hospital, **recovering from** a heart attack. 
+  * 同义词 
+    * restore
+    * regain
+      * 后可接
+        * one's health 恢复了健康
+        * one's sight 恢复了视力
+        * one's consciousness 恢复了意识
+        * one's balance 恢复了平衡
+        * one's composure 恢复了镇定
+* **admittedly** /əd'mɪtɪdli/ adv. 诚然, 的确, 确实
+  * (先让步, 后转折)
+  * **admittedly** adv. used, especially at the beginning of a sentence, when you are accepting that sth is true
+  * → **Admittedly**, he didn't know that at the time.
+  * **Admittedly, .., but.....**
+    * 同义搭配
+      * **Granted..., but ...**
+      * **lt is true that ... , but ...**
+    * → **Admittedly**, it was difficult, **but** it wasn't impossible.
+    * → **Granted**, he doesn't look too bad for his age, **but** I don't fancy him.
+    * → (NCE3-16 P74-L12) **It was true that** he had just bought a lamb, he explained, **but** his lamb was black.
+  * **It is true that / Admittedly, / Granted,  ....,** 后面接如下好句子, 
+    * **but that is not to say that ...**
+    * **but it does not follow that ...**
+    * **but it does not necessarily mean that ...**
+    * **but there is no guarantee that ...**
+  * 造句：确实很多大学生选择继续读研究生 (pursue their graduate studies)，但这并不意味着他们都想做学者。
+    * → **Admittedly**, many college students choose to pursue their graduate studies, **but it does not necessarily mean that** they want to be scholars.
+* **annual** /ˈænjuəl/ adj. 每年的, 年度的
+  * **annual** <u>income</u> / <u>meeting</u> / <u>ring</u> 年收入 / 年会 / 年轮
+  * **annually** adv. 每年地, 一年一次地
+    * → The jazz festival is held **annually** in July.
+  * **yearly** adj. & adv.  每年的; 每年地
+    * **yearly** income / interest / budget 年收入/ 年息/ 年预算
+      * → The magazine is issued twice **yearly**.
+  * **daily** adj. & adv.
+    * **daily** (**=everyday**) life
+      * everyday adj.
+    * The zoo is open **daily** (=**every day**).
+      * every day adv.
+  * **weekly** adj. & adv.
+  * **monthly** adj. & adv.
+  * **biannual** 一年两次的
+    * bi- 表示'两个' 的字头
+  * **biennial** 两年一次的
+  * **triennial** 三年一次的
+  * **centennial** 百年一次的
+  * **millennial** 千年一次的
+    * decade 十年
+    * century 百年
+    * millenium 千年
+* **teenager** n. 13~19岁的青少年
+  * 因为 13~19 的单词里都有 一个 teen
+  * = **teen** n. 13~19岁的青少年
+  * → a magazine aimed at **<u>teenagers</u>** / **<u>teens</u>**
+  * **in one's teens** 在某人 13~19 岁期间
+    * → She was **in her teens** when she met him.
+  * **teenage** adj. 十几岁的
+    * a **teenage** boy
+    * my **teenage** daughter
+  * **youth** n. 小年轻(略带贬义)
+    * a gang of **youths** 一帮小年轻
+  * **youngster** n. 年轻人(一般中老年人这么称呼年轻人)
+    * → You **youngsters** have got your whole life ahead of you.
+  * **minor** n. 未成年人
+    * → It is illegal to sell alcohol to a **minor**.
+  * **adolescent** n. 青春期的孩子 adj. 青春期的
+    * → An **adolescent** between the ages of 13 and 19 is called a teenager.
+    * an **adolescent** boy
+* **agonizing** /'ægə'naɪzɪŋ/ adj.令人痛苦的，令人伤脑筋的
+  * an **agonizing** injury 令人痛苦的伤
+  * an **agonizing** <u>choice</u> / <u>decision</u> / <u>dilemma</u> 
+    * dilemma 两难抉择
+  * **agonized** adj. 感到痛苦的
+    * an **agonized** <u>expression</u> / <u>scream</u> 痛苦的表情/ 痛苦的尖叫
+  * **agonize <u>about</u> / <u>over</u> ...** 为某事痛苦... 头疼
+    * **agonize** v. 痛苦
+      * → For days I **agonized about** whether to accept his advice.
+  * **agony** n. 痛苦(极大)
+    * → He groaned **in agony**.
 
 **## text 1**
 
