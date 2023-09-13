@@ -2188,11 +2188,83 @@
 
 **## text 1**
 
-* 
+* **insurance** n. 保险
+  * **insurance** company 保险公司
+  * **insurance** <u>agent</u>/<u>broker</u> 保险经纪人, 保险中介
+  * **insurance** policy 保单
+  * **insurance** premium 保险费(交的费用)
+  * medical care **insurance** 医疗保险
+  * endowment **insurance** 养老保险
+  * unemployment **insurance** 失业保险
+  * housing fund 住房公积金
+* **normally** adv. 1. usually 通常
+  * → The journey **normally** takes about two hours.
+  * **normally** adv. 2. in a normal way 正常地
+    * → Her heart is beating **normally**.
+* **possessions / property** n. 财产 (动产不动产都行)
+  * **<u>property</u> / <u>real estate</u>**  n. 特指 房地产
+  * **belongings / things** n. 特指 动产
+* **practice** n.习俗，惯例，习惯性的做法
+  * → (NCE3-23 P114-L5) On the other hand, your stomach would turn at the idea of frying potatoes in animal fat—the normally accepted **practice** in many northern countries.
+* → **If, however, you <u>were</u> holding an open air garden party or a fete** <u>it</u> <u>would</u> be equally possible **to insure yourself in the event of bad weather.**
+  * **<u>open-air</u>** = <u>**outdoor**</u> adj.
+    * An open-air <u>concert</u> / <u>swimming pool</u>
+      * concert n. 音乐会 v. 协调, 
+    * **<u>in the open air</u> = <u>outdoors</u> = <u>out of doors</u>** adv.
+      * The wedding was held **~**
+    * **indoor** adj.
+    * **indoors** adv.
+  * **fete** n. (BrE) an outdoor event where there are competitions and things to eat and drink, usually organized to get money 游园会，义卖会
+  * **in the event of ...** 万一某个不好的事情发生
+    * 完美同义词
+      * **in case of ...**
+    * → The party will be held indoors **<u>in the event of</u> / <u>in case of</u>** rain.
+    * **<u>in any event</u>** = **<u>in any case</u>** = **<u>come what may</u>** 在任何情况下, 无论如何
+      * → ~ I shall go before Tuesday.
+* → <u>Needless to say</u>, **the bigger the risk <u>an insurance company takes</u>**, the higher the premium <u>you will have to pay.</u>
+  * **needless to say** 
+    * → (NCE3-36 P166-L16) **Needless to say**, the man's name was Hans Bussman and he reallv was Franz's long-lost brother.
+  * 前面是从句 , 后面是主句, 越... 就越....
+    * → **The more he gets**, the more he wants.
+    * → **The harder you work,** the greater progress you will make.
+    * 如果主句主语太长, 那么可以考虑倒装
+      * → **The more socialism spreads,** the stronger <u>become</u> the forces of peace.
+    * 如果主句或者从句的谓语是 be 动词, 那么可以被省略
+      * → **The younger the child**, the more the child's need of sleep.
+        * → **The younger the child <u>is</u>**, the more <u>is</u> / <u>will be</u> the child'’s need of sleep.
+      * → **The higher the standard of living**, the greater the amount of paper used.
+        * → **The higher the standard of living <u>is</u>**, the greater <u>is</u> / <u>will be</u> the amount of paper used.
+    * → Needless to say, **the bigger the risk <u>an insurance company takes</u> <u>is</u>**. the higher <u>will be</u> the premium <u>you will have to pay</u>.
+* → <u>It</u> is not uncommon to hear **that a shipping company has made a claim <u>for the cost of salvaging a sunken ship</u>.**
+  * **sunken** adj. 沉没的
+  * **it is not uncommon (for sb.) to do** 对于某人来说, 做某事并不新鲜
+    * → **It is not uncommon for** students **to** have bank loans.
+    * → **It is not uncommon for** Chinese **to** be given names of popular slogans.
+  * **claim** n. 索赔要求
+    * → (NCE3-7 P38-L6) Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with **claims** from people who fed their money to a machine or to their dog.
+    * **<u>make</u> / <u>file</u> a claim for ...** 提出...索赔要求
+    * **<u>drop</u> / <u>waive</u> a claim for ...** 放弃 ... 索赔要求
+    * **<u>allow</u> / <u>uphold</u> a claim for ...** 支持 ... 索赔要求
+    * **<u>dismiss</u> / <u>reiect</u> a claim for ...** 驳回 ... 索赔要求
+* → But the claim **made by a local authority <u>to recover the cost of salvacing a sunken pie dish</u>** must surely be unique.
+  * authority n. 政府当局; 权威
+    * → (NCE3-30 P142-L18) Fearing **the authorities**, Eric remained in hiding after the war as well.
+    * → (NCE3-37 P170-L6) It is all too easy to blame **the railway authorities** when something does go wrong.
 
 **## text 2**
 
-* 
+* → It had been <u>purchased</u> by a local authority **so that an enormous pie could be baked for an annual fair.**
+  * <u>purchase</u> = buy
+  * fair n. 展览会, 集会 adj. 公平的 adv. 公平地
+  * **so that ...**
+    * **so (that)作连词一般来说有两种用法**：
+      1. **引导结果状语从句**，译为“所以”， 从句谓语动词中一般没有情态动词。
+      2. **引导目的状语从句**，译为“以便”= in order that …，从句谓语动词中多出现情态动词 can, could, may, might, should,would 等.
+    * 例子
+      * → We paid him immediately, **so (that) he left contented .** (所以)
+        * → We paid him immediately, **so (that) he <u>would</u> leave contented.** (以便于)
+      * → (NCE3-43 P200-L11) The pie committee decided that the best way to transport the dish would be by canal, **so they insured it for the trip.** 
+      * → (NCE3-57 P256-L7) In the new country he became absorbed in making a new life for the two of us, **so that he gradually ceased to grieve.**
 
 **## text 3**
 
