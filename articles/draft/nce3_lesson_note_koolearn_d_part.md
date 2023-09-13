@@ -2293,7 +2293,14 @@
   * → The story **is more than** I **can** believe.
   * → The beauty of the West Lake is **more than** words **can** describe.
   * → The weather turned out to be very good, which was **more than** we **could** expect.
-* 
+* **capsize** 沉没
+  * 同义词
+    * **sink** 
+    * **go down** 
+    * **go under**
+    * **go to the bottom**
+      * → (NCE3-10 P50-L2) The tragic sinking of this great liner will always be remembered, for she **went down** on her first voyage with heavy loss of life.
+      * 
 
 **## text 3**
 
