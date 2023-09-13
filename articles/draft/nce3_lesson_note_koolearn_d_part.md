@@ -2256,6 +2256,7 @@
 * → It had been <u>purchased</u> by a local authority **so that an enormous pie could be baked for an annual fair.**
   * <u>purchase</u> = buy
   * fair n. 展览会, 集会 adj. 公平的 adv. 公平地
+    * **fair** n. a large public event where goods are bought and sold, usually from tables which have been specially arranged for the event, and where there is often entertainment 大型集市，庙会
   * **so that ...**
     * **so (that)作连词一般来说有两种用法**：
       1. **引导结果状语从句**，译为“所以”， 从句谓语动词中一般没有情态动词。
@@ -2265,6 +2266,34 @@
         * → We paid him immediately, **so (that) he <u>would</u> leave contented.** (以便于)
       * → (NCE3-43 P200-L11) The pie committee decided that the best way to transport the dish would be by canal, **so they insured it for the trip.** 
       * → (NCE3-57 P256-L7) In the new country he became absorbed in making a new life for the two of us, **so that he gradually ceased to grieve.**
+      * → It had been purchased by a local authority **so that an enormous pie <u>could</u> be baked for an annual fair.**
+      * → (NCE3-43 P200-L23) This time they fixed heavy metal clamps to both sides of the dish **so that they <u>could</u> fasten the chains.**
+  * **bake** v. to cook food in an oven without extra fat or liaquid 焙烤
+    * → (NCE3-26 P126-L12) During a radio programme, a company of biscuit manufacturers once asked listeners to **bake** biscuits and send them to their factory.
+* **decide 不一定译为“央定〞，而常常译为“（在考虑之后）确定，断定， 认为〞，尤其是其后加 that 引导的宾语从句时。**
+  * → (NCE3-52 P236-L30) From then on, Harry **decided** <u>that this little game he had invented might prove to be expensive.</u>
+  * → (NCE3-57 P256-L22) I **decided** <u>that I must have taken a wrong turning somewhere.</u>
+* **shortly <u>before</u> / <u>after</u>..** 不久之前, 不久之后
+  * → The accident happened **shortly before** <u>midday</u>.
+  * → I saw him **shortly before** <u>he died.</u>
+  * → Police arrived at the scene **shortly after** <u>midnight</u>.
+  * → **Shortly after** <u>it was launched</u>, the pie committee went to a local inn to celebrate.
+    * launch v. 船下水了; 发射
+      * **launch** v. to put a boat or ship into the water 使船下水
+        * → The lifeboat **was launched** immediately to rescue the four men.
+  * = **Shortly afterwards**
+    * → (NCE3-40 P182-L16) **Shortly afterwards**, four more policemen arrived and remonstrated with the workmen.
+  * **long <u>before</u> / <u>after</u>**, 很久之后, 很久之前
+    * → (NCE3-31 P146-L8) He was known to us all as Dickie and his eccentricity had become legendary **long before** <u>he died.</u>
+    * → (NCE3-49 P224-L5) She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there **long after** <u>her husband's death.</u>
+* **inn** n. a small hotel or pub, especially an old one in the countryside（乡下的 ）酒馆，客栈
+* **be more than ... can / could....** 是...所不能...
+  * → (NCE2-78 P362-L10) When my old friend Brian urged me to accept a cigarette, it was **more than** I **could** bear.
+  * → The pain **is more than** I **can** bear.
+  * → The story **is more than** I **can** believe.
+  * → The beauty of the West Lake is **more than** words **can** describe.
+  * → The weather turned out to be very good, which was **more than** we **could** expect.
+* 
 
 **## text 3**
 
