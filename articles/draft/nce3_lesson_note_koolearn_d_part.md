@@ -2300,10 +2300,110 @@
     * **go under**
     * **go to the bottom**
       * → (NCE3-10 P50-L2) The tragic sinking of this great liner will always be remembered, for she **went down** on her first voyage with heavy loss of life.
-      * 
 
 **## text 3**
 
-* 
+* **a recovery <u>vehicle</u> / <u>truck</u>**
+  * one for taking broken-down cars, etc. to a garage 维修拖车（把毀坏的汽车等拉回修理厂的车）
+* → **<u>Shivering</u> in their wet clothes**, the teenagers looked on **while three men dived repeatedly into the water <u>to locate the dish.</u>**
+  * dive n./v. 跳水, 潜水
+  * **shiver/tremble** v. 颤抖
+    * shiver 只能表示人打哆嗦, tremble 还能表示物体在震动
+      * → She **shivered** at the thought of going into the dark house alone.
+      * → We were **trembling** with excitement.
+      * → The bridge **trembled** as the train sped across it.
+      * → (NCE3-10 P50-L12) Suddenly, there was a slight **trembling** sound from below, and the captain went down to see what had happened.
+      * → (NCE3-58 P260-L14) By this time her legs were beginning to **tremble**, so she sat down and accepted a cup of very strong tea, while he telephoned the police.
+  * **look on** vi. 旁观 vt. 把前者看作是后者
+    * → (NCE3-22 P110-L14) The gaoler **looked on** eagerly, anxious to see if his fellowactor had at last learnt his lines.
+    * **onlooker** 旁观看热闹的人
+    * Look on 如果是及物的话, 通常和 as 搭配, look on ... as .... 把前者看作是后者
+      * → We **look on** her **as** a daughter.
+  * **locate** v. 确定...的位置
+    * → (NCE3-35 P162-L16) They **located** the right chimney by tapping at the walls and listening for the man's cries.
+* **have difficulty (in) doing sth.** 做某事有困难
+  * **have trouble (in) doing sth.** 做某事有困难, 
+  * **have a hard time doing sth.** 做某事有困难
+    * → She **had a hard time writing** the dear John letter.
+      * the dear John letter 绝交信(女孩写给男孩)
+      * the dear Jane letter 绝交信(男孩写给女孩)
+
+  * **have a good time doing sth.**
+
+
+* → The sides of the dish were so smooth **that <u>it</u> was almost impossible to <u>attach</u> hawsers and chains <u>to</u> the rim without damaging it.**
+  * **hawser** n. (船上的) 粗缆绳
+  * rim n. 边缘
+  * **fix sth. <u>to</u> / <u>on</u> sth.** 把某物固定到某物上
+    * → The shelves should **be fixed to** the wall with screws. 
+      * shelve n. 架子
+      * screw n. 螺丝钉
+* winch n. 绞车, 卷扬机
+* **<u>put</u> / <u>bring</u> sth. into operation** 
+  * to make sth start working 开动， 实施，使生效
+  * → It's time to **put** our plan **into operation.**
+  * → New legislation will **be brought into operation** in January.
+* **gently** adv. <u>carefully</u>, without a lot of force or sudden change in movement 小心翼翼地
+  * → (NCE3-34 P158-L18) Frank **gently** lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case.
+* **moment** n. 1. a particular point in time
+  * → Just **<u>at</u>** that **moment** there was a knock on the door. (和 at 搭配)
+  * **moment** n. 2. a very short period of time
+    * → I'll come back to that point **<u>in</u>** a **moment**.
+    * → It was quiet **<u>for</u>** a **moment**, then Rae spoke.
+    * → 'I don't understand,' said Lucy **after** a **moment**.
+* **perch** v. 鸟降在某个地方(树枝, 高压线, 窗台)
+  * **be perched on ...**
+    * → (NCE3-48 P220-L18) The path led to a tiny village (which **was**) **perched on** the steep sides of a mountain.
+* **precarious** adj. 不稳定的, 悬的
+  * a **precarious** future 前途未卜
+  * → He is in **precarious** health. 他的健康状况很不稳定
+  * **precariously** adv. 不稳定地
+    * → They lived **precariously** on the income from a few small investments.
+* overbalance v. 失去平衡
+* **<u>be</u> / <u>feel</u> obliged to do sth.** 不得不做某事 (由于责任/义务等内在因素)
+  * → (NCE3-1 P14-45) However, as the evidence began to accumulate, experts from the Zoo **felt obliged to** investigate ....
+  * → (NCE3-30 P142-L15) He had **been obliged to** join the army during the Second World War.
+* **clamp(cramp)**  n. device for holding things tightly together, usu by means of a screw 夹具，夹钳
+* **rest (sth.) <u>on</u> / <u>against</u> sth.** 搭在....上
+  * → (NCE3-3 P22-L15) She stood three feet high and her hands **rested on** her hips.
+* **start (sth. $\Leftrightarrow$ )up**
+  * if an engine, Car etc. starts up, or you start it up, it begins working
+  * → The driver got back into the car and **started up.**
+  * → Rory **started up** the engine and got the vehicle moving.
+* → Water streamed <u>in torrents</u> <u>over its sides</u> with <u>such</u> force **that it set up a huge wave in the canal.**
+  * **torrent** n. 洪流
+    * **in torrent** adv. 汹涌地
+      * → The rain came down **in torrents.**
+    * **current** n. 水流, 电流, 气流
+    * **stream** n. 水流  v. 水在流淌
+    * **trickle** n. 溪流, 细细的水流 
+      * → (NCE4-22 P127-L10) The **trickle** became a **stream**; the **stream** has now become a **torrent**.
+  * **such ... that ...** 如此以至于
+    * → (NCE3-31 P146-L12) He wanted to buy a £300 watch for his wife, but he was in **such** <u>a bedracoled condition</u> **that** an assistant refused to serve him.
+  * **set up** 造成, 导致
+    * → (NCE3-33 P154-L4) lt is as if a single unimportant event **set up** a chain of reactions.
+* → There was a danger **that the wave would rebound off the other side of the bank <u>and</u> send the dish <u>plunoing into the water again</u>.**
+  * **there <u>is</u> / <u>was</u> a danger that ...**
+    * → (NCE3-25 P122-L15) This greatly reduced the speed of the ship, for **there was a danger** that if she travelled too quickly, this rudder would be torn away as well.
+    * **there is always hope that ...** 总是会有这么个希望...
+    * **there is no denying that ...** 不可否认的是..
+    * **there is no doubt / question that ...** 毫无疑问的是...
+    * **there is every likelihood that ...** 很可能..
+    * **there is little likelihood that ...** 不大可能...
+    * **there is no shortage of ...** 有得是....
+    * **there is an element of truth in ..** 有点道理...
+    * **there is a good deal of truth in ...** 很有道理....
+  * **rebound from / off ... ** 从……反弹回来
+    * → The ball r**ebounded <u>from</u> / <u>off</u>** the goalpost and Owen headed it in .
+      * goalpost n. 球门柱
+  * **send .... doing** 使...突然移动
+    * → A fire in the casino **sent** people **fleeing** for safety.
+      * casino n. 赌场
+      * flee v. 逃走, 逃跑
+    * → A careless step **sent** rocks **tumbling** down on the climbers below.
+      * tumble v. 坠落
+* → <u>By working at tremendous speed</u>, the men managed to get the dish on to dry land **before the wave returned.**
+  * **dry land** n. land rather than wate 陆地
+    * → (NCE3-25 P122-L2) She stands on **dry land** and is visited by thousands of people each year.
 
 ## L44 Speed and comfort 
