@@ -2407,3 +2407,90 @@
     * → (NCE3-25 P122-L2) She stands on **dry land** and is visited by thousands of people each year.
 
 ## L44 Speed and comfort 
+
+**## words**
+
+* **monotonous** /məˈnɑːtənəs/ adj. 无聊的, 单调的
+  * → (NCE3-44 P204-L5) Reading is only a partial solution, for the **monotonous** rhythm of the wheels clicking on the rails soon lulls you to sleep.
+  * → (NCE3-50 P228-L2) The same old favorites recur year in year out **with monotonous regularity.**
+    * with monotonous regularity 以单调的规律性 (老是做某事)
+      * → The little boy wets the bed **with monotonous regularity.**
+        * wet the bed 尿床
+  * **dull** adj. 无聊的, 无趣的
+    * → (CE3-31 P146-L3) This invariably wins them the love and respect of others, for they add colour to **the dull routine of everyday life.**
+  * **“mon(o)” = single**
+    * **mono**logue v. 独白, 自言自语, 
+    * **mono**gamy n. 一夫一妻制
+    * **mono**plane n. 单翼飞机
+    * **a mono**lingual **dictionary** 单语字典
+    * **mon**arch n. 君主 / **mon**archy  n. 君主制, 君主政体
+* **click** /klɪk/ v. 发出喀哒声(拟声词)
+  * **dlick** one's fingers 响指
+  * The door **clicked** shut. 门喀哒一声关上了
+  * The soldier **clicked** his heels. 士兵立正了
+  * → He <u>**slam**med</u> / <u>**bang**ed</u> the door. 他很大声的关上了门
+  * → The door **<u>slammed</u>** /**<u>banged</u>** shut.
+  * → (NCE3-13 P62-L15) When Mrs. Richards walked towards him, he fled, **slam**ming the door behind him.
+  * → (NCE3-15 P70-L4) If fifty pence pieces are not exchanged for sweets, they **rattle** for months iinside money boxes.
+    * **rattle** n. 硬物撞击发出的咣当声
+  * → (NCE3-31 P146-L16) As it was extremely heavy, he **dump**ed it on the counter.
+    * dump n. 硬物坠落时发出的声音 (噔)
+  * → (NCE3-10 P50-L16) The order to abandon ship was given and hundreds of people **plunge**d into the icy water.
+    * plunge v. 噗通一声跳下水
+  * → (NCE3-42 P196-121) They **plunge**d into the lake, ...
+  * → We all **clap**ped our hands.
+    * clap v. 鼓掌
+  * → Don't **clatter** the dishes—youll wake the baby up.
+    * clatter n. 硬物撞击发出的清脆响亮的声音
+  * → I'll **smack** your bottom if you don't behave yourself.
+    * smack n. 打屁股/搧耳光 发出的 啪的一声
+* **inspection** /ɪnˈspekʃn/ n. 检查
+  * **'spect'=look**
+    * **inspect** v. 检查
+    * **inspector** n. 检查员
+    * **inspection** n. 检查
+    * **expect** v. 期望, 预期
+      * **expectation** n. 期望
+    * **suspect** v. 怀疑 n. 嫌疑犯
+      * **suspicion** n. 怀疑
+      * **suspicious** adj. 怀疑的; 可疑的
+      * su/sub 表示下面, under
+    * **spectacle** n. 景象, 情景
+      * **spectacular** adj. 壮观的
+    * **circumspect** adj. 小心谨慎的 
+      * **circumspection** n. 小心谨慎
+    * **prospect** n. 前途, 展望
+      * pro 有往前, 向前的意思
+      * → The road is tortuous, but the **prospects** are bright. 道路是曲折的, 前途是光明的
+        * tortuous adj. 曲折的
+    * **retrospect** n. 回忆
+      * 'retro'  = 'back'
+      * → **In retrospect**, I think my marriage was doomed from the beginning.
+* **intimidate** /ɪnˈtɪmɪdeɪt/ v. 恐吓，威胁
+  * **timid** adj. 胆小的
+  * **intimidate** v. 恐吓，威胁
+  * **intimidating** adj. 威胁性的, 令人害怕的
+  * **intimidation** n. 恐吓, 威胁
+  * → Hatred is the coward's revenge for being **intimidated**.  --- George Bernard Shaw
+    * 憎恨是胆小鬼被恐吓的报复
+  * **intimidate sb. into ...** 恐吓某人让其 ...
+  * **cow sb. into ..**
+    * cow n. 奶牛 v. 恐吓, 威胁, 
+  * **bully sb. into ..**
+    * bully v. 恐吓, 威胁 
+      * school bully n. 校园恶霸
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L45 The power of the press
+
