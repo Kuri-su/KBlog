@@ -2482,6 +2482,45 @@
 
 **## text 1**
 
+* → People <u>travelling long distances</u> frequently have to decide **whether they would prefer to go by land, sea, or air.**
+  * **frequently** adv. 频繁地,  = often
+  * decide v. 决定
+* → Hardly anyone can positively enjoy sitting in a train for more than a few hours.
+  * **hardly anyone** = almost no one 几乎没有人
+    * **hardly anything** = almost nothing 几乎没有
+    * **hardly ever** = almost never 几乎不
+    * → **Hardly anyone** writes to me these days.
+    * → Dad ate **hardly anything.**
+    * → (NCE3-31 P146-L10) Though he owned a large car, he **hardly ever** used it, preferring always to go on foot.
+  * **positively** adv. used to emphasize the truth of a statement, esp. when this is surprising（加强语气）真， 真的很，真的是
+    * → Some diets may be **positively** dangerous.
+    * → Tonight's performance is **positively** the last time the band will appear together.
+    * band n. 乐队
+  * **for more than a few hours** 几个小时以上
+  * 造句：很少有人真喜欢几天以上吃同一种食物。
+    * → Hardly anyone can positively enjoy eating the same food for more than a few days.
+* **compartment** 小隔间(尤指软卧); 轮船的密封舱
+  * → (NCE3-10 P50-L6)..., for she had sixteen watertight **compartments**.
+* cramped adj. 狭窄的; (钳子夹扁的)
+  * a **cramped** <u>room</u> / <u>office</u> / <u>cabin</u> 
+    * cabin n. 船舱
+  * 造句：走廊(corridor) 如此狭小我只好侧着身子 (edge my way)走过去。
+    * → The corridor was so cramped that I had to edge my way through it.
+  * 反义词
+    * **spacious** adj. 宽敞的 (来自 space n. 空间)
+      * → You can stretch your legs on the **spacious** decks, ...
+* **stuffy** adj. 闷的, 不通风的
+  * → The room is too **stuffy** . Please open the window to allow the air to circulate.
+  * circulate v. 循环流通
+  * **stuffed** adj. 装满东西的
+* **take one's mind off sth.** 转移注意力, 不再想某个不愉快的事情
+  * → It is almost impossible to **take my mind off** my dog's death.
+  * → The good thing about running is that it **takes my mind off** any problems I've got.
+  * **be haunted by ....** 不愉快的情绪总缠着某人
+    * → I **am haunted by** homesickness.
+      * homesickness 想家
+    * → After 30 years he **is** still **haunted by** the experience of fighting in Vietnam.
+      * Vietnam n. 越南
 * 
 
 **## text 2**
