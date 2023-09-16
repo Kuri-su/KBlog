@@ -2521,6 +2521,236 @@
       * homesickness 想家
     * → After 30 years he **is** still **haunted by** the experience of fighting in Vietnam.
       * Vietnam n. 越南
+* → Reading is only a partial solution, **for the monotonous rhythm of the wheels <u>clicking on the rails</u> soon lulls you to sleep.**
+  * for 补充说明原因
+  * **partial** adj. 局部的; 不公平的
+    * a **partial** <u>solution</u> / <u>success</u> 一个部分的方案, 一个部分的成功
+    * a **partial** <u>solar</u> / <u>lunar</u> eclipse 日偏食/月偏食
+      * a **total** <u>solar</u> / <u>lunar</u> eclipse 日全食/月全食
+  * 造句：吃药只能解决部分问题，<u>最重要的是</u> <u>你必须要过有规律的生活</u>。
+    * → (NCE3-34 P158-48) A truly dedicated bargain hunter must have patience, and **above all**, the ability to recognize the worth of something when he sees it
+      * 更重要的是
+    * → (NCE3-19 P86-L4) Rastus **leads an orderly life.**  Rastus  过着有规律的生活
+    * → Taking medicine is only a partial solution, and above all, you have to lead an orderly life.
+  * **rhythm** 节奏
+    * **beat** 节拍
+    * **melody** 旋律
+      * → Let's dance to the **beat**.
+  * **lull** v. 平息, 减弱, 停止 n. 暂停, 暂时平静
+    * **lull sb. to sleep** 使某人沉沉睡去
+      * **lull** a baby **to sleep** 哄小孩睡觉
+      * **lullaby** 摇篮曲
+      * 造句：这梦幻般的音乐使我沉沉睡去。
+        * The dream-like music lulls me to sleep.
+  * During the day, sleep comes in snatches. 在白天, 忽睡忽醒
+    * in snatches 断断续续
+  * **toss and turn** 辗转反侧
+    * 听力题
+      * Last night I **tossed and turned** in bed, too exhausted to sleep.
+        * Answer: (D) I was overtired and couldn't sleep.
+* rarely = almost never
+* → **If you are lucky enough to get a sleeper,** you spend half the night <u>staring at the small blue light in the ceiling</u>, or <u>fumbling to find your ticket for inspection.</u>
+  * stare v. 凝视, 瞪眼凝视
+  * fumble v./n. 翻找, 摸索; 笨拙的处理
+  * **sleeper** n. 1. 卧铺车；卧铺车厢；卧铺床位
+    * **sleeper** n. 2.睡觉的人 
+      * a **<u>light</u> / <u>heavy</u> sleeper**
+  * 名词前, 形容词的修饰顺序
+    * **大形年新颜国材用＋中心名词**
+    * 不属于这八类的丢到最开头随便排
+    * → (NCE3-16 P74-L2) a little white lamb
+    * → (NCE3-18 P82-115) small black boxes
+  * → (NCE3-28 P134-L12) As we were walking past a shop, he held a diamond firmly against the window and made a deep impression **<u>in</u>** the glass.
+    * → He hit me **<u>on</u>** the nose.
+    * → He hit me **<u>in</u>** the face.
+    * 注意精确的使用 in 或 on 描述
+
+**## text 2**
+
+* **Inevitably** adv. 不可避免地, 必然地
+  * → (NCE3-46 P212-L22) **Inevitably** the repair job was not quite so simple.
+  * **imevitable** adj.必然的，不可避免的
+  * → Those who make peaceful revolution impossible will make violent revolution **inevitable**.  -- John F. Kennedy
+  * **sth. can't be helped** 某事难免会发生 ()口语
+    * help 有避免的意思
+    * 听力题
+      * M: I don't know how I managed to break that platter. I'll be more than happy to buy you a new one.
+        * **platter** 浅碟子
+        * **dish** 稍微深一点的碟子
+      * W: Forget about it. Some things just **can't be helped.**
+      * Answer: (D) She doesn't want the man to replace the platter.
+* 形容词做主语补足语 (修饰主语)
+  * → (NCE3-44 P204-L29) .., you will arrive at your destination **fresh and uncrumpled.** 
+    * uncrumple 没有垮掉的
+  * → When I got home, I was tired and sleepy. (复合句)
+    * → l got home **tired and sleepy.** (改成简单句)
+* impossible 的主语不能是人
+  * → .... , for you are quite impossible to read. **X**
+* → On motorways you can, <u>at least</u>, travel fairly safely at high speeds, <u>but</u> more often than not, the greater part of the journey is spent on roads **with few service stations and too much traffic.**
+  * **motorway** n. 高速公路 (英式)
+    * **expressway** n.  高速公路 (美式)
+    * **freeway** n.  高速公路 (美式)
+  * **<u>petrol</u>/<u>service</u> station** n. 加油站 (英式)
+    * **gas station** n. 加油站(美式)
+  * often 构成的时间状语短语
+    * **more often than not = as often as not** 通常
+      * → **More often than not**, the arguments could have been avoided.
+        * **arguments** n. 争吵; 论据
+    * **all too often** 经常 (不愉快的事情经常发生) (贬义)
+      * → **All too often**, parents leave their children home alone.
+    * **every so often = sometimes** 有时候
+      * → She still calls me **every so often**.
+  * **traffic** 是不可数名词
+    * → (NCE3-33 P154-119) Meanwhile, the **traffic** piled up behind.
+  * 造句：我的几个住在乡下的熟人每年进城一两次来看戏，对他们来说这是一种特殊的享受了，但是通常旅程中大部分时间花在了路上，在路上加油站很少， 车辆却很多。
+    * → (NCE3-41 P192-L19) Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat.
+    * → Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat, but more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic.
+* **<u>by</u> / <u>in</u> comparison** 相比之下, 相对而言
+  * **pale <u>in</u> / <u>by</u> comparison** v. 相形见绌 (用在坏事之间对比)
+    * → I thought I was badly treated but my experiences **pale in comparison with** yours.
+  * **<u>by</u> / <u>in</u> contrast** 相比之下
+    * → (NCE4-37 P218-L21) A run-down watch is still a watch and can be rewound. An old watch**, by contrast,** becomes so worn and unreliable that it eventually is not worth mending.
+  * **compared <u>with</u>/<u>to</u> ...** 与... 相比
+    * **<u>in</u> / <u>by</u> comparison <u>with</u> / <u>to</u> ...**  与... 相比
+    * **<u>in</u> /<u>by</u> contrast <u>with</u> / <u>to</u> ..**  与... 相比
+* **comforts** n. 使人感觉舒适的事物
+  * → hotels with all the **modern comforts** 
+    * 拥有那些全部当代舒适设备的宾馆
+  * → After the trip, it was nice getting back to a few home comforts.
+    * 旅行结束后，回到舒适的家感觉真好。
+* **stretch one's legs**  坐得太久, 出去走走 (舒活舒活筋骨), 散步
+  * **take a <u>walk</u> / <u>stroll</u>** 散步
+  * **have a <u>walk</u> / <u>stroll</u>**  散步
+  * **go for a <u>walk</u> / <u>stroll</u>** 散步
+  * → (NCE3-19 P86-L4) He usually **takes a** short **walk** in the evenings and is always home by seven o'clock.
+  * → (NCE3-23 P114-413) The idea never appealed to me very much, but one dlay, after heavy shower, I happened to be walking in my garden when | noticed a huge number of snails **taking a stroll** on some of my prize plants.
+* **meet** v. 结识, 结交, 做朋友
+  * → (NCE3-59 P264-424) One wants to **meet** like-minded collectors, ...
+* **assuming (that)...** 1.以为; 2. 假定, 假如
+  * → (NCE3-36 P166-L22) **Assuming that** his family had been killed during an air raid, Hans settled down in a village fifty miles away where he had remained ever since.
+  * 造句：你将用半小时到那里---当然假定路上车不多的话。
+    * → You'll get there in half an hour - **assuming**, of course, **that** the traffic is not heavy.
+* → **If it is not (calm), and you are likely to get seasick**, no form of transport could be worse.
+  * **seasick** adj. 晕船的
+  * **transport(英) / transportation(美)** n. 交通工具
+    * **public <u>transport</u> / <u>transportation</u>** n. 公交 (不可数)
+    * → (NCE3-47 P216-L24) A lot of people object to mobile phones, especially when they are used in public places like restaurants or on **public transport.**
+  * **否定词＋比较级=最高级**
+    * → (NCE2-54 P252-L6) **Nothing** could have been **more** annoying.
+    * → (NCE3-23 P114-L9) **No** creature has received **more** praise and abuse than the common garden snail.
+    * → (NCE4-28 P166-L8) There is **no quicker** method of disposing of patients than by giving them what they are asking for.
+    * **Nothing can be compared ... with ....** 没有什么 能与某些事相比
+      * → (NCE3-41 P192-49) **Nothing can be compared**, he maintains, **with** the first cockcrow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures.
+    * **nothing can match** 没有东西能与其相匹敌....
+      * → (NCE3-44 P204-L19) But **nothing can match** them for speed and comfort.
+    * **Nobody <u>equals</u>/<u>matches</u>**
+      * → **Nobody <u>equals</u> / <u>matches</u>** him in sstrength.
+    * **has no equal**
+      * → In English she **has no equal** in her class.
+    * 听力题
+      * →In computer programming, Susan **is head and shoulders above** the rest of us.
+* **ideal** adj. 理想的; 完美的 n. 理想, 典范 (本身就是最高级)
+* **relatively** adv. 相对地
+  * **relatively** <u>few</u> / <u>easy</u> / <u>new</u> / <u>minor</u> ..
+    * → (NCE3-42 P196-L1) Cave exploration, or pot-holing, as it has come to be known, is a **relatively new** sport. 
+      * 比较新的
+* **be prepared to do = be <u>willing</u> / <u>ready</u> to do** 愿意做某事, 乐意做某事
+  * → (NCE3-41 P192-L14) Why people **are prepared to** tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.
+* **sacrifice ... for ...** 牺牲前者, 为了后者
+  * → (NCE3-4 P26-L4) Such is human nature, that a great many people are often willing to **<u>sacrifice</u>** higher pay **<u>for</u>** the privilege of becoming white-collar workers.
+  * → 造句：没有多少人愿意为了钱而牺牲掉自己作为人的尊严。
+    * → <u>Relatively few</u> people <u>are prepared to</u> <u>sacrifice</u> their human dignity <u>for</u> money.
+
+**## text 3**
+
+* **have the reputation of being ....** 有...的名声
+  * reputation n. 名声 (中性词)
+  * → She **has the reputation of being** a good doctor.
+  * → Peter **has the reputation of being** the worst boy in the class.
+* **hardened** adj. someone who is hardened has had a lot of difficult or unpleasant experiences and is no longer much affected by such things 老练的，老资格的; 见怪不怪的，麻木不仁的
+  * → (NCE3-11 P54-L4) The **hardened** professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase.
+* **have the disadvantage of ...** 有... 的缺点...
+  * → He **has the disadvantage of** being unable to drive a car.
+  * **have the advantage of ...** 有...的优点...
+    * → Though she **has the twin advantages of** wealth and beauty, she doesn't live a happy life.
+* nothing can match 无可与之匹敌
+* → Travelling <u>at a height of 30.000 feet, far'above the clouds</u>, and <u>at over 500 miles an hour</u> is an <u>exhilarating</u> experience.
+  * **exhilarating** adj. 令人极其兴奋和高兴的
+    * → There is nothing more **exhilarating** than to be shot at without result. ---Sir Winston Churchill
+* **devise** v. 设计出, 想出, 构思出
+  * → (NCE3-26 P126-L10) They **devise** hundreds of competitions which will enable us to win huge sums of money.
+* **settle** v. 舒适地坐到
+  * **settle back** in a deep armchair
+    * **settle back** 舒服的仰坐
+  * → We **settled** in front of the television for the evening.
+  * **settle** v. 驻扎
+    * → (NCE3-14 P66-L9) Six hundred years ago, Sir John Hawkwood arrived in ltaly with a band of soldiers and **settled** near Florence.
+  * **settle** v. 定居, 安顿下来
+    * → (NCE3-36 P166-L22) Assuming that his family had been killed during an air raid, Hans **settled down** in a village fifty miles away where he had remained ever since.
+    * → (NCE2-38 P174-L2) He had often dreamed of retiring in England and had planned to **settle down** in the country.
+  * **settle** v. 解决问题, 解决纠纷, 解决争执
+    * → (NCE3-21 P106-L14) The two men quarrelled bitterly and it was clear that the argument could only **be settled** by a fight.
+* **escapist** n. 遁世道遥者，逃避现实生活一心享受的人
+* **sip** v. 抿, 啜 n. 抿
+* champagne n. 香槟
+  * champion n. 冠军
+* **service** n. BrE a regular journey made by a bus, train, boat, plane etc to a particular place at a particular time 汽车，火车，轮船， 飞机等的班次
+* **refinement** n. 改进，改良
+  * → With several **refinements** your essay would be excellent.
+* **occupy** vt. 占据（时间，空间等）
+  * → (NCE3-26 P126-L15) A little later, a man came along with a biscuit which **occupied** the whole boot of his car.
+  * **occupied** adj.忙的，有事做的
+    * **keep sb. occupied** 让某人别闲着
+      * → We need something to **keep the children occupied.**
+* **breathtakingly** adj. 令人惊叹的(吸一口气)
+  * → The West Lake is **breathtakingly** beautiful!
+  * **take a ... breath** 吸一口气
+    * → He **took a deep breath** to compose himself.
+      * 他深呼吸一口使自己平静下来
+        * compose sb. 使某人平静下来
+* **shape** n. 样子, 面貌; 形状
+* → **If the landscape is hidden from view**, you can enjoy the <u>extraordinary</u> sight of unbroken cloud plains <u>that stretch out for miles before you</u>, ***while the sun shines brilliantly in a clear sky.***
+  * landscape n. 风景
+  * hidden from view 被遮挡
+  * **extraordinary** adj. 非凡的
+* **prevent sb. from doing**  妨碍某人做某事, 
+  * prevent v. 妨碍, 阻止
+  * no prevent sb. from doing 某人一定能做某事(没有东西能妨碍)
+  * 造句：在新社会，每个孩子都能接受良好的教育。
+    * → In the new society, there is nothing to **prevent** a child **from receiving** good education.
+  * 造句：她既有天赋又这么勤奋，<u>一定能</u>实现自己的梦想。
+    * → (NCE3-17 P78-L16) Despite its immensity, it is both simple and elegant, **fulfilling its designer's dream** to create 'an enormous obiect drawn as faintly as possible'.
+    * → She is so talented and diligent that there is nothing to prevent her from fulfilling her dream.
+* → **However you decide to spend your time**, <u>one thing</u> is certain: **<u>you will arrive at your destination fresh and uncrumpled.</u>**
+  * **certain** adj. 肯定的
+  * **fresh** adj. 精神焕发的, 神清气爽的
+  * **uncrumpled** adj. 没有垮掉的 
+  * one thing 后面的内容是做 one thing 的同位语
+    * 造句：无论在前进的道路上 (on our road ahead)遇到 (encounter)什么样的困难，有一件事是肯定的：只要 (so long as) 我们坚持 (persist) 就一定能克服它 (manage to overcome it)。
+      * → **Whatever difficulty we may encounter on our road ahead**, <u>one thing</u> is certain: **<u>we will manage to overcome it so long as we persist.</u>**
+* **recover from…** 从..…中恢复
+  * **recover sth**. 1. 恢复了。
+    * 恢复同义词
+      * **restore**
+      * **regain**
+        * One's health
+        * one's sight
+        * one's consciousness 
+        * one's balance
+        * one's composure
+  * recover sth. 2. 重新获得，找回，赚回 ，补偿
+    * → (NCE3-43 P200-L8) But the claim made by a local authority to **recover** the cost of salvaging a sunken pie dish must surely be unique.
+* **arduous** adj. 艰苦的，费力的
+  * → (NCE3-35 P162-L3) Justice is part of the complex machinery of the law. Those who seek it undertake an **arduous** journey and can never be sure that they will find it.
+
+## L45 The power of the press
+
+**## words**
+
+* 
+
+**## text 1**
+
 * 
 
 **## text 2**
@@ -2531,5 +2761,6 @@
 
 * 
 
-## L45 The power of the press
+## L46 Do it yourself
 
+ 
