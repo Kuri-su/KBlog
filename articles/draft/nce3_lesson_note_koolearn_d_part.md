@@ -2904,6 +2904,8 @@
   * private live 私生活
   * 造句：父母亲依照子女应该顺从 (be obedient to...）长辈 (one's elders) 这一观点干涉 (interfere in .）成年子女的婚姻，可能给他们的成年子女 (adult offspring)造成不尽的痛苦。
     * → Acting on the contention that children should be obedient to their elders, parents can cause untold suffering to their adult offspring by interfering in their marriages.
+* → Newspapers exert <u>such</u> tremendous influence **that they can <u>not only</u> bring about maior changes to the lives of ordinary people <u>but</u> can even overthrow a government.**
+  * 
 
 **## text 2**
 
