@@ -2715,7 +2715,7 @@
   * **extraordinary** adj. 非凡的
 * **prevent sb. from doing**  妨碍某人做某事, 
   * prevent v. 妨碍, 阻止
-  * no prevent sb. from doing 某人一定能做某事(没有东西能妨碍)
+  * nothing prevent sb. from doing 某人一定能做某事(没有东西能妨碍)
   * 造句：在新社会，每个孩子都能接受良好的教育。
     * → In the new society, there is nothing to **prevent** a child **from receiving** good education.
   * 造句：她既有天赋又这么勤奋，<u>一定能</u>实现自己的梦想。
@@ -2747,11 +2747,163 @@
 
 **## words**
 
-* 
+* **democratic** /ˌdeməˈkrætɪk/ adj. 民主的
+  * → a **democratic** <u>country</u> / <u>government</u> / <u>society</u>
+  * 字根
+    * **dem(o)=people**
+    * **crat=ruler** 统治者
+    * **cracy=rule** 
+      * democratic adj. 民主的
+      * democrat 民主党人, 民主派人士
+      * democracy 民主制度, 民主政体
+    * demography (**graphy=write**) 人口统计
+      * biography n. 传记
+        * bio = life
+    * epidemic (**epi=among**) n./adj. 传染病, 传染病的
+  * auto=(self)
+    * **autocrat** n. 独裁统治者 
+    * **autocratic** adj. 独裁的, 专制的
+    * **autocracy** n. 独裁体制, 独裁政体
+  * bureau= 政府
+    * **bureaucrat** n. 官僚
+    * **bureaucratic** adj. 官僚作风的 , 官僚的, 官僚体制的 (贬义)
+    * **bureaucracy** n. 官僚体制, 官僚作风
+* **restrict** /rɪˈstrɪkt/ v. 限制, 局限
+  * → The long skirt **restricted** her movements.
+    * 这条长裙限制了她的移动
+  * → The government passed a law to **restrict** the sale of guns. 
+  * **restrict ... to ...** 把...限制在...之内
+    * → I **restrict** myself **to** a glass of wine per day.
+    * 同义替换
+      * **limit ... to ...** 局限, 限制 
+        * → The air strikes **are limited to** military targets.
+          * **strike** n./v. 罢工,  打击
+          * **military** n. 军队 adj. 军事的
+      * **confine ... to ...**  局限, 限制...
+        * → (NCE3-59 P264-427) ....,for collectors **are** not **confined to** any one country.
+* **perpetual** /pərˈpetʃuəl/ adj. 永恒的，长久的；没完没了的
+  * → A **perpetual** mist hung over the valley.
+    * mist 雾
+  * → He soon grew tired of her **perpetual** demands for money.
+    * **demands** n./v. 要求
+  * 完美同义词
+    * **eternal** adj. 永恒的，长久的；没完没了的
+      * **eternal** <u>love</u> / <u>life</u> / <u>optimist</u>
+        * optimist n. 乐天派; 乐观主义者
+      * → the **eternal** arguments between mother and son
+        * argument v. 争吵
+    * **everlasting**  adj. 永恒的，长久的；没完没了的
+      * **everlasting** fame / glory / life 永久的名声/永久的荣誉/永久的生命
+      * → I'm tired of his **everlasting** complaints.
+  * 近义词
+    * **immortal** adj. 不朽的, 流芳百世的
+      * → Plato believed that the soul is **immortal**.
+      * → the **immortal** Shakespeare
+      * **mortal** adj. 不能永生的, 终将死亡的, 至死方休的; 致命的 n. 人, 凡人, 普通人
+        * → All human beings are **mortal**.
+        * a **mortal** wound 致命伤
+          * wound n. 伤口
+    * **permanent** adj. 长期的, 固定的
+      * a **permanent** job 一份固定工作
+      * my **permanent** address
+      * **temporary** adj. 临时的
+        * a **temporary** job 一份临时的工作
+        * a **temporary** measure 一个临时措施
+*  **obscurity** /əbˈskjʊrəti/ n. 默默无闻
+  * **obscure** adj. 默默无闻的, 不起眼的
+    * → (NCE3-36 P166-L4) Readers happily accepted the fact that an **obscure** maidservant was really the hero's mother.
+  * **live in obscurity** 过着默默无闻的生活
+  * **live in confort** 过着舒适的生活
+  * **live in peace** 过着平静的生活
+  * **live in fear** 生活在恐惧之中
+  * **live in poverty**  过着贫穷的生活
+    * poverty n. 贫困, 缺少, 低劣, 困难
+  * **live in luxury**  过着奢侈的生活
+  * **live in happiness**  过着快乐的生活
+  * **live in misery** 过着痛苦的生活
+    * misery n. 痛苦
+* **commodity** /kəˈmɑːdəti/ n. 商品
+  * agricultural **commodities** 农产品
+    * agricultural adj. 农业的 
+  * → Coal is becoming a rare **commodity**.
+  * → **Commodity prices** fell sharply.
+    * commodity price 物价
+  * 其他表示商品的词
+    * **goods** n. 商品 (只用于复数)
+      * <u>industrial</u> / <u>agricultural</u> **goods** 工业产品, 农产品
+    * **wares** n. 商品 (在集市上, 街头摊贩卖的商品)(可数)
+      * → (NCE3-28 P134-41) Small boats loaded with **wares** sped to the great liner as she was entering the harbour.
+    * **merchandise** n. 商品 (不可数) (书面语)
+      * → the **merchandise** on display in the shop window
 
 **## text 1**
 
-* 
+* **<u>the press</u> / <u>the Press</u>** 新闻界, 报界, 舆论界
+  * → (NCE3-31 P146-L20) This exhibition received a great deal of attention in **the press**, for though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie.
+  * **(the) freedom of the press** 新闻自由
+    * **(the) freedom of <u>speech</u> / <u>expression</u> / <u>thought</u> / <u>choice</u>** 言论自由/表达自由/思想自由/选择自由
+    * **(the) press / academic / political / religious freedom** 新闻自由/学术自由/政治自由/宗教自由
+* **rightly** adv. for a good reason 应该
+  * → (NCE3-41 P192-L15) They could be saved so much misery and expense if they chose to live in the City where they **rightly** belong.
+* **condemn A <u>for</u> /<u>as</u> B** 因为 B 谴责 A/ 将 A 谴责为 B
+  * → The movie **was condemned for** its sexism. 这部电影因为 性别歧视 而被谴责
+  * → The terrorist attack **was condemned as** an act of barbarism and cowardice. 这次恐怖袭击被谴责为 一次 野蛮和懦弱的行径
+* 造句：在文明社会，任何歧视妇女的行径(act) 都应该受谴责。
+  * → In civilized society any act of discrimination against women is rightly condemned.
+* abuse v. 辱骂, 虐待, 滥用
+* 受到关注
+  * **<u>attract</u> / <u>receive</u> attention**
+    * → (NCE 3-31 P146-L20) This exhibition **received** a great deal of **attention** in the press, ....
+    * **<u>public</u> / <u>media</u> / <u>press</u> attention** 公众的关注/媒体的关注/新闻界的关注
+      * → Her case attracted a great deal of **media attention.** 她的案件吸引了大量媒体的关注
+        * attract v. 吸引
+* 比较级加强语气
+  * **far more**
+    * →  (NCE3-4 P26-L1) These days, people who do manual work often receive **far more** money than clerks who work in offices.
+  * **much more**
+  * **even more**
+  * **still more**
+  * **yet more**
+  * ...
+* 比较级减弱语气
+  * **<u>slightly more</u>**
+  * **<u>a little more</u>**
+    * → (NCE3-29 P138-L19) To compensate for his unpleasant experiences in hospital, the man drank **a little more** than was good for him.
+  * **<u>a bit more</u>**
+  * ...
+* → **Though we may enjoy reading about the lives of others**, <u>it</u> is extremely doubtful **whether we <u>would</u> equally enjoy reading about ourselves.**
+  * doubtful adj. 可疑的; 难以预测的
+  * **extremely** adv. 极其地; 极端地; 非常地
+  * **it is doubtful <u>if</u>/ <u>whether</u> / <u>(that)</u> ....** 是否这样......这是可疑的  ...
+    * → **It is doubtful if** he will survive. 他是否能够幸存下来, 这是可疑的
+    * → **lt's doubtful whether** the car will last another year. 这车能不能再用上一年是可疑的
+    * → **It is doubtful that** the missing airmen will ever be found.这些空军是否能够被找到, 是难以预测的
+  * 省略了 if 从句, 但是是 虚拟语气, 要注意辨析
+    * = .., it is extremely doubtful whether we <u>would</u> equally enioy reading about ourselves **if we <u>read</u> about ourselves.**
+    * → To ignore this **would** be a mistake. 如果忽略不理睬这个的话, 将会是一个错误
+    * → A picnic **would** not be any fun without you. 这个野餐如果没有你的话, 那就没意思了
+      * picnic v./n. 野餐
+    * → Your wife **would** not be pleased to hear you say that. 如果你夫人听到这个话, 肯定不会开心的
+    * → It **would** be a shame to stay indoors on such a beautiful day. 这么好的天气如果待在家里, 将会是非常可惜的
+      * shame adj. 遗憾的; 丢人的
+  * 造句：尽管我们可能喜欢对别人恶作剧 (play jokes on ….)，但是我们是否喜欢别人对我们恶作剧是极其可疑的。
+    * → Though we may enjoy playing jokes on others, it is extremely doubtful whether we would equally enjoy others playing jokes on ourselves.
+* → **Acting on the contention <u>that facts are sacred</u>**, repdrters can cause untold suffering to individuals <u>*by publishing details about their private lives*</u>.
+  * **act on** 依照...来行事(固定搭配)
+    * **act on ...** take action in accordance with or as a result of sth 依照……行事
+      * → She is **acting on** the advice of her lawyers.
+        * advice n. 建议
+      * → (NCE3-23 P114-L15) **Acting on** a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert.
+        * impulse v. 冲动
+  * **contention** n. (fml.) 观点, 论点
+  * cause vt. 引起, 导致 n. 原因
+  * **untold** adj. 无法估量的, 无法衡量的, 罄竹难书的 (后面都跟着倒楣事);未说过的, 未透露的
+    * = immeasurable *adj.* 无法计量的,无限的
+    * **untold** <u>suffering</u> / <u>misery</u> / <u>damage</u> etc. 无法估量的痛苦/ 无法估量的苦难/无法估量的损失
+  * sufferingn. 身心上的苦难, 身心上的痛苦
+  * private live 私生活
+  * 造句：父母亲依照子女应该顺从 (be obedient to...）长辈 (one's elders) 这一观点干涉 (interfere in .）成年子女的婚姻，可能给他们的成年子女 (adult offspring)造成不尽的痛苦。
+    * → Acting on the contention that children should be obedient to their elders, parents can cause untold suffering to their adult offspring by interfering in their marriages.
 
 **## text 2**
 
