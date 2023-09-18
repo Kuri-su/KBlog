@@ -36,5 +36,13 @@
 
 ### stock / sock 形似系列
 
+### 决定 系列
 
+* decision
+* determine
 
+### '看' 系列
+
+* 
+
+### 假装, 伪装 系列
