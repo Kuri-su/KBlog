@@ -2905,7 +2905,13 @@
   * 造句：父母亲依照子女应该顺从 (be obedient to...）长辈 (one's elders) 这一观点干涉 (interfere in .）成年子女的婚姻，可能给他们的成年子女 (adult offspring)造成不尽的痛苦。
     * → Acting on the contention that children should be obedient to their elders, parents can cause untold suffering to their adult offspring by interfering in their marriages.
 * → Newspapers exert <u>such</u> tremendous influence **that they can <u>not only</u> bring about maior changes to the lives of ordinary people <u>but</u> can even overthrow a government.**
-  * 
+  * **exert ... on ...** 施加...影响在...上
+    * → (NCE3-26 P126-L.3) ..., for advertising **exerts** a subtle influence **on** us.
+    * → My wife **exerts** a lot of pressure **on** me to make more money.
+  * The influence of newspapers is so great that .... (不佳)
+    * **…exert such tremendous influence  that ...**
+  * overthrow v. 推翻
+  * tremendous adj. 极大的, 绝大的
 
 **## text 2**
 
