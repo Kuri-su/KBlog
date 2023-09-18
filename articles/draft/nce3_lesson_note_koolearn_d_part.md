@@ -2904,18 +2904,111 @@
   * private live 私生活
   * 造句：父母亲依照子女应该顺从 (be obedient to...）长辈 (one's elders) 这一观点干涉 (interfere in .）成年子女的婚姻，可能给他们的成年子女 (adult offspring)造成不尽的痛苦。
     * → Acting on the contention that children should be obedient to their elders, parents can cause untold suffering to their adult offspring by interfering in their marriages.
-* → Newspapers exert <u>such</u> tremendous influence **that they can <u>not only</u> bring about maior changes to the lives of ordinary people <u>but</u> can even overthrow a government.**
+* → Newspapers exert <u>such</u> tremendous influence **that they can <u>not only</u> bring about major changes to the lives of ordinary people <u>but</u> can even overthrow a government.**
   * **exert ... on ...** 施加...影响在...上
     * → (NCE3-26 P126-L.3) ..., for advertising **exerts** a subtle influence **on** us.
     * → My wife **exerts** a lot of pressure **on** me to make more money.
   * The influence of newspapers is so great that .... (不佳)
     * **…exert such tremendous influence  that ...**
-  * overthrow v. 推翻
-  * tremendous adj. 极大的, 绝大的
+  * **overthrow** v. 推翻
+  * **tremendous** adj. 极大的, 绝大的
+  * **ordinary** adj. 普通的, n. 普通
 
 **## text 2**
 
-* 
+* → The story of a poor family **that acquired fame and fortune overnight**, dramatically illustrates the power of the press.
+  * **acquired** v. 取得, 捕获 adj. 后天的; 已获得的
+  * **fame** n. 名声, 名望 vt. 使闻名
+  * **fortune** n. 运气; 大笔的财富; 命运 vt. 给予财富 vi. 偶然发生
+  * **dramatically** adv. 戏剧性地; 引人注目地
+  * 迅速成名 的表达
+    * **acquire fame and fortune overnight** 一夜成名
+      * → with the success of their first record, **they acquired fame and fortune overnight.**
+    * **rise to fame swiftly** 迅速成名
+      * → (NCE3-21 P106-L11) Mendoza **rose to fame swiftly** after a boxing match when he was only fourteen years old.
+      * → (NCE3-45 P208-L18) The **rise to fame** was **swift**.
+    * **make a name for oneself** 成名了
+      * → (NCE3-14 P66-L10) He soon **made a name for himself** and came to be known to the ltalians as Giovanni Acuto.
+    * **make (the) headlines /  hit the headlines** 成为头条
+      * → The 9/11 terrorist attack **made (the) heaaimes** around the world.
+      * → The 9/11 terrorist attack **hit the headlines** around the world.
+    * **<u>be</u>/<u>become</u> a household <u>name</u>/<u>word</u>** 成了家喻户晓的名字(出名)
+      * household adj. 家庭的, 家用的 n. 一家人,
+      * → Coca Cola **is a household <u>name</u>/<u>word</u>** around the world.
+      * → Cindy married one of her publishers and **became a household <u>name</u>/<u>word</u> .**
+  * **illustrate** vt. 给...加插图, 说明, 阐明
+    * **illustrate** v. to make the meaning of sth clearer by using examples, pictures, etc.（用例子、图表等） 说明，阐明
+    * **<u>amply</u> / <u>clearly</u> / <u>dramatically</u> / <u>graphically</u> / <u>vividly</u> illustrate** ... 充分的说明/明确的说明/戏剧性说明了/生动的说明了
+      * → One example may **amply illustrate** this point. 一个例子可以充分的阐明这个观点
+      * → The example of the United States **graphically illustrates** this point. 美国的这个例子生动的阐明了这个观点
+  * 造句：一个原本默默无闻的 (obscure) 洗发水 (shampoo) 迅速变得家喻户晓的例子戏剧化地说明了广告宣传的力量。
+    * → The example of an obscure shampoo that became a household name overnight, dramatically illustrates the power of advertising.
+* 表示一个地区有多少人, 通常用 of 引出
+  * a town **<u>of</u>** 11,000 inhabitants
+    * inhabitant n. 居民, 住户
+  * a city **<u>of</u>** six million inhabitants
+* **struggle** v. 挣扎, 搏斗 n. 努力, 奋斗
+* **poverty** n. 贫困
+* → As the parents had five children, **they perpetually struggled against poverty.** (不佳)
+  * → **life was a perpetual struggle against poverty.**
+  * 造句：炒股 (speculation in stocks) 就是永远和恐惧与贪婪的博斗。
+    * → Speculation in stocks **is a perpetual struggle against** fear and greed.
+* **be expecting (a baby)** 怀孕 (委婉)
+  * **be pregnant** 怀孕(直白)
+  * **conceive (a baby)** 怀孕 (医学用语)
+  * **be in a family way** 怀孕
+  * **be knitting a tiny garment** 怀孕 (更委婉的说法)
+    * garment n. 成衣
+    * **knit** v. 编制
+  *  → When **is** your baby **due**? 孩子还有多久出生
+    * → She **gave birth to** twins. 她生了对双胞胎
+    * → She **abort**ed after 2 months. 她在两个月之后流产了
+    * → She **is on maternity leave.**  休产假
+* **be faced with ....** 面临着...
+  * **be confronted with ...**  面临着...
+  * sth. confront sb. sth. 摆在某人面前
+  * → (NCE3-38 P174-411) ..., for then man **was faced with** a real need to inderstand something about the seasons.
+  * → (NCE3-42 P196-111) .., for it is impossible to foretell the exact nature of the difficulties which will **confront** the potholer.
+  * → (NCE4-33 P195-L24)...,and no father **is confronted with** his inability to 'buy' an education for his child
+* **pressing** adj. urgent 紧急的
+  * **pressing <u>problem</u> / <u>matter</u> / <u>need</u> etc.**
+  * a **pressing need** for housing
+  * → Poverty is a more **pressing problem** than pollution. 贫困和污染相比是个更加紧迫的问题
+* → **If they <u>had</u> only <u>had</u> one more child**, the fact <u>would have passed</u> ***<u>unnoticed</u>***.
+  * unnoticed 形容词当主语补足语, 修饰 the fact
+    * **unnoticed** adj. without being noticed 无人注意的
+    * → I tried to slip up the stairs **unnoticed**. 我尝试无人注意的溜到楼上去
+    * **<u>go</u> / <u>pass</u> unnoticed** 不为人知的过去
+      * → The event **went unnoticed.**
+      * → Her death **passed unnoticed.**
+      * → (NCE3-53 P240-L30) The Ombudsman's prompt action at once put an end to an unpleasant practice which might have **gone unnoticed.**
+  * **与过去事实相反的虚拟**
+    * **if + S. + had done, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + have done**
+  * 造句：我不能让这种暴行 (brutality) 不了了之。
+    * → I cannot let this brutality **<u>go</u> / <u>pass</u> unnoticed.**
+  * 造句：要不是 (but for) 这封感谢信 (letter of thanks)，这件善举可能就不为人知地过去了。
+    * → But for the letter of thanks, the act of kindness might have **<u>gone</u> / <u>passed</u> unnoticed.**
+* **odds** n. difficulties 困难 ; 可能性
+  * **<u>struggle</u> / <u>fight</u> / <u>battle</u> against the odds** 与困难作斗争
+    * → The hospital's director has been **battling against the odds** to improve patient care.
+  * **<u>beat</u> / <u>overcome</u> the odds** 打败了困难
+    * overcome v. 克服
+    * → The South Africans **overcame the odds** to beat Australia.
+  * **against (all) the odds** 克服了重重困难
+    * → **Against all the odds** she achieved her dream of becoming a ballerina.
+      * ballerina n. 芭蕾舞演员
+* → But they suddenly became the parents of quintuplets, <u>four girls and a bay</u>, **an event <u>which radically changed their lives</u>.**
+  * **radically <u>change</u> / <u>alter</u>....** 彻底改变了
+    * **radically** adv. 根本地, 彻底地, 完全地
+    * → Computers have **radically changed** our lives.
+    * **radical changes** in education
+  * an event 用来避免歧义, 指明是表示前面的事是这里 which 从句的主语
+  * 造句：他突然间中了- —千万美元的大奖 (win the lottery of . …)，几乎是他年收入的100倍 (100 times the amount of his annual income)，这件事彻底政变了他的生活。
+    * → He suddenly won the lottery of ten million dollars, nearly 100 times the amount of his annual income, an event which radically changed his life.
+* →  **The day <u>after the birth of the five children</u>**, an aeroplane arrived in Aberdeen <u>bringing 60 reporters and photographers.</u>
+  * **photographer** n. 摄影师
+  * → (NCE3-10 P50-L9) **Four days <u>after setting out</u>**, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
+  * → (NCE3-29 P138-L13) A man who had broken his right leg was taken to hospital **a few weeks <u>before Christmas</u>.**
 
 **## text 3**
 
