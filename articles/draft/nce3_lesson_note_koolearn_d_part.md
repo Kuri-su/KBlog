@@ -3012,7 +3012,18 @@
 
 **## text 3**
 
-* 
+* **carry** v. to publish or broadcast a mnews story 刊登，播出（新闻报道等）
+  * → All the papers **carried** the story the next day.
+  * 造句：当北京赢得了2008年奥林匹克运动会主办权的时候，电视摄像机和报纸把这一消息传遍了全世界。
+    * → When Beijing won the right to host the 2008 Olympic Games, Television cameras and newspapers carried the news to everyone in the world.
+* huge sums 巨款
+* exclusive rights  独家权利
+  * **exclusive** adj. available or belonging only to particular people, and not shared 独家的，独亨的
+    * → They have **exclusive rights** to market the drug in Africa.
+    * → The road is for the **exclusive use** of residents. 独家的使用
+* → Gifts poured in <u>not only</u> **from unknown people**, <u>but</u> **from baby food and soap manufacturers <u>who wished to advertise their products</u>.**
+  * pour v. 倒水; 瓢泼; 涌入
+  * 
 
 ## L46 Do it yourself
 
