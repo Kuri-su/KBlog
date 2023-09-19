@@ -3023,8 +3023,177 @@
     * → The road is for the **exclusive use** of residents. 独家的使用
 * → Gifts poured in <u>not only</u> **from unknown people**, <u>but</u> **from baby food and soap manufacturers <u>who wished to advertise their products</u>.**
   * pour v. 倒水; 瓢泼; 涌入
-  * 
+    * **pour in** 各种东西源源不断涌入
+      * → Letters of complaints **poured in.**
+      * → Donations **poured in** for the earthquake victims in China.
+    * **pour into** 涌入
+      * → Crowds **poured into** the stadium.
+    * **pour out of** 涌出
+      * → Crowds **poured out of** the stadium.
+  * manufacturers n. 生产厂家, 制造商
+  * **advertise** v. 宣传 
+    * **advertise** a product 宣传产品
+    * **promote** a product 推销产品
+      * promote v. 提拔某人
+    * **develop** a product 开发产品
+    * **launch** a product 推出新产品
+    * **advertisement** n. 广告
+* → Reporters kept pressing for interviews **so lawyers had to be employed <u>to act as spokesmen for the family at press conferences</u>.**
+  * **press (sb.) for sth.** 敦促, 催促, 迫切要求, 一再敦促
+    * → Reporters **pressed (him) for** an explanation.
+      * explanation n. 解释
+    * → I **pressed (him) for** his consent to our marriage.
+  * **<u>act as</u>(物作主语) / <u>serve as</u> / <u>function as</u> / <u>be used as</u>..** 当做.... 来使用
+    * → The box **acts as** a seat. 箱子当作作为来用
+    * **act as ….** 临时担任某种工作 (人作主语)
+      * → My brother speaks French — he can **act as** interpreter.
+        * **interpreter** n. 口译员
+      * act as 后面通常不加冠词
+      * → (NCE4-9 P53-L1) Alfred the Great **acted as** his own spy, visiting Danish camps disguised as a minstrel.
+  * **press conference** 记者招待会
+* → **While the five babies were still quietly sleeping in oxygen tents <u>in a hospital nursery</u>**, their parents were paying the price for fame.
+  * **oxygen tent** n. a clear covering put over the head and upper body of an il person to provide oxygen to help them breathe 氧气帐，氧幕
+  * **nursery** n. a room in a hospital where babies that have just been born are looked after 医院的婴儿室
+  * **pay the price for sth.** 为某事支付了代价
+    * → Being recognized wherever you go is **the price** you **pay for** being famous.
+    * → (NCE3-47 P216-L1) Pollution is **the price** we **pay for** an overpopulated, over industrialized planet.
+    * **be a small price to pay for ...** 对于某事来说根本算不了什么
+      * **be a high price to pay far ..** 对于某事来说不值得 (代价太高)
+      * → Giving up his job **was a small price to pay for** his children's happiness.
+      * → Loneliness **is a high price to pay for** independence in your old age.
+
+* **<u>lead</u> / <u>live</u> a .. . life** 过着...的生活
+  * → (NCE3-9 P46-L1) They can be friendly and affectionate towards humans, but they **lead mysterious lives** of their own as well.
+* **<u>be</u> / <u>become</u> the victim of ..** 成了...的受害者
+  * → (NCE3-40 P182-22) Only when he saw that the man was actually telephoning the police did he realize that they had all **been the victims of** a hoax.
+  * → They had **become the victims of** commercialization, for their names had acquired a market value.
+    * **commercialization** n. 商业化
+      * commercial adj. 商业的
+      * **commercialize / commercialise** vt. [usually passive] to be more concerned with making money from sth. than about its quality, used to show disapproval 使商业化
+        * → Christmas has become so **commercialized**.
+* **market value** n. the value of a product, building etc. based on the price that people are wiling to pay for it, rather than the cost of producing it or building it 市场价值
+* **instead of ..** …本该… 却...
+  * instead adv. 代替, 顶替
+  * → (NCE3-24 P118-L13) **Instead of** becoming a doctor, however, he became a successful writer of detective stories.
 
 ## L46 Do it yourself
 
- 
+ **## words**
+
+* **plead** /pliːd/ v. 以某事为借口; 恳求请求
+  * plead pleaded pleaded
+  * plead pled pled
+  * **plead** <u>ignorance</u> / <u>illness</u> / <u>a headache</u> / <u>tiredness</u> / <u>insanity</u> 
+    * 以不知道为借口 / 以得病为借口 / 以头疼为借口 / 以疲劳为借口 / 以精神病为借口
+  * → Ellie **pleaded** tiredness and went to bed very early.
+  * 真题
+    * → He could not ___ ignorance as his excuse; he should have known what was happening in his department.
+      * **(A) plead** (B) resort v. 求助于, 诉诸于 (C) petition v. 申请 D) reproach v. 批评,责备
+  * **plead for sth.** 为某事恳求
+    * →  He knelt in front of the king, **pleading** **for** mercy. 他跪在国王面前, 请求宽恕
+      * kneel v. 跪
+  * **plead with sb. to do sth.** 恳求某人做某事
+    * → I **pleaded with** him **to** stay, but he turned his back on me.
+* **ignorance** /ˈɪɡnərəns/ n. 无知, 不知道(贬义)
+  * **Ignorance** is bliss. 无知是无上的幸福
+    * bliss n. 极乐, v. 狂喜
+  * **be ignorant of ...** 不知道某事 (暗示应该知道)
+    * **ignorant** adj. 无知的, 愚昧的
+    * → Darwin had a phrase to describe those **ignorant of** evolution: they "look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension.”
+  * **ignore** v. 漠视, 不理睬(看到了但装作没看见)
+    * **neglect** v. 忽视(因为注意力在别的东西而没注意到)
+      * → When I saw Jane, I stopped and smiled, but she ___ me and walked on.
+        * (A) refused **(B) ignored** (C) denied v. 否认 (D) missed
+      * The joys of travel, having long ___ the disabled, are opening up to virtually anyone who has the means.
+        * (A) omitted v. 省略, 删除 (B) missed **(C) neglected** (D) discarded v. 抛弃
+
+* **newlyweds** /'njʊlɪ,wɛd/ n. 新婚夫妇 adj. 新婚的
+  * fiance 未婚夫
+  * fiancee 未婚妻
+  * husband-to-be 未婚夫
+  * bride-to-be 未婚妻
+  * <u>groom</u> / <u>bridegroom</u> 新郎
+    * groom n. 马夫, 男仆 v. 推荐, 喂马
+  * bride 新娘
+  * groomsman 男傧相 (通常有四个)
+    * best man 伴郎(傧相中地位最高的)
+  * bridesmaid 女傧相 (通常有四个)
+    * maid of honor 闺密(傧相中地位最高的)
+* **novice** /ˈnɑːvɪs/ n. 新手
+  * **<u>beginner</u> / <u>learner</u>** 新手
+    * → (NCE3-33 P154-L13) The woman immediately behind the two cars happened to be a **learner**.
+      * happened to 碰巧
+  * **‘nov'=new** 
+    * **novel** adj. 新颖的 n. 小说  
+      * a **novel** idea
+      * **novelty** n. 新奇的事物 
+        * → The car was a **novelty** in 1900.
+      * **innovate** v. 创新
+        * ate 动词字根
+        * **innovation** n. 创新
+        * **innovate** in technique 技术方面的创新
+      * **renovate** v. 整修, 翻新
+        * **renovation** n. 整修, 翻新
+        * → The lmperial Palace is under **renovation**.
+          * 故宫正在整修翻新
+* **consumer** /kənˈsuːmər/ n. 消费者
+  * **consume** v. 消费
+  * **consumption** n. 消费
+  * 消费者辨析
+    * **customer** n. 消费者 (通常是买东西)
+    * **client** n. 客户/主顾  (通常是买服务)
+    * **consumer** n. 消费者 (掏钱了就是)
+    * **<u>patron</u>** / **<u>regular</u>** n. 老顾客
+    * **subscriber** n. 订购者, 订阅者
+    * **bargain hunter** n. 淘便宜货的人
+* **creative** /kriˈeɪtɪv/ adj. 创造性的，有创造力的
+  * **creativity** n. 创造力
+  * **inventive** n. 发明创造能力, 创造性 adj. 有发明创造力的
+  * **imaginative** adj. 富于想像力的
+    * **imaginary** adj. 虚构的, 幻想的
+    * She is a very ___ student. She's always talking about travelling to outer space.
+      * (A) imaginary **(B) imaginative** (C) imaginable  (D)imagining
+    * **original** adj. 有创意的; 新颖的; 原创的
+    * **inspired** adj. 富于灵感的, 有灵感的
+    * **resourceful** adj. 足智多谋的
+    * **full of ideas** adj. 足智多谋的
+
+* **delusion** /dɪˈluːʒn/ n. 错觉
+  * **<u>be</u> / <u>live</u> under the <u>illusion</u> / <u>delusion</u> that ..** 有某种错觉
+    * → (NCE3-41 P192-L7) Even he still **lives under the illusion that** country life is somehow superior to town life.
+    * → (NCE3-46 P212-L15) The worst thing about the do-it-yourself game is that sometimes even men **live under the delusion that** they can do anything, even when they have repeatedly been proved wrong.
+  * **allusion** n. 对于某人的影射, 对于某个事情的暗指
+    * → He resents any **allusion to** his baldness.
+      * resent vt. 对...感到愤怒; 
+  * **metaphor** n. 隐喻
+* **adjustment** /əˈdʒʌstmənt/ n. 调节, 调整 (比较小的调整)
+  * **make adjustments to ...**
+    * → The room was full of dancers, all **making** last-minute **adjustments to** their costumes.
+      * costume n. 道具服, 戏服
+  * **adjust (A) to B** 调整 (A) 以适合 B
+    * → You can **adjust** the belt **to** the size you want.
+      * belt n. 腰带
+    * → Some animals **adjust** (themselves) **to** their environment by instinct.
+  * **adapt (A) to B** 调整 (A) 以适合 B
+    * adapt v. 调整(比较大的调整); 改编
+    * → Novels **are** often **adapted to the** stage.
+    * → She couldn't **adapt** (herself) **to** eating fish every day.
+  * **adaptation** n. 适应; 改编的版本
+  * **amend** v. 修订(文字上的调整)
+    * **amend** a <u>bill</u> / <u>rule</u> / <u>law</u> / <u>document</u>
+  * **amendment** n. 修订案
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L47 Too high a price?
+
