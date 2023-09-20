@@ -3185,7 +3185,82 @@
 
 **## text 1**
 
-* 
+* → <u>So</u> great <u>is</u> our passion <u>for doing things for ourselves</u>, **that we are becoming increasingly less dependent on specialized labour.**
+  * So great is our passion for doing things for ourselves, that ... 这个倒装句的原句是 
+    * → Our passion for doing things for ourselves **is so great** that ...
+  * **passion** n. 热情
+    * 表示感情的词一般都是 加 for
+    * his passion **for** table tennis 他对乒乓球的热情
+    * his passion **for** the girl 他对这个女孩的热情
+    * **passionate** adj. 热情的
+    * 表示热情的同义名词 以及形容词形式
+      * **enthusiasm for ...** n.
+        * **enthusiastic** adj.
+      * **zest for ...** n.
+        * **zestful** adj.
+      * **zeal for ..** n.
+        * **zealous** adj.
+      * **ardor for ...** n.
+        * **ardent** adj.
+  * **do sth. for oneself** 亲自做某事
+    * → (NCE3-29 P138-L12) The following example of 'sick humor' will enable you to judge **for yourself.** 
+    * **oneself** 当adv. 用来表示亲自做
+      * → I made these curtains **myself**. 
+    * **in person** 当 状语(adv.)来用
+      * → You have to sign for it **in person.** 这个东西您必须亲自签收
+        * sign for 签收
+    * **personally** 亲自
+      * → The President wrote to us **personally** to thank us for our hard work.
+  * **increasingly**: more and more 越来越...
+    * **be becoming increasingly + adj.**  正在变得越来越 ...
+      * → It **is** also **becoming increasingly difficult** to deal with the problem of traffic in towns.
+      * 英译汉考题
+        * → <u>As a result of all these factors, governments **are becoming increasingly dependent** on biologists and social scientists for planning the appropriate programs and putting them into effect</u>
+        * 因为所有这些因素, 政府正在变得越来越依赖生物学家和社会科学家, 来制定适当的方案, 并加以实施
+      * 造句：有机食品正在变得越来越流行。
+        * → Organic food is becoming increasingly popular.
+      * 造句：人们正在变得越来越了解 (aware) 国家和国际间的问题。
+        * → People **are becoming increasingly aware** of national and international issues.
+  * **be dependent on ..** 依赖于...
+    * **be independent of ...** 不依赖于...
+      * → We are becoming increasingly **independent of** specialized labor.
+  * 造句：我母亲住得这么远以至于我们很少 (hardly ever) 见到她。
+    * → So far away does my mother live that we hardly ever see her.
+  * 造句：我们对因特网的热情是如此的高涨以至于我们对电视越来越没有兴趣了。
+    * → So great is our passion for the Internet that we are becoming increasingly less interested in television.
+* → To plead ignorance of a subject is no longer a <u>legitimate</u> / <u>justifiable</u> excuse.
+  * legitimate adj. 合理的, 合法的
+  * justifiable adj. 合情合理的
+* **<u>countless</u> / <u>numerous</u>** adj. 数不胜数的, 不计其数的
+  * → (NCE3-23 P114-L10) There are **countless** people who, ever since their early years, have learned to associate snails with food.
+* **take-home** pay 税后薪水
+* a **can't-be-put-down** book 一本令人爱不释手的书
+* a **wait-and-see** policy 一个观望的政策
+* a **good-for-nothing** man 一个一无是处的男人
+* → **Armed with the right tools and materials**, newlyweds gaily embark on the task of decorating their own homes.
+  * **Armed with**  ... 装备着...., 拿着...
+    * → (NCE3-2 P18-L7) **Armed with** a torch, the vicar went up into the clock tower to see what was going on.
+  * <u>reading</u> / <u>writing</u> / <u>building</u> **materials** 阅读材料/写作素材/建筑材料
+  * **gaily**: <u>cheerfully</u> / <u>happily</u>
+    * **<u>gay</u> / <u>homosexual</u>** adj./n. 同性恋的 (多指 男同性恋)
+      * → He is **gay**.
+    * **lesbian** adj./n. 同性恋的 (多指 女同性恋)
+    * **<u>heterosexual</u> / <u>straight</u>** adj. 异性恋的
+  * **embark on ..** 上船上飞机; 启航
+    * → We **embarked on** the ship for Shanghai.
+    * **start on sth.** 开始...
+    * **set about sth.** 
+    * **disembark from ...** 下船下飞机
+      * → Passengers began to **disembark from** the ferry.
+* → Men, <u>particularly</u>, spend hours of their leisure time <u>installing their own fireplaces</u>, <u>laying out their own gardens</u>; <u>building garages</u> and <u>making furniture.</u>
+  * **<u>particularly</u> / <u>especially</u> / <u>in particular</u>** 特别
+  * **lay out ...** 1. 摊开，铺开
+    * → While they were **laying** it **out** on the decks.
+    * → **Lay out** the map on the table and let's have a look.
+    * **lay out ...** 2. = arrange 布置
+      * → (NCE3-6 P34-L5) Diamond necklaces and rings had **been** beautifully **arranged** on a background of black velvet.
+      * → The gardens **were laid out** with lawns and flower beds.
+* **so ... as to do** 如此, 以至于会...
 
 **## text 2**
 
