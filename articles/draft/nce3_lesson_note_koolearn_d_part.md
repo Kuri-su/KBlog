@@ -3261,10 +3261,143 @@
       * → (NCE3-6 P34-L5) Diamond necklaces and rings had **been** beautifully **arranged** on a background of black velvet.
       * → The gardens **were laid out** with lawns and flower beds.
 * **so ... as to do** 如此, 以至于会...
+  * → I can only trust him so **far**. 
+    * far 表示程度
+
+  * 影视片段
+    * → 'I got a surprise for you.'
+    * → 'Yeah? I got one for you too.'
+    * → 'I've watched you do business for years, but I thought there was a limit to how sick you could ... How could you, Linus? How could you do what you did to me and to her? How could you **go that far**? What the hell makes you think you have the right?’ 
+    * → ‘Habit.'
+      * **go that far**   做的如此过分
+      * the hell 到底(粗俗) (L2)
+      * sick adj. 恶心的; 不舒服的
+
+  * <u>as</u> / <u>so</u> far as I know 据我所知
+    * <u>as</u> / <u>so</u> far as I can remember
+    * <u>as</u> / <u>so</u> far as I can see 
+
+* **build**: assemble 组装
+* → Shops <u>cater for</u> the do-it-yourself craze not only **by running special advisory services for novices**, but **by offering consumers bits and pieces <u>which they can assemble at home</u>.**
+  * **cater for** v. 迎合; 满足
+    * → Schools often fail to **cater for** the needs of gifted children.
+    * → It is a resort that clearly **caters for** the well-off.
+      * well-off 富足的; 小康
+      * resort n. 手段;度假胜地 v. 求助, 诉诸, 某种手段
+
+  * **craze**: <u>fad</u> / <u>mania</u> 短期的热潮
+  * **run** 开设, 
+    * → The college **runs** summer courses.
+
+  * ser**vices** for no**vices** 押韵
+    * 分为尾韵和头韵
+    * the in**stitute** for the de**stitute** 平民学院
+    * H**aste** makes w**aste.** 欲速则不达
+      * haste n./v. 匆忙
+
+    * Man pro**poses**, God dis**poses**. 谋事在人, 成事在天
+    * Genius is one percent in**spiration** and ninety-nine percent per**spiration**.  --- Thomas Edison
+
+* **outlet** n. means of releasing energy, strong feelings, etc. （精力、强烈情感等的）发泄的途径; 
+  * **outlet for ...** 某种感情或者能力发泄的途径
+    * → Children need an **outlet for** their energy.
+    * outlet for water 排水孔
+    * outlet for air 排气孔
+
+  * **outlets** 奥特莱斯
+
+* **pent-up** adj. pent-up feelings or energy have not been expressed or used for a long time(情感、精力等）被压抑起来的， 郁积起来的
+  * pent adj. 被关闭的, 郁积的
+  * → He needs an **outlet for** all that **pent-up** anger.
+
+* **not 与 all, every, everything. everyone, both 连用<u>多</u>表示部分否定** 
+  * → **All** that glitters is **not** gold. 不是所有闪光的都是金子 (威尼斯商人 - 莎士比亚)
+  * → **Every** machine here is **not** produced in our plant. 这里的全部机器不都是我们厂生产的
+    * plant n. 工厂v. 种植, 栽培
+
+  * → **Both** of the substances do **not** dissolve in water. 不是所有的物质都溶于水
+    * dissolve v. 溶解 
+
+* **handyman** n. 能工巧匠
+* → He was born **an idiot.** 他生下来就是一个傻瓜(他是一个天生的傻瓜)
+  * → He was born **idiotic**.
+  * → He died **a beggar.** 他死的时候是一个乞丐
+  * → He died **poor**.
+
 
 **## text 2**
 
-* 
+* **tend to do** 往往, 常常, 倾向于
+  * 有某种客观的倾向
+  * **tend** vt. 照料, 照顾, 伺候 vi. 往, 朝向, 倾向, 易于...(客观的倾向)
+  * **intend** v. 打算(主观的意愿)
+  * → Women **tend to** live longer than men. 女人往往比男人长寿
+  * **have a tendency to do** 倾向于, 往往, 常常
+    * **tendency** n. 倾向, 趋势 (客观的倾向)
+      * → Women **have a tendency to** live longer than men.
+
+* **infinitely** adv. 无限量地, 无穷地; 极其
+* → Even men **who can hardly drive a nail in straight** are supposed to be born electricians, carpenters, plumbers and mechanics.
+  * **drive** v. 敲(钉子, 木桩); 驱动; 驱赶
+    * **drive** the posts into the ground 把木桩锤进地里
+      * post n. 柱, 桩, 杆
+
+  * **straight** adv. 直接地, 马上
+    * → (NCE3-13 P62-L10) She had told.him to come **straight** in if ever she failed to open the door and to leave the bread on the kitchen table.
+
+  * **nail**  n. 钉子, 指甲 vt. 钉; 揭露; 使固定
+  * **born** adj. 天生的
+    * → He is a **born** <u>leader</u> / <u>musician</u>.
+    * **<u>gifted</u> / <u>talented</u>** adj. 有天赋的, 
+      * → Picasso was one of the most **<u>gifted</u> / <u>talented</u>** artists.
+
+    * **have <u>a gift</u> / <u>an aptitude</u> for sth.** 某方面有天赋
+      * → **have a gift / an aptitude for** <u>lanquages</u> / <u>painting</u> / <u>music</u> / <u>dancing</u> etc.
+
+* → **When <u>lights fuse</u>, <u>furniture gets rickety</u>, <u>pipes get clogged</u>, or <u>yacuum cleaners fail to operate</u>**, some women assume <u>that their husbands will somehow put things right.</u>
+  * fuse v. 停电(保险丝熔断) 
+  * **rickety** v. 摇摇晃晃
+    * **rickety**: shaky
+
+  * get 变得(系动词)
+  * clog v. 黏糊的东西把管道堵塞
+  * vacuum n. 真空
+    * vacuum cleaner n. 吸尘器
+
+  * assume v. 以为 (往往暗示没有依据的假设判断, 往往是错的)
+  * **somehow** adv. 1. in some way, or by some means, although you do not know how 以某种方式
+    * → Don't worry, we'll get the money back **somehow**.
+    * **somehow** adv. 2. for a reason that you do not know or understand 不知怎么搞的，出于未知的原因
+      * → **Somehow**, I don't feel I can trust him.
+      * → (NCE3-1 P14-L15)..., this one must have been in the possession of a private collector and **somehow** managed to escape.
+
+  * **put... <u>right</u> / <u>in order</u>** 使.恢复正常
+  * **put ... out of order** 使... ..出故障
+    * → (NCE3-56 P252-L20) As the floods had **put** the telephone **out of order**, we could not find out how they were managing.
+
+* → The worst thing <u>about the do-ityourself game</u> is **that sometimes even men live under the delusion <u>that they can do anything</u>, even <u>when they have repeatedlv been proved wrong</u>.**
+  * game n. 活动, 游戏, 比赛
+
+* → It is a question of pride as much as anything else.
+  * **a question of ....** 一个...的问题
+    * → She is so diligent and talented that her success is only **a question of** time.
+    * → There would definitely be some job losses; it was just **a question of** how many.
+
+  * **a matter of** ...  ...的事
+    * **a matter of** time 这是一个时间事
+    * **a matter of** life <u>and</u> / <u>or</u> death 这是一个生死攸关的事
+    * **a matter of** personal taste 这是一个个人品味的事
+    * → I can't take the money . It is **a matter of** principle.我不能拿这些钱, 这是一个原则问题
+
+  * **pride** n. 自尊心; 骄傲, 自豪
+  * **as...as anything (else)** 加强语气
+    * = very
+    * → It's **as** easy **as anything (else)**
+      * = it's <u>very</u> easy.
+
+    * → He's **as** fat **as anything (else)**
+      * = He's <u>very</u> fat.
+
 
 **## text 3**
 
