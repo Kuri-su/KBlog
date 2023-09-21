@@ -1,4 +1,4 @@
-# ENSL Material - Steve Jobs's speech in Stanford
+# EN Spoken Language Material - Steve Jobs's speech in Stanford
 
 [TOC]
 
@@ -12,7 +12,7 @@
 
 ## Subtitles
 
-I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I’ve ever gotten to a college graduation. Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.
+I am **<u>honored to be</u>** with you today at your **<u>commencement</u>** from one of the **<u>finest</u>** universities in the world. I never **<u>graduated</u>** from college. **<u>Truth be told</u>**, this is the closest I’ve ever gotten to a college **<u>graduation</u>**. Today I want to tell you three stories from my life. That’s it. **<u>No big deal</u>**. Just three stories.
 
 **The first story is about connecting the dots.**
 
@@ -135,4 +135,23 @@ Stewart跟他的团队出版了好几期的《Whole Earth Catalog》，然后很
 
 当你们毕业，展开新生活，我也以此祝福你们。求知若饥，虚心若愚（Stay Hungry , Stay Foolish）。非常谢谢大家。
 ```
+
+## Note
+
+* **honor to be** /ˈɑːnər/  荣幸成为
+  * → It's an **honor to be** here today to address all of you.
+  * → She felt it was an honor to be the keynote speaker at the conference.
+* **commencement** /kəˈmensmənt/ n. 毕业典礼; 开始, 开端
+* **finest** /fi'nest/ adj. 好的, 出色的(fine 的最高级)
+* **graduate** /ˈɡrædʒuət/ a person who has a first degree from a university or college,  adj. 毕业了的 v. 大学毕业
+  * **graduation** n. 毕业典礼; 毕业
+* **truth be told** 实话实说
+* **gotten** - get 的过去式 (注意鼻腔爆破)
+* **no big deal** to not be a serious problem 没什么, 不是什么大不了的事情
+  * → We had a small argument, but it's **no big deal**. We made up right away.
+  * → He's running a little late, but it's **no big deal**.
+  * → I messed up the presentation, but my boss said it's **no big deal**.
+* --
+* **drop out** 退出, 退学
+* 
 
