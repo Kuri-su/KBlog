@@ -3401,7 +3401,25 @@
 
 **## text 3**
 
-* 
+* **call sb. $\Leftrightarrow$ in** to ask sb. to come and help you with a difficult situation 叫某人来帮忙
+
+  * → Your father is very sick. You'd better **call in** a doctor at once.
+    * sick adj. 病的
+
+* **look at ...** = examine .. (动词版本)
+
+  * **examine** vt. 仔细检查; 考试 ; 审问
+  * **have a look at ...** 检查(名词版本)
+  * **have a close look at ...** 仔细检查
+
+* **get <u>round</u>(英) / <u>around</u>(美) to <u>sth.</u> / <u>doing</u> 有时间（找到时间）做某事**
+
+  * → W: Im having trouble slicing the bread with this knife.
+  * → M: Oh. Sorry about that. / haven't gotten around to sharpening it yet.
+  * → Q: What can be inferred about the knife?
+  * → 
+
+  
 
 ## L47 Too high a price?
 
