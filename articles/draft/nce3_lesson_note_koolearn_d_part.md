@@ -3405,21 +3405,287 @@
 
   * → Your father is very sick. You'd better **call in** a doctor at once.
     * sick adj. 病的
-
 * **look at ...** = examine .. (动词版本)
 
   * **examine** vt. 仔细检查; 考试 ; 审问
   * **have a look at ...** 检查(名词版本)
   * **have a close look at ...** 仔细检查
-
 * **get <u>round</u>(英) / <u>around</u>(美) to <u>sth.</u> / <u>doing</u> 有时间（找到时间）做某事**
-
   * → W: Im having trouble slicing the bread with this knife.
   * → M: Oh. Sorry about that. / haven't gotten around to sharpening it yet.
   * → Q: What can be inferred about the knife?
-  * → 
+  * → Answer: (B) It's dull.
+    * **dull** adj. 钝的; 呆滞的 v. 变迟钝; 缓和
+* **not hear of sth.** 不同意某事 
+  * → I wanted to pay but she **wouldn't hear of** it.
+  * → I would not hear of the suggestion **that I <u>call</u> in a man to look at our lawn mower.**
 
-  
+* **haul** n. 用力拖/拉; 努力得到结果 v. 拖, 拉
+  * ... had a close look at it. = ... and examined it.carefully
+
+* → **As far as I could see**, it needed only <u>a minor adjustment</u>: **<u>a turn of a screw here</u>, <u>a little tightening up there</u>, <u>a drop of oil</u>** <u>and</u> it would be as good as new.
+  * minor adj. 较小的
+  * adjustment n. 调节
+  * screw 螺丝钉
+  * tighten 变紧
+  * a drop of oil 一滴油
+    * a drop 一滴
+
+  * **as far as l can see** 据我来看
+  * **as good as .. :** almost / nearly
+    * 1-像...一样的好 2-跟..差不多 almost / nearly
+    * → The injured man is **as good as** dead.
+    * → Everything is **as good as** settled.
+    * → (NCE3-2 P18-L17) Thirteen is not **as good as** one, but it' s better than nothing.
+
+* → The **mower** firmly refused to **mow** (文字游戏)
+  * → The **waiter** refused to **wait on** us.
+    * wait for 等我
+    * wait on 伺候
+    * 比 The waiter refused to serve us. 更好
+
+  * → (NCE4-24 P138-L15) If we see the **unutterable**, it is unwise to try to **utter** it, ...
+  * → We only **help** those who really need **help**. 
+    * 前面是动词的 help, 后面是名词的 help
+    * 不是所有的地方都必须替换
+
+* so I decided to **dismantle it.**
+  * ..., so I decided to **take it apart.** 拆开它
+
+* **litter** 胡乱的堆满了
+  * **be <u>littered</u> / <u>cluttered</u> with ...** 胡乱的堆满了某物
+    * → The floor **was <u>littered</u> / <u>cluttered</u> with** broken glass.
+    * → (NCE3-39 P178-12) Even though the road **was littered with** boulders and pitted with holes, Bruce was not in the least perturbed.
+
+  * **<u>litter</u> / <u>clutter</u>** 
+    * → Broken glass **<u>littered</u>** / **<u>cluttered</u>** the floor.
+    * → (NCE3-34 P158-L5) There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that **litter** the floors.
+
+* **be pleased with ..** 对某物既开心又满意..
+  * → (NCE3-23 P114-L16) Robert **was** delighted to see me and equally **pleased with** my little gift .
+  * → (NCE3-28 P134-420) I **felt** especially **pleased with** my wonderful bargain ---until I got back to the ship.
+
+* **trace**: track down 找到
+  * → The president vowed to **<u>trace</u> / <u>track down</u>** those responsible for the bombing.
+    * vow v. 发誓
+
+* snap n. 绷断了; 响指
+* **be faced with ...** = **be confronted with ..**
+  * China **is <u>faced</u> / <u>confronted</u> with** the problem of overpopulation.
+    * overpopulation n. 人口过剩
+
+* **insurmountable** adj. 难以克服的, 难以应对的
+* **jigsaw puzzle** 拼图游戏
+  * jigsaw n. 复杂难懂的事物 n. 锯子
+
+* → I was not surprised to find **that machine still refused to work <u>after I had reassembled it</u>, for the simple reason that I was left with several curiously shaped bits of metal <u>which did not seem to tit anywhere</u>.**
+  * **reassemble** v. 重新组装; 重新集合
+    * assemble v. 组装, 集合
+
+  * **curiously** adv. 奇怪的
+  * **shaped** adj. 形状的;合适的;有计划的; 有目标的
+    * → (NCE3-18 P82-L10) **Oddly shaped** forms that are suspended from the ceiling and move in response to a gust of wind are quite familiar to everybody.
+
+  * fit v. 进去
+    * **fit**: go
+      * → The key won't **<u>fit</u> / <u>go</u>** in the lock. 钥匙插不进锁里
+
+  * **for the simple reason that .. . = simply because ..**
+    * → (NCE3-4 P26-L2) People who work in offices are frequently referred to as 'white collar workers' **for the simple reason that** they usually wear a collar and tie to go to work.
+
+  * **leave sb. with sth.** 留给某人某物
+  * **in despair** 绝望地
+    * → He killed himself **in despair.** 
+    * → With this faith, we will be able to hew out of **the mountain of despair** a stone of hope.
+    * **despair of <u>n.</u> / <u>doing</u>** 对某事绝望
+      * → The teachers began to **despair of** him.
+      * → Mike **despaired of** ever seeing her again.
+
+* **pass**: <u>go by</u> / <u>elapse</u>
+* **weeks passed and the grass grew** 平行结构, 并且读音对仗
+  * An **idle** youth, a **needy** age. 一个闲散的青年时期, 一个困窘的老年时期
+
+* **As you can imagine, ..** 正如你能想到的
+* jungle n. 丛林
+* → **Buried somewhere in deep grass** there is a rusting lawn mower **which I have promised to repair one day.**
+  * bury v. 埋藏
+  * rusting n. 生锈
+
 
 ## L47 Too high a price?
+
+**## words**
+
+* **overpopulated** /ˌovɚ'pɑpjuletɪd/ adj. 人口过多的
+  * over 表示过度的, 过量的, 经常用 over+动词的过去分词构成形容词, 表示过度的
+  * **overworked** adj. 工作负担过重的
+  * **overdressed** adj. 衣服穿的过分正式的
+  * **overestimated** adj. 被高估的
+  * **overcrowded** adj. 过分拥挤的
+  * **overcooked** adj. 过度烹饪的, 
+  * **over-industrialized** adj. 过度工业化的
+  * **overpopulated** adj. 人口过多的
+  * **overpopulation** adj. 人口过剩的
+    * → China is faced with the problem of **overpopulation**.
+  * **populate** v. 人口分布于某地
+    * **<u>densely</u> / <u>thickly</u> populated** regions 人口稠密的地区
+    * **<u>sparsely</u> / <u>thinly</u> populated** regions 人口稀疏地区
+* **overwhelm** /ˌoʊvərˈwelm/ v. 大水淹没某地
+  * → The village **was overwhelmed by** floods.
+  * **be overwhelmed <u>with</u> / <u>by</u>** <u>grief</u> / <u>despair</u> / <u>excitement</u>... 完全沉浸在某种情感中
+    * **grief** n. 悲伤, 悲痛
+    * **excitement** n. 兴奋, 激动
+  * → In June the town **is overwhelmed by** tourists. 在六月, 这个城镇到处都是游客 (被游客淹没)
+  * → I **feel** a little bit **overwhelmed by** work. 被工作淹没
+  * → Her beauty completely **overwhelmed** him. 她的美貌令他为之倾倒 (她的美貌淹没了他)
+  * **overwhelming** adj. 压倒性的, 势不可挡的
+    * an **overwhelming** victory 一次压倒性的胜利
+    * the **overwhelming** majority 压倒性的多数
+      * majority n. 多数
+* **insidious** /ɪnˈsɪdiəs/ adj. 潜在的，潜伏的，暗中为害的
+  * an **insidious** disease 一种潜伏性的疾病
+  * **insidious** jealousy 暗藏于心的妒忌
+  * **"<u>sid</u>/<u>sed</u>" 字根 = sit** 表示坐
+    * as<u>sid</u>uous adj. 勤奋的, 勤勉的 (坐着伏案工作, 多指脑力工作者)
+    * <u>sed</u>ulous adj. 勤奋的, 勤勉的 (坐着伏案工作, 多指脑力工作者)
+    * **sed**ative n. 镇静剂
+    * **sed**iment n. 沉淀物
+    * pre**sid**e v. 主持; 掌管
+    * pre**sid**ent v. 主席, 总统
+    * re**sid**e v. 居住于某地
+      * re 的字首有多个意思: 重来/back
+    * re**sid**ence n. 住宅, 住处
+    * sub**sid**e v. 平息, 减弱
+    * sub**sid**iary adj. 附属的, 附带的 n. 附属事物, 附属机构, 子公司
+      * → I wanna hold you till I die, till we both break down and cry. I wanna hold you til the fear in me **subsides**.
+        * **till** prep./conj. 直到, 
+        * **break down and cry** 抑制不住感情哭出声来
+* **maximum** /ˈmæksɪməm/ adj. 最大的
+  * **maximum** <u>amount</u> / <u>number</u> 最大量
+  * **maximum** temperature 最高温度(天气预报)
+  * **maximum** voltage 最高电压
+  * **maximize** v. 使最大化
+    * -ize 使意的字根
+    * to **maximize** profits 使利润最大化
+    * to **maximize** windows 电脑窗口最大化
+  * **maximization** n. ...的最大化
+    * the **maximization** of profits
+  * **minimum** adj. 最小的, 最小化的
+    * **minimum** wage 最低工资
+    * **minimize** v. 使最小化的
+      * to **minimize** the civilian casualties 尽量减少平民的伤亡
+        * casualty n. 伤亡人数
+    * **minimization** n. ....的最小化
+* **mobile** 英/ˈməʊbaɪl/ 美/ˈmoʊbl/ adj. 可移动的
+  * **mobile** home
+  * **mobile** library 可移动式图书馆
+  * **mobile** phone 可移动电话
+    * <u>cell</u>/<u>cellular</u> phone
+  * ile 英式发 /aɪl/ 美式发 /l/ 的例子
+    * host**ile** 
+    * fert**ile** 
+    * fut**ile**
+    * juven**ile** adj. 青少年 (法律用语)
+    * ag**ile** adj. 敏捷的
+    * doc**ile** 
+    * frag**ile** 
+    * infant**ile** adj. 婴儿的, 幼稚的
+    * miss**ile** n. 导弹
+    * rept**ile** n. 爬行动物
+* **snore** /snɔr/ v.打呼噜，打鼾
+  * sneeze v. 打喷嚏
+  * sniff v. 嗅, 闻, 吸入鼻子
+  * gasp v. 用嘴大口的吸气 (通常由于惊讶)
+  * sigh v. 叹气
+  * yawm v. 打哈欠
+  * blow one's nose v. 擤鼻涕
+  * clear one's throat v. 清嗓子
+    * throat n. 嗓子
+  * **break wind**  v. 放屁
+  * **fart** v. 放屁
+
+**## text 1**
+
+* → Pollution is the price **we pay for an overpopulated, over industrialized planet.**
+
+  * price n. 代价
+  * **be the price sb. pay for ...** 是某人为了...付出的代价
+    * 造句：沙尘暴(dust storm) 是我们为过度砍伐 (tree felling) 付出的代价。
+      * → Dust storms **are the price we pay for** excessive tree felling.
+    * 造句：这次事故是他为疏忽 (negligence) 付出的代价。
+      * → The accident **is the price he pays for** his negligence.
+  * **be a small price to pay for sth.** 对...来说算不了什么
+    * 造句：损失点钱对于提高地位来说算不了什么。
+      * → The loss of money **is a small price to pay for** the rise in status.
+  * **be a high price to pay for sth.** 对...来说代价太高
+    * 造句：为了成功牺牲健康不值得。
+      * → The sacrifice of health **is a high price to pay for** success. 
+
+* → **When you come to think about it**, there are only four ways **you can deal with rubbish**: <u>dump it</u>, <u>burn it</u>, <u>turn it into something **you can use again**</u>, <u>attempt to produce less of it</u>.
+
+  * dump v. 倾倒
+
+  * attempt n./v. 试图, 尝试
+
+  * **come to do** 开始做某事
+
+    * → (NCE3-38 P174-L1) Future historians will be in a unique position when they **come to** record the history of our own times.
+
+  * 分类写作方法
+
+    1. **there are ... <u>ways</u> / <u>kinds</u> / <u>sorts</u> / <u>types</u> / <u>categories</u> / <u>classes</u> ...**
+
+       * → **There are** three **categories of** accommodation: economical, standard and deluxe.
+         * **accommodation** 住宿
+         *  deluxe adj. 豪华的
+
+    2. **fall into ... categories** 有多少种类别 (掉到了多少种类里面去)
+
+       * → Shakespeare's plays **fall into** three **categories**: tragedies such as Hamlet, comedies such as The Merchant of Venice and histories such as Henry TV.
+
+    3. **be divided into.. classes**
+
+       * **divide** v. 分开, 分为
+
+       * → (NCE4-46 P268-416) Broadly speaking, human beings may **be divided into** three **classes**: those who are toiled to death, those who are worried to death, and those who are bored to death.
+
+  * **dispose of** <u>rubbish</u> / <u>garbage</u> 
+
+    * dispose of 专门表示垃圾的处理
+    * <u>rubbish</u> / <u>garbace</u> **disposal**
+
+  * **recycle** it 回收利用
+
+* → We keep trying all four methods, <u>but</u> the sheer volume of rubbish **we produce worldwide** threatens to overwhelm us.
+
+  * **threatens to do** 
+    * 如果人做主语, 表示威胁说要做某事
+      * → They **threatened to** kill him if he didn't obey.
+    * 事物做主语, 表示有某种危险
+      * → Mining operations **threaten to** destroy our environment.
+    * 人和事物做主语, 意思完全不同的表达
+      * **found one's way**
+        * 人做主语表示找到了去哪里的路
+        * 物做主语表示到达某地
+      * **promise to do**
+        * 人做主语表示承诺答应要做某事
+          * → He **promised to** call me every week.
+        * 物做主语表示 有可能
+          * → It **promises to** be warm today.
+  * **the sheer volume of sth.** 大量的某物
+    * volume n. 量, 体积, adj. 大量的
+    * sheer adj. 完全的, 十足的; adv. 
+    * **the sheer size of sth.** 面积大的某物
+      * → **The sheer size of** the country makes communications difficult.
+        * communication n. 交通
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L48 The silent village
 
