@@ -3681,11 +3681,152 @@
 
 **## text 2**
 
-* 
+* **当"part of” 之前没有形容词修饰时， 通常不加不定冠词“a”**
+  * → (NCE3-35 P162-L3) Justice is **part of** the complex machinery of the law.
+  * → (NCE3-41 P192-411) This idyllic pastoral scene is only **part of** the picture.
+  * → Memory loss js **a <u>normal</u> part of** the aging process.
+* → The need **<u>to produce ever-increasing quantities of cheap food</u>** leads to a different kind of pollution.
+  * ever-v. 的现在分词形式 表示不断...的 (adj.)
+    * ever-increasing 不断增长的
+    * the **ever-changing** world 不断变化的世界
+    * the **ever-growing** knowledge 不断增长的知识
+    * the **ever-developing** economy 不断发展的经济
+    * the **ever-expanding** market 不断扩张的市场
+    * the **ever-deepening** reform 不断深化的改革
+    * the **ever-dwindling** resources 不断缩减的资源
+      * **dwindle** vi. 逐渐变少或变小
+  * 造句: 满足人们不断增长的物质和文化生活需求的需要
+    * the' need to satisfy people's **ever-increasing** demands for material and cultural life
+  * **lead to** 通往... ; 导致了
+    * → (NCE3-5 P30-L6) Hundreds of steps **lead to** the high wall which surrounds the president's palace. (通往)
+    * → (NCE3-33 P154-L19) This **led to** yet another angry argument. (导致)
+* **farming** n. 不仅仅表示耕作, 也能表示 畜牧
+  * pig farming 养猪
+  * cattle farming 养牛
+  * chicken farming 养鸡
+  * poultry farming 家禽养殖
+  * livestock farming 家畜养殖
+    * livestock n. 家畜
+  * **farm** v. 耕作; 养殖;
+    * farmed fish 养殖鱼
+    * farmed shrimp 养殖虾
+* 用同字根的动词和名词
+  * **produce** cheap meat **products**
+  * assist **burglars** to **burgle**
+  * **live** a ... **life**
+  * **sing** a **song**
+  * **breathe** one's last **breath** 
+  * **die** a glorious **death**
+* 注意 动物肉 和 动物是同一个词的 可数的情况和不可数的情况 表示不同的意思
+  * eat chicken n. 鸡/鸡肉
+  * lamb n. 羔羊/ 羔羊肉
+    * mutton n. 羊肉
+  * turkey n. 火鸡/火鸡肉
+  * duck n. 鸭子/鸭肉
+  * lobster n. 龙虾/龙虾肉
+* grain 谷物
+* fruit  n. 水果(不可数); 不同种类的水果(可数)
+* pesticide n. 杀虫剂
+* fertilizer n. 肥料, 化肥
+* → The price **we pay for cheap food** may be already too high: Mad Cow Disease (BSE) in cattle, salmonella in chicken and eggs, and listeria in dairy products.
+  * **the price sb. pay for ...**
+    * → Pollution is **the price we pay for** an overpopulated, over-industrialized planet.
+    * → The precious information came **at a price.** 付出了代价
+    * → The precious information came **at a heavy price.** 付出了惨重的代价
+    * → She is determined to have a child **at any price.** 她下定决心不惜一切代价要生一个孩子
+      * determined adj. 坚定的, adv. 坚定地 n. 坚定
+  * **at the expense of ...** 以损害...为代价
+    * → Military strength is often achieved **at the expense of** a country's economic health.
+    * 阅读题: 
+      * → The Roosevelt Administration believed that rebuilding the nation's soil was in the national interest and was not simply a plan to help farmers **at the expense of** other Citizens.
+        * nation n. 国家
+        * national adj. 国家的
+        * interest n. 利益
+  * **BSE**
+    * bovine spongiform encephalopathy
+      * bovine adj. 牛的, 跟牛相关的
+  * **AIDS**: 
+    * Acquired Immune Deficiency Syndrome 艾滋病
+  * **cattle** 牛(本身就是复数)
+  * **people** 人(本身就是复数)
+  * **police** 警察(本身就是复数)
+    * a policeman
+  * **dairy** 牛奶公司, 奶品店
+    * **dairy** products  奶制品
+    * **dairy** cattle 奶牛
+    * **diary** 日记
+      * keep a **diary** 记日记
+    * 类似的搭配
+      * **<u>angle</u>**/**<u>angel</u>**  角度/天使
+      * **<u>altitude</u>** / **<u>latitude</u>** 海拔高度/维度
+      * **<u>aboard</u>** / **<u>abroad</u>** 在船上/到国外
+  * 造句：我们为人口过多付出的代价可能已经太高了：失业现象，各种各样的污染，以及越来越多的 (ever-increasing) 犯罪。
+    * → The price we pay for overpopulation may be already too high: unemployment, pollution of all kinds, and the ever-increasing crime.
+* → And **if you think you'll abandon meat <u>and</u> become a vegetarian**, you have the choice of <u>very expensive organicallygrown vegetables</u> or <u>a steady diet of pesticides</u> **every time you think <u>you're eating fresh salads and vegetables, or just having an innocent glass of water</u>!**
+  * **vegetarian** 素食主义者
+  * **steady** adj. 稳定的
+    * a **steady** <u>job</u> / <u>income</u> 一份稳定的工作, 一份稳定的收入
+    * a **steady** relationship 一段稳定的关系
+    * a **steady** <u>boyfriend</u> / <u>girlfriend</u> 关系已经稳定的男朋友/女朋友
+    * a **steady** <u>decline</u> / <u>increase</u> 持续稳定的下降/持续稳定的上升
+  * **pesticide** n. 农药; 杀虫剂
+  * **have the choice of A or B** 在 A 和 B 里选一个
+  * **organically-grown** vegetables 有机栽培的蔬菜
+    * **organically-grown** produce 有机栽培的农产品
+      * produce n. 农作物, 农产品
+    * **environment-friendly** 环保的
+      * **environment-friendly** products 环保产品
+  * diet n. 日常饮食
+  * **every time (when)...** 每当...
+    * **whenever ...** 每当...
+    * **no matter when ...** 每当...
+  * **innocent** adj. harmless, innocuous 无害的, 无毒的
+  * 造句：如果你想放弃开车，那么你可以两者选一：或者是慢得出奇 (extraordinarily slow) 的公共汽车，或者是过分拥挤 (over-crowded）的地铁。
+    * → If you think you'll abandon the car, you have the choice of the extraordinarily slow buses or the over-crowded subway.
 
 **## text 3**
 
-* 
+* → <u>However</u>, there is an even more insidious kind of pollution **that particularly affects urban areas and invades our daily lives**, <u>and</u> that is noise.
+  * 造句：有一种更为隐蔽有害的侵略，它尤其影响人们的思维模式 (mode of thought) 并侵犯当地的传统，那就是文化侵略。
+    * → There is an even more insidious kind of aggression that particularly affects people’'s mode of thought and invades local tradition, and that is cultural aggression.
+* → Burglar alarms **going off at any time of the day or night** serve only to annoy passers-by <u>and</u> actually assist burglars to burgle.
+  * burglar alarm 防盗告警器
+  * **go off** 发出巨大的声音
+    * → The alarm clock **went off.**
+    * → The bomb **went off** at midnight.
+    * **ring** 清脆的铃声
+      * → The <u>phone</u> / <u>doorbell</u> **rang**.
+    * **strike** 钟表打点报时
+      * → (NCE3-2 P18-L5) The clock was **striking** the hours.
+      * → The clock began to **strike** twelve.
+    * **blare** 车喇叭发出声音
+      * → (NCE3-6 P34-L9) The silence was suddenly broken when a large car, with its headlights on and its horn **blaring**, roared down the arcade.
+        * **roar** 汽车驶过发出的声音(狮虎的叫声)
+        * **thunder** 汽车驶过发出的声音
+    * **whine** 机器运转时的轰鸣声
+      * 
+  * **serve to do** 有某种作用, 发挥着某种作用
+    * → His death **serves to** remind us how dangerous using drugs can be.
+    * **serve as ...** 发挥着某物的作用
+      * → (NCE3-25 P122-L3) She **serves as** an impressive reminder of the great ships of the past.
+  * passer n. 路人; 旅客
+  * **assist** v. 帮助, 协助, 促进 
+* **constantly** 令人厌烦的总做某事
+* **profound** = deep 深深地...
+* a source of .... ...的来源
+  * → (NCE3-15 P70-L2) .., .. but uncles and aunts are always **a source of** extra income.
+* → A recent survey <u>of the effects of noise</u> revealed (surprisingly?) **that dogs <u>barking incessantly in the night</u> rated the highest form of noise pollution on a scale <u>ranging from one to seven.</u>**
+  * bark v. 狗叫
+  * **survey** v./n. 民意调查
+    * **poll**  v./n. 民意调查
+    * **opinion poll** v./n. 民意调查
+    * **census** v./n. 调查(通常指数量方面, 尤指 人口普查)
+      * the Fifth National **Census** 第五次人口普查
+    * **investigation** 调查, 调研
+      * the **investigation** of the <u>case</u> / <u>market</u> ..
+  * rate 被评定为
+    * → The essay **rates** a low grade.
+    * 
 
 ## L48 The silent village
 
