@@ -3824,9 +3824,74 @@
       * the Fifth National **Census** 第五次人口普查
     * **investigation** 调查, 调研
       * the **investigation** of the <u>case</u> / <u>market</u> ..
-  * rate 被评定为
+  * **rate** 被评定为
     * → The essay **rates** a low grade.
-    * 
+  * **scale** 级别, 等级 (通常和 on 搭配)
+    * → The earthquake measured **8.0** on the Richter **scale**.
+    * → The students rates the teachers **on** a **scale** of 1 to 5.
+  * 在 A 和 B 之间来回变化
+    * **range from A to B**
+    * **range between A and B**
+      * → The team contained ten players whose ages <u>ranged from 10 to 16 / ranged between 10 and 16.</u>
+* Lawn mowers **<u>whining on a summer's day</u>**, late-night parties **<u>in apartment blocks</u>**, noisy neighbors, vehicles of all kinds, especially large container trucks **<u>thundering through quiet villages</u>**, planes and helicopters **<u>flying overhead</u>**, large radios **<u>carried round in public places</u> and <u>played at maximum volume</u>**.
+  * **vehicle** n. 交通工具, 车辆, 传播媒介, 手段
+  * **... of all kinds** 各种各样的某物
+  * **container truck** 集装箱卡车
+  * **helicopter** n. 直升机
+  * **block** n. 街区; 用来作某种用途的大楼
+    * apartment **block** 
+    * office **block**
+* **object to + n.** 反对
+  * **oppose + n.**  反对
+  * **protest (against) +n.** 示威, 抗议某事
+  * **boycott + n.** 抵制
+  * **<u>support</u>/<u>back(v.)</u> + n.** 支持
+  * **be behind + n.** 支持
+  * **stand by. + n.** 支持
+  * **<u>advocate</u> / <u>endorse</u> + n.** 公开支持, 公开宣扬, 鼓吹
+* **public transport(英) / public transportation(美)** = buses, trains etc. 公共交通工具
+* **on** 表示使用某种 工具/乐器
+  * → She is **on** the <u>phone</u> / <u>computer</u> .
+  * → She is playing a piece of music **on** the piano.
+* mid-thirties 三十五六岁左右
+  * early thirties 三十出头
+  * late thirties 快四十了
+* 上升到 <u>rise / increase /jiump / soar / rocket / spiral</u> to ...
+  * 上升了 <u>rise / increase /jiump / soar / rocket / spiral</u> by ...
+  * 下降到 <u>fall / drop / plunge / dive / plummet</u> to ...
+  * 下降了 <u>fall / drop / plunge / dive / plummet</u> by ...
+    * plummet 急跌
+* **against ... ** 对比
+  * **compared <u>to</u> / <u>with</u> ...**
+  * **<u>in</u> / <u>by</u> comparison <u>to</u> / <u>with</u> ...**
+  * **<u>in</u> / <u>by</u> contrast <u>to</u> / <u>with</u> ..**
+  * **A as against B is as C against D** A和 B 相比, 就如同 C 和 D 相比一样
+    * → The military power of the US, **as against** that of DPRK, **is as** the strength of an elephant **against** that of a mouse.
+
+* **whatever引导让出状语从句时，常省略 be 动词。**
+  * → **Whatever the source of noise (<u>is</u>)**, One thing is certain : .....
+  * → After all, **whatever her faults (<u>are</u>)**, she is your mother.
+  * → The country is always beautiful **whatever the season (<u>is</u>).**
+* a **golden** memory 一个宝贵的回忆
+  * a **golden** opportunity
 
 ## L48 The silent village
+
+**## word**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L49 The ideal servant
 
