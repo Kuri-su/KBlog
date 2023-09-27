@@ -3879,7 +3879,119 @@
 
 **## word**
 
-* 
+* **inaccessible** adj. 无法到达的
+  * → The bathroom is situated at the top of a flight of stairs, making it **inaccessible <u>to</u>** the disabled.
+    * a flight of stairs 一段楼梯
+  * **accessible** adj. 可以到达的
+    * → All parts of the museum **are accessible <u>to</u>** wheelchairs.
+  * **access** n. 1.（接近或进入某地的）方法，通道
+    * **access to ...**
+      * → The only **access to** the farmhouse is across the fields.
+    * **access** n. 2.(使用某物或接近某人的）机会或权利
+      * **have access to ...**
+        * → Students must **have access to** a good library.
+        * → Only high officials **have access to** the president.
+* **hospitable** adj.好客的
+  * **be hospitable <u>to</u> / <u>towards</u> sb.**
+    * → The local people **are** very **hospitable** **to** strangers.
+  * **hospitality** n. 好客
+    * → Thank you for your kind **hospitality**.
+    * → The Chinese are noted for their **hospitality**.
+      * be note for = be famous for
+  * 反义词: 冷冰冰的
+    * **inhospitable** adj. 不好客的
+    * **unfriendly** adj. 不友好的
+    * **unwelcoming** adj. 不友好的, 冷冰冰的
+    * **forbidding** adj. 不友好的, 冷冰冰的
+    * a **forbidding** <u>place</u> / <u>appearance</u>
+      * → (NCE3-34 P158-L2) The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases to keep them free from dust is usually a **forbidding place.**
+* **vicinity** /vəˈsɪnəti/ n. 附近地区
+  * **in the vicinity (of sth.)** 
+    * → (NCE3-48 P220-L8) We had spent several days in a small town and visited a number of old churches **in the vicinity.**
+    * → (NCE4-7 P41-L4) Everyone knows that if he shouts **in the vicinity of** a wall or a mountainside, an echo will come back.
+  * **in the neighborhood (of sth.)**
+    * → (NCE3-36 P166-L21) Hans returned to his family home, but the house had been bombed and no one **in the neighbourhood** knew what had become of the inhabitants.
+  * a famous arcade
+    * **near** Piccadilly
+    * **close to** Piccadilly
+    * **around** Piccadilly
+    * **off** Piccadilly
+    * **in the vicinity of** Piccadilly
+    * **in the neighborhood of** Piccadilly
+  * **only a short bus ride away** 一小段车程就到了
+  * **within walking distance** 走就能到的距离
+  * **within driving distance** 开车就能到
+  * **within commuting distance** 通勤的距离
+  * **only a stone's throw away** 扔石头就能到的距离
+* **tramp** /træmp/ v. 缓慢而步履沉重地行走
+  * **tramp** v. to walk somewhere slowly and with heavy steps 缓慢而步履沉重地行走
+    * → He **tramped** the streets looking for work.
+  * **tramp <u>through</u> / <u>across</u> / <u>around</u> ...**
+    * → (NCE3-48 P220-L13) We **tramped through** the wood for over two hours until we arrived at a deep stream.
+  * → go for a solitary **tramp** in the country
+    * solitary adv. 独自地, 一个人地
+  * → We had a long **tramp** home.
+  * 2.流浪汉
+    * → (NCE3-27 P130-L12) But real **tramps** are not beggars.
+* **dilapidated** /dɪˈlæpɪdeɪtɪd/ adj. 破旧的，年久失修的(家具/建筑物)
+  * **dilapidated** adj. (of furniture and buildings) old and in very bad condition 年久失修的
+    * a **dilapidated** <u>chair</u> / <u>bed</u>
+    * → We stayed in an old, **dilapidated** hotel with a leaky roof.
+  * **battered** adj. old, used a lot, and in bad condition 破旧不堪的(不一定指家具/建筑物)
+    * a **battered** old suitcase 一个破旧的老手提箱
+    * a **battered** old car 
+    * → (NCE2-35.P162-L9) While the **battered** car was moving away, Roy stopped his bus and telephoned the police.
+    * 形似词
+      * bitter 苦的
+      * butter 黄油
+  * **rickety** adj. a rickety structure or piece of furniture is in very bad condition, and likely to break easily 摇摇晃晃快散架的
+    * a **rickety** old wooden chair
+    * → (NCE3-46 P212-L14) When lights fuse, furniture gets **rickety**, pipes get clogged, or vacuum cleaners fail to operate, some women assume that their husbands will somehow put things right.
+
+* **rag** n. 破布, 碎布片;乞丐服
+  * **in rags** 穿着破旧的衣服
+    * a tramp dressed **in rags** 穿着破衣服的流浪汉
+    * Children **in rags** begged money from the tourists.
+  * **costume** 化妆服, 道具服, 
+  * **<u>overalls</u>/<u>coveralls</u>** 工作服(蓝领工人), 工装裤
+  * **uniform** 制服(统一的着装)
+    * <u>school</u> / <u>military</u> **uniform**
+  * **sportswear** n. 运动服(不可数) (wear 结尾的衣服都不可数)
+  * **leisure wear** n. 休闲装(不可数)
+  * **underclothes** 内衣(不可数)
+  * **underwear** 内衣(不可数)
+  * **suit** 西服, 套装
+  * **shroud** 寿衣
+* **procession** /prəˈseʃn/ n.（人或车或动物）队伍 (典礼)
+  * **procession** n. a line of people or vehicles that move along slowly, especially as part of a ceremony (人或车）队伍
+  * a <u>funeral</u> / <u>wedding</u> / <u>carnival</u> **procession** 一个送葬/婚礼/狂欢节 的队伍
+  * **march in procession** 列队打仗
+    * → Groups of unemployed people from all over the country **marched in procession** to the capital.
+  * **parade** n.（节日或庆典）游行的队伍; 阅兵式; 列队展示或表演
+    * a <u>victory</u> / <u>carnival</u> **parade** 一个胜利/狂欢节游行
+    * a military **parade**
+    * a fashion **parade**
+    * a **parade** of players before a football match
+  * **column** n. a long moving line of people or things（人事物的）队伍
+    * a **column** of soldiers 
+    * a **column** of refugees
+    * → (NCE3-54 P244-L15) Who has not stood in awe at the sight of a spider pouncing on a fly, or a **column** of ants triumphantly bearing home an enormous dead beetle?
+* **peer** /pɪr/ v.（因看不清而）仔细看
+  * → Mary **peered at** her watch.
+  * → (NCE3-48 P220-L28) Old women in black shawls **peered at** us from doorways.
+  * **squint at...** 迷起眼睛仔细看
+    * **squint one's eyes**
+    * → Stop **squinting at** the screen — put your glasses on.
+    * → (NCE3-22 P110-L16) Then, **squinting his eyes**, he said: 'The light is dim. Read the letter to me.'
+  * **<u>peep</u> / <u>peek</u> at ...**  偷窥
+  * **leer at ....** 色眯眯的看
+    * → He was always **leering at** female members of staff.
+  * **glance at ...** 匆匆一眼扫过
+  * **glimpse ...** 无意中一眼看到
+  * **gaze at ...** 充满兴趣的在欣赏
+  * **stare at ..** 瞪大眼睛在凝视
+  * **gape at ...** 张着嘴傻看
+  * **glare at ...** 对某人怒目而视
 
 **## text 1**
 
