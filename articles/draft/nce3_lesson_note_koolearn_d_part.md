@@ -3995,7 +3995,57 @@
 
 **## text 1**
 
-* 
+* **much-**travelled 旅游频繁的(地方)
+  * much- 表示很多人的广受...的, 经常 much 后面加过去分词
+  * **much-**loved 倍受爱戴的
+  * **much**-respected 广受尊敬的
+  * **much-**admired 广受钦佩的
+  * **much-**discussed 广为讨论的
+  * **much-**criticized 倍受批评的
+  * **much-**acclaimed 倍受赞誉的
+* assume 臆想 (贬义)
+  * → (NCE3-38 P174-410) Up to now, historians have **assumed** that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons.
+  * → (NCE3-46 P212-L14) When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate, some women **assume** that their husbands will somehow put things right.
+* remote 既能表示遥远, 也能表示偏僻
+* → But people **who are cut off <u>not only</u> from foreign tourists, <u>but</u> even from their own countrymen** can be hostile to travellers.
+  * **cut ... off from ...** 与...相隔绝
+    * to prevent sb./sth. from leaving or reaching a place or communicating with people outside a place 使... 与.... 隔绝
+    * → Having a new baby can **cut** a young mother **off from** the adult world.
+    * → (NCE4-3 P17-L8) Except for one or two places such as Zermatt and Chamonix, which had rapidly become popular, Alpine villages tended to be impoverished settlements **cut off from** civilization by the high mountains.
+* **be out of touch with …**与..…失去联系，不了解
+  * be in of touch with .... 保持联络
+  * keep of touch with ... 保持联络
+  * → We've **been out of touch with** Roger for years now. 已经多年和 Roger 这个人失去联系了
+  * → Old people sometimes **are out of touch with** the modern world. 
+  * **separate .. from…** 把...与...隔离
+    * → (NCE3-36 P166-L18) After having been wounded towards the end of the war, he had been sent to hospital and **was separated from** his unit.
+  * **isolate ... from…** 把....与.…隔离
+    * → A high wall **isolated** the house **from** the rest of the village.
+  * **segregate ... from ...**（因种族，性别 ，宗教等原因）把… 与.... 隔离
+    * → a culture in which women **are segregated from** men.
+    * → Blacks **were segregated from** whites in schools.
+  * **one's (fellow) countryman** 某人的同胞
+    * a hero much loved by **his countrymen**
+    * → Didn't he feel guilty about betraying **his fellow countrymen?**
+  * **one's fellow <u>Chinese</u> / <u>Americans</u> ..** 单复数同行
+    * → And so, **my fellow Americans**, ask not what your country can do for you; ask what you can do for your country.  --- John F. Kennedy
+* → Visits <u>to really remote villages</u> are seldom enjoyable — **as my wife and Idiscovered during a tour through the Balkans.**
+  * **as引导的非限定性定语从句与which引导的非限定性定语从句的区别**
+    1. **as作为关系代词指代整个主句，而 which作为关系代词指代整个主句或先行词均可。**
+    2. **as引导的非限定性定语从句位于主句前/中/后均可，而which引导的非限定性定语从句不能位于主句之前。**
+       * → **<u>As a poet points out</u>**, life is but a dream.
+       * → Children, **<u>as is always the case</u>**, love their mother.
+       * → She became angry, **<u>as many could see.</u>**
+    3. **as引导的非限定性定语从句含有“众所周知”的意思，常译为 “正如…", 而which引导的非限定性定语从句则末必有这个意思。**
+       * → The sun heats the earth, **<u>which makes it possible for plants to grow..</u>**
+    4. **在”as + is/was + done”结构中可省路4s/was”，而在“which + is/was +done'可省略'which + is/was", 不能只省略be动词。**
+       * → **<u>As (is) reported</u>**, a foreign delegation will visit the city.
+       * → a puma **<u>(which was) at large</u>**
+    5. 例句
+       * → (NCE3-33 P154-L12) Things can go wrong on a big scale, <u>**as**</u> a number of people recently discovered in Parramatta, a suburb of Sydney.
+       * → (NCE2-91 P414-L12) **<u>As</u>** the Commanding Officer explained later, one half of the station did not know what the other half was doing!
+       * → (NCE4-22 P127-L13) **As** is so often pointed out, knowledge is a twoedged weapon which can be used equally for good or evil.
+  * 
 
 **## text 2**
 
