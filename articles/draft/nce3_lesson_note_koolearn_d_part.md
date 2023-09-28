@@ -4045,11 +4045,95 @@
        * → (NCE3-33 P154-L12) Things can go wrong on a big scale, <u>**as**</u> a number of people recently discovered in Parramatta, a suburb of Sydney.
        * → (NCE2-91 P414-L12) **<u>As</u>** the Commanding Officer explained later, one half of the station did not know what the other half was doing!
        * → (NCE4-22 P127-L13) **As** is so often pointed out, knowledge is a twoedged weapon which can be used equally for good or evil.
-  * 
 
 **## text 2**
 
-* 
+* → These attracted many visitors, **for they were <u>not only</u> of great architectural interest, <u>but</u> contained a large number of beautifully preserved frescoes <u>as well</u>.**
+  * **fresco** n. 壁画
+  * **architectural** adj. 建筑的, 建筑学的
+  * **of+ 名词：描述人或事物的特征**
+    1. **做后置定语。**
+    2. **在系动词后做表语。**
+    3. 例句
+       * → (NCE3-32 P150-L14) Nothing **of value** was found, but the numerous items which were brought to the surface proved to be **of great interest**.
+         * = → Nothing **valuable** was found, but the numerous items which were brought to the surface proved to be **very interesting**.
+       * → These attracted many visitors, for they were not only **of great architectural interest,** ...
+         * = → These attracted many visitors, for they were not only **architecturally interesting**, ...
+  * contains 装了, 容纳
+    * → The museum **contains** a number of original artworks.
+    * → The room was small and **contained** far too much furniture.
+  * preserve v. 保存
+  * **beautifully** adv. 1. in a beautiful way 美丽地，漂亮地
+    * → (NCE3-3 P22-L6) They had large rooms with **beautifully** decorated walls.
+    * **beautifully** adv. 2. very well 很好地
+      * → My leg has healed **beautifully**.
+        * heal v. 痊愈
+      * → The children behaved **beautifully**.
+        * **behave** v. 表现
+        * **behaviour** n. 行为, 举止
+      * → (NCE3-7 P38-L12) Imagine their dismay when they found a **beautifully**-cooked wallet and notes turned to ash!
+  * 造句：故宫 (the Imperial Palace) 吸引了很多游客，因为它不但在建筑方面很有趣，而且里面有大量的保存完好的文物 (historical relic)。
+    * relic n. 遗物, 遗产, 遗迹
+    * → The lmperial Palace attracts many visitors, for it is not only of great architectural interest, but contains a large number of beautifully preserved historical relics as well.
+* → **<u>On</u> the day before our departure**, several bus loads of tourists descended on the town.
+  * on 可以省略
+    * → (NCE3-45 P208-L16) **(On) The day after the birth of the five children**, an aeroplane arrived in Aberdeen bringing sixty reporters and photographers.
+    * → We met **on the following day.**
+      * = → We met **the following day.**
+    * → We met **in the spring of 1983.** (in 也可以省略)
+      * = → We met **the spring of 1983**.
+  * **load** 表示一车人的例子
+    * a truck **load** of wood 一车的木材
+    * a ship **load** of cotton 一船的棉花
+    * a car **load** of visitors 一车的访客
+  * **descende** v. 下降
+    * **descend <u>on</u> / <u>upon</u>** ... 1. to visit sb./sth. in large numbers, esp. unexpectedly or inconveniently 大批突然来到.
+      * 人做主语表示 大批的, 突然来到某地, 暗示造成不便
+        * → Millions of tourists **descend upon** the area every year.
+    * **descend <u>on</u> / <u>upon</u>** ... 2. (of night, darkness, a mood, etc.) to arrive and begin to affect sb./sth., esp. suddenly 突然降临到.
+      * 事物做主语的时候表示 突然降临
+        * → (NCE3-41 P192-L27) Few things could be more impressive than the peace that **descends on** deserted City streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country.
+* **be more than ... can / could ...** 这是某人某物所不能....(这里主要是翻译的好点, 翻译成比某人所能xx 的更多其实也一个意思, 主要是对英译汉类的考试有帮助)
+  * → (NCE3-43 P200-L14) Dancing proved to be **more than** the dish **could bear**, for during the party it capsized and sank in seven feet of water.
+  * → The pain **is more than** I **can** bear.
+  * → The story **is more than** I **can** believe.
+  * → The beauty of the West Lake is **more than** words **can** describe.
+  * → Such a complicated situation **is** far **more than we could** anticipate and deal with.
+* → **Taking a path <u>which led out of the town</u>**, we crossed a few fields **until we came to a dense wood** .
+  * dense adj. 稠密的;浓厚的; 愚钝的
+  * wood n. 木头; 树林
+  * **take** v. use (a road, path, etc) as a route to go to a place 取道.
+    * → I usually **take** the M6 when I go to Scotland.
+      * M6: motorway sixth 六号高速公路
+  * **lead** v. to go in a particular direction or to a particular place 通往
+    * → The path **led down to** a small lake.
+    * → This door **leads into** the garden.
+    * → We followed a dirt track **leading through** the woods.
+      * track 人走出来的小路
+* **<u>trace</u> / <u>weave</u> / <u>wind</u> one's way** 蜿蜒的前进
+  * wind 缠绕, weave 织布
+  * → Highway 99 **winds its way** along the coast.
+  * → Lori spotted them as they **weaved their way** through the tables.
+* **<u>have no idea</u> / <u>not have any idea</u>** <u>(that)</u> / <u>how</u> / <u>what</u> / <u>why</u> / <u>which</u> / <u>where</u> ....
+  * → He **had no idea** <u>(that) she was like that.</u>
+  * → She **doesn't have any idea** <u>where they've gone.</u>
+* **moor** v. 停泊
+  * → We **moored** alongside the quay.
+    * quay n. 码头
+  * **moor ... to ...**
+    * → We **moored** the boat **to** a large tree root.
+* → In it there was a boatman **who was** fast asleep.
+  * 定语从句的关系代词和后面的 be 动词通常可以省略
+  * **be <u>fast</u> / <u>sound</u> asleep** 睡的很香, 睡的很沉
+    * **be sleeping <u>deeply</u> / *soundly* / <u>tight</u>** 睡的很香, 睡的很沉
+* **gently** adv. 轻轻地; 温柔地; 温和地
+* **ferry** n. 渡船；渡口
+  * **ferry** v. to carry people or goods between two or more places 运送 （人或货物）
+  * **ferry** goods **to** the mainland
+  * → Can you **ferry** us **across**?
+
+* **be <u>reluctant</u> / <u>unwilling</u> to do sth.** 不愿意去做某事, 不乐意做某事
+* **persuade sb. <u>to do</u> / <u>into doing</u> sth.** 说服某人做某事
 
 **## text 3**
 
