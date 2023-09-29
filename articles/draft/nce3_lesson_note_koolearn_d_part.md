@@ -4137,7 +4137,221 @@
 
 **## text 3**
 
-* 
+* → The path led to a tiny village **perched on the steep sides of a mountain .**
+
+  * **be perched on ...** 位于高, 并且比较危险的地方
+    * → (NCE3-43 P200-L21) For one agonizing moment, the dish **was perched** precariously **on** the bank of the canal, but it suddenly overbalanced and slid back into the water.
+    * → a house **perched on** a cliff above the town.
+
+* → The place consisted of a straggling unmade road **which was lined on either side by small houses.**
+
+  * consist of 由.....组成
+
+    * consist v. 组成, 构成
+
+  * **straggle** v. grow or spread in an irregular or untidy manner 无规则地或散乱地生长或散布
+
+    * → Unpainted wooden buildings **straggle** along the main road out of town.
+
+    * vines **straggling** over the fences
+      * **fence** n. 栅栏, 篱笆
+      * vine n. 藤蔓
+    * **winding** adj. 蜿蜒的
+    * **tortuous** adj. 蜿蜒的
+      * → The road is **tortuous**, but the prospects are bright.
+        * prospect n. 前景, 前途
+
+  * **line** v. form a line along sth. 沿某物排成行
+
+    * → Tall trees **line** the road on either side.
+    * → The road **is lined <u>with</u> / <u>by</u>** tall trees on either side. (被动)
+
+* → <u>Even under a clear blue sky</u>, the village looked forbidding, **as all the houses were built of grey mud bricks.**
+
+  * mud n. 泥, 烂泥
+  * brick n. 砖, 砖块 v. 用砖堆砌 adj. 用砖做的
+
+* → The village seemed deserted, **<u>the only sian of life</u> being an ugly-looking black goat on a short length of rope <u>tied to a tree in a field nearby</u>.**
+
+  * a very **modern-looking** woman  一个看上去很摩登的女人
+  * an **interesting-looking** carved dagger 一个看上去很有趣的雕花匕首
+  * the **sorry-looking**, blackened figure 一个满脸羞愧, 黑色的身影
+  * an **ugly-looking** black goat 一个看上去丑陋的黑山羊
+  * on 表示栓着某个动物
+    * → Please keep your dog **on** a leash.
+      * leash n. 栓狗的皮带
+  * **length** 一根, 一段
+    * → (NCE3-17 P78-L13) Each of the four cables contains 26,108 **lengths** of wire.
+  * tied to 绑在...上
+    * → (NCE3-16P74-L3) She kept it **tied to** a tree in a field during the day and went to fetch it every evening.
+  * nearby
+    * → (NCE3-40 P182-L13) The student hid in an archway **nearby** where he could watch and hear everything that went on.
+  * 独立主格不是句子, 比句子低一个等级, 如果用句子改写: 
+    * → The village seemed deserted, **and** the only sign of life **was** an uglylooking black goat on a short length of rope tied to a tree in a field nearby.
+  * 独立主格造句
+    * 造句：这本书很无聊(boring)，唯一有趣的部分是它的封皮。
+      * → The book is boring, the only interesting part being its cover.
+    * 造句：箱子(chest) 里的东西 (contents) 令人失望，唯一有价值的发现是一柄看起来有趣的雕花的匕首。
+      * → The contents of the chest were disappointing, the only valuable find being an interesting-looking carved dagger.
+
+* → **Sitting down on a dilapidated wooden fence <u>near the field</u>**, we opened a couple of tins of sardines <u>and</u> had a picnic lunch.
+
+* 突然间 同义搭配
+
+  * **all at once**
+  * **suddenly**
+  * **all of a sudden**
+
+* **alarm** n. a feeling of fear or worry because sth. bad or dangerous might happen 惊慌，恐慌
+
+  * → She looked up **in alarm.**
+  * → Scientists have said **there is no cause for alarm.**
+
+* **be filled with** <u>anger</u> / <u>fear</u> / <u>dread</u> / <u>horror</u> / <u>joy</u> / <u>happiness</u> / <u>doubt</u> / <u>alarm</u> / <u>revulsion</u> / <u>admiration</u> / <u>remorse</u> .. 充满了某种感情
+
+  * → Their faces **were** suddenly **filled with fear**.
+  * → l **am filled with admiration** for your bravery.
+  * → (NCE3-54 P244-L8) Knowing that the industrious ant lives in a highly organized society does nothing to prevent us from **being filled with revulsion** when we find hordes of them crawling over a carefully prepared picnic lunch.
+
+* → <u>Looking up</u> I saw **that we were surrounded by children <u>in rags</u> who were looking at us silently <u>as we ate</u>.**
+
+* 给某人提供某物
+
+  * **offer sb. sth.**
+  * **offer sth. to sb.**
+
+* motionless adj. 一动不动的
+
+* remain v. 仍然是, 保持不变 n. 残余物, 剩余物, 遗迹, 遗体
+
+* be shy of ... 对.... .腼腆羞怯；害怕...
+
+  * → Children **are** often **shy of** people they don't know.(羞怯)
+  * → I'**m shy of** buying shares, in case I lose money. (害怕)
+  * → **Once bitten, twice shy.** 一朝被蛇咬, 十年怕井绳
+
+* a **silent** <u>procession</u> of children.
+
+  * **procession** n. 队伍, 行列, 列队行进
+  * 通常如果名词有量词并且被修饰时, 修饰词放量词前, 
+  * a **nice** <u>cup</u> of tea
+  * a **beautiful** <u>stretch</u> of field
+  * a **stagnant** <u>pool</u> of water. 
+  * → (NCE3-15P70-L6) For most of them,50 pence is a small price to pay for a **nice big** <u>bar</u> of chocolate.
+  * → (NCE3-39 P178-L20) Our next obstacle was a **shallow** <u>pool</u> of water about half a mile across.
+  * → When we later walked down the main street of the village, we were followed by a **silent** <u>procession</u> of children.
+
+* **come to life** to become more interesting, exciting or full of activity 变活跃起来
+
+  * → The match finally **came to life** in the second half. 这个比赛终于在下半场的时候变得活跃起来
+
+* 表达需要更加具象
+
+  * She smiled.
+    * A smile appeared on her lips.
+    * Her lips curved into a smile.
+      * curve 弯曲
+    * Her rosy lips curved into a gentle smile.
+      * rosy 玫瑰花一样的
+      * gentle 轻柔的
+
+* **<u>in shirt sleeves</u> / <u>shirt-sleeves</u>** : dressed informally without wearing anything, such as a jacket, over a shirt 只穿衬衣的
+
+* **there is no <u>doubt</u> / <u>question</u> that ...** 毫无疑问
+
+  * → (NCE3-25 P122-L21) **There is no doubt that** if she had not lost her rudder she would have won the race easily.
+  * → **There is no question that** the government knew about the deal.
+
+* → **Turning back down the main street**, we quickened our pace <u>and</u> made our way rapidly towards the stream **where <u>we hoped</u> the boatman was waiting.**
+
+  * pace n. 步速
+  * **quicken one's pace** 加快了某人的脚步
+    * → Thinking that she was being followed, she **quickened her pace.**
+  * **make one's way** 前往某地
+    * → (NCE3-36 P166-L19) The hospital had been bombed and Hans had **made his way** back <u>into Western Germany</u> on foot.
+  * **嵌入式定语从句(Embedded Attributive Clause)**
+    * 这种定语从句的特征是：既修饰先行词又同时做另一个主谓结构的宾语。
+    * → (NCE3-42 P196-L24) In this part of the cave, they could hear an insistent booming sound **which <u>they found</u> was caused by a small waterspout shooting down into a pool from the roof of the cave.**
+  * = Turning back down the main street, we quickened our pace and made our way rapidly towards the stream, **<u>and</u> we hoped that the boatman was waiting <u>there</u>.**
 
 ## L49 The ideal servant
 
+**## words**
+
+* **rambling** /ˈræmblɪŋ/ adj.不规则的，布局凌乱的
+  * **rambling** adj. (esp. of buildings, streets, towns; etc.) extending in various directions irregularly (尤指建销物、街道、城镇等）无规则地向各方延伸的，布局凌乱的
+  * → (NCE3-49 P224-L4) She had a huge, **rambling** country house called'The Gables'.
+  * **ramble** v.& n. 漫步，闲逛 
+    * → Ilike **rambling** in the country.
+    * → I quite like the idea of **going for a ramble** on weekend.
+  * **rambler** n. 漫步者
+    * → (NCE3-42 P196-L8) Exploring really deep caves is not a task for the Sunday afternoon **rambler**.
+* **sentimentally** /sentə'mentəli/ adv. 情感上
+  * **sentimental** adj. relating to emotions instead of reason 情感的（非理智的）
+    * **for sentimental reasons**
+      * → He wasn't the sort of person who kept things **for sentimental reasons.**
+    * **sentimental value** 感情方面的价值
+      * → The rings that were stolen were of great **sentimental value.**
+    * **have a sentimental attachment to ...** 有感情上的依恋
+      * attachment n. 依恋, 连接
+      * → He **had a sentimental attachment to** his birth-place.
+  * **be sentimentally attached to ...**
+    * → The couple **are sentimentally attached to** each other.
+    * → (NCE3-49 P224-L5) She **was sentimentally attached to** this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.
+* **preside** /prɪˈzaɪd/ v. 主持(会议等); 掌管，领导
+  * **preside at ..** 主持...
+    * → They asked if I would **preside at** the committee meeting. 他们询问我是否能主持委员会的会议
+  * **preside over...** 掌管，领导
+    * → The city council is **presided over** by the mayor.
+    * → (NCE3-49 P224-411) Aunt Harriet **presided over** an invisible army of servants that continuously scrubbed, cleaned, and polished.
+  * 字根 : **sid / sed = sit**
+    * pre**sid**e 领导 pre**sid**ent 总统 pre**sid**ency 总统/主席的职务
+    * re**sid**e 定居 re**sid**ent 居民 re**sid**ence 住宅
+    * con**sid**er 考虑 con**sid**erate adj. 体谅别人的, 为别人着想的 con**sid**eration n. 体贴, 关心
+    * **sed**ate 安静的, 镇静的; 庄重的 **sed**ative n. 镇静剂 **sed**iment n. 沉淀物
+    * **sed**ulous 勤奋的 as**sid**uous 勤奋的 in**sid**ious adj. 潜伏的, 潜在的 adv. 潜伏地 n. 阴险, 潜伏
+      * → (NCE3-47 P216-l 15) However, there is an even more **insidious**  kind of pollution that particularly affects urban areas and invades our daily lives, and that is noise.
+      * → (NCE3-50 P228-L14) An all-night party on New Year's Eve, provided me with a good excuse for not carrying out either of these new resolutions on the first day of the year, but on the second, I applied myself **assiduously** to the task.
+    * sub**sid**e 平息, 减弱 sub**sid**y 津贴, 补助 sub**sid**iary 附属的, 次要的
+      * → I wanna hold you till I die, till we both break down and cry. I wanna hold you till the fear in me **subsides**.
+* **disillusion** /ˌdɪsɪˈluːʒn/ v. 使幻想破灭
+  * **disillusion** v. to make someone realize that something which they thought was true or good is not really true or good 使幻想破灭
+    * → I hate to **disillusion** you, but not everyone is as honest as you.
+  * **be disillusioned <u>with</u> / <u>by</u>...** 对某个事情大失所望
+    * → Voters **are disillusioned <u>with</u> / <u>by</u>** the democratic process.
+  * **be disenchanted with ...** 对某个事情大失所望
+    * → After three divorces he **became disenchanted with** married life.
+  * **be disappointed <u>with</u> / <u>by</u> / <u>at</u>...** 对某个事情大失所望
+  * **feel let down** 感到失望(口语)
+    * **let sb. down** 使某人感到失望
+      * → Hey, Jude! Don't **let me down**. You have found her, now go and get her. Remember to let her into your heart. Then you can start to make it better.
+* **qualification** /ˌkwɑːlɪfɪˈkeɪʃn/ n.资格,能力;文凭,资质证书
+  * **qualification** 1. n. an ability or quality that you need in order to do a particular job or position（某工作需要的）资格，能力
+    * **qualification for ...** 	做某事的能力
+      * → Previous teaching experience is a necessary **qualification for** this job.
+    * **qualification to do sth.**  做某事的能力
+      * → There have been questions about his **qualifications to** lead the company.
+  * **qualification** n. 2. an official record showing that you have finished a training course or have the necessary skills,etc.文凭, 资质证书
+    * <u>academic</u> / <u>vocational</u> **qualifications** 学术证书/ 职业资质证书
+    * → You'll never get a good job if you don't have any **qualifications**.
+  * **quality** v.（使）有资格或能力
+    * **qualify as** 获得了某种资质
+      * → He **qualified as** a doctor last year. 
+    * **qualify sb. to do sth.** 使某人有资格做某事
+      * → The test **qualifies** you **to** drive heavy vehicles.
+    * **qualify sb. for sth.**
+      * → This training course will **qualify** you **for** a better job.
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L50 New Year resolutions
