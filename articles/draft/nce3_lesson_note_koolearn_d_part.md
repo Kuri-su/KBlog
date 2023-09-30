@@ -4344,14 +4344,91 @@
 
 **## text 1**
 
-* 
+* **It is a good thing (that)..** 幸亏..
+  * → **It is a good thing that** we brought an umbrella.
+* → **If she <u>were</u> alive today** she <u>would</u> not be able to <u>air</u> her views <u>on</u> her favourite topic of conversation: **<u>domestic servants.</u>**
+  * 虚拟语气, 
+    * 与现在事实相反的虚拟
+      * **If +S. +<u>did</u> / <u>were</u> ..., S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do ...**
+  * **air** v. to express your opinions publicly 公开表达
+    * **air one's <u>views</u> / <u>opinions</u> / <u>grievances</u> / <u>complaints</u> (on ...)**
+      * grievances 委屈
+      * complaint 抱怨
+      * → In an interview, the singer **aired his views on** family life.
+    * 造句：在会上每个人都将有机会 (get a chance) 当前的局势发表看法。
+      * → At the meeting everyone will get a chance to **air their views on** the current situation.
+  * **a topic of <u>conversation</u> / <u>discussion</u> / <u>debate</u>** 一个交谈的/讨论的/ 辩论的话题
+    * debate v. 辩论(正式的)
+  * **a <u>sensitive</u> / <u>controversial</u> topic** 一个敏感的/引人争议的话题
+  * **domestic servant** 家仆
+    * **domestic** adj. 国内的, 家庭内部的
+    * **servant** n. 仆人
+    * **maidservant** n. 女仆人, 女佣人,
+      * → (NCE3-36 P166-L4) Readers happily accepted the fact that an obscure **maidservant** was really the hero's mother:
+    * **public servant** n. 公务员(公仆)
+    * **civil servant** n. 政府的文职官员
+      * → (NCE3-53P240-L6) The Swedes were the first to recognize that public officials like **civil servants**, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public.
+* **leisurely** adj. & adv. done without hurrying 悠闲的/地，从容的/地
+  * a **leisurely** <u>bath</u> / <u>meal</u> / <u>stroll</u> 一次从容的 洗澡/做饭/闲逛 (adj.)
+  * → Couples strolled **leisurely** along the beach.
+    * couple n. 一对, 情侣, 夫妻 v. 联系, 连接
+* 做家务
+  * **do (the) housework**
+  * **do (the) household chores**
+    * chores 零活, 杂活
+  * 洗衣服
+    * **do the laundry** 
+      * laundry 脏衣服
+    * **do the washing**
+  * 洗碗
+    * **<u>do</u> / <u>wash</u> the dishes** 
+    * **do the washing-up**
+* → She was sentimentally attached to this house, **for <u>even though it was far too big for her needs</u>, she persisted in living there <u>long after her husband's death</u>.**
+  * **long after ...** 之后的很久时间里
+    * **long before** 之前很久
+    * **shortly after ...** 不久之后
+    * **shortly before ...** 前不久, 不久之前
+    * **shortly afterwards** 不久之后
+  * **attach sth. to sth.** 连在一块, 系在一块
+    * → (NCE3-43 P200-L19) The sides of the dish were so smooth that it was almost impossible to **attach** hawsers and chains **to** the rim without damaging it.
+    * **be attached to sb. / sth.**
+      * to like someone or something very much, because you have known them or had them for a long time 依恋
+      * → I've never seen two people so **attached to** each other.
+      * → I **am sentimentally attached to** my old guitar.
+  * **<u>much</u> / <u>far</u> too ..** 实在是太.... (加强 too 的语气)
+    * → Alice is **far too** young to get married.
+    * **<u>slightly</u> / <u>a little</u> / <u>a bit</u> / <u>a little bit</u> too ...** 有那么一点太....(减弱 too 的语气)
+      * → I think you're **a bit too** young to watch this.
+  * **persist in** … 坚持，执意
+    * → Why do you **persist in** blaming yourself for what happened?
+      * blame v. 责备, 归咎于
+    * → She **persisted in** her search for the truth.
+* be used to do 过去常常做某事
+* **entertain** v. to invite people to eat or drink with you as your guests, especially in your home（在家中） 宴客
+  * → I don't **entertain** very often.
+  * → Bob and Liz **entertained** us to dinner last night.
+* **lavish** adj. very generous 慷慨的, 大方的
+  * **entertain lavishly** 大宴宾客
+  * → The Bradfords always **entertained lavishly** at Christmas.
+    * Bradfords 表示 Bradford 夫妇
+* **immaculate** = **spotless** adj. very clean and tidy 一尘不染的
 
 **## text 2**
 
-* 
+* **parquet** n. [U] small flat blocks of wood fitted together in a pattern that cover the floor of a room 镶木地板
+  * a **parquet** floor
+* shine shone shone 闪耀
+* polish 抛光
+* **silver** = **silverware** n. [U] spoons, forks, dishes etc that are made of silver 银器，银餐具
+  * → It was my job to polish the **silver**.
+* **gleam** v. shine softly 发出柔和的光
+  * → He had polished the table-top until it **gleamed**.
+    * table-top 桌面
+  * **gleaming** windows
+  * his **gleaming** white teeth 他的反射柔和的光的白色牙齿
+* **cabinet** n. piece of furniture with drawers or shelves for storing or displaying things 储藏柜，展示柜
+
 
 **## text 3**
 
 * 
-
-## L50 New Year resolutions
