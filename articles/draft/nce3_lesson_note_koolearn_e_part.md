@@ -318,9 +318,84 @@
     * ebb away 退去
   * subside v. 退去, 逐渐变小
   * → However, my enthusiasm **<u>ebbed (away)</u> / <u>subsided</u>.**
+    * enthusiasm n. 热情, 热心
 
 **## text 4**
 
-* 
+* **gradually** adv. 逐渐地
+  * 同义词替换
+    * **<u>gradually</u> / <u>slowly</u> / <u>Iittle by little</u> / <u>bit by bit</u> / <u>by degrees</u>** adv. 逐渐地
+* **diminish**: <u>reduce</u> / <u>decrease</u> v. 下降
+* **<u>fall</u>/<u>drop</u> to ...** 下降到
+  * → (NCE3-8 P42-L13) The temperature **drops to** -30° and very few people attempt to cross the Pass.
+  * **<u>plunge</u> / <u>dive</u> to ...** 暴跌
+* **be back to where ... start from** 前功尽弃
+  * **bring ... back to where ... start from** 使……前功尽弃
+  * 造句：一个根本性的错误使我们前功尽弃。
+    * → A fundamental error **brought** us **back to where** we **had started from**.
+  * **pick up where we left off** 从中断的地方继续(习语搭配)
+    * → After lunch shall we **pick up where we left off?**
+    * Chandler: Wait! I just want you to know that , I'm so happy you're going to be here. 
+    * Janice: Oh, me too
+    * Chandler: Because ... that way .. we can **pick up where we left off.**
+    * Janice: Huh?
+    * Chandler: I never stopped loving you.
+* → l argued **that <u>if l spent less time exhausting myself at exercises in the morning</u>, I would keep my mind fresh for reading <u>when l got home from work</u>.**
+  * argu v. 争辩说
+  * **fresh** adj.  精神饱满
+    * → (NCE3-44 P204-L28) However you decide to spend your time, one thing is certain: you will arrive at your destination **fresh** and uncrumpled.
+  * **keep one's mind fresh** 让某人保持精神饱满
+    * → A cup of coffee will **keep your mind fresh** in class.
+* → **Resisting the hypnotizing effect of television**, I sat in my room for a few evenings **<u>with my eyes glued to a book.</u>**
+  * resist v. 抵御, 抵制
+  * hypnotize v. 催眠
+  * **glue** vt. 粘住 & n. 胶水
+    * **be glued to sth.** 全神贯注于....
+      * → We **were glued to** the television watching the election results.
+  * 造句：抵制着去睡觉的诱惑，我坐在书房全神贯注地看《新概念英语》。
+    * → Resisting the temptation to go to bed, I sat in my study with my eyes glued to 'New Concept English'.
+* → One night, <u>however</u>, **feeling cold and lonely**, I went downstairs and sat in front of the television **<u>pretending to read.</u>**
+  * pretend v. 假装
+* → That proved to be my undoing, **for I soon got back to my old bad habit <u>of dozing off in front of the screen</u>.**
+  * **be one's undoing** 是某人失败的原因
+    * → Slack defense **was the team's undoing.** 松懈的防守是这个团队失败的原因
+    * **prove to be one's undoing** 被证明是某人失败的原因
+    * 造句：缺乏经验被证明是他失败的原因。
+      * → Lack of experience **proved to be his undoing.**
+    * **downfall** n. 1. 垮台
+      * → Greed led to his **downfall**.
+        * greed 贪婪
+      * → (NCE3-36 P166-L5) A long-lost brother, who was presumed dead, was really alive all the time and wickedly plotting to bring about the hero's **downfall**.
+      * **downfall** n. 2. 失败，垮台的原因
+        * **be one's downfall**
+        * → His vanity **was his downfall.**  他的虚荣是他垮台的原因
+          * vanity n. 虚荣
+      * **prove to be one's downfall** 证明是某人失败的原因
+        * → An addiction to gambling **proved to be her downfall** 赌博上瘾被证明是他失败的原因
+  * **<u>doze off</u> / <u>nod off</u>** 打瞌睡 (顶不住, 所以白天睡一会儿)
+    * **<u>take</u> / <u>have</u> a nap** 小憩一会儿 (主动的的白天睡一会儿)
+      * → I usually **take a nap** after lunch.
+* entitle 名字叫做
+* **get <u>round</u> / <u>around</u> to <u>sth.</u> / <u>doing</u>** 有时间做某事
+  * → ..., but I have never **<u>got round</u> / <u>gotten around</u> to** reading it.
 
 ## L51 Predicting the future
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L52 Mud is mud 
+
