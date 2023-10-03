@@ -2417,7 +2417,7 @@
       * → The little boy wets the bed **with monotonous regularity.**
         * wet the bed 尿床
   * **dull** adj. 无聊的, 无趣的
-    * → (CE3-31 P146-L3) This invariably wins them the love and respect of others, for they add colour to **the dull routine of everyday life.**
+    * → (NCE3-31 P146-L3) This invariably wins them the love and respect of others, for they add colour to **the dull routine of everyday life.**
   * **“mon(o)” = single**
     * **mono**logue v. 独白, 自言自语, 
     * **mono**gamy n. 一夫一妻制
@@ -4427,8 +4427,159 @@
   * **gleaming** windows
   * his **gleaming** white teeth 他的反射柔和的光的白色牙齿
 * **cabinet** n. piece of furniture with drawers or shelves for storing or displaying things 储藏柜，展示柜
+* **miraculous** adj. like a **miracle**; completely unexpected and very lucky 奇迹般的
+  * → A teenage boy had a **miraculous** escape from death last night when he fell into an ice-cold river.
+  * → They **miraculously** survived the plane crash.
 
+* **preside over….** 掌管...
+  * → He **presided over** the company for 10 years.
+  * → Some people believe the Fates **preside over** man's destiny.
+* **army** n. a large number of people who are doing the same thing or in the same situation
+  * **army of ...**
+    * → **Armies of** rescue workers are sorting through the rubble.
+    * → the **army of** the unemployed
+* **scrub** v. clean sth. thoroughly by rubbing hard, esp. with a brush and soap and water 彻底擦洗某物
+* → She always <u>referred to</u> them as 'the shifting population', **for they came and went with <u>such</u> frequency <u>that l never even got a chance to leamn their names.</u>**
+  * refer to A as B 把 A 称为 B
+    * call A B
+    * know A as B
+    * address A as B
+  * **shifting** adj. always changing or moving 不停变化或移动的
+  * frequency n. 频度
+    * .. so frequently that .. 如此频繁地...
+    * **... with such frequency that ..** 如此频繁地... (名词做中心词)
+    * 造句：电话铃如此频繁地响起以至于我甚至没机会睡觉。
+      * → The telephone rang **with such frequency that** I didn't even get a chance to sleep.
+    * 造句：他如此轻松地通过了考试以至于老师怀疑 (suspect sb. of doing ） 他作了弊。
+      * → He passed the exam **with such ease that** the teacher suspected him of cheating.
+    * 造句：他上楼如此之艰难以至于我们还以为 (be under the impression that ...）他腿受伤了。
+      * → He walked up the stairs **with such difficulty that** we were under the impression that he had injured his leg.
+  * **learn (<u>of</u> / <u>about</u>) sth.** to become aware of sth. by hearing about it from sb.else 获悉，得知
+    * → I **learnt of** her arrival from a close friend.
+    * → How did they react when they **learned** the news?
+* → **Though my aunt pursued <u>what was</u>, <u>in those days, an enlightened policy</u>, in that she never allowed her domestic staff to work more than eight hours a day**, she was extremely difficult to please.
+  * please v. 取悦
+  * **enlightened** adj. someone with enlightened attitudes has sensible, modern views and treats people fairly and kindly 开明的
+    * an **enlightened** <u>policy</u> / <u>attitude</u> ...
+    * **<u>domestic</u> / <u>medical</u> / <u>nursing</u> / <u>teaching</u> / <u>engineering</u> / <u>administrative</u> staff**
+* 形容词后的 to do 结构要用主动, 不能用被动, 比方说不能用 to be please
+* → **While she always criticized the fickleness of human nature**, she carried on an unrelenting search <u>for the ideal servant</u> to the end of her days, even **<u>after she had been sadhy disillusioned by Bessie.</u>**
+  * **fickle** adj. often changing 反复无常的，多变的 
+    * a **fickle** lover
+    * the **fickle** finger of fate (固定用语, 并且压头韵) 命运的反复无常, 命运多舛(无常的命运手指)
+    * **fickleness** n. 反复无常，多变
+      * the **fickleness** of businessmen and politicians 商人和政客的反复无常
+      * the **fickleness** of the English climate 英国气候的多变
+  * **carry on sth.** to continue doing, pursuing, or operating 持续做某事，一直做某事
+    * → We have **carried on** a correspondence for years.
+    * → He **carried on** his baking business until he retired.
+  * **unrelenting** adj. 非常坚决的，不屈不挠的
+  * **be disillusioned <u>with</u> / <u>by</u> ..** 对某人失望
+    * **be** <u>very</u> / <u>extremely</u> / <u>completely</u> / <u>utterly</u> / <u>increasingly</u> / <u>sadly</u> **disillusioned with/ by ..**
+    * → I **feel utterly disillusioned by** his refusal to take any action.
 
 **## text 3**
 
-* 
+* → During that time she <u>so</u> gained my aunt's confidence, **that she was put in charge of the domestic staff.**
+  * gain n. 收获, 增加 v. 获得
+  * **be in charge of ...**管理...
+    * **be <u>in the charge of ...</u> /  <u>in one's charge</u>** 由.....管理
+    * **take charge of ..** 接管....
+    * **put sb. in charge of ....** 交给某人管理
+      * → Peter is **in charge of** the company.
+      * → The company is <u>**in the charge of** Peter</u> **<u>/ in his charge.</u>**
+      * → Peter will be **taking charge of** the company next Monday.
+      * → They **put** Peter **in charge of** the company.
+      * → Peter **was put in charge of** the company.
+* '无法用语言描述'的表达
+  * **cannot find words to describe**
+    * → I **cannot find words to describe** the beauty of the West Lake.
+  * **be beyond words / description**
+    * → The beauty of the West Lake **is beyond <u>words</u> / <u>description</u>.**
+  * **defies description**
+    * → The beauty of the West Lake **defies description**. (**dety** v. 使.....不可能）
+  * **be  more than words can describe**
+    * → The beauty of the West Lake **is more than words can describe.**
+* **industrious** adj. 勤劳的
+  * the **industrious** ant
+  * **industrial** adj. 工业的
+    * the **industrial** revolution
+* **in addition to ....** 除了...之外还...
+  * 同义搭配
+    * **besides ...**
+    * **<u>apart from</u> ... / <u>aside from</u> ..**
+      * → (NCE3-34 P158-L17) **Apart from** an interesting-looking carved dagger, the box was full of crockery, much of it broken.
+* **expert** adj. showing special skill or Knowledge 熟练的，专家水平的
+  * an **expert** <u>gardener</u> / <u>driver</u>
+  * **be expert <u>in</u> / <u>at</u> ...**  某方面特别的专业
+    * → Bessie **was expert in / at** cooking.
+* **play / perform / act (the role / part of)…扮演......的角色**
+  * → He **<u>played</u> / <u>performed</u> / <u>acted</u> (the <u>role</u> / <u>part</u> of)** Othello.
+  * **play a ... <u>role</u> / <u>part</u> in ...** 在.…方面发挥..…的作用
+    * → (NCE3-56 P252-L1) The river which forms the eastern boundary of our farm has always **played an important part in** our lives.
+* → (NCE3-2 P18-L6) Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times **before** it stopped.
+  * 这里的 before 需要翻译成 '才'
+* **weakness** 1. 懦弱，软弱 [U]
+  * → So let us begin anew—remembering on both sides that civility is not **a sign of <u>weakness</u>**, and sincerity is always subject to proof. Let us never negotiate out of fear, but let us never fear to negotiate. --  John F. Kennedy
+  * 2.弱点,缺点 [C]
+    * → (NCE3-26 P126-L4) In their efforts to persuade us to buy this or that product, advertisers have made a close study of human nature and have classified all our little **weaknesses**.
+  * 反义：**strength** 优点，长处[C]
+  * **strengths and weaknesses** 优点和缺点
+  * → For we know that our patchwork heritage is **a strength**, not **a weakness**. We are a nation of Christians and Muslims, Jews and Hindus, and nonbelievers.
+* → **After being absent from The Gables for a week**, my aunt unexpectedly returned one afternoon **with a party of guests** <u>and</u> instructed Bessie to prepare dinner.
+  * **be absent from...** 不在....
+  * **party** n.一群;一队;一组
+  * → (NCE3-8 P42-L15) The only regular visitors to the monastery in winter aare **parties** of skiers who go there at Christmas and Easter.
+  * **<u>prepare</u> / <u>cook</u> / <u>fix</u> dinner**
+    * prepare 和 cook 表示精心准备饭菜
+    * fix 表示做一份便饭
+* → <u>Not only</u> **was** the meal well below the usual standard, <u>but</u> Bessie seemed unable to walk steadily.
+  * steadily adv. 稳定地
+  * **not only ... but ..**
+    * **not only ... but also ..**
+    * **not only ... but ... <u>as well</u> / <u>too</u>** 
+    * **not only ... ... <u>as well</u> / <u>too</u>** 
+    * **not only ...**
+      * → (NCE3-5 P30-L13) **Not only <u>had</u>** the poor man been arrested, **but** he had been sent to prison **as well.**
+  * **well** adv. a lot, or to a great degree 相当地,颇为, …得多 (加强语气)
+    * **well <u>before</u> / <u>after</u> / <u>over</u> / <u>above</u> / <u>below</u> / <u>worth</u> ...**
+    * → I don't know how old he is, but he looks **well over** forty.
+    * → Pete left the party **well before** you got there.
+    * → The castle is **well worth** a visit.
+  * **<u>above</u> / <u>below</u> (the) standard** 高于/低于 标准
+    * → Your work is **<u>above</u> / <u>below</u> (the) standard**
+* **<u>bump</u> / <u>run</u> into** 1. 撞到....上
+  * → The car **<u>bumped</u> / <u>ran</u> into** a big pine.
+  * **<u>bump</u> / <u>run</u> into** 2. 偶遇
+    * → I happened to **<u>bump</u> / <u>run</u> into** a friend of mine in the street.
+* **mumble** v. to say something too quietly or not clearly enough, so that people cannot hear what is said 小声咕哝，喃喃自语
+  * → (NCE3-29 P138-421) He was still **mumbling** something <u>about</u> hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.
+* → **When she came in with the last course — <u>a huge pudding</u> -** she tripped on the carpet <u>and</u> the pudding went flying through the air, narrowly missed my aunt, <u>and</u> crashed on the dining table <u>with considerable force.</u>
+  * **pudding** 布丁
+  * **<u>trip</u> / <u>stumble</u> <u>over</u> / <u>on</u> sth.** 在..上绊倒
+    * → He **<u>tripped</u> / <u>stumbled</u> <u>over</u> / <u>on</u>** a rock.
+  * flying 飞一般的
+    * → (NCE3-6 P34-L12) Chairs and tables **went flying** into the arcade.
+  * 勉强躲过 narrowly missing
+    * → (NCE3-10 P50-L11) The Titanic turned just in time, **narrowly missing** the immense walk of ice which rose over 100 feet out of the water beside her.
+* **mirth** n. [U] (fml.) happiness and laughter 欢笑
+  * → Her body began to **shake with mirth.**
+  * → That **caused considerable mirth among** pupils.
+* **<u>draw</u> / <u>come to</u> / <u>arrive at</u> / <u>reach</u> a conclusion** 得出结论
+  * **bring... to a conclusion** 使...结束
+  * → (NCE3-36 P166-L1) In the nineteenth century, a novelist would **bring** his story **to a conclusion** by presenting his readers with a series of coincidences — most of them wildly improbable.
+* → The guests had, of course, realized this **from <u>the moment Bessie opened the door for them</u>** <u>and</u>, **long before the tinal catastrophe**, had had a difficult time <u>trying to conceal their amusement.</u>
+  * catastrophe n. 特大灾难
+  * **have a <u>difficult</u> / <u>hard</u> time doing** 做某事很困难
+
+* → <u>After her departure</u>, aunt Harriet discovered **that there were piles of empty wine bottles <u>of all shapes and sizes</u> neatly stacked in <u>what had once been Bessie's wardrobe</u>.**
+  * departure n. 离开
+  * wardrobe 衣橱
+  * **... of all shapes and sizes** 各种形状和尺寸
+    * → (NCE3-26 P126-L14) Before long, biscuits **of all shapes and sizes** began arriving at the factory.
+    * **... of all kinds** 各种各样的
+      * → (NCE3-47 P216-L21) .., vehicles **of all kinds**, especially large container trucks thundering through quiet villages, ...
+* **find one's way** 到达....
+  * 人做主语表示找到路
+  * 物做主语表示到达
+  * → (NCE3-15P70-L8) Very few of the fifty pence pieces and pound coins Ihave given him have **found their way** there.
