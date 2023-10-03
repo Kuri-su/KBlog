@@ -2,7 +2,7 @@
 
 [TOC]
 
-## L50 New Year resolutions
+## L50 New Year resolutions ⭐️
 
 **## words**
 
@@ -383,7 +383,86 @@
 
 **## words**
 
-* 
+* **notoriously** /noʊˈtɔːriəsli/ adv 臭名昭著地， (坏事）众所周知地
+  * **notorious** = **infamous** adj. famous or well-known for something bad 臭名昭著的,(坏事) 众所周知的
+  * a **notorious** <u>criminal</u> / <u>area</u> / <u>bend in the road</u> 一个臭名昭著的罪犯, 一个声名狼藉的区域, 一个臭名昭著的弯道
+  * **be notorious for ...** 因为...而臭名昭著
+    * → The city **is notorious for** its bumper-to-bumper traffic. 这个城市因为交通拥堵而臭名昭著
+  * → (NCE3-51 P232-L1) Predicting the future is **notoriously** difficult. 
+  * → The local bus service is **notoriously** unreliable.
+    * **unreliable** adj. 不可靠的, 不可信任的, 不稳定的
+  * **notariety** n. 臭名, 恶名
+    * **<u>gain</u> / <u>achieve</u> notoriety <u>for</u> / <u>as</u> ...** 因为某事而获得了恶名
+      * gain n./v. 收获, 增加, 赚到, 赢得
+      * → She **achieved notoriety for** her affair with the senator.
+        * senator n. 参议员
+        * affair n. 事情, 事务, 私事, (尤其指关系不长久的风流韵事)
+      * → He **gained a certain notoriety as** a gambler.
+  * '著名的' 同义词 adj.
+    * **well-known** 
+    * **famous** 
+    * **noted** 
+    * **notable** 
+    * **eminent** 
+    * **celebrated** 
+    * **renowned**
+  * 不知名的 adj.
+    * **unknown** 
+    * **little-known** 
+    * **obscure** 不起眼的, 默默无闻的
+* **technician** /tekˈnɪʃn/ n. 技术员，技师
+  * **technician** n. someone whose job is to check equipment or machines and make sure that they are working properly 技术员，技师
+  * a laboratory **technician** 一个图书馆技术员
+  * a hospital **technician** 一个医院的技术员
+  * **“-ian”** = specialist 这个字根表示专门人员, 专家
+    * librar**ian** 图书馆管理员
+    * histor**ian** 历史学专家
+    * music**ian** 音乐方面的专家
+    * electric**ian** 电工
+    * mathematic**ian** 数学方面的专家
+    * physic**ian** 内科医生
+    * pediatric**ian** 儿科医生
+      * pedia 儿童
+* **user-friendly** adj.易用的，易理解的，易操作的
+  * **user-friendly** adj. easy to use, understand, or operate 易用的，易理解的，易操作的
+  * a **user-friendly** <u>interface</u> / <u>printer</u>
+  * → Computer programs have become more **user-friendly.**
+  * **-friendly** 1. suitable for particular people to use 易用的
+    * a **user-friendly** computer program
+    * a **family-friendly** restaurant
+    * a **customer-friendly** shopping mall
+  * **-friendly** 2.not harmful 无害的
+    * **environment-friendly** products 环保产品
+    * **ozone-friendly** fridges 臭氧层无害的冰箱
+      * fridges 冰箱
+* **alternative** /ɔːlˈtɜːrnətɪv/ adj. 另外的，其他的，别的
+  * **alternative** adj（只作定语(放在名词前修饰)）different from something else and able to be used instead of it 另外的，其他的，别的
+  * an **alternative** <u>plan</u> / <u>route</u> / <u>way</u>
+    * route n. 路, 路线
+  * → Have you any **alternative** suggestions?
+  * **alternative** n. 其他的选择
+    * → Is there a **viable alternative** <u>to</u> the present system?
+      * viable 可行的, 行得通的
+    * → I **had no alternative but to** report him to the police.
+      * **had no alternative but to ...** 别无选择
+  * **alternate** adj. 1. （常作定语）(f two things) happening or following one after the other 交替的，轮流的
+    * **alternate** blue and red stripes 蓝色和红色交替的条纹
+    * → Private cars are banned from the city on **alternate** days.
+  * **alternate** adj. 2. = alternative（只作定语）其他的，另外的，别的
+    * → We can't get home tonight, because there are no **alternate** flights.
+* **relieve** /rɪˈliːv/ v. 减轻，缓解或解除 （痛苦，问题等）
+  * → Drugs helped to **relieve** the pain.
+  * → Reading helped to **relieve** the boredom while he was ill.
+    * boredom n. 厌倦
+  * **relieve sb. of.sth.** to help sb. by taking sth. heavy or difficult from them 替某人做某事，使某人免于....
+    * → The new secretary will **relieve** us **of** some of the paperwork.
+    * → (NCE3-51 P232-L22) ..., when they (computers) would **relieve** office workers and accountants **of** dull, repetitive clerical work.
+  * **relief** n. 宽慰，痛苦的缓解或解脱
+    * find a temporary **relief**
+    * permanent **relief**
+    * to my great **relief**
+    * give immediate **relief** from pain 立即缓解了疼痛
+    * → (NCE3-39 P178-L13) What a **relief** it was wheni the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps of bushes.
 
 **## text 1**
 
