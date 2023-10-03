@@ -186,11 +186,138 @@
     * 造句：考古学家试图要确认被修复的女神像的身份，但没有成功。
       * → The archaeologists **failed in their <u>efforts</u> / <u>attempts</u> to** discover the identity of the reconstructed statue.
       * → The archaeologists **failed in their <u>efforts</u> / <u>attempts</u> at** the identification of the reconstructed statue.
-* 
+  * **scheme** n. 1. 计划，方案;2.阴谋诡计
+    * **schemes and intrigues** 阴谋诡计
+  * 没时间做某事
+    * **<u>never</u> / <u>not</u> get <u>round</u>(英) / <u>around</u>(美) to <u>sth.</u> / <u>doing</u>**
+      * → (NCE3-46 P212-L18) It had broken down the previous summer, and though I promised to repair it, l had **never got round to** it.
+  * **carry sth.= out ** 执行，实施
+    * → We **carried out** her instructions precisely. 
+      * instruction n. 命令, 指示
+      * precisely adv. 精确地
+* → We also make the fundamental error <u>of announcing our resolutions to everybody</u> **so that we look even more foolish <u>when we slip back into our bad old ways</u>.**
+  * **fundamental** adj. 根本性的
+    * **fundamental** <u>error</u> / <u>mistake</u> 根本性的错误
+    * **fundamental** <u>change</u> / <u>difference</u> 根本性的改变, 根本性的区别
+    * **make the fundamental error of doing sth.** 犯了做某事时的根本性的错误
+    * 造句：他犯了轻政这个根本性的错误。
+      * → He **made the fundamental error of** despising his enemy.
+  * **so(that)作连词时一般来说有两种用法：**
+    * **1.引号结果状语从句**，译为“所以” 从句谓语动词中一般没有情态动词。
+    * **2.引号目的状语从句**，译为 “以便”= in order that …，从句谓语动词中多出现情态动词 can, could, may, might, should, would 等。
+      * → (NCE3-43 P200-L10) It had been purchased by a local authority **so that** an enormous pie **<u>could</u>** be baked for an annual fair.
+      * → (NCE3-57 P256-L7) In the new country he became absorbed in making a new life for the two of us, **so that** he gradually ceased to grieve.
+  * slip v. 滑
+    * → (NCE3-29 P138-L10) He was still mumbling something about hospitals at the end of the party when he **slipped** on a piece of ice and broke his left leg.
+    * **slip into ...** to gradually start to be in a bad state or situation 渐渐陷入某种不良状态
+      * **slip into** <u>debt</u> / <u>unconsciousness</u> .. 慢慢陷入了债务之中/慢慢陷入了昏迷的状态
+        * → He had begun to **slip into** debt.
+        * → She **slipped into** unconsciousness aand died the next day. 她陷入了昏迷, 并在次日过世
+* **aware of sth.** 知道, 了解, 意识到
+* **pitfall** n. a likely mistake or problem in a situation 易犯的错误，易出现的问题, 陷阱
+  * the potential **pitfalls** of buying a house
+    * potential adj. 潜在的, n. 潜力
+* **keep sth. to oneself** 保密
+  * = **keep sth. secret**
+  * → I **keep** my love for Helen **to myself.** 我把我对海伦的爱保密在我自己这里 (我没有跟任何人说我对海伦的爱)
+* **limit oneself to sth.** 给某人限定.…
+  * → I **limit myself to** 2 glasses of beer a day. 
+  * → She **limits herself to** 1,000 calories a day to lose weight.
+* **modest** adj. 适度的(指物) 谦虚的(指人) 
+* **ambition** n. 野心,雄心 v. 追求
+* **do (physical) exercises** 锻炼身体
+  * physical adj. 身体的; 物质的
+  * exercises n. 练习, v. 练习, 运动
+* **<u>of an evening</u> / <u>of a weekend</u>**(英式用法) = <u>in the evenings</u> / <u>at weekends</u> 在晚上,在周末
+* → An all-night party on New Year's Eve <u>provided</u> me <u>with</u> a good excuse **for not carrying out either of these new resolutions <u>on the first day of the year</u>**, <u>but</u> <u>on the second</u>, I applied myself assiduously to the task.
+  * Eve 重要日期的前一天; 重要日期的前一夜
+    * **on ... Eve**
+  * **provide sb. with sth.** 给某人提供某物
+  * excuse n. 借口
+    * **an excuse for (doing) sth.** 一个做某事的借口
+  * **sth. provide sb. with a good excuse for (doing) sth.** 某物提供给某人一个好借口
+    * 造句：突然得病使他有借口没有参加会议。
+      * → A sudden illness **provided** him **with a good excuse for** not attending the meeting.
+      * 突然得病 a sudden illness
+    * 造句：漫长辛苦的旅程使我有借口很早去睡觉。
+      * → A long and arduous journey **provided** me **with a good excuse for** going to bed early.
+    * 以某事为借口
+      * **plead** <u>ignorance</u> / <u>illness</u> / <u>a headache</u> / <u>tiredness</u> / <u>insanity</u> 
+  * **either of …** 两个中任何一个...
+    * **each of....** 三个以上中任何一个…
+    * **neither of ...** 两个都不....
+    * **none of ...** 三个以上都不...
+    * **both of …** 两个都....
+    * **all of ...** 三个以上都....
+  * **apply oneself to sth.** = work hard at sth. 认真勤奋的做某事
+    * 造句：近来我一直在努力地学习英语。
+      * → Recently I have been **applying myself** assiduously **to** studying English.
 
 **## text 3**
 
-* 
+* → The daily exercises lasted only eleven minutes <u>and</u> I proposed to do them **early in the morning <u>before anyone had got up</u>.**
+  * propose v. (fml.) 求婚; 建议; 打算
+    * **propose** v. (fml.) to intend to do something 打算
+      * **propose to do sth.**
+        * → How do you **propose** <u>to deal</u> with the situation?
+      * **propose doing sth.**
+        * → How do you **propose** <u>getting</u> home?
+* → The self-discipline **required to drag myself out of bed <u>eleven minutes earlier than usual</u>** was considerable.
+  * self-discipline n. 自制力
+  * drag v. 拽
+  * considerable adj. 可观的
+  * 造句：连续数年 (for years on end)每天早晨锻炼身体需要很强的自制力。
+    * → The self-discipline **required to do physical exercises <u>every moring for years on end</u>** is considerable.
+* nevertheless conj. 尽管如此, 然而
+  * 同义搭配
+    * **<u>nevertheless</u> / <u>nonetheless</u> / <u>still</u> / <u>all the same</u> / <u>just the same</u>** 尽管如此，还是....
+      * → (NCE3-2 P18-L13)"You certainly did give me a surprise! said the vicar. "You've probably woken up everyone in the village as well. **Still**, I'm glad the bell is working again.'
+* **creep** v. 蹑手蹑脚地走; 趴着走
+  * → (NCE3-56 P252-L18) One bad winter we watched the river **creep** up the lower meadows.
+* → **After <u>jumping about on the carpet</u> and <u>twisting the human frame into uncomfortable positions</u>**, I sat down at the breakfast table <u>in an exhausted condition</u>.
+  * **<u>about</u> / <u>around</u>** adv. 各处，到处
+    * → (NCE3-8 P42-112) As there are so many people **about**, the dogs have to be kept in a special enclosure.
+  * **twist** v. 转动，扭曲，缠绕
+    * **twist...into….** 把...扭曲, 缠绕成…
+      * → We **twisted** the bed sheets **into** a rope and escaped by climbing down it.
+        * bed sheet 床单
+          * sheet n. 被单
+  * carpet n. 地毯
+  * human frame 人的躯干
+    * **frame** n. 框架
+    * **frame** n. human or animal body （人或动物的）身体 (a.k.a. 人框)
+      * Sobs shook her slender frame. 她抽泣着，苗条的身体都在颤动.
+        * sob v. 抽泣
+        * slender 苗条的
+        * shook shake 的过去式
+  * position n. 姿势, 位置, 
+  * exhausted condition 精疲力尽的状态
+    * → (NCE3-44 P204-19) Inevitably you arrive at your destination **almost exhausted.**
+      * exhausted adj. 精疲力尽的
+* → <u>It was</u> this <u>that</u> betrayed me.
+  * betray v. 暴露, 显露
+* **troop** v. to walk somewhere together as a group 成群结队而行
+* **unsettling** adj. = disturbing 令人不安的
+  * **unsettle** v. = disturb 令人不安
+* **fend sb. / sth. $\Leftrightarrow$ off** 挡开,躲避开, 抵御住
+* 嘲笑
+  * **taunt** n. 嘲笑
+  * **jibe** /**gibe** n. 嘲笑
+  * 两个同义词连用来加强语气
+    * taunts and jibes
+    * aches and pains
+    * schemes and intrigues
+    * hustle and bustle
+* wane v. 逐渐变小, 变弱
+  * **wax and wane** 月亮的圆缺(月满和月亏)
+    * → Dynasties **waxed and waned** throughout the history.
+      * dynasties n. 朝代
+  * **ebb(away)** 退潮
+    * flow 涨潮
+    * **ebb and flow** 潮水的涨落 (ebb 短一些所以放前面)
+    * ebb away 退去
+  * subside v. 退去, 逐渐变小
+  * → However, my enthusiasm **<u>ebbed (away)</u> / <u>subsided</u>.**
 
 **## text 4**
 
