@@ -466,7 +466,13 @@
 
 **## text 1**
 
-* 
+* → Predicting the future is notoriously difficult. 预测未来是众所周知的困难
+  * predict v. 预测
+  * 造句：众所周知，缓解(relieve)人口过剩问题非常困难。
+    * → Relieving the problem of overpopulation is notoriously difficult.
+  * 造句：众所周知，改掉 (give up)一个根深蒂固的 (deep-seated)坏习惯非常困难。
+    * → Giving up a deep-seated bad habit is notoriously difficult.
+    * 
 
 **## text 2**
 
