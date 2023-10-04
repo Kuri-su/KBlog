@@ -644,7 +644,64 @@
     * primary classroom 小学课堂
       * primary adj. 主要的; 初级的, 基本的
 * → Of course, Leon Bagrit could not possibly have foreseen the development of the Internet, the worldwide system **that enables us to communicate instantly with anyone in any part of the world <u>by using computers linked to telephone networks</u>.**
-  * 
+  * **<u>can't</u> / <u>couldn't</u> possibly ...** used to emphasize that you cannot do sth., or that sth. cannot or could not happen or be done （强调）不能或不可能.
+    * → I **can't possibly** allow you to go home in this weather.
+    * → She **couldn't possibly** have heard what was said.
+    * **possibly 经常与 can / cauld 连用以表示“尽全力〞的意思，后跟动词时常用 can / could possibly＋ 动词，后省略动词时常用 possibly can / could.**
+      * → (NCE3-39 P178-L7)No matter what the conditions were, he believed that a car should <u>be driven</u> as fast as it **could possibly** <u>go</u>.
+      * → She's <u>done</u> everything she **could possibly** <u>think of</u> to help.
+      * → We shall be <u>contributing</u> as much as we **possibly can** to the campaign. (这里省略了 contributing)
+      * → Doctors <u>did</u> everything they **possibly could** to save his life.
+  * **instant** communication 即时交流沟通
+    * **IM (instant messaging)**: a type of service available on the Internet that allows you to quickly exchange written messages with people that you know 即时通讯
+* → **Nor** <u>could</u> he have foreseen <u>how we could use the lnternet to obtain information on every known subject</u>, **so we <u>can</u> read it on a screen in our homes <u>and</u> even print it as well <u>if we want to</u>.**
+  * → (NCE3-41 P192-L26) **Nor** <u>is</u> the city without its moments of beauty.
+* small**er** and small**er** 
+  * cheap**er** and cheap**er**
+  * 如果是前面加 more 或者 most 的情况, 有以下三种方法
+    * <u>**more and more**</u> powerful (多音节的形容词一般前面加 more)
+    * **<u>increasingly</u>** powerful
+      * increasingly adv. 日益, 越来越多地
+    * **<u>ever more</u>** powerful
+      * ever more 越来越....
+* → This is **what makes Leon Bagrit' s predictions particularly remarkable.**
+  * prediction n. 预言
+  * particularly adv. 尤其, 特别 = especially
+  * remarkable adj. 异常的, 引人注目的
+* → **If he, or someone like him, <u>were</u> alive today**, he <u>might</u> be able to tell us **what to expect in the next 50 years.**
+  * **"疑问词＋ to do〞可以视为名词性从句的缩路形式**
+    * **1、相当于宾语从句**
+      * → (NCE3-38 P174-L2) They will hardly know **which facts to select from ...**
+        * = →  They will hardly know **which facts <u>they should</u> select from ..**
+      * → ... ,he might be able to tell us **what to expect in the next 50 years.**
+        * = → …, he might be able to tell us **what we should expect in the next 50 years.**
+    * **2、相当于主语从句**
+      * → **Who to turn to** is what she wants to know.
+        * = → **Who she should turn to** is what she wants to know.
+    * **3、相当于表语从句**
+      * → The problem she faces is **which way to take.**
+        * = → The problem she faces is **which way she should take.**
+    * **4、 相当于同位语从句**
+      * → The problem **which course to take** worried Lucy for hours.
+        * = → The problem **which course she should take** worried Lucy for hours.
 
 ## L52 Mud is mud 
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+## L53 In the public interest
 
