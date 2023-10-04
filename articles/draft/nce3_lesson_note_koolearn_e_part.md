@@ -689,11 +689,132 @@
 
 **## words**
 
-* 
+* **tint** /tɪnt/ v. 染色, 微染
+  * **tint** v. to slightly change the colour of something 染色，**微染**
+  * → She's had her evelashes **tinted**.
+  * → (NCE3-52 P236-L2) Despite the fact that the bottle **is tinted** a delicate shade of green, ...
+  * **dye** v. colour sth., esp by dipping in a liquid 染色，**浸染**
+    * **dye** one's hair
+    * **dye** a white dress blue
+    * → (NCE3-16 P74-L15) lts wool, which had **been dyed** black, had been washed clean by the rain!
+  * **stain** v. colour (<u>wood</u>, <u>fabric</u>, etc) with a substance that penetrates the material 染色, 渍染, 着色 
+    * → He **stained** the wood dark brown.
+    * → We've decided to **stain** the shelves blue.
+  * **color** v. put color on (sth.), e.g. by painting, dyeing or staining 着色
+    * **color** a picture
+    * **color** a wall green
+* **dispel** v. 驱散, 打消
+  * **dispel** v. to make sth. go away, esp. a <u>bellet</u>, <u>idea</u>,or <u>feeling</u> 驱散，打消
+    * **dispel** <u>doubts</u> / <u>fears</u> / <u>worries</u> / <u>rumors</u> / <u>hesitations</u> / <u>preiudice</u> ... 打消了怀疑/ 恐惧/忧虑/流言蜚语/犹豫和踌躇/ 偏见
+    * → (NCE3-52 P236-L8) This brief experiment would **dispel** <u>any further doubts</u> you might have.
+    * → (NCE3-54 P244-L7) Reading about them increases our understanding without **dispelling** <u>our fears</u>.
+  * **"per" = push**
+    * dis**pel** v. 驱散, 打消
+    * pro**pel** vt. 推进, 驱使 
+      * pro 字头表示向前
+    * re**pel** v. 排斥, 令某人讨厌
+      * **re** 字头有多个含义, 其中一个表示 back 
+    * ex**pel** v. 开除
+      * ex 表示外面
+    * com**pel** 迫使 (强调外力的压力或者动力)
+    * im**pel** 迫使 (强调内在的压力或者动力)
+      * **<u>be</u> / <u>feel</u> compelled to do** 迫使去做某事 (外压)
+      * **<u>be</u> / <u>feel</u> impelled to do** 迫使去做某事 (内压)
+* **outlandish** /aʊtˈlændɪʃ/ adj.稀奇古怪的，非常怪异的
+  * **outlandish** = **bizarre** adj. extremely strange and unusual 稀奇古怪的， 非常怪异的
+    * extremely adv. 极其, 非常
+  * an **outlandish** hairstyle
+  * dancers in rather **bizarre** costumes 舞者穿着相当怪异的道具服
+  * 表示奇怪的 近义词
+    * **strange** 
+    * **unusual** 
+    * **odd** 
+      * → (NCE3-37 P170-L11) At the time, this did not strike me as **odd**.
+    * **peculiar**
+      * → (NCE3-18 P82-L17) These **peculiar** forms not only seemed designed to shock people emotionally, but to give them electric shocks as well!
+    * **weird** 表示让人有些害怕的奇怪, 有些发怵的奇怪
+      * → A really **weird** thing happened last night.
+    * **eccentric** 强调人的行为举止古怪的
+      * → His **eccentric** behaviour lost him his job.
+      * → (NCE3-31 P146-L1) True **eccentrics** never deliberately set out to draw attention to themselves.
+* **outrageous** /aʊt'redʒəs/ adj. 令人震惊的，极其不合理的; 非常奇怪的
+  * **outrageous** adj. 1. very shocking or unreasonable 令人震惊的，极其不合理的
+    * → (NCE3-28 P134-L17) Gesticulating wildly, the man acted as if he found my offer **outrageous**, but he eventually reduced the price to £10.
+  * **outrageous** adj. 2. extremely unusual and slightly amusing or shocking 非常奇怪的
+    * → (NCE3-52 P236-L12) Harry used to consider it a great joke to go into expensive cosmetic shops and make **outrageous** requests for goods that do not exist.
+* **freckle** /'frɛkl/ n. 雀斑
+  * **freckle** n. [C] one of the small light-brown spots on the human skin 雀斑 
+  * → Ann's face and back are covered with **freckles**.
+  * **mole** n. small permanent dark spot on the human skin 痣
+  * **<u>beauty spot</u>** / **<u>beauty mark</u>** n. a small dark mark on a woman's face - used when you think it is attractive 美人痣
+    * attractive adj. 吸引的
+  * **acne** n. 痤疮，粉刺 [U]
+    * → Many adolescents suffer from **acne**.
+      * adolescents n. 青春期的孩子 adj. 青春期的
+  * **dimple** n. 酒窝
+  * **chin dimple** n.下巴窝
+    * chin n. 下巴
+* **intoxicate** /ɪnˈtɑːksɪkeɪt/ v. 使醉酒；使陶醉
+  * **intoxicated** adj. 1. (fml.) drunk 醉酒的
+    * → The driver was clearly **intoxicated**.
+  * **intoxicated** adj. 2. feeling so excited or happy about something that you cannot think clearly 陶醉的
+    * **be intoxicated <u>by</u> / <u>with</u> ..** 陶醉于...之中
+      * → He **was intoxicated <u>by</u> / <u>with</u>** success.
+      * → (NCE3-52 P236-L25) **Intoxicated by** his success, Harry then asked for perfumed mud.
+  * **toxic** adj. 有毒的
+  * **noxious** adj. 有毒的
+  * **poisonous** adj. 有毒的
+    * **toxic** <u>chemicals</u> / <u>substances</u> / <u>gases</u> 有毒的化学品/物质/气体
+    * → Carbon monoxide is a colorless, odorless and **noxious** gas. 一氧化碳是 无色无味的有毒气体
+      * odor n. 气味
 
 **## text 1**
 
-* 
+* **mud is mud** (习语搭配) 实事求是
+  * **call a spade a spade**  (习语搭配) 实事求是 (把黑桃叫做黑桃)
+    * spade 铁锹, 黑桃
+    * heart 红桃
+    * club 梅花
+    * diamond 方片
+  * **tell it like it is** (习语搭配) 实事求是
+  * **tell somebody straight** (习语搭配) 实事求是
+    * → I **told her straight** that she was wrong.
+  * **to be <u>honest</u> / <u>frank</u>** 坦白的说, 实话实说(尤其是对方可能不太爱听的)
+  * **frankly** 坦白的说, 实话实说(尤其是对方可能不太爱听的)
+    * → **To be <u>honest</u> / <u>frank</u>**, George isn't very good at the job.
+    * → **Frankly**, George isn't very good at the job.
+* **keep** v. have sth. in a particular place 在某处存放或放置某物
+  * particular adj. 特别的
+  * → Always **keep** your driving licence in a safe place.
+  * → George **kept** a bottle of whiskey under his bed.
+* curiously-shaped 奇怪形状的
+  * → (NCE3-18 P82-L10) **oddly shaped** forms
+  * → (NCE3-46 P212-L28) **curiausly shaped** bits of metal
+  * → She has a **perfectly shaped** figure.
+  * heart-shaped 心形的
+  * pear-shaped 梨形的
+  * V-shaped V 形的
+* **on display** =**on show** 展示，陈列
+  * → (NCE3-18 P82-12) Even people who take no interest in art cannot have failed to notice examples of modern sculpture **on display** in public places.
+  * on permanent display 长期的陈列
+  * → Her work is **on <u>temporary</u> display** at the gallery.
+    * gallery n. 艺术馆, 画廊
+  * → The locomotive is kept **on <u>static</u> display** in the National Railway Museum.
+    * locomotive 火车头
+* 造句：乔治在书房里一直陈列着一枚金牌。
+  * → George keeps a gold medal on permanent display in his study.
+* → **Despite the fact <u>that the bottle is tinted a delicate shade of green</u>,** an observant visitor would soon notice **that it is filled with <u>what looks like a thick greyish substance</u>.**
+  * **despite the fact that ... (fml.)** 尽管如此
+    * **in spite of the fact that ....(fml.)** 尽管如此
+    * **<u>=though</u> / <u>although</u> / <u>even thoug</u>h / <u>while</u> ...**
+    * 介词 ＋名词＋同位语从句 =普通从属连词 (一般在书面语里面用)
+      * **for the reason that ... (fml.)** 
+      * **because of the fact that ... (fml.)** 
+      * **due to the fact that .. . (fml.)**
+      * **on account of the fact that ... (fml.)** 
+      * **= because ...**
+  * **<u>delicate</u>/<u>light</u>** adj. 颜色淡的, 浅色的
+    * 
 
 **## text 2**
 
