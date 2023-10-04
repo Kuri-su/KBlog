@@ -472,15 +472,179 @@
     * → Relieving the problem of overpopulation is notoriously difficult.
   * 造句：众所周知，改掉 (give up)一个根深蒂固的 (deep-seated)坏习惯非常困难。
     * → Giving up a deep-seated bad habit is notoriously difficult.
-    * 
+  * 造句：众所周知，北京的交通拥堵问题非常严重。
+    * → The traffic congestion in Beijing is notoriously serious.
+* → Who could have imagined, <u>in the mid 1970s</u>, <u>for example</u>, **that <u>by the end of the 20th century</u>, computers would be as common in people's homes as TV sets?**
+  * **could have done**: used to say that something was a possibility in the past, but did not actually happen (虚拟语气, 可以省略 if) 表示与过去事实相反, 表示本可以, 差点就..
+    * → I **could have been killed.**
+    * → He **could have escaped**, but he chose to stand and fight.
+  * mid 在某段时间的中间
+    * from **mid** July to **mid** August
+    * **mid-morning** coffee
+    * **Mid-Autumn** Festival 中秋
+    * a young woman in her **mid-twenties** 
+    * **midsummer** / **midwinter** 仲夏/仲冬 (孟表示开始, 仲表示中间, 季表示结束)
+      * → (NCE3-56 P252-L12) on Midsummer Eve 仲夏夜
+    * 早期, 中期, 晚期
+      * in the **early** 1970s 
+      * in the **mid** 1970s 
+      * in the **late** 1970s 
+  * 造句：比方说, 有谁能在20世纪90年代中期想象到, 仅仅十年 (a mere decade) 之后, 手机在中国和手表一样常见？
+    * → Who could have imagined, in the mid 1990s, for example, that after a mere decade, mobile phones would be as common in China as watches?
+* business 可以表示公司, 可数
+  * → They don't know how to **run <u>a</u> business**.
+  * **big business** n. [U] large and powerful companies in general 大公司(不可数)
+    * → The party receives most of its financial support from **big business.**
+* **so-called** adj. 1. commonly called 所谓的 (通常被称为的)
+  * → They ve found the flight recorder, the **so-called** black box.
+  * **so-called** adj. 2. incorrectly called 所谓的 (错误地被称为的)
+    * → His **so-called** friends betrayed him.
+* **mainframe** n. a large powerful computer that can work very fast and that a lot of people can use at the same time 主机, 大型机
+* → Mainframe computers were very large indeed, **often <u>occupying whole air-conditioned rooms</u>, <u>employing fulltime technicians</u> and <u>run on specially-written software</u>.**
+  * indeed adv. 确实, 的确 (加强语气)
+    * **indeed** adv. used with 'very and an adjective or adverb to emphasize a statement or description 的确，确实
+      * → Most of the essays were rery good **indeed**.
+      * → Thank you <u>very much</u> **indeed**.
+  * occupy vt. 占据, 占领
+  * **air-conditioned** adj. 装有空调的
+    * **air conditioner** n. 空调
+  * **run** v. if a machine or engine runs or you run it, it is working (使)(机器等)工作，运转
+    * → I often **run** the washing machine more than once a day.
+    * → Most cars **run on** unleaded fuel.
+      * fuel n. 燃料
+      * unleaded 无铅的汽油或燃料
+* → **Though these large machines still exist**, many of their functions have been taken over by small powerfu personal computers, **<u>commonly known as PCs.</u>**
+  * **take over sth.** 接管. …… , 代替…..
+  * → Military leaders **took over** the government. 军队首领们已经接管了政府
+  * **be known as ..** 被称为是.....
+    * → (NCE3-14 P66-L10) He soon made a name'for himself and came to **be known** to the ltalians **as** Giovanni Acuto.
+    * **be commonly known as ...**通常被称为…
+      * commonly = usually 的升级版本 
+      * → The disease **is commonly known as** Mad Cow Disease.
+        * disease n. 病
 
 **## text 2**
 
-* 
+* **primitive** adj. 1. of or at an early stage of social development 原始的，上古的
+  * **primitive** <u>culture</u> / <u>tribes</u> 原始文化/原始部落
+  * **primitive** 2. adj. simple and not modern 简单的，简陋的
+    * → The local hospital care is **primitive** and unreliable.
+      * unreliable adj. 不可靠的
+* **launch** v. to make a new product, book etc available for sale for the first time 推出新产品，新书等
+  * → The new model will **be launched** in July. 新的型号将在 July 推出
+  * → He is going to **launch** his latest novel.
+* **launch** v. 船下水, 火箭发射
+  * → (NCE3-43 P200-L12) Shortly after it **was launched**, the pie committee went to a local inn to celebrate.
+* **properly** adv. 适当地, 正确地, 恰当地
+* **describe ... as ...** 把前者描述称为后者
+  * → (NCE3-17 P154-L16) He **described** it **as** 'a very agreeable situation located within two small hills in the midst of which flowed a great river.
+* **point the way (to ...)** v. to show how something could change or develop successfully 指明了(.…的)方向
+  * → Recent medical discoveries are already **pointing the way to** more efficient vaccines.
+* **giant** n. a very large and powerful organization 特大机构, 大公司, 巨头
+  * the multinational oil **giants** 
+  * Japanese electronics **giant** Sony
+* **DOS** (Disk Operating System): the basic software in a computer that makes it work and allows you to use a program. lt is usually used only in older computers. 磁盘操作系统
+* then adv. 当时, 那时
+* **windely** adv. 广泛地
+* **copy = imitate** v. to behave or do sth. in the same way as sb. else 模仿
+  * → She **copies** everything her sister does.
+  * → Their tactics have **been copied** by other terrorists.
+* → <u>From those humble beginnings</u>, we have seen the development of the user-friendly home computers and multimedia machines **which are in common use today**.
+  * **humble** adj. 1. 谦卑的, 谦逊的
+    * → He was a genuinely **humble** man.  他是一个真的谦虚的人
+      * genuinely adj. 真的, 货真价实的 = truely
+    * **humble** adj.2. 地位卑微的
+      * men of humble **birth**
+      * a **humble** occupation 一个卑微的职业
+    * **humble** adj. 3. simple and with only basic equipment or features 简单的， 简陋的
+      * → They lived in a **humble** two-roomed apartment.
+  * be in common use today 今天司空见惯的
+  * **be in use**: a machine, place etc. that iis in use is being used（机器，场所等）在使用，得到使用
+    * → Electric vehicles built in 1920 were still **in use** in the 1950s.
+      * vehicle n. 车辆
+    * → I'll be glad to see the building **in use** again.
+    * in common use
+    * → (NCE4-7 P41-L7) So was born the echo-sounding apparatus, now **in general use** in ships.
+      * in general use 广泛的使用
 
 **## text 3**
 
-* 
+* → **Considering <u>how recent these developments are</u>**, <u>it</u> is even more remarkable **that <u>as long ago as the 1960s</u>,an Englishman, <u>Leon Bagrit</u>, was able to predict some of the uses of computers <u>which we know today</u>**.
+  * **considering** prep. 考虑到, adv. 从各方面考虑
+    * **considering** prep. & conj. in view of (the fact that); taking into consideration 考虑到 .... , 鉴于.....
+      * → (NCE3-19 P86-L17) **Considering** the amount she paid, he was dear in more ways than one!
+      * → **Considering (that )** he's only just started, he knows quite a lot about it.
+  * as long ago as 早在......时候
+    * **as long ago as ... = as early as ...** 早在.... 就 ....
+      * → (NCE3-14 P66-L5) **As long ago as** the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
+    * **as long as...** 1. 长达.
+      * → (NCE3-42 P196-L9) lt can take **as long as** <u>eight days</u> to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave.
+    * **as long as ... **2. 只要 =**so long as** = **provided** = **on condition (that)**
+      * → (NCE4-44 P257-L32) Anthropology was by definition impossible, **as long as** <u>these distinctions between ourselves and the primitive, ourselves and the barbarian, ourselves and the pagan, held sway over people's minds</u>.
+      * → (NCE3-7P38-L15) **So long as** <u>there's something to identify</u>, we will give people their money back.
+* → Bagrit dismissed the idea **that computers would learn to 'think' <u>for themselves</u> and would "rule the world", <u>which people liked to believe in those days</u>.**
+  * dismiss v. 不屑一顾, 嗤之以鼻
+    * **dismiss** v. 1. to remove someone from their job 解雇，辞退(比 fire 显得文言和委婉)
+      * → (NCE3-49 P224-L29) The poor girl **was dismissed** instantly.
+        * instantly = immediately =promptly = now = directly
+    * **dismiss** v. 2. to refuse to consider sb's idea, opinion etc, because you think it is not serious, true, or important 对. …不予理会，对..…不屑一顾
+      * → The government has **dismissed** criticisms that the country's health policy is a mess.
+  * do sth. for oneself 亲自做某事
+    * **do sth. for oneself** 亲自..…，独立....
+      * → (NCE3-29 P138-L12) The following example of'sick humour' will enable you to judge **for yourself.**
+      * → (NCE3-46 P212-11) So great is our passion for doing things **for ourselves,** that we are becoming increasingly less dependent on specialized labour.
+  * rule the world 统治世界
+  * **in those days** 在当年，在当初
+    * → (NCE3-21 P106-L2) **In those days**, boxers fought with bare fists for prize money.
+    * **these days** 当今，现如今
+    * → (NCE3-4 P26-L1) **These days**, people who do manual work often receive far more money than clerks who work in offices.
+* → Bagrit foresaw a time <u>when computers would be small enough to hold in the hand</u>, <u>when they would be capable of **providing information about traffic iams** and **suqgesting alternative routes**</u>, <u>when thev would be used in hospitals **to help doctors to diagnose illnesses**</u>, <u>when thev would **relieve** office workers and accountants **of** dull, repetitive clerical work</u>.
+  * foresaw (foresee 的过去式, foreseen) vt. 预见
+    * → Few analysts **foresaw** that oil prices would rise so steeply.
+      * steeply adv. 险峻地, 
+    * → (NCE3-33 P154-L7) The telephone rings and this marks the prelude to an **unforeseen** series of catastrophes.
+      * unforeseen adj. 未曾预见到的
+    * **foresight** n. 远见，先见之明
+      * → (NCE3-42 P196-L8) Such undertakings require the precise planning and **foresight** of military operations.
+    * **forethought** n. 远虑，提前的思考
+      * → With a little **forethought** many accidents could be avoided.
+    * **forecast** n. 预测，预报
+      * weather **forecast**
+    * **<u>foretell</u>** / **<u>predict</u>** v. 预言....
+      * → (NCE3-42 P196-L10) Precautions of this sort are necessary, for it is impossible to **foretell** the exact nature of the difficulties which will confront the pot-holer.
+      * → (NCE3-51 P232-L16) Considering how recent these developments are, it is even more remarkable that as long ago as the 1960s, an Englishman, Leon Bagrit, was able to **predict** some of the uses of computers which we know today.
+      * foretell 还能表示预兆某事 , 也就是可以事物做主语
+        * → Timely snow **foretells** a bumper harvest. 及时的雪预示着特大丰收
+          * bumper = great = awesome
+          * harvest n. 收获
+    * **mark the prelude to sth. ** 预示.....
+      * → (NCE3-33 P154-L7) The telephone rings and this **marks the prelude to** an unforeseen series of catastrophes.
+  * 交通堵塞
+    * **traffic jam<u>s</u>**
+    * **traffic congestion**
+      * congestion n. 拥堵, 堵塞
+  * **diagnose** v. 诊断
+    * → The test is used to **diagnose** a variety of diseases.
+    * **diagnosis** n.诊断[U or C] [diagnoses]
+      * → Early **diagnosis** and treatment can prevent serious problems.
+  * dull adj. 无聊的, 无趣的 = boring
+  * **repetitive** adj. 重复性的
+    * **repetitive** adj. done many times in the same way, and boring 重复性的
+      * **repetitive** <u>work</u> / <u>tasks</u> / <u>jobs</u>
+  * **clerk** n. 1. person employed in an office, a shop, etc to keep records, accounts, etc. 文书；办事员;事务员
+    * **clerk** n. 2. (AmE) assistant in a shop 店员，售货员
+    * **clerical** adj. of, for or made by a clerk or clerks 文书或办事员的
+      * routine **clerical** work 例行的文书工作
+      * administrative and **clerical** staff 管理人员和文书工作的人员
+  * **relieve sb. of sth.** to help sb. by taking sth. heavy or difficult from them 替某人做某事，使某人免于
+    * → Let me **relieve** you **of** some of your bags.
+    * → The new secretary will **relieve** us **of** some of the paperwork.
+* **commonplace** adj. happening or existing in many places, and therefore not special or unusual 寻常的，司空见惯的，不足为奇的 (书面语)
+  * → Computers are now **commonplace** in primary classrooms.
+    * primary classroom 小学课堂
+      * primary adj. 主要的; 初级的, 基本的
+* → Of course, Leon Bagrit could not possibly have foreseen the development of the Internet, the worldwide system **that enables us to communicate instantly with anyone in any part of the world <u>by using computers linked to telephone networks</u>.**
+  * 
 
 ## L52 Mud is mud 
 
