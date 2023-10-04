@@ -814,7 +814,29 @@
       * **on account of the fact that ... (fml.)** 
       * **= because ...**
   * **<u>delicate</u>/<u>light</u>** adj. 颜色淡的, 浅色的
-    * 
+    * **<u>dark</u> / <u>deep</u>** adj. 颜色浓的，深色的
+    * **bright** adj. 颜色亮的，鲜艳的
+  * **shade** n. a particular type of red, green, blue etc. 色度
+    * shade n. 阴影, 影子
+    * **shade of ...**
+      * **a delicate shade of** green 一个浅色度的绿
+      * **a bright shade of** pink 一个亮色度的粉
+      * **a deep shade of** blue 一个深色度的蓝
+  * **observant** adj. perceptive; eagle-eyed 善于观察的，敏锐的
+    * powers of **observation** 观察力
+      * power 能力
+  * thick adj. 粘稠的
+  * **greyish** (BrE)/ **grayish** (AmE) adj. slightly grey 浅灰色的，灰了吧唧的, (灰色的, 但色不太正)
+    * yellowish (黄色的, 但色不太正)
+    * reddish  (红色的, 但色不太正)
+    * bluish (蓝色的, 但色不太正)
+    * greenish  (绿色的, 但色不太正)
+    * blackish  (黑色的, 但色不太正)
+    * whitish... (白色的, 但色不太正)
+* → **If you <u>were to</u> ask Harry <u>what was in the bottle</u>**, he <u>*would*</u> tell you **<u>that it contained perfumed mud.</u>**
+  * 与未来趋势相反的虚拟
+    * **If+ S. + should do, S. + would / should / could / might + do**
+    * **If + S. + <u>did</u> / <u>were to do</u>, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
 
 **## text 2**
 
