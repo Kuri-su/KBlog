@@ -1009,10 +1009,17 @@
       * → The system **was** complicated and **completely beyond the learners.**
         * learner n. 初学者
 
-
 **## text 3**
 
 * 
 
 ## L53 In the public interest
 
+## L54 Instinct or cleverness?
+
+## L55 From the earth：Greetings
+## L56 Our neighbour，the river
+## L57 Back in the old coun
+## L58 A spot of bother
+## L59 Collecting
+## L60 Too early and too late
