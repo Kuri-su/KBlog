@@ -834,13 +834,138 @@
     * blackish  (黑色的, 但色不太正)
     * whitish... (白色的, 但色不太正)
 * → **If you <u>were to</u> ask Harry <u>what was in the bottle</u>**, he <u>*would*</u> tell you **<u>that it contained perfumed mud.</u>**
-  * 与未来趋势相反的虚拟
+  * 与未来趋势相反的虚拟语气
     * **If+ S. + should do, S. + would / should / could / might + do**
     * **If + S. + <u>did</u> / <u>were to do</u>, S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do**
+      * → **If you <u>were to ask</u> Harry what was in the bottle**, he <u>would</u> tell you that it contained perfumed mud.
+      * → **If you <u>expressed</u> doubt or surprise**, he <u>would</u> immediately invite you to smell it and then to rub some into your skin.
+    * 如果出现助动词 还可以倒装, 把 if 省略 并且把助动词提前
+      * → **<u>Were</u>** you <u>to ask</u> Harry what was in the bottle, he <u>would</u> tell you that it contained perfumed mud.
+  * **perfumed** adj. pleasant to smell because perfume has been added or used 加香水的，有香味的
+    * **perfumed** <u>soap</u> / <u>candles</u> 香皂/香芬蜡烛
+* → **If you <u>expressed</u> doubt or surprise**, he <u>would</u> immediately invite you <u>to smell it</u> and then <u>to rub some into your skin.</u>
+  * rub v. 涂抹
+    * **rub sth. with sth.** 把后者抹到前者上
+      * → (NCE3-15 P70-L13) A crowd of people gathered round him and a lady **rubbed** his arm **with** soap and butter, but George was firmly stuck.
+
+    * **rub sth. into sth.** 把后者抹到前者上, 并且希望可以渗透进去 
+      * **rub salt into the wound** 往伤口上撒盐
+        * wound n. 伤口 v. 使受伤
+
+      * **Rub** the cream **into** your skin . 把膏状物涂抹到你的皮肤上
+
+* brief adj. 短暂的
+* dispel 打消某种念头
+  * **dispel** doubts / fears / worries / rumors /preiudice
+
+* → The bottle really does contain perfumed mud. 
+  * does 表示的确
+
+* → **How Harry came into the possession of this outlandish stuff** makes an interesting story **<u>which he is fond of relating.</u>**
+  * fond adj. 喜欢的
+    * **be fond of** ...: having a great liking for.... 非常喜欢⋯
+      * → I've always **been** very **fond of** you.
+      * → John**'s** extremely **fond of** pointing out other people's mistakes.
+
+  * relate v. 使联系; 讲述
+    * **relate sth. (to sb.)**（向某人）讲述某事
+      * → (NCE3-56 P252-L5) We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives **were not related to** it.
+      * → (NCE4-28 P166-L20) History does not **relate** whether his friend accepted his medical help, but in all probability he did.
+
+  * **come into (the) possession of sth. = get sth.** 得到某物 (人做主语或者物做主语都行)
+    * → On her father's death, she **came into possession of** a vast fortune.
+      * vast adj. 巨大的
+      * fortune n. 财富, 财产
+
+    * → How did the painting **come into your possession** (= how did you get the painting)?
+
+  * **stuff** n. [U] (infiml.)(不太正式的书面语) things 东西， 玩意儿
+    * → I've got some sticky **stuff** on my shoe.
+    * → Do you call this **stuff** beer?
+
+* → **Furthermore**, the <u>acquisition</u> of this bottle <u>cured</u> him <u>of</u> a bad habit **<u>he had been developing for years.</u>**
+  * **furthermore** adv. 此外, 而且, 还
+    * 同义词
+      * **further**
+      * **<u>what is more</u> / <u>what's more</u>** (书面语中尽量不要用 's 这种缩写)
+      * **moreover** 
+      * **besides**
+      * **in addition** 
+      * **additionally**
+
+  * **acquisition** n.  获得
+    * the **acquisition** of language 语言的习得 (获得了语言这种能力)
+
+  * cure v. 治愈
+    * **cure sb.** 
+    * **cure a disease** 治愈了疾病
+    * **cure sb. of a disease** 治好了某人的某个病
+    * **cure** n. 疗法, 药物, 根治疗法 
+      * **no cure for sth.** 无药可救 (所有无法根治的病都可以用这个)
+        * → **There is no cure for** AlDS.
+
+  * heal v. 治愈(to become sound and healthy again, 所以只能人做宾语)
+    * heal sb. 
+    * heal sb. of a disease 
+    * heal a disease (**X**)
+
+  * 养成习惯的表达
+    * **<u>develop</u> / <u>catch</u> / <u>acquire</u> / <u>form</u> / <u>cultivate</u> / <u>foster</u>** a habit
+    * **<u>change</u> / <u>alter</u>** a habit 改变一个习惯
+    * **correct** a habit 纠正一个习惯
+    * **<u>abandon</u> / <u>give up</u> / <u>drop</u> / <u>discard</u> / <u>kick</u>** a habit 改掉一个坏习惯
+
 
 **## text 2**
 
-* 
+* → Harry used to consider <u>it</u> a great joke to <u>go into expensive cosmetic shops and make outrageous requests for goods **that do not exist**.</u>
+  * consider v. 把..看作 ; 考虑
+  * expensive adj. 高档的
+    * → (NCE3-6 P34-L1) The **expensive** shops in a famous arcade near Piccadilly were just opening.
+
+  * **cosmetics** n. [pl (习惯用复数)] 化妆品 
+    * → Lipstick and hair conditioner are **cosmetics**. 唇膏 和 护发素 都属于化妆品
+    * **make-up** / **makeup** n. [U] 化妆品(已经涂在脸上的化妆品)
+      * girls in **heavy make-up** 画着浓妆的女孩
+      * → She doesn't **wear makeup.** 她没化妆
+
+  * **make a ... request for ...** 请求, 要求获得某个东西
+    * → **make** repeated **requests for** help 一再的请求得到帮助
+    * → They have **made an** urgent **request for** international aid. 他们紧急的得到国际的援助
+      * urgent adj. 紧急的
+      * aid n. 帮助
+
+    * **make a ... appeal for ...** 恳请得到某物
+      * **appeal** v. 恳请, 请求
+      * → The girl's family have **made a** public **appeal for** help to try and catch her killer.
+
+  * would 和 used to do 类似，都可以表示过去习惯性的动作，如：One day in a week he <u>would</u> spend a whole day in silence.但注意：would 不能用在故事开头，往往在故事开头用 used to do，而后面换为 would do，如：We <u>used to</u> work in the same office and we <u>would</u> often have coffee together.
+    * → Harry **used to** consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist. He **would** invent fanciful names on the spot. On entering a shop, he **would** ask for a new perfume called 'Scented Shadow' or for "insoluble bath cubes'. If a shop assistant told him she had not heard of it, he **would** pretend to be considerably put out. He loved to be told that one of his imaginary products was temporarily out of stock and he **would** faithfully promise to call again at some future date, but of course he never did.
+    * → (NCE3-36 P166-41) We are less credulous than we **used to** be. In the 19th century, a novelist **would** bring his story to a conclusion by presenting his readers with a series of coincidences — most of them wildly improbable.
+
+  * **do sth. on the spot** = do sth. immediately 当场就做某事, 立刻做了某事
+    * → He had to make a decision **on the spot.**
+
+* → **On entering a shop**, he would ask <u>for a new perfume **called 'Scented Shadow'**</u> or <u>for 'insoluble bath cubes'</u>
+  * on 可以表示刚一...., 但不能跟句子
+    * on entering a shop 刚一进商店
+    * **on** prep. as soon as 刚一
+    * → What was your reaction **on** seeing him?
+    * → (NCE3-22 P110-L11) The curtain went up **on** the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell.
+    * **in** prep. during the act or process of 在.... .过程中
+      * → (NCE3-22 P110-L7) **In** the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.
+      * → (NCE3-27P130-L13) **ln** seeking independence, they do not sacrifice their human dignity.
+
+  * bath cube 浴皂
+    * cube n. 正方体
+
+  * **insoluble** adj. cannot be **dissolve**d; not **soluble** 不能溶解的
+    * dissovlve v. 融化
+    * soluble v. adj. 可溶解的
+
+* → **If a shop assistant told him she had not heard of it**, he would pretend to be considerably put out.
+  * 
+
 
 **## text 3**
 
