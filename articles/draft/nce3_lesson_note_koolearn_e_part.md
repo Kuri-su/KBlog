@@ -1011,9 +1011,163 @@
 
 **## text 3**
 
-* 
+* **prompt** v. to encourage sb. to speak by asking them questions or suggesting words that they could say 提问或提示以鼓励某人说
+  * → ’And then what happened?' he prompted. 然后又发生什么事了? 他问道
+  * → The speaker was hesitant and had to **be prompted** occasionally by the chairman. 
+    * chairman n. 主席
+
+* **exclusive** adj. very expensive, and therefore available only to wealthy people 高级的，高档的 (暗示穷人都去不了的)
+  * an **exclusive** <u>store</u> / <u>restaurant</u> / <u>neighborhood</u> 
+    * neighborhood n. 社区, 街区
+
+  * **exclusive** adj. 独家的
+    * → (NCE3-45 P208-L19) Newspapers and magazines offered the family huge sums for the **exclusive** rights to publish stories and photographs.
+
+* → The shop assistant looked puzzled <u>and</u> Harry repeated the word, **slowly stressing each syllable.**
+  * puzzled adj. 迷惑不解的, 困惑的 (unable to understand; perlexed)
+  * syllable n. 单词的音节
+  * **stress** v. to pronounce a word or part of a word so that it sounds louder or more forceful 重读; 强调
+    * → The word 'machine' **is stressed** on the second syllable.
+
+* → **When the woman shook her head <u>in bewilderment</u>**, Harry went on to explain **that Myrolite' was a hard, amber-like substance <u>which could be used to remove freckles</u>.**
+  * **in bewilderment** = **in confusion** = **in puzzlement** = **in perplexity** adv. 迷惑地
+    * → She looked at him **in bewilderment.**
+    * → Matt stared at her **in confusion.**
+      * stare v. 盯
+
+    * → She frowned **in puzzlement.**
+      * frown v. 皱眉
+
+    * → Jane looked about **in perplexity.** jane 迷惑的四下张望
+
+  * amber-like 像琥珀一样的
+
+* **convey sth. to sb.** 向某人传达或表达....
+  * → Please **convey** my good wishes **to** your parents.
+  * → The poem perfectly **conveys to the reader** the poet's feelings.
+    * poem n. 诗
+    * poet n. 诗人
+
+* → This explanation evidently conveyed something to the woman **who** searched shelf after shelf.
+  * 这里的 who 在用途上类似于并列句, 属于形式上的定语从句
+  * = → This explanation evidently conveyed something to <u>the woman</u> **and <u>she</u>** searched shelf after shelf.
+  * shelf after shelf 一个又一个地 (都用0冠词)
+    * → (NCE3-37 P170-L14) But when the train dawdled at <u>station</u> **after** <u>station</u>, I began to wonder.
+    * **sth. after sth.**
+      * Day after day 
+      * week after week 
+      * vear after year
+      * time after time
+
+    * → He fired <u>shot</u> **after** <u>shot</u>. 他开了一枪又一枪
+    * → Shelley sent him <u>letter</u> **after** <u>letter</u> to explain the delay. Shelley 给他寄了一封又一封信来解释为什么迟到
+    * → They sent <u>regiment</u> **after** <u>regiment</u> to attack us. 他们派了一个又一个团来进攻我们
+    * → In <u>factory</u> **after** <u>factory</u> we were shown machines built by the workers themselves.
+
+* **produce** v. if you produce an object, you bring it out or present it, so that people can see or consider it 出示, 拿出
+  * **Produce** your ticket! 出示你的票
+  * → (NCE2-78 P362-L7) They made no effort to hide their amusement whenever l **produced** a packet of sweets from my pocket.
+  * 各种各样的, 各式各样的
+    * **all sorts / kinds / types of sth.**
+    * **sth. of all sorts / kinds / types**
+      * → (NCE3-40 P182-411) **all sorts of** silly jokes
+      * **all sorts of** weird concoctions
+      * → (NCE4-18 P104-L11) **all sorts of** indignities
+      * → (NCE3-47 P216-L21) vehicles **of all kinds**
+
+* **concoction** n. sth. that has been made out of several things mixed together 调制品，混合物
+  * → a **concoction** of honey, yogurt, oats, and apples
+
+* 满足某人的需要, 满足某人的要求
+  * **<u>comply with</u> / <u>fulfill</u> / <u>meet (with)</u> / <u>satisfy</u> / <u>suit</u>** <u>one's requirements</u>
+    * → The new computer system will **meet (with)** <u>all our requirements.</u>
+
+* **put on an act** 装模作样
+  * → He wasn't really angry; he just **put on an act.**
+  * **put on sth.** 假装
+    * **put on** a smile
+    * **put on** airs 摆架子
+      * airs 派头, 样子, 神态
+
+    * **put on** an injured expression 装出一副受伤的表情
+
+* → **Intoxicated by his success**, Harry then asked for perfumed mud
+  * intoxicate v. 陶醉于
+
+* **blank** adj. showing no feeling, understanding or interest 茫然的 
+  * → Steve looked **blank** and said he had no idea what I was talking about.
+
+* **astonishment** n. 惊讶, 
+* **blank astonishment** (惊讶得）目瞪口呆
+  * a look of **blank astonishment**
+
+* → <u>However</u>, it was his turn to be surprised, **for the woman's eyes immediately lit up <u>and</u> she fetched several bottles <u>which she placed on the counter for Harry to inspect</u>.**
+  * inspect v. 仔细的查看
+  * **it is one's turn (to do sth.)**  轮到某人做某事
+    * → **It's your turn.**
+    * → **It's our turn to** drive the kids to school this week. 这个礼拜轮到我们开车送孩子上学了
+
+  * **light up** if someone's face or eyes light up, they show pleasure, excitement etc.（因喜悦、兴奋等脸上或眼中）露出光彩
+    * light lighted lit
+    * → (NCE3-11 P54-L14) Suddenly, I saw the Officer's face **light up.**
+
+  * 这里的 which 类似于并列句的作用, 可以写成如下但稍显罗嗦
+    * → ... she fetched <u>several bottles</u> **and** she placed **<u>them</u>** on the counter for Harry to inspect.
+
+* **(just) for once** used to say that sth. unusual happens, especially when you wish it would happen more often 这一回，这一次
+  * → Be honest **for once.**
+  * → **Just for once**, let me make my own decision. 这次让我自己做决定吧
+
+* **<u>accept</u> / <u>admit</u> / <u>concede</u> defeat** 认输
+  * → She is very determined, and will never **admit defeat.**
+  * → The prime minister **conceded defeat** and resigned. 这个首相认输并且辞职了
+
+* **discreet** adj. careful not to cause embarrassment or attract too much attention, especially by keeping something secret 言行小心谨慎的
+  * → The family made **discreet** enquiries about his background. 这个家族小心的打探他的背景
+
+* → He was glad to get away with a mere 20 pounds <u>and</u> he beat a hasty retreat, **clutching the precious bottle under his arm.**
+  * clutch v. 紧紧的攥着
+    * **clutch** v. to hold something tightly because you do not want to lose it紧紧抓住
+      * → She was **clutching** a bottle of champagne.
+
+  * **a mere .....仅仅.....**
+    * **a mere** 后跟单数名词时=**only a / an** 
+    * 在其他情况下 **a mere = only**
+
+  * **beat a (hasty) retreat** leave a place quickly in order to avoid an embarrassing or dangerous situation 赶紧走了
+    * → The cat **beat a hasty retreat** when it saw the dog was coming.
+
+* → From then on, Harry decided **that this little game <u>he had invented</u> might prove to be expensive.**
+  * **from then on** 从那以后
+    * **from now on** 从今往后
+
+  * **decide 不一定译为 “决定”，而常常译为〞（在考虑之后）确定，断定， 认为〞 ，尤其是其后加that 引导的宾语从句时。**(L43)
+    * → (NCE3-43 P200-L11) The pie committee **decided** <u>that the best way to transport the dish would be by canal</u>, so they insured it for the trip.
+    * → (NCE3-57 P256-L22) I **decided** <u>that I must have taken a wrong turning somewhere.</u>
+    * → (NCE3-58 P260-L12) Her first impulse was to go rouind all the rooms looking for the thieves, but then she **decided** <u>that at her age it might be more prudent to have someone with her</u>, so she went to fetch the porter from his basement.
+
+* → The curious bottle **<u>which now adorns the bookcase in his study</u>** was his first and last purchase of rare cosmetics.
+  * **adorn** v. (fml.) to decorate sth. 装饰
+    * → The walls **were adorned with** paintings.
+
 
 ## L53 In the public interest
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
 
 ## L54 Instinct or cleverness?
 
