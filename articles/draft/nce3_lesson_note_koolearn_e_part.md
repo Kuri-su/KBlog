@@ -964,7 +964,50 @@
     * soluble v. adj. 可溶解的
 
 * → **If a shop assistant told him she had not heard of it**, he would pretend to be considerably put out.
-  * 
+  * considerably adv. 相当地
+  * **put out** adj. Br.E. [never before noun] annoyed 气愤的，不悦的
+    * → He seemed a bit **put out** at not having been invited. 他看上去有点不悦, 在没有被邀请
+
+* → He loved to be told **that one of his imaginary products was temporarily out of stock** <u>and</u> he would faithfully promise to call again at some future date, <u>but</u> of course he never did.
+  * **imaginary** adj. 虚构的
+    * **imaginative** adj. 富于想象力的
+
+  * **temporarily** adv. 暂时, 临时
+    * **permanently** adv. 长期，永久
+
+  * **<u>in</u>/ <u>out of</u> stock** (商店中)有/无现货的
+    * → Have you any grey pullovers **in stock**?
+      * pullover 套头衫
+
+    * → I'm sorry, that swimsuit is temporarily **out of stock** in your size.
+
+  * **faithully** adv. 忠诚地，诚恳地
+    * → He had served the family **faithfully** for 40 years.
+    * → Ann **faithfully** promised never to tell my secret.
+
+  * **call** v. to stop at a house or other place for a short time to see sb. or do sth. 在某处短暂停留以拜访某人或做某事
+    * → She **called** for a chat. 她到这里拜访聊了一会儿
+    * **call in at sth.** 短暂的在某处停留
+      * → (NCE3-25 P122-L17) After crossing the equator, the captain **called in at** a port to have a new rudder fitted, but by now the Thermopylae was over 500 miles ahead.
+
+  * **at a ... date** : a time in the past or future 在过去或末来的某时
+    * → The exact details of the plan will be worked out **at a** later **date**.
+    * → The election is scheduled to take place **at an unspecified date** in the autumn.
+      * unspecified adj. 未被说明的
+      * specified adj. 确定的, 制定的
+
+* → **How Harry managed to keep a straight face during these performances** is quite beyond me.
+  * **keep a straight face**: stop oneself from smiling and laughing 板着脸， 忍住不笑
+    * straight adj. 直的,
+    * → Brian looked ridiculous in leather trousers, and I was desperately trying to **keep a straight face.**
+      * leather n. 皮革
+
+  * **be beyond sb.** to be too difficult for someone to understand 无法理解
+    * → (NCE3-41 P192-L14) Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country **is beyond me.**
+    * **be <u>quite</u> / <u>completely</u> beyond sb.**
+      * → It**'s quite beyond me** why anyone would want to marry him.
+      * → The system **was** complicated and **completely beyond the learners.**
+        * learner n. 初学者
 
 
 **## text 3**
