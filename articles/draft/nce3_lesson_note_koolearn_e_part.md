@@ -1205,22 +1205,14 @@
     * **ardent** adj. 热情的
 
 * **qualified** /ˈkwɑːlɪfaɪd/ adj. 有资格的，有资质的
-
   * **qualified** adj. having finished a training course, or having particular skills, etc. 有资格的，有资质的
-
   * → Tim is now a **qualified** architect.
-
   * **be qualified for ...** 对某个职位有资质的, 
-
     * → What makes you think that you **are qualified for** this job?
-
   * **be qualified to do**
-
     * → I**'m** not **qualified to** give advice on such matters.
     * → (NCE3-53 P240-L16) A parliamentary committee representing all political parties appoints a person who **is suitably qualified to** investigate private grievances against the State.
-
   * **qualify** v.(使) 有资格或能力
-
     * **qualify as**
       * → He **qualified as** a doctor last year.
     * **qualify sb. to do sth.**
@@ -1228,9 +1220,52 @@
     * **quality sb. for sth.**
       * → This training course will **qualify** you **for** a better job.
       * → Membership **qualifies** you **for** a discount on purchases.
-    * 
-
-    
+  * **qualification** n. (某工作需要的) 资格，能力；文凭，资质证书
+    * → (NCE3-49 P224-L20) In addition to all her other **qualificatioris**, Bessie was an expert cook.
+* **secretive** /ˈsiːkrətɪv/ adj. 爱保密的, 守口如瓶的, 讳莫如深的
+  * **secretive** adj. liking to keep things secret or to hide one's thoughts, feelinigs, etc.爱保密的，守口如瓶的
+  * **be secretive about ...** 对于某个事总是遮遮掩掩, 顾左右而言他
+    * → He's **being** very **secretive about** his new girlfriend.
+    * → (NCE3-53 P240-L15) There is nothing **secretive about** the Ombudsman's work, for his correspondence is open to public inspection.
+  * **secrecy** n. keeping secrets, or state of being secret 保密
+    * **<u>in secrecy</u> / <u>in secret</u> / <u>secretly</u>** 机密的, 秘密的
+      * → Many civilians were slaughtered and buried **in secrecy / in secret / secretly.** 
+    * **in the secrecy of one's heart** 在某人的内心深处
+      * → The personable young man is Mary's true love **in the secrecy of her heart.** 这位风度翩翩的小伙子是玛丽心中的真爱
+    * **be <u>veiled</u> / <u>shrouded</u> / <u>cloaked</u> in secrecy** 处于机密状态(蒙在秘密之中)
+      * veiled 面纱
+      * shrouded n. 寿衣, 裹尸布
+      * clock 斗篷
+      * → The president's exact itinerary **was <u>veiled</u> / <u>shrouded</u> / <u>cloaked</u> in secrecy** for security reasons.
+        * itinerary n. 行程
+* **ascertain** /ˌæsərˈteɪn/ v.查明，弄清，确定
+  * **ascertain** v. (fml.) discover sth. so that one is certain 查明，弄清，确定
+  * → The police have so far been unable to **ascertain** the cause of the explosion.
+  * **ascertain <u>whether</u> / <u>what</u> / <u>how</u> etc.**
+    * → We need to **ascertain whether** the project is feasible.
+      * feasible 可行的
+  * **ascertain that ...**
+    * → The police have **ascertained that** he knew the victim.
+    * → (NCE3-53 P240-L25) The lawyer **ascertained that** a policeman had indeed dealt roughly with foreigners on several occasions.
+* **prejudiced** /'prɛdʒədɪst/ adj.有偏见的
+  * **prejudiced** adj. showing an unreasonable dislike for sth. or sb.有偏见的
+  * → The media has been accused of presenting a **prejudiced** view of people with disabilities.
+  * **prejudiced against ...** 对某人有偏见
+    * → The early Christian church **was prejudiced against** the Jews.
+      * church n. 教会
+      * Jews n. 犹太人
+    * → (NCE3-53 P240-L26) The fact that the policeman **was prejudiced against** foreigners could not be recorded in the official files.
+  * **be biased <u>against</u> ...** 对某人有偏见 
+    * → He **seemed** a bit **biased against** women in my opinion.
+  * **be biased <u>in favor of</u> / <u>toward(s)</u>**  偏向某人
+    * → The judge **is biased in favor of** the plaintiff. 
+  * **be partial <u>to</u> / <u>toward(s)</u> ..** 偏心眼的
+    * → The referee **was** clearly **partial to** the other side.
+  * **prejudice (<u>against</u> ...)** n. 偏见, 
+  * **bias (<u>against</u>...)** n. 偏见
+  * **bias (<u>in favor of</u> / <u>toward(s)</u> ..)** n. 偏向某人
+  * **partiality (to / toward(s)..)** n. 偏向某人
+    * (词性的变化通常不影响介词搭配)
 
 **## text 1**
 
