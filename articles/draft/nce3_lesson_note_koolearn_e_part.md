@@ -1155,7 +1155,82 @@
 
 **## words**
 
-* 
+* **evolve** /iˈvɑːlv/ v.演变，逐渐形成; 进化
+  * **evolve** v. 1.to.develop and change gradually over a long period of time 演变，逐渐形成
+    * **gradually** adv. 逐渐地
+    * **period** n. 时期
+    * → The school has **evolved** its own style of teaching.
+    * → (NCE3-53 P240-L2) Sweden has **evolved** an excellent system for protecting the individual citizen from highhanded or incompetent public officers.
+    * **evolve from ..** 从...演变来的
+      * → Popular music **evolved from** folk songs.
+        * folk adj. 民间的, 民众的, 通俗的
+    * **evolve into ...** 演变成...
+      * → The group gradually **evolved into** a political party.
+  * **evolve** v. 2. an animal or plant changes gradually over a long period of time 进化
+    * → Animals have **evolved** camouflage to protect themselves from predators. 
+      * camouflage n./v. 伪装
+      * predator n. 掠夺者, 肉食动物
+    * **evolve from ...** 由...进化来的
+      * → Fish **evolved from** prehistoric sea creatures.
+    * **evolve into ..** 前者演变成了后者
+      * → Slowly, these tiny organisms **evolved into** multicelled creatures.
+  * **evolution** n. 进化：演变，逐渐发展
+    * → Darwin's theory of **evolution**
+    * → the **evolution** of farming methods
+  * **"volve" / "volu" =roll转**
+    * e**volve** 
+    * in**volve** v. 卷入, 涉及
+    * re**volve** v. 自转, 旋转
+      * → The earth **revolves** around the sun.
+    * **volu**me n. 数量; 音量; 书籍的第几卷
+      * an encyclopedia in 20 **volumes** 二十卷的百科全书
+      * 
+    * e**volu**tion n. 进化
+    * re**volu**tion n. 革命
+      * → in politics Britain has preferred **evolution** to **revolution**. 在政治方面, 英国更倾向于偏右而不是偏左
+* **over-zealously** /'zeləsli/ adv.过分热情地
+  * **overzealous** adj. excessively enthusiastic 过分热情的
+    * **enthusiastic** adj. 热情的
+    * **overzealous** movie fans
+  * **zeal** n. 热心, 热忱
+    * **zeal for ..** 对...的热情 (表示感情的名词后面都加 for)
+    * **zealous** adj. 热情的
+  * **passion for ...** 对...的热情
+    * **passionate** adj. 热情的
+  * **enthusiasm for ...** 对...的热情
+    * **enthusiastic** adj. 热情的
+  * **zest for ..** 对...的热情
+    * **zestful** adj. 热情的
+  * **<u>ardor</u> / <u>ardour</u> for ..** 对...的热情
+    * **ardent** adj. 热情的
+
+* **qualified** /ˈkwɑːlɪfaɪd/ adj. 有资格的，有资质的
+
+  * **qualified** adj. having finished a training course, or having particular skills, etc. 有资格的，有资质的
+
+  * → Tim is now a **qualified** architect.
+
+  * **be qualified for ...** 对某个职位有资质的, 
+
+    * → What makes you think that you **are qualified for** this job?
+
+  * **be qualified to do**
+
+    * → I**'m** not **qualified to** give advice on such matters.
+    * → (NCE3-53 P240-L16) A parliamentary committee representing all political parties appoints a person who **is suitably qualified to** investigate private grievances against the State.
+
+  * **qualify** v.(使) 有资格或能力
+
+    * **qualify as**
+      * → He **qualified as** a doctor last year.
+    * **qualify sb. to do sth.**
+      * → The test **qualifies** you **to** drive heavy vehicles.
+    * **quality sb. for sth.**
+      * → This training course will **qualify** you **for** a better job.
+      * → Membership **qualifies** you **for** a discount on purchases.
+    * 
+
+    
 
 **## text 1**
 
