@@ -1369,11 +1369,75 @@
   * → Smokers **are** more **subject to** heart attacks than non-smokers.
 * → He investigates complaints <u>large and small</u> **that come to him from all levels of society.**
   * **两个含义相反的形容词连用时，常位于被修饰名词之后。**
-  * 
+    * → A man with a noble heart never bows before <u>difficulties</u> ***great or small.***
+      * bow v. 弯腰, 鞠躬; 屈服
+      * noble  adj. 高贵的
+    * → We should be fair to all <u>people</u>, **big and small, young and old.** 我们应该对说有的人都公平
+  * **level** n. relative position in rank, class orauthority 级别, 阶层
+    * → These are subjects for discussion at management **level**.
+* **<u>make</u> / <u>bring</u> / <u>file</u> / <u>lodge</u> / <u>submit</u> / a complaint** <u>about sth.</u> / <u>against sb.</u> 发起投诉
+  * → I'd like to **make a complaint** <u>about</u> the noise.
+  * → He **brought a complaint** <u>against</u> his former manager.
+  * → (NCE3-37 P170-L18) I determined to **lodge a complaint** as soon as we arrived.
+  * → (NCE3-53 P240-L29) ... if any further **complaints were lodged** against him, he would be prosecuted.
+* **in writing** 以书面形式
+  * → All bookings must be confirmed **in writing.**
+  * **in speech** 以口头形式
+    * → He expressed his opinions both **in speech** and **in writing.**
+  * in 表示以某种形式
+    * speak **in English**
+    * pay **in cash**
+    * a short note scribbled **in pencil** 
+    * write a message **in code** 用密码写了一个信息
+    * The title was printed **in capital letters.** 
+      * captial letter 大写字母
+* **an average of ..** 平均...
+  * → Parents spend **an average of** $220 ayear on toys for their children.
+  * → Prices have risen by **an average of** 4% over the past year.
+* **every single** 每一.... (加强every的语气）
+  * → We eat rice **every single** day!
+  * → Don't write down **every single** word I say.
+* **There is nothing secretive about ...** 没有什么可保密的
+  * → **There is nothing secretive about** it.
+  * → **There is nothing secretive about** Christianity.
+* **correspondence** n. [U] the letters that someone sends and receives, especially <u>official</u> or <u>business</u> letters 信件, 信函
+  * → She has a lot of **correspondence** to deal with.
+  * **mail** n. [U] the <u>letters</u> and <u>packages</u> that are delivered to you 邮件
+    * → There isn't much **mail** today.
+    * → (NCE3-60 P268-L26) He agreed that a train did come into the station at the time on the paper and that it did stop, but only to take on **mail**, not passengers.
+* **open** adj. public, not limited 公开的， 开放的，没有限制的
+  * **be open to <u>sb.</u> / <u>sth.</u>** 对某人/某事开放
+    * → The competition **is open to** anyone over the age of sixteen.
+    * → I'd like to think l **am open to** any reasonable suggestion.
+* **justified** adj. having an acceptable explanation or reason 合理的
+  * **justify** v. to show or prove that sb./sth. is right or reasonable 表明或证明..... 是合理的
+    * → The end **justifies** the means. 管他黑猫白猫, 抓到老鼠就是好猫
+      * means 方法, 手段
+  * **justification** n. [U & C] a good and acceptable reason for doing sth. 正当的理由
+    * **justification for (doing) sth.**
+      * → There is no **justification for** holding her in jail.
+      * → (NCE4-11 P65-L1)In the young there is a **justification for** this feeling.
+* **<u>on behalf of sb.</u>/ <u>on sb.'s behalf</u> / <u>in behalf of sb.</u> / <u>in sb.'s behalf</u>** 
+  * 1.代表，代替…….
+    * → Unfortunately, George cannot be with us today so l am pleased to accept this award **on his behalf.**
+  * 2.为了某人的利益
+    * → The legal guardian must act **on behalf of the child.** 法定的监护人必须为了孩子的利益而行事
+* → The action **he takes** varies <u>according to the nature of the complaint.</u>
+  * **take action**: do sth. in response to what has happened 采取行动
+    * → Immediate **action** must **be taken** to stop the fire spreading.
+    * → (NCE3-53 P240-L23) It was impossible for the Ombudsman to **take action**, ...
+  * **vary according to ...** 根据后者而有所不同
+    * → Prices **vary according to** the type of room you require.
+    * → (NCE4-7 P41-L8) Every solid object will reflect a sound, **varying according to** the size and nature of the object.
+* → He may gently reprimand an official <u>or</u> even suggest <u>to parliament</u> **that a law <u>be</u> altered.**
+  * 建议, 命令, 要求 后的从句必须使用 should do 型的虚拟语气
+  * **<u>reprimand</u> / <u>rebuke</u> sb. for sth.** 上下级之间因为某事而批评某人
+    * → I **was <u>reprimanded</u> / <u>rebuked</u>** by my manager **for** being late.
+    * → (NCE3-31 P146-L16) Recognizing who the customer was, the manager was most apologetic and **reprimanded** the assistant severely.
 
 **## text 3**
 
-* 
+* → A foreigner <u>living in a Swedish village</u> wrote to the Ombudsman **complaining that he had been illtreated by the police, <u>simply because he was a foreigner</u>.**
 
 ## L54 Instinct or cleverness?
 
