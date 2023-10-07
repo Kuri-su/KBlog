@@ -1269,7 +1269,46 @@
 
 **## text 1**
 
-* 
+* **Scandinavian** n. & adj. (native) of Scandinavia (i.e. Denmark, Norway, Sweden, Finland, Iceland) 斯堪的纳维亚半岛 (北欧)
+* **much常与过去分词构成的形容词连用，表示“广为…" "广受"....**
+  * → The money will buy **much** <u>needed</u> boaks for the school.
+  * → Education is a **much** <u>discussed</u> government service.
+  * much-used 广为使用的
+  * much-travelled 广受到访的
+    * → (NCE3-48 P220-L1) In this **much-travelled** world, there are still thousands of places which are inaccessible to tourists.
+  * much-respected 广受尊敬的
+  * much-discussed 广为讨论的
+  * much-acclaimed 倍受赞誉的
+    * acclaimed adj. 称赞的
+  * much-needed 广受需要的
+  * much-loved 广受喜爱的
+  * much-admired 广为倾佩的
+  * much-criticized 倍受批评的
+* 世界各地的表达
+  * **all over the world**
+  * **throughout the world** 
+  * **around the world**
+  * **in various parts of the world**
+    * → (NCE3-23 P114-L9) Cooked in wine, snails are a great luxury **in various parts of the world.**
+  * **the world over**
+* **enlightened** adj. 开明的
+  * → (NCE3-49 P224-114) Though my aunt pursued what was, in those days, an **enlightened policy**, in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please.
+* **Sweden** n. 瑞典
+  * **Swede** n. 瑞典人
+    * → (NCE3-53 P240-L6) The **Swedes** were the first to recognize that,
+  * **Swedish** adj.瑞典的，瑞典人的，瑞典语的；n.瑞典语 
+    * → (NCE3-53 P240-L9) the **Swedish** Parliament
+    * → (NCE3-53 P240-L20) a **Swedish** village
+  * **Switzerland** n. 瑞士
+    * **Swiss** n. 瑞士人（单复同型） ad.瑞土的，瑞士人的，瑞士方言的
+* **protect ... from ..**
+  * → The cover **protects** the machine **from** dust.
+* **high-handed** adj. using authority in an unreasonable way, without considering the opinions of other people 专横的, 颐指气使的, 高压的
+* **adopted** v. 领养, 采用
+* **work** v. to have a particular effect or result 有某种效果
+  * → The strategy seems to be **working**.
+  * → Criticizing your former employers **works against** you in the interview. 
+  * → (NCE4-28 P166-L16) Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife, but a medicine that had **worked so well** in one form of illness would surely be of equal benefit in another, and comforted by the thought of the help he was bringing to his friend, he hastened to Henry Taylor's house.
 
 **## text 2**
 
