@@ -1312,7 +1312,64 @@
 
 **## text 2**
 
-* 
+* → The Swedes were the first to recognize **that public officials <u>like civil servants. police officers, health inspectors or tax-collectors</u> can make mistakes or act over-zealously <u>*in the belief that they are serving the public*</u>.**
+  * **public official** n. 公职人员（以官方的身份行事的人）
+    * **civil servant** n. 政府文职人员
+  * **health inspector** n. someone who works for the government whose job is to visit restaurants and make sure that they are clean and obeying laws about preparing food 卫生检查员
+  * **in the belief that ...** = because sb. believe that ，因为某人相信。
+    * → She wrote to him **in the belief that** he would help her.
+    * **"in the + 表示感觉的名词" 在句中作原因状语** (书面语)
+      * **in the thought that ...** = because sb. think that
+      * **in the discovery that ...** = because sb. discover that
+      * **in the hope <u>of doing</u> / <u>that</u> ...** = because sb. hope <u>to do</u> / <u>that</u> ...
+      * → The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously **in the belief that (=because they believe that)** they are serving the public.
+      * → (NCE3-59 P264-L5) They leave unwanted objects'in drawers, cupboards and attics for years, **in the belief that (=because they believe that)** they may one day need just those very things.
+      * → (NCE4-11 P65-L2) Young men who have reasonto fear that they will be killed in battle may justifiably feel bitter **in the thought that (=because they think that)** they have been cheated of the best things that life has to offer.
+      * → (NCE3-58 P260-L3) In the lift her thoughts were on luinch and a good rest; but when she got out at her own floor, both were forgotten **in her sudden discovery that (=because she suddenly discovered that)** her front door was open.
+      * → (NCE3-56 P252-L27) The men of our family waded down through our flooded meadows with boathooks, **in the hope of being (=because they hope to be)** able to grapple a corner of the raft and pull it out of the current towards our bank.
+* **as long ago as ...** = **as early as ...** 早在..….就....
+  * **parliament** n. group of people who are elected to make a country's laws and discuss important national affairs 国会 ，议会 (英)
+  * **Parliament** n. the.main law-making institution in the UK, which consists of the **House of Commons** and the **House of Lords** 英国国会（包括下议院和上议院）
+  * **parliamentary** adj.议会的，国会的
+    * → (NCE3-53 P240-L9) a **parliamentary** committee
+  * **Congress** n. the group of people elected to make laws in the US, consisting of the **Senate** and the **House of Representatives** 美国国会 （包括参议院和众议院）
+    * Senate n. 参议院
+    * House of Representatives n. 众议院
+    * **congressional** adj. 美国国会的
+      * a **congressional** committee 一个美国国会的委员会
+* **introduce** v. 开始推行，开始采用
+  * → (NCE3-21 P106-L7) The use of gloves was not **introduced** until 1860 when the Marquis of Queensberry drew up the first set of rules.
+* **scheme** n. 1.计划，方案; 2.阴谋诡计
+  * → (NCE3-50 P228-L9) Most of us fail in our efforts at self-improvement because our **schemes** are too ambitious and we never have time to carry them out.
+  * **schemes and intrigues**
+* **safeguard** v. to protect sth. from harm or damage 保护，保卫
+  * → We hope that world leaders can agree on a plan to **safeguard** the environment.
+* → A parliamentary committee **representing all political parties** appoints a person **<u>who is suitably qualified to investigate private arievances against the State.</u>**
+  * **appoint** v. 任命
+    * **appoint** v. to choose someone for a position or a job 任命，委任
+    * → They have **appointed** a new manager.
+    * **appoint sb. (as) sth.**
+      * → They **appointed** him **(as)** captain of the English team.
+  * **grievance** n. a complaint or a strong feeling that you have been treated unfairly 委屈，不平，不满，牢骚
+    * → People know who to go to if they **have a grievance.**
+    * → There must be an opportunity for both sides to **air their grievances.**
+      * air v. 公开的表达
+* 把 A 称为 B
+  * **refer to A as B**
+  * **call A B**
+  * **address A as B**
+  * **know A as B**
+  * 常与副词 **commonly, usually, generally, frequently, often** 等连用
+    * → The official title of the person is Justiteombudsman'. but the Swedes **<u>commonly</u> refer to** him **as** the 'J.O.' or 'Ombudsman'.
+    * → (NCE3-51 P232-18) Though these large machines still exist, many of their functions have been taken over by small powerful personal computers, **<u>commonly</u> known as** PCs.
+    * → (NCE3-4 P26-L2) People who work in offices **are <u>frequently</u> referred to as** white collar workers' for the simple reason that they usually wear a collar and tie to go to work.
+* **be subject to sth.** likely to be affected by sth.,especially sth. bad 可能或易于受到.…的影响
+  * → Flights **are subject to** delay because of the fog.
+    * fog n. 雾
+  * → Smokers **are** more **subject to** heart attacks than non-smokers.
+* → He investigates complaints <u>large and small</u> **that come to him from all levels of society.**
+  * **两个含义相反的形容词连用时，常位于被修饰名词之后。**
+  * 
 
 **## text 3**
 
