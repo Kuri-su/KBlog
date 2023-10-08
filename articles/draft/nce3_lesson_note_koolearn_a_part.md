@@ -134,28 +134,28 @@
 **## text**
 
 * at large 习语搭配, 在逃的, 未被捕获的, 未被控制住的
-     * 习语搭配掌握的好不好, 是决定英语能力的一个非常重要的指标
-     * 习语的特征是不能按照字面特征去理解, 每个单词都认识, 放一起就不认识了.
-     * a prisoner / suspect at large , at large 短语通常当后置定语来用
-       * suspect v. 怀疑, 猜想, 读得时候重音在后
-         * n. 嫌疑犯, 读得时候重音在前
-     * → The disease is still **at large** . 疾病依然在肆虐.
-   * cat-like 
-     * *-like 像什么一样的, (构词法)
-     * bear-like animals 像熊一样的动物
-     * lady-like behavior 女人般的举止
-     * child-like simplicity 孩子般的率真
-     * an angel-like girl 天使般的女孩
-     * crystal-like eyes 水晶般的双眼
-     * flu-like symptoms 类似于流感的症状
-     * → Foxes and farmers have never got on wall. These small **dog-like** animals have long been accused of killing farm animals.
-     * → As is shown in the picture, there is a **cobweb-like** structure with separate compartments packed in it.
-     * → Pumas are large, cat-like animals (which are) found in America.
-       * 定语从句的关系代词做主语, 如果后面紧跟的 be 动词, 一般来说, 我们可以把做主语的关系代词 和 be 动词同时省略. 非谓语动词 做后置定语
+   * 习语搭配掌握的好不好, 是决定英语能力的一个非常重要的指标
+   * 习语的特征是不能按照字面特征去理解, 每个单词都认识, 放一起就不认识了.
+   * a prisoner / suspect at large , at large 短语通常当后置定语来用
+     * suspect v. 怀疑, 猜想, 读得时候重音在后
+       * n. 嫌疑犯, 读得时候重音在前
+   * → The disease is still **at large** . 疾病依然在肆虐.
 
+* cat-like 
+  * *-like 像什么一样的, (构词法)
+  * bear-like animals 像熊一样的动物
+  * lady-like behavior 女人般的举止
+  * child-like simplicity 孩子般的率真
+  * an angel-like girl 天使般的女孩
+  * crystal-like eyes 水晶般的双眼
+  * flu-like symptoms 类似于流感的症状
+  * → Foxes and farmers have never got on wall. These small **dog-like** animals have long been accused of killing farm animals.
+  * → As is shown in the picture, there is a **cobweb-like** structure with separate compartments packed in it.
+  * → Pumas are large, cat-like animals (which are) found in America.
+    * 定语从句的关系代词做主语, 如果后面紧跟的 be 动词, 一般来说, 我们可以把做主语的关系代词 和 be 动词同时省略. 非谓语动词 做后置定语
 * be found in... 动植物 生存于某地, 某个物质存在于某地, 产于某地
-     * → Many plant and animal species **are found** only **in** the rainforests.
-     * → Vitamin C **is found in** citrus fruit.
+   * → Many plant and animal species **are found** only **in** the rainforests.
+   * → Vitamin C **is found in** citrus fruit.
    * 仿写: 大熊猫 (giant panda) 时一种大型的, 类似于熊的动物, 产于 中国四川省.
      * Giant pandas are large, bear-like animal which are found in Sichuan privince, China.
    * came into

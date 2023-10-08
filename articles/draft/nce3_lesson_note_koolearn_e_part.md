@@ -1438,6 +1438,13 @@
 **## text 3**
 
 * → A foreigner <u>living in a Swedish village</u> wrote to the Ombudsman **complaining that he had been illtreated by the police, <u>simply because he was a foreigner</u>.**
+  * **write to sb. = write a letter to sb.**
+  * **ill-treat** v. to treat sb. in a cruel or unkind way, <u>abuse</u> 虐待
+    * abuse v. 辱骂, 虐待, 滥用
+    * **ill-treat** one's dog
+    * **ill-treated** animals
+    * **ill** adv. badly
+      * **ill**-bred 没有收到良好教养的
 
 ## L54 Instinct or cleverness?
 
