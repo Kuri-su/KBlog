@@ -1445,8 +1445,93 @@
     * **ill-treated** animals
     * **ill** adv. badly
       * **ill**-bred 没有收到良好教养的
+      * **ill**-advised 不明智的
+        * advise v. 劝告, 建议
+      * **ill**-mannered 没有礼貌的
+        * manner n. 方法; 礼貌, 规矩, 态度
+    * will adv. 很好地
+      * **well**-bred 有良好教养的
+      * **well**-advised 做事明智的
+      * **well**-informed 消息灵通的
+      * **well**-intentioned 目的善良的
+  * 只不过是因为
+    * **<u>simply</u> because ... = for the simple reason that ...**
+      * → (NCE3-4 P26-12) People who work in offices are frequently referred to as 'white collar workers' **for the simple reason that** they usually wear a collar and tie to go to work.
+      * → (NCE3-46 P212-L27) I was not surprised to find that the machine still refused to work after I had reassembled it, **for the simple reason that** I was left with several curiously shaped bits of metal which did not seem to fit anywhere.
+    * bacause 的连用短语
+      * **<u>simply</u> because ..**只不过因为..
+      * **<u>partly</u> because....** 部分是因为....
+      * **<u>mainly</u> because ….**主要是因为....
+        * → Many exam candidates lose marks **simply because** they do not read the questions properly.
+          * candidate n. 候选人
+        * → I decided to go with them, **mainly because** I had nothing better to do.
+        * → Hubert never experienced any fear, and this was **partly because** he was not particularly intelligent.
+* → The Ombudsman immediately wrote to the Chief of Police <u>in the district</u> **asking him to send a record of the case.**
+  * 名前动后: 名词重音在前, 动词重音在后
+  * **Chief of Police** n. the most senior ppolice officer in a city who is in charge of all the police there 警察局长
+* → There was nothing <u>in the record</u> <u>to show **that the foreioner's complaint was justified**</u> <u>and</u> the Chief of Police strongly denied the accusation.
+  * justified adj. 合情合理的
+  * accusation n. 指责, 指控
+    * accuse v. 指责, 指控
+  * **deny <u>an accusation</u> / <u>a charge</u>** 否认指控/指责
+  * **accuse sb. of sth.** 因为某事指责某人, 因为某事指控某人
+  * **charge sb. with sth.**  因为某事指责某人, 因为某事指控某人
+* → <u>It</u> was impossible for the Ombudsman <u>to take action</u>, <u>but</u> **when he received a similar complaint from another foreigner in the same village,** he immediately sent one of his lawyers <u>to investigate the matter.</u>
+  * for 可以引出 动词不定式的逻辑主语
+* deal dealt dealt
+  * **deal** <u>well</u> / <u>badly</u> etc. **<u>by</u> / <u>with</u> sb.** (fml.) treat sb. well, badly etc. 对某人好、坏等
+    * → He has always **dealt** <u>well</u> **by** me.
+    * → You've **been** <u>badly</u> **dealt with.**
+    * → The police **dealt** <u>roughly</u> **with** the rioters.
+      * rioter n. 暴动者, 暴民
+    * → He **deals** <u>fairly</u> **with** all people.
+    * → I consider he has **been dealt with** <u>leniently</u>.
+      * leniently adv. 仁慈地
+* → The fact **that the policeman was prejudiced against foreigners** could not be recorded in the official files.
+  * the fact that ... 固定句型
+* → <u>It</u> was only possible for the Ombudsman <u>to find this out **by sending one of his representatives to check the facts**.</u>
+  * representative n. 代表, 代理人 adj. 代表的
+* → The policeman <u>in question</u> was severely reprimanded <u>and</u> was informed **that <u>if any further complaints were lodged against him</u>, he would be prosecuted.**
+  * **prosecute** v. 起诉, 控告某人
+    * **prosecute** vt.检举，起诉，对.... 提起公诉
+      * → Trespassers will be **prosecuted**.
+        * trespasser n. 非法侵入者
+          * trespase v. 擅自闯入, 非法进入
+      * → Shoplifters will be **prosecuted**.
+        * 专门在商店里偷东西的贼
+  * **in question**: being discussed 正在被讨论的，提到的，谈到的
+    * → The woman **in question** is sitting over there. 我们刚刚谈到的那个女人就坐在那呢
+    * → The job **in question** is available for three months only.
+  * **lodge a complaint** <u>against sb.</u> 针对某人提起投诉
+* → The Ombudsman's prompt action at once <u>put an end to</u> an unpleasant practice **which <u>might have gone</u> unnoticed.**
+  * **<u>put</u> / <u>bring</u> an end to sth.**: stop sth. from happening any more; abolish sth.终止 ，废止.
+    * abolish v. 终止 ... , 废止...
+    * → The government is determined to **put an end to** terrorism.
+    * → It's hoped the talks may **bring an end to** the violence. 
+      * 我们希望这个谈判可以终止暴力行为
+  * practice n. 习惯性的做法
+  * **<u>go</u> / <u>pass</u> unnoticed** 不为人知的过去了
+    * → (NCE3-45 P208-L13) If they had only had one more child, the fact would have **passed unnoticed.**
+  * 用了与过去事实相反的虚拟, 不过省略了 if, 原文如下
+    * → The Ombudsman's prompt action at once put an end to an unpleasant practice which **<u>might have gone</u>** unnoticed if there **<u>had not been</u>** the Ombudsman's prompt action.
 
 ## L54 Instinct or cleverness?
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
 
 ## L55 From the earth：Greetings
 ## L56 Our neighbour，the river
