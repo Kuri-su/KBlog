@@ -1519,7 +1519,9 @@
 
 **## words**
 
-* 
+* wage /weɪdʒ/ v. 发动（战争/战役/运动 等）
+  * wage n. 工资
+  * **wage <u>war</u> / <u>a campaign</u> / <u>a struggle</u> / <u>a battle on</u> / <u>against</u> .**
 
 **## text 1**
 
