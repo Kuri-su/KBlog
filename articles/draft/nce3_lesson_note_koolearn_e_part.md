@@ -1519,13 +1519,157 @@
 
 **## words**
 
-* wage /weɪdʒ/ v. 发动（战争/战役/运动 等）
+* **wage** /weɪdʒ/ v. 发动（战争/战役/运动 等）
   * wage n. 工资
-  * **wage <u>war</u> / <u>a campaign</u> / <u>a struggle</u> / <u>a battle on</u> / <u>against</u> .**
+  * **wage <u>war</u> / <u>a campaign</u> / <u>a struggle</u> / <u>a battle</u> <u>on</u>/<u>against</u> .**  发动一场战争/发动一场战役,运动/发动一场斗争/ 发动一场战斗与 sb. 
+    * → The US **waged war on** Irag without UN authorization.
+    * → The government determined to **wage a campaign against** official corruption. 政府发动了一场反腐倡廉运动
+  * **declare war on ...** 对某国宣战
+  * **be at war with ..** 与某国处于战争状态
+    * → (NCE3-14 P66-L11) Whenever the Italian city-states **were at war with** each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.
+* * **at the slightest provocation** 稍一激惹就做某事
+    * → He'd fly into a rage **at the slightest provocation.**
+      * fly into a rage 发脾气
+  * **without provocation** 无缘无故(没人招惹)
+    * → The soldiers fired **without provocation.**
+    * → (NCE3-54 P244-L4) They sting and bite **without provocation.**
+  * 字根 **"voc” ="voke”** 喊叫
+    * **provoke** v. 挑衅, 激怒
+      * pro 在前面
+    * **provocative** adj. 挑衅性的
+    * **evoke** v. 唤起某种情绪, 激起人的某种情绪
+      * e/ex 向外
+    * **evocation** n. 情绪的激起
+    * **revoke** v. 废止, 取消
+      * re back; again
+    * **revocation** n. 废止
+      * → Her license was **revoked**.
+* **revulsion** /rɪˈvʌlʃn/ n. 厌恶
+  * **revulsion** = **disgust** n. [U] a strong feeling of shock and very strong dislike 厌恶
+  * → She looked at him **with revulsion.** 她厌恶的看着他
+  * → He expressed his **revulsion <u>at</u> / <u>against</u> / <u>towards</u>** the whale hunting. 他表达了对于捕鲸这种行为的厌恶
+  * **revolt** v. to make someone feel unpleasantly shocked or disgusted 令人厌恶
+    * **be revolted by ...**
+      * → We **were revolted by** the dirt and mess in her house.
+  * **revolting** adj. extremely unpleasant 令人庆恶的
+    * Picking your nose is a **revolting** habit. 挖鼻孔是一个令人厌恶的习惯
+    * v. 令人厌恶 > adj. 令人厌恶的
+      * revolt > revolting
+      * repel > repellent 
+      * repulse > repulsive 
+      * disgust > disgusting
+        * → I **was repelled by** the smell.
+        * → The tourists **were repulsed by** the filthy conditions.
+        * → He claimed to **be disgusted by** the amount of violence in the film.
+* **luscious** /ˈlʌʃəs/ adj. 美味的，甘美多汁的
+  * **luscious** adj. having a pleasant sweet taste or containing a lot of juice 美味的，甘美多汁的
+    * the **luscious** taste of ripe peaches 成熟的桃子甘美多汁的美味
+      * ripe adj. 成熟的
+  * **delicious** adj. 美味的
+  * **appetizing** adj. 美味的
+  * **heavenly** adj. 美味的 ( 仿佛天堂上才有)
+    * 名词 + ly 一般是 adj. , 而不是 adv.
+  * **tasteful** adj. 美味的
+  * **tasty** adj. 美味的; 有吸引力的
+  * **yummy** adj. 美味的(儿童会用这个词)
+    * yucky adj. 难吃的(儿童用词)
+  * **delicacy** n. 好吃的菜
+    * delicious 派生
+    * → (NCE3-23 P114-L2) If you lived in the Mediterranean, for instance, you would consider octopus a great **delicacy**.
+* **ingenuity** /ˌɪndʒəˈnuːəti/ n. 机灵，善于发明创造
+  * **ingenuity** n. [U] the ability to invent things or solve problems in clever new ways 机灵， 心灵手巧，善于发明创造
+  * **ingenious** adj. having a lot of clever new ideas and good at inventing things 机灵的，心灵手巧的，善于发明创造的
+    * → She's very **ingenious** when it comes to finding excuses. 当找借口的时候, 她真是心灵手巧
+    * → Johnny is so **ingenious** — he can make the most remarkable sculptures from the most ordinary materials.
+  *  字根 **“gen”**=创造;生育
+    * **gene** n. 基因
+    * **gender** n. 性别
+    * **general** n.  普遍的
+    * **generate** v. 产生
+    * **generation** n. 产生; 一代人
+    * **genesis** n. 创世纪
+    * **genius** n. 天才
+    * **genuine** adj. 真诚的, 由衷的
+    * **pregnant** adj. 怀孕的, 怀胎的
 
 **## text 1**
 
-* 
+* **bring sb. $\Leftrightarrow$ up** 拉扯大
+  * **have been brought up to do** 从小就⋯
+    * → (NCE3-23 P114-L7) The sad truth is that most of us **have been brought up to** eat certain foods and we stick to them all our lives.
+    * → I **have been brought up to** believe that it is proper to make contributions to charity.
+    * → And perhaps all those successful college graduates would have been successful whether they had gone to college or not. This is heresy to those of us who **have been brought up to** believe that if a little schooling is good, more has to be much better.
+* **do more harm than good** 弊大于利
+  * **harm** n. 损害
+  * → Raising speed limits may **do more harm than good.**
+  * **do ... harm / do harm to ...** 对...有害
+    * → The occasional piece of candy doesn't **do** you **any harm.**
+      * sweets (英) / candy (美)
+    * → Exhaust fumes has **done considerable harm to** the environment.
+      * exhaust fumes 尾气
+        * fume n. an amount of gas or vapour that smells strongly or is dangerous to inhale: clouds of exhaust
+        * exhaust n. 排出的气 v. 用完, 耗尽
+  * **do sb. good** 对.. 有好处
+    * → I think a trip to the beach would **do** us all **a lot of good.**
+  * **in more ways than one** 有不只一方面的含义
+    * → (NCE3-19 P86-L 17) Considering the amount she paid, he was dear **in more ways than one!**
+* continue 的同根副词
+  * **continually** adv. 老是, 总是, 间歇但持续的
+    * → (NCE2-38 P174-L4) Almost immediately he began to complain about the weather, for even though it was still summer, it rained **continually** and it was often bitterly cold.
+  * **continuously** adv. 持续的, 不停歇的
+    * → (NCE3-18 P82-L14) These lights flickered **continuously** like traffic lights which have gone mad.
+  * **be <u>continually</u> / <u>always</u> doing** 老是做某事
+* **contaminate** v. to make sth. dirty, polluted, or poisonous by adding a chemical, waste, or infection 污染....., 玷污
+  * → Flies **contaminate** food 苍蝇会把食物弄脏
+    * fly n. 苍蝇
+  * → Industrial sewage continues to **contaminate** our beaches. 工业废物继续在玷污/污染 美丽的海滩
+* **carry** v. if a person, animal, or insect carries a disease, they can pass it to other people or animals even if they are not illthemselves 携带病菌，传播疾病
+  * → Many serious diseases **are carried by** insects.
+  * **carrier** 带菌者，病媒
+  * an AIDS **carrier**
+  * **transmit** v. 传播
+    * mit 表示 send
+    * **contagious** adj. 传染的
+    * **infectious** adj. 传染的
+    * **catching** adj. 传染的 (通常做状语, 不做定语)
+  * **catch ...** 染上了, 被传染了
+    * → He **caught** a cold.
+* **devour** v. 狼吞虎咽的吃
+  * → (NCE3-33 P154-L21) Only two stray dogs benefited from all this confusion, for they greedily **devoured** what was left of the cake.
+  * →  (NCE4-2 P11-L2) Insects would make it impossible for us to live in the world; they would **devour** all our crops and kill our flocks and herds, if it were not for the protection we get from insecteating animals.
+* → They sting or bite **without provocation**; they fly **<u>uninvited</u>** into our rooms **on summer nights**, or beat against our lighted windows.
+  * 分号可以代替连词的功能, 
+  * sting v. 蚊虫钉
+  * bite v. 咬
+  * provocation n. 招惹
+  * **uninvited**  adj. 未被邀请的
+    * an **uninvited** <u>guest</u> / <u>visitor</u> 不速之客, 不请自来的客人
+    * → A few people **show**ed **up / turn**ed **up** <u>uninvited</u> at the party.
+  * 如果 morning/noon/night 前面有修饰语通通用介词 on
+  * beat v. 打, 撞
+  * heart beat 心跳
+  * **lighted** adj. 1.a lighted window, room etc. is bright because there is a light on inside 亮着灯的
+    * a **lighted** <u>window</u> / <u>room</u>
+    * **lighted** adj. 2. a lighted candle, match etc. is burning at one end 点着的
+      * a **lighted** <u>candle</u> / <u>match</u>
+* → We live in dread **<u>not only</u>** of unpleasant insects <u>like spiders or wasps</u>, **<u>but</u>** of quite harmless ones **<u>like moths.</u>**
+  * **dread** v. 害怕
+    * **dread <u>sth.</u> / <u>doing</u>** 害怕做某事
+      * → (NCE3-29 P138-L14) He **dreaded having** to spend Christmas in hospital.
+    * **dreadful** adj. 可怕的，糟糕的
+      * → (NCE3-11 P154-416) All the things I had packed so carefully were soon in a **dreadful** mess.
+    * **live in dread of ..** 一直害怕....
+      * → I **live in dread of** losing her love.
+      * **stand in awe of ..** 对...充满敬畏
+        * → You can't help **standing in awe of** powerful people.
+          * can't help 不禁, 忍不住 (无法避免)
+        * → (NCE3-54 P244-l15) Who has not**stood in awe** at the sight of a spider pouncing on a fly, or a column of ants triumphantly bearing home an enormous dead beetle?
+  * **not only ... but else ....** 搭配
+    * → (NCE3-45 P208-L20) Gifts poured in **<u>not only</u>** trom unknown people, <u>**but**</u> from baby food and soap manufacturers who wished to advertise their products.
+    * → (NCE3-46 P212-L8) Shops cater for the do-it-yourself craze **<u>not only</u>** by running special advisory services for novices, **<u>but</u>** by offering consumers bits and pieces which they can assemble at home.
+    * → (NCE3-59 P264-L23) This hobby educates one **<u>not only</u>** in the chosen subject, **<u>but also</u>** in general matters which have some bearing on it.
+  * **dispel** v. 驱散，打消
+    * 
 
 **## text 2**
 
