@@ -1669,7 +1669,11 @@
     * → (NCE3-46 P212-L8) Shops cater for the do-it-yourself craze **<u>not only</u>** by running special advisory services for novices, **<u>but</u>** by offering consumers bits and pieces which they can assemble at home.
     * → (NCE3-59 P264-L23) This hobby educates one **<u>not only</u>** in the chosen subject, **<u>but also</u>** in general matters which have some bearing on it.
   * **dispel** v. 驱散，打消
-    * 
+    * pel = push
+    * dis 表示向一面八方
+    * **dispel** <u>doubts</u> / <u>fears</u> / <u>worries</u> / <u>rumors</u> / <u>hesitations</u> .
+      * → (NCE3-52 P236-L8) This brief experiment would **dispel** <u>any further doubts</u> you might have.
+        * further 进一步
 
 **## text 2**
 
