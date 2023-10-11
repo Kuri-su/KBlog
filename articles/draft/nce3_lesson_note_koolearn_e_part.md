@@ -1677,14 +1677,104 @@
 
 **## text 2**
 
-* 
+* → Knowing **that the industrious ant lives in a highly organized society** does nothing to <u>prevent</u> us <u>from being filled with revulsion</u> **when we find hordes of them <u>crawling over a carefully prepared picnic lunch</u>.**
+  * horde 一伙 (略带贬义)
+  * crawl v. 爬, 缓慢的移动
+  * 单数名词前面加 the 可以表示类指
+    * the industrious ant 那些勤劳的蚂蚁
+  * **industrious**: diligent adj. 勤劳的
+    * industry n. 工业
+    * → (NCE3-49 P224-L19) Aunt Harriet could not find words to praise Bessie's **industriousness** and efficiency.
+    * **industrial** adj. 工业的，产业的
+      * **industrial** revolution
+      * **industrial** workers 
+  * **do nothing to do sth. / not do anything to do sth. (语气更强)** 在某方面根本没用
+  * 造句：这些预防措施在阻止这种疾病蔓延方面没有任何作用。
+    * → (NCE3-42 P196-L10) **Precautions** of this sort are necessary, ... 
+    * **prevent ... from ...** 阻止某物做某事
+    * → The precautions did nothing / did not do anything to prevent the disease from spreading.
+  * **do little to do sth.** 在某方面没多大作用
+  * **do <u>much</u> / <u>a lot</u> / <u>a great deal</u> to do sth.** 在某方面有很大作用
+    * → (NCE3-21 P106-L8) Though he was technically a prizefighter, Mendoza **did much to** change crude prizefighting into a sport, for he brought science to the game.
+  * **be filled with ..** 容器里装满了东西; 充满了某种情绪 
+    * **be filled with** anger / fear / dread / horror / joy / happiness / doubt / alarm / revulsion / admiration / remorse ... 充满了.. 情绪
+      * alarm 惊恐 (又惊又恐)
+      * → (NCE3-48 P220-L23) All at once, Inoticed that my wife seemed to **be filled with** <u>alarm</u>.
+* → **No matter how much we like honey, <u>or</u> how much we have read about the uncanny sense of direction <u>which bees possess</u>**, we have a horror of being stung. 
+  * sting v. 叮, 咬
+  * **sense of** direction / humor / danger / jiustice / pride / accomplishment / honor / responsibility / superiority / inferiority .... 方向感/ 幽默感 / 危险的感觉 / 正义感/ 自豪感 / 成就感 / 荣誉感 / 责任感/ 优越感/ 自卑感, 劣等感 ....
+    * direction n. 方向
+    * → (NCE3-29 P138-L2) The **sense of** <u>humor</u> is mysteriously bound up with national characteristics.
+    * → (NCE3-39 P178-L6) He simply had no **sense of** <u>danger</u> at all.
+  * **have a horror of ... = be <u>afraid</u> / <u>frightened</u> / <u>scared</u> of ...** 害怕某物
+    * → She **has a horror of** cockroaches.
+    * → She **is <u>afraid</u> / <u>frightened</u> / <u>scared</u> of** cackroaches.
+* Unreasonable adj. 非理智的
+* erase v. 擦掉, 抹去
+  * eraser n. 擦除器(橡皮擦)
+* 形容词后面用动词不定式一定用主动
+* 造句：我害怕开车是没有道理的，但这种感觉无法消除。
+  * → My fear of driving is unreasonable, but it is impossible to erase.
+* **fascinating** adj. 迷人的
+  * **fascinate** vt. 迷住.…
+    * → (NCE3-9 P46-L1) Cats **never fail to <u>fascinate</u>** human beings.
+  * **fascination** n. 魅力，吸引力
+    * → (NCE3-34 P158-L1) Antique shops **exert a peculiar <u>fascination</u> on** a great many people.
+  * →  At the same time, however, insects **never fail to fascinate** us.
+  * → At the same time, however, insects **exert a peculiar fascination on** us. 
+* → We enjay reading about them, especially **when we find t<u>hat, like the praying mantis, they lead perfectly horrible lives</u>.**
+  * mantis n. 螳螂
+  * perfectly adv. 完美地
+    * **perfectly** adv. completely — used to emiphasize what you are saying （用于加强语气） 完全，非常，极其
+      * → It's **perfectly** normal to feel like this.
+      * → To be **perfectly** honest, I didn't want to go anyway.
+* → We enjoy staring at them, **entranced as they go about their business, <u>unaware (we hope) of our presence.</u>**
+  * **entrance** vt.令人着迷，陶醉
+    * → I'm completely **entranced <u>by</u> / <u>with</u>** the music.
+    * → The children sat silent on the carpet, **entranced** by the puppet show.
+      * puppet n. 木偶, 傀儡
+  * **go about one's business** 做自己的事
+    * → The villagers were **going about their business** as usual.
+    * → go about sth. 着手做某事
+      * → I want to learn German but I don't know the best way to **go about it.**
+  * **be (un )aware of ..**
+    * → (NCE3-30 P142-L21) He used to sleep during the day and work at night, **quite unaware of** the fact that he had become the ghost of Endley.
+  * **pre<u>sence</u>** n. 出席, 在场
+    * **in the presence of sb.**
+    * **in sb.'s presence**
+    * → Harry is very thrifty, but **in the presence of** his friends he never shows this side of his life.
+    * 造句：我在场时请别抽烟。
+      * → Please don't smoke **in my presence.**
+    * **ab<u>sence</u>** n. 不在场，缺席
+      * **in the absence of sb.**
+      * **in sb.'s absence**
+        * → **in my absence** he will be in charge.
+      * 造句：在老师不在的时候，学生们都在忙自己的事。
+        * → **In the absence of** their teacher, the students were all **going about their business.**
+* → Who has not stood in awe at the sight of **a spider <u>pouncing on a fly</u>, or a column of ants <u>triumphantly bearing home an enormous dead beetle</u>**?
+  * beetle n. 甲虫
+  * **stand in awe (of ...)** （对.. ）充满敬畏
+  * **pounce on ..** 猛扑向...
+    * → (NCE3-11 P54-415) He had spotted a tiny bottle at the bottom of my case and he **pounced on** it with delight.
+  * **column** n. a long moving line of people or things（人或事物的） 队伍; 柱子; 专栏
+    * **a column of** soldiers / refugees / tanks
+  * bear v. 背着
+  * **triumph** n. 胜利，成功（的喜悦）；v. 获得成功，取胜
+    * → (NCE3-37 P170-L20) There was a note of **triumph** in my voice when | told him that it was there in black and white.
+    * **Arch of Triumph**
+  * 修辞疑问句, 答在问中, 通常在文章或者段落的末尾
+    * **rhetorical question 修辞疑问句**
+    * → (NCE3-27 P130-L19) We often speak of tramps with contempt and put them in the same class as beggars, but **how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?**
+    * → O, wind, if winter comes, can spring be far behind? — P. B. Shelley "西风颂"
+    * → Who among us has not dreamed of that?
+    * → What is the use of our studying grammar if we can't put the grammatical rules into practice?
 
 **## text 3**
 
 * 
 
 ## L55 From the earth：Greetings
-## L56 Our neighbour，the river
+## L56 Our neighbour, the river
 ## L57 Back in the old coun
 ## L58 A spot of bother
 ## L59 Collecting
