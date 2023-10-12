@@ -1771,7 +1771,74 @@
 
 **## text 3**
 
-* 
+* spent sometime doing sth.
+* watch sb. doing sth.
+* **prize: valued; treasured; cherished** 珍爱, 喜爱, 心爱的
+  * → (NCE3-16 P74-L2) One of Mary's **prize** possessions was a little white lamb which her husband had given her.
+  * → (NCE3-23 P114-L13) The idea never appealed to me very much, but one day, after heavy shower, 1 happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my **prize** plants.
+
+* **sheltered** adj. 可避风雨的
+  * → We found **a sheltered spot** to have a picnic.
+    * picnic n. 野餐
+    * spot n. 地点
+
+* **survive** vt. 经历 ... 而幸存
+  * → (NCE3-9 P46-L7) A cat's ability to **survive** falls is based on fact.
+
+* **severe** adj. 严重的，严酷的，严厉的
+  * a **severe** injury
+  * a **severe** winter
+  * → (NCE3-31 P146-L16) Recognizing who the customer was, the manager was most apologetic and reprimanded the assistant **severely**.
+
+* **produce** v. 1. make, create 制造
+  * → (NCE3-47 P216-L2) When you come to think about it, there are only four ways you can deal with rubbish: dump it, burn it, turn it iinto something you can use again, attempt to **produce** less of it.
+  * **produce** V. 2. to grow sth. or make it naturally 出产（农场品），产（仔）
+    * → The tree **produces** fruit. 这种树 产 水果
+    * → A cow **produces** milk. 牛产奶
+    * → A hen **produces** eggs. 母鸡下单
+
+  * **produce** v. 3. if you produce an object, you bring it out or present it, so that people can see or consider it 出示，拿出
+    * **Produce** your ticket! 请出示你的票
+    * → (NCE2-78 P362-L7) They made no effort to hide their amusement whenever I **produced** a packet of sweets from my pocket.
+    * → (NCE3-52 P236-L23) She **produced** all sorts of weird concoctions, but none of them met with Harry's requirements.
+
+* **wither** v. 枯萎, 干枯, 消亡
+* **cluster** n. a group of things of the same kind that are very close together （密密匝匝的） 一筷，一团
+  * a **cluster** of red berries 一簇红色的浆果
+
+* **be to be <u>found</u> / <u>heard</u> / <u>seen</u>** 能够被<u>找到</u>/ <u>看到</u>/ <u>听到</u>
+  * → Such books **are to be found** in the library.
+  * → Not a sound **was to be heard.**
+  * → Not a soul **was to be seen.**
+  * be to do (fml.）的四种用法 (L40)
+    * 1.打算
+    * 2.命令
+    * 3.能够
+    * 4.应该
+
+* **colony** n. a group of animals or plants of the same type that are living or growing together （住在一起的）一群动物或植物
+  * a **colony** of ants
+  * a seal **colony**
+
+* → They were visited by a large colony of ants **<u>because the ants</u> obtained a sort of honey from them.**
+  * 这里的 because the ants 如果直接换成 which 就更加简洁了
+    * → (NCE4-1 P5-L1) We can read of things that happened 5,000 years ago in the Near East, **<u>where</u> people first learned to write.**
+      * → We can read of things that happened 5,000 years ago in the Near East, **<u>because</u> people first learned to write <u>there</u>.** (稍显罗嗦)
+
+    * → Don't sit on the chair **<u>because</u> <u>it</u> has a broken leg.**
+      * → Don't sit on the chair **<u>which</u> has a broken leg.**
+
+    * → I have to be very careful not to offend the manager **<u>because</u> <u>he</u> could give me the sack at any time.**
+      * → I have to be very careful not to offend the manager **<u>who</u> could give me the sack at any time.**
+
+  * **a sort of = a kind of ...** 有些像…的；……般的
+    * → (NCE3-12 P58-L2) We sometimes imagine a desert island to be **<u>a sort of</u> paradise** where the sun always shines. 天堂般的
+    * → (NCE3-14 P66-L14) In spite of this, the Htalians regarded him as **<u>a sort of</u> hero.** 英雄般的
+    * → (NCE4-22 P127-L6 Libraries made education possible, and education in its turn added to libraries: the growth of knowledge followed **<u>a kind of</u> compound interest law**, which was greatly enhanced by the invention of printing.
+
+* → l immediately embarked on an experiment **which, <u>even though it failed to get rid of the ants,</u> kept me fascinated for twentyfour hours.**
+  * 
+
 
 ## L55 From the earth：Greetings
 ## L56 Our neighbour, the river
