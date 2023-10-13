@@ -1515,7 +1515,7 @@
   * 用了与过去事实相反的虚拟, 不过省略了 if, 原文如下
     * → The Ombudsman's prompt action at once put an end to an unpleasant practice which **<u>might have gone</u>** unnoticed if there **<u>had not been</u>** the Ombudsman's prompt action.
 
-## L54 Instinct or cleverness?
+## L54 Instinct or cleverness? ⭐️
 
 **## words**
 
@@ -1859,10 +1859,127 @@
       * **in** despair 
       * **in** a panic ...
 
+* → I even went out at midnight with a torch <u>and</u> noted <u>with satistaction (and surprise)</u> **that the ants were still swarming around the sticky tape <u>without being able to do anything about it.</u>**
+  * tape n. 带子, 狭布条
+  * **with satisfaction** = **satisfiedly** adj. 满意地
+    * with + n. = adv. 
+    * → (NCE3-37 P170-L9) After consulting my railway timetable, I noted **with satisfaction** that there was an express train to Westhaven.
+    * **with ease** = **easily** 简单地
+      * → (NCE3-27 P130-L16) His few material possessions make it possible for him to move from place to place **with ease**
 
-## L55 From the earth：Greetings
+    * **with delight = delightedly** 高兴地
+      * → (NCE3-11 P54-L15) He had spotted a tiny bottle at the bottom of my case and he pounced on it **with delight.**
+
+    * **with a smile = smilingly** 微笑着
+      * → (NCE3-11 P54-L18)'But it isn't perfume,'1 said. It's hair gel Then i added **with a smile**, 'it's a strange mixture I make myself
+
+    * **with pride = proudly** 自豪地
+    * **with attention = attentively** 专心地
+    * **with confidence = confidently** 自信地
+    * **with reluctance = reluctantly** 勉强地
+
+  * **swarm** v. When insects swarm, they come together in a large group 昆虫聚集
+  * **do something about ...** to do something in order to deal with a problem or difficult situation 解决，处理（问题或困难）
+    * → (NCE3-46 P212-L29) When my wife nagged me to **do something about** it, I told her that either I would have to buy a new mower or let the grass qrow.
+    * → **there is nothing ... can do about ...** 对某问题某人无能为力
+      * → (NCE3-2 P18-L15)'That's the trouble, vicar,' answered Bill. "t's working all right, but I'm afraid that at one o'clock it will strike thirteen times and **there's nothing I can do about it.**'
+
+* → I got up early next morning **hoping to find <u>that the ants had given up in despair.</u>**
+* **Instead of ...., however, ....** 本该… …，结果却....
+  * → (NCE3-24 P118-L13) **lnstead of** becoming a doctor, however, he became a successful writer of detective stories.
+  * **instead(,) …**结果却.....
+    * → (NCE3-15 P70-L10) I gave him fifty pence yesterday and advised him to save it. **Instead** he bought himself fifty pence worth of trouble.
+
+* **on to ...  = onto ...**  到.. 上面去
+* **be quick to do**: to react quickly to what someone says or does 很快就
+  * → He **was quick to notice** the mistake.
+  * → (NCE3-21 P106-L12) He offered to train Mendoza and his young pupil **was quick to learn.** 
+
+* **an answer <u>to</u> sth**: a solution to sth.
+  * → There is no easy **answer <u>to</u>** the problem.
+
+
+## L55 From the earth: Greetings
+
+**## words**
+
+* **astronomy** /əˈstrɑːnəmi/ n.天文学
+  * **"astr" / “aster" = star**
+    * **astr**onomy n. 天文学
+      * -nom- 通常表示规律
+    * **astr**onomical adj. 天文学的; 天文数字的
+    * **astr**ology n. 占星术
+      * -(o)logy  通常表示研究
+    * **astr**onautics n. 航空学
+      * -nau- 通常表示船舶
+    * **astr**onaut n. 宇航员
+    * dis**aster** n. 灾星, 灾难
+    * **aster**isk n. 星号
+    * **aster**oid n. 小行星
+  * **"stell” = star**
+    * **stell**ar adj. 星星的
+      * **stellar** light 星光
+      * **stellar** system 星系
+    * inter**stell**ar adj. 星际的
+      * inter- 可以表示 between
+      * **interstellar** travel
+  * con**stell**ation n. 星座; 一群了不起的人物
+    * a **constellation** of famous scientists and artists
+* **solar** /ˈsoʊlər/ adj.太阳的
+  * **solar** energy 太阳能
+  * **solar** system 太阳系
+  * **solar** radiation 太阳辐射
+  * **solar** calendar 阳历 
+  * a <u>partial</u> / <u>total</u> **solar** eclipse
+    * eclipse 日食/月食
+  * **lunar** adj. 月亮的
+    * **lunar** calendar 阴历 (根据月亮的圆缺制定的律法)
+    * a <u>partial</u> / <u>total</u> **lunar** eclipse
+* **Venus** /ˈvinəs/ n. 金星 (来自罗马神话)
+  * **Mercury** (水星，商贸之神墨丘利）
+  * **Venus**（金星，美神维纳斯, 朱庇特的女儿）
+  * **Mars**（火星，战神马尔斯, 朱庇特的儿子）
+  * **Jupiter**（木星，众神之王朱庇特）
+  * **Satum**（士星，农神萨图恩）
+  * **Uranus** (天王星，天空之神乌拉诺斯）
+  * **Neptune** (海王星，海神尼普顿）
+  * **Pluto** (冥王星，冥王普路托）
+* **bacteria** /bækˈtɪriə/ n. 细菌 (习惯用复数)
+  * bacteri**um** (单数) > bacteri**a** (复数)
+  * dat**um** (单数) > dat**a** (复数)
+  * medi**um** (单数) >  medi**a** (复数)
+  * strat**um** (单数) >  strat**a** (复数) 岩层; 社会阶层
+  * curricul**um**  (单数) >  curricul**a** (复数)  课程
+* **realm** /relm/ n. 王国;范围,领域
+  * the **realm** of <u>literature</u> / <u>science</u> 文学领域/ 科学领域
+  * the <u>political</u> / <u>military</u> **realm** 政治领域, 政治界/ 军事领域, 军界
+  * the **realm** of necessity 必然王国 (哲学概念) (马克思主义哲学)
+  * the **realm** of freedom 自由王国 (哲学概念) (马克思主义哲学)
+    * → The history of mankind is one of continuous development from **the realm of necessity** to **the realm of freedom.**
+  * **domain** n. 领域, 范畴; 贵族领土
+    * the political **domain**
+    * the **domain** of natural science
+  * **<u>field</u> / <u>area</u> / <u>world</u> / <u>sphere</u>** 领域. 范畴, 范围
+    * the **field** of politics 政治界, 政治领域
+    * the **world** of art 艺术领域, 艺术界
+    * the **area** of education 教育界, 教育领域
+    * the diplomatic **sphere** 外交领域
+    * the ideological **sphere** 思想领域
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
 ## L56 Our neighbour, the river
 ## L57 Back in the old coun
 ## L58 A spot of bother
-## L59 Collecting
-## L60 Too early and too late
+## L59 Collecting ⭐️
+## L60 Too early and too late ⭐️
