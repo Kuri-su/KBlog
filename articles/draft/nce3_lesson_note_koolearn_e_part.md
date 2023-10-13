@@ -1837,7 +1837,27 @@
     * → (NCE4-22 P127-L6 Libraries made education possible, and education in its turn added to libraries: the growth of knowledge followed **<u>a kind of</u> compound interest law**, which was greatly enhanced by the invention of printing.
 
 * → l immediately embarked on an experiment **which, <u>even though it failed to get rid of the ants,</u> kept me fascinated for twentyfour hours.**
-  * 
+  * **embark <u>on</u> / <u>upon</u> sth.**  从事, 着手; 上船
+    * → (NCE3-46 P212-L3) Armed with the right tools and materials, newlyweds gaily **embark on** the task of decorating their own homes.
+
+  * **get rid of ...** 赶走….……，打发走.....
+    * → (NCE3-28 P134-L13) It took me over half an hour to **get rid of** him.
+
+  * **at the base of ...**
+    * → (NCE3-28 P134-L15) **At the base of** the gold cap, the words 'made in the U.S.A' had been nearly inscribed.
+
+* **scurry** v. run with short quick steps 小步快跑
+  * → The mouse **scurried** across the floor.
+
+* **bewilder** v.令人迷惑，令人晕头转向
+  * **bewidering** adj. 令人迷感的，令人昏头转向的
+    * → (NCE3-38 P174-L5) Films, videos, CDs and CD-ROMS are just some of the **bewildering** amount of information they will have.
+    * in + 名词做 副词 含义
+      * **in** <u>bewilderment</u> / <u>confusion</u>  晕头转向地
+      * **in** surprise 
+      * **in** horror
+      * **in** despair 
+      * **in** a panic ...
 
 
 ## L55 From the earth：Greetings
