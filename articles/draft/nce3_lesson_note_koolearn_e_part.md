@@ -1968,6 +1968,254 @@
 
 **## text 1**
 
+* → Recent developments <u>in astronomy</u> have made <u>it</u> possible **to detect planets <u>in our own Milky Way</u> and <u>in other galaxies</u>.**
+  * Milky Way n. 银河系
+    * **the Milky Way** = **the Galaxy** 银河系
+  * galaxy n. 星系
+    * the Galaxy n, 银河
+  * **detect** v. to discover or notice sth, especially sth that is not easy to see, hear, etc. 发现，觉察
+    * → The tests are designed to **detect** the disease early.
+    * → an instrument that can **detect** small amounts of radiation
+      * radiation n, 辐射
+* **in relative terms**: compared with other, similar things 相对来说
+  * → Students have less money **in relative terms**, but spend more on books.
+* emit v. 散发, 发射, 发出
+* **prove (to be) + <u>adj.</u> /<u>n.</u>** 被证明是.....
+  * → (NCE3-1 P14-L9) The search **proved** difficult, for the puma was often observed at one place in the morning and at another place 20 miles away in the evening.
+* **infinitely** adv. very much — used esp. when comparing things（尤其与比较级连用） ..得多; 无限地
+  * → Your English is **infinitely** better than my German.
+  * → Travel is **infinitely** more comfortable now than it used to be.
+  * 其他表示 ... 得多的搭配
+    * **<u>far</u> / <u>much</u> / <u>even</u> / <u>still</u> / <u>yet</u> + 比较级**
+* **support** v. to provide the right conditions, such as enough food and water, for life （提供合适的条件以）维持生命，使活下去
+  * → The land is so poor here that it cannot **support** any crops.
+    * crop n. 庄稼, 作物
+  * → Because of pollution, this lake is now too acid to **support** fish.
+    * acid adj. 酸的
+* → Only the Earth provides ideal conditions, <u>and</u> even here <u>it</u> has taken more than 4 billion years <u>for plant and animal life</u> **<u>to evolve.</u>**
+  * evolve v. 进化
+  * **it takes ... (for ...) to do sth.** sb. 做某事需要有......
+    * take 表示需要
+    * → **It took** a few minutes **for** his eyes **to** adjust to the dark.
+    * → (NCE3-42 P196-L9) **It** can **take** as long as eight days **<u>to</u>** rig up rope ladders and **to** establish supply bases before a descent can be made into a very deep cave.
+
+**## text 2**
+
+* → **Whether a planet can support life** depends on the size and brightness of <u>its star</u>, **that is** <u>its'sun</u>'.
+  * **that is** 引出同位语 , 表示'也就是说', '确切的说'
+    * **that is (to say)**: or more exactly 也就是说，确切地说 
+      * → The fare is reduced for <u>children</u>, **that is** <u>anyone under 15 years old.</u>
+      * → Languages are taught <u>by the direct method</u>, **that is to say**, <u>without using the student's own language.</u>
+      * → (NCE4-2 P11-L9) One authority on spiders made a census of the spiders in a grass field in the south of England, and he estimated that there were <u>more than 2,250,000 in one acre</u>, **that is** <u>something like  6.000.000 spiders of different kinds on a football pitch</u>.
+
+    * 同义表达
+      * **i.e. 也就是说** 
+        * →  The film is only open to <u>adults</u>, **i.e.** <u>people over 18.</u>
+
+      * **to be exact** 准确的讲
+        * → She has worked at the bank for <u>many years,</u> <u>nine</u> **to be exact:**
+
+      * **in other words** 换句话说
+        * → <u>He was economical with the truth</u> — **in other words**, <u>he was lying.</u>
+
+      * **to put it another way** 换句话说
+        * → <u>It's fairly risky.</u> Or **to put it another way**, <u>don't try this at home.</u>
+* → Imagine a star **up to 20 times larger, brighter and hotter <u>than our own sun.</u>**
+  * **Imagine** 
+    * → **Imagine** life without hot water. 想象一下没有热水的生活
+    * → **Imagine** that you have just won a million pounds. 
+    * → (NCE3-7 P38-L12) **Imagine** their dismay when they found a beautifully-cooked wallet and notes turned to ash!
+
+  * **up to sth.**: 1. 多达 ...
+    * → The Olympic Stadium will hold **up to** 80,000 spectators.
+    * **up to sth.**:2.=**up till** 直到....  = until
+      * → (NCE3-31 P146-L6) **Up to** the time of his death, Richard Colson was one of the most notable figures in our town.
+      * → (NCE3-38 P174-L10) **Up to** now, historians have assumed that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons.
+* → <u>Alternatively</u>, **if the star <u>were</u> small**, the life-supporting planet <u>would</u> have to have a close orbit <u>round it and</u> also provide the perfect conditions <u>for life forms to develop.</u>
+  * **orbit** n. 天体星体的 轨道
+  * **form** n. 种类, 类型, 形式
+  * **alternatively** adv. used to introduce a ssuggestion or to mention sth. different to what has just been stated 或者
+    * → The agency will make travel arrangements for you. **Alternatively**, you can organize your own transport.
+  * 复合形容词
+    * the **life-supporting** planet = the planet **which supports life**
+    * animals **which eat insects** = **insect-eating** animals 吃昆虫的动物 (主动)
+      * insect n. 昆虫
+    * silverware **which is made by hands**  = **hand-made** silverware (被动)
+    * **state-owned** enterprises  国有企业
+    * **flower-selling** girls 卖花女
+    * **epoch-making** masterpieces 开创新时代的大师作品
+    * **cancer-causing** substances 致癌物质
+  * → Alternatively, if the star were small, the life-supporting planet **would have to** have a close orbit round it <u>and</u> (**would**) also (**have to**) provide the perfect conditions for life forms to develop.
+  * for 引出动词不定式的逻辑主语
+    * → He opened a door and stood aside **for** <u>her</u> **to pass.**
+    * → Her circumstances had never been good enough **for** <u>her hopes</u> **to be realized.**
+* → But how ***would*** we find such a planet **if there <u>were</u> such a planet?**
+* → <u>At present</u>, there is no telescope <u>in existence</u> **that is capable of detecting the presence of life.**
+  * 这里 telescope 有两个后置定语
+  * **in existence** 存在
+    * → The organization has been **in existence** for 25 years.
+    * **come into existence** 开始存在 = come into being
+      * → Scientists have many theories about how the universe first **came into existence.**
+
+    * **presence** n. the <u>existence</u> of sb. or sth. in a particular place 存在
+      * **one's presence** 某人某物的存在
+        * → (NCE3-54 P244-414) We enjoy staring at them entranced as they go about their business; unaware (we hope) of **our presence.**
+
+      * **the presence of ...** 某人某物的存在
+        * → Tests revealed **the presence of** poison in the blood.
+
+  * **detect the presence of ...** 寻找.
+    * → The dogs were trained to **detect the presence of** explosives. 这些狗狗被训练去寻找爆炸物
+
+* **develop** v. to design or make a new idea, product, system etc. over a period of time 开发，研制
+  * → Scientists are **developing** new drugs to treat arthritis.
+    * treat v. 处理
+    * arthritis n. 关节炎
+
+  * **development** n. the process of creating a new product or method 开发，研制
+    * → His work is mainly in software **development**.
+    * → The funds. will be used for product **development**.
+
+* 中文中倾向于用动词, 英文中倾向于用名词
+  * → **The resolution of** some problems of today is urgent and critical for the survival of a society.
+  * → **Overemphasis upon** some existing problems could cause harmful effects.
+  * → **His acceptance of** bribes led to **his arrest.**
+  * → **My arrival** coincided with **his departure.**
+
+
+**## text 3**
+
+* → It is impossible **to look for life on another planet <u>using earth-based telescopes</u>.**
+  * **-based**: 1. combines with nouns referring to places to mean sth. positioned or existing mainly in the place mentioned, or operating or organized from that place 位于....
+    * a **Washington-based** organization
+    * **land-based** missites 陆基导弹
+    * **-based**: 2. used with some names to make adjectives describing the main substance in a product 主要成分为....
+      * **lead-based** paints 主要成分为 铅的涂料
+        * lead 引导; 铅
+
+      * **carbon-based** fuels 主要成分为 碳的燃料 (碳基)
+      * **nitrogen-based** fertilizer 主要成分为氮的肥料 (氮基)
+
+* → Our own warm atmosphere <u>and</u> the heat **generated by the telescope** <u>would</u> make <u>it</u> impossible **to detect objects <u>as small as planets</u>.**
+  * 可以看作省略了一个 if 从句 , 由于上下文的存在
+    * → Our own warm atmosphere and the heat generated by the telescope <u>would</u> make it impossible to detect objects as small as planets **if we <u>looked</u> for life on another planet using earth-based telescopes.**
+
+* → Even a telescope in orbit <u>round the earth</u>, **like the very successful Hubble telescope**, <u>would</u> not be suitable **because of the dust particles in our solar system.**
+  * 可以看作省略了一个 if 从句 , 由于上下文的存在
+    * → Even a telescope in orbit round the earth, like the very successful Hubble telescope, <u>would</u> not be suitable because of the dust particles in our solar system **if we <u>looked</u> for life using a telescope in orbit round the earth.**
+
+  * **Hubble Space Telescope (HST)** The Hubble Space Telescope is a telescope in orbit around the Earth.
+
+* **particle** n. [C] a very small piece of sth. 微粒 
+  * article n. 冠词
+  * dust **particles**
+  * tiny **particles** of soil 非常细小的土壤的微粒
+  * **elementary particle** n. one of the types of pieces of matter including **electron**s, **proton**s, and **neutron**s that make up **atom**s 基本粒子
+    * proton 质子
+    * neutron 中子
+    * atom 原子
+    * electron 电子
+
+* → A telescope <u>would</u> have to be as far away as the planet Jupiter <u>to look for iie in outer space,</u> **because the dust becomes thinner <u>the further we travel towards the outer edoes of our own solar system</u>.**
+  * 省略一个 if 从句
+    * → A telescope <u>would</u> have to be as far aaway as the planet Jupiter to look for life in outer space **if we <u>looked</u> for life in outer space**, because the dust becomes thinner the further we travel towards the outer edges of our own solar system.
+
+  * 越...就越..... 的表达
+    * → **<u>The harder</u> they worked** <u>the hungrier</u> they became. (第一种语序, 先翻译前半句, 再翻译后半句)
+    * → They became <u>(the) hungrier</u> **<u>the harder</u>** they worked. (第二种语序, 后半句是从句, 前半句是主句, 先翻译后半句, 再翻译前半句)
+    * → (NCE4-37 P218-L13) We are so familiar with the fact that man ages, that people have for years assumed that the process of losing vigour with time, of <u>becoming more likely to die **the older we get**,</u> was something self-evident, like the cooling of a hot kettle or the wearing-out of a pair of shoes. (第二种语句)
+
+* →  **Once we <u>detected</u> a planet**, we <u>would</u> have to find a way <u>of blotting out the light from its star</u>,  **so that we <u>would</u> be able to 'see' the planet properly and analyze its atmosphere.**
+  * 从句用 一般现在时, 主句用 would, 还是虚拟语气
+  * **way of doing sth.** 做某事的方法
+    * → a new **way of** storing information.
+    * **way to do sth.** 做某事的方法
+      * → What is the best **way to** clean this?
+
+  * **blot** n. a mark or dirty spot on sth., esp.made by ink 污点，墨迹
+    * ink **blots** 墨水的污迹
+      * → This is a serious **blot** on your career. 这是你职业生涯中一个严重的污点
+
+    * **blot out**: to cover sth. so that you can no longer see it 遮住
+      * → Dark clouds overhead had **blotted out** the sun.
+
+  * so (that) 作连词时一般来说有两种用法：
+    * 1.引号结果状语从句，译为“所以"，从句谓语动词中一般没有情态动词。
+    * 2.引导目的状语从句，译为“以便 〞=in order that…，从句谓语动词中多出现情态动词 can, could, may, might, should,would 等。
+      * We paid him immediately, so (that) he left contented.
+      * We paid him immediately, so (that) he would leave contented.
+
+  * **properly** adv. (BrE) completely, fully, thoroughly 完全地，彻底地
+    * → Is the chicken **properly** defrosted?
+      * defrost v. 除霜, 融化, 解冻
+
+    * → He got **properly** beaten by the world champion. 
+
+* → **If we look<u>e</u>d for life on a planet**, in the first instance, we <u>would</u> be looking for plant life, rather than 'ittle green men'.
+  * 这句也可以看作前面省略了一个 if 从句
+  * **in the first instance** (fml.) as the first part of a series of actions 首先，第一
+    * → **in the first instance**, notify the police and then contact your insurance company.
+    * → Anyone wishing to join the society should apply **in the first instance** to the secretary.
+  * **little green men**
+    * **Little green men** is a popular expression used to describe extraterrestrial life. 地外生命
+* → The life forms **most likely to develop on a planet** <u>would</u> be bacteria.
+  * form n. 形式
+  * 这里一样省略了 if 从句
+    * → The life forms most likely to develop on a planet <u>would</u> be bacteria **if the planet could support life.**
+
+* → **<u>It is</u>** bacteria **<u>that</u>** have generated the oxygen **we breathe on earth.** (强调句)
+  * 强调句强调句子的主语
+  * breathe v. 呼吸
+    * breath n. 呼吸
+
+* → <u>As Earth-dwellers</u>, we always cherish the hope **<u>that we will be visited by little green men</u>** and **<u>that we will be able to communicate with them.</u>**
+  * dweller n. 居住在某个地方的人 (正式用语)
+    * dwell  v. 居住于某地
+    * → (NCE3-41 P192-L22 The city **dweller** never experiences anxieties of this sort.
+
+  * **cherish** v. to keep hopes, memories or ideas in your mind because they are important to you and bring you pleasure 长期怀有某种感情
+    * → (NCE3-34 P158-L10) Like a scientist bent on making a discovery, he must **cherish the hope** that one day he will be amply rewarded.
+    * → He **cherished the hope** of winning an Olympic medal.
+    * → He **cherished the memory** of his late wife.
+    * → He **cherished the illusion** that the girl was in love with him.
+* **realm** n. 王国, 范畴, 领域
+  * an idea that belongs in **the realm(s) of** science fiction
+  * → I suppose it's not beyond **the realm(s) of** possibility.
+  * → This is not really within **the realm(s) of** my experience.
+
+* **science fiction** (also informal **sci-fi**) n. [U] a type of book, film/movie, etc. that is based on imagined scientific discoveries of the future, and often deals with space travel and life on other planets 科学幻想 (科幻)
+* → **If we <u>were</u> able to discover lowly forms of life like bacteria on another planet**, it <u>would</u> completely change our view of ourselves.
+  * **lowly** adj. low in rank, importance, or social class 卑微的，低等的
+    * → He was a **lowly** assistant gardener.
+    * **low** adj.& <u>adv</u>.低的（地）
+      * bow **low** to the Queen 深深的向女王鞠躬
+      * → That plane's flying **too** low!
+      * → (NCE3-56 P252-L19) We were, however, worried about our nearest neighbours, whose farm was **low** lying and who were newcomers to the district.
+
+* → **As Daniel Goldin of NASA observed**, 'Finding life elsewhere <u>would</u> change everything. No human endeavour or thought <u>would</u> be unchanged by it.'
+  * tenur n. 长期雇用
+  * **NASA** n. **National Aeronautics and Space Administration** a Us government organization that controls space travel and the scientific study of space（美国）国家航空航天局 / 美国太空总署
+  * **observe** v. (fml.) to make a written or spoken comment about someone or something （评论）说
+    * → "I've always found German cars very reliable," he **observed**.
+    * → She **observed** that it would soon be time to stop for lunch.
+    * **observation** n. a spoken or written remark about something you have noticed 言论，评论
+      * → (NCE4-39 P228-L18) A young English writer made the pertinent **observation** a year or two back that the talent goes into the first draft, and the art into the drafts that follow.
+
+  * **elsewhere** adv. in, at, or to another place 在別处，到别处
+    * → The answer to the problem must be sought **elsewhere**.
+    * → Our favourite restaurant was full, so we had to go **elsewhere**.
+    * → Finding life elsewhere <u>would</u> change everything **if life <u>were</u> found elsewhere.**
+    * → **If life <u>were</u> found elsewhere**, no human endeavour or thought <u>would</u> be unchanged by it.
+
+
+## L56 Our neighbour, the river
+
+**## words**
+
+* 
+
+**## text 1**
+
 * 
 
 **## text 2**
@@ -1978,7 +2226,10 @@
 
 * 
 
-## L56 Our neighbour, the river
+**## text 4**
+
+* 
+
 ## L57 Back in the old coun
 ## L58 A spot of bother
 ## L59 Collecting ⭐️
