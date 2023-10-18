@@ -2212,7 +2212,102 @@
 
 **## words**
 
-* 
+* **boundary** /ˈbaʊndri/ n.分界线，边界
+  * → The river **forms a natural boundary of** our farm. 河流形成了我们农场的天然边界
+  * → The fence **marks the boundary between** my property **and** hers.
+    * fence n. 篱笆
+    * mark 标志
+    * property n. 不动产
+  * 表示 虚拟的边界
+    * → Electronic publishing is **blurring the boundaries between** dictionaries **and** encyclopedias.
+      * blur v. 使模糊
+  * 国境, 国界 的表达
+    * **border / frontier** n. 国界
+      * the ltalian **<u>border</u> / <u>frontier</u>**
+      * the **<u>border</u> / <u>frontier</u> between** China **and** Russia
+* **overtake** /ˌoʊvərˈteɪk/ v. （坏事）突然降临
+  * **overtake** overtook overtaken
+  * → A sudden illness **overtook** him.
+  * 完美同义词
+    * <u>**visit**</u> / <u>**befall** (befell befallen)</u>
+      * → A sudden illness **<u>visited</u> / <u>befell</u>** him.
+    * **happen to**
+      * → A sudden illness **happened to** him.
+* **predecessor** /ˈpredəsesər/ n. 前辈，前任
+  * 完美反义词
+    * **successor** n. 继任者, 
+  * 祖宗, 祖先 n. [C]
+    * **ancestor**
+    * **forefather**
+    * **forebear**
+  * 后代子孙
+    * **descendant** [C]
+      * → He is a direct **descendant** of Confucius.
+        * Confucius n. 孔夫子 (音译), 孔子
+    * **offspring** n.  后代 (单复数同行)
+      * → the conflict between parents and their **offspring**
+    * **posterity** n. [U]
+      * → These works of art are preserved for **posterity**.
+* **meadow** /ˈmedoʊ/ n. 草地; 牧场
+  * **lawn** n. 草坪
+  * **pasture** n. 放牧的牧场
+  * **prairie** n. 北美洲的大草原
+  * **savanna(h)** n. 热带/亚热带的大草原 (无树无风)
+  * **grassland** n. 草原(泛指)
+    * → the Inner Mongolina **Grassland**
+* **occurrence** /əˈkɜːrəns/ n. 事情, 事件  (发生的事)
+  * **occur** v. 发生
+  * **happening** n. 事情, 事件 (发生的事)
+    * **happen** v. 发生
+  * **trifle** n. 一件小事, 琐事, 微不足道的事
+  * **incident** n. 小事; 暴力性冲突性的事件
+    * a border **incident** 一起边境事件
+    * a shooting **incident** 一起枪击事件
+  * **affair** n. 公众性的&政治性的事件; 风流韵事, 桃色事件
+    * current **affairs** 时事
+    * China's internal **affairs** 中国内政
+    * love **affairs** 风流韵事
+  * **event** n. 重大的事件
+  * **accident (通俗版本) / contingency (文言版本)** n. 意外的事故
+  * **coincidence** n. 巧合的事件, 
+* **proportion** /prəˈpɔːrʃn/ n. 比例
+  * **the proportion of sth. to sth.** 某事物对另一个事物的比例
+    * → What s **the proportion of** boys **to** girls in your class?
+  * **in proportion to sth.** 和某物成比例 (正比/反比)
+    * → Payment will be **in proportion to** the work done.
+  * **out of (all) proportion to sth.**
+    * → They earn salaries **out of all proportion to** their ability.
+  * **a <u>high</u> / <u>large</u> proportion of ...** 一个很高的比例 (多数)
+  * **a <u>small</u> / <u>tiny</u> proportion of ...** 很小比例的某人某物 (少数)
+    * **a high / large percen<u>t</u>age of ...** 很高的比例的某人某物 (多数)
+    * **a small / tiny percen<u>t</u>age of ...** 很小比例的某人某物 (少数)
+    * **<u>a</u> / <u>the</u> majority of ...** 多数
+    * **<u>a</u> /<u>the</u> minority of ...** 少数
+* **site** v. 使位于 
+  * 同义词
+    * **locate**
+    * **situate**
+  * → The house **is <u>sited</u> / <u>located</u> / <u>situated</u>** on the hill.
+  * 名词形式 n. 位置
+    * **site**
+    * **location**
+    * **situation** n. 位置, 情况
+* **juncture** /ˈdʒʌŋktʃər/ n. 时刻, 关头, 节骨眼
+  * → **At this juncture** it's too late to say anything.
+  * → The battle had reached a **<u>critical</u> / <u>crucial</u> juncture.** 
+    * critical / crucial adj. 关键的
+  * 时刻的同义词
+    * time
+    * moment
+    * point n. 时间点
+    * instant n. 时刻 adj. 立刻的, 立即的
+* **unduly** adv.过分地，过度地
+  * **unduly** **=excessively** adv. 过分地 ，过度地
+    * → The levels of pollution in this area are **unduly** high.
+  * **undue = excessive** ad. 过分的， 过度的
+    * → The work should be carried out without **undue** delay.
+  * **due** adj. proper, suitable 适当的
+    * → After **due** consideration, we have decided to appoint Mr. Davis to the job.
 
 **## text 1**
 
