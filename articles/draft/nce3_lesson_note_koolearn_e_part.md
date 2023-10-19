@@ -2311,15 +2311,125 @@
 
 **## text 1**
 
-* 
+* 同位语/ 同位格的前置, 为了突出和强调这个同位语
+  * **<u>man's best friend</u>, the dog**
+  * **<u>God Almighty</u>, Jesus Christ** 耶稣基督, 我们全能的主
+* → The river **which forms the eastern boundary of our farm** has always played an important part in our lives.
+  * **play a ... <u>role</u>/<u>part</u> in …** 发挥某种作用
+    * 造句：西安市在中国历史上有至关重要的作用。
+      * → The city of xi'an **played a** crucial **role in** the history of China.
+    * 造句：政府在促进人权方面应该发挥更显著的作用。
+      * → The government should **play a** more prominent **part in** promoting human rights.
+    * → (NCE4-7 P41-L1) Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case **in** which the voice **plays a** strictly utilitarian **role**.
+    * → (NCE4-44 P257-L5) The fact of firstrate importance is the predominant **role** that custom **plays in** experience and in belief, and the very great varieties it may manifest.
+    * → (NCE4-44 P257-L10) John Dewey has said in all seriousness that the **part played** by custom **in** shaping the behavior of the individual, as against any way in which he can affect traditional custom, is as the proportion of the total vocabulary of his mother tongue against those words of his own baby talk that are taken up into the vernacular of his family.
+* → Without it we could not make a living. 
+  * = → **If we didn't have it** we **could** not make a living.
+  * **If +S. +<u>did</u> / <u>were</u> .., S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do ..**
+  * If 从句的虚拟语气, If 从句经常可以藏起来, 用介词短语引导
+    * → There <u>would</u> be no living things **without air.**
+      * =→ There <u>would</u> be no living things **if there <u>were</u> no air.**
+    * → **In his position**, I **would** commit suicide.
+      * =→ **If I <u>were</u> in his position**, I would commit suicide.
+  * **<u>make</u>/<u>earn</u> a living** 谋生, 活下去
+* spring n. 春天; 泉; 弹簧
+* 英文通常用 地点指代住在那里的人
+  * → Be quiet or you'll wake **the house.** 安静点, 不然你会把一家人都吵醒了
+  * the village 全村人
+  * the town 全镇人
+  * the city 全城人
+  * the country 全国人
+  * the world 全世界人
+    * entertain **the world**  娱乐全世界人
+    * → **The whole country <u>was</u> / <u>were</u>** shocked at the news. (这里用单复数表示主语都可以)
+* → …. we have to pump from the river for **irrigation**.
+  * → … we have to pump from the river to **irrigate the fields.**
+* → We know instinctively, <u>just as beekeepers with their bees</u>, **that misfortune** might **overtake us **<u>**if the important events of our lives** wer**e not related to it.**</u> 
+  * **instinctively = by instinct** adv. 本能地 = 介词 + n.
+    * **particularly = in particular**
+    * **accidentally =by accident**
+    * **carefully = with care**
+    * **delightedly.=with delight**
+    * **angrily = with anger**
+  * .. misfortune might **<u>visit / befall</u>** us ...
+    * …. misfortune might **happen to** us....
+  * **relate sth. to sb.** 对某人讲述
+    * relate v. 讲述; 联系, 连接
+    * → She **related** the events of the previous week **to** the police.
+    * **relate A <u>to</u> / <u>with</u> B**
+    * **<u>report</u> / <u>recount</u> / <u>relate</u> sth. to sb.** 将某事讲述给某人听
+    * **tell sb. (about) sth.**  给某人讲述某事
+* 长短句穿插, 
 
 **## text 2**
 
-* 
+* → Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse, **which a predecessor of ours <u>at the farm</u> built in the meadow hard by the deepest pool <u>for swimming and diving</u>.**
+
+  * **<u>go</u> / <u>row</u> / <u>sail</u> upstream**
+
+* **<u>go</u> / <u>row</u> / <u>sail</u> upstream** 走/划船/航向  前往上游
+
+  * → Learning is like **rowing upstream**: not to advance is to drop back. 学习如逆水行舟, 不进则退
+
+    * drop back 被超过
+
+    * **go / row / sail downstream** 顺流而下
+
+* a predecessor of ours
+  * = one of our predecessors 我们的一位前辈
+* **hard by ...** (fml.) very near to ...
+  * → The cafeteria stands **hard by** our dormitory.
+* **heat wave** 酷暑时期, 三伏天
+  * **cold spell** 严寒时期, 三九天
+    * spell n. 一段时间
+  * → It's a **<u>boiling</u> / <u>scorching</u> / <u>sizzling</u> hot** day. 这是一个很热的天气 (的表达)
+    * boil v. 沸腾
+    * scorch v. 烤焦了
+    * sizzle v. 烤肉的时候肉在铁板上滋滋作响
+  * → It's a **<u>bitterly</u> / <u>biting</u> / <u>freezing</u> cold** day.
+    * bitterly adv. 残酷的, 剧烈的
+    * bite v. 咬
+    * freeze v. 冻牢, 凝固
+* → We welcome the seasons by the riverside, **<u>crowning the youngest girl with flowers in the spring, holdinga summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter.</u>**
+  * → We celebrate the arrival of the seasons.
+  * **Thanksgiving Day**: the fourth Thursday in November
+    * the Puritans  清教徒 
+    * the Mayflower 五月花号
+    * Columbus 哥伦布
+    * <u>American Indians</u> / <u>Native Americans</u>
+    * the Pilgrims 朝圣者, 香客(最早的 102 个清教徒) 
+    * the Pilgrim Fathers
+    * 特色食物
+      * roast turkey 烤火鸡
+      * apple pie 苹果派
+    * → I **give thanks to** my mother **for** supporting me all the time.
+    * → I **give thanks to** my math teacher **for** not flunking me.
+      * flunk (俚) 挂科
 
 **## text 3**
 
-* 
+* 文言可以考虑尽量用 名词  来描述, 而不是用很多的动词形式
+  * **a <u>rare</u> / <u>common</u> / <u>regular</u> / <u>evervday</u> occurrence**
+    * → Laughter was **a rare occurrence** in his classroom.
+    * → Unfortunately, computer errors are **a common occurrence.**
+    * → Street-fights are **an everyday occurrence** in this area of the city.
+* **go to extremes** 走极端
+  * → (NCE3-5 P30-L1) Editors of newspapers anid magazines often **go to extremes** to provide their readers with unimportant facts and statistics.
+  * → Our climate is usually **moderate**.
+* → We are lucky **in that only the lower fields, <u>which make up a very small proportion of our farm</u>, are affected by flooding**, <u>but</u> other farms are less favourably sited, <u>and</u> flooding can sometimes spell disaster for their owners.
+  * in that 复合连词
+  * disaster n. 大灾难
+  * **a <u>high</u> / <u>large</u> <u>proportion</u> / <u>percentage</u> of..** 很高的一个比例
+    * **a <u>small</u> / <u>tiny</u> <u>proportion</u> / <u>percentage</u> of ..**
+    * **a majiority of ...**
+    * **a <u>vast</u> / <u>great</u> / <u>overwhelming</u> majority of...**
+    * **a minority of ...**
+    * **a <u>small</u> / <u>tiny</u> minority of ...**
+  * spell v. 构成, 拼写
+    * **spell** v. to cause sth. bad to happen in the future 招致，导致
+    * **spell <u>disaster</u> / <u>trouble</u> / <u>danger</u> for .....**
+    * → The lack of rain could **spell disaster for** farmers.
+    * → This cold weather could **spell trouble for** gardeners.
 
 **## text 4**
 
