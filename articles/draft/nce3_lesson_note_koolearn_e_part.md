@@ -2433,7 +2433,50 @@
 
 **## text 4**
 
-* 
+* **creep** v. 蹑手蹑脚地走
+  * → (NCE3-50 P228-L19) Nevertheless, I managed to **creep** down into the living-room for two days before anyone found me out.
+* 托物以抒情, 用事物做主语
+  * Curiosity **swallowed** him.
+    * swallow  v. 吞咽, 吞没
+  * → A gentle breeze **caressed** my cheeks and **soothed** my heart.
+* **cattle** n. 牛们 (本身就是复数, 类似于 people)
+* **stall** n. an enclosed area in a building for an animal such'as a horse or cow 牲口棚，马厩，牛棚
+* **stand to do sth**: to be likely to do or have something 可能...
+  * **stand to <u>gain</u> / <u>lose</u> / <u>win</u> ...** 有可能会获得, 有可能会失去, 有可能会赢得
+    * → Many small companies **stand to lose** financially if the new law is introduced
+* → We were, <u>however</u>, worried about our nearest neighbours, **whose farm was low lying** and **who were newcomers to the district.**
+  * low adj./adv. 低
+    * → The plane flew **low**.
+    * **lowly** adj. low in rank, importance, or social class 卑微的，低等的
+    * a **lowly** servant
+    * → (NCE3-55 P248-L28) If we were able to discover **lowly** forms of life like bacteria on another planet, it would completely change our view of ourselves.
+* **put ... out of order** 使 sth. 出故障
+  * **put ... in order** 把某物修好
+  * **put ... right** 把某物修好
+    * → (NCE3-46 P212-L14) When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate, some women assume that their husbands will somehow **put  things right.**
+  * **be out of order** 某物坏了, 失灵了
+    * → The bell had **been out of order** for many years.
+  * **put .. . out of business** 使某人破产
+  * **put ... out of work** 使某人失业
+* → <u>From an attic window</u> we could get a sweeping view of the river **where their land joined ours,** <u>and</u> <u>at the most critical juncture</u> we took turns in watching that point.
+  * attic n. 阁楼
+  * ... get a **sweeping view** 获得一览无遗的视野 (俯视, 登高望远)
+    * .. get a **bird's eye view**
+  * …,when the flood **was at its height** ... 在洪水最为猛烈的时候
+    * ., **at the height of** the flood
+    * **the height of ...** sth./sb. 的顶峰状态,全盛时期
+      * → August is **the height of** sumimer.
+      * → The storm **is at its height.**
+  * **take turns (in) doing sth.** 轮流做某事
+    * **take turns to do sth.** 轮流做某事
+      * → There is only one computer, so we have to **<u>take turns (in) using</u>** / **<u>to use</u>** it.
+* 迹象, 征兆
+  * sign 
+  * indication
+  * omen 兆头
+    * a good **omen**
+    * a bad **omen**
+* → Next came a horse, **swimming bravely**, <u>but</u> we were afraid **that the strength of the current would prevent its landing anywhere <u>before it became exhausted</u>.**
 
 ## L57 Back in the old coun
 ## L58 A spot of bother
