@@ -2622,7 +2622,57 @@
 
 **## text 1**
 
-* 
+* → I stopped <u>to let the car cool off</u> and <u>to study the map</u>.
+  * stop doing  和 stop to do
+    * stop to do 停下来, 去做某事
+    * stop doing 停止做某事
+  * **cool off** v. to return to a normal temperature after being hot 冷却下来，凉爽下来
+    * → **Cool off** with an iced drink.
+    * → By late autumn Mediterranean islands have **cooled off**, and can have rainy days.
+  * **study** v. examine (sth) very carefully 仔细察看（某事物）
+    * **study** the <u>map</u> / <u>menu</u> ...
+    * → Scientists are **studying** the photographs of Mars for signs of life.
+* **expect (sb.） to do**: 以为；料想
+  * → He didn't **expect to** see me.
+  * → We **expected** him **to** arrive yesterday.
+* **objective** n.目标，目的 = **goal**
+  * → Everest is the climber's next **objective**.
+    * Everest n. 珠穆朗玛峰
+  * → Let justice be our **objective**
+* **by now**
+  * → (NCE3-25 P122-L17) After crossing the equator, the captain called in at a port to have a new rudder fitted, but **by now** the Thermopylae was over five hundred miles ahead.
+* **be alien to ....** 对... 感到陌生, 格格不入
+* **recover from ...** 从⋯恢复
+  * → (NCE3-44 P204-L29) You will not have to spend the next few days **recovering from** a long and arduous journey.
+  * **recover** sth. 1. 恢复.. = restore sth. / regain sth
+    * <u>recover</u> / <u>restone</u> / <u>regain</u>  + <u>one's health</u> / <u>one's sight</u> / <u>one's consciousness</u> /  <u>one's balance</u> / <u>one's composure</u>
+  * **recover sth.**2.重新获得，找回，赚回，补偿
+    * → (NCE3-43 P200-L8) But the claim made by a local authority to **recover** the cost of salvaging a sunken pie dish must surely be unique.
+* **presence** n. 1. 出席, 在场, 存在
+  * → (NCE3-54 P244-L14) We enjoy staring at them entranced as they go about their business, unaware (we hope) of our **presence**. 
+  * → (NCE3-55 P248-L16) At present, there is no telescope in existence that is capable of detecting the **presence** of life.
+  * 某人在场的表达
+    * **in the presence of sb.**
+    * **in sb.'s presence**
+      * → Harry is very thrifty, but **in the presence of** his friends he never shows this side of his life.
+      * → l asked you not to smoke **in my presence.**
+  * **presence** n. a person or spirit that you cannot see but that you feel is with you in a place 似乎在场 
+    * → His daughter's **presence** seemed to fill her empty bedroom.
+* **continually** 反复地, 一再地 和 **continuously** 持续地, 一刻不停地
+* → (造句) Everything around me is full of <u>his</u> / <u>her</u> **presence**, continually reopening the wound.
+* **make a new life for sb.**  为. ..开创新生活
+  * → I was determined to **make a new life for myself** in Australia.
+  * → After the divorce she moved to Buckingham to **make a new life for herself.**
+    * Buckingham n. 白金汉郡
+* **turn over a new leaf** 弃恶从善 ，洗心革面重做人
+  * → The thief was determined to **turn over a new leaf** once he was released from prison.
+* **cease to do** 不再......
+  * → (NCE3-35 P162-L7) There are rare instances when justice almost **ceases to be** an abstract concept.
+* **grieve** v. to feel extremely sad, <u>especially because someone you love has died</u> 悲伤
+  * **grieve (<u>over</u>/<u>for</u>) ....**
+    * → They are still **grieving over / for** their dead child.
+    * → She **grieved** the death of her husband.
+  * **grievance** n.委屈，不平，不满，牢骚
 
 **## text 2**
 
