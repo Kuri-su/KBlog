@@ -2536,7 +2536,89 @@
 ## L57 Back in the old coun
 **## words**
 
-* 
+* **alien** /ˈeɪliən/ adj.外国的；外星的
+  * **alien** cultures 外国文化
+  * **alien** beings 外星人
+  * **be alien to ....**  对sth./sb. 是格格不入的, 不兼容的
+    * → The idea **is alien to** our religion. 这种挂念和我们的教义是格格不入的
+      * religion n. 宗教
+    * → Luxury **is alien to** her nature. 奢侈和她的本性是格格不入的
+      * nature n. 本性, 自然, 天然
+  * **foreign** adj. 外国的
+    * **be foreign to ...** 对 sth./sb. 是格格不入的, 
+      * → Jealousy **is foreign to** his nature. 嫉妒和他的本性是格格不入的
+  * **exotic** adj. 外国的, 新奇漂亮的 (褒义词)
+    * **exotic** tropical plants 新奇漂亮的外国热带植物
+    * → I am charmed with her **exotic** beauty. 我被她异国情调的美所迷住
+      * charm v. 使陶醉
+* **emigrate** /ˈemɪɡreɪt/ v. 移居国外
+  * 形似词解析
+    * **migrate** v. 迁徙, 移居
+      * → People **migrate <u>to</u>** cities in search of work.
+      * → Swallows **migrate** south in winter. 在冬天时, 燕子会迁徙到南方去
+    * **emigrate** v. 移居国外
+      * **emigrate <u>from</u>** 从某国移民出去
+    * **immigrate** v. 移进某地, 移入
+      * **immigrate <u>to</u>** 移民到某国里来
+    * → Europeans **emigrating <u>from</u>** their homelands after World War I were encouraged to **immigrate to** Australia.
+    * v. n.行为 n.人
+      * migrate migration migrant 移民的人
+      * immigrate immigration immigrant 移民入某地的人
+      * emigrate emigration emigrant 移民出去的人
+* **absorb** /əbˈzɔːrb/ v. 使全神贯注
+  * 全神贯注于某事
+    * **be absorbed in ...**
+    * **be engrossed in ...**
+    * **be wrapped up in ...**
+    * **be immersed in ...**
+      * → He **is** totallv **immersed in** the novel.
+  * 忙于某事
+    * **be busy (in) doing**
+    * **be up to one's <u>neck</u> /<u>ears</u> in ...**
+      * 听力题
+        * M: Can you come over for dinner tonight? 
+        * W: I**'m up to my ears in** work, so I'll have to **take a rain check.**
+        * What does the woman mean?
+        * Answer: (C) She'd enjoy coming to dinner another time.
+        * take a rain check 择期再约
+* **embedded** /ɪm'bɛd/ adj. 嵌入的(深深地扎根在... 里面)
+  * **be (firmly) embedded in ...**
+  * **be (firmly) rooted in ...**
+  * **be (firmly) entrenched in ..**
+  * **be (firmly) ingrained in ...**
+    * → (NCE3-57 P256-L10) His roots and mine had **become** too **firmly embedded** in the new land.
+      * land n. 土地, 国家
+    * → (NCE4-21 P121-16) He had lived in it as a child when it was already disappearing, and his hero **was firmly rooted in** his memories and experiences, and in both the history and the mythology of the vanished frontier.
+  * **deep-rooted /  deep-seated**  根深蒂固的, 不可动摇的
+    * a **deep-seated** faith in god 对上帝不可动摇的信仰
+    * a **deep-rooted** bad habit 一个恶习难改的坏习惯
+  * **inveterate** <u>hatred</u> / <u>preiudice</u> / <u>distrust</u> (贬义词)
+    * an **inveterate** <u>smoker</u> / <u>drinker</u> / <u>gambler</u> / <u>liar</u>
+      * liar n. 撒谎成性的人
+* **milestone** n.里程碑；划时代事件
+  * **be a milestone in ..** 是 ... 的里程碑
+    * → October 1st, 1949 **was a milestone in** the history of China.
+  * **crossroads** n.十字路口；抉择关头 (本身就是单数)
+    * **at a crossroads in ...**
+      * → He was **at a crossroads in** his career.
+* **territory** /ˈterətɔːri/ n. 领土, 领域
+  * **territory** n. 1. [U]&[C] 领土 <u>enemy</u> / <u>disputed</u> / <u>foreign</u> **territory**
+    * →  They refused to allow UN troops to be stationed in their **territory**.
+  * **territory** n. 2.[U] (知识或经验的）领域
+    * **<u>familiar</u> / <u>unfamiliar</u> territory**
+      * → The company is moving into **unfamiliar territory** with this new software.
+      * → Social work is **familiar territory** to her.
+* **stumble** /ˈstʌmbl/ v. 绊脚
+  * **stumble** v. strike one's foot against sth. and almost fall 绊脚**=trip**
+  * **stumble over / on ...** = **trip over / on…** 在.....上绊了一下
+    * → Vic **stumbled over** the step as he came in. 
+    * → Running along the beach, she **stumbled on** a log and fell on the sand.
+  * **stumble <u>across</u> / <u>on</u> / <u>upon</u> ...** to find sth. or meet st. by accident 偶然发现或遇到 = **come across ...**
+    * → We **stumbled across** him at the mall.
+    * → History relates that they **stumbled on** a magnificent waterfall.
+  * **stumble into .. .** to become involved in sth. by chance 偶然卷入、参与或陷入....
+    * → I **stumbled into acting** when I left college.
+    * → (NCE3-57 P256-424) 1 felt as if I had **stumbled into** a nightmare country, as you sometimes do in dreams.
 
 **## text 1**
 
