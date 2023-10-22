@@ -2477,8 +2477,129 @@
     * a good **omen**
     * a bad **omen**
 * → Next came a horse, **swimming bravely**, <u>but</u> we were afraid **that the strength of the current would prevent its landing anywhere <u>before it became exhausted</u>.**
+  * **before** 除了 翻译成 '之前', 也可以翻译成 '直到'
+  * 全部倒装语句 (L10) 部分倒装 (L5)
+    * 全部倒装  - 把全部谓语置于主语之前, **主系表**  变成 **表系主**
+      1. 表示位置或次序的状语置于句首， 只要满足两个条件，要用全部倒装。 1-主语不是代词。2-谓语动词不是及物动词
+      2. 表语置于句首。
+    * 例子
+      * → **Now <u>comes</u>** your turn.
+      * → **On the hill <u>stands</u>** a temple.
+      * → **Happy <u>is</u>** <u>he who has a sound mind in a sound body .</u>
+      * → **Gone <u>are</u>** <u>the days when my heart was young and gay.</u>
+
+  * → ..... **prevent** its landing anywhere .... (动名词 + 属格用法)
+    * = → ... **prevent** it **from**  landing anywhere ....
+    * → He always **insisted on its being written out** in full. (insisted + its 属格)
+
+* → Suddenly a raft appeared, <u>looking rather like Noah's ark</u>, **carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage.**
+  * Noah's ark 诺亚方舟
+    * ark n. 方舟(圣经), 平底船
+
+  * hen n. 母鸡
+  * cage n. 笼子
+  * the Genesis 创世纪 (圣经)
+    * the New Testament (Christians)  新约
+    * the Old Testament (Jews) 旧约
+    * 新约和旧约圣经的分水岭在于 上帝耶稣降临
+    * deluge n. 大洪水(圣经); 暴雨, 洪水
+
+* → We realized **that they <u>must have become</u> unduly frightened by the rising flood**, for their house, **which had sound foundations**, <u>would have stood</u> stoutly **even if it <u>had been</u> almost submerged.**
+  * unduly adv. 过度地, 不恰当地
+  * **stoutly** adv. 结实地, 粗壮地
+    * **stout** = **sturdy** adj. strong and thick 粗壮的，结实的
+      * **stout** boos for climbing
+      * a **stout** walking-stick
+
+  * **sound** adj. in good condition and not damaged in any way 完好的
+    * → The floor was completely **sound**.
+    * → Is the building structurally **sound**?
+
+* → The men of our family waded down <u>through our flooded meadows</u> <u>with boathooks</u>, **in the hope of being able to <u>grapple a corner of the raft</u> and <u>pull it out of the current towards our bank</u>.**
+  * **wade** v. 蹚水, 涉水
+  * **trek** v. 艰苦跋涉
+  * **in the hope <u>of</u> / <u>that</u> ....** 
+    * → .... **in the hope that** they would be able to ....
+    * → Police are carrying out a house-tohouse search **in the hope of** finding the missing girl.
+    * in + 名词表示 原因状语
+      * → The men of our family waded down through our flooded meadows with boathooks, **in the hope of being (=because they hope to be)** able to grapple a corner of the raft and pull it out of the current towards our bank.
+      * → (NCE3-53 P240-L6) The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or taxcollectors can make mistakes or act over-zealously **in the belief (=because they believe)** that they are serving the public.
+      * → (NCE3-58 P260-L3) In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten **in her sudden discovery (=because she suddenly discovered)** that her front door was open.
+      * → (NCE3-59 P264-L5) They leave unwanted objects in drawers, cupboards and attics for years, **in the belief that (=because they believe that)** they may one day need just those very things.
+      * → (NCE4-11 P65-42) Young men who have reason to fear that they will be killed in battle may justifiably feel bitter **in the thought (=because they think)** that they have cheated of the best things that life has to offer.
+
+  * **grapple** v. to take a firm hold of sb./sth. and struggle with them 紧紫抓住，扭住，扭打
+    * → They managed to **grapple** him to the ground.
+
+* → We still think <u>it</u> a miracle **that they were able to do so.**
 
 ## L57 Back in the old coun
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
 ## L58 A spot of bother
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
 ## L59 Collecting ⭐️
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
 ## L60 Too early and too late ⭐️
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
