@@ -2673,6 +2673,47 @@
     * → They are still **grieving over / for** their dead child.
     * → She **grieved** the death of her husband.
   * **grievance** n.委屈，不平，不满，牢骚
+    * → (NCE3-53 P240-L9) A parliamentary committee representing all political parties appoints a person who is suitably qualified to investigate private **grievances** against the State.
+* → He did not marry again <u>and</u> I was brought up <u>without a woman's care</u>; <u>but</u> I lacked for nothing, **for he was both father and mother to me.**
+  * **bring up sb.** 把… 抚养成人
+  * **lack sth.** 缺乏
+    * **lack for sth.** (fml.)=**need sth.** 需要......
+    * **lack for nothing** 应有尽有
+  * **语义相对的名词并列，常省略冠词**
+    * father and mother
+    * → **Father and son** went to New York by a morning train.
+    * → We are **brother and sister.**
+    * → **Husband and wife** are talking about the boy's future.
+    * → Please pass me **pencil and paper.**
+* → He always meant **<u>to go back</u>** one day, but **<u>not to stay</u>**.
+  * **meant to do sth.** 打算...
+    * → Whoops! I didn't **mean to** step on your toe.
+      * **toe** n. 脚趾头
+    * → I **mean to** leave that meeting with a new contract.
+    * mean n. 平均, 中等 v. 意思是 adj. 低等的, 卑贱的; 吝啬的, 小气的
+* '扎根于' 的表达
+  * **be (firmly) embedded in ...**
+  * **be (firmly) rooted in ...**
+  * **be (firmly) entrenched in ..**
+  * **be (firmly) ingrained in ...**
+* **folk (BrE) / folks (AmE)** n. people 人们
+  * ordinary working-class **folk**
+  * → I'd like a job working with old **folk** or kids.
+  * → Young **folk** these days don't know the meaning of work.
+* → He became mortally ill **a few months <u>before we had planned to go</u>** <u>and</u>, **when he knew <u>that he was dying</u>**, he made me promise to go <u>on my own</u>.
+  * make sb. do 让某人做某事
+  * **mortally** = **fatally** adv . 致命地
+    * **<u>mortally</u> / <u>fatally</u>** <u>ill</u> / <u>injured</u> / <u>wounded</u>
+    * a **<u>mortal</u>** / **<u>fatal</u>** <u>illness</u> / <u>injury</u> / <u>wound</u>
+    * immortal adj. 流芳百世的
+      * → (NCE3-17 P78-L4) Though Verrazano is by no means considered to be a great explorer, his name will probably remain **immortal**, for on November 21st, 1964, the greatest bridge in the world was named after him.
+  * do sth. on one's own 某人自己做某事
+    * **<u>alone</u> / <u>on one's own</u> / <u>by oneself</u>**
+      * → She was sitting **alone** on a park bench.
+      * → I don't like walking home **on my own** at night.
+      * → Do you share the apartment or do you live **by yourself**?
+    * **all(<u>alone</u> / <u>on one's own</u> / <u>by oneself</u>)** 加强语气
+      * → Wendy was frightened, **<u>all</u> alone** in that big old house.
 
 **## text 2**
 
