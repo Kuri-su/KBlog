@@ -2717,11 +2717,117 @@
 
 **## text 2**
 
-* 
+* → I hired a car **the day <u>after landing</u>** <u>and</u> bought a comprehensive book of maps, **which l found most helpful on the cross-country journey**, <u>but</u> **which <u>I did not think</u> I should need on the last stage.**
+  * 这里有两个定语从句, 并列修饰 map, 并且在第二个定语从句中还有一个嵌入式的定语从句
+  * **同一层次上的双重定语从句**
+    * 两个定语从句修饰同一个名词或短语 ，中间用并列连词 (and, or 或 but) 连接，此时关系词往往不可省去。
+      * → This book is intended for foreign students **who have already mastered the elements of English,** <u>and</u> **who now want to use their knowledge of language to read books on their own subjects.**
+        * 两个定语从句都是修饰 foreign students, 关系词都不能省 (省了就难以辨认结构了)
+      * → The past progressive is chiefly used for past actions **which continued for some time** <u>but</u> **whose exact limits are not known.** 
+  * **不在同一层次上的双重定语从句**
+    * 第一个定语从句修饰前面的名词或短语 ，第二个定语从句修饰“名词或短语＋ 第一个定语从句”，两个定语从句之间没有并列连词连接。第一个定语从句的关系词 （一般是关系代词作宾语）可省略。
+      * → (NCE3-24 P118-L11)The only person **<u>I know</u> who has a skeleton in the cupboard** is George Carlton, and he is very pound of the fact.
+      * → .. but **which <u>I did not think</u> I should need on the last stage.**
+        * **嵌入式定语从句 (Embedded Attributive Clause)**：既是先行词的后置定语，又是另一个分句结构的宾语。
+          * → (NCE3-42 P196-L24) In this part of the cave, they could hear an insistent booming sound **which <u>they found</u> was caused by a small waterspout shooting down into a pool from the roof of the cave.**
+          * → (NCE3-48 P220-L30) Turning back down the main street, we quickened our pace and made our way rapidly towards the stream **where <u>we hoped</u> the boatman was waiting.**
+* **It <u>is</u>/<u>was</u> not that ..., but (that)...** 不是因为...……而是因为.
+  * → **<u>It was not.that</u>** actually remembered anything at all, **<u>but (that)</u>** my father had described <u>over and over again</u> **what we should see at every milestone, <u>after leaving the nearest town</u>**, so that I was positive **I should <u>recognize</u> it <u>as</u> familiar territory.**
+  * → (NCE3-39 P178-L5) It was not that Bruce always underestimated difficulties. He simply had no sense of danger at all.
+    * = → **It was not that** Bruce always underestimated difficulties, **but (that)** he simply had no sense of danger at all.
+  * **not that., but that …**不是因为....., 而是因为....
+    * → **Not that** I love Caesar less, **but that** I love Rome more.  — Shakespeare 'Julius Caesar'
+* **over and over (again)** 一再地，屡次地，三番五次地
+  * → I've told you **over and over (again)** not to do that.
+  * **again and again**
+  * **time after time** 
+  * **time and (time) again**
+  * **many times**
+  * **repeatedly**
+* **be positive (that)..**  对….…确定
+  * → **Are** you absolutely **positive** you locked the door?
+  * 同义搭配
+    * **I was <u>sure</u> / <u>certain</u> / <u>confident</u> / <u>convinced</u> (that)...**
+    * **I had no doubt (that) ...**
+    * **I bet (that) ...** 我敢肯定 (我打赌....)
+* **<u>familiar</u> / <u>unfamiliar</u> territory** <u>熟悉</u>/<u>不熟悉</u> (的领域)
+  * → Social work is **familiar territory** to her.
+  * → All this is **familiar territory** to readers of her recent novels.
+* **well** interj.(语气词) used for expressing a feeling such as doubt, surprise, or anger 用以表达怀疑、惊讶或愤怒等感情
+  * → **Well**, they have a lot of nerve! 他们的胆子真不小
+    * nerve n. 勇敢
+  * → **Well**, she could at:least have phoned to say she wasn't coming!
 
 **## text 3**
 
-* 
+* → I looked **at the map** <u>and</u> then **<u>at the</u> milometer.**
+  * **milometer** 里程表
+    * -meter 表示仪器, 读数表
+    * thermo**meter** 温度表
+    * baro**meter** 气压计
+    * <u>odo**meter**</u> / <u>milo**meter**</u> 里程表 
+    * speedo**meter** 速度计
+* → I had come ten miles **since leaving the town**, <u>and</u> <u>at this point</u>, <u>according to my father</u>, I should be looking at farms and cottages <u>in a valley</u>, **with <u>the spire of the church of our village</u> <u>showing in the far distance</u>.**
+  * according to .... 根据某人的看法/说法
+  * spire n. 尖顶
+  * **come** = **travel**
+    * → Some of the birds have **come** thousands of miles to winter here.
+  * **独立主格**
+    * **(with +)n. + 非谓语**
+      * → (NCE3-6 P34-L9) The silence was suddenly broken when a large car, **with its headlights (being) on** and **its horn blaring**, roared down the arcade.
+      * → (NCE4-18 P104-L9) It is possible that upon such an occasion a battle ensued, **with the sharks being driven away or killed.**
+* **decide 不一定译为 “决定" ，而常常译为”（在考虑之后）确定，断定， 认为" ，尤其是其后加 that 引号的宾语从句时.**
+  * → (NCE3-43 P200-L11) The pie committee **decided** <u>that the best way to tranisport the dish would be by canal</u>, so they insured it for the trip.
+  * → (NCE3-52 P236-L30) From then on, Harry **decided** **that this little game he had invented might prove to be expensive.**
+* **turning (BrE) / turn (AmE)** n. 道路转弯处
+  * → He must have **taken a wrong turning** in the dark.
+  * → **Take the first turning** on the left.
+* → <u>So</u> l drove back to the town <u>and</u> began to retrace the route, **taking frequent glances at the map.**
+  * **retrace** v. repeat (a journey, route, etc.)exactly 重走
+    * → We shall be **retracing the route** taken by Marco Polo.
+    * → They are haping to **retrace the epic voyage** of Christopher Columbus.
+  * **<u>take</u> / <u>shoot</u> / <u>throw</u> / <u>cast</u> a glance at ..** 扫视.....
+    * → The couple at the next table **cast quick glances at** us.
+    * → The other people **shot sidelong glances at** me.
+* **land up = end up = finish up**: to finally be in a particular place or situation 最终；最后.
+  * → He'll **<u>land</u> / <u>end</u> / <u>finish</u> up in hospital** if he carries on drinking like that.
+  * **<u>land up</u> / <u>end up</u> / <u>finish up</u> doing**
+    * → Instead of becoming a doctor, however, he **<u>landed up</u> / <u>ended up</u> / <u>finished up</u> becoming** a successful writer of detective stories.
+* → I felt **as if l <u>had stumbled</u> into a nightmare country, <u>as you sometimes do in dreams.</u>**
+  * **<u>as if</u> /<u>as though</u>从句中表达与事实相反或可能性很小时，可以用虚拟语气 。与现在事实相反用一般过去时 （be 动词一般用were） ，与过去事实相反用过去完成时，与末来趋势相反用 <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + 动词原形**
+    * → (NCE3-33 P154-L4) It is **as if a single unimportant event <u>set</u> up a chain of reactions.**
+    * → (NCE3-33 P154-L10) **As if this <u>were</u> not enough to reduce you to tears**, your husband arrives, unexpectedly bringing three guests to dinner.
+    * → It looks **as if it <u>might</u> rain.**
+    * **注意，<u>as if</u> / <u>as though</u>从句中虚拟语气为进行时的时候，一般都用were doing的形式。**
+      * → (NCE3-24 P118-L21)'Oh, that,' he said with a smile **as if he <u>were talking</u> about an old friend.**
+      * → Suddenly, the knocking turned to a forceful banging, **as if someone <u>were hitting</u> the door with a metal rod.** (The Da Vinci Code)
+      * → It looks **as if he <u>were talking</u> to someone invisible.**
+  * **stumble into ...** to become involved in sth. by chance 偶然卷入、参与或陷入 ...
+    * → I **stumbled into acting** when I left college.
+    * → I felt as if l had stumbled into a nightmare country, as you sometimes **<u>stumble into a nightmare country</u>** in dreams.
+* → And, **<u>as in a nightmare</u>**, there was nobody in sight to help me.
+  * **连词as引导的方式状语从句中常省略主句中出现过的成分而只残存“as+ 状语”结构。**
+    * = → And, **as <u>there is nobody in sight to help me</u> in a nightmare**, <u>there was nobody in sight to help me.</u>
+    * → In New York, **as in some other cities**, environmental pollution is becoming more and more serious.
+      * = → In New York, **as <u>environmental pollution is becoming more and more serious</u> in some other cities**, <u>environmental pollution is becoming more and more serious.</u>
+* → <u>Fortunately for me</u>, **as I was wondering <u>what to do next</u>**, there <u>appeared</u> on the horizon a man on horseback, **riding in my dlirection.**
+  * 全部倒装
+    * 把全部谓语置于主语之前。
+      * 1、表示位置或次序的状语置于句首， 只要满足两个条件，要用全部倒装。 主语不是代词。②谓语动词不是及物动
+      * 2、表语置于句首。
+    * → ...., there **<u>appeared</u>** on the horizon a man on horseback, ....
+      * = → …,a man on horseback **<u>appeared</u>** there on the horizon; ...
+  * **on horseback** 骑着马的人, 骑着马的
+    * a solidier **on horseback**
+    * → They travelled over the mountains **on horseback.**
+  * **in sb.'s direction**
+    * → Tony glanced **in her direction** and their eyes met.
+* **<u>ask</u> / <u>tell</u> / <u>show</u> sb. the way to .. .** 告诉某人去某地的路
+  * → He **asked** me **the way to** London.
+  * → Could you **tell** me **the way to** the station?
+  * → Could you please **show** me **the way to** the temple?
+* → The village no longer existed **because it <u>had been submerged</u>, <u>and</u> all the valley <u>had been submerged</u> too.**
+* not ... but .... 不是, 而是
 
 ## L58 A spot of bother
 
