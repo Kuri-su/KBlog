@@ -2833,7 +2833,82 @@
 
 **## words**
 
-* 
+* **composure** /kəmˈpoʊʒər/ n.镇静, 沉着 [U]
+  * **<u>keep</u> / <u>maintain</u> one's composure** 
+  * **lose one's composure**
+  * **<u>recover</u> / <u>regain</u> one's composure**
+  * compose/collect v. 使安定, 使平静, 使镇静
+    * **<u>compose</u> / <u>collect</u> oneself** 让自己平静下来
+      * → He took a deep breath to **<u>compose</u> / <u>collect</u> himself.**
+  * **<u>composed</u> / <u>collected</u>** adj. 镇定的
+    * → He appeared **<u>composed</u> / <u>collected</u>** despite the stress.
+      * stress n. 压力
+
+* **hinder**  /ˈhɪndər/  v. 妨碍, 阻碍
+  * **hinder** v. to make it difficult for sth. to develop or succeed 妨碍，阻碍
+  * 同义词
+    * **hinder** 
+    * **hamper** 
+    * **impede**
+  * → Higher interest rates could **<u>hinder</u> / <u>hamper</u> / <u>impede</u>** economic growth.
+  * → Social unrest will  **<u>hinder</u> / <u>hamper</u> / <u>impede</u>** economic development.
+  * 同义词
+    * **put sand in the wheels of ...** 妨碍, 阻碍 (往轮子里面扔沙子)
+    * **put obstacles in the way of ...** 妨碍, 阻碍 (在路上设置障碍)
+    * **stand in the way of ...** 妨碍, 阻碍  (站在路中间挡住了去路)
+      * → (NCE4-8 P47-L2) These days, it is differences in national regulations, far more than tariffs, that **put sand in the wheels of** trade between rich countries.
+* **veritable** /ˈverɪtəbl/ adj. 真正的，货真价实的
+  * **veritable** adj. a word used to emphasize a description of st.or sth. 真正的，货真价实的= **real**
+  * → The area is a **veritable** paradise for those who love walking and swimming.
+  * **字根 "ver" = true**
+    * **ver**y adj. 正是的
+      * → He died in this **very** room. 他就是在这个房间去世的
+      * → At that **very** moment the phone rang.
+    * **ver**ify v. 证实, 核实
+      * → His story has **been verified** by other witnesses.
+        * witnesses n. 目击者; 证人
+    * **ver**dict n. (陪审团的) 裁决
+      * → After a week the jury had still not reached a **verdict**.
+    * **ver**acity n. = truth 真实，真实性
+      * → Some people questioned the **veracity** of her story.
+* **magpie** /ˈmæɡˌpaɪ/ n. 喜鹊；饶舌者；喜欢收藏物品的人
+  * → (NCE3-58 P260-L18) She had lived in the flat for 30 vears and was a veritable **magpie** at hoarding; ...
+    * hoard v. 聚积财富, 囤积货物
+  * 比喻用法
+    * → He is a **bear**. (他是一个粗鲁的人)
+    * → He is a **beast**. (他是一个野蛮的人)
+    * → He is a **fox**. (他是一个狡猾的人)
+    * → He is a **snake**. (他是一个阴险的人)
+    * → He is a **dark horse**. (注意不要用 black horse)
+    * → He is a **lucky dog**. (他是一个幸运的人)
+    * → He is a **big fish**. (他是个大人物)
+    * → He is a **lame duck**. (他是一个任期将满的总统或领袖)
+    * → He is an **old goat**. (他是一个老色狼)
+    * → He is an **eager beaver.** ( 他是一个勤奋努力且一心想出人头地的人)
+      * beaver 海狸
+      * eager adj. 热心的, 渴望的
+* **toss** /tɔːs/ v.抛掷，扔 ; 搅拌
+  * **toss** v. to throw sth., esp. sth. light, with a quick gentle movement of your hand 抛掷，扔 (比较轻的东西, 轻抛)
+    * → She crumpled the letter and **tossed** it into the fire.
+    * → (NCE3-58 P260-L19) .... it seemed as though everything she possessed had **been tossed out** and turned over and over.
+  * toss v. 搅拌
+    * → **Toss** the carrots in some butter before serving.
+    * **tossed** green salad
+    * → "Let's go into the kitchen, and maybe you can help me set the table” 
+      * → "Sound's good to me. What are we having?”
+      * → "I prepared lamb chops, mashed potatoes, and a **<u>tossed green salad</u>** to begin with.”
+      * → "Grandpa, you are a territic guy!"
+  * **toss and turn** 辗转反侧
+    * → I was **tossing and turning** all night.
+* **fussy**  /ˈfʌsi/ adj.神经过敏的，小题大做的; 挑剔的
+  * **fussy** adj. 1. nervously active or excited about small things (对小事）神经过敏的，小题大做的
+    * **fussy** parents
+      * → (NCE3-58 P260-L27) The old lady thought he was a **fussy** creature, ...
+  * **fussy** adj. 2. giving too much close attention to detail, etc. and therefore difficult to please 挑剔的
+    * → A lot of small children are **fussy** eaters.
+  * 表示''挑剔的'' 的同义词
+    * **be <u>fussy</u> / <u>picky</u> / <u>choosy</u> / <u>particular</u>  about ...**
+      * → He **is** very **<u>fussy</u> / <u>picky</u> / <u>choosy</u> / <u>particular</u> about** the clothes he buys.
 
 **## text 1**
 
