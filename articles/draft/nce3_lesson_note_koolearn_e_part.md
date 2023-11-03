@@ -2912,11 +2912,80 @@
 
 **## text 1**
 
-* 
+* **a spot of ...** = a small amount of ... 少量的某物
+  * → Shall we stop for **a spot of** lunch? 要不我们停下来吃点午饭?
+  * **a spot of bother** = some trouble
+    * → I'm having **a spot of bother** with <u>my car</u> / <u>one of my teeth.</u>
+* → The old lady was glad **to be back at the block of flats <u>where she lived</u>.**
+  * **glad** adj. 高兴的, 开心的
+  * **block** n. a large building divided into separate parts 大楼
+    * block n. 街区
+    * a **block of flats** 一栋公寓 (英式)
+      * → (NCE2-29 P138-18) Once he landed on the roof of a **block of flats** and on another occasion, he landed in a deserted car park.
+    * an **office block** 一个办公楼, 一个写字楼
+    * an **apartment block** 一栋公寓楼 (美式)
+* **tire** vt. 使疲劳
+* **grow** linking-v.(系动词) become different quite slowly 慢慢变得
+  * 造句：我对英语的兴趣随着每一堂课慢慢增长。
+    * → My interest in English grew stronger with every class of the course.
+  * 造句：他的自信心随着每一次取得的成功渐渐增长。
+    * → His self-confidence grew greater with every success he achieved.
+* → <u>In the lift</u> her thoughts were on lunch and a good rest; <u>but</u> **when she got out at her own floor**, both were forgotten **in her sudden discovery <u>that her front door was open</u>.**
+  * **lift** (BrE) **=elevator** (AmE) n. 电梯
+  * 中文中, 动词占有统治地位, 英文中, 名词占有统治地位
+    * → <u>In the lift</u> her thoughts were on lunch and a good rest;
+      * → In the lift she **was thinking about** lunch and a good rest. (动词写法)
+      * **one's thoughts <u>are</u> / <u>were</u> on ..** 正在想着某事, 思绪在某事上面
+        * → On my way to the school, **my thoughts were on** the final examinations.
+  * **in the + noun. 句中多作原因状语** (书面语)
+    * =  → ...,both were forgotten **because she suddenly discovered** that ....
+    * →  (NCE3-53 P240-L6) The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously **in the belief (=because they believe)** that they are serving the public.
+    * → (NCE3-56 P252-L27) The men of our family waded down through our flooded meadows with boathooks, **in the hope of being (=because they hope to be)** able to grapple a corner of the raft and pull it out of the current towards our bank.
+    * → (NCE3-59 P264-L5) They leave unwanted objects in drawers, cupboards and attics for years, **in the belief (=because they believe)** that they may one day need just those very things.
+* → She was thinking that she must reprimand her home help the next morning <u>for such a monstrous piece of negligence</u>, **when she remembered that she had gone shopping <u>after the home help had left</u> <u>and</u> she knew <u>that she had turned both keys in their locks</u>.**
+  * 主句如果出现进行时 或者 be about to do , 后面的 when 要翻译成这时../突然... , 并且这种句型 的主要信息在 when 从句里
+  * **reprimand ... (for ...)** 责备, 批评某人(上下级之间)
+    * → (NCE3-31 P146-116) Recognizing who the customer was, the manager was most apologetic and **reprimanded** the assistant severely.
+    * → (NCE3-53 P240-L17) He may gently **reprimand** an official or even suggest to parliament that a law be altered.
+    * → She was thinking that she must **reprimand** her home help the next morning **for** such a monstrous piece of negligence, ...
+  * **home help** n. (BrE) someone who helps ill or old people in their homes with cleaning, cooking etc. 家务助手
+  * **negligence** n. [U]疏忽，粗心大意
+    * → The accident was due to her **negligence**.
+      * due to 由于
+  * 钥匙相关的搭配
+    * 插钥匙进去
+      * **turn** the key in the lock
+      * **insert** the key in the lock
+    * 钥匙拔出来
+      * **<u>remove</u> / <u>take out</u>** the key from the lock
+* → She walked slowly into the hall <u>and</u> at once noticed **that all the room doors were open**, <u>yet</u> **following her regular practice** she had shut them **<u>before going out.</u>**
+  * hall n. 衣帽间/ 门厅
+  * **follow one's regular practice** 按照某人通常的做法, 
+    * practice v. 练习, 习惯性的做法
+    * → **Following my regular practice** I write once a month to my son in the States.
+* drawing room = living rome
+  * **drawing room** n. (formal or old-fashioned) a room in a large house in which people relax and guests are entertained 客厅，起居室
+    * **hall** n. 衣帽间/ 门厅
+    * **<u>living room</u> / <u>sitting room</u> / <u>drawing room</u>** 前两个较为常见, 客厅, 起居室
+    * **dining room** 餐厅
+    * kitchen 厨房
+    * bathroom 浴室
+    * guestroom 客房
+    * study
+    * bedroom 卧室
+    * master bedroom 主卧
+    * storeroom 储存室
+    * **attic / loft** 阁楼
+    * basement(可住人的) / cellar(地窖) 地下室 
+    * **balcony** 阳台
+* **look into sth**: investigate or examine sth.调查或仔细查看
+  * → I wrote a letter of complaint and the airline has promised to **look into** the matter.
 
 **## text 2**
 
-* 
+* **confusion** n. mess; disorder; chaos 混乱
+  * → (NCE3-33 P154-L21) Only two stray dogs benefited from all this **confusion**, for they greedily devoured what was left of the cake.
+  * 
 
 **## text 3**
 
