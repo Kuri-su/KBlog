@@ -2985,11 +2985,173 @@
 
 * **confusion** n. mess; disorder; chaos 混乱
   * → (NCE3-33 P154-L21) Only two stray dogs benefited from all this **confusion**, for they greedily devoured what was left of the cake.
-  * 
+* **over** adv. across a distance in a particular direction or at a location 在那边
+  * → He lives **over** in England.
+* **as clear as <u>day</u> / <u>daylight</u> / <u>crystal</u>** 像大白天一样清楚 = very clear
+  * → It was **as clear as daylight** then that ....
+    * = → It was **very clear** then that ... (不佳)
+  * 类似的比喻
+    * **as clear as mud** 不明显(就像泥巴一样明显)
+    * **as dark as pitch** 一片漆黑  (就像沥青一样黑)
+    * **as easy as ABC** 非常简单 (就像 ABC 一样简单)
+    * **as switft as lightning** 非常快 (迅捷的如闪电一般)
+    * **as cold as ice** 很冷 (像冰一样冷)
+    * **as straight as an arrow** 笔直 (像箭一样直)
+    * **as strong as a horse** 像马一样强壮
+    * **as brave as a lion** 像狮子一样勇猛
+    * **as cunning as a fox** 像狐狸一样狡猾
+    * **as greedy as a wolf** 像狼一样贪婪
+    * **as stubborn as a mule** 像骡子一样倔
+    * **as poor as a church mouse** 像教堂的老鼠一样穷
+* **force an entry** = **break in** 强行闯入
+  * → The police **forced an entry** into the building.
+  * → There is no signs of **forced entry.**
+    * 强行闯入 forced an entry 当动词用
+    * 强行的闯入 forced entry 当名词用
+* '当她不在的时候' 的表达
+  * while she was away. (不佳)
+  * **<u>in</u>/<u>during</u> one's absence**. (佳, 使用名词做中心词)
+    * absence n. 不在, 缺席
+    * **<u>in</u>/<u>during</u> the absence of sb.**
+  * 某人在场的情况下
+    * **in one's presence** 
+    * **in the presence of sb.**
+* → Her first impulse was **to go round all the rooms <u>looking for the thieves</u>**, <u>but</u> then she decided that at her age <u>it</u> might be more prudent <u>to have someone with her</u>, **so she went to fetch the porter from his basement.**
+  * impulse n. 冲动
+  * 表示目的通常用 to do 
+    * **one's <u>aim</u>/<u>purpose</u> is to ....** 某人的目的是去做某事
+    * **one's dream is to ....** 梦想是去做....
+    * **one's plan is to ..**
+    * **one's <u>hope</u> / <u>wish</u> is to ...**
+    * **one's <u>advice</u> / <u>suggestion</u> is to ...**
+    * **one's first <u>impulse</u> / <u>reaction</u> is to ..** 
+  * **prudent** adj. sensible and careful, esp. by trying to avoid unnecessary risks 审慎的，明智的
+    * **prudent** house buyers 明智的房屋购买者
+    * **it is prudent (for sb.) to do sth.** 对某人来说是明智的
+      * → **It would be prudent to** save some of the money.
+      * → **It might be prudent to** get some expert advice first.
+    * 反义：**rash** adj. 轻率的，魯莽的，不计后果的
+
+      * → Don't make **rash** promises.
+      * → (NCE3-8 P42-L9) Despite the new tunnel, there are still a few people who **rashly** attempt to cross the Pass on foot.
+  * **have (got) sb. with you**: if you have someone with you, they are present with you 某人与自己在一起
+    * → Luckily I **had a friend with me** who spoke German.
+  * **fetch sb. from sth.** 从把某人接来，叫来或找来
+    * → Would you mind going to **fetch** the kids **from** school?
+    * → I have to **fetch** my mother **from** the railway station.
+  * **porter** n. 1. (BrE)= **doorman** (AmE) someone whose job is to take care of a building and be present at its entrance in order to help visitors 门房
+    * **porter** n. 2. a person whose job is to carry things, especially traveler's bags at railway stations, airports, etc. 脚夫，搬运工
+      * → (NCE3-60 P268-L24) She gave her luggage to a **porter** and showed him her ticket.
+* → <u>By this time</u> her legs were beginning to tremble, **so she sat down and accepted a cup of very strong tea, <u>while he telephoned the police.</u>**
+  * by this time 截至到这个时候
+  * **be beginning to do sth.**  慢慢的开始, 逐渐开始
+    * → It **was beginning to** get dark. 天色慢慢开始暗下来了
+    * → (NCE3-54 P244-L20) During the summer, l noticed that the leaves of the tree **were beginning to** wither.
+      * wither vi. 枯萎
+  * tremble v. 颤抖
+    * → (NCE3-10 P50-L12) Suddenly, there was a slight **trembling** sound from below, and the captain went down to see what had happened.
+  * **strong** adj. （饮料、酒等） 浓的，烈性的
+    * **strong** <u>coffee</u> / <u>tea</u> / <u>beer</u> ....
+    * 反义：**weak** 淡的, 度数低的
+      * **weak** <u>coffee</u> / <u>tea</u> / <u>beer</u>..
+* → Then, **<u>her composure</u> regained**, she was ready to set off with the porter's assistance **to search for any intruders <u>who might still be lurking in her flat.</u>**
+  * Her composure regained 写法
+    * **<u>keep</u> / <u>maintain</u> one's composure** 保持了镇定
+    * **lose one's composure** 失去了镇定
+    * **<u>recover</u> / <u>regain</u> one's composure** 恢复了镇定
+    * 原本的写法: 
+      * → Then, her composure **<u>was</u>** regained, **<u>and</u>** she was ready to ... 主次稍不分明
+    * 独立主格写法
+      * → Then, **her composure regained**, she was ready to ..
+  * 动身出发的表达
+    * **set <u>off</u> / <u>out</u>**
+      * → (NCE3-10 P50-L9) Four days after **setting out**, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.
+    * **start <u>off</u> / <u>out</u>**
+  * **intruder** n. someone who illegally enters a building or area, usually in order to steal sth. 非法入侵者 （尤指为行窃）
+    * → The police think the **intruder** got in through an unlocked window.
+    * **intrude**  v. to interrupt someone or become involved in their private affairs in an annoying and unwanted way 打扰，侵扰，千涉（隐私等）
+      * → I don't wish to **intrude**, but could I talk to you for a moment?
+      * → Employers should not **intrude into** the private lives of their employees.
+  * **lurk** v. to wait somewhere quietly and secretly, usually because you are going to do sth. wrong 潜伏
+    * → She didn't see the figure **lurking** behind the bushes.
 
 **## text 3**
 
-* 
+* → They went through the rooms, **being careful to touch nothing, <u>as they did not want to hinder the police in their search for fingerprints</u>.**
+  * **go through sth.**: to search sth. in order to find sth. in particular 搜寻
+    * → (NCE3-11 P54-L13) The Officer **went through** the case with great care.
+  * the search for ...
+    * → Bad weather is hampering **the search <u>for</u>** survivors.
+  * **in search of ... = searching for ...**
+    * → go **in search of** a cheap hotel
+    * → (NCE3-59 P264-L25) Soon the hobby leads to travel, perhaps to a meeting in another town, possibly a trip abroad **in search of** a rare specimen, for collectors are not confined to any one country.
+* → She had lived in the flat for thirty years <u>and</u> was a veritable magpie <u>at hoarding</u>; <u>and</u> it seemed **as though everything <u>she possessed</u> had been tossed out and turned over and over.**
+  * possess v. 拥有
+* → At least sorting out the things **she <u>should have discarded</u> years ago** was now being made easier for her.
+  * sort out v. 从一堆东西中把某物挑出来
+    * **sort out**: 1. to separate one type of thing from another 从....中挑出来
+      * → I've **sorted out** the papers that can be thrown away.
+    * **sort out**: 2. to arrange or organize sth. that is mixed up or untidy, so that it is ready to be used 将.……分类整理好
+      * → We need to **sort out** our camping gear before we go away.
+  * **should have done** 应该做的却没有做 (情态动词完成时)
+    * → (NCE3-11 P54-L16) You **should have declared** that. Perfume is not exempt from import duty.
+* **police inspector** n. a police officer of <u>middle rank</u> 巡官
+  * **constable** n. a <u>British</u> police officer of the lowest rank 警察
+* **tell sb. of sth.** (fml.) describe an event to sb. 向某人讲述某事
+  * 比 tell sb. about sth. 更加文气和正式
+  * → He **told** us **of** his extraordinary childhood.
+* **ransack** v. to search a place, making it untidy and causing damage, usually because you are looking for sth. 洗劫
+  * → The house had **been ransacked** by burglars. 
+* → The inspector began to look for fingerprints, <u>while</u> the constable checked **that the front door locks had not been forced, thereby proving <u>that the burglars had either used skeleton keys or entered over the balcony</u>.**
+  * while 做连词, 当某人在做 A 事的时候 , 另一个人在做 B 事
+    * → (NCE3-6 P34-L10) One man stayed at the wheel **while** two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.
+  * **check** v. make sure of sth. by examining or investigating it （用检查或调查的方法）印证、确认某事物
+    * → Go and **check (that)** I've locked the windows.
+  * **<u>force</u> / <u>pick</u> / <u>break</u>** a lock 撬锁
+  * **thereby** adv. (fml.) with the result that sth. else happens 因此，由此 (五星级结果状语的精彩表达)
+    * **thereby doing sth.**
+      * → Regular exercise strengthens the heart, **thereby reducing** the risk of heart attack.
+    * 替换
+      * **thus doing** 从而, 因此 (完美替换)
+        * thus adv. 如此, 因为
+        * → They diluted the drug, **thus reducing** its effectiveness.
+          * dilute v. 加水稀释, 懈开
+        * → The merchants began to import corn, **thus forcing** farmers to cut their prices.
+  * **<u>skeleton key</u> / <u>passkey</u>** 万能钥匙
+* → There was no trace of fingerprints, <u>but</u> the inspector found a dirty red bundle **that contained jewellery which <u>the old lady said</u> was not hers.**
+  * **bundle** n. 包裹
+    * **bundle** n. parcel, package 包裏
+  * **trace** n. a small sign that shows that sb. or sth. was present or existed 痕迹，踪迹，迹象
+    * **there is no trace of ...**
+      * → **There was no trace of** anyone having entered the room since then.
+  * **嵌入式定语从句 (Embedded Attributive Clause)**：既是先行词的后置定语，又是另一个分句结构的宾语。
+    * → (NCE3-42 P196-L24) In this part of the cave, they could hear an insistent booming sound **which <u>they found</u> was caused by a small waterspout shooting down into a pool from the roof of the cave.**
+    * → (NCE3-48 P220-L30) Turning back down the main street, we quickened our pace and made our way rapidly towards the stream **where <u>we hoped</u> the boatman was waiting.**
+    * → (NCE3-57 P256-L14) I hired a car the day after landing and bought a comprehensive book of maps, which I found most helpful on the cross country journey; but **which <u>I did not think</u> I should need on the last stage.**
+* **entry (into ....)**进入（.....) (可以尝试用名词 entry 来表示进入)
+  * 造句：老师突然进来把孩子们吓了一跳。
+    * → The children were surprised by the sudden **entry** of their teacher.
+  * 造句：天色昏暗，谁也没有注意到他们进入了军营。
+    * → It was dark and their **entry into** the camp had gone unnoticed.
+* **job** n. (infml. (口语 )a crime, esp. stealing 作案，罪行 (活儿)
+  * an inside **job** 内部作案
+  * → He got six months for that last **job** he did.
+* → The inspector then asked the old lady to try to check **what was missing** <u>by the next day</u> <u>and</u> advised her not to stay alone in the flat <u>for a few nights.</u>
+* → The old lady thought **he was a fussy creature**, <u>but</u> **since the porter agreed with him**, she rang up her daughter <u>and</u> asked for her help in **<u>what she described as a little spot of bother.</u>**
+  * **creature** (esp. following an adjective) a person, considered in a particular way (尤其用于形容词后） 有某种特点的人
+    * creature n. 生物
+    * a <u>fussy</u> / <u>strange</u> / <u>pathetic</u> ... **creature** 一个小题大做的家伙/ 一个奇怪的家伙/ 一个可怜的家伙
+  * **ring sb. $\Leftrightarrow$ up** 给某人打电话 (英式)
+    * → (NCE3-35 P162-L14) As the cry was repeated several times, she ran to tell the manager who promptly **rang up** the fire-brigade.
+    * 给某人打电话的表达
+      * **<u>ring</u> / <u>phone</u> sb. $\Leftrightarrow$ up (BrE) = call sb. $\Leftrightarrow$ up (AmE)**
+      * **<u>telephone</u> / <u>phone</u> / <u>call</u> sb.**
+      * **give sb. a call = give sb. a ring (BrE)**
+  * **help in sth.** 在某方面的帮助
+    * → Local teachers provided invaluable **help in** dealing with the problem.
+      * invaluable adj. 非常珍贵的, 宝贵的
+  * **describe ... as ...**
+    * → (NCE3-17 P78-L2) He **described** it **as** 'a very agreeable situation located within two small hills in the midst of which flowed a great river'
 
 ## L59 Collecting ⭐️
 
