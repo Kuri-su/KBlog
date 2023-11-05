@@ -3157,11 +3157,98 @@
 
 **## words**
 
-* 
+* **amass** /əˈmæs/ v. 积累，积聚
+  * → How had he **amassed** his fortune?  他是如何积累他的财富的?
+    * fortune n. 财富
+    * fortunate adj. 幸运的 
+  * → For 25 years, Darwin **amassed** evidence to support his theories.
+  * 同义词
+    * **accumulate** v. 积累, 积聚
+      * **accumulate** <u>knowledge</u> / <u>possessions</u> 积累知识, 积累财富
+      * → (NCE3-1 P14-44) However, as the evidence began to **accumulate**, experts from the Zoo felt obliged to investigate,
+    * **collect / gather** v. 积累, 积聚, 
+      * → Dust had **<u>collected</u> / <u>gathered</u>** on the window-sill.
+      * → | didn't know what to do with it, so it just sat there **<u>collecting</u> / <u>gathering</u>** dust.
+        * collect dust 积灰
+    * **<u>pile up</u> / <u>build up</u>** v. 越积越多
+      * → (NCE3-33 P154-L19) Meanwhile, the traffic **piled up** behind.
+      * → He **<u>piled up</u> / <u>built up</u>** huge debts.
+* **indiscriminate** /ˌɪndɪˈskrɪmɪnət/ adj.不加选择的
+  * **be indiscriminate in ...** 在某方面不加选择
+    * → He **is indiscriminate in** his choice of friends.
+  * **discriminate** v. 区别, 分辨, 辨别
+    * **discriminate against ...** 歧视
+      * **discriminate against** women
+      * **discriminate against** ethnic minorities
+        * ethnic adj. 民族的
+        * minority n. 少数
+  * **discrimination** n. 分辨, 辨别; 歧视
+    * racial **discrimination** 种族歧视
+    * sexual **discrimination** 性别歧视
+    * religiaus **discrimination** 宗教歧视
+* **mania** /ˈmeɪniə/ n. 狂熱，癖好；躁狂症
+  * **mania = craze** n. 狂热
+    * soccer **<u>mania</u> / <u>craze</u>**
+      * soccer n. 足球
+    * fitness **<u>mania</u> / <u>craze</u>** 健身热潮
+  * **maniac** n. 狂热的人; 疯子, 狂人
+  * **kleptomania** 偷窃癖
+    * **kleptomaniac** 偷窃狂
+  * **pyromania** 纵火癖
+    * **pyromaniac** 纵火狂
+  * **megalomania** 自大癖
+    * **megalomaniac** 自大狂
+  * **dipsomania** 酗酒癖
+    * **dipsomaniac** 酗酒狂
+  * **bibliomania** 藏书癖
+    * biblio- 书的
+    * **bibliomaniac** 藏书狂
+* **strong-minded** adj.意志坚强的(褒义词)
+  * 同义词
+    * **iron-willed**  adj.意志坚强的 (钢铁般的意志的) (褒义词)
+      * will n. 意志, 自制力, 毅力
+    * **resolute** adj. 坚定的, 坚决的(褒义词)
+    * **determined** adj. 坚定的, 坚决的, 已下定决心的(褒义词)
+  * 同义但贬义的词
+    * **stubborn** adj. 倔强的 (贬义的意志坚强)
+    * **obstinate** adj. 倔强的 (贬义的意志坚强)
+  * 反义词
+    * **hesitant** adj. 犹豫不决的, 迟疑的
+* **verify** /ˈverɪfaɪ/ v.证实，核实
+  * ver- 字头 表示 真正的,真实的
+    * **verify** <u>data</u> / <u>details</u> 核实数据/核实细节
+  * **testify** v. 出庭作证
+    * **testity <u>against sb.</u> / <u>in favor of sb.</u>** 
+  * **justify** v. 证明...是合理的
+    * → The end **justifies** the means. 结果是证明手段是合理的
+* **contented** /kənˈtentɪd/ both satisfy and happy adj. 心满意足的
+  * a **contented** heart 一颗满足的心
+  * a **contented** smile 一个满足的微笑
+  * → Whenever he returns to this place he is happy and **contented**.
+  * **content** adj. 满足的, 满意的  (只能做表语, 不能做定语)
+    * **be content with ...**
+      * → He **is content with** his present job.
+    * **be content to do ...**
+      * → He **is content to** stay in his present job. 
 
 **## text 1**
 
-* 
+* **collecting** n. 收藏这种行为
+  * **collection** n. 收藏品, 藏品; 收集品
+* **tend** v. 倾向于, 易于, 往往会 ....
+  * **tend to do**
+    * = **have a tendency to do** 有...的趋势
+    * = **be inclined to do ** 倾向于做某事
+    * = **be apt to do** 倾向于做某事
+      * apt adj. 易于...., 有...的倾向
+  * **intend to do** 打算做某事
+    * = **mean to do** 打算做某事
+    * = **be going to do**
+    * = **plan to do**
+    * = **have every intention of doing** 打算做某事, 有意要做某事
+      * **have no intention of doing** 无意做某事
+        * → (NCE3-28 P134-L9) I **had no intention of buying** one, but I could not conceal the fact that I was impressed by the size of the diamonds.
+* **amass possessions** 积累财富
 
 **## text 2**
 
