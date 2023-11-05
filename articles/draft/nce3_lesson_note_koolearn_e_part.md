@@ -3249,6 +3249,85 @@
       * **have no intention of doing** 无意做某事
         * → (NCE3-28 P134-L9) I **had no intention of buying** one, but I could not conceal the fact that I was impressed by the size of the diamonds.
 * **amass possessions** 积累财富
+  * = **accumulate belongings**
+    * belongings 动产
+* aware = conscious adj. 意识到的
+  * ... **without being conscious of** doing so.
+    * → (NCE3-31 P146-L2) They disregard social conventions **without being conscious that** they are doing anything extraordinary.
+  * = ...**without knowing** so.
+  * = ... **without realizing** so.
+  * = ... **(being) unaware / unconscious of** doing so.
+    * → (NCE3-30 P142-L21) He used to sleep during the day and work at night, **quite unaware of** the fact that he had become the ghost of Endley.
+  * 造句：人们变老时往往睡得更少， 有时候自己都没有意识到。
+    * → People tend to sleep less when they get older, sometimes without being aware of doing so.
+* → Indeed they can have a delightful surprise **when they find something useful which <u>they did not know</u> they owned.**
+  * **delightful surprise** 惊喜交加的感觉 (又惊又喜) 
+    * 一种情绪的形容词可以修饰另一种情绪的名词
+      * painful joy 痛苦的欢乐 (苦乐交织)
+      * sweet sorrow 甜蜜的忧伤
+      * hating love 爱恨交织的情绪
+      * mixed <u>feelings</u> / <u>emotions</u> 杂糅的情绪
+* → Those **who never have to move house** become indiscriminate collectors of **<u>what can only be described as clutter.</u>**
+  * clutter 废品, 破烂货 = junk
+  * **move <u>house</u> / <u>home</u>** 搬家 (BrE)
+    * → We're **moving <u>house</u> / <u>home</u>** next week.
+    * **move** (AmE)  搬家
+      * → We're **moving** next week.
+    * **move to ...** 搬家到某地
+      * → We're **moving to** Shanghai.
+    * **<u>move in</u> / <u>move out</u>** 搬进来, 搬出去
+      * → They ve bought a new house, but it will need a lot of work before they can **move in.**
+      * → Her landlord has given her a week to **move out.**
+  * described as ... 的同义表达
+    * **be called ...**
+    * **be regarded as ...**
+    * **be classified as ...** 被归为...一类
+    * **be branded as ....** 被打上 .... 的烙印 (贬义)
+* → They leave unwanted objects <u>in drawers, cupboards and attics</u> for years, **in the belief <u>that they may one dav need iust those very things</u>.**
+  * drawer n. 抽屉
+  * cupboard n. 橱柜
+  * attic 阁楼
+  * **unwanted: undesirable / unwelcome** 不想要的, 不受欢迎的, 要抛弃的
+  * **in the belief** that... **= because they believe** that ...
+    * → (NCE3-53 P240-L6) The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously **in the belief (=because they believe)** that they are serving the public.
+    * → (NCE4-11 P65-L2) Young men who have reason to fear that they will be killed in battle may justifiably feel bitter **in the thought that (=because they think that)** they have been cheated the best things that life has to offer.
+    * →  (NCE3-56 P252-L27) The men of our family waded down through our flooded meadows with boathooks, **in the hope of being (=because they hope to be)** able fo grapple a corner of the raft and pull it out of the current towards our bank.
+    * 造句：他每天都吃维生素药丸，相信这样对健康有好处。
+      * → He takes vitamin pills every day **in the belief that** they may benefit his health.
+    * 造句：他给这个女孩子写了一封又一封信希望能赢得芳心。
+      * → He wrote to the girl one letter after another **in the hope of** winning her heart.
+* just adv. 正是 / very adj. 正是
+  * → He is **just** the man wanted by the police.
+  * → He is the **very** man wanted by the police.
+  * → He is **just** the **very** man wanted by the police.
+* → **As they grow old**, people also aaccumulate belongings for two other reasons, <u>lack of physical and mental energy, **both of which are essential in turning out and throwing away**</u>, and <u>sentiment</u>.
+  * **lack** v. 缺少
+  * **sentiment** n. 感情
+    * **sentiment** n. [U] (usu. derog.) tender feelings of pity, nostalgia, etc. which may be exaggerated or wrongly directed (contrasted esp. with reason) (对怜悯、 怀日等的）情感，多愁善感 ，感情用事（尤与理智相对）(通常用作贬义用法)
+      * → There's no room for **sentiment** in business.
+      * → (NCE3-49 P224-L5) She **was sentimentally attached to** this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.
+  * **"名词＋介词＋ 关系代词” 引导非限定性定语从句**
+    * → He has two sons, **one of whom** died in the war.
+    * → She hurried home to feed her cats, **one of which** had just had kittens.
+    * → (NCE3-32 P150-L18) The most valuable find of all was the ship's log book, **parts of which** it was still possible to read
+* → Things <u>owned for a long time</u> are full of associations <u>with the past,</u> perhaps <u>with relatives **who are dead**</u>, <u>and</u> so they gradually acquire a value <u>beyond their true worth</u>.
+  * ... full of **connections with** the past, ...
+  * **relative** 亲戚
+    * a close **relative** 一位近亲
+    * a distant **relative** 一位远亲
+    * a <u>direct</u> / <u>straight</u> **relative** 一位直系亲属
+    * a blood **relative** 一位血亲
+    * 亲 : 父亲一系
+    * 戚: 母亲一系
+    * one's own flesh and blood 某人的亲骨肉
+      * flesh n. 肉, 人肉
+  * **nostalgia** v. 怀旧
+  * **and so** = and therefore (习语搭配)
+    * → Gold Coast has an ideal climate, **and so** it is not surprising that it has become a tourist paradise.
+  * **appreciate** v. 增值; 欣赏
+    * → The value of our house has **appreciated** by 50%.
+  * **depreciate** v. 贬值
+    * → The value of our house has **depreciated** by 50%.
 
 **## text 2**
 
