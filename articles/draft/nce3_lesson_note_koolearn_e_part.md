@@ -3331,11 +3331,62 @@
 
 **## text 2**
 
-* 
+* **deliberately** adv. 有意地, 故意地 (L27)
+  * **intentionally** adv. 有意地
+  * **on purpose** 故意地
+  * 反义词 - 偶然地
+    * **accidentally** adv. 偶然地
+    * **by accident**  
+    * **by chance** 
+* **in an attempt to .....** = in order to ...  为了做某事, 目的是...
+  * attempt v. 企图, 
+  * → They closed the road **in an attempt to** reduce traffic in the city. 他们关闭了这条路, 目的是为了减少交通堵塞
+* → <u>Among these</u> I would list string and brown paper, **kept by thrifty people <u>when a parcel has been opened</u>**, <u>to save buying these two requisites.</u>
+  * brown paper n. 牛皮纸
+  * string n. 细线
+  * list v. 列数
+    * **list** one's faults 列举某人的过失
+    * **list** one's achievements 列举某人的成就
+  * **save** = avoid
+    * **save <u>sth.</u>/<u>doing</u>** 
+      * → Setting down clear rules from the start will **save** arguments later on. 从一开始就制定好明确的规章制度, 避免日后起冲突
+      * → A stitch in time **saves** nine. 及时的缝一针, 避免之后缝九针
+    * **save sb. <u>sth.</u>/<u>doing sth.</u>**
+      * → f you lend me some money, it will **save me <u>a trip</u>** to the bank.
+      * → If you tell her the news, it will **save me <u>calling</u>** her.
+      * → (NCE3-41 P192-L15) They could **be saved <u>so much misery and expense</u>** if they chose to live in the city where they rightly belong.
+* → I know someone **who always cuts <u>sketches</u> out from newspapers <u>of model clothes</u> that she** <u>would</u> **like to buy if she** had **the money.**
+  * **sketch** n. 素描
+  * model clothes 时装 (模特穿的衣服)
+  * know 表示 认识一个人
+    * 听说过 的表达
+      * **know <u>of</u> / <u>about</u> ..**
+      * **hear <u>of</u> / <u>about</u> ...**
+      * **learn <u>of</u> / <u>about</u> ..**
+        * → (NCE3-17 P78-L1) Verrazano, an Italian **about whom little is known**, sailed into New York Harbour in 1524 and named it Angouleme.
+  * …. if she could **afford them.**
+    * • if she could **afford such purchases.**
+* → **As she is not rich**, the chances **<u>that she will ever be able to afford such purchases</u>** are remote; <u>but</u> she is never sufficiently strong-minded <u>to be able to stop the practice</u>.
+  * **chances <u>that ...</u> / <u>of ...</u> are <u>remote</u>/ <u>slight</u> / <u>slim</u> / <u>small</u>** 可能性很小/渺茫
+    * **chances <u>that...</u> / <u>of ...</u> are <u>high</u> / <u>good</u>** 可能性很高
+      * → (NCE3-29 P138-L17) The following day, however, the doctor consoled him by telling him that his **chances** of being able to leave hospital in time for New Year celebrations **were good.**
+    * **there is little chance of ...** 几乎没有可能性
+      * → **There is little chance of** her being able to afford such purchases.
+  * strong-minded **enough** 足够意志坚强的
+  * **practice**  n. 常规, 惯例
+    * → (NCE3-23 P114-L5) On the other hand, your stomach would turn at the idea of frying potatoes in animal fat—the normally accepted **practice** in many northern countries.
+* → It is a harmless habit, <u>but</u> it litters up her desk to such an extent **that <u>every time she opens it</u>, loose bits of paper fall out in every direction.**
+  * **litter(up)....**
+    * → (NCE3-46 P212-L23) The garden **was** soon **littered with** chunks of metal which had once made up a lawn mower.
+  * **in all directions** 向四面八方
 
 **## text 3**
 
-* 
+* **quite different** 截然不同
+  * → (NCE3-8 P42-L12) In winter, however, life at the monastery is **quite different.**
+* **leisure hours** 闲暇时间
+  * leisure time 闲暇时间
+  * 
 
 ## L60 Too early and too late ⭐️
 
