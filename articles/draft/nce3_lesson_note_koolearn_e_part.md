@@ -3386,7 +3386,68 @@
   * → (NCE3-8 P42-L12) In winter, however, life at the monastery is **quite different.**
 * **leisure hours** 闲暇时间
   * leisure time 闲暇时间
-  * 
+* **house** v. 收容, 给房子住; 储存
+  * → The refugees have **been fed, clothed** and **housed by** welfare organizations around the world.
+  * → The Palace Museum **houses** the biggest collection of antiques in China.
+    * antique adj. 古代的 n. 古董
+* → **<u>Whatever</u> it consists of, <u>stamps, records, first editions of books china glass, antique furniture, pictures, model cars. stuffed birds. toy animals</u>**, there is always something to do <u>in connection with it</u>, **<u>from finding the riaht place for the latest addition. to veritying facts in reference books.</u>**
+  * sutffed birds 鸟类标本
+  * addition n. 加, 附加
+  * consist of 由...组成
+    * be made up of ... 由...组成
+      * → Whatever it **is made up of**, ....
+    * be composed of .... 由...组成
+      * → Whatever it **is composed of**, ...
+    * comprise 由...组成
+      * → Whatever it **comprises**, .....
+  * **in connection with …** 关于... = about ...
+    * **concerning ...** 关于...
+    * **respecting ..** 关于...
+    * **regarding ...** 关于...
+    * **relating to ..** 关于...
+      * → I am writing to you **in connection with** your job application.
+  * **reference book** 参考书
+    * **bibliography** 参考书目
+      * biblio- 书
+* → This hobby educates one **<u>not only</u> in the chosen subject, <u>but also</u> in general matters <u>which have some bearing on it</u>.**
+  * **have... bearing on ..** 与...有关
+    * → Exercise **has a direct bearing on** how healthy you'are. 锻炼和身体健康是有直接关系的
+    * → His private life **has no bearing on** his competence as a manager.
+    * 同义搭配
+      * ... which **have some connection with** it.
+      * ... which **have some relationship with** it.
+* **meet** v. get to know, get acquainted with 结识....
+  * → I'd like you to **meet** one of my best friends, Peter.
+  * → (NCE3-44 P204-L13) You can stretch your legs on the spacious decks, play games, **meet** interesting people and enjoy good food ...
+* **compare notes (with sb)** exchange ideas or opinions 交换意见、交换观点、交流心得
+  * → We saw the play separately and **compared notes** afterwards.
+* article = item  件数
+* show off 卖弄, 炫耀
+  * → She raised her wrist, **showing off** a sparkling diamond bracelet. 她扬起了手腕子, 在炫耀一个金光闪闪的钻石手镯
+* **find** n. 发现的有价值的东西或人
+  * → My new secretary was a marvelous **find**.
+  * → (NCE3-32 P150-L18) The most valuabie **find** of all was the ship's log book, parts of which it was still possible to read.
+
+* circle n. 圈子, 界
+  * in political **circles** 在政界
+  * in legal **circles** 在法律界
+  * in literary **circles** 在文学界
+* → Soon the hobby leads to travel, perhaps <u>to a meeting **in another town**</u>, possibly <u>a trip abroad</u> **<u>in search of a rare specimen</u>, for collectors are not confined to any one country.**
+  * **in search of** :searching for ... 寻找
+    * → Scientists are **in search of** a cure for thie disease.
+* → <u>Over the years,</u> one may well become an authority on one's hobby <u>and</u> will very probably be asked to give informal talks <u>to little catherings</u> <u>and</u> then, **if successful**, <u>to larger audiences</u>.
+  * **<u>may</u> / <u>might</u> / <u>could</u> well** : used to say that sth. is likely to happen or is likely to be true 可能
+    * → What you say **may well** be true.
+    * → You could try the drugstore, but it **might well** be cosed by now.
+      * drugstore n. 药妆店
+  * → Yuan Longping is a leading authority **on** hybrid rice.
+  * **gathering** n. a group of people meeting together 人群，聚会 (小范围的)
+    * a <u>social</u> / <u>family</u> **gathering**
+    * a **gathering** of religious leaders
+  * → Over the years, **<u>one</u>** may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, **if <u>(he is)</u> successful**, to larger audiences.
+  * audience n. [C] 受众群
+* → <u>In this way</u> self-confidence grows, **first from mastering a surbject, then from being able to talk about it.**
+* → Collecting, <u>by occupying spare time so constructively</u>, makes a person contented, **with no time for boredom.**
 
 ## L60 Too early and too late ⭐️
 
