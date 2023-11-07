@@ -3453,11 +3453,156 @@
 
 **## words**
 
-* 
+* **punctuality** /ˌpʌŋktʃuˈæləti/ n.守时, 准时
+  * → **Punctuality** is the soul of business. 准时是做生意的灵魂 (谚语)
+  * → **Procrastination** is the thief of time. 拖延是 时间的窃贼
+    * procrastination n. 拖延, 延迟
+  * **punctual** adj. 守时的
+    * → (NCE3-37 P170-L1) We have learnt to expect that trains will be **punctual**.
+  * **punctually** adv. 守时地
+    * → (NCE3-19 P86-L 15) Sure enough, Rastus arrived **punctually** at seven o'clock that evening.
+  * **"punct” = point**
+    * punctual 
+    * punctually 
+    * punctuality 
+    * puncture v. 刺破, 
+      * → A nail **punctured** our <u>tyre(英)</u> / <u>tire</u>. 
+        * nail n. 钉子
+        * tire n. 轮胎
+      * → a **<u>flat</u>** / **<u>burst</u>** / **<u>punctured</u>** <u>tyre</u> / <u>tire</u> 一个没气的车胎
+    * acupuncture n. 针灸
+    * punctuate v. 加标点符号
+      * → The children have not yet learned to **punctuate** correctly.
+* **rural** /ˈrʊrəl/ adj. 农村的 (中性词)
+  * **rural** adj. connected with or like the countryside 农村的
+  * **rural** <u>areas</u> / <u>accents</u> 农村地区/农村口音
+  * → (NCE3-60 P268-L3) Only in a sparsely-populated **rural** community is it possible to disregard it.
+  * **pastoral** adj. showing country life or the countryside, especially in a <u>romantic</u> way 田园的 (褒义词)
+    * a **pastoral** <u>scene</u> / <u>poem</u> / <u>painting</u> 一副田园风光/一首田园诗/一副田园画
+    * → (NCE3-41 P192-L11) This idyllic **pastoral** scene is only part of the picture.
+      * idyllic adj. 田园诗般的, 牧歌的
+  * **urban** adj. 城市的
+  * **suburban** adj. 郊区的
+  * **metropolitan** adj. 大城市的
+  * **metropolis** n. 大城市, 大都会
+  * **cosmopolitan** adj. 国际性大城市的
+  * **cosmopolis** n. 国际性大城市
+* **intellectual** /ˌɪntəˈlektʃuəl/  n. 知识分子; adj. 智力的
+  * **intellectual** development 智力发展
+  * **intelligent** adj. 聪明的, 高智商的
+    * **intelligent** being 智慧生物
+      * being 活物, 活的东西
+  * **mental** adj. 脑力上的
+    * **mental** work
+  * **spiritual** adj. 精神方面的
+    * **spiritual** civilization 精神文明
+* **reproach** /rɪˈproʊtʃ/ v. 责备 (应该做的事情没有做 for failling to do sth.)
+  * **reproach** v. criticize sb. or oneself, esp. for failing to do sth. 责备
+  * **reproach sb. for sth.**
+    * → The General **was reproached** by his allies **for** failing to inform them of his plans.
+    * → (NCE3-60 P268-L8) But people **are** often **reproached for** unpunctuality when their only fault is cutting things fine.
+  * **criticize sb. for sth.** 一般的批评
+  * **censure sb. for sth.** 严厉的批评某人(话说的很重)
+  * **<u>reprimand</u>/<u>rebuke</u> sb. for sth.** 上级批评下属
+  * **accuse sb. of sth.** 气氛的批评
+  * **scold sb. for sth.** 大人批评小孩, 长辈批评晚辈
+  * **blame sb. for sth. / blame sth. on sb.** 归咎于某人, 强调是某人的责任
+  * **condemn A <u>for</u>/<u>as</u> B** 谴责
+* **fraction** /ˈfrækʃn/ n. 分数(e.g. 1/2); 一小部分, 些微
+  * **a fraction of ...**  ...的一小部分
+    * → I bought these shoes at **a fraction of** its original price.
+  * **a fraction of <u>a second</u> / <u>a minute</u> / <u>an inch</u>...** 不到一秒钟/ 一分钟 /一英寸
+    * → She hesitated for **a fraction of a second** before answering. 她犹豫了不到一秒钟
+    * → The car stopped within **a fraction of an inch** of the wall.
+    * → (NCE3-60 P268-L16) if you are catching a train, it is always better to be comfortably early than even **a fraction of a minute** too late.
+  * 大多数 的表达
+    * **a <u>high</u> / <u>large</u> proportion of ...** 一个很高的比例 对于....
+      * proportion 比例
+      * **a <u>small</u> / <u>tiny</u> proportion of ....** 一个比较低的比例
+    * **a <u>high</u> / <u>large</u> percentage of ..** 一个很高的百分比
+      * **a <u>small</u> / <u>tiny</u> percentage of ..**
 
 **## text 1**
 
-* 
+* **public affairs** n. issues and questions about social, economic, political or business activities, etc. that affect ordinary people in general 公众事务
+  * affair n. 事情, 事务
+* → Terrorism is a threat to the **civilized world.**
+* 造句：礼节 (<u>politeness</u> / <u>courtesy</u>) 是文明社会所有公众事务中一个必备的习惯。
+  * → <u>Politeness</u> / <u>Courtesy</u> is a necessary habit in all public affairs in civilized society.
+* → **Without it**, nothing <u>could</u> ever be brought to a conclusion; everything <u>would</u> be in a state of chaos.
+  * without it 动词短语当条件状语来用
+    * =→ **If we <u>didn't</u> have it** nothing **<u>could</u>** ever be brought to a conclusion; everything **<u>would</u>** be in state of chaos.
+    * → (NCE3-56 P252-L2) **Without it** we **<u>could</u>** not make a living.
+      * = → If we **<u>didn't</u>** have it we **<u>could</u>** not make a living.
+  * ever 从来
+    * → Nothing **ever** seems to upset him. 从来没有任何事情能让他沮丧的
+  * **bring sth. to a conclusion** 使结束
+    * conclusion 结束(在这个搭配里一定是结束);结论
+    * → (NCE3-36 P166-L1) In the nineteenth century, a novelist would **bring his story to a conclusion** by presenting his readers with a series of coincidences— most of them wildly improbable.
+    * 得出结论
+      * **<u>draw</u> / <u>come to</u> / <u>reach</u> a conclusion**
+    * 考研真题
+      * <u>This trend began during the Second World War, when several governments **came to the conclusion** that the specific demands that a government wants to make of its scientific establishment cannot generally be foreseen in detail.</u>
+        * trend n. 趋势, 潮流
+        * 这种趋势始于第二次世界大战期间，当时一些国家的政府得出结论：政府要向科研机构提出的具体要求通常是无法详尽预见的。
+  * **chaos**: <u>disorder</u>; <u>mess</u>; <u>confusion</u>
+    * → (NCE3-33 P154-421) Only two stray dogs benefited from all this **confusion**, for they greedily devoured what was left of the cake.
+    * **in (a state of) chaos** 处于一片混乱 (状态)
+    * 造句：在老师不在的时候，班里处于一片混乱状态。
+      * In the absence of their teacher, the class was **in a state of chaos.**
+* → **Only <u>in a sparsely-populated rural community</u>** <u>is</u> it possible to disregard it.
+  * 部分倒装
+  * **<u>sparsely</u> / <u>thinly</u> populated** 人口稀少的
+    * **<u>densely</u> / <u>thickly</u> populated** 人口稠密的
+  * disregard v. 忽视, 没有意识到
+    * → (NCE3-31 P146-L2) They **disregard** social conventions without being conscious that they are doing anything extraordinary.
+* **living** n. 1. 生计
+  * <u>make</u> / <u>earn</u> a **living** 维持生计, 谋生
+  * 2.生活；生活方式
+    * <u>plain</u> / <u>luxurious</u> **living**  简朴的生活/奢侈的生活
+    * the art of **living** 生活的艺术
+* **tolerance** n. 宽容
+  * → There can't be any tolerance of this brutality.
+    * brutality n. 暴行, 野蛮
+* 如果英译汉不通顺, 可以考虑 
+  * 名词换动词
+  * 被动换主动
+  * 无灵主语 换 人称主语
+* → The intellectual, **who is working on some abstruse problem**, has everything <u>coordinated and organized</u> **<u>for the matter in hand.</u>**
+  * 单数名词前加 the 表示类指, 指代一类人
+  * **abstruse** adj. 深奥的, 难以理解的
+    * abstract adj. 抽象的
+    * **abstruse** adj difficult to understand 深奥的；难理解的
+  * **work on sth./ doing** 致力于.……. , 努力去做, 努力去完成
+    * → John is still **working on** the new book.
+    * → The couple need to **work on** improving their relationship.
+  * **have sth. done**
+    * 1.请某人做某事 (esp. 付报酬的)
+      * → I'm going to **have my hair cut.**
+    * 2.不幸的某种经历
+      * → He **had his watch stolen.**
+    * 3.自己去做某事( 本文)
+      * → (NCE2-66 P300-L6) By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing. The French authorities **had the plane packaged and moved** in parts back to France. Now a group of enthusiasts are going to **have the plane restored.**
+  * **the <u>job</u> / <u>task</u> / <u>matter</u> in hand** 手头的工作/手头的任务/手头的事情
+    * → Could you just concentrate on **the job in hand?**
+    * → As **the matter in hand** was urgent, we dealt with it at once. 因为手头的工作很紧急, 所以我们立刻就开始处理了
+    * hand 相关的习语搭配
+      * → I always keep a dictionary close **at hand** 我在手边常备一本字典
+      * → My birthday is near **at hand.** 某个日子快到了(at)
+      * → The signature must be made **by hand.** 用手
+      * → They are always **on hand** whenever you need them.
+        * on hand 有空; 有时间 = free/avaliable
+      * → I can't remember his phone number **off hand.** 
+        * off hand 立即 , 立刻
+* → <u>He</u> is therefore forgiven **if (<u>he</u> is) late for a dinner party.**
+  * 状语从句的省略
+    * → <u>Matals</u> expand **when (<u>they</u> are) heated** and contract **when (<u>they</u> are) cooled**
+    * → <u>Francis Preston Blair Jr.</u>, **although (<u>he</u> was) born in Kentucky**, lived and practiced in Missouri
+      * Jr. = junior 小.... (父子同名)
+        * senior 老... (父子同名)
+      * practice v. 拿着执照在工作
+    * → (NCE3-35 P162-L5) <u>Judges</u>, **however wise or eminent (<u>they</u> are)**, are human and can make mistakes.
+    * → (NCE3-36 P166-11) **While (<u>he</u> was) on a walking tour with his wife**, <u>he</u> stopped to talk to a workman.
 
 **## text 2**
 
