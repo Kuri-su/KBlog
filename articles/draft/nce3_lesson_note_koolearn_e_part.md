@@ -3666,8 +3666,74 @@
 
 **## text 2**
 
-* 
+* → **If you are catching a train**, <u>it</u> is always **better** to be comfortably early **<u>than</u> even a fraction of a minute too late.**
+  * **catch** a <u>train</u> / <u>bus</u> / <u>plane</u> 赶火车/赶巴士/赶飞机
+  * **a fraction of <u>a second</u> / <u>a minute</u> / <u>an inch</u>…**不到<u>一秒钟</u> /<u>一分钟</u> /<u>一英寸</u>
+    * → She hesitated for **a fraction of a second** before answering.
+    * → The car stopped within **a fraction of an inch** of the wall.
+* → **Although being early may mean wasting a little time**, this will be less **than <u>if vou miss the train and have to wait an hour or more for the next one</u>**; <u>and</u> you avoid the frustration of <u>arriving at the very moment **when the train is drawing out of the station**</u> and <u>being unable to get on it</u>.
+  * → Although being early may mean wasting a litle time, **<u>this</u>** will be less than **<u>(it will be)</u>** if you miss the train and have to wait an hour or more for the next one; ...
+    * than 后面跟从句
+      * → He's never more annoying than when he's trying to help.
+        * → **<u>He's</u>** never more annoying than **<u>(he is)</u>** when he's trying to help.
+      * → Sometimes patients are more depressed six months later than when they first hear the bad news.
+        * → Sometimes **<u>patients</u>** are more depressed six months later than **<u>(they are)</u>** when they first hear the bad news.
+  * **<u>pull</u> / <u>draw</u> out of the station** 出站
+    * **<u>pull</u> / <u>draw</u> <u>in</u> / <u>into the station</u>** 进站
+      * → The train slowly **<u>drew in</u> / <u>drew into the station</u>.**
+* → And even a harder situation is **<u>to be on the platform in good time for a train</u>** and **<u>still to see it go off without you.</u>**
+  * 动词不定式做表语
+  * **in good time (for sth.)** (BrE): 早早就 ...
+    * in time 及时
+    * in good time 不仅及时, 而且早早就....
+      * → There wasn't much traffic so we got there **in good time.**
+      * → He arrived **in good time <u>for</u> dinner.**
+  * **betall** (befell befallen) = **<u>overtake</u>** / <u>**happen to**</u> 不幸的事降临到....
+    * → A great misfortune **befell** him.
+    * → (NCE3-56 P252-L5) We know instinctively, just as beekeepers with their bees, that misfortune might **overtake** us if the important events of our lives were not related to it.
 
 **## text 3**
 
-* 
+* → She entered the station 20 minutes betore the train was due, **since her parents had impressed <u>upon her</u> that twould be unforgivable <u>to miss it and cause the friends `with whom she was going to stay` to make two ioureys to meet her</u>.**
+  * **due**: adj.  到期的，到时间的
+    * → When is your baby **due**? 您的孩子什么时候生?
+    * → The train is **due (in)** at 8:00.
+    * 听力题
+      * M: It says here the next train **is due in** at 6:30.
+      * W: I know, but I don't know whether I can make that one. I'd rather call you from the station than have you waiting around for an hour.
+      * Q: What does the woman imply?
+      * Answer: (B) She isn't sure which train she'll be on.
+  * **impress sth. <u>on</u> / <u>upon</u> sb.** 让某人铭记某事
+    * → Father **impressed on me** <u>the importance of hard work.</u>
+    * → I had always **impressed upon the children** <u>that if they worked hard they would succeed in life.</u>
+  * **cause sb. to do** 使得某人做某事
+  * **make a journey** 到某地去
+* → She felt <u>in her handbag</u> for the piece of pape**r on which her father had written down all the details of the journey** <u>and</u> gave it to the porter.
+  * **feel for …** 摸着找....
+    * → She **felt** in her bag **for** a pencil.
+    * → I **felt for** the switch on the wall and turned it on.
+* → He agreed **<u>that a train `did` come into the station at the time on the paper</u>** and **<u>that it `did` stop, but only to take On mail, not passengers.</u>**
+  * 两个并排的宾语从句
+  * **take on …** 上（货/乘客等）
+    * → The bus stopped to **take on** more passengers.
+    * → The ship **took on** more fuel here.
+  * mail 不可数
+* → The girl asked to see a timetable, feeling sure **that her father <u>could not have made</u> such a mistake.**
+  * **timetable/schedule** 时刻表
+    * <u>train</u> / <u>reailway</u>(英) / <u>railroad</u>(美) **<u>timetable / schedule</u>**
+    * <u>college</u> / <u>school</u>  **<u>timetable / schedule</u>**
+    * <u>exam</u> / <u>examination</u>  **<u>timetable / schedule</u>**
+* → The porter went to fetch one and arrived back with the station master, **who produced it with a flourish and pointed out a microscopic 'o' beside the time of the arrival of the train at his station**; this little 'o' indicated **<u>that the train only stopped for mail.</u>**
+  * produce v. 拿出来, 出示
+  * **do sth. with a flourish**  为了引起注意而用较大的动作<u>自信地</u>/<u>潇洒地</u>做某事
+    * → The waiter handed me the menu **with a flourish.**
+* → The girl, **tears streaming down her face**, begged to be allowed to slip into the guard's van.
+  * van 车厢
+  * slip into 溜进去
+* **<u>break</u> / <u>violate</u> rules** 违反规章制度
+  * **<u>ignore</u> / <u>disregard</u> rules** 漠视规则
+  * **<u>make</u> / <u>formulate</u> / <u>establish</u> / lay down rules** 制定规章制度
+  * **<u>obey</u> / <u>comply with</u> / <u>abide by</u> / <u>observe</u> rules** 遵守规章制度
+* **leave <u>sb.</u> / <u>sth.</u> $\Leftrightarrow$ behind** 留下（不带走）
+  * → Don't **leave me behind!** 别留下我
+
