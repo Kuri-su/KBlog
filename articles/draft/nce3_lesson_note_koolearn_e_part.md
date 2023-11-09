@@ -3603,6 +3603,66 @@
       * practice v. 拿着执照在工作
     * → (NCE3-35 P162-L5) <u>Judges</u>, **however wise or eminent (<u>they</u> are)**, are human and can make mistakes.
     * → (NCE3-36 P166-11) **While (<u>he</u> was) on a walking tour with his wife**, <u>he</u> stopped to talk to a workman.
+    * 如果状语从句的主语是虚主语 it, 这个时候即便和主句的主语不统一, 也可以把it 和 其后的 be 动词一起省略
+      * → We'll resolve the Taiwan issue with peaceful means **when (<u>it</u> is) ever possible**, with force **when (<u>it</u> is) necessary.**
+  * **cut things fine** 时间不留余地，掐钟点 (习语搭配)
+    * → He **cut things fine** by reaching the classroom only 20 seconds before the bell rang. 
+* → <u>It</u> is hard for energetic, quick-minded people <u>to waste time</u>, **so they are often tempted to finish a job <u>before setting out to keep an appointment</u>.**
+  * **<u>be</u> / <u>feel</u> tempted to do** 很想....
+    * **tempt** v. 诱惑, 引诱
+      * → I **feel tempted to** take a day off .  我想请一天假
+        * take sometime off 请一天假
+      * → Several times since, she has **been tempted to** ring him up. Her pride, however, would not let her to do so.
+  * **set out to do** : begin a job, task, etc • with a particular aim or goal 带着目的去做某事
+    * → (NCE3-5 P30-L9) The journalist immediately **set out to** obtain these important facts, but he took a long time to send them.
+    * → (NCE3-16 P74-L8) Dmitri at once **set out to** find the thief.
+  * **appointment** n. 约会(会面, 通常是公务)
+    * **have an appointment** 有约
+    * **make an appointment** 订约
+    * **keep an appointment** 赴约
+    * **cancel an appointment** 取消约会
+    * **break an appointment** 爽约
+* → **If no accidents occur on the way, <u>like punctured tyres, diversions of tratfic. surdden descent of fog</u>**, they will be on time.
+  * **tire** (车胎, 美) / **tyre** (车胎, 英)
+    * **a** <u>flat</u> / <u>burst</u> / <u>punctured</u> **<u>tyre</u> / <u>tire</u>** 没气的车胎
+  * **diversion** n. 交通改道
+    * **diversion** n. (BrE)**=detour** (AmE)a different way that traffic is sent when the usual roads are closed （交通） 改道
+    * → They turned back because of traffic **diversions**.
+  * fog n. 雾
+  * **descent** n. 下降, 下雾
+    * **<u>come down</u> / <u>descend</u>** 下雾
+      * → A dense fog **<u>came down</u> / <u>descended</u>** in the afternoon.
+    * 雾散8
+      * **<u>lift</u> / <u>clear</u> / <u>disperse</u>**
+        * → The fog had **<u>lift</u> / <u>clear</u> / <u>disperse</u>** by late morning.
+* the + adj. 表示一类人
+  * the poor
+* **be a trial to sb.** 令某人头疼讨厌
+  * → She **was a trial to** her parents when she was younger.
+* **as much as ...** 和...... 一样：就等于......
+  * → That is **as much as** to say l am a liar.
+    * liar n. 骗子
+  * → I hope you have **as much** fun **as** I did.
+  * → He is **as much** a bore **as** his father.
+    * bore v. 使厌烦, 烦扰 n. 使人厌烦的人或事
+  * → She is **as much** a beauty **as** her mother.
+*  **….too <u>early</u> / <u>soon</u>** 早了 .....
+  * → He arrived **ten minutes too early.** 他早来了十分钟
+  * **…too late** 晚了⋯
+    * → He arrived **ten minutes too late.**
+* **nuisance** n. a thing, person or situation that is annoying or causes trouble or problems 令人讨厌的人或事
+  * → Idon't want to be a **nuisance** so tell me if you want to be alone.
+* → The only thing to do was **ask them to come <u>half an hour later than the other guests</u>.**
+  * **动词不定式做表语时，若前面出现了实义动词"do”，则常去掉 “to”**
+    * → All l have to **do** is **dream**.
+    * → The best thing you can **do** now is **write** her an apology.
+    * → All I wanted was **to help** him.
+    * → (NCE4-1 P5-L2) The only way that they can preserve their history is **to recount** it as sagas -- legends handed down from one generation of story-tellers to another.
+    * **动词不定式做"<u>except</u> / <u>but</u>"的宾语时，若前面出现了实义动词"do"，则常去掉"to"**
+      * → They **did** nothing <u>but</u> / <u>except</u> **complain**.
+      * → I've **done** everything you wanted <u>but</u> / <u>except</u> **make** the beds.
+        * make the beds 叠被子
+      * → We have no choice <u>but</u> / <u>except</u> **to wait** here.
 
 **## text 2**
 
