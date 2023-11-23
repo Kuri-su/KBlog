@@ -130,7 +130,100 @@
 
 **## text 1**
 
-* 
+* **find**: discover 
+  * discover 首次作出重大发现
+
+* **fossil man**: ancient man; prehistoric man
+  * prehistoric 史前的
+
+* **选题目的时候, 最好选短的词**
+  * 鼓励
+    * encourage 
+    * spur n. 马刺; 激励
+
+  * 静止
+    * prohibit  / forbid
+    * ban
+
+  * 竞争
+    * compete v. 竞争, 
+    * vie v. 争; 竞争
+
+  * 提名
+    * nominate 
+    * name
+
+* find 和 fossil 压了头韵
+  * **alliteration 头韵**
+    * 头韵 在题目中很常见
+    * **F**inding **f**ossil man
+    * **Sp**are that **s**pider
+    * **M**atterhorn **m**an
+    * The **sp**orting **sp**irit
+    * **P**ride and **Pr**ejudice
+    * **P**rince and **P**auper
+    * **W**orld **W**ide **W**atch
+    * A **D**elicious **D**ish A **D**ay
+    * **B**eauty and the **b**east
+
+* → We can read of things **that happened 5,000 years ago in the Near East, <u>where people first learned to write</u>.**
+  * of 表示 **关于**
+    * **read of** 
+    * **<u>speak of</u> / <u>talk of</u>**
+    * **<u>hear of</u> / <u>learn of</u> / <u>know of</u>**
+    * **think of**
+    * **dream of**
+    * 培根的系列文章标题
+      * **Of** Truth 论真理 (of 表示关于 = about)
+      * **Of** Death 论死亡
+      * **Of** love
+      * **Of** Envy 论妒忌
+
+    * **Of** Human Bondage 论人性的枷锁(威廉毛姆)
+
+  * 英语简单句中, 一般的语序是 事件-地点-时间, 中文 通常是 时间-地点-事件
+    * → I saw him **at the party <u>yesterday</u>.**
+    * → We can read of things that happened **5,000 years ago <u>in the Near East</u>, <u>where people tirst learn to write</u>.**
+      * 为了避免头重脚轻的现象, 所以改变了语序, 把 事件放到了最后面
+      * 很多长难句读不懂是因为语序发生了改变 (重要的原因之一)
+        * → (NCE4-4 P23-L1) Several **cases** <u>have been reported in Russia recently</u> **of people <u>who can read and detect colors with their fingers, and even see through solid doors and walls</u>.**
+          * 这个 of people 是 修饰 cases 的
+
+        * → (NCE4-5 P29-L14) He maybe conceited, ill-mannered, presumptuous or fatuous, but I do not **turn** <u>for protection</u> **to dreary cliches <u>about respect of elders</u>** — as if mere age were a reason for respect.
+        * 考研真题
+          * 英译汉
+
+            * → What is an intellectual? <u>I shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking in Socratic wav about moral problems.</u>
+              * electe vt. 选择; 选举
+              * Socratic 苏格拉底
+              * → What is an intellectual? I shall define him as an individual who has **elected** <u>as his primary duty and pleasure in life</u> **the activity of thinking <u>in Socratic way about moral problems</u>.**
+              * moral adj. 道德上的
+              * pleasure n. 愉悦
+
+          * 阅读
+            * → As a logical consequence of this development, separate journals have now appeared aimed mainly towards either professional or amateur readership.
+              * → As a logical consequence of this development, **separate journals** <u>have now appeared</u> **aimed mainly towards either professional or amateur readership.**
+
+  * The Near East (西亚和北非)
+  * 形式上的定语从句
+    * → We can read of things **that happened 5,000 years ago in the Near East, <u>where people first learned to write</u>.**
+      * = → We can read of things that happened 5,000 years ago in the Near East, **<u>because</u> people first learned to write <u>there</u>.** (原因状语从句)
+
+    * 书面语中有一半以上的定语从句不是定语从句的功能
+    * 定语从句 相对简洁
+    * → (NCE4-13 P76-L12) We endeavour to avoid the old, romantic idea of a gusher, **<u>which</u> wastes oil and gas.**
+      * = → We endeavour to avoid the old, romantic idea of a gusher, **<u>because it</u> wastes oil and gas.**
+
+    * → (NCE3-32 P150-L1) The small ship, Elkor, **<u>which</u> had been searching the Barents Sea for weeks**, was on its way home.
+      * = → The small ship, Elkor, **<u>after</u> <u>she</u> had been searching the Barents Sea for weeks**, was on its way home.
+
+    * 通常这种形式上的定语从句 修饰前面 紧紧挨着的 名词
+    * → (NCE3-22 P110-L19) Much to the aristocrat's amusement, the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter **<u>which</u> he proceeded to read to the prisoner.**
+      * = → Much to the aristocrat's amusement, the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter **<u>and</u> he proceeded to read <u>it</u> to the prisoner.**
+
+    * → I have to be very careful not to offend the boss, **who could fire me at any time.**
+      * = → Ihave to be very careful not to offend the boss, **<u>because he</u> could fire me at any time.**
+
 
 **## text 2**
 
