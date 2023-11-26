@@ -224,16 +224,123 @@
     * → I have to be very careful not to offend the boss, **who could fire me at any time.**
       * = → Ihave to be very careful not to offend the boss, **<u>because he</u> could fire me at any time.**
 
+    * → The action, **which has aroused universal disapproval**, is nevertheless the only solution.
+      * = → The action, **<u>although</u> <u>it</u> has aroused universal disapproval**, is nevertheless the only solution.
+
+    * 汉译英
+      * 造句：最近几年大批农民工 (migrant workers from the countryside)涌入大城市，**因为**他们**在那里**可以找到不错的工作并且养活家人。
+        * → The past few years witnessed the great influx of migrant workers from the countryside to big cities, **where they could secure decert jobs and support their families.**
+
 
 **## text 2**
 
-* 
+* There be 句型的变化
+  * **There <u>seem</u>/<u>appear</u> to be ....** 似乎有
+  * **There used to be ...** 以前有
+  * **There happen to be ...** 碰巧有
+  * **There <u>is</u> / <u>are</u> going to be ...** 即将要有
+  * There be 句型的 更高级的用法
+    * 造句：有越来越多的人对英语有兴趣。
+      * → There are more and more people who are interested in English. (不佳, 在书面语中显得罗嗦)
+      * **无灵主语 /物称主语 (inanimate subject)**
+        * → **There is growing interest in English.** (地道又简洁)
+      * 表达效果相同的情况下, 用字越少, 水平越高
+    * 造句：人们普遍同意妇女应该享有和男人完全的平等。
+      * → People generally agree that women should enjoy full equality with men. (不佳)
+      * → **There is general agreement that women should enjoy full equality with men.** (物做主语)
+    * 造句：现在世界上依然有部分地区人们还吃不饱肚子(cannot satisfy one's hunger).
+      * → There are some parts of the world where even now people cannot satisty their hunger.
+* → The only way **that they can preserve their history** is **to recount it as** **<u>... handed down from one generation of storytellers to another.</u>**
+  * 名词唯一性的词来 限定的时候, 通常后面的从句用 that 而不用 which
+  * **preserve** v. 保护, 保存 (keep something in good condition )
+    * **preserve** historical records
+    * **preserve** <u>food</u> / <u>one's eyesight</u>
+    * **conserve** v. 保存, 保护 (让数量不减少)
+      * **conserve** natural resources
+      * **conserve** wildlife 
+
+    * **reserve** v. 保护, 保存 (为了未来使用)
+      * **reserve** one's energy 保存体力
+      * → I **reserve** the right to disagree. 保留持不同意见的权利
+      * **reserve** a table for 2 预订一个二人桌
+
+    * 六级真题
+      * → The old building is in a good state of ___ except for the wooden floors. (CET6)
+        * (A)observation   **(B)preservation**  (C)conservation  (D)reservation
+          * observation n. 观察, 观测; 某人发表的评论
+
+  * **动词不定式做表语时，若前面出现了实义动词 “do” ，则常去掉 “to”**
+    * → All I have to **do** is **dream**. 只有寻梦去
+      * all i have to do  我所要做的
+
+    * → The best thing you can **do** now is **write** her an apology.
+    * → (NCE3-60 P268-L14) The only thing to **do** was **ask** them to come half an hour later than the other guests. Then they aarrived just when we wanted them.
+    * → All I wanted was **<u>to</u> help** him
+
+  * **hand sth. down**: pass sth. from older people to younger ones 传承下去, 代代相传
+    * → The recipe **was handed down** <u>from</u> an ancestor of the family.
+      * recipt n. 菜谱, 烹饪法; 秘诀, 诀窍
+      * ancestor n. 祖先
+
+  * **story-teller** 讲故事的人
+    * tell stories 讲故事
+    * **fortune-teller**  算命的人
+      * tell one's fortune
+
+* → These legends are useful **because they can tell us something about migrations of people <u>who lived long ago</u>**, but none could write down **what they did.**
+* → Anthropologists wondered **where the remote ancestors of the Polynesian peoples <u>now living in the Pacific Islands</u> came from.**
+  * wonder v. 想知道, 好奇
+  * peoples 一定是表示民族, people 本身就表示人的复数了
+  * remote ancestor 远祖
+    * 远亲 a **distant** relative
+    * 近亲 a **<u>close</u>** / **<u>near</u>** relative
+
 
 **## text 3**
 
-* 
+* → But the first people who **were like ourselves** lived <u>so</u> long ago **<u>that</u> even their sagas, <u>if they had any</u>, are forgotten.**
+  * the first people who were like ourselves 的替换
+    * fossil man
+    * people who lived long ago
+    * the first 'modern men'
+    * ancient men
+
+  * ... the first people **like** ourselves ... = the first people **who were like** ourselves ....
+    * 这里用介词 like, 做后置定语, 修饰 first people
+    * 如果关系代词做定语从句主语, 关系代词和后面的 be 动词可以省略
+    * **be similar to ....** 用形容词表达像
+      * = ... the first people **who were similar to** ourselves ..
+      * = ... the first people **similar to** ourselves ..
+
+    * **resemble** 用动词表示像
+      * = .. the first people **who resembled** ourselves . .
+      * 如果不用定语从句, 那么可以用非谓语动词
+        * = ... the first people **resembling** ourselves ...
+
+    * **bear a resemblance to ...** 用名词表示像 (较难)
+      * = .... the first people **who bore a resemblance to** ourselves. ... 
+      * 不使用 定语从句, 用非谓语动词
+        * = ... the first people **bearing a resemblance to** ourselves ...
+
+    * 自己精读的时候, 要考虑这个表达还能怎么说
+    * → Your school may have <u>done away with</u> winners and losers, but life has not. In some schools they have <u>abolished</u> failing grades; they' ll give you as many times as you want to get the right answer. This **doesn't bear the slightest resemblance to** anything in real life.
+
+  * if 除了表示条件状语从句, 也可以表示让步状语从句, 表示即使
+    * → God's reasons, **if He has any**, are opaque to us. 神的理由, 即使他有的话, 我们也是无法理解的
+      * opaque adj. 难以理解的; 不透明的
+      * He 的 H 大写, 表示对上帝的尊重
+
+    * GRE 范文
+      * → There is every likelihood that the costs of the monitoring system, such as the purchase, maintenance and updates of software, employment of extra personnel in charge of it, will offset or even outweigh additional revenue, **if there is any.**
+
+    * → His descendants, **if any**, never left the island
+    * if ever 做条件状语
+      * → He is seldom, **if ever**, absent from work. 他, 即使有过的话, 也很少缺勤
+
 
 **## text 4**
 
 * 
+
+## L2
 
