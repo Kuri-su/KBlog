@@ -340,7 +340,114 @@
 
 **## text 4**
 
+* however 然而
+* shape v. 使塑形 n. 形状
+  * → He **shaped** the clay into a vase.
+  * → Like it or not, our experiences **shape** our personalities.
+  * 当代大量使用来自来自名词的动词, 它会比较形象
+    * → He **thundered** at the door. 他用力在砸门
+    * → The street was **veiled** in darkness. 街道笼罩在黑暗之中
+      * veil 头巾
+
+    * → A gust of wind **whipped** the dust along the road. 一阵风卷起了路边的灰尘
+      * whip n. 鞭子 v. 抽打
+
+    * → Honey, I forgot to **duck**.
+      * duck n. 鸭子 v. 躲闪
+
+* 形容词后面加不定式 = 不定式 it is 形容词 的用法
+  * easier to shape = to shape it is easier
+
+* **<u>may</u> / <u>might</u> have done** 备不住, 有可能 ..... (对过去的一种肯定的推测, 但把握不太大)
+  * **must have done** 对过去 的把握大 的肯定推测
+  * **<u>cannot</u> / <u>could not</u> have done** 对过去的把握大的否定推测
+  * **<u>should</u> / <u>ought to</u> have done** 责备的语气(也有可能是自责), 责备为何过去该做的事情没有完成
+  * **<u>should not</u> / <u>ought not to</u> have done** 责备的语气, 责备为何过去不该做的事情为什么做了
+  * would have done 多用于虚拟语气
+  * 练习题
+    * 1
+      * — She looks very happy. She ___ have passed the exam.
+      * — I guess so. lt's not difficult at all. 
+        * (A) should (B) could  **(C) must** (D）might
+
+    * 2
+      * — I can't find my purse anywhere.
+        * purse n. 女士的小手包
+
+      * — You ___ have lost it while shopping.
+        * **(A) may** (B) can (C) should (D)would
+
+    * 3
+      * — I'm sorry. I ___ at you the other day.
+      * —  Forget it . I was a bit out of control myself
+        * (A) shouldn't shout **(B) shouldn't have shouted** (C) mustn't shout (D)mustn't have shouted
+
+    * 4
+      * The policeman declared that the blow on the victim's head ___ from behind.
+        * declare v. 宣称
+        * (A) should have been made **(B)must have been made** (C) would have been made (D) ought to have been made
+
+* **skin** n. 皮肤(人皮), 兽皮 (无毛)
+  * **hide** n. 专指 兽皮 (无毛)
+  * **fur** n. 裘皮, 皮草 
+  * **feather** n. 羽毛
+    * **fur and feather** 飞禽走兽 (借代修辞)
+    * **fin , fur and feather** 天上飞的 , 地上跑的, 还有水里游的 
+      * fin n. 鱼鳍, 鱼翅
+
+    * **metonymy 借代修辞**
+      * → A **bald** slipped out of the house. 一个秃子(秃头的人)出去了
+      * → He has been messing around with several **skirts** of his class.
+        * messing around 鬼混
+        * skirt n. 裙子 (这里指的是女孩)
+
+      * → The **crown** should not yield to the **cross**. 王权不应该屈服于神权
+        * yield v 屈服于
+        * crown 王冠
+          * crowd n. 人群
+
+        * cross n. 十字架 (神权)
+
+* rotted away 烂光了
+* → Stone does not decay, <u>and</u> so the tools of long ago have remained **when even the bones of the men <u>who made them</u> have disappeared without trace.**
+  * decay = rott 腐烂
+  * so 在这里做副词,  so =  therefore adv. 所以, and 在这里引导并列句
+  * when 在这里是特殊用法, 不是引导时间状语从句, 在这里表示'尽管', 类似于 though, 这种用法下不放句首, 有时候也会翻译成'既然'
+    * 类似的用法
+      * → He walks **when** he might take a taxi. 他在走路, 尽管他可以选择打车
+      * → Why do you walk **when** you have a car? 既然你有车, 为什么你走路呢?
+
+  * **disappeared without trace** 消失的无影无踪
+    * **<u>disappear</u> / <u>vanish</u> without trace**
+      * → The burglar slipped out of the house and then **<u>disappeared</u> / <u>vanished</u> without trace.**
+        * burglar n. 入室小偷, 梁上君子
+
+* 这篇文章的语篇模式叫做 **Problem-Solution Pattern** 问题-解决 模式
+  * 整个过程就是不断产生新的问题, 然后找到解决方案, 推进文章
+
+
+## L2 Spare that spider
+
+**## words**
+
 * 
 
-## L2
+**## text 1**
 
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
+**## text 4**
+
+* 
+
+**## text 5**
+
+* 
