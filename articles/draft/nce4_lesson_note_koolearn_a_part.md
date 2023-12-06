@@ -532,6 +532,58 @@
   * **human race** n. 人族 (U)
   * **<u>man</u> / <u>human being</u>** man 表示人类的时候当不可数名词来用, human being 当作可数名词来用
   * **<u>mankind</u>/<u>humankind</u>** 书面语, 人类
+  * **humanity** 人类, (U), 人性, 人道
+    * <u>humaniti</u>es n. 文科, 人文学科
+    * a crime against **humanity** 反人类罪
+* → Insects **<u>would</u>** make <u>it</u> impossible for us <u>to live in the world</u> ; they **<u>wouild</u>** devour all our crops and kill our flocks and herds, **if it <u>were (虚拟语气)</u> not for the protection <u>we get from insect-eating animals.</u>** 
+  * devour 贪婪的吞吃掉
+  * crop n. 庄稼 (常用复数)
+  * **flock** n. 羊群 (通常指羊群/ 鸟群)
+    * a **flock** of <u>sheep</u> / <u>pigeons</u>.
+  * **herd** n. 畜群 (常指 牛/鹿/大象) 
+    * a **herd** of <u>cattle</u> / <u>deer</u> /<u>elephants</u>
+    * a **drove** of <u>horses</u> / <u>cattle</u> / <u>sheep</u>
+      * drove n. 驱赶之中的牲口群
+    * a **pack** of wolves / tigers /lions
+      * pack n. 猛兽群; 一伙,一帮
+    * a **pride** of lions
+      * pride 专门表示狮群
+    * a **swarm** of flies / bees
+      * swarm 专门表示飞虫群
+    * a **colony** of <u>ants</u> /<u>termites</u>
+      * colony 专门表示 爬虫群
+      * termites n. 白蚁
+    * a **<u>school</u>** / **<u>shoal</u>** of fish
+      * school n. 鱼群
+      * shoal n. 鱼群
+  * insect n. 昆虫
+  * 与现在事实相反的虚拟语气
+    * **If+ S. + <u>did</u> / <u>were</u> ... , S. + <u>would</u> / <u>should</u> / <u>could</u> / <u>might</u> + do ...**
+    * **if it were not for ….** 若没有... 的话 (固定搭配)
+      * → **If it were not for** your support, I <u>would</u> be in big trouble now.
+        * → **<u>Were</u> it not for** your support, I <u>would</u> be in big trouble now.
+          * 如果虚拟语气中出现了 Were 那么可以使用倒装, 把 Were 放到句首, 然后省略 if, 
+      * 同义搭配
+        * **<u>but for ...</u> / <u>except for ....</u>** 若没有... 的话
+          * → **<u>But for</u> / <u>Except for</u>** your support, I <u>would</u> be in big trouble now.
+          * 真题
+            * ___ the tlood, the ship would have reached its destination on time.
+              * (A) In case of (B)In spite of (C) Because of **(D) But for**
+            * He might have been killed ___ the arrival of the police.
+              * **(A) except for (B) but for** (C) with  (D)for
+          * except for 还有 '除了...之外' 的意思
+          * but for 和 except for 后面跟短语, 如果跟从句的话要用下面的, 但意思反过来
+            * **<u>except</u> / <u>but</u> (that)** ... 要不是...的话
+              * → I <u>would</u> buy a Mercedes **<u>except</u> / <u>but</u> (that)** I **<u>am</u>** poor. 
+              * → I <u>would</u> buy a Mercedes if I **were** rich.
+  * **make it possible for sb. to do** 使某人能够做某事
+    * = **enable sb. to do**
+      * → (NCE3-26 P126-L10) They devise hundreds of competitions which will **enable** us **to** win huge sums of money. Radio and television have **made it possible for** advertisers **to** capture the attention of millions of people in this way.
+    * = **render sb. /sth. + adj.** 使某人某物出现某种结果 (书面语)
+      * → His injury **rendered** him **unfit** for work. 他的外伤使他不适合再工作了
+      * → Solar power could become a viable energy source, **rendering** fossil fuels **obsolete**.
+        * obsolete adj. 过时的
+        * fuel n. 燃料
 
 **## text 2**
 
@@ -542,9 +594,5 @@
 * 
 
 **## text 4**
-
-* 
-
-**## text 5**
 
 * 
