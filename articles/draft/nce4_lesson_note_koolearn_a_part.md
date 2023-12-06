@@ -430,11 +430,108 @@
 
 **## words**
 
-* 
+* **census** /ˈsensəs/ n. 对**数量**的统计, 普查
+  * the fifth national (population) **census** 第五次国家人口普查
+  * road traffic **census** 道路交通调查
+  * 其他也表示调查的词, 不过可能对象不一样
+    * **investigation** v. 调查 (事故, 案件)
+      * → The case is <u>under</u> **investigation**. 这个案件正在 调查当中
+        * 习惯用 under, 表示处于调查中
+      * → The **investigation** <u>into</u> the cause of the air crash is continuing. 对于这起 坠机事件的调查正在持续中
+        * 对于....的调查, 习惯用 into
+    * **inquest** v. 调查 (对死因)
+      * → an **inquest** into the death of the actor 一个对于这个演员死因的调查
+    * **<u>survey</u> / <u>poll</u> / <u>opinion poll</u>** v. /n. 民意调查
+      *  **~ <u>find</u> / <u>show</u> / <u>indicate</u> / <u>reveal</u> ....**
+      * → (NCE3-47 P216-L19) The **survey revealed** a large number of sources of noise that we really dislike.
+    * **<u>inquiry</u> / <u>enquiry</u>** (意思和读音相同, 只是两种拼写) v. 调查
+      * <u>on the spot</u> / <u>official</u> / <u>sampling</u> **inquiry** 现场调查 / 官方调查 / 采样调查
+* **content** /ˈkɑːntent/ adj.满足的, 满意的 (只能当表语用, 不能放到名词前修饰名词)
+  * **be <u>content</u> / <u>satisfied</u> with ...** 对于某事满意的
+    * → He **seems** fairly **content with** his life. 他看起来对他的生活相当满意
+  * **be <u>content</u> / <u>satisfied</u> to do ...** 做某事很满意
+    * → He **is content to** stay in his present job.
+  * **contented** adj. 满意的, 满足的
+    * → A **contented** mind is a perpetual feast. 知足常乐 (一颗满足的心灵, 是一个永远也不会散的宴席)
+    * 改错题
+      * → When <u>contented</u>(A), and occasionally when **<u>hunger</u>(B)**, cats <u>frequently</u>(C) make a purring <u>sound</u>(D).
+        * hunger -> hungry
+  * 反义词
+    * **be <u>discontented</u> / <u>dissatisfied</u> with .....** 对于某事不满意的...
+  * 名词
+    * **<u>content</u> / <u>satisfaction</u>** n. 满意
+      * live in peace and **content** 过着平静而满足的生活
+    * **<u>discontent</u> / <u>dissatisfaction</u>** n. 不满意
+  * 造句: 有越来越多的人对这个政策不满
+    * → There are more and more people who **are discontented with** the policy. (不佳)
+    * 例句: 
+      * → (NCE3-32 P150-L8) The sea bed was scoured with powerful nets and there was tremendous **excitement** on board when a chest was raised from the bottom.
+      * → (NCE3-34 P158-L5) There is always **hope** that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that little the floors.
+      * → (考研真题) While the quality of legal journalism varies greatly, there is an undue **reliance** amongst many journalists on interpretations supplied to them by lawyers.
+        * 如果英译汉 翻译的别扭, 有三个法宝
+          1. 无灵主语 换 人称主语
+          2. 名词换动词/ 形容词
+          3. 被动换主动
+    * → There is growing **discontent with** the policy.
 
 **## text 1**
 
-* 
+* **Sp**are that **sp**ider (title)
+  * **aliteration 头韵**
+    * Finding fossil man
+    * Matterhorn man
+    * The sporting spirit
+    * Pride and Prejudice
+    * Prince and Pauper
+    * World Wide Watch
+    * A Delicious Dish A Day
+    * -
+    * → Our **h**opes, our **h**earts, our **h**ands are with those on every continent who are building democracy and freedom. (克林顿 就职演说)
+    * → I am in favor of the **in**genious, **in**teresting and **in**formative advertisements which give me a lot of **en**joyment and **in**spiration. (GRE 范文)
+    * → A wise decision is always based upon careful scrutiny and **con**crete, **con**vincing proot, not **un**clear, **un**warranted assump**tions** and anticipa**tions**.  (GRE 范文)
+  * **rhyme 尾韵**
+    * → Without art, society could still surv**ive**, but not thr**ive**.  (GRE 范文)
+    * → Genius is one percent in**spiration** and ninety-nine percent per**spiration**. (爱迪生)
+    * → (NCE3-46 P212-L8) Shops cater for the do-it-yourself craze not only by running special advisory ser**vices** for no**vices**, but by offering consumers bits and pieces which they can assemble at home.
+    * → without knowledge, there would be neither basis nor guidance for any progress and development of mankind. Without imagin**ation**, human society would lose precious inspir**ation**, innov**ation** and reform**ation**, and eventually grind to a standstill ....
+  * spare v. 饶恕; 剩下 adj. 多余的 n. 备用零件, 备用轮胎
+    * **Spare** my life!
+    * **<u>Sp</u>are** the ro<u>d</u> and <u>sp</u>oil the chil<u>d</u> 省下了棒子, 宠坏了孩子
+    * → The government will **spare no expense to** stem the bird flu from spreading. 
+      * spare no expense to 不惜一切代价 (没有一点不支付)
+    * → China will **spare no effort to** realize peaceful reunification. 中国将不遗余力的实现和平统一大业
+      * Spare no effort to 竭尽全力 (没有一点努力被省下来)
+* should 如果在疑问句中出现, 表达一种意外的, 略微有点难以理解的语气, "怎么会?"
+  * → How **should** I know?  我怎么知道呢? 
+  * → Why **should** conservatives vote for Bush?  保守派的人怎么会投给 Bush 呢?
+  * You may wonder why spiders are our friends.  (不佳)
+    * 重点有偏离, 句子最重要的信息应该放在主句中
+    * 课文中 把 You may wonder 弱化, 变成插入语, 
+      * 类似的例子
+        * → (NCE3-7 P38-L8) Dogs, **it seems**, love to chew up money.
+        * → (NCE4-8 P47-L1) Chickens slaughtered in the United States, **claim officials in Brussels**, are not fit to grace European tables.
+        * → (NCE4-33 P195-L1) A man without an education, **many of us believe**, is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities.
+      * 利用插入语仿写
+        * → **Many of us believe** that economic development is of paramount importance to China.
+          * → Economic development , many of us believe, is of paramount importance to China. (重点突出, 主次分明)
+* 仿写开头段写法
+  * → Building harmonious personal relationships is very important in the modern society.
+    * → Why, you may wonder, should some of us become experts in building and maintaining personal relationships?
+* 回答 why 的问题一定用 because
+* 杀死的替换
+  * **kill off** 大量死去
+    * → Pollution in the sea has **killed off** a lot of marine life.
+      * marine adj. 海洋的
+  * **<u>slaughter</u> / <u>massacre</u>** 残忍的大量的杀人, 屠宰动物
+    * → The army **<u>slaughtered</u> / <u>massacred</u>** hundreds of unarmed civilians.
+      * civilian n. 平民百姓
+    * Nanjing **massacre**
+  * **<u>wipe out</u> / <u>exterminate</u>** 使绝种, 使灭绝
+    * → What **<u>wiped out</u> / <u>exterminated</u>** dinosaurs from the earth?
+* 人类的同义词
+  * **human race** n. 人族 (U)
+  * **<u>man</u> / <u>human being</u>** man 表示人类的时候当不可数名词来用, human being 当作可数名词来用
+  * **<u>mankind</u>/<u>humankind</u>** 书面语, 人类
 
 **## text 2**
 
