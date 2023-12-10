@@ -587,12 +587,248 @@
 
 **## text 2**
 
-* 
+* **圆周句（掉尾句）**- (结构强调句)
+  * 一篇文章一般就一两个
+  * 目的: 为了在前面制造悬念, 让句末的重点突出, 强调的意味是所有句子里最浓的
+  * 雄狮型的句子
+  * 通常的句子是孔雀型的, 脑袋小, 尾巴大
+  * 句尾比句首重要
+  * → (NCE4-24 P138-L8) That all great art has this power of suggesting a world beyond is **undeniable**.
+  * → Although Tchaikovsky himself <u>thought of</u> the Pathetic Symphony <u>as</u> his crowning masterpiece, the premiere on October 28th 1893 in St. Petersburg proved a **disappointment**.
+    * thought of .... as .... 把...看作 ....
+* 吃昆虫的动物
+  * animals **which eat insects** (不佳)
+    * **insect-eating** animals
+      * 利用复合名词做形容词
+  * citizens **who abide by the law** (不佳)
+    * **law-abiding** citizens
+  * silverware **which is made by hands** (不佳)
+    * **hand-made** silverware
+  * diseases **which are related to stress** (不佳)
+    * **stress-related** diseases
+  * 利用复合名词做形容词
+    * **state-owned** enterprises 国有企业 (SOE)
+    * **flower-selling** girls 卖花姑娘
+    * **epoch-making** masterpieses 划时代的作品
+      * epoch = era
+    * **cancer-causing** substances 致癌物质
+* 造句：如果我们没有得到**杀毒软件**的保护，计算机病毒可能会使我们无法安全地浏览网络，它们可能会摧毁计算机里全部的数据并窃取我们的个人信息。
+  * → Computer viruses would make it impossible for us to surf the Internet safely, they would destroy all the data in the computer and steal our personal information, if it were not for the protection we get from **the anti-virus software.**
+* → We owe a lot to the birds and beasts **who eat insects** but all of them <u>put together</u> kill only a fraction of the number **<u>destroved by spiders.</u>**
+  * **owe** 欠
+    * **IOU** n. 欠条 (I owe you)
+    * → How much do I **owe** you? 我应该给你多少钱? (一般不翻译成我欠你多少钱)
+      * → **'How much do I owe you?'** 'Well, thatll be eighteen dollars and seventv cents. No charge for the cleanup. It's on the house.’
+        * be on the house 本店请客
+    * → You owe him an <u>apoloqy</u> / <u>explanation</u>. 你欠他一个道歉/解释
+    * → I feel like **I owe you an explanation**. I don't ordinarily go around kissing guys at parties.
+    * I owe you (one) 表示感谢
+    * I owe you <u>a lot</u> / <u>a great deal</u> = thank you so mach
+    * I owe a lot to my father. (owe a lot to sb.)
+    * 高级书面语中经常用到的
+      * 把 A 归因为 B
+        * **owe A to B** 
+          * → I **owe** my success **to** good luck. (我把我的成功 归因为 运气好)
+        * **put A down to B**
+        * **attribute A to B** 
+        * **assign A to B**
+        * **ascribe A to B**
+        * **credit A to B**
+          * 阅读真题:
+            * → Albert Einstein once **attributed** the creativity in a famous scientist **to** the fact that he never went to school. There is undoubtedly a truth in his observation, but such a truth is not criticism of schools.
+  * 除了同义词 和 近义词替换, 还可以用 上义词(范围比上一个词大一些, 例如椅子-家具, 熊猫-濒危物种) 替换, 
+    * → (NCE3-33 P154-L17) The **<u>lorry</u>** was loaded with empty beer bottles and hundreds of them slid off the back of the **<u>vehicle</u>** and on to the road.
+      * lorry n. 卡车 , vehicle n. 陆地载具
+    * **<u>ship</u> / <u>vessel</u>** 轮船 / 船只
+    * **<u>gaint panda</u> / <u>endangered species</u>** 大熊猫 / 濒危物种
+      * → (GRE 范文) **<u>Giant pandas</u>** are considered a <u>national treasure(国宝)</u> and the Chinese government are doing their best to protect this **<u>endangered species</u>** .
+    * → (GRE 范文) Moreover, in the past two years other nearby cities may have begun to build similar **<u>golf courses</u>** or **<u>resort hotels</u>**. Indeed, the fact that Ocean View has already built **<u>these facilities</u>** might actually portend failure for Hopewell, ...
+      * faciltity n. 设施, 场所
+  * **fraction**: a small amount of sth. 分数(分式数); 一小部分 (只能表示一小部分)
+  * **<u>proportion</u> / <u>percentage</u>** 比例/百分比 (既能表示一大部分, 也能表示一小部分)
+    * a <u>high</u> / <u>large</u> **<u>proportion</u> / <u>percentage</u>** of ....
+    * a <u>small</u> / <u>tiny</u> **<u>proportion</u>** / **<u>percentage</u>** of ....
+      * → (NCE3-56 P252-L15) We are lucky in that only the lower fields, which make up **a very small proportion of** our farm, are effected by flooding, ..
+  * 博闻强记, 广览多读
+  * 造句：我们所有人加在一起挣的钱也不过是比尔-盖茨的一小部分而己。
+    * → All of us put together earn only a fraction of the money made by Bill Gates.
+* → <u>Moreover</u>, <u>unlike some of the other insect eaters</u>, spiders never do the least harm to <u>us</u> or <u>our belongings</u>.
+  * harm n./v. 损害
+    * **do harm to ....** 对 sth. 有损害
+    * do no harm to ... 对 sth. 无害
+    * **<u>never</u>** do **<u>the least</u>** harm to ... 从未造成最轻微的损害 ....
+    * 加强语气的手法
+      * **用最高级**
+        * → I have no idea what to do next.
+          * → I **<u>don't</u>** have **<u>the foggiest</u>** idea what to do next. 加强语气
+          * foggy adj. 模糊的
+        * → I have no interest in boxing.
+          * → I **<u>don't</u>** have **<u>the slighttest</u>** interest in boxing
+            * slight adj. 轻微的
+        * → Your school may have done away with winners and losers, but life has not. In some schools they have abolished failing grades; they'l give you as many times as you want to get the right answer. This **<u>doesn't</u>** bear **<u>the slightest</u>** resemblance to anything in real life.
+      * **双重否定**
+        * → All of us are influenced by ....
+          * → **<u>No</u>** one can **<u>avoid</u>** being influenced by ...
+        * → All of us admit that...
+          * → **<u>No</u>** one can **<u>deny</u>** that
+        * → All of us are attracted by ...
+          * → **<u>No</u>** one can **<u>resist</u>** ... 没人可以 抗拒..
+  * **Moreover** 此外, 而且, (没有感情色彩, 表示递进)
+    * 等价替换
+      * **besides**
+      * **further/furthermore**
+      * **what is more**
+      * **in addition**
+      * **additionally**
 
 **## text 3**
 
-* 
+* → Spiders are not insects, **as many people think**, <u>nor</u> even nearly related to them.
+  * as 引导的非限定性定语从句
+    * → (NCE3-33 P154-L12) Things can go wrong on a big scale, **as a number of people recently discovered in Parramatta, a suburb of Sydney.**
+    * **as 引导的非限定性定语从句 的 主句是否定的时候, 如何翻译**
+      * 如果 as 引导的非限定性定语从句 位于句首, 那么 as 引导的非限定性定语从句 指代的是整个主句
+        * → **As has been said above**, grammar is not a set of dead rules. 正如前面说到的, 语法并不是一套死的规则
+      * 如果 as 引导的非限定性定语从句 位于句中或者句尾, 那么 as 引导的非限定性定语从句 指代的是肯定含义的主句, 要抠掉否定词
+        * → She did not open the box, **as her friends feared** 她没有像她的朋友担心的那样打开盒子
+        * → She did not, **as her friends feared**, open the box..
+    * 蜘蛛并不是很多人认为的那样的昆虫, 
+  * nor 连词, 放在否定含义的句子后面, 表示否定含义 '也不能', 后面会引起部分倒装语序
+    * → Cuba cannot be conquered, **nor** dominated.
+      * → Cuba cannot be conquered, **nor <u>can she be</u>** dominated. (并列句中重复出现的主语和谓语都可以去掉)
+        * → ... **nor <u>are spiders</u>** even nearly related to them.
+      * → (NCE4-23 P132-L13) It tires not, **nor** <u>does</u> it boast of its power; .... (前后不一样, 则不能省略)
+      * → (NCE4-24 P138-L15) If we glimpse the unutterable, it is unwise to try to utter it, **nor** <u>should</u> we seek to invest with significance that which we cannot grasp.
+      * → (John F. Kennedy) All this will not be finished in the first one hundred days. **Nor** <u>will</u> it be finished in the first one thousand days; **nor** (will it be finished) in the Hife of this Administration; **nor**  (will it be finished) even perhaps in our lifetime on this planet. But let us begin.
+  * 造包：鲸鱼并不像很多人认为的是鱼， 甚至和鱼几乎没有关系。
+    * → Whales are not fish, as many people think, nor even nearly related to them.
+* → One can tell the difference <u>almost at a glance</u>, **for a spider always has eight legs <u>and</u> an insect never more than six.**
+  * **tell the difference** 看出区别
+    * **tell sb. /sth. apart** 分辨开
+      * → It's hard to **tell** the identical twins **apart**
+        * identical adj. 一模一样的
+  * **<u>distinguish</u> / <u>differentiate</u> / <u>disscriminate</u>** <u>between A and B</u>/ <u>A from B</u> 把 A 和 B 分辨开
+    * **~ between ** causes **and** effects 将 因果分辨开
+    * **~** cancer cells **from** normal tissue 将 癌症细胞 从 普通的组织中分辨开
+      * tissue n. (动植物的)组织
+  * → One can tell the difference almost at a glance, **for a spider always has eight legs <u>and</u> an insect never (has) more than six (legs).**
+    * 并列句可以省略重复的谓语动词  和宾语 , 只要不引起歧义都可以省去
+      * → Paul likes poetry, **and** Peter **<u>(likes)</u>** fiction. 注意前后对仗, 前后都是不可数名词
+      * → Paul likes poetry, **and I know that** Peter **<u>likes</u>** fiction. 为什么后面的 likes 不能省略了? 因为 这个 likes 存在于宾语从句之中
 
 **## text 4**
 
-* 
+* **be engaged in (doing) sth.** 从事某事
+  * → He **is engaged in** <u>politics</u> / <u>business</u> 他从政 / 经商
+  * → He **is engaged in** searching for solutions. 他在从事寻找解决方案 的工作
+  * → (NCE4-5 P29-L7) For one thing, being a problem gives you a certain identity, and that is one of the things the young **are** busily **engaged in** seeking.
+    * seek v. 追求, 寻找
+* **<u>on one's behalf</u> / <u>on behalf of sb.</u> = <u>in one's interest</u> / <u>in the interest of sb.</u> ** 为了某人的利益; 代表某人某物
+  * → We are raising a fund **on behalf of** orphans.
+  * → I beat you **on your behalf**.
+  * → The guardian signed the contract **on behalf of** the minor child. 监护人代表 这个儿童签了这份合同
+    * guardian n. 监护人
+    * minor n. 未成年人 adj. 较小的, 不重要的
+* → One authority <u>on spiders</u> made a census of the spiders <u>in a grass field in the south of England</u>, <u>and</u> he estimated **that there were <u>more than 2,250,000 in one acre</u>; that is <u>something like 6.000.000 spiders of different kinds on a football pitch</u>.**
+  * authority **on** sth. 某方面的权威
+    * → Yuan Longping is a leading <u>authority **on**</u> hybrid rice. 袁隆平 是杂交水稻领域首屈一指的权威
+      * leading authority 首屈一指的权威
+    * **the authorities** 政府当局
+    * **the** local **authorities** 当地政府
+    * **the** <u>French</u> / <u>Chinese</u> **authorities** 法国当局 / 中国当局
+    * → (NCE2-62 P284-L7) When the fire had at last been put out, **the** **forest authorities** ordered several tons of a special type of grass-seed which would grow quickly.
+      * **the forest authorities**  森林管理部门
+    * → (NCE3-37 P170-L6) It is all too easy to blame **the railway authorities** when something does go wrong.
+      * **the railway authorities** 铁路管理部门
+  * **that is (to say)** : or more exactly 也就 是说，确切地说
+    * → <u>I loved him</u> -- **that is** , <u>I thought I did.</u>
+    * → The fare is reduced for <u>children</u>, **that is** <u>anyone under 15 years old</u>.
+      * fare n. 交通费 (船票, 车票)
+    * → Languages are taught <u>by the direct method</u>, **that is to says**,  <u>without using the student's own language.</u>
+  * **something like ...** 大约...
+    * **some ....** 如果跟数字要翻译成 '一些'
+    * **<u>something</u> / <u>somewhere</u> in the region of ...** 
+      * in the region of ... 大约
+      * → …. that is **<u>some</u> / <u>something in the region of</u>** 6,000,000 spiders of different kinds on a football pitch.
+    * 书面语尽量避免使用俚语
+    * something like 后面不一定跟数量
+    * → (NCE4-32 P188-L1) In his own lifetime Galileo was the centre of violent controversy; but the scientific dust has long since settled, and today we can see even his famous clash with the Inquisition in **something like** its proper perspective.
+  * 运动场的表达
+    * a <u>football</u> / <u>soccer</u> **<u>pitch</u> / <u>field</u>** 一个足球场
+      * soccer n. 足球 (AmE)
+      * pitch / field n. 大型运动场地
+    * a <u>tennis</u> / <u>backetball</u> / <u>badminton</u> **court** 一个 网球/篮球/羽毛球 场
+      * **court** n. 中型的运动场地
+    * **ring** 拳击台
+      * a boxing **ring**
+    * **rink** 溜冰场
+      * skating **rink** 冰场
+      * roller skating **rink** 旱冰场
+    * baseball **<u>diamand</u> / <u>court</u>** 棒球场
+    * golf **<u>course</u> / <u>links</u>** 高尔夫球场
+    * bowling **alley** 保龄球馆
+* → Spiders are busy **<u>for at least half the year</u>** in killing insects. 
+  * less less least
+* → <u>It</u> is impossible **to make more than the wildest guess at <u>how many they kill</u>**, <u>but</u> they are hungry creatures, **not content with only three meals a day.**
+  * creature n. 动物
+  * guess
+    * → **Guess what**? John got engaged to Susan!
+    * 听力题
+      * W: **Guess what**? I just nominated you for this year's class treasurer.
+        * nominate v. 提名
+        * treasurer n. 出纳员, 会计
+      * M: Oh, no, Sally, you didn't! 
+      * Q: What does the man imply?
+      * Answer: (B) He doesn't want to be treasurer.
+    * **make a guess at ...** 在 ... 作出猜测
+      * → **Make a guess at** who's hehind the door.
+  * **wild**: unreasonable; without careful thought 胡乱的, 离奇的
+    * a **wild** <u>dream</u> / <u>imagination</u> / <u>speculation</u> 一个离奇的梦, 一个胡乱的想象, 一个 胡乱的推测
+      * speculation n. 推测
+    * → Working with you is beyond my **wildest** dreams.
+  * **more than + n.** 超过; 不仅仅... (翻译难点, )
+    * → Peace is **more than** the absence of war.
+      * absence 不在, 缺席, 缺少, 缺乏
+    * → (NCE4-8 P47-L2) These days, it is differences in national regulations, far **more than** tariffs, that put sand in the wheels of trade between rich countries.
+      * tariff n. 关税
+    * → (NCE4-30 P177-L3) The open sea was deep and mysterious, and anyone who gave **more than** a passing thought to the bottom confines of the oceans probably assumed that the sea bed was flat.
+      * give a passing thought to .... 一闪念
+  * 对于 蜘蛛杀死了多少昆虫, 要作出一个稍微靠谱一点的猜测, 几乎是不可能的.
+  * → ⋯..but they are hungry creatures, **(being)** not content with only three meals a day.
+    * 后半句可以看作省略了 being 的独立主格, 就剩下一个形容词短语
+  * 造句：他们是有事业心的年轻人 ，不会满足于平淡的日常生活。
+    * → (NCE3-31 P146-L3) This invariably wins them the love and respect of others, for they add colour to **the dull routine of everyday life.**
+    * → They are enterprising young people, not content with the dull routine of everyday life.
+* → <u>It</u> has been estimated **that the weight of all the insects <u>destroyed by spiders in Britain in one year</u> would be greater <u>than the total weight of all the human beings in the country</u>.**
+  * **鼻腔爆破 nasal explosion**
+    * **[t] / [d] + [n]**
+      * Britain
+      * mutton
+      * certain
+      * mountain
+      * didn't
+      * student
+* 文章结构
+  * 不断的提出 question, 不断的自问自答
+
+## L3 Matterhorn man
+
+**## vocabularies**
+
+* .
+
+**## text 1**
+
+* .
+
+**## text 2**
+
+* .
+
+**## text 3**
+
+* .
+
+
+
+ 
