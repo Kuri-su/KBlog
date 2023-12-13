@@ -815,7 +815,180 @@
 
 **## vocabularies**
 
-* .
+* **pioneer**  /ˌpaɪəˈnɪr/  n. 先驱, 探索者; v. 开拓, 探索
+  * Young pioneers 少年先锋队
+  * → Henry Ford was a **pioneer** in the auto industry.
+    * inductry n. 工业
+  * → The Wright brothers **pioneered** in early aviation.
+    * aviation n. 飞行,
+  * **pioneering** adj. 开拓性的, 探索性的
+    * **pioneering** work
+    * **pioneering** spirit  开拓性的精神
+      * spirit n. 精神, 心灵, 
+    * in the **pioneering** days 在事业刚刚起步的时候; 在做开拓性的工作的那些日子里
+  * 同义词 / 同义搭配
+    * **break new ground** 开创, 开拓
+      * → Deng Xiaoping's reform programs **broke new ground** in China.
+        * reform v. 改革
+    * **ground-breaking** 开拓, 开创
+      * **ground-breaking** educational reforms 开拓性的教育改革
+    * **lead the way** 开拓, 开创
+      * → The company has **led the way** in developing environment-friendly products.
+* **summit** /ˈsʌmɪt/ n. 山顶, 顶点; 峰会
+  * **summit / peak** 山峰
+    * peak 不能表示峰会
+  * → the **<u>summit</u> / <u>peak</u>** of his career 他事业生涯的巅峰
+    * career 事业 (长期或终生)
+    * job 职位/工作 (相对短期)
+  * → The two presidents agreed to **hold a summit** in the coming spring.
+    * hold v. 举行
+  * → (NCE4-8 P47-L10) They hope to finish in time for a trade **summit** between America and the EU on May 28th.
+  * 其他表示顶点的词汇
+    * **crest** n. 山峰 ; 浪尖; 巅峰
+    * **pinnacle** n. 建筑物的尖顶; 巅峰
+      * → the **<u>crest</u> / <u>pinnacle</u>** of one's career
+    * **apex** n. 顶点 (任何事物)
+      * → the **apex** of a triangle 三角形的顶点
+      * → the **apex** of one's career
+    * **zenith** n. 巅峰 ;天顶 (如果把天空看成半圆形的话, 最高的那个点称为 天顶 zenith)
+      * → At the **zenith** of its power, the Yuan Dynasty ruled almost all of the Eurasian continent.
+        * Eur<u>asian</u> n. 欧亚
+* **perilous** /ˈperələs/ adj. 非常危险的 (每一秒钟都可能发生重大危险)
+  * a **perilous** journey across the mountains
+  * **perilous** country roads
+  * **peril** n. 危险 (每一秒钟都可能发生重大危险)
+    * → The ship was in **grave peril**
+      * **grave** adj. 重大的
+
+  * **hazarous** adj. 有风险的, 有隐患的
+    * → a **hazardous** investment 风险投资
+    * → Being the President's bodyguard is a **hazardous** occupation. 做总统的保镖是一个有风险的行业
+    * **hazard** n. 风险, 隐患
+      * a <u>health</u> / <u>safety</u> / <u>fire</u> / <u>traffice</u> **hazard** 一个健康隐患/安全风险/火灾风险/交通隐患 
+      * **<u>be</u> / <u>present</u> / <u>pose</u> / <u>constitute</u> a hazard to ..** 构成了风险
+        * → The busy traffic entrance **<u>is</u> / <u>presents</u> / <u>poses</u> / <u>constitutes</u> a hazard to** pedestrians.
+        * → (NCE4-30 P177-L1) Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface and the **hazards** of navigation **presented** by the irregularities in depth of the shallow water close to the land .
+
+      * **<u>be</u> / <u>present</u> / <u>pose</u> / <u>constitute</u> a <u>threat</u> / <u>menace</u> to ...** 对... 构成了威胁
+        * threat n. 威胁
+        * menace n. 威胁
+        * → Inflation may **pose a** potential **threat to** China's social stability.
+          * Inflation n. 通货膨胀
+
+        * → Religious extremism **constitutes a** grave **menace to** the security and stability in the region.
+
+* **shudder** /ˈʃʌdər/  v. 颤抖，不寒而栗 (人或物)
+  * → She **shuddered** at the thought of the murder. 一想到这起谋杀就害怕
+  * → The ship **shuddered** when she struck the rocks.
+  * **tremble** v. 颤抖 (人或物)
+  * **shiver** v. 颤抖 (人或物)
+  * **quiver** v. 颤抖 (人或物)
+    * → (NCE3-10 P50-L12) Suddenly, there was a slight **trembling** sound from below, and the captain went down to see what had happened.
+    * → He **trembled** with <u>anger</u> / <u>fear</u> / <u>excitement</u>.
+
+* **solitary** /ˈsɑːləteri/ adj. 唯一的 (=single)
+  * → Beckham scored the **solitary** goal of the game.
+  * → (NCE4-3 P17-L6) They had **a single aim, a solitary goal** --- the top !
+  * **solitude** n. 独自, 独处 (只描述状态, 没有感情色彩)
+    * → I love tranquil **solitude** --- P.B. Shelley
+      * **tranquil** adj. 安静的, 静谧的(书面语)
+
+    * **in solitude** 处于独处的状态
+    * → I spend the morning in **solitude**.
+    * → I live **in** that **solitude** which is painful in youth, but delicious in the years of maturity.  --- Albert Einstein
+
+  * **loneliness** n. 孤单, 寂寞
+    * → (NCE3-42 P196-L2) Perhaps it is the desire for **solitude** or the chance of making an unexpected discovery that lures people down to the depths of the earth.
+
+  * **"sol"=alone**
+    * **sol**e adj. 单独的, 独自的 (书面语)
+    * **sol**o v. 独奏, 独唱
+    * **sol**iloquy v. 独白
+
+* **impoverish** /ɪmˈpɑːvərɪʃ/ v. 使贫困
+  * → The EU trade policies will **impoverish** developing countries.
+  * **deplete** v. 使渐渐枯竭
+    * → Solar storms **deplete** ozone layer. 太阳风暴 使得臭氧层 逐渐枯竭耗尽
+      * ozone 臭氧
+
+  * **inpoverished** adj. 贫困的, 贫穷的 (书面语, 委婉的表达贫困)
+  * **destitute** adj. 贫困的
+    * the institute for the **destitute** 平民学院
+      * -stitut- = stand
+
+  * **deprived** adj. 贫困的
+  * **disadvantaged** adj. 贫困的 (失去优势的)
+  * **underprivileged** adj. 贫困的 (在特权之下的)
+  * **underdeveloped** adj. 欠发达的(常指地区) <u>countries</u> / <u>regions</u> ... 欠发达地区/国家 
+
+* **flea-ridden**  adj. 不慢跳蚤的
+  * **flea** 跳蚤
+  * **flee (fled, fled)** v. 逃跑, 逃窜
+    * → (NCE3-13 P62-L15) When Mrs. Richards walked towards him, he **fled**, slamming the door behind him.
+
+  * **"-ridden”: full of sth. unpleasant** 充满了不愉快的东西的
+    * unpleasant adj. 不愉快的
+      * pleasant adj. 令人愉快的, 舒适的
+
+    * **debt-ridden** countries 负载累累的 (布满债务的)
+    * **mosquito-ridden** swamps  滋生蚊虫的 (布满蚊子的)
+      * swamp n. 沼泽地
+
+    * **disease-ridden** slums 滋生疾病的 (布满疾病的)
+      * slum n. 贫民窟
+
+  * **"-infested"** 充满了讨厌的动物/昆虫的
+    * **shark-infested** waters 到处是鲨鱼的海域
+      * water用复数表示 海域, 水域
+
+    * **rat-infested** warehouses 到处是老鼠的仓库
+      * warehouse n. 仓库
+      * ware n. 商品
+
+    * **insect-infested** tree 住满了虫子的树
+
+* **boast** /boʊst/ v.炫燿，自夸；拥有
+  * 人做主语表示 炫耀, 自夸
+
+    * **boast <u>of</u> / <u>about</u> sth.** 夸口, 炫耀 某物
+      * → Every salesman **boasts of** his own wares.
+
+    * **boast that ...** 后跟定语从句
+      * → They **boasted that** they had never lost a single game.
+
+  * 事物做主语时, 表示拥有 好的特征
+    * → China and France **boast** sound bilateral relations.
+      * sound adj. 良好的, 完好的
+      * bilateral : bi-later-al adj. 双边的
+
+    * → China and the EU **boast** consensus on environment.
+      * consensus: con-sens-us n. 共识
+
+    * 拥有好的东西/特征 的同义词
+      * **enjoy** v. 享有
+        * → (NCE3-3 P22-44) The city at one time must have been prosperous, for it **enjoyed** a high level of civilization.
+
+      * **be blessed with ...** 幸运的拥有好的东西 (后天拥有的)
+        * → They **were blessed with** two children, a bay and a girl.
+
+      * **be endowed with ...** 天生就拥有
+        * → She **is endowed with** both brains and beauty.
+          * endow v. 赋予
+
+        * Declaration of Independence  --Thomas Jefferson
+          * → We hold these truths to be self-evident, that all men are created equal, that they **are endowed** by the Creator **with** certain unalienable rights, that among these are life, liberty, and the pursuit of happiness.
+
+    * 近义词
+      * **cherish** v. 拥有某种感情
+        * → (NCE3-34 P158-L10) Like a scientist bent on making a discovery, he must **cherish the hope** that one day he will be amply rewarded.
+        * → He **cherished the memory** of his late wife.
+
+    * 表示没有的词
+      * **be free from ...** 没有 (后面通常跟不好的东西)
+        * → The composition **is free from** errors.
+        * → Organic produce **is free from** harmful chemicals.
+        * → (NCE3-27 P130-L15) He may never be sure where the next meal is coming from, but he **is free from** the thousands of anxieties which afflict other people.
+
 
 **## text 1**
 
