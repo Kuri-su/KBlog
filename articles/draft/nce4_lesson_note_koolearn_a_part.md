@@ -992,7 +992,38 @@
 
 **## text 1**
 
-* .
+* → Modern alpinists try to climb mountains by a route **which will give them good sport**, <u>and **the more difficult it is**</u>, the more highly it is regarded.
+  * alpinists n. 登山者
+    * 词源来自 Alps , 阿尔卑斯山
+
+  * regard n. 注重
+  * modern adj. 当代的,  当今的, 现如今的
+    * 同义词
+      * **modern-day**
+      * **present-day**
+      * **today's**
+      * **... of today**
+      * **contemporary** 
+        * Longman Dictionary of Contemporary English
+
+  * **sport** n. 乐趣 [U] tun; amusement
+    * → Swimming in the sea will **give you good sport.**
+      * good sport 好多乐趣
+
+    * → He tormented the cat only **for sport.**
+      * **for sport** 为了好玩
+        * → (NCE4-18 P104-L4) On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or **for sport**, as in riding the bow waves of a ship.
+
+    * …. which will give them good sport, ...
+      * → ... which wil give them **<u>good</u> / <u>a lot of</u> fun**, ....
+
+  * → <u>**the more difficult it is**</u>, the more highly it is regarded. 越...就越如何...
+    * 前面是 从句, 后面是主句 (后面的主句有时候还会用倒装, 在主语太长的时候)
+    * → The younger the child is, the more **is** the child's need of sleep. 
+      * 越小的孩子, 对于睡眠的需要就越多
+
+    * 
+
 
 **## text 2**
 
