@@ -1017,17 +1017,77 @@
     * …. which will give them good sport, ...
       * → ... which wil give them **<u>good</u> / <u>a lot of</u> fun**, ....
 
-  * → <u>**the more difficult it is**</u>, the more highly it is regarded. 越...就越如何...
-    * 前面是 从句, 后面是主句 (后面的主句有时候还会用倒装, 在主语太长的时候)
-    * → The younger the child is, the more **is** the child's need of sleep. 
-      * 越小的孩子, 对于睡眠的需要就越多
+  * → <u>**the more difficult it is**</u>, the more highly it is regarded. 越...就越...
+    * 变化一: 比较级部分倒装放到句首
+      * 前面是 从句, 后面是主句 (后面的主句有时候还会用**倒装**, 在主语太长的时候)
 
-    * 
+      * → The younger the child is, the more **<u>is</u>** the child's need of sleep. 
+        * 越小的孩子, 对于睡眠的需要就越多
+
+    * 在 越...就越.... 句型中, 如果谓语动词 是be 动词, 无论是主句还是从句, 并且主语不是代词, 那么 be 动词可以省略. 可以随便省略
+      * → The younger the child (<u>is</u>), the more (<u>is</u>) the child's neeed of sheep.
+        * 这事句子里没有 谓语动词, 
+      * → The stronger the magnet, the greater the number of lines of magnetic force.
+        * magnet n. 磁铁
+        * 磁铁越强, 磁力线越多
+        * → The stronger the magnet **is**, the greater **is** the number of lines of magnetic force.
+      * → The higher the standard of living, the greater the amount of paper used.
+        * → The higher the standard of living **is**, the greater **is** the amount of paper used.
+    * 变化二: 前半句放在句中, 后半句放在句首
+      * → I play (the) better, **the more I practice.**
+      * 后半句是从句, 前半句是主句 , 先翻译后半句, 再翻译前半句
+      * = → **The more l practice**, the better I play.
+
+    * 真题
+      * → A compound is considered the more stable, the smaller its potential energy.
+        * poterntial n. 势能
+        * compound n. 化合物
+        * 势能越小, 化合物就被认为越稳定
+    * → (NCE4-37 P218-l13) We are so familiar with the fact that man ages, that people have for years assumed that the process of losing vigour with time, of <u>becoming more likely to die</u> **the older we get**, was something selfevident, like the cooling of a hot kettle or the wearing-out of a pair of shoes.
+    * → (NCE3-55 P248-L20) A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because <u>the dust becomes thinner</u> **the further we travel towards the outer edges of our own solar system.**
+
+* 表示'实情'的句型
+  * → This was not the **case** at all.
+    * case 实情
+
+  * → (NCE3-22 P110-L3) One would expect them to know their parts by heart and never have cause to falter. **Yet this is not always the case.**
+    * case 实情
+
+  * → (NCE3-30 P142-L10) No one suspected that there might be someone else on the farm who had never been seen. **This was indeed the case.**
+  * 总结: 
+    * This is not the case at all. 这完全不是实情
+    * This is not always the case. 这不总是实情
+    * This is indeed the case. 这就是实情
+    * This is not necessarily the case. 这不一定是实情
+    * This might not be the case. 这可能不是实情
+
+* → The early climbers were looking for the easiest way to the top, **because the summit was the prize <u>they sought</u>, especially if it had never been attained before.**
+  * **seek** sought sought v. try to achieve sth.
+    * **seek** <u>refuge</u> / <u>asylum</u> 寻求避难
+    * **seek** advice 寻求建议
+    * → The incumbent president will not **seek** reelection.
+      * incumbent adj. 现任的
+      * reelection n. 连任, 重选
+
+    * Virgo woman **seeks** Scorpio man
+      * 一位处女座的女子 寻求一位天蝎座的男子
+
+  * attain v. 取得, 到达
+  * the early climber = the **pioneers**  先驱
+    * = the **pioneer climbers**
+    * = their **preducessors** 更早从事同样工作的人, 老前辈
+      * → (NCE3-56 P252-18) Sometimes we go upstream to a favorite backwater, sometimes we have our party at the boathouse, which a **predecessor** of ours at the farm built in the meadow hard by the deepest pool for swimming and diving.
+
+  * prize (暗喻) = sense of <u>pride</u> / <u>honor</u> / <u>accomplishment</u>
+  * I came, I saw, I conquered!
+    * Veni, vidi, vici  --- **Julius Caesar**
 
 
 **## text 2**
 
-* .
+* → <u>It</u> is true **that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner <u>which would make a modern climber shudder at the thought</u>**, <u>but</u> they did not go out of their way to court such excitement.
+  * 
+
 
 **## text 3**
 
