@@ -1086,12 +1086,87 @@
 **## text 2**
 
 * → <u>It</u> is true **that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner <u>which would make a modern climber shudder at the thought</u>**, <u>but</u> they did not go out of their way to court such excitement.
-  * 
+  * **It <u>is</u> / <u>was</u> true that .... , but ...** (诚然, 但是却.....)(黄金句型)
+    * → (NCE3-16 P74-L12) **It was true that** he had just bought a lamb, he explained, **but** his lamb was black.
+    * 造句：中国确实还是一个发展中国家，但是她却充满了潜力。
+      * → **It is true that** China is still a developing country, **but** she is full of <u>potential</u> / <u>potentialities</u>.
+        * potential adj. 潜在的, 可能的
+        * potentialities n. 潜力, 潜在性
+
+    * 同义搭配
+      * **<u>Admittedly ,</u> / <u>Granted ,</u> ... but ...**
+        * **admittedly** adv. 公认地, 无可否认地
+        * **granted** adv.  = admittedly
+        * → (NCE4-47 P274-413) **Granted**, a snobbery of camping itself, based upon equipment and techniques, already exists; **but** it is of a kind that, if he meets it, he can readily understand and deal with.
+
+    * 总结
+      * **<u>It is true that</u> / <u>admittedly,</u> / <u>granted,</u> ...., <u>but</u> /<u>yet</u>**
+        * 后半句可以跟
+          * **that is not to say that .....**
+          * **it does not necessarily mean that ....**
+          * **we cannot <u>ensure</u> / <u>guarantee</u> that ....**
+          * **there is no guarantee that ....**
+            * guarantee = ensure v. 确保
+
+        * yet 既是副词, 也是连词, 当连词的时候 等于 but
+
+  * **face = confront** v. 面对. 面临
+
+    * **be <u>faced</u> / <u>confronted</u> with ...** 面对着, 面临着
+
+      * → China **is <u>faced</u> / <u>confronted</u> with** the problem of overpopulation.
+        * overpopulation n. 人口过剩
+
+  * **nature** 经常放 of 后面做后置定语, 表示 某一种类的
+    * → I can't approve of things **of this nature.**
+    * **<u>of</u> a ... nature** 表示事物的种类
+      * treaties **<u>of</u> a political nature.** 政治性的条约
+      * questions **<u>of</u> an academic nature** 学术性的问题
+      * articles **<u>of</u> a technical nature** 科技类的文章
+
+  * **be equipped with ...**  装备着....
+    * → (NCE3-3 P22-L7 The City **was** even **equipped with** a drainage system, for a great many clay pipes were found beneath the narrow streets.
+
+  * **at the thought  = at the thought of the manner** 一想到....
+    * manner n. 方式
+    * **at the ... of ...** 一...就....
+    * → (NCE3-23 P114-L5)... your stomach would turn **at the idea of** frying potatoes in animal fat ...
+    * → (NCE3-41 P192-L4) ... they always go into raptures **at the** mere **mention of** the country ...
+    * → She screamed **at the sight of** the murder.
+    * → She woke **at the sound of** the bell.
+    * → She fainted **at the news of** her father's death.
+      * **faint** v./n. 晕倒, 晕厥
+
+  * 造句：防暴警察(riot police)在体育场外巡逻(patrol the stadium)，装备得使足球流氓(soccer hooligan)一看到就不寒而栗。
+    * → Riot police were patrolling the stadium, equipped in a manner which would make a soccer hooligan shudder at the sight.
+      * equip v. 装备
+      * equipment n. 装备
+
+* **go out of one's way (to do ...)** 特意的, 不嫌麻烦的做某事
+  * → Please don't **go out of your way** for me.
+  * → It was very kind of you to **go out of your way to** meet us at the airport.
+
+* **court** v. 追求 (书面语) ; n. 法院
+* single aim, solitary goal 
+  * 同义词连用
+    * 中文中很常见
+      * 虚情假意
+      * 千刀万剐
+      * 深仇大恨
+
+    * → I'm **sick and tired** of your silliness.
+      * **sick and tired**  厌倦了
+
+    * → He is never one to **pick and choose.**
+      * pick and choose 挑挑拣拣
+
+    * → She is always complaining of her **aches and pains.**
+      * **aches and pains** 这疼那疼
 
 
 **## text 3**
 
-* .
+* → <u>It</u> is hard for us **to realize nowadays <u>how difficult it was for the pioneers</u>.**
 
 
 
