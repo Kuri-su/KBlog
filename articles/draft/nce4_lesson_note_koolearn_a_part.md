@@ -1167,6 +1167,45 @@
 **## text 3**
 
 * → <u>It</u> is hard for us **to realize nowadays <u>how difficult it was for the pioneers</u>.**
+  * 在动词不定式前面, 经常用 for 引出 动词不定式的逻辑主语.
+
+* → Except for one or two places <u>such as Zermatt and Chamonix, **which had rapidly become popular**</u>. Alpine villages tended to be impoverished settlements **cut off from civilization by the high mountains**.
+  * 过去分词短语当后置定语来用
+  * **<u>except for</u> / <u>but for</u> ...** 除了....
+    * **<u>except for</u> / <u>but for</u> / <u>if it were not for</u> …** 若没有.....的话
+      * → **<u>except for</u> / <u>but for</u> / <u>if it were not for</u>** your support, I **<u>would</u>** be in big trouble now.
+      * → (NCE4-2 P11-42) Insects <u>would</u> make it impossible for us to live in the world; they <u>would</u> devour all our crops and kill our flocks and herds, **if it were not for** the protection we get from insect-eating animals.
+
+    * **<u>except</u> / <u>but</u> (that) ...**  如果不是 ...的话
+      * → I would buy a Mercedes **<u>except</u> / <u>but</u> (that)** |  <u>am</u> poor. (从句用真实语气, 主句用虚拟语气)
+      * **except/ but (that)** = if I **were** rich
+
+  * **Chamonix** the cradle of modern mountaineering 当代登山运动的发源地
+  * **tend to do** 往往, 常常
+    * intend 打算做某事
+    * → People **tend to** need less sleep when they get older.
+    * → women **tend to** live longer than men.
+    * 同义替换
+      * **have a tendency to do** = tend to do 往往, 常常, 多数情况下
+        * → The drug is effective but **has a tendency to** cause headaches.
+
+      * **generally** 
+      * **mostly**
+      * **on the whole**
+      * **for the most part**
+      * **in general**
+      * **in most cases**
+      * **by and large**
+      * **most of the time**
+
+  * settlement n. 小的居住区
+  * cut off from civilization by the high mountains. 做后置定语, 相当于 定语从句
+    * (which were) + .... + civilization
+      * **cut off from**
+      * **our of touch with**
+      * **isolated from**
+      * **separated from**
+
 
 
 
