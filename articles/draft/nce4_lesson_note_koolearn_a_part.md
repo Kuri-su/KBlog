@@ -1204,8 +1204,11 @@
       * **cut off from**
       * **our of touch with**
       * **isolated from**
+        * **isolated** adj. 隔离, 隔绝
+
       * **separated from**
 
+* → Such inns **as there were** were generally dirty and flea-ridden; the food simply local cheese <u>accompanied by bread often tvelve months old</u>, **all washed down with coarse wine.**
 
 
 
