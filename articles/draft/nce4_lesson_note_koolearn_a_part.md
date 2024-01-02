@@ -228,7 +228,7 @@
       * = → The action, **<u>although</u> <u>it</u> has aroused universal disapproval**, is nevertheless the only solution.
 
     * 汉译英
-      * 造句：最近几年大批农民工 (migrant workers from the countryside)涌入大城市，**因为**他们**在那里**可以找到不错的工作并且养活家人。
+      * 造句：最近几年大批农民工 (migrant workers from the countryside)涌入大城市,**因为**他们**在那里**可以找到不错的工作并且养活家人。
         * → The past few years witnessed the great influx of migrant workers from the countryside to big cities, **where they could secure decert jobs and support their families.**
 
 
@@ -269,7 +269,7 @@
         * (A)observation   **(B)preservation**  (C)conservation  (D)reservation
           * observation n. 观察, 观测; 某人发表的评论
 
-  * **动词不定式做表语时，若前面出现了实义动词 “do” ，则常去掉 “to”**
+  * **动词不定式做表语时,若前面出现了实义动词 “do” ,则常去掉 “to”**
     * → All I have to **do** is **dream**. 只有寻梦去
       * all i have to do  我所要做的
 
@@ -368,7 +368,7 @@
     * 1
       * — She looks very happy. She ___ have passed the exam.
       * — I guess so. lt's not difficult at all. 
-        * (A) should (B) could  **(C) must** (D）might
+        * (A) should (B) could  **(C) must** (D)might
 
     * 2
       * — I can't find my purse anywhere.
@@ -587,7 +587,7 @@
 
 **## text 2**
 
-* **圆周句（掉尾句）**- (结构强调句)
+* **圆周句(掉尾句)**- (结构强调句)
   * 一篇文章一般就一两个
   * 目的: 为了在前面制造悬念, 让句末的重点突出, 强调的意味是所有句子里最浓的
   * 雄狮型的句子
@@ -612,7 +612,7 @@
     * **epoch-making** masterpieses 划时代的作品
       * epoch = era
     * **cancer-causing** substances 致癌物质
-* 造句：如果我们没有得到**杀毒软件**的保护，计算机病毒可能会使我们无法安全地浏览网络，它们可能会摧毁计算机里全部的数据并窃取我们的个人信息。
+* 造句：如果我们没有得到**杀毒软件**的保护,计算机病毒可能会使我们无法安全地浏览网络,它们可能会摧毁计算机里全部的数据并窃取我们的个人信息。
   * → Computer viruses would make it impossible for us to surf the Internet safely, they would destroy all the data in the computer and steal our personal information, if it were not for the protection we get from **the anti-virus software.**
 * → We owe a lot to the birds and beasts **who eat insects** but all of them <u>put together</u> kill only a fraction of the number **<u>destroved by spiders.</u>**
   * **owe** 欠
@@ -700,7 +700,7 @@
       * → (NCE4-23 P132-L13) It tires not, **nor** <u>does</u> it boast of its power; .... (前后不一样, 则不能省略)
       * → (NCE4-24 P138-L15) If we glimpse the unutterable, it is unwise to try to utter it, **nor** <u>should</u> we seek to invest with significance that which we cannot grasp.
       * → (John F. Kennedy) All this will not be finished in the first one hundred days. **Nor** <u>will</u> it be finished in the first one thousand days; **nor** (will it be finished) in the Hife of this Administration; **nor**  (will it be finished) even perhaps in our lifetime on this planet. But let us begin.
-  * 造包：鲸鱼并不像很多人认为的是鱼， 甚至和鱼几乎没有关系。
+  * 造包：鲸鱼并不像很多人认为的是鱼, 甚至和鱼几乎没有关系。
     * → Whales are not fish, as many people think, nor even nearly related to them.
 * → One can tell the difference <u>almost at a glance</u>, **for a spider always has eight legs <u>and</u> an insect never more than six.**
   * **tell the difference** 看出区别
@@ -740,7 +740,7 @@
       * **the forest authorities**  森林管理部门
     * → (NCE3-37 P170-L6) It is all too easy to blame **the railway authorities** when something does go wrong.
       * **the railway authorities** 铁路管理部门
-  * **that is (to say)** : or more exactly 也就 是说，确切地说
+  * **that is (to say)** : or more exactly 也就 是说,确切地说
     * → <u>I loved him</u> -- **that is** , <u>I thought I did.</u>
     * → The fare is reduced for <u>children</u>, **that is** <u>anyone under 15 years old</u>.
       * fare n. 交通费 (船票, 车票)
@@ -796,7 +796,7 @@
   * 对于 蜘蛛杀死了多少昆虫, 要作出一个稍微靠谱一点的猜测, 几乎是不可能的.
   * → ⋯..but they are hungry creatures, **(being)** not content with only three meals a day.
     * 后半句可以看作省略了 being 的独立主格, 就剩下一个形容词短语
-  * 造句：他们是有事业心的年轻人 ，不会满足于平淡的日常生活。
+  * 造句：他们是有事业心的年轻人 ,不会满足于平淡的日常生活。
     * → (NCE3-31 P146-L3) This invariably wins them the love and respect of others, for they add colour to **the dull routine of everyday life.**
     * → They are enterprising young people, not content with the dull routine of everyday life.
 * → <u>It</u> has been estimated **that the weight of all the insects <u>destroyed by spiders in Britain in one year</u> would be greater <u>than the total weight of all the human beings in the country</u>.**
@@ -877,7 +877,7 @@
 
         * → Religious extremism **constitutes a** grave **menace to** the security and stability in the region.
 
-* **shudder** /ˈʃʌdər/  v. 颤抖，不寒而栗 (人或物)
+* **shudder** /ˈʃʌdər/  v. 颤抖,不寒而栗 (人或物)
   * → She **shuddered** at the thought of the murder. 一想到这起谋杀就害怕
   * → The ship **shuddered** when she struck the rocks.
   * **tremble** v. 颤抖 (人或物)
@@ -947,7 +947,7 @@
 
     * **insect-infested** tree 住满了虫子的树
 
-* **boast** /boʊst/ v.炫燿，自夸；拥有
+* **boast** /boʊst/ v.炫燿,自夸；拥有
   * 人做主语表示 炫耀, 自夸
 
     * **boast <u>of</u> / <u>about</u> sth.** 夸口, 炫耀 某物
@@ -1088,7 +1088,7 @@
 * → <u>It</u> is true **that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner <u>which would make a modern climber shudder at the thought</u>**, <u>but</u> they did not go out of their way to court such excitement.
   * **It <u>is</u> / <u>was</u> true that .... , but ...** (诚然, 但是却.....)(黄金句型)
     * → (NCE3-16 P74-L12) **It was true that** he had just bought a lamb, he explained, **but** his lamb was black.
-    * 造句：中国确实还是一个发展中国家，但是她却充满了潜力。
+    * 造句：中国确实还是一个发展中国家,但是她却充满了潜力。
       * → **It is true that** China is still a developing country, **but** she is full of <u>potential</u> / <u>potentialities</u>.
         * potential adj. 潜在的, 可能的
         * potentialities n. 潜力, 潜在性
@@ -1137,7 +1137,7 @@
     * → She fainted **at the news of** her father's death.
       * **faint** v./n. 晕倒, 晕厥
 
-  * 造句：防暴警察(riot police)在体育场外巡逻(patrol the stadium)，装备得使足球流氓(soccer hooligan)一看到就不寒而栗。
+  * 造句：防暴警察(riot police)在体育场外巡逻(patrol the stadium),装备得使足球流氓(soccer hooligan)一看到就不寒而栗。
     * → Riot police were patrolling the stadium, equipped in a manner which would make a soccer hooligan shudder at the sight.
       * equip v. 装备
       * equipment n. 装备
@@ -1168,7 +1168,6 @@
 
 * → <u>It</u> is hard for us **to realize nowadays <u>how difficult it was for the pioneers</u>.**
   * 在动词不定式前面, 经常用 for 引出 动词不定式的逻辑主语.
-
 * → Except for one or two places <u>such as Zermatt and Chamonix, **which had rapidly become popular**</u>. Alpine villages tended to be impoverished settlements **cut off from civilization by the high mountains**.
   * 过去分词短语当后置定语来用
   * **<u>except for</u> / <u>but for</u> ...** 除了....
@@ -1207,9 +1206,106 @@
         * **isolated** adj. 隔离, 隔绝
 
       * **separated from**
-
 * → Such inns **as there were** were generally dirty and flea-ridden; the food simply local cheese <u>accompanied by bread often tvelve months old</u>, **all washed down with coarse wine.**
+  * **inn** n. 乡下的小酒馆, 小客栈
+  * as 引导限定性定语从句 (前面没有逗号和主句隔开, 表示和主句关系密切)
+    * 使用条件
+      * 先行词 as 前面一般有与他呼吁的词
+        * **<u>such</u> / <u>the same</u> / <u>as</u> / <u>so</u> ... as ...**
+
+    * → I need **<u>the same</u>** tool **as** you are using.
+    * → I need **<u>such</u>** a tool **as** you are using.
+    * → I need **<u>as</u>** useful a tool **as** you are using.
+
+  * generally = tend to do  通常, 一般
+  * ...； the food **<u>(was)</u>** simply local cheese accompanied by bread often 12 months old.
+    * 并列句重复的成分可以省略
+      * → (NCE4-2 P11-L8) ...,for a spider always **has** eight legs and insect never **(has)** more than six.
+      * → Paul **likes** poetry, **and** Peter **(likes)** fiction
+      * 但如果位于宾语从句中就不能省略了
+        * → Paul **likes** poetry, **and I know that** Peter **<u>likes</u>** fiction.
+
+  * **accompany** 陪伴, 伴随
+    * → The disease **is accompanied by** sneezing and fever.
+      * sneeze 喷嚏
+      * fever 发热, 发烧
+
+    * → strong winds **accompanied by** heavy rain 伴有大雨的狂风
+
+  * **wash sth. down with sth.** 用液体把某些东西冲下去 
+    * → We ate some sausage, and **washed it down with** whiskey. 我们吃了一些香肠, 并且用威士忌酒把它送下去
+
+* → Often a valley boasted no inn at all, <u>and</u> climbers found shelter **<u>wherever they could</u>—sometimes with the local priest <u>(who was usually as poor as his parishionersl)</u>, sometimes with shepherds or cheese-makers.**
+  * boast 事物做主语的时候表示 有 好的东西或特征, 人做主语是吹牛皮
+    * 人做主语 和 物做主语 的意思不同的词
+      * **find one's way**
+        * → (NCE2-96 P434-L5) Specially-made lanterns are hung oitside each house to help the dead to **find their way.** (人做主语, 找到路)
+
+        * → (NCE3-15 P70-L8) My nephew, George, has a money box but it is always empty. Very few of the fifty pence pieces and pound coins I have given him have **found their way** there. (物做主语, 到达某地)
+
+      * **promise to do** 
+        * → Groundbreaking research by two French geophysicists **promises to** shed some light on the mystery. (人做主语表示答应/答应做某事, 物做主语, 表示有可能会...)
+          * Groundbreaking 开创性的, 开天辟地的
+          * shed some light = reveal 揭示
+
+  * shelter n. 不可数
+    * **Food, clothing, shelter and transportation** are basic necessities of daily life.
+      * 衣食住行 四个词都不可数
+        * **food**
+        * **clothing**
+        * **shelter**
+        * **transportation**
+
+  * priest n. 牧师, 神父
+    * parishioner n. 教区的居民
+
+    * parish n. 教区
+
+    * as poor as church mouse 穷得叮当响
+
+  * shepherds n. 牧羊人
+
+* → Invariably the background was <u>the same</u>: **<u>dirt and poverty</u>**, and **<u>very uncomfortable</u>**.
+  * dirt 和 poverty 是 n. , 所以第一个 and 连接两个名词, 后面的 uncomfortable 是形容词, 所以再用了一个 and 和千米那的 dirt and poverty 连起来
+
+* → For men **accustomed to <u>eating seven-course dinners</u> and <u>sleeping between fine linen sheets at home</u>**, the change <u>to the Alps</u> must have been very hard indeed.
+  * for men 到后面的逗号, 整个是一个很长的介词短语
+  * **be accustomed to <u>sth.</u> / <u>doing</u>** 习惯于 (经常当后置定语)
+    * → (NCE4-21 P121-L11) Men **accustomed to struggling for survival against the elements and Indians** were bewildered by politicians, bankers and businessmen, and unhorsed by fences, laws and alien taboos.
+    * 等价于 **be used to <u>sth.</u> / <u>doing</u>**
+    * 等价于 **be in the habit of <u>sth.</u> / <u>doing</u>**
+
+  * course n. 课程; 疗程; 过程; 航线; 一道菜
+    * seven-course
+    * 一道菜上一次, 七道菜不一定是七盘菜
+    * 法餐有 三道菜, 五道菜, 七道菜 之分
+      * 第一道菜: appetizer n. 开胃菜
+      * 第二道菜: soup 
+      * 第三道菜: fish
+      * 第四道菜: main dish n. 主菜
+      * 第五道菜: salad 
+      * 第六道菜: dessert n. 甜点
+      * 第七道菜: beverage n. 饮料, 酒水
+
+  * fine adj. 好的, 讲究的
+  * sheet n. 床单
 
 
+## L4 Seeing hands
 
- 
+**## words**
+
+* 
+
+**## text 1**
+
+*  
+
+**## text 2**
+
+* 
+
+**## text 3**
+
+* 
+
