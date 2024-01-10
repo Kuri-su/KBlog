@@ -1295,17 +1295,157 @@
 
 **## words**
 
-* 
+* **solid** /ˈsɑːlɪd/ adj. 结实的; 实心的; 立体的
+  * **solid** adj. 1. firm; hard; Strong
+    * → **solid** doors and walls
+    * → The villa has **solid** foundations.
+      * foundation n. 地基
+    * 反义词
+      * **flimsy** adj. 不结实的, 脆弱的, 一推就倒的
+        * a **flimsy** table
+        * a **flimsy** excuse 一个站不住脚的借口
+  * **solid** adj. 2. with no holes inside
+    * a **solid** ball
+    * 反义词
+      * **hollow** adj. 空心的
+  * **solid** adj. 3. three-dimensional
+    * **solid** geometry 立体几何
+  * 同根词
+    * **solidarity** v. 团结
+      * **Solidarity** means <u>strength</u> / <u>victory</u> 团结就是力量
+      * safeguard national unity and ethnic **solidarity** 维护国家的统一和民族的团结
+    * **consolidate** v. 巩固
+      * **consolidate** and strengthen the bilateral relationship 巩固双边关系
+* **commission** /kəˈmɪʃn/ n. 委员会 (专门为了调查, 处理某种事物成立的委员会)
+  * 9/11 commission
+  * National Development and Reform **Commission** 国家发展和改革委员会
+  * **committee** n. 委员会 (代表某个组织行使权利的委员会)
+    * the Standing **Committee** of the National People's Congress 全国人大
+  * **council** n. 委员会 (委员会,理事会, 政务会)
+    * the State **Council** 国务院
+    * the United Nations Security **Council** 联合国安理会
+* opaque /oʊˈpeɪk/ adj. 不透明的
+  * an **opaque** glass door
+  * God's reasons, if He has any, are **opaque** to us. 上帝的理由, 如果有的话, 对我们也是难以理解的
+  * **transparent**  adj. 透明的
+  * **translucent** adj. 半透明的
+* **blindfold** adj.& adv. 被蒙住眼睛的（地）
+  * → I can do that **blindfold**.
+  * -fold 字根, 表示倍数 (由本意 折叠 衍生)
+    * **<u>twofold</u> / <u>fourfold</u> / <u>tenfold</u>**
+      * a **tenfold** increase 一个十倍的增长
+      * Business has increased **tenfold**.
+      * → （NCE4-22 P127-L16） We have to ask ourselves very seriously what will happen if this **twofold** use of knowledge, with its ever-increasing power, continues.
 
 **## text 1**
 
-*  
+* Hands that can see things
+  * = thing seeing hand
+  * 再省略 thing , 变成 seeing hands
+* → Several **cases** have been reported in Russia recently **of people who <u>can read and detect colors with their fingers, and even see through solid doors and walls</u>.**
+  * 英文简单句的顺序: 事件, 地点, 时间
+  * of people 修饰前面的 cases , 隔这么远的原因是太长了, 所以改变了正常语序, 大多数长难句看不懂都是类似的原因, 语序发生了改变
+    * → （NCE4-1 P5-L1） We can read of things that happened **5,000 years ago <u>in the Near East</u>**, <u>where people first leamn to write.</u> 
+    * → （NCE4-5.P29-L14） He maybe conceited， ill-mannered, presumptuous or fatuous， but l do not **<u>turn</u> for protection <u>to dreary cliches about respect of elders</u>**—as if mere age were a reason for respect.
+    * → （NCE4-24 P138-L15） If we glimpse the unutterable, it is unwise to try to utter it, nor should we seek to **<u>invest</u> with significance <u>that which we cannot grasp</u>.**
+    * → What is an intellectual？| shall define him as an individual who has **elected <u>as his primary duty and pleasure in life</u> the activity of thinking in Socratic way about moral problems.**
+    * → His function is.analogous to that of a judge, who must accept the obligation of **revealing <u>in as obvious a manner as possible</u> the course of reasoning which led him to his decision.**
+    * → As a logical consequence of this development, **separate journals <u>have now appeared</u> aimed mainly towards either professional or amateur readership.**
+    * → We hold **these truths** <u>to be self-evident</u>， **<u>that</u> all men are created equal, <u>that</u> they are endowed by the Creator with certain unalienable rights, <u>that</u> among these are life, liberty, and the pursuit of happiness.**
+  * **detect** v. **perceive ; discern**  (费力的, 觉察到不好觉察的东西)
+    * → I **detected** a hint of irony in her words.
+      * hint 暗示
+    * → （NCE4-4 P23-L3） ..... but who can also **perceive** things with different parts of her skin， ....
+    * → （NCE4-39 P228-L6） In the breaking and remaking, in the timing，interweaving, beginning afresh, the writer comes to **discern** things in his material which were not consciously in his mind when he began.
+  *  **see through** 1. 能透过看到 2. 看穿了阴谋诡计
+    * → We can all **see thirough** your little game.
+    * through 的搭配 (记冷僻单词不如记习语)
+      * **see sb. through sth.** 帮助某人渡过难关
+        * → Her courage and perseverance **saw** her **through** the hard times.
+      * **see sth. through** 把某个不容易做的事情坚持完成
+        * → The English course is very hard to learn, but I'm determined to **see it through.**
+        * → She promised to stand by him, and once you make that commitment you have to **see it through.**
+          * stand by sb. 支持某人
+            * stand by (后面不跟东西) 表示 袖手旁观
+        * **= get it over with** 咬牙坚持完成
+          * 听力题
+            * W: I honestly don't want to paint the room this weekend, Joe.
+            * M: Neither do l, but l think we should **get it over with.** 
+            * Q: What does Joe suggest？
+        * **= stick it out** 咬牙坚持完成
+          * Rachel: Oh God, I hate my job， I hate it, I hate my job, I hate it. 
+          * Monica: I know honey, I'm sorry.
+          * Rachel: Oh, I wanna quit, but then I think I should **stick it out.**
 
 **## text 2**
 
-* 
+* → One case concerns an eleven-yearold schoolgirl, **<u>Vera Petrova</u>, who has normal vision <u>but</u> who can also perceive things with different parts of her skin, and through solid walls.**
+  * **concern** v. be about sb. or sth.
+    * 1 be about; 2 使担忧
+    * → （NCE3-7 P38-L9） A recent case **concerns** Jane Butlin whose fiance， John, runs a successful furniture business.
+    * **be concerned with ...** = about
+      * a book **concerning music**
+        * = a book **concerned with music**
+  * vision 视力([U] 不可数)
+    * have **normal** vision 拥有正常视力
+    * have **<u>good</u> / <u>perfect</u> / <u>20-20</u>** vision
+    * have **<u>bad</u> / <u>poor</u> / <u>defective</u>** vision
+      * defective 有缺陷的
+    * near-sighted(美) / short-sighted(英) 近视
+    * far-sighted(美) / long-sighted(英) 远视
+    * 各种医生
+      * ophthalmologist 眼科医生
+      * <u>optometrist</u> / <u>optician</u> 验光师
+* **happen to do** 某事偶然发生....
+  * = **it happen that ....** 某事偶然发生
+    * → I **happened to** meet an old friend in town.
+    * → **It happened that** I met an old friend in town.
+  * = **chance to do**
+  * = **it chance that ...**
+    * → I **chanced to** meet an old friend in town.
+    * → **It chanced that** I met an old friend in town.
+  * = **as it happen** 某事偶然发生, 碰巧
+    * → **As it happened** , I met an old friend in town.
+  * 听力题
+    * W: I don't imagine you would have time to help me with this.
+    * M: As it happens, I would.
+    * Q: What does the man mean？
+    * Answer： （B） He can help the woman.
+  * = **by accident** 碰巧, 某事偶然发生 (做状语)
+  * = **by chance** 碰巧, 某事偶然发生 (做状语)
+  * = **accidentally** 碰巧, 某事偶然发生 (做状语)
+    * → I met an old friend in town **<u>by accident</u> / <u>by chance</u> / <u>accidentally</u>.**
+  * = **as luck would have it** 碰巧,(无时态变化, 必须照搬)
+    * → **As luck would have it**, I met an old friend in town.
+    * 听力题
+      * W: You do look cold. What happened？
+      * M: I've been standing outside in Arctic temperatures for over an hour waiting for a bus.
+      * W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus.
+      * M: Under normal conditions, but the bus was delayed because of the weather and when | stepped into a drugstore to call home for a ride, the bus went by. **As luck would have it**, there was no one at home， so I had to wait another forty five minutes for the next bus.
+      * W: That's Murphy's law, isn't it. What was it said "If anything can go wrong, it will." Well, we still get twenty minutes to **gather our wits** together.
+        * gather one's wits 镇静一下
+* safe 保险柜
+* → Suddenly she asked her father **why he <u>kept</u> so many old newspapers <u>locked away there</u>**， <u>and</u> even described the way **they were done up in bundles.**
+  * **lock sth. <u>away</u> / <u>up</u>** 把某物锁好, 把某物锁在安全的地方
+    * → He **locked** his money **<u>away</u> / <u>up</u>** in the safe.
+  * the way + **<u>in which</u> / <u>that</u> / <u>(/)</u>**  the were ....
+    * that 在这里做关系副词
+    * in which 最书面
+    * → （NCE3-27 P130-L8） The conditions of society are such thatskills have to be paid for in the same way **<u>that</u> goods are paid for at a shop.**
+    * → （NCE4-44 P257-L11） John Dewey has said in all seriousness that the part played by custom in shaping the behaviour of the individual, as against any way **<u>in which</u> he can affect traditional custom**, is as the proportion of the total vocabulary of his mother tongue against those words of his own baby talk that are taken up into the vernacular of his family.
+    * <u>**the time**</u> + **when / at which / that / (/)** + she was here
+      * at which 最书面
+    * **<u>the day</u>** + **when / on which / that / (/)** + she arrived
+  * **do ... up** = **fasten ....** 系好, 包装好, 捆好
+    * fasten 扎牢...
+    * → He stopped to **do up** his shoe lace. 他停下来去系鞋带
+    * → All the packages **are done up** and ready for the post.
+  * bundle 一束, 一长条, 一捆
+    * in + 单位
+      * → Lions often hunt **in pairs.** 狮子总是两两结伴打猎
+      * → People began to arrive in twos and threes. 人们开始三三两两的来了
 
 **## text 3**
 
-* 
+* → Vera's curious talent was brought to the notice of a scientific research institute in the town of Ulyanovsk, near **where she lives**, <u>and</u> in April she was given a series of tests by a special commission of the Ministry of Health of the Russian Federal Republic.
 
