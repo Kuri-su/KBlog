@@ -1448,4 +1448,9 @@
 **## text 3**
 
 * → Vera's curious talent was brought to the notice of a scientific research institute in the town of Ulyanovsk, near **where she lives**, <u>and</u> in April she was given a series of tests by a special commission of the Ministry of Health of the Russian Federal Republic.
+  * talnet n. 才华 (特指天赋)
+  * **be brought to sb.'s <u>notice</u> / <u>attention</u>** 引起了某人的注意 (被动结构)
+    * → Their working conditions **were only brought to public <u>notice</u> / <u>attention</u>** last year.
+    * = **come to sb.'s <u>notice</u> / <u>attention</u>** 引起了某人的注意 (主动结构)
+      * → Vera's curious talent **came to the <u>notice</u> / <u>attention</u> of** a scientific research institute in the town of Ulyanovsk.
 
