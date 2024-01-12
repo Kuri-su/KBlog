@@ -1453,4 +1453,53 @@
     * → Their working conditions **were only brought to public <u>notice</u> / <u>attention</u>** last year.
     * = **come to sb.'s <u>notice</u> / <u>attention</u>** 引起了某人的注意 (主动结构)
       * → Vera's curious talent **came to the <u>notice</u> / <u>attention</u> of** a scientific research institute in the town of Ulyanovsk.
+        * institute 研究所;学院;学校 (科学教育机构) 
+          * MIT
+      * → （NCE3-32 P150-L19） From this the captain was able to piece together all the information that had **come to light.**
+        * come to light 被发现, 被了解
+        * **<u>come to light</u> / <u>be brought to light</u>** 主动/被动 结构 (英文中的主动还是被动并不由 中文释义决定, 在于表达的意思和方式)
+        * New evidence in this case
+          * has recently **come to light**
+          * has recently **been brought to light**
+        * 被动语态的目的之一也是为了避免头重脚轻
+  * **give sb. a test** 基于某人测试
+  * **a series of** 一系列的
+    * **a series of** <u>lectures</u> / <u>rainy days</u> / <u>math books</u> 
+    * = **a <u>train</u> /<u>chain</u> / <u>string</u> / <u>stream</u> / <u>succession</u> / <u>progression</u> of** 一连串的
+  * commission 是为了专门调查 或者 事项 而成立的委员会
+  * the **<u>Ministry(英)</u>** / **<u>Department(美)</u>** of <u>Health</u> / <u>Education</u> / <u>Commerce</u> / <u>Finance</u> 卫生部/教育部/商务部/财政部
+  * 翻译的时候, 英文的被动换成中文主动, 一般来说会更通顺
+
+* → <u>During these tests</u> she was able to read a newspaper <u>through an opaque screen and</u>, <u>stranger stil</u>l, **by moving her elbow over a child's game of Lotto** she was able to describe the figures and colours **<u>printed on it</u>**, <u>and</u>, <u>in another instance</u>， **wearing stockings and slippers**, to make out **<u>with her foot</u>** the outlines and colours of a picture **<u>hidden under a carpet.</u>**
+  * **stranger still** 更奇怪的事, (前面通常用逗号隔开,位于主句或者分句句首)
+    * 类似格式的搭配
+      * **better still** 更好的是
+      * **worse still** 更糟的是
+        * = **to make <u>matters</u> / <u>things</u> worse**
+      * **harder still** 更困难的是
+      * → The medical expenses are a massive drain. **Worse still**, Greg may lose his job.
+        * drain n. 下水道, 地沟 v. 排出, 耗尽
+    * 其他能表达 "更...的" 的表达
+      * **let alone ....** 更不用说... (一般放在否定含义的句子后面, 前后相同的词项)
+        * → The baby can't talk, **<u>let alone</u>** run.
+        * → He can't run a hundred yards, **<u>let alone</u>** a mile.
+        * → I don't suspect him of theft, **<u>let alone</u>** of robbery. 我不会怀疑他偷窃, 更不会怀疑他抢劫
+      * **not to mention ...** 更不用说... (一般放在肯定句后面, 后面一般加名词)
+        * → They own two houses, **not to mention** a yacht.
+          * yacht n. 游艇
+        * → The dampness is unpleasant, **not to mention** the cold.
+        * GRE 写作范文
+          * → In short, without better evidence that the survey is statistically reliable the Chairperson cannot rely on it to draw any firm conclusion **<u>about the overall recycling commitment of West Egg residents</u>—let alone <u>about how quickly the landfill will reach capacity</u>.**
+            * in short 简而言之
+            * 简而言之, 如果没有更好的证据, 这篇调查在数据方面是可靠的, 这位主席就不能依靠于它 , 得出任何确定性的结论, 关于对于 West Egg 居民的承诺, 对于 垃圾填埋场多块会达到他的极限
+            * landfill 垃圾填埋厂
+          * → Moreover, the author has not shown **<u>any correlation</u>, let alone <u>a cause-and-effect relationship</u>**, between the number of hours a person spends watching television and that industry's profits.
+          * → In short, without ruling out other possible reasons for the strong sales the vice president cannot convince me **<u>that Plainsville residents are exercising reqularly,</u> let alone <u>that they would be interested in buying the sorts of food and other products that NW sells</u>.**
+* → ... **she was able** to make out with her foot the outlines and colors of a picture hidden under a carpet.
+  * 并列句省略重复内容
+  * → In 1975, **the number of students in our school was** about five hundred, <u>and</u> in 1981, over two thousand.
+  * **make out**: see or hear sb. or sth. with difficulty 困难的看清或者听清
+    * → I could just **make out** a figure in the darkness.
+    * → I couldn't **make out** what he was saying.
+* 
 
