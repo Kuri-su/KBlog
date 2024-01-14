@@ -1501,5 +1501,56 @@
   * **make out**: see or hear sb. or sth. with difficulty 困难的看清或者听清
     * → I could just **make out** a figure in the darkness.
     * → I couldn't **make out** what he was saying.
+* → ... except when **（she was）** blindfold **she** lacked the ability to perceive things with her skin.
+  * 状语从句 的主语如果和主句主语统一, 状语从句的谓语出现 be 动词, 那么从句中的 主语 和 be 两者可以一起省略
+    * → Metals expand when <u>(they are)</u> heated and contract when <u>(they are)</u> cooled.
+    * → Francis Preston Blair Jr. , although <u>**he was**</u> born in Kentucky, lived and practiced in Missouri.
+    * 特殊情况: 即便 状语从句的主语 和 主句不统一, 也可以省略主语和 be 动词
+      * 状语从句的主语是虚主语 it, 这个时候即便不统一也能省略
+        * → We'll resolve the Taiwan issue with peaceful means when **<u>(it is)</u>** ever possible, with force when **<u>(it is)</u>** necessary.
+* → <u>It</u> was also found **that <u>although she could perceive things with her fingers</u> this ability ceased the moment <u>her hands were wet</u>.**
+  * 名词可以当状语来用
+  * cease v. 停止
+    * **cease to do** = **cease doing** 停止做某事, 不再做某事
+    * → There are instances when patriotism **ceases to be** an empty slogan.
+      * There are instances .... 有些情况下
+    * **stop to do** =! **stop doing**
+      * stop to do 停下手头的事, 去做另外一件事
+      * stop doing 停止正在做的事
+      * **Stop to** smell the flowers 驻足片刻闻花香
+        * → I'm exhausted. Let's **stop to smoke.**
+          * exhausted adj. 耗尽的, 用完的
+        * → Please **stop smoking**. Smoke really bothers me.
+          * bother 烦扰, 打搅
+  * ... **<u>the moment</u>** + **<u>at which</u> / <u>when</u> /<u>that</u> / <u>(/)</u>** + her hands were wet
+    * **wet** 表面上满都是水的, 或者里面泡满了水的
+      * a **wet** sponge
+        * sponge 海绵
+    * **moist & damp** 潮湿 (没有到滴水的程度)
+      * moist 中性, 褒义
+        * Bring me a **moist** towel
+      * damp 贬义 , 湿了吧唧的
+        * a could , **damp** collar
+          * collar 衣领
+    * **humid** 空气中水分大
+      * **humid** atmosphere 潮湿的空气
+      * **humid** summer nights 潮湿的夏夜
+
+## L5 Youth
+
+**## words**
+
+* 
+
+**## text 1**
+
+* 
+
+**## text 2**
+
+* 
+
+**## text 3**
+
 * 
 
