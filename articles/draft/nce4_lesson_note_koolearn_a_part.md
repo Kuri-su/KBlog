@@ -1622,8 +1622,26 @@
   * **infatuation** n. 不理智的爱, 热恋
     * → Their **infatuation** with each other won't last.
 * **cosmic** adj. 宇宙的
-  * cosmos n. 宇宙
-  * 
+  * **cosmos** n. 宇宙
+  * **comic** adj. 喜剧的, 滑稽可笑的
+  * **comet** n. 彗星
+  * **cosmetics** n. 化妆品(商场里卖的瓶瓶罐罐, (还没用到身上的))
+    * = **make-up**  化妆品 (已经用到身上的)
+      * → She doesn't wear **make-up**. (T)
+      * → She doesn't wear cosmetics.
+  * **universal** adj. 普遍的, 全人类的 (不翻译成 宇宙的)
+    * → （NCE3-29 P138-L8） Certain funny Situations have a **universal** appeal.
+* **suburban** adj. 郊区的；见识不广的，偏狭的 (sub+urban); 外围的
+  * **provincial**  adj. 省的, 首都之外的, 首府之外的 ; 见识不广的，偏狭的, 目光短浅的(地域歧视)
+  * 地域的形容词的总结
+    * **rural** adj. 农村的
+    * **pastoral** adj. 田园的 (褒义, 其实还是农村, 只不过是褒义)
+    * **suburban** 
+    * **urban** adj. 城市的
+    * **metropolitan** adj. 大城市的, 大都会的
+      * **metropolis** n. 大城市, 大都会
+    * **cosmopolitan** adj. 国际性大城市的, 国际性大都会的
+      * **cosmopolis** n. 国际性大城市, 国际性大都会
 
 **## text 1**
 
