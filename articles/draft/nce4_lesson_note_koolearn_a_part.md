@@ -1574,7 +1574,55 @@
     * = a **<u>rosy</u> / <u>briliant</u> / <u>splendid</u> / <u>magnificent</u>** future
   * **glory** n. 光荣, 光辉
     * **glory** days 光辉岁月
-* **rub** n.难题，困难，困境
+* **rub** n. 难题，困难，困境; 摩擦, 涂抹
+  * rubber n. 橡皮; 橡胶
+  * **rub** n. a problem or difficult situation 难题，困难，困境
+  * → Here is the **rub**. 问题就出在这里
+  * → That's where the **rub** is. 这就是问题所在
+  * **rub sb. the wrong way** 令某人生气, 令某人不快
+    * 听力题
+      * M: what do you think of our new ecbnomics instructor？
+        * instructor n. teacher
+      * W: I don't know. Something about him rubs me the wrong way.
+      * Q: what does the woman say about the instructor?
+      * Answer：（A） She has a negative impression.of him.
+    * = **get on one's nerves** 令某人不快, 让某人生气
+      * 听力题: 
+        * M: Why did you come to the meeting late？I left a massage with your d roommate about the time change.
+        * W: She has a very short memory and it really **gets on my nerves** sometimes.
+        * Q: What does the woman imply ?
+        * Answer： （C） Her roommate is unreliable about delivering messages.
+* **commitment** n.信奉，信仰；承诺 (promise 的完美升级)
+  * **commitment <u>to</u> sth.** 对于 某个事物/宗教 的信仰
+    * → have a sincere **commitment** <u>**to**</u> <u>religion</u> /<u>communism</u>
+      * sincere 由衷的, 真诚的
+  * **<u>make</u> a commitment to do ...** 承诺做某事
+    * = make promise to do ...
+    * → She promised to stand by him, and once you **make that commitment** you have to see it through.
+  *  **<u>honor</u> / <u>fulfill</u> one's commitment** 履行了承诺, 兑现了承诺
+    * → We must **<u>honor</u> our commitments to** small nations.
+    * → The President of the United States has reiterated the U.S. **commitment <u>to</u>** the <u>Three Sino-U.S. Joint Communiques.</u>
+      * Sino- 中国的
+      * joint n. 共同的, 联名的
+      * Communiques 公报
+      * reiterated v. 重做, 重审
+
+* **devotion** n. 热爱; 奉献/忠诚
+  * **devotion <u>to</u> sb. / sth.** 对某事某物的热爱 (多表示有奉献精神的爱)
+    * **devotion <u>to</u>** the cause of education
+  * **love** 爱
+  * **affection** 慈爱, 柔情
+    * = **gentle love**
+    * parental **affection** 父母亲的爱
+    * <u>maternal</u> / <u>paternal</u> **affection** 母爱/父爱
+      * maternal 母亲的
+      * paternal 父亲的
+    * affection  for sb. 对某人的爱
+    * **affectionate**  adj. 充满柔情的
+  * **infatuation** n. 不理智的爱, 热恋
+    * → Their **infatuation** with each other won't last.
+* **cosmic** adj. 宇宙的
+  * cosmos n. 宇宙
   * 
 
 **## text 1**
