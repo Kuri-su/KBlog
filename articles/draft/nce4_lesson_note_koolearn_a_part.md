@@ -1540,7 +1540,42 @@
 
 **## words**
 
-* 
+* **leave** n. 允许, 许可; 休假(请的假)
+  * **leave** n. permission 允许，许可 (书面)
+    * → He did it **without my leave** 他在没有我允许的情况下做了
+    * → The senator **asked leave to** take the floor.  参议院请求允许起立发言
+      * senator n. 参议员
+      * take the floor 起立发言
+    * **I take leave to do sth.** (文气的书面语) 请允许我冒昧的做某事...
+      * → **I take leave to** <u>say</u> / <u>doubt</u> / <u>think</u> ...
+      * = **forgive me for doing** 原谅我做某事
+        * → **Forgive me for** saying so, but what you said is nonsense. 请允许我冒昧的说一句, 你刚才说的都是废话
+      * = **I take the liberty of doing** (庄重的表达) 请允许我冒昧的做某事... (擅自拿过做某事的自由)
+        * → **I take the liberty of** asking you a question.
+      * = **I venture to do** 请允许我冒昧的做某事...
+        * → **I venture to** say that you are making a dangerous mistake.
+* **fundamentals** n. 基本原理，基本原则 (习惯用复数)
+  * **fundamentals** n. basic rules, ideas or principles 基本原理，基本原则
+    * the **fundamentals** of <u>philosophy</u> / <u>economics</u>
+  * = **the basics**
+  * = **the rudiments**
+  * = **the first principles**
+  * **fundamental** adj. basic, essential 根本的
+    * the **fundamental** difference 根本性的区别
+    * the **fundamental** cause of the problem
+* **glorious** adj. 光辉灿烂的，荣耀的，辉煌的
+  * a **glorious** achievement 一个辉煌的成就
+  * → All the Chinese compatriots should take concerted efforts to create a **glorious** future of the Chinese nation.
+    * compatriot n. 同胞
+    * concerted v. 共同的, 协作的
+      * concert n. 音乐会
+    * nation n. 民族, 国家
+  * **a glorious future**
+    * = a **<u>rosy</u> / <u>briliant</u> / <u>splendid</u> / <u>magnificent</u>** future
+  * **glory** n. 光荣, 光辉
+    * **glory** days 光辉岁月
+* **rub** n.难题，困难，困境
+  * 
 
 **## text 1**
 
