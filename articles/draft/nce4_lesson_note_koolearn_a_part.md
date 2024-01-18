@@ -1645,7 +1645,54 @@
 
 **## text 1**
 
-* 
+* **be always doing sth.** 令人烦的老是做某事
+  * →  He**'s always having** arguments with people.
+  * → （NCE3-2 P18-L1）Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.
+  * 听力题
+    * W: Mary is always complaining about her job.
+    * M: Maybe if you try typing letters every day, you'd see what it's like.
+    * Q: What does the man mean？
+    * Answer： （A） The woman would understand if she did Mary's job.
+  * = **be forever doing**
+    * → （NCE3-41 P192-L8） He **is forever talking about** the friendly people, the clean atmosphere, the closeness to nature and gentle pace of living.
+  * = **be <u>constantly</u> / <u>continually</u> doing sth.**
+    * → Your behavior reflects on me, and I can't do my job if you're constantly humiliating me.
+      * → Constantly? Aside from today, give me one example.
+        * reflect on = have negative on ....
+  * = **keep (on) doing sth.**
+    * → （NCE3-29 P138-L13） From the moment he arrived there, he **kept on pestering** his doctor to tell him when he would be able to go home.
+    * → （NCE3-29 P138-L20） In the process， he enjoyed himself thoroughly and **kept telling** everybody how much he hated hospitals.
+  * = do sth. **<u>all the time</u> / <u>time and time again</u> / <u>with monotonous reqularity</u> / <u>ad nauseam(Latin)</u>**  (越到后面越正式)
+    * → （NCE3-50 P228-L2） The same old favorites recur year in year out **with monotonous regularity.**
+    * 听力题
+      * W: I thought the doctor said you should stay off your foot until the swelling goes down.
+        * stay off one's foot 卧床休息, 不能下地
+        * swell v. 肿
+      * M: She did. It just makes me uncomfortable to **ask my friends to wait on me all the time.**
+        * wait on 伺候某人
+          * wait for 等某人
+      * What does the man mean？
+      * Answer： （D） He doesn't like to bother people.
+* youth 青年时期; 泛指年轻人
+* → **If there is one—which I take leave to doubt —** then <u>it is</u> older people <u>who</u> create it, not the young themselves.
+  * it is 强调句
+    * **it <u>is</u> / <u>was</u> .... <u>that</u> /<u>who</u> ...**  
+      * 如果强调 物的话, 用 that
+      * 如果强调 人的话, 用 that 和 who 都行
+    * **If .... —which I take leave to doubt — then it is ... <u>that</u> /<u>who</u> ...， not...**  (整个句子的结构是表达一种条件性的假设，并对这个假设表示怀疑，然后说明如果这个假设是真的，真正的情况或责任所在。)
+      * 因为后面的主句和 if 离得比较远, 所以用了一个 then 表示 和if 主句的关系
+      * 造句：如果真有天堂的话（请允许我对此表示怀疑），那么也是有钱有势的人 （the rich and powerful） 去的地方，而不是穷人自己可以去的地方。
+        * the rich and powerful 表示既有钱又有权的人
+        * the rich and the powerful 表示 有钱的人 和 有权的人 , 总共两种人
+        * → If there is heaven—which I take leave to doubt—then it is the rich and powerful who can enter， not the poor themselves.
+* → Let us get down to fundamentals and agree **that the young are after all <u>human beings</u>—<u>people just like their elders</u>.** 
+  * **go down th <u>sth.</u> / <u>doing</u>** 开始认真严肃的来做某事
+    * to start doing sth. seriously
+    * Let's **get down to business** 让我们来做正经事吧/ 下面让言归正传
+    * Let's **get down to discussing** the details. 让我们来认真讨论一下细节吧
+  * **agree v. <u>accept</u> /<u>admit</u> /<u>acknowledge</u> / <u>recognize</u> / <u>concede</u>**  同意
+    * → All these countries **<u>recognize</u>** **/** **<u>concede</u>** that there is only one China.
+* → There is only one difference between an old man and a young one: the young man has a glorious future before him and the old one has a splendid future behind him：and maybe that is where the rub is.
 
 **## text 2**
 
