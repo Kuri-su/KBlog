@@ -1692,11 +1692,73 @@
     * Let's **get down to discussing** the details. 让我们来认真讨论一下细节吧
   * **agree v. <u>accept</u> /<u>admit</u> /<u>acknowledge</u> / <u>recognize</u> / <u>concede</u>**  同意
     * → All these countries **<u>recognize</u>** **/** **<u>concede</u>** that there is only one China.
-* → There is only one difference between an old man and a young one: the young man has a glorious future before him and the old one has a splendid future behind him：and maybe that is where the rub is.
+* → There is only <u>one difference</u> between an old man and a young one: **<u>the young man has a glorious future before him and the old one has a splendid future behind him</u>**：<u>and</u> maybe that is **where the rub is**.
+  * where the rub is 这就是问题所在
+    * rub 难题; 擦
+  * over 可以替换为
+    * **<u>just</u> / <u>merely</u> / <u>no more than</u>** one difference
+    * **a <u>single</u>/<u>solitary</u>** difference
+  * **antithesis 对比/对仗 - 结构修辞法 ** (语义相反, 但结构是同一个结构)
+    * → When **<u>poverty comes in at the door</u>**， **<u>love leaps out at the window.</u>** 贫困跨门而入, 爱情破门而出
+    * → **<u>A mother takes twenty years to make a man of her boy</u>**, and **<u>another woman takes twenty minutes to make a fool of him.</u>**
+    * **谦受益, 满招损**
+    * **卑鄙是卑鄙者的通行证, 高尚是高尚者的墓志铭**
+    * 无情对 (文字游戏)
+      * **文竹, 武松**
+      * **孙行者 祖冲之**
+      * **三星白兰地, 五月黄梅天**
+      * **一品天青带, 六味地黄丸**
+  * that's where 这就是
+    * → **That's where** you and l differ. 这就是你和我的不同
+    * → **That's where** I draw the line. 这就是我画的线
 
 **## text 2**
 
-* 
+* → **When I was a teenager**, I felt **<u>that I was just young and uncertain</u>**—**<u>that Iwas a new boy in a huge school</u>**， <u>and</u> I would have been very pleased <u>to be regarded as something **so interesting as a problem**.</u>
+  * **<u>teenager</u> / <u>teen</u>** n. 十几岁的孩子 (13-19)
+    * **in one's teens** 在某人 13岁 ~19 岁期间
+      * → When I was **in my teens**, ...
+    * 其他的青少年的表达
+      * **adolescent** n. & adj. 青春期的孩子 (暗示叛逆, 不听话)
+        * → When I was an **adolescent**, ...
+        * my **adolescent** daughter
+      * **adolescence** n. 青春期
+      * **juvenile** n. & adj. (法律场合) 青少年, 青少年的
+        * **juvenile delinquency** 青少年犯罪
+        * **juvenile delinquent** 少年犯
+  * **暗喻** (没有比喻词, 直接把本体和喻体说成一回事) (某种程度上来说比 明喻 更高级)
+    * 明喻: The society is **like** a huge school.
+  *  I would have been very pleased <u>to be regarded as something **so interesting as a problem**.</u>  其实是一个虚拟语气, 还原回去: 
+    * → ... I **<u>would have been</u>** very pleased if I <u>had been regarded</u> as something so interesting as a problem.
+  * **regard A as B** 把 A 看作是 B
+    * 同义搭配: 
+      * **<u>regard</u> / <u>see</u> / <u>count</u> A as B** 把 A 看作是 B
+      * **<u>think of</u> / <u>look on</u> / <u>conceive of</u> A as B** 把 A 看作是 B
+      * **consider A (to be) B**  把 A 看作是 B
+        * 口语中可以用 consider A as B, 但书面语中不这么用
+        * → （NCE3-23 P114-L2） If you lived in the Mediterranean, for instance， you would **consider octopus a great delicacy.**
+      * **<u>deem</u> / <u>reckon</u> A to be B** (书面语) 把 A 看作是 B
+      * **be <u>recognized</u> / <u>acknowledged</u> as ...** 被公认为是...
+        * → Heifetz **was <u>recognized</u> /<u>acknowledged</u> as** the greatest violinist of the 20th century.
+  * Being a problem is better than being a nobody.
+* → <u>For one thing</u>, being a problem gives you a certain identity, <u>and</u> that is one of the things **the young are busily engaged in seeking.**
+  * **for one thing ...** 原因之一是...
+    * **for one thing ... for another ...** 原因之一是 ... , 另一个原因是 .... 
+      * → "Why won't you come to New York with me？"
+        * → "**For one thing**, I don't like flying, and **for another**, I can't afford it."
+      * 同义搭配: 
+        * **on the one hand ... on the other （hand）....** 一方面 ... , 然而 另一方面 .... (一定是矛盾, 或者转折的关系)
+          * → **On the one hand** I'd like a job which pays more, but **on the other （hand）** I enjoy the work I'm doing at the moment.
+        * **not that ...，but that ...** 不是因为前者, 而是因为后者. **要求上下文对仗**
+          * → **Not that** I love Caesar less, **but that** Iove Rome more.   --- Shakespeare ' Julius Caesar'
+          * → **Not that** | love you less, **but that** Ilove liberty more.
+          * → **Not that** I love my teacher less,  **but that** l love truth more.
+        * **It is not that ... but （that）...**  不是因为前者, 而是因为后者. 这个结构不要求对仗
+          * → （NCE3-57 P256-L15） **It was not that** lactually remembered anything at all. **But** my father had described over and over again what we should see at every milestone, after leaving the nearest town, …
+        * 英译汉真题
+          * → <u>**It is not that** the scales in the one case, and the balance in the other,  differ in the principles of their construction or manner of working; **but that** the latter is a much finer apparatus and of course much more accurate in its measurement than the former</u>
+  * **be engaged in <u>sth.</u> / <u>doing</u>** 从事某事
+    * → （NCE4-2 P11-L9） How many spiders **are engaged in this work** on our behalf？
 
 **## text 3**
 
