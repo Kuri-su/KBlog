@@ -1762,5 +1762,95 @@
 
 **## text 3**
 
+* → It's **as if they were, <u>in some sense</u>, cosmic beings  <u>in violent and lovely contrast with us suburban creatures</u>.**
+  * if 从句在极其不可能的时候可以用虚拟语气
+  * **<u>as if</u> .../<u>as though</u> ..（虚拟语气）** 
+    * → Don't act as if you **were** the only pebble on the beach.
+  * **in some sense** 某种意义上来说
+    * → I think he may be right **in some sense.**
+    * **to some <u>degree</u> / <u>extent</u>** 某种程度上
+      * degree 程度
+      * extent 广度, 面积, 程度, 限度
+      * → Iagree with you **to some <u>degree</u> / <u>extent</u>.**
+    * **in some measure** 在某种程度上
+      * measure 程度
+      * → The true value of a human being is determined primarily by the **measure** and the **sense** <u>in</u> which he has attained liberation from the self.  — Albert Einstein
+        * 一个人的价值 主要取决于, 他能在什么程度上, 和什么意义上, 从自我中解放出来
+  * being 表示存在
+    * cosmic being 宇宙生物
+    * human **being**
+    * intelligent **being** 智慧生物
+    * alien **being** 外星生物
+    * → To **be**, or not to **be**: that is the question.  — William Shakespeare
+    * → I think therefore I **am**.  — Rene Descartes 我思故我在
+    * → **Being** and Nothingness — Jean Paul Sartre 存在与虚无
+  * **<u>in</u>/ <u>by</u> contrast <u>to</u> / <u>with</u> ..** 与....对比
+    * **<u>in</u> / <u>by</u> comparison <u>to</u> / <u>with</u> ...** 
+    * **compared <u>to</u> / <u>with</u> ...**
+* **be <u>in</u> one's mind** 记得, 记在心中
+  * **be <u>on</u> one's mind** 牵挂着某人某事
+* → He may be conceited, ill-mannered， presumptuous or fatuous, <u>but</u> I do not <u>turn</u> for protection <u>to dreary cliches about respect of elders</u>—**<u>as if mere age were a reason for respect.</u>**
+  * ill+ 形容词, 构词表示不好的
+    * **ill-mannered** 没有礼貌的
+    * **ill-tempered** 坏脾气的
+    * **ill-advised** 不明智的
+    * **ill-bred** 没有教养的
+      * breed 哺育, 养育, 教养
+    * **ill-educated** 没有受到良好教育的
+      * → （NCE4-28 P166-L13） Nor is it only the ignorant and **ill-educated** person who was such faith in the bottle of medicine.
+  * clishes 陈词滥调
+    * 英文中的法语词汇通常是比较正式的书面语
+  * **turn to ... for ...** 向前者 寻求后者
+    * → The child **turned to** his mother **for** comfort .孩子到妈妈那里寻求安慰
+    * → The refugees **turned to** the embassy **for** protection. 难民向大使馆寻求保护
+    * → He had to **turn to his brother for help**, because his brother is the only person he could trust.
+      * 语序替换
+        * → He had to **turn <u>for help</u> to his brother,** the only person he could trust. 这样就不用写两遍 his brother 了
+        * → （NCE4-46 P268-L28） The long hours in the office or the factory **bring** <u>with them</u> <u>as their reward</u>, **<u>not only the means of sustenance, but a keen appetite for pleasure even in its simplest and most modest forms.</u>**
+  * age 年龄; 年长; 老年时期
+    * → An idle youth , a needy **age** 
+      * idle 闲散的
+      * needy 困窘, 没钱的
+
+* → I accept **that we are equals**, <u>and</u> I will argue with him, <u>as an equal</u>, **<u>if l think he is wrong</u>**.
+* 语篇模式
+  * **Claim-Response Pattern** 主张, 反应 模式
+    * claim
+    * response
+    * reasons for response 
+    * relevant example(s) 
+    * reaffirmation
+
+## L6 The sporting spirit
+
+**## words**
+
+* **goodwill** n. 善意, 友好
+  * exude **goodwill** 流露出善意
+    * exude vt. 渗出, 散发
+  * promote **goodwill** 促进友好
+    * promote 促进; [AmE] 宣传; 晋升
+  * create and strengthen **goodwill** 建立和加强友好关系
+  * **goodwill** games 友好运动会, 亲善运动会
+  * **goodwill** visit 友好访问
+  * **goodwill** tour 友好访问 (通常会访问不止一个国家)
+    * 其他同类的词
+      * official visit 正式访问
+      * official goodwill visit 正式友好访问
+      * informal visit 非正式的访问
+      * private visit 私人访问
+      * state visit 国事访问
+* **inclination** n. 意愿
+  * **have an inclination to do sth.** 有意做某事
+  * → I **haven't the slightest inclination to** become a journalist. 我一点也不想成为一个记者
+    * haven't the slightest inclination to ... 一点做某事的意愿都没有
+  * **incline** v. 倾向; 倾斜
+    * **be inclined to do sth.** 倾向于去做某事
+
+**## text 1**
+
 * 
 
+**## text 2**
+
+* 
