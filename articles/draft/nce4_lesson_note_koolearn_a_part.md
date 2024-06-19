@@ -1827,7 +1827,7 @@
 
 * **goodwill** n. 善意, 友好
   * exude **goodwill** 流露出善意
-    * exude vt. 渗出, 散发
+    * exude vt. 渗出, 散发, 流露
   * promote **goodwill** 促进友好
     * promote 促进; [AmE] 宣传; 晋升
   * create and strengthen **goodwill** 建立和加强友好关系
@@ -1840,12 +1840,53 @@
       * informal visit 非正式的访问
       * private visit 私人访问
       * state visit 国事访问
-* **inclination** n. 意愿
+* **inclination** n. 意愿 (主观意图)
   * **have an inclination to do sth.** 有意做某事
-  * → I **haven't the slightest inclination to** become a journalist. 我一点也不想成为一个记者
     * haven't the slightest inclination to ... 一点做某事的意愿都没有
-  * **incline** v. 倾向; 倾斜
-    * **be inclined to do sth.** 倾向于去做某事
+      * → I **haven't the slightest inclination to** become a journalist. 我一点也不想成为一个记者
+  * **incline** v. 倾向; 倾斜 (客观趋势)
+    * **be inclined to do sth.** 倾向于去做某事, 往往, 常常 (高频)
+      * → Be careful not to annoy the boss,
+        * because he **is inclined to** lose his temper.
+        * because he **tends to** lose his temper. 
+          * tend to 常常.往往
+        * because he **has the tendency to** lose his temper.
+          * tendency n. 倾向, 
+        * because he **is <u>apt</u> / <u>prone</u> to** lose his temper.
+          * apt / prone adj. 有 .... 的倾向的 
+* **contest** n. 比赛
+  * contest 强调是裁判组 打分的具体比赛 或者 泛指所有的竞技比赛运动
+    * a <u>speech</u> / <u>beauty</u> / <u>dance</u> **contest**
+
+  * **<u>game</u>/<u>match</u>** 多指双方正面对垒的比赛
+    * a <u>boxing</u> / <u>basketball</u> / <u>football</u> / <u>volleyball</u> **match / game**
+      * volleyball n. 排球; 排球运动
+
+  * **games** 运动会
+    * the Olympic **Games**
+
+  * **race** 竞速比赛
+    * a <u>car</u> / <u>boat</u> / <u>horse</u> / <u>swimming</u> **race**
+
+  * **open** 公开赛
+  * **tournament** 淘汰性质的锦标赛, 巡回赛, 系列赛
+  * **championship** 冠军赛 (各地的冠军到一起再比一场的比赛)
+
+* **deduce** v. 推断
+  * **deduce A from B**      由 B 推导出 A
+    * **deduce** effect **from** cause 由原因推导出结果
+
+  * **deduction** n. 推理; 推导出的结论
+  * **conclude  A from B**    由 B 推导出 A 这个结论
+    * **conclusion** n. 结论; 事情结束
+
+  * **infer A from B**      由 B 推导出 A 这个结论
+    * → What can we **infer from** the passage?
+    * **inference**  n. 推理; 推导出的结论
+
+* **patriotism** n. 爱国主义
+  * 
+
 
 **## text 1**
 
