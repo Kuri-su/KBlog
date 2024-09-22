@@ -1885,12 +1885,52 @@
     * **inference**  n. 推理; 推导出的结论
 
 * **patriotism** n. 爱国主义
-  * 
+  * **"patr"** = **"pater"**: father
+    * <u>patr</u>iot n. 爱国者
+      * patriotic adj. 爱国的, 爱国主义的
+        * patriotic <u>songs</u> / <u>education</u>
+    * <u>patr</u>iotism n. 爱国主义
+    * com<u>patr</u>iot n. 同胞
+    * patriarchy n. 父权制, 父权主义
+      * -(i)archy : rule 统治
+    * patricide n. 弑父, 弑父罪
+      * -icide : 杀
+        * suicide
+        * pesticide
+    * <u>pater</u>nal adj. 爸爸的, 父亲的
+      * **paternal** affection  父爱
+        * affection 慈爱/柔情 ; 影响
+      * **pater**nity 父亲的身份 (fatherhood)
+        * → He is on **paternity** leave.
+          * 产假(男人的)
+          * leave 假(休假)
+  * **"matr" = "mater"**: mother
+    * matriarchy n. 母权制, 母权主义
+    * matricide n. 弑母, 弑母罪
+    * maternal 母亲的, 妈妈的
+    * maternal affection
+    * maternity 妈妈的身份 (motherhood)
+      * → She is on maternity leave. 
+        * 产假
+* **disgrace** v. 使出丑, 使丢脸
+  * → The dishonest minister **was** publicly **disgraced**. 这位不诚实的部长当众受辱了
+  * 同义替换
+    * **shame**
+    * **humiliate**
+    * **bring shame on** ....
+    * **bring disgrace on**...
+      * → his behavior **brought disgrace on** his family.
+
+  * 近意
+    * **show sb. up** 意思更窄, 主要是 某人做了某些丢人的事情, 让同行的人出丑了
+      * → Mary's boyfriend **showed** her **up** by falling asleep at the concert.
 
 
 **## text 1**
 
-* 
+* → I am always amazed **when I hear people saying <u>that sport creates goodwill between the nations,</u>and <u>that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield</u>.**
+  * 
+
 
 **## text 2**
 
