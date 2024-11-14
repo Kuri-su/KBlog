@@ -95,6 +95,8 @@
    例：My brother, who lives in New York, is coming to visit next week.
    （我住在纽约的兄弟下周要来访。）
 
+> 限制性定语从句是先行词不可缺少的部分，去掉它主句意思往往不明确；非限制性定语从句是先行词的附加说明，去掉了也不会影响主句的意思
+
 三、副词性从句（Adverbial Clauses）：
 
 1. 时间从句：
@@ -124,8 +126,6 @@
 9. 比较从句：
    例：He runs faster than I do.
    （他跑得比我快。）
-
-
 
 ## 情态动词
 
@@ -184,7 +184,7 @@
    例：If it were to rain tomorrow, we would cancel the picnic.
    （如果明天下雨的话，我们就会取消野餐。）
 4. 表达愿望：
-   wish/if only + 过去式（现在）或 had + 过去分词（过去）
+   wish/<u>if only</u> + 过去式（现在）或 had + 过去分词（过去）
    例：I wish I knew the answer.
    （我希望我知道答案。）
 5. 在某些从句中：
@@ -288,3 +288,20 @@ e) 否定转移：
 - 表达惊讶、不满或其他强烈情感
 - 纠正误解或澄清信息
 - 增加语言的说服力和表现力
+
+### 感叹句
+
+感叹句用于表达强烈的情感或突然的感受，如惊讶、喜悦、愤怒等。它通常以"What"或"How"开头，后接形容词或副词。例如:
+
+- What a beautiful day!（多么美好的一天！）
+- How wonderful!（太棒了！）
+- What an amazing performance!（多么精彩的表演！）
+
+## 祈使句
+祈使句用于表达命令、请求、建议或指示。它通常省略主语"you"，直接以动词原形开头。例如:
+
+- Come here.（过来。）
+- Please be quiet.（请安静。）
+- Don't touch that.（别碰那个。）
+
+- 

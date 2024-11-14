@@ -23,7 +23,7 @@
 
 ## L1 A puma at large ⭐️
 
-**## 单词**
+### words
 
 * spot [英: spɒt  ] v. 看出, 发现
   * 上面写的这种英式发音 ɒ 在 美式中会变成两种发音
@@ -131,7 +131,7 @@
      * → Sorry to disturb you, but ....  礼貌表达
        * → **Sorry to disturb you , but I really need your help.** (不太着急的场合)
 
-**## text**
+### text
 
 * at large 习语搭配, 在逃的, 未被捕获的, 未被控制住的
    * 习语搭配掌握的好不好, 是决定英语能力的一个非常重要的指标
