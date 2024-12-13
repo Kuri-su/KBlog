@@ -4,25 +4,65 @@
 
 ## 第五章 定积分
 
-### 第一节 定积分的概念与性质(一)
+### 第一节 定积分的概念与性质(一) - (引论)
+
+#### 定积分概念引论
 
 * 引子: 一元 不规则
-  * 例子1: 曲面梯形 面积 S?
-    1. 
 
-![image-20230515124536006](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124536006.png)
+例子1：曲线梯形面积S？
 
-![image-20230515124634088](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124634088.png)
+1. $a=x_0<x_1<x_2<...<x_n=b$
+   * $[a,b]=[x_0,x_1]\cup[x_1,x_2]\cup...\cup[x_{n-1},x_n]$
+   * $\Delta x_1=x_1-x_0, \Delta x_2=x_2-x_1,..., \Delta x_n=x_n-x_{n-1}$
+   * $(\Delta x_i=x_i-x_{i-1}, 1\leq i\leq n)$
 
-![image-20230515124646213](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124646213.png)
+2. $\forall \xi_i\in[x_{i-1},x_i]$
+	* $\Delta S_i \approx f(\xi_i)\Delta x_i \quad (1\leq i\leq n)$
+	* $S \approx \sum_{i=1}^n f(\xi_i)\Delta x_i$
 
-![image-20230515124751663](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124751663.png)
+3. $\lambda = \max \{\Delta x_1, \Delta x_2, ..., \Delta x_n\}$
+	* $S = \lim_{\lambda \to 0} \sum_{i=1}^n f(\xi_i)\Delta x_i$
 
-![image-20230515124814446](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124814446.png)
+例2.  $v=v(t)$，$t\in[a,b]$，$S=?$
 
-![image-20230515124835610](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124835610.png)
+1. $a=t_0<t_1<t_2<...<t_n=b$,
 
-![image-20230515124846133](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124846133.png)
+	* $[a,b]=[t_0,t_1]\cup[t_1,t_2]\cup...\cup[t_{n-1},t_n]$
+
+	* $\Delta t_i=t_i-t_{i-1} \quad (1\leq i\leq n)$
+
+2°. $\forall \xi_i \in [t_{i-1},t_i]$
+
+$\Delta S_i \approx v(\xi_i)\Delta t_i \quad (1 \leq i \leq n)$;
+
+$S \approx \sum_{i=1}^n v(\xi_i)\Delta t_i$;
+
+3°. $\lambda = \max{\Delta t_1, \Delta t_2,...,\Delta t_n}$
+
+$\therefore S = \lim_{\lambda \to 0}\sum_{i=1}^n v(\xi_i)\Delta t_i$
+
+定积分之定义
+ 设 $f(x)$ 在 $[a,b]$ 上有界。
+
+1°. $a=x_0<x_1<...<x_n=b$, $\Delta x_i=x_i-x_{i-1} \quad (1 \leq i \leq n)$; (分法) 
+
+2°. $\forall \xi_i \in [x_{i-1},x_i]$, $\sum_{i=1}^n f(\xi_i)\Delta x_i$; (取法)
+
+3°. $\lambda = \max{\Delta x_1, \Delta x_2,...,\Delta x_n}$
+
+若 $\lim_{\lambda \to 0}\sum_{i=1}^n f(\xi_i)\Delta x_i$ 存在，且 $f(x)$ 在 $[a,b]$ 上可积， 则称此极限为 $f(x)$ 在 $[a,b]$ 上的定积分，记作 $\int_a^b f(x)dx$。
+
+$\lim_{\lambda \to 0}\sum_{i=1}^n f(\xi_i)\Delta x_i = \int_a^b f(x)dx$
+
+Notes: 
+
+1. $L: y=f(x)\geq 0 \quad (a \leq x \leq b)$     则 $A = \int_a^b f(x)dx$;		$v=v(t) \quad (a \leq t \leq b)$  		则 $S = \int_a^b v(t)dt$
+
+1. $\lim_{\lambda \to 0}\sum_{i=1}^n f(\xi_i)\Delta x_i$ 与 $[a,b]$ 的分割及 $\xi_i$ 取法无关；换句话说, $\lim_{\lambda \to 0}\sum_{i=1}^n f(\xi_i)\Delta x_i$  与 [a,b] 间隔大小的取值 以及 $\xi_i$ 取法无关
+3. $f(x)$ 在 $[a,b]$ 上有界不一定可积。如：$f(x)=\begin{cases} 1, & x\in \mathbb{Q} \ , 0, & x\in \mathbb{R}\backslash\mathbb{Q} \end{cases}$
+
+
 
 ![image-20230515124905994](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124905994.png)
 
