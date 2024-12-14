@@ -64,17 +64,20 @@ Notes:
 
 
 
+
 ![image-20230515124905994](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124905994.png)
 
 ![image-20230515124924200](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124924200.png)
 
 ![image-20230515124936951](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124936951.png)
 
+4. 若 fx 在 区间内连续或只存在有限个第一类间断点, 则在 [a,b] 上可积
+
 ![image-20230515124947700](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515124947700.png)
 
-
-
 ### 第一节 定积分的概念与性质(二)
+
+
 
 ![image-20230515125007065](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515125007065.png)
 
@@ -93,6 +96,9 @@ Notes:
 ![image-20230515125756832](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515125756832.png)
 
 ![image-20230515125812865](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515125812865.png)
+
+
+
 
 ![image-20230515125850238](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515125850238.png)
 

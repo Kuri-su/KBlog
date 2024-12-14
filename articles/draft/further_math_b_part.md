@@ -1,4 +1,4 @@
-# Further Mathematic lecture (tongji) full notes (B part) cross Jiafeng Tang
+# Further Mathematic full notes cross Jiafeng Tang (B part) - Mean Value Theorems of Differential Calculus and Indefinite Integrals
 
 [TOC]
 
