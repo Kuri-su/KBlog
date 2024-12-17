@@ -112,7 +112,7 @@ Notes:
 
 ![image-20230515130108365](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515130108365.png)
 
-### 第二节 基本公式
+### 第二节 积分基本公式 - 积分标准计算公式 - 牛顿莱布尼兹公式
 
 ![image-20230515130130839](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515130130839.png)
 
@@ -125,6 +125,8 @@ Notes:
 ![image-20230515130251992](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515130251992.png)
 
 ![image-20230515130317161](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515130317161.png)
+
+积分上限函数
 
 ![image-20230515130328898](/Users/kurisuamatist/Library/Application Support/typora-user-images/image-20230515130328898.png)
 
