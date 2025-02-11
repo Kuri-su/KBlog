@@ -5,8 +5,8 @@ slug = "before25"
 categories = [ "life", "annual_summary" ]
 tags = [ "2025","life", "annual_summary" ]
 katex = false
-headline = "###TODO"
-headImgUrl = "###TODO"
+headline = "我觉得可能需要先再为我自己明确一下写这些文章的目的. 这些文章的意义是 首先梳理自己成长到...."
+headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/refs/heads/master/assets/2024-2025-header.png"
 
 +++
 
