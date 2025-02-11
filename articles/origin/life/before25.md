@@ -1,5 +1,5 @@
 +++
-date = "2025-02-12"
+date = "2025-02-11"
 title = "before25"
 slug = "before25"
 categories = [ "life", "annual_summary" ]
