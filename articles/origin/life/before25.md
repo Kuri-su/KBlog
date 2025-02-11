@@ -1,6 +1,6 @@
 +++
 date = "2025-02-11"
-title = "before25"
+title = "我流, means my way, before 25, before MY Golden Age"
 slug = "before25"
 categories = [ "life", "annual_summary" ]
 tags = [ "2025","life", "annual_summary" ]
