@@ -122,6 +122,8 @@ headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/refs/heads/master/
 
 我会是相对幸运的那一个吗? 如果你在某个证券商品上问我, 我会啞然失笑. 但这次我希望我是.
 
+我流.
+
 ## passage 2024 & 2025
 
 ### 2024
