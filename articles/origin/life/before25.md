@@ -44,7 +44,7 @@ headImgUrl = "https://raw.githubusercontent.com/Kuri-su/KBlog/refs/heads/master/
 
 相信自己的才能
 
-## passage   保持锐利
+## passage 5 -  保持锐利
 
 所谓的 "锐利", 我的理解是 在不断变动的周期中, 利用自己的主观能动性, 较高效的磨练自己的技能和认知, 不断的追求卓越 . 我的希望的 锐利 总结成关键字是如下这些: 
 
