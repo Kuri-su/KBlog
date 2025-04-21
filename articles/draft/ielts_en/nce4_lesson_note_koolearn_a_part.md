@@ -33,25 +33,26 @@
 * **saga** n. 长篇英雄传说 (叙事文)
   * **saga**: a prose narrative recorded in lceland in the Middle Ages. It's written about the Vikings of Norway and lceland.  (本意)
     * prose n. 散文
+      * prose narrative 叙事散文
     * Middle Ages early = Dark Ages 
       * Middle Ages (476 A.D. 西罗马帝国灭亡 到 1453 A.D. 东罗马帝国的覆灭)
-
+    
   * 近义词
     * **epic** n. 长篇的英雄诗歌 (史诗)
       * the Iliad  (伊利亚特(特洛伊的战争) - 荷马史诗)
       * Paradise Lost (失乐园) 
-
+  
     * **legend** n. 传说, 传奇 (更侧重民间传说, 野史)
       * → The **legend** of Robin Hood
       * → Robin Hood is a **legendary** hero.
         * legendary adj. 传说中的, 传奇的
-
+  
     * **myth / mythology** n. 神话 
       * myth 表示 神话故事 是可数的
       * mythology 表示 神话题材, 不可数
       * Greek **<u>myths</u> / <u>mythology</u>**
-
-* **migration** /maɪˈɡreɪʃn/ n. 迁移, 移居
+  
+* **migration** /maɪˈɡreɪʃn/ n. 迁移, 移居 (和国境无关)
   * **migrate** v. 迁移, 移居 (指人和动物皆可, 并且不分国境)
   * **migration** n. 迁徙的行为
   * **migrant** n. 迁徙的人, 迁徙的动物
