@@ -1930,7 +1930,10 @@
 **## text 1**
 
 * → I am always amazed **when I hear people saying <u>that sport creates goodwill between the nations,</u>and <u>that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield</u>.**
-  * 
+  * people**s** 表示民族， people 表示人们
+  * cricket 板球
+  * inclination 意愿
+
 
 
 **## text 2**
