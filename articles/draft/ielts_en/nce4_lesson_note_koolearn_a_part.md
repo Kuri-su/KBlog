@@ -1930,7 +1930,14 @@
 **## text 1**
 
 * → I am always amazed **when I hear people saying <u>that sport creates goodwill between the nations,</u>and <u>that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield</u>.**
-  * 
+  * people**s** 表示民族， people 表示人们
+  * cricket 板球
+  * inclination 意愿
+  * **amaze** sb. 惊讶 (使某人迷惑不解的)
+    * → (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they **were amazed** to find that the goddess turned out to be a very modern-looking woman.
+    * **surprise** sb. 惊讶 (无倾向)
+    
+
 
 
 **## text 2**
