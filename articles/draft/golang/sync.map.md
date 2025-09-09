@@ -1,4 +1,0 @@
-# Sync map
-
-[TOC]
-
