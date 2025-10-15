@@ -1926,7 +1926,6 @@
     * **show sb. up** 意思更窄, 主要是 某人做了某些丢人的事情, 让同行的人出丑了
       * → Mary's boyfriend **showed** her **up** by falling asleep at the concert.
 
-
 **## text 1**
 
 * → I am always amazed **when I hear people saying <u>that sport creates goodwill between the nations,</u>and <u>that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield</u>.**
@@ -1934,12 +1933,212 @@
   * cricket 板球
   * inclination 意愿
   * **amaze** sb. 惊讶 (使某人迷惑不解的)
+    * maze n. 迷宫
     * → (NCE3-3 P22-L14) When the archaeologists reconstructed the fragments, they **were amazed** to find that the goddess turned out to be a very modern-looking woman.
-    * **surprise** sb. 惊讶 (无倾向)
-    
+    * **surprise** sb. 惊讶, 使惊讶 (无倾向)
+    * **astonish** sb.  惊讶, 使惊讶 (because of something unbelievable)
+      * → (NCE2-46 P206-L5) He **was astonished** at what he found.A man was lying in the box on top of a pile of woolen goods.
+        * astonished at 是固定搭配
+        * pile 一堆
 
+    * **<u>astound</u>** / **<u>dumbfound</u>** sb.  (把某人惊呆了)
+      * dumb adj. 哑的; 傻的 
+        * dumb found 就发现之后傻了哑了
 
+      * → (NCE3-19 P86-L16) The police **were astounded** when Mrs. Ramsay told them what she had done.
+
+  * 两个并列的宾语从句 (... that .... and that ...) 的情况, 第一个 that 可以省略, 而第二个不行, 否则难以区分哪个是主句哪个是从句
+  * if only 有两种用法, 一个是直接引导简单句, 另一种用法是引导条件状语从句, 表达说话人的内心的一种盼望/希望, 但愿这个事情是真的就好了, 但是往往无法实现, 通常和虚拟语气连用
+    * → **If only** I **<u>were</u>** as clever as you are!
+    * → **If only** they **<u>were</u>** here now, we **<u>would</u>** be able to celebrate their wedding , anniversary.
+      * be 动词都用 were, 然后主句中用 would/should/might/.... + 动词原型
+      * A.K.A. if 从句的虚拟
+    * 辨析 **only if ....** , 就是普通的 if 从句, 表示只有...满足某个条件, 才能如何如何, 用真实语气
+      * → She will go **only if** Peter goes. 只有 Peter 去的时候, 她才去
+      * Only 放句首会引起部分倒装 (NCE3-5)
+        * → **Only if** Peter goes **<u>will</u>** she go.
+* → **Even if one didn't know from concrete examples (<u>the 1936 Olympic Games, 3 for instance</u>) that international sporting contests lead to orgies of hatred,** one could deduce it from general principles.
+  * Even if ... 引导让步状语从句, 表示即使...
+  * contest 如果是单数具体指某个赛事, 多指 有裁判组打分的赛事, 如果是泛指的话, 可以泛指任何赛事, 尤其是竞技体育的赛事
+  * lead to 导致
+  * deduce 推导
+  * even if .... / even though ... 的区别, 两者都是让步
+    * even if 表示对假设的让步, 翻译成即使
+      * → **Even if** you dislike ancient monuments, Warwick Castle is worth a visit. 即使你不喜欢城堡, 华威城堡依旧值得一去
+    * even though 表示对既成事实的让步, 翻译成尽管
+      * → **Even though** you dislike ancient monuments, Warwick Castle is worth a visit. 尽管你不喜欢城堡, 华威城堡依旧值得一去
+    * 上述两个例句的细节上的区别, 一个可能两个人比较相熟(even though), 一个是两个人可能不熟(even if)
+  *  **concrete / solid** adj. 具体的, 实实在在的  n. 混凝土
+    * solid 结实的; 实心的; 具体的, 确凿的
+    * **solid / concrete** examples/conditions 具体的例子, 具体的条件
+    * 反义词
+      * abstract adj. 抽象的
+        * → Beauty itself is **abstract**. 美, 本身, 是抽象的
+  * 某人正在当权 可以用  sb. is in authority
+    * authority n. 权威, 权力, 
+      * in authority 正在当政
+  * see A as B, 把 A 看成是 B
+  * fascist 法西斯
+  * ideology n. 思想体系
+  * take advantage of 利用; 占某人的便宜
+    * advantage  处于优势地位; 优点
+    * adventure 冒险
+    * advanced 先进的; 高级的
+  * advertise 宣传
+  * blond 淡金色的
+  * disgraced adj. 丟脸的，耻辱的，不光彩的
+  * hatred n. 仇恨, 敌意
+  * **<u>orgies of ...</u> / <u>an orgy of ...</u>** 疯狂的; 过度的; 没有节制的
+    * orgy n. 疯狂, 放纵; 古罗马一种纵酒淫乐的聚会叫做 orgy
+    * **orgies of** hatred 疯狂的敌意
+    * **an orgy of** killing 一次疯狂的杀戮
+    * **an orgy of** spending before Christmas 圣诞节前的疯狂购物
+    * 同义词
+      * **<u>binge</u> / <u>spree</u>** n. 放纵 (一般用在固定搭配里)
+        * go on sth. binge/spree 疯狂的做某事
+        * → He **went on a drinking binge** over the weekend. 他在周末疯狂的喝酒
+        * → The girls **went on a shopping spree** on Saturday. 女孩子们疯狂的在周六购物
 
 **## text 2**
 
-* 
+* **practise / practice** v. 经常做, 从事; 练习 
+  * **practice** n. 常规; 习俗, 惯例
+    * → (NCE3-23 P114-L5) On the other hand, your stomach would turn at the idea of frying potatoes in animal fat-the normally accepted **practice** in many northern countries.
+  * British English:
+    - noun: practice
+    - verb: practise
+  * American English:
+    - noun & verb: practice
+* **do/try one's utmost to do** [高频] 尽某人最大的努力
+  * 同义
+    * **do/try one's best to do ** 
+      * → (NCE3-29 P138-L15) Though the doctor **did his best**, the patient's recovery was slow.
+    * **go to great lengths to do** 竭尽全力做某事
+      * → (NCE3-28 P134-L11) The man **went to great lengths to** prove that the diamonds were real.
+    * **endeavor(美式) / endeavour(英式) to do**
+      * → (NCE4-13 P76-L12) We **endeavour to** avoid the old, romantic idea of a gusher, which wastes oil and gas.
+    *  **spare no effort to do**  不遗余力的做某事
+      * → China will **spare no effort to** realize peaceful reunification.
+    * 通俗版本
+      * **give one's all to do**   竭尽全力做某事(全都给了)
+      * **go all out to do** 竭尽全力做某事 (全都使出去了)
+        * →  W: Look at the delicious sandwiches. John's really gone all out this time. M: Just wait until you see the dessert.
+          * Just wait until .... 表示吊胃口, 现在这种语境下表示后面的更好, 需要看后面说什么表示倾向
+            * →  Part 1 of the movie was amazing. **Just wait until you see** Part 2.
+* little meaning 没什么意义
+* → On the village green, **<u>where you pick up sides and no feeling of local patriotism is involved</u>**, it is possible to play simply for the fun and exercise: <u>but</u> **as soon as the question of prestige arises, as soon as you feel <u>that you and some larger unit will be disgraced if you lose</u>**, the most savage combative instincts are aroused.
+  * the village green 乡间的绿地
+  * pick up sides 一群人 随便组织两个队伍
+  * patriotism 爱国主义
+    * local patriotism 地方的爱国主义, 地域主义
+  * prestige 声望, 声誉
+    * **question of prestige** 声誉问题
+      * **question of pride** 面子问题(不要翻译成骄傲问题)
+      * **question of time** 时间问题
+        * → She is so talented and diligent that her success is only a question of time.
+      * **matter of ... ...的事(和question of .... 是一个意思)**
+        * → (NCE4-33 P195-L20) Education in the wilderness is not a **matter of monetary means.** 荒野中的教育不是钱的问题(不是...的事)
+        * → It's only a **matter of time.** 这只是个迟早的事/这只是个时间上的事= It's only a **question of time.**  这只是时间问题
+        * → It's a **matter of personal taste**. 这只是个人品味的事/品味的问题
+        * → It's a **matter of preference.** 这是个爱好问题
+        * → It's a **matter of interest.** 这是个兴趣问题
+        * → It's a **matter of life and death.** 这是一个生死攸关的问题
+        * → I can't take the money. It's a **matter of principle.** 我不能拿这个钱, 这是个原则问题
+  * **arise arose arisen** vi. 问题或者困难出现了
+    * pharse:
+      * **arise from ...** (矛盾/问题) 是由哪里产生的
+        * → The conflict **arose from** tensions between different ethnic groups.
+          * ethnic 种族的
+            * ethic 伦理, 道德
+          * tension n. 紧张
+  * **arouse** vt. 激发, 激起
+    * **arouse** <u>interest</u> / <u>hostility</u> / <u>resentment</u> 
+  * as soon as 引导 时间状语从句, 一旦...就...
+    * as soon as 一旦⋯就⋯.
+    * as long as 只要⋯就⋯.
+    * as far as 就⋯.而言
+  * unit n. 组织,  group; organization
+  * savage 野蛮的
+  * combative 好斗的
+  * instinct 本能
+* → At the international level, sport is frankly mimic warfare.
+  * frankly adv. 坦白地, 直率地; 老实说, 坦白的说
+  * mimic 模仿, 模拟; 模拟的
+  * warfare n. 战争; 冲突
+    * warfare 表示战争的时候, 多表示战争的种类, 多当抽象词
+    * 常见搭配
+      * germ **warfare** 细菌战
+      * jungle **warfare** 丛林战
+      * nuclear **warfare** 核战
+      * chemical **warfare** 化学战
+      * guerrilla **warfare** 游击战
+        * guerilla / guerrilla n. 游击队员
+        * gorilla n. 大猩猩
+      * psychological **warfare** 心理战
+* → But the significant thing is <u>not</u> the behaviour of the players <u>but</u> the attitude of the spectators: and, behind the spectators, of the nations **who work themselves into furies over these absurd contests, and seriously believe at any rate for short periods <u>that running, jumping and kicking a ball are tests of national virtue</u>.**
+  * **not .... but ...** 不是....., 而是....
+    * **not that ... but that ...** 不是因为..而是因为...
+      * → **Not that** I love Caesar less, **but that** I love Rome more. ----- Shakespeare 'Julius Caesar'
+      * → **Not that** I love you less, **but that** I love liberty more.
+      * → **Not that** I love my teacher less, **but that** I love truth more.
+    * **it is not that ... but (that)...** 不是因为...., 而是因为....
+      * → (NCE3-57 P256-L15) **It was not that** I actually remembered anything at all. **But** my father had described over and over again what we should see at every milestone, after leaving the nearest town ...
+      * → **It is not that** the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working: **but that** the latter is a much finer apparatus and of course much more accurate in its measurement than the former.
+    * 辨析
+      * **It is .. <u>that</u> / <u>who</u>...,not...**  是 这个, 而不是 那个
+        * it's ... that/who ... ,not ... 是not ... but ... 反过来意思
+        * → (NCE4-5 P29-L2) **It is** older people **who** create it, **not** the young themselves.
+        * → **It is** the attitude of the spectators **that** is significant, **not** the behavior of the players. (改写句型)
+        * → **It is** the attitude of the spectators <u>**that** is significant</u> / <u>**that** is of significance</u>, **not** the behavior of the players.
+          * 辨析 significant 和  of significance
+            * 第二种写法更加正式, 更书面
+            * of significance 带“抽象属性”的味道，像在谈“重要性这一属性”的存在与大小，有时显得更客观、去人称。
+        * → **It is** the attitude of the spectators <u>**that** is significant</u> / <u>**that** is of significance</u> / <u>**that** matters</u> / <u>**that** counts</u>, **not** the behavior of the players.
+          * → **It is** the thought **that** counts.
+            * thought 在这里就表示心意, 
+            * counts 表示“才是关键/起作用/算数”。
+  * **spectator** 观众
+    * 多指体育比赛的观众 , 一般是坐的地方高, 往下看
+    * 多指一个观众, 一个一个的数
+    * 辨析
+      * **audience** 观众 
+        * 多指看电影的, 听音乐会的, 听讲座的观众
+        * 一般是坐的地方低, 往上看
+        * 多指一群观众, 一群一群的数
+      * **viewer** 多指电视观众
+        * 出现在 统计收视率之类的场景
+      * **onlooker** / **looker-on** 旁观者, 看热闹的
+  * **work sb. into...** 使某人产生某种情绪
+    * → He **worked** himself **into** a rage.
+    * → He **worked** his audience **into** enthusiasm. 他让台下的观众充满热情
+  * **at any rate** 有两个含义
+    1. 无论如何 = **in any <u>case</u>/ <u>event</u>** = **come what any**
+       * **~**, we must go on Tuesday
+    2. 至少 = **at least** 
+       * They felt, or **~** Dan felt, both relieved and frightened.
+  * **fury** n. 狂怒, 暴怒
+    * 和 rage 同义
+  * **absurd** adj. 荒唐的
+  * **virtue** n. 人的品德; 好的素质
+    * 同一个名词, 很多 一抽象就不可数, 一具体就可数了
+* → For example, Hitler saw the Olympics as a test of the Aryan racial superiority.
+* → But the author argue that **sport is only for sport**; it has nothing to do with prestige or national virtue and it won't create goodwill between the nations.
+
+## L7 Bats
+
+## words
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
