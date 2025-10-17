@@ -1,4 +1,16 @@
-# NCE 3 Lesson Note koolearn part D (yanlong lee)
++++
+date = "2023-08-29"
+title = "NCE 3 Lesson Notes Part D (yanlong li)"
+slug = "nce3_lesson_notes_part_d"
+categories = [ "gist" ]
+tags = [ "gist","english_learning","NCE_notes" ]
+katex = false
+headline = "NCE 3 Lesson Notes (Part D)"
+
++++
+
+
+# NCE 3 Lesson Notes Part D (yanlong li)
 
 [TOC]
 
