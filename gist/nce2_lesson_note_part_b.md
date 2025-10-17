@@ -5,7 +5,7 @@ slug = "nce2_lesson_notes_part_b"
 categories = [ "gist" ]
 tags = [ "gist","english_learning","NCE_notes" ]
 katex = false
-headline = "NCE 2 Lesson Notes (Part B)"
+headline = "NCE 2 Lesson Notes (Part B) L49-L96"
 +++
 
 

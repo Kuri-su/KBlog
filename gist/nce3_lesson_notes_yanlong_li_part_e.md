@@ -5,7 +5,7 @@ slug = "nce3_lesson_notes_part_e"
 categories = [ "gist" ]
 tags = [ "gist","english_learning","NCE_notes" ]
 katex = false
-headline = "NCE 3 Lesson Notes (Part E)"
+headline = "NCE 3 Lesson Notes (Part E) L50-L60"
 
 +++
 
