@@ -1,3 +1,14 @@
++++
+date = "2023-03-05"
+title = "NCE 2 Lesson Notes (Part B)"
+slug = "nce2_lesson_notes_part_b"
+categories = [ "gist" ]
+tags = [ "gist","english_learning","NCE_notes" ]
+katex = false
+headline = "NCE 2 Lesson Notes (Part B)"
++++
+
+
 # NCE 2 Lesson Notes (part B)
 
 [TOC]

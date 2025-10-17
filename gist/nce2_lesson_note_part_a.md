@@ -3,7 +3,7 @@ date = "2023-01-30"
 title = "NCE 2 Lesson Notes (Part A)"
 slug = "nce2_lesson_notes_part_a"
 categories = [ "gist" ]
-tags = [ "gist","english_learning" ]
+tags = [ "gist","english_learning","NCE_notes" ]
 katex = false
 headline = "NCE 2 Lesson Notes (Part A)"
 
