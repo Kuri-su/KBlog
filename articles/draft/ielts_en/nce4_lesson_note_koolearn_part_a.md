@@ -2126,7 +2126,73 @@
 
 ## L7 Bats
 
-## words
+**## words**
+
+* **utilitarian** adj. 实用主义的
+  * **utilitarian** adj. designed to be useful rather than attractive (略有贬义味道)
+  * ugly **utilitarian** buildings 丑陋而又实用的建筑
+  * **utilitarian** furniture 实用主义建筑
+  * * utility+"**<u>tarian</u>**" 重要字根
+      * **-tarian** (主义的; 主义者)
+        * **vegetarian** 素食主义的;素食主义者
+        * **totalitarian** adj. 极权主义的; n. 极权主义者
+          * → Germany was once a **totalitarian** state.
+        * **humanitarian** 人道主义的; 人道主义者
+        * **egalitarian** adj. 平等主义的; n. 平等主义者
+          * equal
+          * → an **egalitarian** attitude to voting
+* **elapse** v. 时间流逝
+  * → Three years **elapsed**
+  * 同义词: **<u>go by</u>** / **<u>pass</u>**
+    * → Three years **<u>went by</u>** / **<u>passed</u>**
+  * **"<u>-lapse</u>" = slide** 滑动 (重要字根)
+    * **collapse** 倒塌, 坍塌
+    * **relapse** 倒退, 退步
+* **interval** n. (两件事之间的) 间隔时间
+  * **interval between A and B** A和 B两件事之间的间隔时间
+  * **at .... intervals** 每隔多久
+    * **at** <u>weekly</u>/<u>20 minute</u> **intervals** 每周的/ 每20分钟的
+    * → The trains run **at** hourly **intervals**. 列车每隔一个小时发一趟
+    * → (NCE4-46 P269-L1) Indeed, it may well be that those work is their pleasure are those who most need the means of banishing it **at intervals** from their minds.
+
+* **shoal** n. 鱼群(量词)
+  * a **<u>school</u>** / **<u>shoal</u>** of fish 鱼群
+  * 量词
+    * a **flock** of <u>sheep</u> / <u>pigeons</u> 羊群, 鸟群
+    * a **herd** of cattle / deer / elephants 牛群, 鹿群, 大象群
+      * cattle 本身就是复数
+      * deer 单复数同行
+      * elephant 单数
+
+    * a **drove** of horses / cattle / sheep 赶着的一群马/ 一群牛 / 一群羊
+    * a **pack** of wolves / tigers / lions 狼群/ 虎群/ 狮群
+    * a **swarm** of flies / bees 一群苍蝇, 一群蜜蜂
+    * a **colony** of ants / termites 一群蚂蚁, 一群白蚁
+
+
+**## text 1**
+
+* **科技英语的特点**
+  1. 倾向于将动词名词化
+  2. 倾向于更多地使用被动语态
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
