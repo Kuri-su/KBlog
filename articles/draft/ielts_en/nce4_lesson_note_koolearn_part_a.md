@@ -2176,7 +2176,115 @@
   1. 倾向于将动词名词化
   2. 倾向于更多地使用被动语态
 
+* → Not all sounds **<u>made by animals</u>** serve as language, <u>and</u> we <u>have only to</u> turn to that extraordinary discovery of echo-location in bats <u>to</u> see a case **in which the voice plays a strictly utilitarian role.** 
+  * 部分否定
+    * **not** 与全部肯定词 **all**, **every**, **everything**, **everyone**, **both** 连用，<u>多</u>表示**部分否定**.
+      * 表示部分否定的情况
+        * → **All** that glitters is **not** gold. (Shakespeare: The Merchant of Venice) 闪光的不都是金子 (不要翻译成 全部闪光的都不是金子)
+          * glitters 闪烁的
+        * → **Not every** sound made by animals serve**<u>s</u>** as language. 并不是所有的动物发出的声音都是当作语言来使用的(不要翻译成 所有的动物发出的声音都不是当作语言来使用的)
+      * 完全否定 和 部分否定 的情况都成立
+        * → **All** of the arrows **didn't** hit the target.
+          * 以下两种翻译都成立, 需要从逻辑和上下文进行判断
+            * 并非所有的箭都命中了靶子
+            * 所有的箭都没有命中靶子
+      * 完全否定的句子
+        * → **All** civilized people **can't** be cannibals. 所有的文明人都不可能吃同类 (不要翻译成 并非所有的文明人都不可能吃同类)
+          * cannibal 同类相食的动物; 食人族
+        * → **Not all** the water in rough rude sea can wash the balm off from an anointed king. 所有汹涌澎湃的沧海之水都洗不掉国王头上的芬芳 (不要翻译成 并非所有汹涌澎湃的沧海之水都洗不掉国王头上的芬芳)
+          * rough rude sea 汹涌澎湃的沧海
+          * balm 芬芳, 香味
+          * anoint 施涂油礼; 选定
+      * 完全否定词(避免歧义)
+        * **None**
+          * → **None** of the arrows hit the target. 没有一只箭击中了靶子
+  * **serve as ....** 可用作....., 当作什么来用
+    * → (NCE3-25 P122-L1) One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich. She stands on dry land and is visited by thousands of people each year. She **serves as** an impressive reminder of the great ships of past.
+    * = **be used as ....** 被用作....
+    * = **act as ....**  充当…, 起..作用
+    * = **function as...** 起.作用，具有....功能
+  * **have only to** 只需要做某事
+    * **have to** 必须得做某事
+    * **have only to do ... to do ...** 只须 ... 就可以 ...
+      * → You **have only to** press the button **to** call the nurse.
+      * → You **have only to** click the following link **to** download the software.
+    * **have only to turn to sth. to do ...** 只需借助于...就可以⋯⋯
+      * 造句：我们只需借助于1936年奥运会的具体例子就可以知道国际体育比赛会导致疯狂的仇恨。
+      * → We have only to turn to the concrete example of the 1936 Olympic Games to know that international sporting contests lead to orgies of hatred.
+  * **turn to** 求助于, 诉诸于, 借助于
+  * **strictly** adv. exactly and completely 完全地 ; 严格地
+    * → She is **strictly** a beauty. 她完全是个美女 (不能翻译成她严格地是个美女)
+    * → It's **strictly** a, neutral organization. 这完全是个中立的组织
+  * **play a ... <u>role</u> / <u>part</u> in sth.** ⭐️ 在某事中发挥着什么作用
+    * → (NCE3-56 P252-L1) The river which forms the eastern boundary of our farm has always **played an important part in** our lives.
+    * → The government should **play a more prominent part in** promoting human rights.
+      * **prominent** 突出的, 显著的
+    * → (NCE4-15 P87-L9) This applies particularly to chemical industries, where chance discoveries **play a much larger part** than they do **in** physical and mechanical industries.
+    * → (NCE4-44 P257-L5) The fact of firstrate importance is **the predominant role** that custom **plays in** experience and **in** belief, and the very great varieties it may manifest.
+    * → (NCE4-44 P257-L10) John Dewey has said in all seriousness that **the part played** by custom **in** shaping the behavior of the individual, <u>as against</u> any way in which he can affect traditional custom, <u>is as</u> the proportion of the total vocabulary of his mother tongue <u>against</u> those words of his own baby talk that are taken up into the vernacular of his family.
 
+**## text 2**
+
+* → **To get a full appreciation of <u>what this means</u>** we must turn first to some recent human inventions.
+
+  * **appreciation** 熟词僻意, 这里要翻译成理解
+    * 冷僻的含义往往就越文言, 书面语中的含义, 往往就不是最常见的那个
+
+      * → There is, I think, much truth in Patricia Nelson Limerick's observation that "lecturing is an unnatural act, an act for which God did not design human." 演讲的这个技能不是本能, 需要后天培训
+
+        * **much truth in** 表示很有道理 (不要翻译成 有很多真实在里面)
+        * **observation** 熟词僻意, 某人评论说
+      * → With, the start of BBC World Service Television, millions of viewers in  Asia and America can now watch the Corporation's <u>news</u> **coverage**, as well as listen to it.
+        * **news coverage** 新闻报道
+          * **coverage** 熟词僻意, 新闻报道
+      * → Social science **disciplines** include geography, economics, political science, psychology, and sociology.
+        * disciplines 纪律; 学科
+      * → "The test of any democratic society," he wrote in a Wall Street Journal column, "lies not in how well it can control expression but in whether it gives freedom of thought and expression the widest possible **latitude**, however disputable or irritating the results may sometimes be.
+        * **latitude** 纬度
+          * 僻意 自由
+        * lies in sth. 在... 之中, 位于...
+        * not ... but ... 不是.... 而是...
+        * disputable 可质疑的
+    * 如果使用 ... to fully appreciate what this means ...  就不如原文更加正式和庄重
+  * **turn to ...**  必须借助于, 求助于
+    * **resort to ...** 求助于, 诉诸于(往往是一个令人不愉快的, 不得已的, 最后的手段)
+      * → We can solve this problem without **resorting to** legal action.
+
+* → Everyone knows **that <u>if he shouts in the vicinity of a wall or a mountainside</u>, an echo will come back.**
+
+  * **mountainside** 山坡, 山腰
+  * **in the vicinity of ...** 在 临近地区
+    * **vicinity** 临近地区
+    * 近义词
+      * **in the neighborhood of ...** 在... 附近
+      * **close to ....**
+      * **adjacent to ...**
+      * **near ...**
+      * **off ...**
+        * → I rent an apartment **off** campus.
+        * 如果是要表示公寓在校园中, 不使用 of 而是用 on, 如果听到 "of campus" 的话, 一定是 off campus(校园附近) 而不是 of campus(校园里)
+          * → I rent an apartment **on** campus.
+
+        * 听力题
+          * M: Will you be living in the <u>dormitory</u> this year? 
+          * W: Not if I can <u>help</u> it. I've been thinking of renting an apartment off campus with some friends of mine.
+            * <u>dormitory</u> 美式: 宿舍楼 英式: 宿舍的房间
+            * <u>help</u> 僻意,避免
+            * <u>housing</u>  住处(不可数)
+              * house 房子(可数)
+
+  * **come back** 
+    * 同义
+      * **bounce back** 反弹回来
+      * **be reflected** 被反射回来
+        * → (NCE4-7 P41-L5) A sound made by tapping on the hull of a ship will **be reflected** from the sea bottom, ...
+          * hull 船壳
+
+* → **The further off this solid obstruction**, the longer <u>time</u> will elapse <u>for the return of the echo.</u>
+
+  * 
+
+  
 
 
 
